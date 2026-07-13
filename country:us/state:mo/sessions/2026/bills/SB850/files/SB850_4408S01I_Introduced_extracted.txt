@@ -1,0 +1,1352 @@
+Title: SENATE BILL NO. 850
+Official Title: SENATE BILL NO. 850
+Number of Sections: 1
+Source: versions - 4408S.01I - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 20 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR MAY.
+4408S.01I KRISTINA MARTIN, Secretary
+AN ACT
+To amend chapter 313, RSMo, by adding thereto six new sections relating to video lottery, with
+penalty provisions.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Chapter 313, RSMo, is amended by adding thereto
+2 six new sections, to be known as sections 313.425, 313.427,
+3 313.429, 313.431, 313.433, and 313.435, to read as follows:
+1 313.425. Sections 313.425 to 313.435 shall be known
+2 and may be cited as the "Missouri Video Lottery Control Act"
+3 and shall establish the regulatory framework for the use of
+4 player-activated video terminals for the conduct of lottery
+5 games.
+1 313.427. As used in sections 313.425 to 313.435, the
+2 following words and phrases shall mean:
+3 (1) "Centralized computer system", a computerized
+4 system developed or procured by the commission that video
+5 lottery game terminals are connected to using standard
+6 industry protocols that can activate or deactivate a
+7 particular video lottery game terminal from a remote
+8 location, and that is capable of monitoring and auditing
+9 video lottery game plays;
+10 (2) "Commission" or "lottery commission", the five-
+11 member body appointed by the governor to manage and oversee
+12 the lottery under section 313.215;
+SB 850 2
+13 (3) "Veterans' organization", a post or organization
+14 of veterans, or an auxiliary unit or society of, or a trust
+15 or foundation for, any such post or organization organized
+16 in the United States or any of its possessions in which at
+17 least seventy-five percent of the members are veterans of
+18 the United States Armed Forces and substantially all of the
+19 other members are individuals who are veterans or are
+20 cadets, or are spouses, widows, or widowers of war veterans
+21 of such individuals, in which no part of the net earnings
+22 inures to the benefit of any private shareholder or
+23 individual, and which has been exempted from payment of
+24 federal income taxes;
+25 (4) "Video lottery game", any lottery game approved by
+26 the commission for play on a video lottery game terminal
+27 using video lottery game terminal credits that have been
+28 purchased with cash, cash equivalents, or by a winning video
+29 lottery game terminal ticket;
+30 (5) "Video lottery game adjusted gross receipts", the
+31 total of cash or cash equivalents used for the play of a
+32 video lottery game on a video lottery game terminal minus
+33 cash or cash equivalent paid to players as a result of
+34 playing video lottery games on a video lottery game terminal;
+35 (6) "Video lottery game distributor", a person
+36 licensed by the commission to buy, sell, lease, rent,
+37 finance, or otherwise provide, distribute, or service video
+38 lottery game terminals or major parts and components of
+39 video lottery game terminals, including used or refurbished
+40 video lottery game terminals to and from licensed video
+41 lottery game manufacturers and licensed video lottery game
+42 operators;
+43 (7) "Video lottery game handler", a person employed by
+44 a licensed video lottery game operator to handle, place,
+SB 850 3
+45 operate, and service video lottery game terminals and
+46 associated equipment;
+47 (8) "Video lottery game manufacturer", any person that
+48 manufactures video lottery game terminals or major parts and
+49 components for video lottery game terminals as approved by
+50 the lottery commission;
+51 (9) "Video lottery game operator", a person licensed
+52 by the commission that owns, rents, or leases and services
+53 or maintains video lottery game terminals for placement in
+54 licensed video lottery game retailer establishments;
+55 (10) "Video lottery game retailer", a person meeting
+56 the requirements of a lottery game retailer under section
+57 313.260, that secures and maintains a license issued by the
+58 commission to conduct video lottery games played on a video
+59 lottery game terminal or terminals and that is a veterans'
+60 organization, or business entity licensed under chapter 311
+61 to sell liquor by the drink and that only allows patrons
+62 over the age of twenty-one to enter;
+63 (11) "Video lottery game terminal", player-activated
+64 terminal that exchanges coins, currency, tickets, ticket
+65 vouchers, or other electronic payment methods approved by
+66 the commission for video lottery game terminal credits used
+67 to play video lottery games approved by the commission.
+68 Such video lottery game terminals shall use a video display
+69 and microprocessor capable of randomly generating the
+70 outcome of video lottery games and be capable of printing a
+71 ticket at the conclusion of any video lottery game play that
+72 is redeemable at a video lottery game ticket redemption
+73 terminal or reinserted into a video lottery game terminal
+74 for video lottery game credit. All video lottery games
+75 approved by the commission for play on a video lottery game
+SB 850 4
+76 terminal shall have a minimum theoretical payout of eighty-
+77 five percent;
+78 (12) "Video lottery game terminal credit", one cent,
+79 five cents, ten cents, or twenty-five cents either won or
+80 purchased by a player on a video lottery game terminal that
+81 is used to play video lottery games and that may be
+82 converted into a video lottery game ticket;
+83 (13) "Video lottery game ticket" or "ticket", a
+84 document printed at the conclusion of any lottery game play
+85 or group of plays on a video lottery game terminal that is
+86 redeemable for cash utilizing a video lottery game ticket
+87 redemption terminal or that may be reinserted into a video
+88 lottery game terminal in the establishment for which it was
+89 issued for video lottery terminal game play credit;
+90 (14) "Video lottery game ticket redemption terminal",
+91 the collective hardware, software, communications
+92 technology, and other ancillary equipment used to facilitate
+93 the payment of tickets cashed out by players as a result of
+94 playing a video lottery game terminal.
+1 313.429. 1. The commission shall implement a system
+2 of video lottery game terminals utilizing a licensing
+3 structure for processing license applications and issuing
+4 licenses to video lottery game manufacturers, video lottery
+5 game distributors, video lottery game operators, video
+6 lottery game handlers, and video lottery game retailers for
+7 the conduct of lottery games utilizing video lottery game
+8 terminals within the state; except that, a person licensed
+9 as a:
+10 (1) Video lottery game manufacturer or a video lottery
+11 game distributor shall not be issued a license as a video
+12 lottery game operator or a video lottery game retailer;
+SB 850 5
+13 (2) Video lottery game operator shall not be issued a
+14 license as a video lottery game manufacturer or a video
+15 lottery game distributor; and
+16 (3) Video lottery game retailer shall not be issued a
+17 license as a video lottery game manufacturer or a video
+18 lottery game distributor.
+19 Nothing in this subsection shall prevent a video lottery
+20 game manufacturer from obtaining a video lottery game
+21 manufacturer's license and a video lottery game
+22 distributor's license and providing and operating the
+23 centralized computer system for monitoring video lottery
+24 game terminals, and nothing in this subsection shall prevent
+25 a video lottery game operator from obtaining a video lottery
+26 game retailer's license or a video lottery game retailer
+27 from obtaining a video lottery game operator's license,
+28 provided the applicant meets the requirements for all such
+29 licenses.
+30 2. Under no circumstances shall the commission:
+31 (1) Authorize or allow a single vendor or licensee to
+32 implement the system of video lottery game terminals created
+33 under this section;
+34 (2) Allow a single licensed video lottery game
+35 operator to control or operate more than twenty-five percent
+36 of video lottery game terminals in the state; or
+37 (3) Allow a single licensed video lottery game
+38 manufacturer or distributor to manufacture or distribute
+39 more than twenty-five percent of video lottery game
+40 terminals in the state.
+41 3. (1) The video lottery game system authorized by
+42 this section shall allow for multiple video lottery game
+43 manufacturers, video lottery game distributors, and video
+SB 850 6
+44 lottery game operators to encourage private sector
+45 investment and job opportunities for Missouri citizens.
+46 Video lottery game terminals shall be connected to a
+47 centralized computer system developed or procured by the
+48 commission. The commission shall provide licensed video
+49 lottery game operators with the necessary protocols to
+50 connect the operators' video lottery game terminal or
+51 terminals to the centralized computer system after such
+52 terminal or terminals have been approved by the commission.
+53 No video lottery game terminal shall be placed in operation
+54 without first connecting to the centralized computer system
+55 after such terminal or terminals have been approved by the
+56 commission. A vendor that provides the centralized computer
+57 system authorized under this subsection shall not be
+58 eligible to be licensed as a video lottery game operator or
+59 video lottery game retailer. The commission may impose an
+60 initial nonrefundable license application fee as follows:
+61 (a) For video lottery game manufacturers, video
+62 lottery game distributors, and video lottery game operators,
+63 no more than fifty thousand dollars;
+64 (b) For video lottery game retailer establishments, no
+65 more than five hundred dollars; or
+66 (c) For video lottery game handlers, no more than one
+67 hundred dollars.
+68 (2) The initial license and first subsequent license
+69 renewal shall be for a period of one year. Thereafter,
+70 license renewal periods shall be four years with the
+71 applicable annual renewal fee paid for each year such
+72 license is renewed. Annual license renewal fees for anyone
+73 licensed pursuant to this subsection shall be as follows:
+74 (a) Five thousand dollars for video lottery game
+75 manufacturers and video lottery game distributors;
+SB 850 7
+76 (b) Five thousand dollars for video lottery game
+77 operators;
+78 (c) Fifty dollars for video lottery game handlers; and
+79 (d) Five hundred dollars for each video lottery game
+80 retailer's establishment.
+81 (3) In addition to the license fees required in
+82 subdivisions (1) and (2) of this subsection, video lottery
+83 game operators shall pay the commission an annual license
+84 fee of two hundred dollars for each video lottery game
+85 terminal placed in service. Such video lottery game
+86 terminal license shall be renewed each year and cost two
+87 hundred dollars. A license issued under this subsection is
+88 nontransferable.
+89 (4) Nothing in this subsection shall be construed to
+90 relieve the licensee of the affirmative duty to notify the
+91 commission of any change relating to the status of the
+92 license or to any other information contained in the
+93 application materials on file with the commission.
+94 4. No license shall be issued to any person, and no
+95 person shall be allowed to serve as a sales agent, who has
+96 been convicted of a felony or a crime involving illegal
+97 gambling.
+98 5. No license requirement, sticker fee, or tax shall
+99 be imposed by any local jurisdiction upon a video lottery
+100 game manufacturer, video lottery game distributor, video
+101 lottery game operator, video lottery game retailer, video
+102 lottery game handler, or video lottery game terminal or an
+103 establishment relating to the operation of video lottery
+104 games, video lottery game terminals, or associated equipment.
+105 6. (1) Video lottery game terminals shall meet
+106 independent testing standards approved by the commission, as
+107 tested by one or more approved independent test labs, and be
+SB 850 8
+108 capable of randomly generating the outcome of video lottery
+109 games approved by the commission. Video lottery game
+110 terminals shall be capable of printing a ticket redeemable
+111 for winning video lottery game plays. Such video lottery
+112 game terminals shall be inspected and approved by the
+113 commission prior to being sold, leased, or transferred.
+114 (2) Licensed video lottery game manufacturers may buy,
+115 sell, or lease new or refurbished video lottery game
+116 terminals to and from licensed video lottery game
+117 distributors.
+118 (3) Licensed video lottery game distributors may buy,
+119 sell, or lease new or refurbished video lottery game
+120 terminals to or from licensed video lottery game
+121 manufacturers or licensed video lottery game operators.
+122 7. (1) Licensed video lottery game operators:
+123 (a) May buy, lease, or rent video lottery game
+124 terminals from licensed video lottery game manufacturers,
+125 operators, or distributors;
+126 (b) May handle, place, and service video lottery game
+127 terminals;
+128 (c) Shall connect such video lottery game terminals to
+129 the centralized computer system approved by the commission;
+130 and
+131 (d) Shall pay winning tickets using a video lottery
+132 game ticket redemption terminal. Such video lottery ticket
+133 redemption terminal shall be located within the video
+134 lottery game retailer's establishment in direct proximity of
+135 where such video lottery games are offered. Video lottery
+136 game operators shall pay the commission thirty-two percent
+137 of any unclaimed cash prize associated with a winning ticket
+138 that has not been redeemed within one year of issue.
+SB 850 9
+139 Rents or leases for video lottery game terminals shall be
+140 written at a flat rate and shall not include revenue
+141 splitting as a method used in the calculation of the lease
+142 or rent.
+143 (2) Licensed video lottery game operators and licensed
+144 video lottery game retailers may enter into a written
+145 agreement for the placement of video lottery game
+146 terminals. The agreement shall be on a form approved by the
+147 commission and shall specify a freely negotiated and agreed
+148 upon division of adjusted gross receipts between the video
+149 lottery game operator and the video lottery game retailer
+150 after adjustments for taxes and administrative fees are
+151 made. A video lottery game operator shall be responsible
+152 for remitting to the commission and the video lottery game
+153 retailer its share of adjusted gross receipts. Video
+154 lottery game retailers that are also video lottery game
+155 operators and licensed video lottery game operators that are
+156 also video lottery game retailers shall only be required to
+157 submit an agreement pursuant to this subdivision if the
+158 ownership is not identical in both entities. Nothing in
+159 this subdivision shall prohibit a licensed video lottery
+160 game operator from entering into an agreement with a sales
+161 agent for retailer agreements provided such agreement is in
+162 writing and approved by the commission. No video lottery
+163 game operator or its sales agents, employees, or affiliates
+164 may offer, promise, or tender any property or personal
+165 advantage to any employee or agent of any video lottery game
+166 retailer with the intent to influence such video lottery
+167 game retailer with respect to locating any video lottery
+168 game terminal in the video lottery game retailer's
+169 establishment. Video lottery game operators and video
+170 lottery game retailers may allocate costs related to the
+SB 850 10
+171 operation, promotion, and maintenance of video lottery game
+172 terminals in any manner that has been mutually agreed to.
+173 An agreement for the placement of video lottery game
+174 terminals, or any similar agreement, entered into prior to
+175 the enactment of sections 313.425 to 313.435 shall be
+176 invalid and unenforceable. Persons violating this
+177 subdivision are subject to the loss or prohibition of their
+178 video lottery game operator's license.
+179 (3) Nothing in this section shall be construed to
+180 prevent a video lottery game operator or a video lottery
+181 game retailer from using a player rewards system as approved
+182 by the commission. No player shall be required to enroll in
+183 a rewards program offered by a video lottery game operator
+184 or video lottery game retailer as a condition to play video
+185 lottery games.
+186 8. No licensed video lottery game operator shall:
+187 (1) Offer video lottery gaming terminals that directly
+188 dispense anything of value except for tickets for winning
+189 plays. Tickets shall be dispensed by pressing the ticket
+190 dispensing button on the video lottery gaming terminal at
+191 the end of any video lottery game play. The ticket shall
+192 indicate the total amount of video lottery game terminal
+193 credits and the cash award, the time of day in a twenty-four-
+194 hour format showing hours and minutes, the date, the
+195 terminal serial number, the sequential number of the ticket,
+196 and an encrypted validation number from which the validity
+197 of the prize may be determined. The cost of the video
+198 lottery game terminal credits shall be one cent, five cents,
+199 ten cents, or twenty-five cents, and the maximum wager
+200 played per video lottery game shall not exceed five
+201 dollars. No cash award for the maximum wager played on any
+SB 850 11
+202 individual video lottery game shall exceed one thousand
+203 dollars;
+204 (2) Operate in a retail establishment that is not also
+205 licensed to sell liquor;
+206 (3) Operate more than five video lottery game
+207 terminals at one video lottery game retailer establishment;
+208 except if the establishment is a veterans' organization,
+209 such establishment may operate up to ten video lottery game
+210 terminals as approved by the commission;
+211 (4) Allow video lottery games to be played at any time
+212 when the video lottery game retailer's establishment is
+213 closed for business.
+214 9. (1) A person under twenty-one years of age shall
+215 not play video lottery games, and such video lottery game
+216 terminals shall be under the supervision of a person that is
+217 at least twenty-one years of age to prevent persons under
+218 twenty-one years of age from playing video lottery games.
+219 Video lottery game terminals shall not be visible from areas
+220 normally occupied by minors and shall be placed within the
+221 unobstructed line of sight of the sales counter unless
+222 placed in an enclosed or partially enclosed area that is
+223 continually monitored by video surveillance. A warning sign
+224 shall be posted in a conspicuous location where such video
+225 lottery game terminals are located, containing in red
+226 lettering at least one-half inch high on a white background
+227 the following:
+228 "YOU MUST BE AT LEAST 21 YEARS OF AGE TO PLAY VIDEO LOTTERY
+229 GAMES"
+230 In addition to the placement and supervision requirements of
+231 this subsection, a video lottery game operator shall provide
+SB 850 12
+232 video surveillance in the immediate area of the video
+233 lottery game retailer's establishment where video lottery
+234 game terminals are located. Recorded video from such
+235 surveillance system shall be made available to the
+236 commission upon request and shall be reviewed by video
+237 lottery game operators as reasonably and specifically
+238 requested by the commission for any violation of law, rules,
+239 or regulations governing the conduct of video lottery
+240 games. A video lottery game operator that fails to review
+241 such surveillance video and report any known violation of
+242 law, rules, or regulations governing the conduct of video
+243 lottery games in conformance with established commission
+244 procedures may be subject to an administrative fine not to
+245 exceed five thousand dollars. Any video lottery game
+246 retailer that fails to report any known violation of law,
+247 rules, or regulations governing the conduct of video lottery
+248 games in conformance with established commission procedures
+249 may be subject to an administrative fine not to exceed five
+250 thousand dollars. In the event a video lottery game
+251 operator or retailer is found to have knowingly committed a
+252 violation governing the conduct of video lottery games, the
+253 commission may impose an administrative fine not to exceed
+254 five thousand dollars, suspend such operator's or retailer's
+255 license for up to thirty days, or in the case of repeated
+256 violations, revoke such operator's or retailer's license for
+257 a period of one year. Any video lottery game operator or
+258 retailer aggrieved by the commission's decision in any
+259 disciplinary action that results in the suspension or
+260 revocation of such operator's or retailer's video lottery
+261 game license may appeal such decision by filing an action in
+262 circuit court. The commission shall refer a violation of
+263 the criminal code, with any evidence thereof, to the
+SB 850 13
+264 appropriate law enforcement officials. Video lottery game
+265 retailers shall provide an intrusion detection system
+266 capable of detecting unauthorized entrance of the video
+267 lottery game retailer's establishment during nonbusiness
+268 hours and shall report to the commission any unauthorized
+269 entrance of the video lottery game retailer's
+270 establishment. Such surveillance and intrusion detection
+271 system shall meet specifications as defined by the
+272 commission.
+273 (2) A video lottery game operator shall post a sign in
+274 a conspicuous location where such video lottery game
+275 terminals are located, containing in red lettering at least
+276 one-half inch high on a white background a telephone contact
+277 number (1-888-BETSOFF) for the problem gambling helpline.
+278 10. (1) Video lottery game operators shall pay the
+279 commission thirty-six percent of the video lottery game
+280 adjusted gross receipts, which shall be deposited in the
+281 state lottery fund. The commission shall transfer the
+282 amount received from the operator from the lottery fund to
+283 the lottery proceeds fund after administrative expenses
+284 equal to four percent of the video lottery game adjusted
+285 gross receipts are paid to the municipality where a licensed
+286 video lottery game retailer maintains an establishment
+287 licensed for the operation of video lottery game terminals,
+288 or if such licensed establishment is not located within the
+289 corporate boundaries of a municipality, then the county
+290 where such licensed establishment is located to reimburse
+291 such municipality or county for administrative expenses, and
+292 any administrative expenses for the commission that are not
+293 covered by reimbursements from operators are deducted. Net
+294 proceeds transferred to the lottery proceeds fund shall be
+295 appropriated to public elementary and secondary education
+SB 850 14
+296 and public institutions of higher education with an emphasis
+297 on programs to promote science, technology, engineering, and
+298 mathematics (STEM) and programs to promote workforce
+299 development.
+300 (2) Video lottery game operators shall retain sixty-
+301 four percent of the video lottery game adjusted gross
+302 receipts, a portion of which shall be utilized to pay for
+303 administrative expenses which shall include the cost of the
+304 centralized computer system, which cost shall be paid by
+305 video lottery game operators in proportion to the number of
+306 video lottery game terminals operated and shall not be
+307 apportioned by the video lottery game operator among video
+308 lottery game retailers to which it provides operations. The
+309 remainder, after the costs of the centralized computer
+310 system are paid, shall be divided between the video lottery
+311 game operator and video lottery game retailer as agreed to
+312 by the video lottery game operator and video lottery game
+313 retailer under the freely negotiated agreement made under
+314 subdivision (2) of subsection 7 of this section, unless the
+315 video lottery game operator and video lottery game retailer
+316 share the same ownership.
+317 11. All revenues received by the commission from
+318 license fees and any reimbursements associated with the
+319 administration of the provisions of sections 313.425 to
+320 313.435, and all interest earned thereon, shall be
+321 considered administrative expenses and shall be deposited in
+322 the state lottery fund. Moneys deposited into the state
+323 lottery fund from license fees and any reimbursements of
+324 commission administrative expenses to administer sections
+325 313.425 to 313.435 shall be considered administrative
+326 expenses and shall not be considered net proceeds pursuant
+327 to Article III, Section 39(b) of the Constitution of
+SB 850 15
+328 Missouri. Subject to appropriation, up to one percent of
+329 such license fees and reimbursements deposited to the credit
+330 of the state lottery fund may be deposited to the credit of
+331 the compulsive gamblers fund created under section 313.842.
+332 The remainder of the money deposited in the state lottery
+333 fund from video lottery game license fees and any
+334 reimbursements of commission administrative expenses to
+335 enforce sections 313.425 to 313.435 shall, subject to
+336 appropriation, be used for administrative expenses
+337 associated with supervising and enforcing the provisions of
+338 sections 313.425 to 313.435. Any amount of revenues from
+339 video lottery game license fees and reimbursements of
+340 commission administrative expenses not currently needed for
+341 the supervising and enforcement of sections 313.425 to
+342 313.435 shall be appropriated to the veterans' commission
+343 capital improvement trust fund created in section 42.300.
+344 12. The commission may contract with a state law
+345 enforcement entity to assist in conducting investigations
+346 into applicants for any video lottery game license and to
+347 investigate violations by any video lottery game licensee of
+348 any of the provisions of sections 313.425 to 313.435 or
+349 state law regulating illegal gambling activities. A video
+350 lottery game licensee suspected of a violation shall be
+351 afforded an administrative hearing on the record and any
+352 action taken to impose a fine on such licensee, or to
+353 suspend or revoke the ability of a licensee to offer lottery
+354 game products for sale, shall be appealed to the
+355 commission. Any such administrative suspension or
+356 revocation upheld by the commission may be appealed by the
+357 video lottery game licensee in a state court of competent
+358 jurisdiction.
+SB 850 16
+359 13. (1) Any person manufacturing, operating,
+360 distributing, or in possession of a video lottery game
+361 terminal not authorized by the commission under the
+362 provisions of sections 313.425 to 313.435 as of August 28,
+363 2026, shall become compliant with the provisions of sections
+364 313.425 to 313.435 within one hundred twenty days of August
+365 28, 2026. Any person failing to become compliant within the
+366 following number of days shall be subject to the following
+367 fines issued by the commission:
+368 (a) Within one hundred twenty days, two hundred fifty
+369 thousand dollars;
+370 (b) Within two hundred forty days, five hundred
+371 thousand dollars;
+372 (c) Within three hundred sixty days, seven hundred
+373 fifty thousand dollars; and
+374 (d) Within four hundred eighty days, one million
+375 dollars.
+376 (2) In addition to the fines provided in subdivision
+377 (1) of this subsection, any person failing to become
+378 compliant after four hundred eighty days may be prosecuted
+379 under the provisions of chapter 572. The commission shall
+380 have the power to investigate suspected violations by any
+381 video lottery game license holder and to refer any
+382 violations or suspected violations to the appropriate law
+383 enforcement authority.
+384 14. The commission shall adopt rules for the
+385 implementation of the video lottery game system authorized
+386 under sections 313.425 to 313.435, including, but not
+387 limited to, the placement of video lottery game terminals
+388 within a retail establishment and for the active oversight
+389 of the conduct of video lottery games. Any rule or portion
+390 of a rule, as that term is defined in section 536.010 that
+SB 850 17
+391 is created under the authority delegated in this section
+392 shall become effective only if it complies with and is
+393 subject to all of the provisions of chapter 536 and, if
+394 applicable, section 536.028. This section and chapter 536
+395 are nonseverable and if any of the powers vested with the
+396 general assembly pursuant to chapter 536 to review, to delay
+397 the effective date, or to disapprove and annul a rule are
+398 subsequently held unconstitutional, then the grant of
+399 rulemaking authority and any rule proposed or adopted after
+400 August 28, 2026, shall be invalid and void.
+1 313.431. 1. In order to expedite the orderly
+2 implementation of the video lottery game system authorized
+3 under sections 313.425 to 313.435, the commission shall:
+4 (1) Issue a request for proposal for the supply and
+5 operation of a centralized computer system for video lottery
+6 games within one hundred twenty days of the effective date
+7 of this section;
+8 (2) Make license applications for video lottery game
+9 manufacturers, video lottery game distributors, video
+10 lottery game operators, video lottery game retailers, and
+11 video lottery game handlers available to applicants and
+12 promulgate any emergency or regular rules and regulations
+13 needed for the implementation of the video lottery system
+14 authorized under sections 313.425 to 313.435 within one
+15 hundred twenty days of the effective date of this section;
+16 (3) Issue a provisional license to an applicant for a
+17 video lottery game manufacturer's, video lottery game
+18 distributor's, video lottery game operator's, video lottery
+19 game retailer's, or video lottery game handler's license if
+20 such applicant satisfies all of the following criteria to
+21 the satisfaction of the commission:
+22 (a) The applicant is current on all state taxes;
+SB 850 18
+23 (b) The applicant has submitted a complete application
+24 for licensure as a licensed video lottery game manufacturer,
+25 video lottery game distributor, video lottery game operator,
+26 video lottery game retailer, or video lottery game handler,
+27 which shall be submitted concurrently with the applicant's
+28 request for a provisional license;
+29 (c) The applicant has never been convicted of any
+30 felony or gambling law violation in any jurisdiction; and
+31 (d) The applicant for a video lottery game retailer's
+32 license has been issued and holds a valid license to sell
+33 liquor under chapter 311.
+34 A provisional license shall be issued by the commission
+35 within sixty days from the date on which the application was
+36 first received unless the commission shows cause that the
+37 license application is deficient or such applicant does not
+38 meet the criteria for licensure.
+39 2. The commission may issue provisional licenses prior
+40 to the completion of a background check to an applicant that
+41 is currently licensed under sections 313.200 to 313.435 or
+42 sections 313.800 to 313.850; holds or is an affiliate of any
+43 entity that holds a license in good standing from a
+44 regulatory body of another state to operate, handle, or
+45 maintain video gaming terminals or video lottery game
+46 terminals that are substantially similar to video lottery
+47 game terminals authorized under sections 313.425 to 313.435;
+48 or if such person has been in the business of locating and
+49 operating amusement games within this state continuously for
+50 a period of five years.
+51 3. A provisional license shall be valid until:
+52 (1) The commission either approves or denies the
+53 applicant's application for licensure;
+SB 850 19
+54 (2) The provisional license is terminated for a
+55 violation of this section; or
+56 (3) One calendar year has passed since the provisional
+57 license was issued.
+58 Nothing in this section shall prohibit an applicant for a
+59 video lottery game manufacturer's, video lottery game
+60 distributor's, video lottery game operator's, video lottery
+61 game retailer's, or video lottery game handler's license
+62 from applying for a renewal of the provisional license
+63 issued under this section so long as the commission has not
+64 made a final determination to award or deny the applicant a
+65 license.
+66 4. Each applicant shall attest by way of affidavit
+67 under penalty of perjury that the applicant is not otherwise
+68 prohibited from licensure according to the requirements of
+69 this section.
+70 5. All requests for provisional licensure under this
+71 section shall include the following fee, which is in
+72 addition to the applicable fee required for an application
+73 for licensure and shall be retained by the commission:
+74 (1) Five thousand dollars for a video lottery game
+75 manufacturer and video lottery game distributor;
+76 (2) Five thousand dollars for a video lottery game
+77 operator;
+78 (3) Five hundred dollars for a video lottery game
+79 retailer's establishment; or
+80 (4) One hundred dollars for a video lottery game
+81 handler.
+1 313.433. 1. Notwithstanding any other provision of
+2 law to the contrary, participation by a person, firm,
+3 corporation, or organization in any aspect of the state
+SB 850 20
+4 lottery under sections 313.425 to 313.435 shall not be
+5 construed to be a lottery or gift enterprise in violation of
+6 Section 39 of Article III of the Constitution of Missouri.
+7 2. The sale of lottery tickets, shares, or lottery
+8 game plays using a video lottery game terminal under
+9 sections 313.425 to 313.435 shall not constitute a valid
+10 reason to refuse to issue or renew or to revoke or suspend
+11 any license or permit issued under the provisions of chapter
+12 311.
+1 313.435. A municipality may adopt an ordinance
+2 prohibiting video lottery game terminals within the
+3 corporate limits of such municipality within one hundred
+4 twenty days from the effective date of this act. A county
+5 commission may, for the unincorporated area of the county,
+6 adopt an ordinance prohibiting video lottery game terminals
+7 within the unincorporated area of the county within one
+8 hundred twenty days from the effective date of this act.
+9 The commission shall not license video lottery game
+10 retailers within such area covered by such ordinance. Any
+11 such municipality or county that has opted to prohibit the
+12 use of video lottery game terminals to play video lottery
+13 games may repeal such ordinance and upon such repeal, the
+14 commission may license video lottery game retailers within
+15 such municipality or county to conduct video lottery games.
+✓
+[DELETED:  K n s t b k a s 3 3.S    .A )"      )"  ]
+[DELETED: S)"           )"    )"    )"       )"  ]
+[DELETED: S )"   )"   )"       )"           .A  ]
+[DELETED: S )"    )"      )"    .1.T          )V  ]
+[DELETED: S)V  )V             .U)A  )A  )A   .()T     ]
+[DELETED: S    .T        .A   .T )F  )F )F )T .T   .A )F ]
+[DELETED: S)F  )F)F )I    .S  .A )N    .N   .N      .()V     ]
+[DELETED: S .V  .S  )L   )L    .()L  )M  )M )S  )S .S   .V   ]
+[DELETED: Ssorlsfrvolygetsslb         nataftreadslntier         gasamdudintecnoftel          rr)L   .T     .A  .V     .N    .N       .V  ]
+[DELETED: S     .P  )N   .N    .N)O  .T  .T      .T    .N ]
+[DELETED: S )O )O    )A  .()A           .A         ]
+[DELETED: S  .R      .A     .A     .I       .A     .T  ]
+[DELETED: S.V      .S  )A    .()V     .T            .N   ]
+[DELETED: S   )V        .T        .A     .M      ]
+[DELETED: S.S          .A     .T     .A      .A   ]
+[DELETED: S.()A        .A  )W )W )W )W )I   .T    .T     .A  ]
+[DELETED: S   .T      .1.I    )I   )M       )I      )T]
+[DELETED: S)T     )T )T  plleslbeidbytec        nsydsfmtedeonwhteanw          trdustecnsscettt        eanisdtorshatdsn        ttecafrl  .T            .A)T ]
+[DELETED: S)T )O        .E   .A   )F )F )F )O .1.N     ]
+[DELETED: S  .T     .A   .A      .A     ]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+SENATE BILL NO. 850
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR MAY.
+4408S.01I KRISTINA MARTIN, Secretary
+AN ACT
+To amend chapter 313, RSMo, by adding thereto six new sections relating to video lottery, with
+penalty provisions.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Chapter 313, RSMo, is amended by adding thereto
+2 six new sections, to be known as sections 313.425, 313.427,
+3 313.429, 313.431, 313.433, and 313.435, to read as follows:
+1 313.425. Sections 313.425 to 313.435 shall be known
+2 and may be cited as the "Missouri Video Lottery Control Act"
+3 and shall establish the regulatory framework for the use of
+4 player-activated video terminals for the conduct of lottery
+5 games.
+1 313.427. As used in sections 313.425 to 313.435, the
+2 following words and phrases shall mean:
+3 (1) "Centralized computer system", a computerized
+4 system developed or procured by the commission that video
+5 lottery game terminals are connected to using standard
+6 industry protocols that can activate or deactivate a
+7 particular video lottery game terminal from a remote
+8 location, and that is capable of monitoring and auditing
+9 video lottery game plays;
+10 (2) "Commission" or "lottery commission", the five-
+11 member body appointed by the governor to manage and oversee
+12 the lottery under section 313.215;
+
+SB 850 2
+13 (3) "Veterans' organization", a post or organization
+14 of veterans, or an auxiliary unit or society of, or a trust
+15 or foundation for, any such post or organization organized
+16 in the United States or any of its possessions in which at
+17 least seventy-five percent of the members are veterans of
+18 the United States Armed Forces and substantially all of the
+19 other members are individuals who are veterans or are
+20 cadets, or are spouses, widows, or widowers of war veterans
+21 of such individuals, in which no part of the net earnings
+22 inures to the benefit of any private shareholder or
+23 individual, and which has been exempted from payment of
+24 federal income taxes;
+25 (4) "Video lottery game", any lottery game approved by
+26 the commission for play on a video lottery game terminal
+27 using video lottery game terminal credits that have been
+28 purchased with cash, cash equivalents, or by a winning video
+29 lottery game terminal ticket;
+30 (5) "Video lottery game adjusted gross receipts", the
+31 total of cash or cash equivalents used for the play of a
+32 video lottery game on a video lottery game terminal minus
+33 cash or cash equivalent paid to players as a result of
+34 playing video lottery games on a video lottery game terminal;
+35 (6) "Video lottery game distributor", a person
+36 licensed by the commission to buy, sell, lease, rent,
+37 finance, or otherwise provide, distribute, or service video
+38 lottery game terminals or major parts and components of
+39 video lottery game terminals, including used or refurbished
+40 video lottery game terminals to and from licensed video
+41 lottery game manufacturers and licensed video lottery game
+42 operators;
+43 (7) "Video lottery game handler", a person employed by
+44 a licensed video lottery game operator to handle, place,
+
+SB 850 3
+45 operate, and service video lottery game terminals and
+46 associated equipment;
+47 (8) "Video lottery game manufacturer", any person that
+48 manufactures video lottery game terminals or major parts and
+49 components for video lottery game terminals as approved by
+50 the lottery commission;
+51 (9) "Video lottery game operator", a person licensed
+52 by the commission that owns, rents, or leases and services
+53 or maintains video lottery game terminals for placement in
+54 licensed video lottery game retailer establishments;
+55 (10) "Video lottery game retailer", a person meeting
+56 the requirements of a lottery game retailer under section
+57 313.260, that secures and maintains a license issued by the
+58 commission to conduct video lottery games played on a video
+59 lottery game terminal or terminals and that is a veterans'
+60 organization, or business entity licensed under chapter 311
+61 to sell liquor by the drink and that only allows patrons
+62 over the age of twenty-one to enter;
+63 (11) "Video lottery game terminal", player-activated
+64 terminal that exchanges coins, currency, tickets, ticket
+65 vouchers, or other electronic payment methods approved by
+66 the commission for video lottery game terminal credits used
+67 to play video lottery games approved by the commission.
+68 Such video lottery game terminals shall use a video display
+69 and microprocessor capable of randomly generating the
+70 outcome of video lottery games and be capable of printing a
+71 ticket at the conclusion of any video lottery game play that
+72 is redeemable at a video lottery game ticket redemption
+73 terminal or reinserted into a video lottery game terminal
+74 for video lottery game credit. All video lottery games
+75 approved by the commission for play on a video lottery game
+
+SB 850 4
+76 terminal shall have a minimum theoretical payout of eighty-
+77 five percent;
+78 (12) "Video lottery game terminal credit", one cent,
+79 five cents, ten cents, or twenty-five cents either won or
+80 purchased by a player on a video lottery game terminal that
+81 is used to play video lottery games and that may be
+82 converted into a video lottery game ticket;
+83 (13) "Video lottery game ticket" or "ticket", a
+84 document printed at the conclusion of any lottery game play
+85 or group of plays on a video lottery game terminal that is
+86 redeemable for cash utilizing a video lottery game ticket
+87 redemption terminal or that may be reinserted into a video
+88 lottery game terminal in the establishment for which it was
+89 issued for video lottery terminal game play credit;
+90 (14) "Video lottery game ticket redemption terminal",
+91 the collective hardware, software, communications
+92 technology, and other ancillary equipment used to facilitate
+93 the payment of tickets cashed out by players as a result of
+94 playing a video lottery game terminal.
+1 313.429. 1. The commission shall implement a system
+2 of video lottery game terminals utilizing a licensing
+3 structure for processing license applications and issuing
+4 licenses to video lottery game manufacturers, video lottery
+5 game distributors, video lottery game operators, video
+6 lottery game handlers, and video lottery game retailers for
+7 the conduct of lottery games utilizing video lottery game
+8 terminals within the state; except that, a person licensed
+9 as a:
+10 (1) Video lottery game manufacturer or a video lottery
+11 game distributor shall not be issued a license as a video
+12 lottery game operator or a video lottery game retailer;
+
+SB 850 5
+13 (2) Video lottery game operator shall not be issued a
+14 license as a video lottery game manufacturer or a video
+15 lottery game distributor; and
+16 (3) Video lottery game retailer shall not be issued a
+17 license as a video lottery game manufacturer or a video
+18 lottery game distributor.
+19 Nothing in this subsection shall prevent a video lottery
+20 game manufacturer from obtaining a video lottery game
+21 manufacturer's license and a video lottery game
+22 distributor's license and providing and operating the
+23 centralized computer system for monitoring video lottery
+24 game terminals, and nothing in this subsection shall prevent
+25 a video lottery game operator from obtaining a video lottery
+26 game retailer's license or a video lottery game retailer
+27 from obtaining a video lottery game operator's license,
+28 provided the applicant meets the requirements for all such
+29 licenses.
+30 2. Under no circumstances shall the commission:
+31 (1) Authorize or allow a single vendor or licensee to
+32 implement the system of video lottery game terminals created
+33 under this section;
+34 (2) Allow a single licensed video lottery game
+35 operator to control or operate more than twenty-five percent
+36 of video lottery game terminals in the state; or
+37 (3) Allow a single licensed video lottery game
+38 manufacturer or distributor to manufacture or distribute
+39 more than twenty-five percent of video lottery game
+40 terminals in the state.
+41 3. (1) The video lottery game system authorized by
+42 this section shall allow for multiple video lottery game
+43 manufacturers, video lottery game distributors, and video
+
+SB 850 6
+44 lottery game operators to encourage private sector
+45 investment and job opportunities for Missouri citizens.
+46 Video lottery game terminals shall be connected to a
+47 centralized computer system developed or procured by the
+48 commission. The commission shall provide licensed video
+49 lottery game operators with the necessary protocols to
+50 connect the operators' video lottery game terminal or
+51 terminals to the centralized computer system after such
+52 terminal or terminals have been approved by the commission.
+53 No video lottery game terminal shall be placed in operation
+54 without first connecting to the centralized computer system
+55 after such terminal or terminals have been approved by the
+56 commission. A vendor that provides the centralized computer
+57 system authorized under this subsection shall not be
+58 eligible to be licensed as a video lottery game operator or
+59 video lottery game retailer. The commission may impose an
+60 initial nonrefundable license application fee as follows:
+61 (a) For video lottery game manufacturers, video
+62 lottery game distributors, and video lottery game operators,
+63 no more than fifty thousand dollars;
+64 (b) For video lottery game retailer establishments, no
+65 more than five hundred dollars; or
+66 (c) For video lottery game handlers, no more than one
+67 hundred dollars.
+68 (2) The initial license and first subsequent license
+69 renewal shall be for a period of one year. Thereafter,
+70 license renewal periods shall be four years with the
+71 applicable annual renewal fee paid for each year such
+72 license is renewed. Annual license renewal fees for anyone
+73 licensed pursuant to this subsection shall be as follows:
+74 (a) Five thousand dollars for video lottery game
+75 manufacturers and video lottery game distributors;
+
+SB 850 7
+76 (b) Five thousand dollars for video lottery game
+77 operators;
+78 (c) Fifty dollars for video lottery game handlers; and
+79 (d) Five hundred dollars for each video lottery game
+80 retailer's establishment.
+81 (3) In addition to the license fees required in
+82 subdivisions (1) and (2) of this subsection, video lottery
+83 game operators shall pay the commission an annual license
+84 fee of two hundred dollars for each video lottery game
+85 terminal placed in service. Such video lottery game
+86 terminal license shall be renewed each year and cost two
+87 hundred dollars. A license issued under this subsection is
+88 nontransferable.
+89 (4) Nothing in this subsection shall be construed to
+90 relieve the licensee of the affirmative duty to notify the
+91 commission of any change relating to the status of the
+92 license or to any other information contained in the
+93 application materials on file with the commission.
+94 4. No license shall be issued to any person, and no
+95 person shall be allowed to serve as a sales agent, who has
+96 been convicted of a felony or a crime involving illegal
+97 gambling.
+98 5. No license requirement, sticker fee, or tax shall
+99 be imposed by any local jurisdiction upon a video lottery
+100 game manufacturer, video lottery game distributor, video
+101 lottery game operator, video lottery game retailer, video
+102 lottery game handler, or video lottery game terminal or an
+103 establishment relating to the operation of video lottery
+104 games, video lottery game terminals, or associated equipment.
+105 6. (1) Video lottery game terminals shall meet
+106 independent testing standards approved by the commission, as
+107 tested by one or more approved independent test labs, and be
+
+SB 850 8
+108 capable of randomly generating the outcome of video lottery
+109 games approved by the commission. Video lottery game
+110 terminals shall be capable of printing a ticket redeemable
+111 for winning video lottery game plays. Such video lottery
+112 game terminals shall be inspected and approved by the
+113 commission prior to being sold, leased, or transferred.
+114 (2) Licensed video lottery game manufacturers may buy,
+115 sell, or lease new or refurbished video lottery game
+116 terminals to and from licensed video lottery game
+117 distributors.
+118 (3) Licensed video lottery game distributors may buy,
+119 sell, or lease new or refurbished video lottery game
+120 terminals to or from licensed video lottery game
+121 manufacturers or licensed video lottery game operators.
+122 7. (1) Licensed video lottery game operators:
+123 (a) May buy, lease, or rent video lottery game
+124 terminals from licensed video lottery game manufacturers,
+125 operators, or distributors;
+126 (b) May handle, place, and service video lottery game
+127 terminals;
+128 (c) Shall connect such video lottery game terminals to
+129 the centralized computer system approved by the commission;
+130 and
+131 (d) Shall pay winning tickets using a video lottery
+132 game ticket redemption terminal. Such video lottery ticket
+133 redemption terminal shall be located within the video
+134 lottery game retailer's establishment in direct proximity of
+135 where such video lottery games are offered. Video lottery
+136 game operators shall pay the commission thirty-two percent
+137 of any unclaimed cash prize associated with a winning ticket
+138 that has not been redeemed within one year of issue.
+
+SB 850 9
+139 Rents or leases for video lottery game terminals shall be
+140 written at a flat rate and shall not include revenue
+141 splitting as a method used in the calculation of the lease
+142 or rent.
+143 (2) Licensed video lottery game operators and licensed
+144 video lottery game retailers may enter into a written
+145 agreement for the placement of video lottery game
+146 terminals. The agreement shall be on a form approved by the
+147 commission and shall specify a freely negotiated and agreed
+148 upon division of adjusted gross receipts between the video
+149 lottery game operator and the video lottery game retailer
+150 after adjustments for taxes and administrative fees are
+151 made. A video lottery game operator shall be responsible
+152 for remitting to the commission and the video lottery game
+153 retailer its share of adjusted gross receipts. Video
+154 lottery game retailers that are also video lottery game
+155 operators and licensed video lottery game operators that are
+156 also video lottery game retailers shall only be required to
+157 submit an agreement pursuant to this subdivision if the
+158 ownership is not identical in both entities. Nothing in
+159 this subdivision shall prohibit a licensed video lottery
+160 game operator from entering into an agreement with a sales
+161 agent for retailer agreements provided such agreement is in
+162 writing and approved by the commission. No video lottery
+163 game operator or its sales agents, employees, or affiliates
+164 may offer, promise, or tender any property or personal
+165 advantage to any employee or agent of any video lottery game
+166 retailer with the intent to influence such video lottery
+167 game retailer with respect to locating any video lottery
+168 game terminal in the video lottery game retailer's
+169 establishment. Video lottery game operators and video
+170 lottery game retailers may allocate costs related to the
+
+SB 850 10
+171 operation, promotion, and maintenance of video lottery game
+172 terminals in any manner that has been mutually agreed to.
+173 An agreement for the placement of video lottery game
+174 terminals, or any similar agreement, entered into prior to
+175 the enactment of sections 313.425 to 313.435 shall be
+176 invalid and unenforceable. Persons violating this
+177 subdivision are subject to the loss or prohibition of their
+178 video lottery game operator's license.
+179 (3) Nothing in this section shall be construed to
+180 prevent a video lottery game operator or a video lottery
+181 game retailer from using a player rewards system as approved
+182 by the commission. No player shall be required to enroll in
+183 a rewards program offered by a video lottery game operator
+184 or video lottery game retailer as a condition to play video
+185 lottery games.
+186 8. No licensed video lottery game operator shall:
+187 (1) Offer video lottery gaming terminals that directly
+188 dispense anything of value except for tickets for winning
+189 plays. Tickets shall be dispensed by pressing the ticket
+190 dispensing button on the video lottery gaming terminal at
+191 the end of any video lottery game play. The ticket shall
+192 indicate the total amount of video lottery game terminal
+193 credits and the cash award, the time of day in a twenty-four-
+194 hour format showing hours and minutes, the date, the
+195 terminal serial number, the sequential number of the ticket,
+196 and an encrypted validation number from which the validity
+197 of the prize may be determined. The cost of the video
+198 lottery game terminal credits shall be one cent, five cents,
+199 ten cents, or twenty-five cents, and the maximum wager
+200 played per video lottery game shall not exceed five
+201 dollars. No cash award for the maximum wager played on any
+
+SB 850 11
+202 individual video lottery game shall exceed one thousand
+203 dollars;
+204 (2) Operate in a retail establishment that is not also
+205 licensed to sell liquor;
+206 (3) Operate more than five video lottery game
+207 terminals at one video lottery game retailer establishment;
+208 except if the establishment is a veterans' organization,
+209 such establishment may operate up to ten video lottery game
+210 terminals as approved by the commission;
+211 (4) Allow video lottery games to be played at any time
+212 when the video lottery game retailer's establishment is
+213 closed for business.
+214 9. (1) A person under twenty-one years of age shall
+215 not play video lottery games, and such video lottery game
+216 terminals shall be under the supervision of a person that is
+217 at least twenty-one years of age to prevent persons under
+218 twenty-one years of age from playing video lottery games.
+219 Video lottery game terminals shall not be visible from areas
+220 normally occupied by minors and shall be placed within the
+221 unobstructed line of sight of the sales counter unless
+222 placed in an enclosed or partially enclosed area that is
+223 continually monitored by video surveillance. A warning sign
+224 shall be posted in a conspicuous location where such video
+225 lottery game terminals are located, containing in red
+226 lettering at least one-half inch high on a white background
+227 the following:
+228 "YOU MUST BE AT LEAST 21 YEARS OF AGE TO PLAY VIDEO LOTTERY
+229 GAMES"
+230 In addition to the placement and supervision requirements of
+231 this subsection, a video lottery game operator shall provide
+
+SB 850 12
+232 video surveillance in the immediate area of the video
+233 lottery game retailer's establishment where video lottery
+234 game terminals are located. Recorded video from such
+235 surveillance system shall be made available to the
+236 commission upon request and shall be reviewed by video
+237 lottery game operators as reasonably and specifically
+238 requested by the commission for any violation of law, rules,
+239 or regulations governing the conduct of video lottery
+240 games. A video lottery game operator that fails to review
+241 such surveillance video and report any known violation of
+242 law, rules, or regulations governing the conduct of video
+243 lottery games in conformance with established commission
+244 procedures may be subject to an administrative fine not to
+245 exceed five thousand dollars. Any video lottery game
+246 retailer that fails to report any known violation of law,
+247 rules, or regulations governing the conduct of video lottery
+248 games in conformance with established commission procedures
+249 may be subject to an administrative fine not to exceed five
+250 thousand dollars. In the event a video lottery game
+251 operator or retailer is found to have knowingly committed a
+252 violation governing the conduct of video lottery games, the
+253 commission may impose an administrative fine not to exceed
+254 five thousand dollars, suspend such operator's or retailer's
+255 license for up to thirty days, or in the case of repeated
+256 violations, revoke such operator's or retailer's license for
+257 a period of one year. Any video lottery game operator or
+258 retailer aggrieved by the commission's decision in any
+259 disciplinary action that results in the suspension or
+260 revocation of such operator's or retailer's video lottery
+261 game license may appeal such decision by filing an action in
+262 circuit court. The commission shall refer a violation of
+263 the criminal code, with any evidence thereof, to the
+
+SB 850 13
+264 appropriate law enforcement officials. Video lottery game
+265 retailers shall provide an intrusion detection system
+266 capable of detecting unauthorized entrance of the video
+267 lottery game retailer's establishment during nonbusiness
+268 hours and shall report to the commission any unauthorized
+269 entrance of the video lottery game retailer's
+270 establishment. Such surveillance and intrusion detection
+271 system shall meet specifications as defined by the
+272 commission.
+273 (2) A video lottery game operator shall post a sign in
+274 a conspicuous location where such video lottery game
+275 terminals are located, containing in red lettering at least
+276 one-half inch high on a white background a telephone contact
+277 number (1-888-BETSOFF) for the problem gambling helpline.
+278 10. (1) Video lottery game operators shall pay the
+279 commission thirty-six percent of the video lottery game
+280 adjusted gross receipts, which shall be deposited in the
+281 state lottery fund. The commission shall transfer the
+282 amount received from the operator from the lottery fund to
+283 the lottery proceeds fund after administrative expenses
+284 equal to four percent of the video lottery game adjusted
+285 gross receipts are paid to the municipality where a licensed
+286 video lottery game retailer maintains an establishment
+287 licensed for the operation of video lottery game terminals,
+288 or if such licensed establishment is not located within the
+289 corporate boundaries of a municipality, then the county
+290 where such licensed establishment is located to reimburse
+291 such municipality or county for administrative expenses, and
+292 any administrative expenses for the commission that are not
+293 covered by reimbursements from operators are deducted. Net
+294 proceeds transferred to the lottery proceeds fund shall be
+295 appropriated to public elementary and secondary education
+
+SB 850 14
+296 and public institutions of higher education with an emphasis
+297 on programs to promote science, technology, engineering, and
+298 mathematics (STEM) and programs to promote workforce
+299 development.
+300 (2) Video lottery game operators shall retain sixty-
+301 four percent of the video lottery game adjusted gross
+302 receipts, a portion of which shall be utilized to pay for
+303 administrative expenses which shall include the cost of the
+304 centralized computer system, which cost shall be paid by
+305 video lottery game operators in proportion to the number of
+306 video lottery game terminals operated and shall not be
+307 apportioned by the video lottery game operator among video
+308 lottery game retailers to which it provides operations. The
+309 remainder, after the costs of the centralized computer
+310 system are paid, shall be divided between the video lottery
+311 game operator and video lottery game retailer as agreed to
+312 by the video lottery game operator and video lottery game
+313 retailer under the freely negotiated agreement made under
+314 subdivision (2) of subsection 7 of this section, unless the
+315 video lottery game operator and video lottery game retailer
+316 share the same ownership.
+317 11. All revenues received by the commission from
+318 license fees and any reimbursements associated with the
+319 administration of the provisions of sections 313.425 to
+320 313.435, and all interest earned thereon, shall be
+321 considered administrative expenses and shall be deposited in
+322 the state lottery fund. Moneys deposited into the state
+323 lottery fund from license fees and any reimbursements of
+324 commission administrative expenses to administer sections
+325 313.425 to 313.435 shall be considered administrative
+326 expenses and shall not be considered net proceeds pursuant
+327 to Article III, Section 39(b) of the Constitution of
+
+SB 850 15
+328 Missouri. Subject to appropriation, up to one percent of
+329 such license fees and reimbursements deposited to the credit
+330 of the state lottery fund may be deposited to the credit of
+331 the compulsive gamblers fund created under section 313.842.
+332 The remainder of the money deposited in the state lottery
+333 fund from video lottery game license fees and any
+334 reimbursements of commission administrative expenses to
+335 enforce sections 313.425 to 313.435 shall, subject to
+336 appropriation, be used for administrative expenses
+337 associated with supervising and enforcing the provisions of
+338 sections 313.425 to 313.435. Any amount of revenues from
+339 video lottery game license fees and reimbursements of
+340 commission administrative expenses not currently needed for
+341 the supervising and enforcement of sections 313.425 to
+342 313.435 shall be appropriated to the veterans' commission
+343 capital improvement trust fund created in section 42.300.
+344 12. The commission may contract with a state law
+345 enforcement entity to assist in conducting investigations
+346 into applicants for any video lottery game license and to
+347 investigate violations by any video lottery game licensee of
+348 any of the provisions of sections 313.425 to 313.435 or
+349 state law regulating illegal gambling activities. A video
+350 lottery game licensee suspected of a violation shall be
+351 afforded an administrative hearing on the record and any
+352 action taken to impose a fine on such licensee, or to
+353 suspend or revoke the ability of a licensee to offer lottery
+354 game products for sale, shall be appealed to the
+355 commission. Any such administrative suspension or
+356 revocation upheld by the commission may be appealed by the
+357 video lottery game licensee in a state court of competent
+358 jurisdiction.
+
+SB 850 16
+359 13. (1) Any person manufacturing, operating,
+360 distributing, or in possession of a video lottery game
+361 terminal not authorized by the commission under the
+362 provisions of sections 313.425 to 313.435 as of August 28,
+363 2026, shall become compliant with the provisions of sections
+364 313.425 to 313.435 within one hundred twenty days of August
+365 28, 2026. Any person failing to become compliant within the
+366 following number of days shall be subject to the following
+367 fines issued by the commission:
+368 (a) Within one hundred twenty days, two hundred fifty
+369 thousand dollars;
+370 (b) Within two hundred forty days, five hundred
+371 thousand dollars;
+372 (c) Within three hundred sixty days, seven hundred
+373 fifty thousand dollars; and
+374 (d) Within four hundred eighty days, one million
+375 dollars.
+376 (2) In addition to the fines provided in subdivision
+377 (1) of this subsection, any person failing to become
+378 compliant after four hundred eighty days may be prosecuted
+379 under the provisions of chapter 572. The commission shall
+380 have the power to investigate suspected violations by any
+381 video lottery game license holder and to refer any
+382 violations or suspected violations to the appropriate law
+383 enforcement authority.
+384 14. The commission shall adopt rules for the
+385 implementation of the video lottery game system authorized
+386 under sections 313.425 to 313.435, including, but not
+387 limited to, the placement of video lottery game terminals
+388 within a retail establishment and for the active oversight
+389 of the conduct of video lottery games. Any rule or portion
+390 of a rule, as that term is defined in section 536.010 that
+
+SB 850 17
+391 is created under the authority delegated in this section
+392 shall become effective only if it complies with and is
+393 subject to all of the provisions of chapter 536 and, if
+394 applicable, section 536.028. This section and chapter 536
+395 are nonseverable and if any of the powers vested with the
+396 general assembly pursuant to chapter 536 to review, to delay
+397 the effective date, or to disapprove and annul a rule are
+398 subsequently held unconstitutional, then the grant of
+399 rulemaking authority and any rule proposed or adopted after
+400 August 28, 2026, shall be invalid and void.
+1 313.431. 1. In order to expedite the orderly
+2 implementation of the video lottery game system authorized
+3 under sections 313.425 to 313.435, the commission shall:
+4 (1) Issue a request for proposal for the supply and
+5 operation of a centralized computer system for video lottery
+6 games within one hundred twenty days of the effective date
+7 of this section;
+8 (2) Make license applications for video lottery game
+9 manufacturers, video lottery game distributors, video
+10 lottery game operators, video lottery game retailers, and
+11 video lottery game handlers available to applicants and
+12 promulgate any emergency or regular rules and regulations
+13 needed for the implementation of the video lottery system
+14 authorized under sections 313.425 to 313.435 within one
+15 hundred twenty days of the effective date of this section;
+16 (3) Issue a provisional license to an applicant for a
+17 video lottery game manufacturer's, video lottery game
+18 distributor's, video lottery game operator's, video lottery
+19 game retailer's, or video lottery game handler's license if
+20 such applicant satisfies all of the following criteria to
+21 the satisfaction of the commission:
+22 (a) The applicant is current on all state taxes;
+
+SB 850 18
+23 (b) The applicant has submitted a complete application
+24 for licensure as a licensed video lottery game manufacturer,
+25 video lottery game distributor, video lottery game operator,
+26 video lottery game retailer, or video lottery game handler,
+27 which shall be submitted concurrently with the applicant's
+28 request for a provisional license;
+29 (c) The applicant has never been convicted of any
+30 felony or gambling law violation in any jurisdiction; and
+31 (d) The applicant for a video lottery game retailer's
+32 license has been issued and holds a valid license to sell
+33 liquor under chapter 311.
+34 A provisional license shall be issued by the commission
+35 within sixty days from the date on which the application was
+36 first received unless the commission shows cause that the
+37 license application is deficient or such applicant does not
+38 meet the criteria for licensure.
+39 2. The commission may issue provisional licenses prior
+40 to the completion of a background check to an applicant that
+41 is currently licensed under sections 313.200 to 313.435 or
+42 sections 313.800 to 313.850; holds or is an affiliate of any
+43 entity that holds a license in good standing from a
+44 regulatory body of another state to operate, handle, or
+45 maintain video gaming terminals or video lottery game
+46 terminals that are substantially similar to video lottery
+47 game terminals authorized under sections 313.425 to 313.435;
+48 or if such person has been in the business of locating and
+49 operating amusement games within this state continuously for
+50 a period of five years.
+51 3. A provisional license shall be valid until:
+52 (1) The commission either approves or denies the
+53 applicant's application for licensure;
+
+SB 850 19
+54 (2) The provisional license is terminated for a
+55 violation of this section; or
+56 (3) One calendar year has passed since the provisional
+57 license was issued.
+58 Nothing in this section shall prohibit an applicant for a
+59 video lottery game manufacturer's, video lottery game
+60 distributor's, video lottery game operator's, video lottery
+61 game retailer's, or video lottery game handler's license
+62 from applying for a renewal of the provisional license
+63 issued under this section so long as the commission has not
+64 made a final determination to award or deny the applicant a
+65 license.
+66 4. Each applicant shall attest by way of affidavit
+67 under penalty of perjury that the applicant is not otherwise
+68 prohibited from licensure according to the requirements of
+69 this section.
+70 5. All requests for provisional licensure under this
+71 section shall include the following fee, which is in
+72 addition to the applicable fee required for an application
+73 for licensure and shall be retained by the commission:
+74 (1) Five thousand dollars for a video lottery game
+75 manufacturer and video lottery game distributor;
+76 (2) Five thousand dollars for a video lottery game
+77 operator;
+78 (3) Five hundred dollars for a video lottery game
+79 retailer's establishment; or
+80 (4) One hundred dollars for a video lottery game
+81 handler.
+1 313.433. 1. Notwithstanding any other provision of
+2 law to the contrary, participation by a person, firm,
+3 corporation, or organization in any aspect of the state
+
+SB 850 20
+4 lottery under sections 313.425 to 313.435 shall not be
+5 construed to be a lottery or gift enterprise in violation of
+6 Section 39 of Article III of the Constitution of Missouri.
+7 2. The sale of lottery tickets, shares, or lottery
+8 game plays using a video lottery game terminal under
+9 sections 313.425 to 313.435 shall not constitute a valid
+10 reason to refuse to issue or renew or to revoke or suspend
+11 any license or permit issued under the provisions of chapter
+12 311.
+1 313.435. A municipality may adopt an ordinance
+2 prohibiting video lottery game terminals within the
+3 corporate limits of such municipality within one hundred
+4 twenty days from the effective date of this act. A county
+5 commission may, for the unincorporated area of the county,
+6 adopt an ordinance prohibiting video lottery game terminals
+7 within the unincorporated area of the county within one
+8 hundred twenty days from the effective date of this act.
+9 The commission shall not license video lottery game
+10 retailers within such area covered by such ordinance. Any
+11 such municipality or county that has opted to prohibit the
+12 use of video lottery game terminals to play video lottery
+13 games may repeal such ordinance and upon such repeal, the
+14 commission may license video lottery game retailers within
+15 such municipality or county to conduct video lottery games.
+✓
+
+[DELETED:  K n s t b k a s 3 3.S    .A )"      )"  ]
+[DELETED: S)"           )"    )"    )"       )"  ]
+[DELETED: S )"   )"   )"       )"           .A  ]
+[DELETED: S )"    )"      )"    .1.T          )V  ]
+[DELETED: S)V  )V             .U)A  )A  )A   .()T     ]
+[DELETED: S    .T        .A   .T )F  )F )F )T .T   .A )F ]
+[DELETED: S)F  )F)F )I    .S  .A )N    .N   .N      .()V     ]
+[DELETED: S .V  .S  )L   )L    .()L  )M  )M )S  )S .S   .V   ]
+[DELETED: Ssorlsfrvolygetsslb         nataftreadslntier         gasamdudintecnoftel          rr)L   .T     .A  .V     .N    .N       .V  ]
+[DELETED: S     .P  )N   .N    .N)O  .T  .T      .T    .N ]
+[DELETED: S )O )O    )A  .()A           .A         ]
+[DELETED: S  .R      .A     .A     .I       .A     .T  ]
+[DELETED: S.V      .S  )A    .()V     .T            .N   ]
+[DELETED: S   )V        .T        .A     .M      ]
+[DELETED: S.S          .A     .T     .A      .A   ]
+[DELETED: S.()A        .A  )W )W )W )W )I   .T    .T     .A  ]
+[DELETED: S   .T      .1.I    )I   )M       )I      )T]
+[DELETED: S)T     )T )T  plleslbeidbytec        nsydsfmtedeonwhteanw          trdustecnsscettt        eanisdtorshatdsn        ttecafrl  .T            .A)T ]
+[DELETED: S)T )O        .E   .A   )F )F )F )O .1.N     ]
+[DELETED: S  .T     .A   .A      .A     ]

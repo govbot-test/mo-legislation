@@ -1,0 +1,276 @@
+Title: HOUSE BILL NO. 2239
+Official Title: HOUSE BILL NO. 2239
+Number of Sections: 3
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE MURRAY.
+5101H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapter 640, RSMo, by adding thereto one new section relating to artificial
+intelligence-optimized data centers, with penalty provisions.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+
+Section 2:
+Section A. Chapter 640, RSMo, is amended by adding thereto one new section, to be
+2 known as section 640.1600, to read as follows:
+
+Section 3:
+640.1600. 1. This section shall be known and may be cited as the "Artificial
+2 Intelligence Data Center Environmental Accountability Act".
+3 2. As used in this section, the following terms mean:
+4 (1) "Artificial intelligence (AI)-optimized data center", a facility designed
+5 primarily for artificial intelligence model training or inference workloads utilizing
+6 graphics processing units, tensor processing units, or similar accelerators, with a
+7 combined IT load capacity of one hundred megawatts or greater;
+8 (2) "Closed-loop water cooling system", a sealed, recirculating system that
+9 transfers heat through a controlled circuit without continuous withdrawal or discharge
+10 of water from natural or municipal sources, except for limited make-up losses;
+11 (3) "Department", the department of natural resources;
+12 (4) "Environmental and health report", an annual, publicly available document
+13 submitted by an AI-optimized data center operator detailing water, air, energy, waste,
+14 and community health metrics;
+15 (5) "Operator", the entity responsible for the day-to-day operation of the AI-
+16 optimized data center.
+17 3. This section shall apply to:
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+HB 2239 2
+18 (1) All AI-optimized data centers constructed, expanded, or permitted on or
+19 after August 28, 2027, with a total installed capacity of one hundred megawatts or
+20 greater; and
+21 (2) Beginning August 28, 2027, any existing data center undergoing a capacity
+22 increase of twenty-five percent or more that brings the total IT load to one hundred
+23 megawatts or greater.
+24 4. Each AI-optimized data center subject to this section shall:
+25 (1) Implement a closed-loop water cooling system, or an alternative system
+26 verified by the department to achieve equal or lower water withdrawal and discharge
+27 intensity per megawatt-hour of compute load;
+28 (2) Incorporate continuous monitoring of make-up water volume, discharge
+29 temperature, and chemical concentrations; and
+30 (3) Maintain emergency and redundancy protocols to prevent thermal pollution
+31 or water contamination in the event of system failure.
+32 5. (1) Each operator shall submit, before April first of each year, an
+33 environmental and health report for the preceding calendar year to the department in
+34 accordance with the standardized digital formats and reporting templates created by
+35 the department as authorized under this section or by rule.
+36 (2) The report shall include the following information:
+37 (a) Total annual water withdrawn, recycled, and discharged in gallons or liters;
+38 (b) Sources of water such as municipal, groundwater, or recycled, and discharge
+39 locations;
+40 (c) Water quality metrics including pH, temperature, biocides, metals, and
+41 chemical additives;
+42 (d) Documentation of closed-loop performance efficiency, make-up water
+43 percentage, and any leaks or discharges;
+44 (e) Total electricity consumption and percentage derived from renewable
+45 sources;
+46 (f) Annual greenhouse gas emissions and emissions from backup generators
+47 calculated using different types of equivalent units in the calculator and reported as
+48 carbon dioxide equivalents;
+49 (g) Load factor and peak demand data for transparency with local grid
+50 operators;
+51 (h) Quantities of electronic waste, batteries, and refrigerants disposed or
+52 recycled;
+53 (i) Record of chemical use for cooling or maintenance processes;
+HB 2239 3
+54 (j) Air and water quality monitoring results within a five-mile radius of the
+55 facility;
+56 (k) Any public health complaints or incidents linked to data center operations;
+57 (l) Noise, traffic, or land-use impacts, if applicable;
+58 (m) Summary of community benefit initiatives including, but not limited to,
+59 infrastructure investments, renewable offsets, or workforce programs; and
+60 (n) Documentation of all inspections, violations, and corrective actions taken
+61 during the reporting year.
+62 6. (1) The department shall receive, review, and archive all environmental and
+63 health reports submitted under this section.
+64 (2) Except as otherwise provided by law, all reports received by the department
+65 under this section shall be made available to the public according to rules and
+66 procedures established by the department, and no later than sixty-days after the
+67 department receives the reports.
+68 (3) The department shall make the reports publicly accessible on its website
+69 according to its established rules and procedures for publishing full reports and
+70 executive summaries on a public-facing website, and consistent with applicable federal
+71 and state laws.
+72 (4) The department shall create a statewide annual summary of cumulative
+73 impacts from AI-optimized data centers and schedule a hearing or provide
+74 opportunities for public comment where significant environmental or health risks are
+75 identified.
+76 7. Any violation of the provisions of this section including, but not limited to, a
+77 violation listed in subdivision (1) or (2) of this subsection shall result in the imposition of
+78 a civil penalty up to fifty thousand dollars per day:
+79 (1) Failure to install a closed-loop system in compliance with the law; or
+80 (2) Failure to submit an annual environmental and heath report under
+81 subsection 5 of this section.
+82 8. The department may suspend or revoke operational permits for repeated or
+83 willful noncompliance after a hearing conducted by the administrative hearing
+84 commission under chapter 621 and subject to the burden of proof provision under
+85 section 640.012.
+86 9. (1) The department shall promulgate all necessary rules and regulations for
+87 the administration of this section including, but not limited to, the following:
+88 (a) Definitions for the maximum permissible water use intensity (liters per
+89 megawatt-hour);
+90 (b) Testing and certification procedures for compliance prior to operation; and
+HB 2239 4
+91 (c) Annual verification and penalties for false reporting or noncompliance.
+92 (2) Before August 28, 2027, the department shall promulgate rules to
+93 standardize reporting formats, audit methods, and equivalency criteria for alternative
+94 cooling technologies.
+95 10. Any rule or portion of a rule, as that term is defined in section 536.010, that
+96 is created under the authority delegated in this section shall become effective only if it
+97 complies with and is subject to all of the provisions of chapter 536 and, if applicable,
+98 section 536.028. This section and chapter 536 are nonseverable and if any of the powers
+99 vested with the general assembly pursuant to chapter 536 to review, to delay the
+100 effective date, or to disapprove and annul a rule are subsequently held unconstitutional,
+101 then the grant of rulemaking authority and any rule proposed or adopted after August
+102 28, 2026, shall be invalid and void.
+103 11. The department shall coordinate with the department of health and senior
+104 services, public service commission, and local governments as deemed necessary for the
+105 protection of public health, conservation of water resources and providing
+106 environmental and community impact reports.
+✔
+[DELETED:  B N 2IJ a c 6 R b a t o n s r t a Ck TI2 A( " i ( d c a f dp f a i m t o i w ug p u t p u o s a w ac( " w c s a s r s tt0o1( "2(3s4a5( "6o73 T—M i e]
+[DELETED: 8( A A d c c e o p o o9a A 2 2 w a t i c o o h m o0g1( B2i3m44 E5( I a c w c s o a a s6v7i8( I c m o m w v d9t0( M1o25 ( E o s s b A f o e y a3e4a5t6( T7( T8( S9l0( W q m i p t b m a1c2( D o c p e m w3p4( T e c a p d f r5s6( A g g e a e f b g7c8c9( L f a p d d f t w l g0o1( Q o e w b a r d o2r3( R ]
+[DELETED: 4( A a w q m r w a f r o t5f6( A7( N8( S o c b i i b n l t9i0( D o a i v a c a t1d26 ( T3h4( E5u t s s b m a t t p a t r a6p e b t d a n l t s a t7d8( T d s m t r p a o i w9a t i e r a p f p f r a0e1a2( T d s c a s a s o c3i f A d c a s a h o p4o5i67 A7v8a9( F0( F t s a a e a h r u1s28 T3w n a a h c b t a h4c u c 6 a s t t b o p p u5s69 ( T7t8( f t m p w u i ( p9m0( T ]
+[DELETED: 1( A2( B A 2 2 t d s p r t3s4c51 A6i7c8s T9v w t g a p t c 5 t r t d t0e1t2231 T4s5p o p h c o w r a p6e ]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+HOUSE BILL NO. 2239
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE MURRAY.
+5101H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapter 640, RSMo, by adding thereto one new section relating to artificial
+intelligence-optimized data centers, with penalty provisions.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Chapter 640, RSMo, is amended by adding thereto one new section, to be
+2 known as section 640.1600, to read as follows:
+640.1600. 1. This section shall be known and may be cited as the "Artificial
+2 Intelligence Data Center Environmental Accountability Act".
+3 2. As used in this section, the following terms mean:
+4 (1) "Artificial intelligence (AI)-optimized data center", a facility designed
+5 primarily for artificial intelligence model training or inference workloads utilizing
+6 graphics processing units, tensor processing units, or similar accelerators, with a
+7 combined IT load capacity of one hundred megawatts or greater;
+8 (2) "Closed-loop water cooling system", a sealed, recirculating system that
+9 transfers heat through a controlled circuit without continuous withdrawal or discharge
+10 of water from natural or municipal sources, except for limited make-up losses;
+11 (3) "Department", the department of natural resources;
+12 (4) "Environmental and health report", an annual, publicly available document
+13 submitted by an AI-optimized data center operator detailing water, air, energy, waste,
+14 and community health metrics;
+15 (5) "Operator", the entity responsible for the day-to-day operation of the AI-
+16 optimized data center.
+17 3. This section shall apply to:
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 2239 2
+18 (1) All AI-optimized data centers constructed, expanded, or permitted on or
+19 after August 28, 2027, with a total installed capacity of one hundred megawatts or
+20 greater; and
+21 (2) Beginning August 28, 2027, any existing data center undergoing a capacity
+22 increase of twenty-five percent or more that brings the total IT load to one hundred
+23 megawatts or greater.
+24 4. Each AI-optimized data center subject to this section shall:
+25 (1) Implement a closed-loop water cooling system, or an alternative system
+26 verified by the department to achieve equal or lower water withdrawal and discharge
+27 intensity per megawatt-hour of compute load;
+28 (2) Incorporate continuous monitoring of make-up water volume, discharge
+29 temperature, and chemical concentrations; and
+30 (3) Maintain emergency and redundancy protocols to prevent thermal pollution
+31 or water contamination in the event of system failure.
+32 5. (1) Each operator shall submit, before April first of each year, an
+33 environmental and health report for the preceding calendar year to the department in
+34 accordance with the standardized digital formats and reporting templates created by
+35 the department as authorized under this section or by rule.
+36 (2) The report shall include the following information:
+37 (a) Total annual water withdrawn, recycled, and discharged in gallons or liters;
+38 (b) Sources of water such as municipal, groundwater, or recycled, and discharge
+39 locations;
+40 (c) Water quality metrics including pH, temperature, biocides, metals, and
+41 chemical additives;
+42 (d) Documentation of closed-loop performance efficiency, make-up water
+43 percentage, and any leaks or discharges;
+44 (e) Total electricity consumption and percentage derived from renewable
+45 sources;
+46 (f) Annual greenhouse gas emissions and emissions from backup generators
+47 calculated using different types of equivalent units in the calculator and reported as
+48 carbon dioxide equivalents;
+49 (g) Load factor and peak demand data for transparency with local grid
+50 operators;
+51 (h) Quantities of electronic waste, batteries, and refrigerants disposed or
+52 recycled;
+53 (i) Record of chemical use for cooling or maintenance processes;
+
+HB 2239 3
+54 (j) Air and water quality monitoring results within a five-mile radius of the
+55 facility;
+56 (k) Any public health complaints or incidents linked to data center operations;
+57 (l) Noise, traffic, or land-use impacts, if applicable;
+58 (m) Summary of community benefit initiatives including, but not limited to,
+59 infrastructure investments, renewable offsets, or workforce programs; and
+60 (n) Documentation of all inspections, violations, and corrective actions taken
+61 during the reporting year.
+62 6. (1) The department shall receive, review, and archive all environmental and
+63 health reports submitted under this section.
+64 (2) Except as otherwise provided by law, all reports received by the department
+65 under this section shall be made available to the public according to rules and
+66 procedures established by the department, and no later than sixty-days after the
+67 department receives the reports.
+68 (3) The department shall make the reports publicly accessible on its website
+69 according to its established rules and procedures for publishing full reports and
+70 executive summaries on a public-facing website, and consistent with applicable federal
+71 and state laws.
+72 (4) The department shall create a statewide annual summary of cumulative
+73 impacts from AI-optimized data centers and schedule a hearing or provide
+74 opportunities for public comment where significant environmental or health risks are
+75 identified.
+76 7. Any violation of the provisions of this section including, but not limited to, a
+77 violation listed in subdivision (1) or (2) of this subsection shall result in the imposition of
+78 a civil penalty up to fifty thousand dollars per day:
+79 (1) Failure to install a closed-loop system in compliance with the law; or
+80 (2) Failure to submit an annual environmental and heath report under
+81 subsection 5 of this section.
+82 8. The department may suspend or revoke operational permits for repeated or
+83 willful noncompliance after a hearing conducted by the administrative hearing
+84 commission under chapter 621 and subject to the burden of proof provision under
+85 section 640.012.
+86 9. (1) The department shall promulgate all necessary rules and regulations for
+87 the administration of this section including, but not limited to, the following:
+88 (a) Definitions for the maximum permissible water use intensity (liters per
+89 megawatt-hour);
+90 (b) Testing and certification procedures for compliance prior to operation; and
+
+HB 2239 4
+91 (c) Annual verification and penalties for false reporting or noncompliance.
+92 (2) Before August 28, 2027, the department shall promulgate rules to
+93 standardize reporting formats, audit methods, and equivalency criteria for alternative
+94 cooling technologies.
+95 10. Any rule or portion of a rule, as that term is defined in section 536.010, that
+96 is created under the authority delegated in this section shall become effective only if it
+97 complies with and is subject to all of the provisions of chapter 536 and, if applicable,
+98 section 536.028. This section and chapter 536 are nonseverable and if any of the powers
+99 vested with the general assembly pursuant to chapter 536 to review, to delay the
+100 effective date, or to disapprove and annul a rule are subsequently held unconstitutional,
+101 then the grant of rulemaking authority and any rule proposed or adopted after August
+102 28, 2026, shall be invalid and void.
+103 11. The department shall coordinate with the department of health and senior
+104 services, public service commission, and local governments as deemed necessary for the
+105 protection of public health, conservation of water resources and providing
+106 environmental and community impact reports.
+✔
+
+[DELETED:  B N 2IJ a c 6 R b a t o n s r t a Ck TI2 A( " i ( d c a f dp f a i m t o i w ug p u t p u o s a w ac( " w c s a s r s tt0o1( "2(3s4a5( "6o73 T—M i e]
+[DELETED: 8( A A d c c e o p o o9a A 2 2 w a t i c o o h m o0g1( B2i3m44 E5( I a c w c s o a a s6v7i8( I c m o m w v d9t0( M1o25 ( E o s s b A f o e y a3e4a5t6( T7( T8( S9l0( W q m i p t b m a1c2( D o c p e m w3p4( T e c a p d f r5s6( A g g e a e f b g7c8c9( L f a p d d f t w l g0o1( Q o e w b a r d o2r3( R ]
+[DELETED: 4( A a w q m r w a f r o t5f6( A7( N8( S o c b i i b n l t9i0( D o a i v a c a t1d26 ( T3h4( E5u t s s b m a t t p a t r a6p e b t d a n l t s a t7d8( T d s m t r p a o i w9a t i e r a p f p f r a0e1a2( T d s c a s a s o c3i f A d c a s a h o p4o5i67 A7v8a9( F0( F t s a a e a h r u1s28 T3w n a a h c b t a h4c u c 6 a s t t b o p p u5s69 ( T7t8( f t m p w u i ( p9m0( T ]
+[DELETED: 1( A2( B A 2 2 t d s p r t3s4c51 A6i7c8s T9v w t g a p t c 5 t r t d t0e1t2231 T4s5p o p h c o w r a p6e ]
