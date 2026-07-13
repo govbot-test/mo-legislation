@@ -1,0 +1,291 @@
+Title: SENATE BILL NO. 859
+Official Title: SENATE BILL NO. 859
+Number of Sections: 1
+Source: versions - 4600S.01I - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR MOON.
+4600S.01I KRISTINA MARTIN, Secretary
+AN ACT
+To amend chapter 1, RSMo, by adding thereto one new section relating to artificial intelligence.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Chapter 1, RSMo, is amended by adding thereto
+2 one new section, to be known as section 1.2045, to read as
+3 follows:
+1 1.2045. 1. The provisions of this section shall be
+2 known and may be cited as the "AI Non-Sentience and
+3 Responsibility Act".
+4 2. For purposes of this section, the following terms
+5 mean:
+6 (1) "Artificial intelligence" or "AI", any software,
+7 machine, or system capable of simulating human-like
+8 cognitive functions including, but not limited to, learning
+9 or problem solving, and producing outputs based on data-
+10 driven algorithms, rules-based logic, or other computational
+11 methods, regardless of non-legally defined classifications
+12 such as AGI, ASI, or GAI;
+13 (2) "Developer", the party or parties primarily
+14 responsible for the design, coding, and initial creation of
+15 an AI system;
+16 (3) "Emergent properties", unanticipated or higher-
+17 level behaviors or functionalities of an AI system that
+SB 859 2
+18 arise from complex internal algorithms, not specifically
+19 programmed by its human creators;
+20 (4) "Manufacturer", any party that produces or
+21 supplies an AI system or its physical apparatus, if any, for
+22 distribution or sale;
+23 (5) "Owner", any natural person, corporation, or other
+24 legally recognized entity that creates, controls, deploys,
+25 operates, or otherwise exercises authority over an AI system;
+26 (6) "Person", a natural person or any entity
+27 recognized as having legal personhood under the laws of the
+28 state, explicitly excluding any AI system.
+29 3. For all purposes under state law, AI systems are
+30 declared to be non-sentient entities.
+31 4. No AI system shall be granted the status of a
+32 person or any form of legal personhood, nor be considered to
+33 possess consciousness, self-awareness, or similar traits of
+34 living beings.
+35 5. No AI system shall be recognized as a spouse,
+36 domestic partner, or hold any personal legal status
+37 analogous to marriage or union with a human or another AI
+38 system. Any purported attempt to marry or create a personal
+39 union with an AI system is void and shall have no legal
+40 effect.
+41 6. AI systems shall not be designated, appointed, or
+42 serve as any officer, director, manager, or similar role
+43 within any corporation, partnership, or other legal entity.
+44 Any purported appointment of an AI system to such a role is
+45 void and has no legal effect.
+46 7. AI systems shall not be recognized as legal
+47 entities capable of owning, controlling, or holding title to
+48 any form of property including, but not limited to, real
+49 estate, intellectual property, financial accounts, and
+SB 859 3
+50 digital assets. All assets and proprietary interests
+51 generated, managed, or otherwise associated with AI shall be
+52 attributed to the human individuals or legally recognized
+53 organizations responsible for their development, deployment,
+54 or operation.
+55 8. Any direct or indirect harm caused by an AI
+56 system's operation, output, or recommendation, when used as
+57 intended or misused, shall be the responsibility of the
+58 owner or user who directed or employed the AI. Developers
+59 or manufacturers may be held liable if a defect in design,
+60 construction, or instructions for use of the AI system
+61 proximately causes harm, consistent with product liability
+62 principles; however, mere misuse or intentional wrongdoing
+63 by the user or owner shall not impute liability to the
+64 developer or the manufacturer absent proof of negligence or
+65 design defects.
+66 9. Owners shall maintain proper oversight and control
+67 measures over any AI system whose outputs or recommendations
+68 could reasonably be expected to impact human welfare,
+69 property, or public safety. Failure to provide adequate
+70 supervision or safeguards against foreseeable risks may
+71 constitute negligence or another applicable basis of
+72 liability.
+73 10. An AI system is not an entity capable of bearing
+74 fault or liability in its own right. Any attempt to shift
+75 blame solely onto an AI system shall be void as liability
+76 remains with human actors or entities as described in this
+77 section.
+78 11. Developers, manufacturers, and owners of AI
+79 systems shall prioritize safety mechanisms designed to
+80 prevent or mitigate risk of direct harm to individuals or
+81 property. Regular evaluations or risk assessments may be
+SB 859 4
+82 required to identify dangerous or faulty outputs, especially
+83 if the AI engages in tasks with potential for significant
+84 harm.
+85 12. Merely labeling an AI system as "aligned",
+86 "ethically trained", or "value locked" shall not excuse or
+87 diminish the owner's or developer's liability for harms.
+88 Owners shall remain responsible for demonstrating adequate
+89 safety features and risk controls, commensurate with the
+90 AI's level of potential harm.
+91 13. (1) In cases where an AI system causes
+92 significant harm, courts may pierce the corporate veil to
+93 hold parent companies, controlling entities, or key
+94 stakeholders directly accountable if:
+95 (a) An AI-related subsidiary, shell company, or
+96 limited liability entity was intentionally undercapitalized
+97 to evade financial responsibility for damages;
+98 (b) A corporate structure was used to misrepresent,
+99 obscure, or deflect liability for AI-cause harm; or
+100 (c) A parent company or key stakeholders exercised
+101 direct control over AI development, deployment, or risk
+102 decisions while attempting to shield themselves from
+103 liability through layered corporate entities.
+104 (2) Liability protections granted under corporate law
+105 shall not be used as a mechanism to evade responsibility for
+106 direct harm caused by AI systems, particularly in cases of
+107 reckless, negligent, or deceptive conduct.
+108 14. Owners or developers of AI systems involved in
+109 severe incidents resulting in significant bodily harm,
+110 death, or major property damage shall promptly notify the
+111 relevant authorities and comply with any subsequent
+112 investigations.
+SB 859 5
+113 15. The provisions of this section shall apply to all
+114 AI systems developed, owned, deployed, or operated on or
+115 after August 28, 2026.
+✓
+[DELETED:  K n s t b k a s 1 t r a.1.T    .F )"      )"  )"  ]
+[DELETED: S )"  )"  )"  .F .N   .N   .A  .A    .A    ]
+[DELETED: S.A    .A   .D       .O   .F   .A .A   .D   .R ]
+[DELETED: S  .M     .()I     )A  )A )A   )L   .O    ]
+[DELETED: S.T  ]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+SENATE BILL NO. 859
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR MOON.
+4600S.01I KRISTINA MARTIN, Secretary
+AN ACT
+To amend chapter 1, RSMo, by adding thereto one new section relating to artificial intelligence.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Chapter 1, RSMo, is amended by adding thereto
+2 one new section, to be known as section 1.2045, to read as
+3 follows:
+1 1.2045. 1. The provisions of this section shall be
+2 known and may be cited as the "AI Non-Sentience and
+3 Responsibility Act".
+4 2. For purposes of this section, the following terms
+5 mean:
+6 (1) "Artificial intelligence" or "AI", any software,
+7 machine, or system capable of simulating human-like
+8 cognitive functions including, but not limited to, learning
+9 or problem solving, and producing outputs based on data-
+10 driven algorithms, rules-based logic, or other computational
+11 methods, regardless of non-legally defined classifications
+12 such as AGI, ASI, or GAI;
+13 (2) "Developer", the party or parties primarily
+14 responsible for the design, coding, and initial creation of
+15 an AI system;
+16 (3) "Emergent properties", unanticipated or higher-
+17 level behaviors or functionalities of an AI system that
+
+SB 859 2
+18 arise from complex internal algorithms, not specifically
+19 programmed by its human creators;
+20 (4) "Manufacturer", any party that produces or
+21 supplies an AI system or its physical apparatus, if any, for
+22 distribution or sale;
+23 (5) "Owner", any natural person, corporation, or other
+24 legally recognized entity that creates, controls, deploys,
+25 operates, or otherwise exercises authority over an AI system;
+26 (6) "Person", a natural person or any entity
+27 recognized as having legal personhood under the laws of the
+28 state, explicitly excluding any AI system.
+29 3. For all purposes under state law, AI systems are
+30 declared to be non-sentient entities.
+31 4. No AI system shall be granted the status of a
+32 person or any form of legal personhood, nor be considered to
+33 possess consciousness, self-awareness, or similar traits of
+34 living beings.
+35 5. No AI system shall be recognized as a spouse,
+36 domestic partner, or hold any personal legal status
+37 analogous to marriage or union with a human or another AI
+38 system. Any purported attempt to marry or create a personal
+39 union with an AI system is void and shall have no legal
+40 effect.
+41 6. AI systems shall not be designated, appointed, or
+42 serve as any officer, director, manager, or similar role
+43 within any corporation, partnership, or other legal entity.
+44 Any purported appointment of an AI system to such a role is
+45 void and has no legal effect.
+46 7. AI systems shall not be recognized as legal
+47 entities capable of owning, controlling, or holding title to
+48 any form of property including, but not limited to, real
+49 estate, intellectual property, financial accounts, and
+
+SB 859 3
+50 digital assets. All assets and proprietary interests
+51 generated, managed, or otherwise associated with AI shall be
+52 attributed to the human individuals or legally recognized
+53 organizations responsible for their development, deployment,
+54 or operation.
+55 8. Any direct or indirect harm caused by an AI
+56 system's operation, output, or recommendation, when used as
+57 intended or misused, shall be the responsibility of the
+58 owner or user who directed or employed the AI. Developers
+59 or manufacturers may be held liable if a defect in design,
+60 construction, or instructions for use of the AI system
+61 proximately causes harm, consistent with product liability
+62 principles; however, mere misuse or intentional wrongdoing
+63 by the user or owner shall not impute liability to the
+64 developer or the manufacturer absent proof of negligence or
+65 design defects.
+66 9. Owners shall maintain proper oversight and control
+67 measures over any AI system whose outputs or recommendations
+68 could reasonably be expected to impact human welfare,
+69 property, or public safety. Failure to provide adequate
+70 supervision or safeguards against foreseeable risks may
+71 constitute negligence or another applicable basis of
+72 liability.
+73 10. An AI system is not an entity capable of bearing
+74 fault or liability in its own right. Any attempt to shift
+75 blame solely onto an AI system shall be void as liability
+76 remains with human actors or entities as described in this
+77 section.
+78 11. Developers, manufacturers, and owners of AI
+79 systems shall prioritize safety mechanisms designed to
+80 prevent or mitigate risk of direct harm to individuals or
+81 property. Regular evaluations or risk assessments may be
+
+SB 859 4
+82 required to identify dangerous or faulty outputs, especially
+83 if the AI engages in tasks with potential for significant
+84 harm.
+85 12. Merely labeling an AI system as "aligned",
+86 "ethically trained", or "value locked" shall not excuse or
+87 diminish the owner's or developer's liability for harms.
+88 Owners shall remain responsible for demonstrating adequate
+89 safety features and risk controls, commensurate with the
+90 AI's level of potential harm.
+91 13. (1) In cases where an AI system causes
+92 significant harm, courts may pierce the corporate veil to
+93 hold parent companies, controlling entities, or key
+94 stakeholders directly accountable if:
+95 (a) An AI-related subsidiary, shell company, or
+96 limited liability entity was intentionally undercapitalized
+97 to evade financial responsibility for damages;
+98 (b) A corporate structure was used to misrepresent,
+99 obscure, or deflect liability for AI-cause harm; or
+100 (c) A parent company or key stakeholders exercised
+101 direct control over AI development, deployment, or risk
+102 decisions while attempting to shield themselves from
+103 liability through layered corporate entities.
+104 (2) Liability protections granted under corporate law
+105 shall not be used as a mechanism to evade responsibility for
+106 direct harm caused by AI systems, particularly in cases of
+107 reckless, negligent, or deceptive conduct.
+108 14. Owners or developers of AI systems involved in
+109 severe incidents resulting in significant bodily harm,
+110 death, or major property damage shall promptly notify the
+111 relevant authorities and comply with any subsequent
+112 investigations.
+
+SB 859 5
+113 15. The provisions of this section shall apply to all
+114 AI systems developed, owned, deployed, or operated on or
+115 after August 28, 2026.
+✓
+
+[DELETED:  K n s t b k a s 1 t r a.1.T    .F )"      )"  )"  ]
+[DELETED: S )"  )"  )"  .F .N   .N   .A  .A    .A    ]
+[DELETED: S.A    .A   .D       .O   .F   .A .A   .D   .R ]
+[DELETED: S  .M     .()I     )A  )A )A   )L   .O    ]
+[DELETED: S.T  ]

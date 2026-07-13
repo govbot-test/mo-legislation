@@ -1,0 +1,240 @@
+Title: SENATE BILL NO. 1154
+Official Title: SENATE BILL NO. 1154
+Number of Sections: 1
+Source: versions - 5684S.02I - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR NICOLA.
+5684S.02I KRISTINA MARTIN, Secretary
+AN ACT
+To amend chapter 537, RSMo, by adding thereto one new section relating to abusive website
+access litigation.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Chapter 537, RSMo, is amended by adding thereto
+2 one new section, to be known as section 537.1250, to read as
+3 follows:
+1 537.1250. 1. (1) This section shall be known and may
+2 be cited as the "Act Against Abusive Website Access
+3 Litigation".
+4 (2) As used in this section, the following terms mean:
+5 (a) "Access violation", any allegation that a public
+6 accommodation fails to comply with the accessibility
+7 requirements of the federal Americans with Disabilities Act
+8 or under state law;
+9 (b) "Public accommodation", the same as defined in 42
+10 U.S.C. Section 2000, et seq. For the purposes of this
+11 section, "public accommodation" includes a website operated
+12 by a resident of this state;
+13 (c) "Resident of this state", any individual residing
+14 in Missouri or any entity that has registered with the
+15 Missouri secretary of state's office under chapter 351.
+16 2. (1) The attorney general, on behalf of a class of
+17 residents of this state under section 507.070 who are
+SB 1154 2
+18 subject to litigation that alleges any website access
+19 violation and any resident of this state who is subject to
+20 litigation that alleges any website access violation, may
+21 file a civil action in any court of competent jurisdiction
+22 within this state against the party, attorney, or law firm
+23 that initiated such litigation for a determination as to
+24 whether such litigation alleging a website access violation
+25 is abusive litigation.
+26 (2) A civil action alleging a website access claim is
+27 considered abusive only if, based on the totality of the
+28 circumstances, the court finds that the primary purpose of
+29 the action was to obtain a monetary settlement unrelated to
+30 improving accessibility or enforcing accessibility rights.
+31 In making this determination, the court may consider:
+32 (a) Whether the same plaintiff, attorney, or law firm
+33 has filed a high number of substantially similar lawsuits
+34 without meaningful efforts to resolve or improve
+35 accessibility;
+36 (b) Whether the plaintiff provided the defendant with
+37 reasonable notice and an opportunity to correct the alleged
+38 barrier prior to filing suit;
+39 (c) Any history of sanctions or findings of bad faith
+40 against the plaintiff or counsel;
+41 (d) Whether the filing party or lawyer filing the
+42 litigation is a resident of this state or is licensed to
+43 practice law in this state;
+44 (e) The nature of settlement discussions and the
+45 reasonableness of settlement offers and refusals to settle.
+46 The application of such settlement information shall be used
+47 only as provided by this section and shall not otherwise
+48 alter the rules of evidence applicable to such court; and
+SB 1154 3
+49 (f) Whether any factors under Missouri supreme court
+50 rule 55.03(c) exist in the litigation and whether sanctions
+51 are appropriate under Missouri supreme court rule 55.03(d).
+52 (3) A defendant who receives written notice of an
+53 alleged website accessibility violation and in good faith
+54 initiates substantial steps to correct it within ninety days
+55 shall have a rebuttable presumption that any subsequent
+56 litigation is not abusive. The presumption may be overcome
+57 by showing that the defendant failed to complete reasonable
+58 corrective measures within ninety days or acted in bad
+59 faith. The trier of fact shall not determine whether such
+60 litigation is abusive litigation until after such ninety-day
+61 period expires or the alleged violation is corrected, as
+62 determined by the court, whichever occurs first.
+63 3. The attorney general may intervene or bring an
+64 action on behalf of Missouri residents or entities that are
+65 the targets of abusive website access litigation as defined
+66 in this section. The attorney general may also issue
+67 guidance or determinations clarifying when litigation
+68 practices are deemed abusive, but such determinations shall
+69 not preclude legitimate accessibility enforcement actions.
+70 4. If the trier of fact determines that an initiator
+71 of an action under subsection 2 of this section is a
+72 defendant in abusive litigation, the court may award
+73 reasonable attorney's fees and costs in bringing the action
+74 under subsection 2 of this section as well as defending
+75 against the abusive litigation to be paid by the party
+76 bringing the abusive litigation. In addition, the court may
+77 award punitive damages or sanctions not to exceed three
+78 times the amount of attorney's fees awarded by the court.
+79 5. At the conclusion of the litigation alleging a
+80 website access violation, the court shall review any
+SB 1154 4
+81 determination that such litigation is abusive and any award
+82 of attorney's fees under the Missouri rules of professional
+83 conduct to determine the reasonableness of the award before
+84 issuing a judgment.
+85 6. If the federal Department of Justice issues
+86 standards concerning website accessibility under Title III
+87 of the federal Americans with Disabilities Act, the attorney
+88 general shall notify the revisor of statutes that such
+89 standards have been issued. Upon receipt of such
+90 notification by the revisor, the provisions of this section
+91 shall expire.
+✓
+[DELETED:  K.1.()T       )A)"   )" .F  )"  .()T    ]
+[DELETED: S       )A     )W   )W  )A )W  )T    ]
+[DELETED: S)W  )A    .T   .T   .T   .T   .I      .I  .A  ]
+[DELETED: S   .I    .U  ]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+SENATE BILL NO. 1154
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR NICOLA.
+5684S.02I KRISTINA MARTIN, Secretary
+AN ACT
+To amend chapter 537, RSMo, by adding thereto one new section relating to abusive website
+access litigation.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Chapter 537, RSMo, is amended by adding thereto
+2 one new section, to be known as section 537.1250, to read as
+3 follows:
+1 537.1250. 1. (1) This section shall be known and may
+2 be cited as the "Act Against Abusive Website Access
+3 Litigation".
+4 (2) As used in this section, the following terms mean:
+5 (a) "Access violation", any allegation that a public
+6 accommodation fails to comply with the accessibility
+7 requirements of the federal Americans with Disabilities Act
+8 or under state law;
+9 (b) "Public accommodation", the same as defined in 42
+10 U.S.C. Section 2000, et seq. For the purposes of this
+11 section, "public accommodation" includes a website operated
+12 by a resident of this state;
+13 (c) "Resident of this state", any individual residing
+14 in Missouri or any entity that has registered with the
+15 Missouri secretary of state's office under chapter 351.
+16 2. (1) The attorney general, on behalf of a class of
+17 residents of this state under section 507.070 who are
+
+SB 1154 2
+18 subject to litigation that alleges any website access
+19 violation and any resident of this state who is subject to
+20 litigation that alleges any website access violation, may
+21 file a civil action in any court of competent jurisdiction
+22 within this state against the party, attorney, or law firm
+23 that initiated such litigation for a determination as to
+24 whether such litigation alleging a website access violation
+25 is abusive litigation.
+26 (2) A civil action alleging a website access claim is
+27 considered abusive only if, based on the totality of the
+28 circumstances, the court finds that the primary purpose of
+29 the action was to obtain a monetary settlement unrelated to
+30 improving accessibility or enforcing accessibility rights.
+31 In making this determination, the court may consider:
+32 (a) Whether the same plaintiff, attorney, or law firm
+33 has filed a high number of substantially similar lawsuits
+34 without meaningful efforts to resolve or improve
+35 accessibility;
+36 (b) Whether the plaintiff provided the defendant with
+37 reasonable notice and an opportunity to correct the alleged
+38 barrier prior to filing suit;
+39 (c) Any history of sanctions or findings of bad faith
+40 against the plaintiff or counsel;
+41 (d) Whether the filing party or lawyer filing the
+42 litigation is a resident of this state or is licensed to
+43 practice law in this state;
+44 (e) The nature of settlement discussions and the
+45 reasonableness of settlement offers and refusals to settle.
+46 The application of such settlement information shall be used
+47 only as provided by this section and shall not otherwise
+48 alter the rules of evidence applicable to such court; and
+
+SB 1154 3
+49 (f) Whether any factors under Missouri supreme court
+50 rule 55.03(c) exist in the litigation and whether sanctions
+51 are appropriate under Missouri supreme court rule 55.03(d).
+52 (3) A defendant who receives written notice of an
+53 alleged website accessibility violation and in good faith
+54 initiates substantial steps to correct it within ninety days
+55 shall have a rebuttable presumption that any subsequent
+56 litigation is not abusive. The presumption may be overcome
+57 by showing that the defendant failed to complete reasonable
+58 corrective measures within ninety days or acted in bad
+59 faith. The trier of fact shall not determine whether such
+60 litigation is abusive litigation until after such ninety-day
+61 period expires or the alleged violation is corrected, as
+62 determined by the court, whichever occurs first.
+63 3. The attorney general may intervene or bring an
+64 action on behalf of Missouri residents or entities that are
+65 the targets of abusive website access litigation as defined
+66 in this section. The attorney general may also issue
+67 guidance or determinations clarifying when litigation
+68 practices are deemed abusive, but such determinations shall
+69 not preclude legitimate accessibility enforcement actions.
+70 4. If the trier of fact determines that an initiator
+71 of an action under subsection 2 of this section is a
+72 defendant in abusive litigation, the court may award
+73 reasonable attorney's fees and costs in bringing the action
+74 under subsection 2 of this section as well as defending
+75 against the abusive litigation to be paid by the party
+76 bringing the abusive litigation. In addition, the court may
+77 award punitive damages or sanctions not to exceed three
+78 times the amount of attorney's fees awarded by the court.
+79 5. At the conclusion of the litigation alleging a
+80 website access violation, the court shall review any
+
+SB 1154 4
+81 determination that such litigation is abusive and any award
+82 of attorney's fees under the Missouri rules of professional
+83 conduct to determine the reasonableness of the award before
+84 issuing a judgment.
+85 6. If the federal Department of Justice issues
+86 standards concerning website accessibility under Title III
+87 of the federal Americans with Disabilities Act, the attorney
+88 general shall notify the revisor of statutes that such
+89 standards have been issued. Upon receipt of such
+90 notification by the revisor, the provisions of this section
+91 shall expire.
+✓
+
+[DELETED:  K.1.()T       )A)"   )" .F  )"  .()T    ]
+[DELETED: S       )A     )W   )W  )A )W  )T    ]
+[DELETED: S)W  )A    .T   .T   .T   .T   .I      .I  .A  ]
+[DELETED: S   .I    .U  ]

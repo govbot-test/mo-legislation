@@ -1,0 +1,383 @@
+Title: HOUSE BILL NO. 2125
+Official Title: HOUSE BILL NO. 2125
+Number of Sections: 11
+Source: versions - Perfected
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+[PERFECTED]
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE BANDERMAN.
+4226H.02P JOSEPH ENGLER, Chief Clerk
+AN ACT
+To repeal sections 115.158, 115.642, 347.740, 351.127, 355.023, 356.233, 359.653, 400.9-
+528, and 417.018, RSMo, and to enact in lieu thereof nine new sections relating to
+functions of the secretary of state.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+
+Section 2:
+Section A. Sections 115.158, 115.642, 347.740, 351.127, 355.023, 356.233, 359.653,
+2 400.9-528, and 417.018, RSMo, are repealed and nine new sections enacted in lieu thereof, to
+3 be known as sections 115.158, 115.642, 347.740, 351.127, 355.023, 356.233, 359.653, 400.9-
+4 528, and 417.018, to read as follows:
+
+Section 3:
+115.158. 1. The secretary of state shall implement a centralized, interactive
+2 computerized statewide voter registration list. This computerized list shall be known as the
+3 "Missouri Voter Registration System". The system shall be implemented by January 1, 2004,
+4 unless a waiver is obtained pursuant to the Help America Vote Act of 2002. If a waiver is
+5 obtained, the system shall be implemented by January 1, 2006. The system shall be
+6 maintained and administered by the secretary of state and contain the name and registration
+7 information of every legally registered voter in Missouri. In addition, the system shall:
+8 (1) Assign a unique identifier to each legally registered voter in Missouri;
+9 (2) Serve as the single system for storing and managing the official list of registered
+10 voters throughout Missouri;
+11 (3) Be coordinated with other agency databases in Missouri;
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+HB 2125 2
+12 (4) Allow any election official in Missouri, including local election authorities,
+13 immediate electronic access to the information contained in the system;
+14 (5) Allow all voter registration information obtained by any local election official in
+15 Missouri to be electronically entered into the system on an expedited basis at the time the
+16 information is provided to the local official. The secretary of state, as the chief state election
+17 official, shall provide such support as may be required so that local election officials are able
+18 to enter the registration information; and
+19 (6) Serve as the official voter registration list for the conduct of all elections in
+20 Missouri.
+21 2. The secretary of state and local election authorities shall perform system
+22 maintenance on a regular basis, which shall include:
+23 (1) Removing names in accordance with the provisions and procedures of the
+24 National Voter Registration Act of 1993 and coordinating system maintenance activities with
+25 state agency records on death and felony status;
+26 (2) Requiring the name of each registered voter to appear in the system;
+27 (3) Removing only voters who are not registered or who are not eligible to vote; and
+28 (4) Eliminating duplicate names from the system.
+29 3. The secretary of state shall provide adequate technological security measures to
+30 prevent the unauthorized access to the system established pursuant to this section.
+31 4. The secretary of state shall develop procedures to ensure that voter registration
+32 records within the system are accurate and updated regularly. At a minimum, the procedures
+33 shall include:
+34 (1) A system of file maintenance that makes a reasonable effort to remove registrants
+35 who are ineligible to vote. Consistent with the National Voter Registration Act of 1993,
+36 registrants who have not responded to a notice and who have not voted in two consecutive
+37 general elections for federal office shall be removed from the official list of eligible voters,
+38 except that no registrant may be removed solely by reason of a failure to vote; and
+39 (2) Safeguards to ensure that eligible voters are not removed in error.
+40 5. Voter registration information shall be verified in accordance with the Help
+41 America Vote Act of 2002.
+42 (1) Except as provided in subdivision (2) of this subsection, an application for voter
+43 registration may not be accepted or processed unless the application includes:
+44 (a) In the case of an applicant who has been issued a current and valid driver's license,
+45 the applicant's driver's license number; or
+46 (b) In the case of any other applicant, other than an applicant to whom subdivision (2)
+47 applies, the last four digits of the applicant's Social Security number.
+HB 2125 3
+48 (2) If an applicant for voter registration has not been issued a current and valid
+49 driver's license or a Social Security number, the applicant shall be assigned a number which
+50 will serve to identify the applicant for voter registration purposes. The number assigned
+51 under this subdivision shall be used as the unique identifying number within the system.
+52 (3) The secretary of state and the director of the department of revenue shall enter into
+53 an agreement to match information in the database of the voter registration system with
+54 information in the database of the motor vehicle system, which shall include information
+55 pertaining to the citizenship status of those within the department of revenue's database,
+56 to enable the secretary to verify the accuracy of information provided on applications for
+57 voter registration.
+58 (4) The director of the department of revenue shall enter into an agreement with the
+59 commissioner of Social Security and comply with the Help America Vote Act of 2002.
+60 6. In addition to using the system for voter registration, the election authorities and
+61 secretary of state may use the system for the collection and dissemination of election results
+62 and other pertinent information. Any information contained in any state or local voter
+63 registration system, limited to the master voter registration list or any other list generated
+64 from the information, subject to chapter 610, shall not be used for commercial purposes;
+65 provided, however, that the information may be used for elections, for candidates, or for
+66 ballot measures, furnished at a reasonable fee. Violation of this section shall be a class B
+67 misdemeanor. For purposes of this section, "commercial purposes" means the use of a public
+68 record for the purpose of sale or resale or for the purpose of producing a document containing
+69 all or part of the copy, printout, or photograph for sale or the obtaining of names and
+70 addresses from public records for the purpose of solicitation or the sale of names and
+71 addresses to another for the purpose of solicitation or for any purpose in which the purchaser
+72 can reasonably anticipate the receipt of monetary gain from the direct or indirect use of the
+73 public record.
+74 7. The secretary of state shall establish an advisory committee to assist in the
+75 establishment and maintenance of the Missouri voter registration system.
+76 8. The secretary of state may promulgate rules to execute this section. No rule or
+77 portion of a rule promulgated pursuant to the authority of this section shall become effective
+78 unless it has been promulgated pursuant to chapter 536.
+79 9. Election authorities and any agency required under the National Voter Registration
+80 Act of 1993 to accept voter registration applications shall forward registration and other data
+81 in a manner prescribed by the secretary of state to assist with administering and maintaining
+82 the Missouri voter registration system in accordance with the Help America Vote Act of 2002.
+HB 2125 4
+
+Section 4:
+115.642. 1. Any person may file a complaint with the secretary of state stating the
+2 name of any person who has violated any of the provisions of sections 115.629 to 115.646 and
+3 stating the facts of the alleged offense, sworn to, under penalty of perjury.
+4 2. Within thirty days of receiving a complaint, the secretary of state shall notify the
+5 person filing the complaint whether or not the secretary has dismissed the complaint or will
+6 commence an investigation. The secretary of state shall dismiss frivolous complaints. For
+7 purposes of this subsection, "frivolous complaint" shall mean an allegation clearly lacking
+8 any basis in fact or law. Any person who makes a frivolous complaint pursuant to this section
+9 shall be liable for actual and compensatory damages to the alleged violator for holding the
+10 alleged violator before the public in a false light. If reasonable grounds appear that the
+11 alleged offense was committed, the secretary of state may issue a probable cause statement.
+12 If the secretary of state issues a probable cause statement, he or she may refer the offense to
+13 the appropriate prosecuting attorney.
+14 3. Notwithstanding the provisions of section 27.060, 56.060, or 56.430 to the
+15 contrary, when requested by the prosecuting attorney or circuit attorney, the secretary of state
+16 or his or her authorized representatives may aid any prosecuting attorney or circuit attorney in
+17 the commencement and prosecution of election offenses as provided in sections 115.629 to
+18 115.646.
+19 4. (1) The secretary of state may investigate any suspected violation of any of the
+20 provisions of sections 115.629 to 115.646.
+21 (2) (a) The secretary of state or an authorized representative of the secretary of state
+22 shall have the power to require the production of books, papers, correspondence, memoranda,
+23 contracts, agreements, and other records by subpoena or otherwise when necessary to conduct
+24 an investigation under this section. Such powers shall be exercised only at the specific
+25 written direction of the secretary of state or his or her chief deputy.
+26 (b) If any person refuses to comply with a subpoena issued under this [subsection]
+27 subdivision, the secretary of state may seek to enforce the subpoena before a court of
+28 competent jurisdiction to require the production of books, papers, correspondence,
+29 memoranda, contracts, agreements, and other records. The court may issue an order
+30 requiring the person to produce records relating to the matter under investigation or in
+31 question. Any person who fails to comply with the order may be held in contempt of court.
+32 [(c) The provisions of this subdivision shall expire on August 28, 2025 .]
+
+Section 5:
+347.740. The secretary of state may collect an additional fee of five dollars on each
+2 and every fee required in this chapter. All fees collected as provided in this section shall be
+3 deposited in the state treasury and credited to the secretary of state's technology trust fund
+4 account. The provisions of this section shall expire on December 31, [2026] 2031.
+HB 2125 5
+
+Section 6:
+351.127. The secretary of state may collect an additional fee of five dollars on each
+2 and every fee required in this chapter, provided that the secretary of state may collect an
+3 additional fee of ten dollars on each corporate registration report fee filed under section
+4 351.122. All fees collected as provided in this section shall be deposited in the state treasury
+5 and credited to the secretary of state's technology trust fund account. The provisions of this
+6 section shall expire on December 31, [2026] 2031.
+
+Section 7:
+355.023. The secretary of state may collect an additional fee of five dollars on each
+2 and every fee required in this chapter. All fees collected as provided in this section shall be
+3 deposited in the state treasury and credited to the secretary of state's technology trust fund
+4 account. The provisions of this section shall expire on December 31, [2026] 2031.
+
+Section 8:
+356.233. The secretary of state may collect an additional fee of five dollars on each
+2 and every fee required in this chapter. All fees collected as provided in this section shall be
+3 deposited in the state treasury and credited to the secretary of state's technology trust fund
+4 account. The provisions of this section shall expire on December 31, [2026] 2031.
+
+Section 9:
+359.653. The secretary of state may collect an additional fee of five dollars on each
+2 and every fee required in this chapter. All fees collected as provided in this section shall be
+3 deposited in the state treasury and credited to the secretary of state's technology trust fund
+4 account. The provisions of this section shall expire on December 31, [2026] 2031.
+
+Section 10:
+400.9-528. The secretary of state may collect an additional fee of five dollars on each
+2 and every fee paid to the secretary of state as required in chapter 400.9. All fees collected as
+3 provided in this section shall be deposited in the state treasury and credited to the secretary of
+4 state's technology trust fund account. The provisions of this section shall expire on December
+5 31, [2026] 2031.
+
+Section 11:
+417.018. The secretary of state may collect an additional fee of five dollars on each
+2 and every fee required in this chapter. All fees collected as provided in this section shall be
+3 deposited in the state treasury and credited to the secretary of state's technology trust fund
+4 account. The provisions of this section shall expire on December 31, [2026] 2031.
+✔
+[DELETED:  B N 2PJ S4b5 T s o s s i a c ic T" Tu Io t s s b i b J 1 2 T s s bmi I( A( S0v1( B—M i e]
+[DELETED: 2( A a e o i M i l e a3i4( A5M6i T7o8t9( S a t o v r l f t c o a e i0M12 T s o s a l e a s p s2m3( R n i a w t p a p o t4N5s6( R7(8( E93 T0p14 T2r A3s4( A5w C N o6r7g8e9( S05 V r i s b v i a w t H1A2( E3r4( I5t6(7a ]
+[DELETED: 8( I a a f v r h n b i a c a v9d0w t i t a v p T a1u2( T3a a t m i i t d o t v r s w4i5p6t7v8( T9c06 I1s2a o p i A i c i a s o l v3r4f t u c5p h t t i m b u f e f c o f6b V7m F8r9a o p o t c p o p f s o t o o n a0a f p r f t p o s o t s o n a1a2c3p47 T s o s s e a a c t a i t5e68 T7p8u99 E0A1i2t ]
+[DELETED:  1 Ans2 Wpc T Fpa As0a v b t p i a f l I r g a t t1a2I3t43 N t p o s 2 5 o 5 t t5c6o7t8194 ( T0p1( ( T2s3c4a i u t s S p s b e o a t s5w6( I7s t s o s m s t e t s b a c o8c j t r t p o b p c9m c a a o r T c m i a o0r t p t p r r t t m u i o i1q A2[)T5. Ta Ada T ]
+[DELETED:  Taa f o t d o e c r r f f u s3 Aa Ts Ta Ada T Ta Ada T Ta Ada T Ta Aps T3 Ta Ada T ]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+[PERFECTED]
+HOUSE BILL NO. 2125
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE BANDERMAN.
+4226H.02P JOSEPH ENGLER, Chief Clerk
+AN ACT
+To repeal sections 115.158, 115.642, 347.740, 351.127, 355.023, 356.233, 359.653, 400.9-
+528, and 417.018, RSMo, and to enact in lieu thereof nine new sections relating to
+functions of the secretary of state.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Sections 115.158, 115.642, 347.740, 351.127, 355.023, 356.233, 359.653,
+2 400.9-528, and 417.018, RSMo, are repealed and nine new sections enacted in lieu thereof, to
+3 be known as sections 115.158, 115.642, 347.740, 351.127, 355.023, 356.233, 359.653, 400.9-
+4 528, and 417.018, to read as follows:
+115.158. 1. The secretary of state shall implement a centralized, interactive
+2 computerized statewide voter registration list. This computerized list shall be known as the
+3 "Missouri Voter Registration System". The system shall be implemented by January 1, 2004,
+4 unless a waiver is obtained pursuant to the Help America Vote Act of 2002. If a waiver is
+5 obtained, the system shall be implemented by January 1, 2006. The system shall be
+6 maintained and administered by the secretary of state and contain the name and registration
+7 information of every legally registered voter in Missouri. In addition, the system shall:
+8 (1) Assign a unique identifier to each legally registered voter in Missouri;
+9 (2) Serve as the single system for storing and managing the official list of registered
+10 voters throughout Missouri;
+11 (3) Be coordinated with other agency databases in Missouri;
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 2125 2
+12 (4) Allow any election official in Missouri, including local election authorities,
+13 immediate electronic access to the information contained in the system;
+14 (5) Allow all voter registration information obtained by any local election official in
+15 Missouri to be electronically entered into the system on an expedited basis at the time the
+16 information is provided to the local official. The secretary of state, as the chief state election
+17 official, shall provide such support as may be required so that local election officials are able
+18 to enter the registration information; and
+19 (6) Serve as the official voter registration list for the conduct of all elections in
+20 Missouri.
+21 2. The secretary of state and local election authorities shall perform system
+22 maintenance on a regular basis, which shall include:
+23 (1) Removing names in accordance with the provisions and procedures of the
+24 National Voter Registration Act of 1993 and coordinating system maintenance activities with
+25 state agency records on death and felony status;
+26 (2) Requiring the name of each registered voter to appear in the system;
+27 (3) Removing only voters who are not registered or who are not eligible to vote; and
+28 (4) Eliminating duplicate names from the system.
+29 3. The secretary of state shall provide adequate technological security measures to
+30 prevent the unauthorized access to the system established pursuant to this section.
+31 4. The secretary of state shall develop procedures to ensure that voter registration
+32 records within the system are accurate and updated regularly. At a minimum, the procedures
+33 shall include:
+34 (1) A system of file maintenance that makes a reasonable effort to remove registrants
+35 who are ineligible to vote. Consistent with the National Voter Registration Act of 1993,
+36 registrants who have not responded to a notice and who have not voted in two consecutive
+37 general elections for federal office shall be removed from the official list of eligible voters,
+38 except that no registrant may be removed solely by reason of a failure to vote; and
+39 (2) Safeguards to ensure that eligible voters are not removed in error.
+40 5. Voter registration information shall be verified in accordance with the Help
+41 America Vote Act of 2002.
+42 (1) Except as provided in subdivision (2) of this subsection, an application for voter
+43 registration may not be accepted or processed unless the application includes:
+44 (a) In the case of an applicant who has been issued a current and valid driver's license,
+45 the applicant's driver's license number; or
+46 (b) In the case of any other applicant, other than an applicant to whom subdivision (2)
+47 applies, the last four digits of the applicant's Social Security number.
+
+HB 2125 3
+48 (2) If an applicant for voter registration has not been issued a current and valid
+49 driver's license or a Social Security number, the applicant shall be assigned a number which
+50 will serve to identify the applicant for voter registration purposes. The number assigned
+51 under this subdivision shall be used as the unique identifying number within the system.
+52 (3) The secretary of state and the director of the department of revenue shall enter into
+53 an agreement to match information in the database of the voter registration system with
+54 information in the database of the motor vehicle system, which shall include information
+55 pertaining to the citizenship status of those within the department of revenue's database,
+56 to enable the secretary to verify the accuracy of information provided on applications for
+57 voter registration.
+58 (4) The director of the department of revenue shall enter into an agreement with the
+59 commissioner of Social Security and comply with the Help America Vote Act of 2002.
+60 6. In addition to using the system for voter registration, the election authorities and
+61 secretary of state may use the system for the collection and dissemination of election results
+62 and other pertinent information. Any information contained in any state or local voter
+63 registration system, limited to the master voter registration list or any other list generated
+64 from the information, subject to chapter 610, shall not be used for commercial purposes;
+65 provided, however, that the information may be used for elections, for candidates, or for
+66 ballot measures, furnished at a reasonable fee. Violation of this section shall be a class B
+67 misdemeanor. For purposes of this section, "commercial purposes" means the use of a public
+68 record for the purpose of sale or resale or for the purpose of producing a document containing
+69 all or part of the copy, printout, or photograph for sale or the obtaining of names and
+70 addresses from public records for the purpose of solicitation or the sale of names and
+71 addresses to another for the purpose of solicitation or for any purpose in which the purchaser
+72 can reasonably anticipate the receipt of monetary gain from the direct or indirect use of the
+73 public record.
+74 7. The secretary of state shall establish an advisory committee to assist in the
+75 establishment and maintenance of the Missouri voter registration system.
+76 8. The secretary of state may promulgate rules to execute this section. No rule or
+77 portion of a rule promulgated pursuant to the authority of this section shall become effective
+78 unless it has been promulgated pursuant to chapter 536.
+79 9. Election authorities and any agency required under the National Voter Registration
+80 Act of 1993 to accept voter registration applications shall forward registration and other data
+81 in a manner prescribed by the secretary of state to assist with administering and maintaining
+82 the Missouri voter registration system in accordance with the Help America Vote Act of 2002.
+
+HB 2125 4
+115.642. 1. Any person may file a complaint with the secretary of state stating the
+2 name of any person who has violated any of the provisions of sections 115.629 to 115.646 and
+3 stating the facts of the alleged offense, sworn to, under penalty of perjury.
+4 2. Within thirty days of receiving a complaint, the secretary of state shall notify the
+5 person filing the complaint whether or not the secretary has dismissed the complaint or will
+6 commence an investigation. The secretary of state shall dismiss frivolous complaints. For
+7 purposes of this subsection, "frivolous complaint" shall mean an allegation clearly lacking
+8 any basis in fact or law. Any person who makes a frivolous complaint pursuant to this section
+9 shall be liable for actual and compensatory damages to the alleged violator for holding the
+10 alleged violator before the public in a false light. If reasonable grounds appear that the
+11 alleged offense was committed, the secretary of state may issue a probable cause statement.
+12 If the secretary of state issues a probable cause statement, he or she may refer the offense to
+13 the appropriate prosecuting attorney.
+14 3. Notwithstanding the provisions of section 27.060, 56.060, or 56.430 to the
+15 contrary, when requested by the prosecuting attorney or circuit attorney, the secretary of state
+16 or his or her authorized representatives may aid any prosecuting attorney or circuit attorney in
+17 the commencement and prosecution of election offenses as provided in sections 115.629 to
+18 115.646.
+19 4. (1) The secretary of state may investigate any suspected violation of any of the
+20 provisions of sections 115.629 to 115.646.
+21 (2) (a) The secretary of state or an authorized representative of the secretary of state
+22 shall have the power to require the production of books, papers, correspondence, memoranda,
+23 contracts, agreements, and other records by subpoena or otherwise when necessary to conduct
+24 an investigation under this section. Such powers shall be exercised only at the specific
+25 written direction of the secretary of state or his or her chief deputy.
+26 (b) If any person refuses to comply with a subpoena issued under this [subsection]
+27 subdivision, the secretary of state may seek to enforce the subpoena before a court of
+28 competent jurisdiction to require the production of books, papers, correspondence,
+29 memoranda, contracts, agreements, and other records. The court may issue an order
+30 requiring the person to produce records relating to the matter under investigation or in
+31 question. Any person who fails to comply with the order may be held in contempt of court.
+32 [(c) The provisions of this subdivision shall expire on August 28, 2025 .]
+347.740. The secretary of state may collect an additional fee of five dollars on each
+2 and every fee required in this chapter. All fees collected as provided in this section shall be
+3 deposited in the state treasury and credited to the secretary of state's technology trust fund
+4 account. The provisions of this section shall expire on December 31, [2026] 2031.
+
+HB 2125 5
+351.127. The secretary of state may collect an additional fee of five dollars on each
+2 and every fee required in this chapter, provided that the secretary of state may collect an
+3 additional fee of ten dollars on each corporate registration report fee filed under section
+4 351.122. All fees collected as provided in this section shall be deposited in the state treasury
+5 and credited to the secretary of state's technology trust fund account. The provisions of this
+6 section shall expire on December 31, [2026] 2031.
+355.023. The secretary of state may collect an additional fee of five dollars on each
+2 and every fee required in this chapter. All fees collected as provided in this section shall be
+3 deposited in the state treasury and credited to the secretary of state's technology trust fund
+4 account. The provisions of this section shall expire on December 31, [2026] 2031.
+356.233. The secretary of state may collect an additional fee of five dollars on each
+2 and every fee required in this chapter. All fees collected as provided in this section shall be
+3 deposited in the state treasury and credited to the secretary of state's technology trust fund
+4 account. The provisions of this section shall expire on December 31, [2026] 2031.
+359.653. The secretary of state may collect an additional fee of five dollars on each
+2 and every fee required in this chapter. All fees collected as provided in this section shall be
+3 deposited in the state treasury and credited to the secretary of state's technology trust fund
+4 account. The provisions of this section shall expire on December 31, [2026] 2031.
+400.9-528. The secretary of state may collect an additional fee of five dollars on each
+2 and every fee paid to the secretary of state as required in chapter 400.9. All fees collected as
+3 provided in this section shall be deposited in the state treasury and credited to the secretary of
+4 state's technology trust fund account. The provisions of this section shall expire on December
+5 31, [2026] 2031.
+417.018. The secretary of state may collect an additional fee of five dollars on each
+2 and every fee required in this chapter. All fees collected as provided in this section shall be
+3 deposited in the state treasury and credited to the secretary of state's technology trust fund
+4 account. The provisions of this section shall expire on December 31, [2026] 2031.
+✔
+
+[DELETED:  B N 2PJ S4b5 T s o s s i a c ic T" Tu Io t s s b i b J 1 2 T s s bmi I( A( S0v1( B—M i e]
+[DELETED: 2( A a e o i M i l e a3i4( A5M6i T7o8t9( S a t o v r l f t c o a e i0M12 T s o s a l e a s p s2m3( R n i a w t p a p o t4N5s6( R7(8( E93 T0p14 T2r A3s4( A5w C N o6r7g8e9( S05 V r i s b v i a w t H1A2( E3r4( I5t6(7a ]
+[DELETED: 8( I a a f v r h n b i a c a v9d0w t i t a v p T a1u2( T3a a t m i i t d o t v r s w4i5p6t7v8( T9c06 I1s2a o p i A i c i a s o l v3r4f t u c5p h t t i m b u f e f c o f6b V7m F8r9a o p o t c p o p f s o t o o n a0a f p r f t p o s o t s o n a1a2c3p47 T s o s s e a a c t a i t5e68 T7p8u99 E0A1i2t ]
+[DELETED:  1 Ans2 Wpc T Fpa As0a v b t p i a f l I r g a t t1a2I3t43 N t p o s 2 5 o 5 t t5c6o7t8194 ( T0p1( ( T2s3c4a i u t s S p s b e o a t s5w6( I7s t s o s m s t e t s b a c o8c j t r t p o b p c9m c a a o r T c m i a o0r t p t p r r t t m u i o i1q A2[)T5. Ta Ada T ]
+[DELETED:  Taa f o t d o e c r r f f u s3 Aa Ts Ta Ada T Ta Ada T Ta Ada T Ta Aps T3 Ta Ada T ]

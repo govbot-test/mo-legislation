@@ -1,0 +1,1037 @@
+Title: HOUSE BILL NO. 2995
+Official Title: HOUSE BILL NO. 2995
+Number of Sections: 16
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE CATON.
+6158H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapter 324, RSMo, by adding thereto fourteen new sections relating to the
+licensing of radon industry professionals and businesses.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+
+Section 2:
+Section A. Chapter 324, RSMo, is amended by adding thereto fourteen new sections,
+2 to be known as sections 324.2000, 324.2005, 324.2010, 324.2015, 324.2020, 324.2025,
+3 324.2030, 324.2035, 324.2040, 324.2045, 324.2050, 324.2055, 324.2060, and 324.2065, to
+4 read as follows:
+
+Section 3:
+324.2000. As used in sections 324.2000 to 324.2065, unless the context requires
+2 otherwise, the following terms mean:
+3 (1) "Alter", to change or modify a building or building design, or to revise,
+4 rather than repair, a mitigation system or mitigation system design;
+5 (2) "Board of radon safety" or "board", the group of radon professionals
+6 representing radon business entities as well as nonradon professionals acting on behalf
+7 of the board to establish and implement standards, policies, protocols, and procedures
+8 in accordance with sections 324.2000 to 324.2065;
+9 (3) "Building", any structure used or intended to be used for supporting or
+10 sheltering any use or occupancy;
+11 (4) "Certified", meeting the certification requirements of an EPA-recognized
+12 radon proficiency program for radon measurement or radon mitigation;
+13 (5) "Compensation", something of value given or received in exchange for radon
+14 measurement, mitigation, inspection, or laboratory analysis;
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+HB 2995 2
+15 (6) "Direct supervision", on-site supervision by a certified person who accepts
+16 responsibility for ensuring compliance by his or her employees, subcontractors, or other
+17 designated agents with all applicable requirements under sections 324.2000 to 324.2065;
+18 (7) "Division", the division of professional registration;
+19 (8) "EPA", the United States Environmental Protection Agency;
+20 (9) "Laboratory analysis", the act of analyzing radon or radon progeny
+21 concentrations with passive measurement devices, the act of calibrating radon or radon
+22 progeny measurement devices, or the act of exposing radon or radon progeny
+23 measurement devices to controlled concentrations of radon or radon progeny;
+24 (10) "Licensee", a person or business entity licensed by the board as a
+25 measurement professional, mitigation professional, radon mitigation inspector, or radon
+26 laboratory;
+27 (11) "Measurement", the act of testing the air, water, or soil using an active or
+28 passive measurement device for the presence of radon or radon progeny in the indoor
+29 environment of a building;
+30 (12) "Measurement device", any active or passive device approved by a radon
+31 proficiency program and used for the measurement of radon or radon progeny in air or
+32 water in the indoor environment of a building;
+33 (13) "Measurement professional", a person certified by a radon proficiency
+34 program who provides radon measurement for compensation and who meets the
+35 requirements of section 324.2010;
+36 (14) "Mitigation", the act of installing, repairing, or altering an active or passive
+37 system for the purpose, in whole or in part, of reducing the concentration of radon or
+38 radon progeny in the indoor environment of a building;
+39 (15) "Mitigation professional", a person certified by a radon proficiency
+40 program who provides radon mitigation for compensation and who meets the
+41 requirements of section 324.2015;
+42 (16) "Mitigation system", any active or passive system designed to reduce radon
+43 concentrations in the indoor environment of a building;
+44 (17) "Person", an individual, corporation, association, or other legal entity;
+45 (18) "Prescribed", promulgated by administrative regulation by the board;
+46 (19) "Proficiency program", a national radon credentialing body that is
+47 currently recognized by the United States Environmental Protection Agency;
+48 (20) "Radon", a naturally occurring radioactive element that is produced by the
+49 breakdown of uranium and exists as a colorless, odorless, and tasteless inert gas;
+50 (21) "Radon laboratory", a business entity approved by a laboratory
+51 accreditation program recognized by the National Environmental Laboratory
+HB 2995 3
+52 Accreditation Program that provides laboratory analysis for compensation and meets
+53 the requirements of section 324.2025;
+54 (22) "Radon mitigation inspector", a person certified by a radon proficiency
+55 program who provides inspection of radon systems for compensation and who meets the
+56 requirements of section 324.2020;
+57 (23) "Radon progeny", any combination of the radioactive decay products of
+58 radon;
+59 (24) "Research", board-approved scientific investigation that includes radon
+60 measurement, mitigation, inspection, or laboratory analysis;
+61 (25) "Standard", a current written document developed and continuously
+62 maintained by a standards development organization accredited by the American
+63 National Standards Institute that describes in detail commonly accepted methods for
+64 the performance of certain tasks.
+
+Section 4:
+324.2005. 1. No person or business entity shall conduct radon measurement,
+2 mitigation, inspection, or laboratory analysis in this state after December 31, 2026, for
+3 compensation without the appropriate private certification and state licensing required
+4 under sections 324.2000 to 324.2065. The certification and licensing requirements of
+5 sections 324.2000 to 324.2065 shall not apply to any person or business entity before
+6 January 1, 2027.
+7 2. No person or business entity shall advertise or claim to be a radon
+8 measurement professional, radon mitigation professional, radon mitigation inspector, or
+9 radon laboratory unless certified and licensed under sections 324.2000 to 324.2065.
+10 3. A radon business entity may engage in radon measurement, mitigation,
+11 inspection, or laboratory analysis if the owner or an employee associated with the radon
+12 business entity is a measurement or mitigation professional, radon mitigation inspector,
+13 or radon laboratory, as applicable, and performs or supervises the radon measurement,
+14 mitigation, inspection, or laboratory analysis work as applicable. Any business entity
+15 that employs these persons shall have a radon business entity license.
+16 4. A measurement or mitigation professional directly in charge of measurement
+17 or mitigation activities within a radon business entity shall notify the board in writing
+18 immediately upon conclusion of the relationship with the radon business entity.
+19 5. A person who owns or rents a single-family home and occupies it may test the
+20 home. A person who owns and occupies a single-family home may install a radon
+21 mitigation system if such installation is in accordance with the applicable standard and
+22 the person certifies to the board that mitigation installation by a nonlicensed person will
+23 be disclosed upon the sale of the home.
+HB 2995 4
+24 6. Any homeowner or renter who receives a radon test kit from the state of
+25 Missouri or any nonprofit health-related organization or who purchases a radon test kit
+26 from any business in this state or online by mail order shall be exempt from the
+27 requirements of sections 324.2000 to 324.2065 as long as the test kit is used in the
+28 homeowner's or renter's personal home only.
+29 7. The board may authorize by regulation subcategories of measurement,
+30 mitigation, and inspection licensure to align with credentials that may be established by
+31 a proficiency program and specify related requirements and limitations.
+32 8. The board may establish reciprocity arrangements with bordering states.
+
+Section 5:
+324.2010. 1. The board shall issue a measurement professional license, effective
+2 for a period of two years, to any person certified for measurement who:
+3 (1) Completes an application and pays a fee prescribed by the board by rule;
+4 (2) Presents current proof of certification by a radon proficiency program; and
+5 (3) Furnishes evidence of a general liability insurance policy that satisfies the
+6 requirements of section 324.2035.
+7 2. The board shall renew the measurement professional license, effective for a
+8 period of two years, of any person who:
+9 (1) Completes a licensure renewal process and pays a fee prescribed by the
+10 board by rule;
+11 (2) Presents current proof of certification by a radon proficiency program; and
+12 (3) Furnishes evidence of a general liability insurance policy that satisfies the
+13 requirements of section 324.2035.
+14 3. A measurement professional shall:
+15 (1) Maintain certification by a radon proficiency program;
+16 (2) Ensure measurements are conducted in accordance with the applicable
+17 standard and administrative regulations;
+18 (3) Maintain a quality assurance plan in accordance with the standard for
+19 measurement systems quality assurance;
+20 (4) Ensure measurements are conducted by or under the direct supervision of a
+21 measurement professional;
+22 (5) Use or sell only measurement devices approved by the radon proficiency
+23 program that certifies the person;
+24 (6) Report all measurements as prescribed by the board; and
+25 (7) Ensure all laboratory analysis is conducted by a radon laboratory.
+
+Section 6:
+324.2015. 1. The board shall issue a mitigation professional license, effective for
+2 a period of two years, to any person certified for mitigation who:
+HB 2995 5
+3 (1) Completes an application process and pays a fee prescribed by the board by
+4 rule;
+5 (2) Presents proof of certification by a radon proficiency program; and
+6 (3) Furnishes evidence of a general liability insurance policy that satisfies the
+7 requirements of section 324.2035.
+8 2. The board shall renew the mitigation professional license, effective for a
+9 period of two years, of any person who:
+10 (1) Completes a license renewal process and pays a fee prescribed by the board
+11 by rule;
+12 (2) Presents current proof of certification by a radon proficiency program; and
+13 (3) Furnishes evidence of a general liability insurance policy that satisfies the
+14 requirements of section 324.2035.
+15 3. A mitigation professional shall:
+16 (1) Maintain certification by a radon proficiency program;
+17 (2) Ensure mitigations are conducted in accordance with the applicable
+18 mitigation standard and administrative regulations;
+19 (3) Maintain a quality management plan in accordance with the applicable
+20 standard for mitigation;
+21 (4) Ensure all mitigation is conducted by or under the direct supervision of a
+22 mitigation professional;
+23 (5) Report all mitigations as prescribed by the board; and
+24 (6) Ensure all radon mitigation systems repaired or altered after December 31,
+25 2026, meet the applicable mitigation standard.
+
+Section 7:
+324.2020. 1. The board shall issue a radon mitigation inspector license, effective
+2 for a period of two years, to any person certified for radon mitigation inspection who:
+3 (1) Completes an application and pays a fee prescribed by the board by rule;
+4 (2) Presents current proof of certification by a radon proficiency program; and
+5 (3) Furnishes evidence of a general liability insurance policy that satisfies the
+6 requirements of section 324.2035.
+7 2. The board shall renew the radon mitigation inspector license, effective for a
+8 period of two years, of any person who:
+9 (1) Completes a licensure renewal process and pays a fee prescribed by the
+10 board by rule;
+11 (2) Presents current proof of certification by a radon proficiency program; and
+12 (3) Furnishes evidence of a general liability insurance policy that satisfies the
+13 requirements of section 324.2035.
+14 3. A radon mitigation inspector shall:
+HB 2995 6
+15 (1) Maintain certification by a radon proficiency program;
+16 (2) Ensure inspections are conducted in accordance with the applicable standard
+17 and administrative regulations; and
+18 (3) Report all inspections as prescribed by the board.
+
+Section 8:
+324.2025. 1. The board shall issue a radon laboratory license to any business
+2 entity approved for radon laboratory analysis that:
+3 (1) Completes an application process and pays a fee prescribed by the board by
+4 rule;
+5 (2) Presents proof of independent third-party accreditation; and
+6 (3) Furnishes evidence of a general liability insurance policy that satisfies the
+7 requirements of section 324.2035.
+8 2. The board shall renew the radon laboratory license of any business entity
+9 that:
+10 (1) Completes a license renewal process and pays a fee prescribed by the board
+11 by rule;
+12 (2) Presents current proof of approval by a radon proficiency program; and
+13 (3) Furnishes evidence of a general liability insurance policy that satisfies the
+14 requirements of section 324.2035.
+15 3. A radon laboratory shall:
+16 (1) Maintain proof of accreditation by a laboratory accreditation program
+17 recognized by the National Environmental Laboratory Accreditation Program;
+18 (2) Ensure all laboratory analysis is conducted in accordance with the applicable
+19 laboratory analysis standard;
+20 (3) Maintain a quality control program plan in accordance with the applicable
+21 standard for performance criteria for measurement systems; and
+22 (4) Report all laboratory analyses as prescribed by the board.
+
+Section 9:
+324.2030. 1. The board shall issue a radon business entity license, effective for a
+2 period of two years, to any business for which the application designates a responsible
+3 person and a licensed radon professional and for which a fee is paid.
+4 2. The radon business entity shall notify the board of the transfer of the radon
+5 business entity license to another business entity within thirty days.
+
+Section 10:
+324.2035. 1. Each radon mitigation professional, radon measurement
+2 professional, radon mitigation inspector, and radon laboratory shall maintain an
+3 insurance policy in effect at all times during the licensure period that:
+4 (1) Is issued by an insurance company or other legal entity permitted to transact
+5 insurance business in this state;
+6 (2) Provides for applicable liability coverage as follows:
+HB 2995 7
+7 (a) For measurement professionals and radon mitigation inspectors, liability
+8 coverage in an amount of at least two hundred fifty thousand dollars per occurrence;
+9 and
+10 (b) For mitigation professionals and radon laboratories, liability coverage in an
+11 amount of at least five hundred thousand dollars per occurrence;
+12 (3) Lists the board as a certificate holder of any insurance policy issued under
+13 this section; and
+14 (4) States that cancellation or nonrenewal of the underlying liability insurance
+15 policy is not effective until the board receives written notice of the cancellation or
+16 nonrenewal.
+17 2. A business entity may meet the requirements of this section on behalf of its
+18 employees.
+
+Section 11:
+324.2040. 1. Licenses not renewed within thirty days after the renewal date shall
+2 lapse and shall be reinstated only upon the completion of the application process as
+3 prescribed by the board by rule.
+4 2. A licensee shall report any change of information submitted during the
+5 application or renewal process in writing to the board within ten days of such change
+6 taking place. The board shall not be responsible for a licensee not receiving notices,
+7 communications, or other correspondence caused by a failure of the licensee to report
+8 changes.
+
+Section 12:
+324.2045. 1. There is hereby established in the division the "Board of Radon
+2 Safety". The board shall:
+3 (1) Promote testing for and mitigation of radon in this state in collaboration with
+4 the department of health and senior services;
+5 (2) Develop and conduct programs for evaluation and control of activities
+6 related to radon, including laboratory analyses, inspection, measurement, and
+7 mitigation;
+8 (3) Issue licenses to eligible certified persons or business entities;
+9 (4) Maintain a public list of all persons or business entities licensed by the board;
+10 (5) Design and administer, or participate in the design and administration of,
+11 educational and research programs in collaboration with the department of health and
+12 senior services to ensure citizens are informed about the health risks associated with
+13 radon;
+14 (6) Enter into agreements with any federal or state agency, political subdivision,
+15 postsecondary education institution, nonprofit organization, or other person or entity to
+16 assist with and administer funds received by the board including, but not limited to,
+HB 2995 8
+17 funds received through the United States Environmental Protection Agency's State and
+18 Tribal Indoor Radon Grants (SIRG) program;
+19 (7) Prepare an annual budget for the use of moneys received by the board from
+20 the collection of fees, receipt of grants, and all other radon-related activities;
+21 (8) Collect or receive all fees and other moneys owed under sections 324.2000 to
+22 324.2065 and deposit all those moneys into the radon control fund established in section
+23 324.2050;
+24 (9) Issue subpoenas only through the board's attorney and only under the
+25 authority of the board's general counsel;
+26 (10) Record minutes of board meetings and proceedings, which shall be
+27 documented and made available for public inspection;
+28 (11) Perform other duties and responsibilities relating to the topic of radon in
+29 collaboration with the department of health and senior services;
+30 (12) Promulgate administrative regulations to administer, coordinate, and
+31 enforce sections 324.2000 to 324.2065;
+32 (13) Establish and maintain personnel and information and communication
+33 systems, as necessary, to administer, coordinate, and enforce sections 324.2000 to
+34 324.2065; and
+35 (14) Ensure compliance with sections 324.2000 to 324.2065 and initiate
+36 enforcement action.
+37 2. Each member of the board shall be a citizen, a resident of this state or a
+38 resident of a state adjacent to this state, and a radon measurement professional or radon
+39 mitigation professional, except that licensure as such a professional shall be required
+40 only as described in this section.
+41 3. The board shall consist of eight members as follows:
+42 (1) Four members, who shall include two radon measurement professionals and
+43 two radon mitigation professionals, shall be appointed by the governor from a list of six
+44 names submitted to the governor by the Heartland Chapter of the Indoor Environments
+45 Association;
+46 (2) One member shall be a representative of a public health organization and
+47 shall be appointed by the governor from a list of three names submitted to the governor
+48 by the Missouri Cancer Consortium;
+49 (3) One nonvoting member shall be a representative of the home building
+50 industry and shall be appointed by the governor from a list of three names submitted to
+51 the governor by the Home Builders Association;
+HB 2995 9
+52 (4) One nonvoting member shall be a real estate salesperson or broker licensed
+53 under chapter 339 and shall be appointed by the governor from a list of three names
+54 submitted to the governor by the Association of Realtors; and
+55 (5) One nonvoting member from the department of health and senior services
+56 shall be appointed by the governor.
+57 4. No business entity shall be represented by more than one professional on the
+58 board.
+59 5. To be eligible for initial appointment as a member of the board under
+60 subsection 2 of this section, a person shall have been actively engaged in the practice of
+61 radon measurement, mitigation, inspection, or laboratory analysis for not less than
+62 three years immediately preceding the date of appointment to the board.
+63 6. Upon expiration of the initial appointments, to be eligible for any appointment
+64 as a member of the board under subsection 2 of this section, a person shall have been
+65 actively engaged in performing or managing the practice of radon measurement,
+66 mitigation, inspection, or laboratory analysis for not less than three years in this state
+67 immediately preceding the date of the appointment to the board and:
+68 (1) Hold a valid license as a radon measurement professional or radon
+69 mitigation professional in this state; or
+70 (2) Be associated with a licensed radon laboratory.
+71 7. The governor shall initially appoint two voting members for a term of four
+72 years, two voting members for a term of three years, and one voting member for a term
+73 of two years. All appointments shall expire on June thirtieth of the last year of the
+74 appointee's term. Thereafter, voting members shall be appointed for terms of four
+75 years.
+76 8. No person shall serve more than four consecutive terms. Members shall serve
+77 until their successors are appointed.
+78 9. Upon recommendation of the board, the governor may remove any member of
+79 the board for poor attendance, neglect of duty, misfeasance, or malfeasance in office.
+80 10. Vacancies in the membership of the board for any cause shall be filled by
+81 appointment by the governor for the balance of the unexpired term.
+82 11. A majority of the voting members shall constitute a quorum to do business.
+83 The board shall meet at least once each calendar quarter and at other times deemed
+84 necessary by the chair or a quorum of the board after a minimum of ten days' notice at
+85 a location or teleconference designated by the chair or a quorum of the board.
+86 12. The board shall elect a chair and a vice chair. The chair shall preside at all
+87 meetings at which the chair is present. The vice chair shall preside at all meetings in the
+88 absence of the chair. If the chair and vice chair are absent from a meeting of the board
+HB 2995 10
+89 when a quorum exists, the members who are present may elect a presiding officer to
+90 serve as acting chair until the conclusion of the meeting or until the arrival of the chair
+91 or vice chair.
+92 13. Members of the board shall be immune from suit for any discretionary act
+93 performed in good faith.
+94 14. Each member of the board shall be reimbursed for costs for actual travel and
+95 other actual and necessary expenses incurred in the discharge of official duties
+96 associated with the board, as prescribed by the board by rule.
+97 15. Any rule or portion of a rule, as that term is defined in section 536.010, that
+98 is created under the authority delegated in this section shall become effective only if it
+99 complies with and is subject to all of the provisions of chapter 536 and, if applicable,
+100 section 536.028. This section and chapter 536 are nonseverable and if any of the powers
+101 vested with the general assembly pursuant to chapter 536 to review, to delay the
+102 effective date, or to disapprove and annul a rule are subsequently held unconstitutional,
+103 then the grant of rulemaking authority and any rule proposed or adopted after August
+104 28, 2026, shall be invalid and void.
+
+Section 13:
+324.2050. 1. There is hereby created in the state treasury the "Radon Control
+2 Fund". All fees authorized to be charged by the board shall be collected by the director
+3 of the division and shall be transmitted to the department of revenue for deposit in the
+4 state treasury for credit to this fund. The state treasurer shall be custodian of the fund.
+5 In accordance with sections 30.170 and 30.180, the state treasurer may approve
+6 disbursements. The fund shall be a dedicated fund and, upon appropriation, moneys in
+7 this fund shall be used solely for the administration and enforcement of sections
+8 324.2000 to 324.2065.
+9 2. Notwithstanding the provisions of section 33.080 to the contrary, moneys in
+10 this fund shall not be transferred and placed to the credit of general revenue until the
+11 amount in the fund at the end of the biennium exceeds three times the amount of the
+12 appropriation from the fund for the preceding fiscal year. The amount, if any, in the
+13 fund that shall lapse is that amount in the fund that exceeds the appropriate multiple of
+14 the appropriations from the fund for the preceding fiscal year.
+15 3. The state treasurer shall invest moneys in the fund in the same manner as
+16 other funds are invested. Any interest and moneys earned on such investments shall be
+17 credited to the fund.
+
+Section 14:
+324.2055. 1. The board may refuse to issue, renew, or reinstate any license
+2 required by sections 324.2000 to 324.2065 for one or any combination of causes stated in
+3 subsection 2 of this section. The board shall notify the applicant in writing of the
+HB 2995 11
+4 reasons for the refusal and shall advise the applicant of his or her right to file a
+5 complaint with the administrative hearing commission as provided in chapter 621.
+6 2. The board may cause a complaint to be filed with the administrative hearing
+7 commission as provided by chapter 621 against any holder of any license issued under
+8 sections 324.2000 to 324.2065 or any person who has failed to renew or has surrendered
+9 his or her license for any one or any combination of the following causes:
+10 (1) The person has been finally adjudicated and found guilty, or entered a plea of
+11 guilty or nolo contendere, in a criminal prosecution under the laws of any state, of the
+12 United States, or of any country for any offense directly related to the duties and
+13 responsibilities of the occupation, as set forth in section 324.012, regardless of whether a
+14 sentence is imposed;
+15 (2) Fraudulently or deceptively using a license issued under sections 324.2000 to
+16 324.2065;
+17 (3) Use of fraud or deception in obtaining or attempting to obtain a certification,
+18 a license, or a contract to conduct radon measurement, mitigation, inspection, or
+19 laboratory analysis for the applicant or licensee or for another;
+20 (4) Attempting to transfer the authority granted by a license issued under
+21 sections 324.2000 to 324.2065 to another person or business entity;
+22 (5) Use of unfair or deceptive trade practices;
+23 (6) Making any false statement as to a material matter in any application or
+24 other statement or certificate required by sections 324.2000 to 324.2065;
+25 (7) Incompetency, misconduct, or gross negligence in the performance of
+26 providing radon services or assisting in providing radon services;
+27 (8) Revocation of a professional license, certification, registration, or permit
+28 granted by another state following disciplinary proceedings in that state;
+29 (9) Failure to display a license issued under sections 324.2000 to 324.2065 as
+30 prescribed by rule of the board;
+31 (10) Disregarding or violating the standards, building codes, electrical codes, or
+32 related laws of this state or ordinances of any municipality, city, or county;
+33 (11) Failing to adequately train and supervise any person working under the
+34 direction and control of the measurement professional, mitigation professional, radon
+35 mitigation inspector, or radon laboratory;
+36 (12) Failing to maintain the liability insurance required under section 324.2035;
+37 (13) Violating any provision of sections 324.2000 to 324.2065, any regulation
+38 promulgated by the board, or any standard, code, rule, or regulation adopted in
+39 accordance with sections 324.2000 to 324.2065; or
+HB 2995 12
+40 (14) Attempting to evade, or aiding or abetting any person attempting to evade,
+41 the provisions of sections 324.2000 to 324.2065 or the administrative regulations
+42 promulgated thereunder by the board.
+43 3. After the filing of a complaint under subsection 2 of this section, the
+44 proceedings shall be conducted in accordance with the provisions of chapter 621. Upon
+45 a finding by the administrative hearing commission that one or more of the grounds for
+46 disciplinary action provided in subsection 2 of this section are met, the board may,
+47 singly or in combination, censure or place the person named in the complaint on
+48 probation or suspension or revoke the license of the person on such terms and
+49 conditions as the board deems appropriate.
+50 4. To determine the appropriate disciplinary action to impose on a licensee
+51 under this section, the board shall consider the seriousness of the violation, the harm
+52 caused by the violation, the good faith of the licensee, and any history of previous
+53 violations by the licensee.
+54 5. If a license is revoked or suspended, or an application for a license or renewal
+55 of a license is denied, the person, business entity, or laboratory shall not conduct radon
+56 measurement, mitigation, inspection, or laboratory services.
+
+Section 15:
+324.2060. 1. The board or its agent or inspector may examine records of licensed
+2 mitigation professionals, measurement professionals, radon mitigation inspectors, radon
+3 business entities, radon laboratories, unlicensed persons, and unlicensed business
+4 entities that perform, offer, or claim to perform activities regulated by sections 324.2000
+5 to 324.2065 including, but not limited to, conducting inspections of mitigation system
+6 installations and measurement locations in order to ensure that radon measurement,
+7 mitigation, and laboratory analysis are conducted in accordance with the applicable
+8 standard and administrative regulations.
+9 2. For purposes of enforcing sections 324.2000 to 324.2065, the board or its agent
+10 or inspector may inspect or test any equipment used for measurement, mitigation, or
+11 laboratory analysis or photograph or sketch any portion of a site, building, or
+12 equipment involved in measurement, mitigation, or laboratory analysis.
+13 3. In accordance with sections 324.2000 to 324.2065 or any administrative
+14 regulation promulgated by the board pertaining to radon measurement, mitigation, or
+15 laboratory analysis, based on a complaint or report, an agent or inspector of the board
+16 shall have the power to seek to enter upon premises at all reasonable times to make an
+17 inspection and question persons.
+18 4. In accordance with sections 324.2000 to 324.2065 or any administrative
+19 regulation promulgated by the board pertaining to radon measurement, mitigation, or
+20 laboratory analysis, an agent or inspector of the board shall have the power to:
+HB 2995 13
+21 (1) Question licensed mitigation professionals, measurement professionals,
+22 radon mitigation inspectors, radon business entities, radon laboratories, unlicensed
+23 persons, and unlicensed business entities that perform, offer, or claim to perform
+24 activities regulated by sections 324.2000 to 324.2065; and
+25 (2) Require the production of radon mitigation system plans, sketches,
+26 diagnostic information, test reports, quality control plans, quality management plans,
+27 and other evidence.
+28 5. Agents and inspectors of the board shall be empowered to issue a stop order to
+29 any owner, agent, or occupant of real property requiring that the radon mitigation
+30 system thereon cease operation if that system has been found to be in violation of
+31 sections 324.2000 to 324.2065 or any administrative regulation promulgated thereunder
+32 by the board or if the radon mitigation system was not constructed, installed, or altered
+33 in accordance with the applicable standard.
+34 6. A person shall not interfere with an inspection conducted by an agent or
+35 inspector of the board.
+
+Section 16:
+324.2065. 1. Measurement professionals, mitigation professionals, and radon
+2 mitigation inspectors shall report the address, results, and other records about services
+3 performed in a manner prescribed by the board by rule.
+4 2. Records required by sections 324.2000 to 324.2065, administrative regulations
+5 promulgated thereunder, or the applicable standard, including, but not limited to,
+6 records of radon measurement, mitigation, quality control program plans, calibration
+7 certifications, laboratory analysis activities, worker health and safety plans, and
+8 equipment repairs, shall be retained by licensees, as applicable, for a minimum period of
+9 five years or the length of time of any warranty or guarantee, whichever is greater.
+10 3. The board shall make the records available upon request:
+11 (1) To the owner or occupant of a building;
+12 (2) To the board's staff, counsel, and contractors involved in compliance and
+13 enforcement;
+14 (3) To the public aggregated at the census tract or zip code level without
+15 identifying individual homeowners or individual property locations; and
+16 (4) To a state or federal agency that provides aggregated data to the public.
+17 4. Any measurement professional, mitigation professional, or radon mitigation
+18 inspector applying for a license or renewal of a license shall specify, for approval by the
+19 board, the physical or electronic location where records required under sections
+20 324.2000 to 324.2065 shall be maintained for inspection by the board.
+✔
+[DELETED:  B N 2IJ a c 3 R b a t f n s r t t Ct b k a s 3 3 3 3 3 33r Ao( " t c o m a b o b d o t rr( " o r s o " t g o r proi( " a s u o i t b u f s o0s1( " m t c r a E2r3( "4m—M i e]
+[DELETED: 5( "6r7d8( "9( "0( " a t a o a r o r p1c2p m d o t a o e r o r p3m4( " a p o b e l b t b a a5m6l7( "8p9e0(1p2w3( " p a p c b a r p4p w p r m f c a w m t5r6( "7s8r9( " p a p c b a r p0p w p r m f c a w m t1r2( "3c4( "5( "6( " p a n r c b t i7c8( "9b0( " l a b e a b a l1a p r b t N E L ]
+[DELETED: 2A3t4( "5p6r7( "8r9( " b s i t i r0m1( " a c w d d a c2m b a s d o a b t A3N4t 1 Nmcu TsJ2 N p o b e s a o c t b a rmr03 A r b e m e i r m m1i2b3o4m A5t64 A7o8i95 A0h A p w o a o a s h m i a r1m2t3b ]
+[DELETED: 46 A h w k o5M6f a b i t s o o b m o s b e f t7r o s 3 t 3 a l a t t k i u i t8h97 T b m a b r s o m0m1a28 T 1 Tf( C( P( Fr2p( C a l r p a p a f p b t0b1( P2( F3r43 A5( M6( E m a c i a w t a7s8( M a q a p i a w t s f9m0( E1m2( U o s m d a b t r p3p4( R5( E Ta ]
+[DELETED: ( Cr( P( Fr2 T b s r t m p l e f ap0( C1b2( P3( F4r53 A6( M7( E m a c i a w t a8m9( M a q m p i a w t a0s1( E2m3( R4( E52 1 Tf( C( P( Fr2 Tp( C a l r p a p a f p b t0b1( P2(3r43 A ]
+[DELETED: 5( M6( E7a8( R 1 Te( Cr( P( Fr2 Tt0( C1b2(3( F4r53 A6( M p o a b a l a p7r8( E9l0( M1s2( R 1 Tpp2 Tb 1 E r m p r mp r m i a r l s m ai(i( P ]
+[DELETED: ( F m p a r m i lca0( F1a2( L3t4( S5p i n e u t b r w n o t c o6n72 A8e 1 Ll s r o o p ap2 l s r a c o i s d tat Tcc 1 TS T( Pt( D a c p f e a c o ar t r i l a i m am( I( M0( D1e2s3r4( E5p6a ]
+[DELETED: 7f8T9( P0t1( C23334( I s o t t b a a o u t5a6( R m o b m a p w s b7d8( P9c0( P a r t a c a1e2( a m p a i a c3s a n t a c a e s 3 t435( E c w s 3 t 3 a i6e72 E8r9m0o13 T2( F3t4n5A6( O7s8b9( O n m s b a r o t h b0i1t ]
+[DELETED: 2( O3u4s5( O6s74 N8b95 T b e f i a a a m o t b u0s1r m m i o l a f n l t2t36 U4a5a e i p o m t p o r m6m7i8( H a v l a a r m p o r9m0( B17 T2y3o A4a t T v m s b a f t o f5y68 N M7u89 U9t01 V1a21 A3T4n5a61 T7m T8a I ]
+[DELETED: 9w0s1o21 M3p41 E5o a a n e i i t d o o d6a71 A8i9c0s T1v w t g a p t c 5 t r t d t2e3t42 1 TF Aos TI a w s 3 a 3 t s t m ad Tt f s b u s f t a a e o s32 N0t1a2a T3f4t53 T6o A7c 1 T b m r t i r o r a lrs 2 o t s T b s n t a i w o t 1]
+[DELETED: r f t r a s a t a o h o h r t f ac2 Tcsh0( T1g2U S o o a c f a o d r t t d a3r4s5( F637( U8a l o a c t c r m m i o9l0( A t t t a g b a l i u1s2( U3( M4o5( I m o g n i t p o6p7( R o a p l c r o p8g9( F0p1( D2r3( F4d5m6( F7( V a p o s 3 t 3 a r8p b t b o a s c r o r a i9a 1]
+[DELETED: 0( A1t p o s 3 t 3 o t a r2p33 A t f o a c u s 2 o t s t4p U5a6d a p i s 2 o t s a m t b m7s o i c c o p t p n i t c o8p o s o r t l o t p o s t a9c04 T d t a d a t i o a l1u2c b t v t g f o t l a a h o p3v45 I5o6m 1 Tmb e r l u p a u betim a l a a c i a w t as2 F0o1l a o p o s a p o a s b o2e33 I a w s 3 t 3 o a a4r5l6s7i84 a w s 3 t 3 o a a9r0l 1]
+[DELETED: 1( Q l m p m p2r m i r b e r l u3p a u b e t p o o c t p4a5( R t p o r m s p s6d7a85 A9a o a o o o r p r t t r m0s t c o i t s h b f t b i v o1s2b3i46 A p s n i w a i c b a a o5i Mmp2 Rp t o t a s i b n l trc l a a w h a s p aef03 T1( T2( T3e4( T t p a a t c t o z c l w5i6( T74 A8i9b t p o e l w r r u s03 1]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+HOUSE BILL NO. 2995
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE CATON.
+6158H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapter 324, RSMo, by adding thereto fourteen new sections relating to the
+licensing of radon industry professionals and businesses.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Chapter 324, RSMo, is amended by adding thereto fourteen new sections,
+2 to be known as sections 324.2000, 324.2005, 324.2010, 324.2015, 324.2020, 324.2025,
+3 324.2030, 324.2035, 324.2040, 324.2045, 324.2050, 324.2055, 324.2060, and 324.2065, to
+4 read as follows:
+324.2000. As used in sections 324.2000 to 324.2065, unless the context requires
+2 otherwise, the following terms mean:
+3 (1) "Alter", to change or modify a building or building design, or to revise,
+4 rather than repair, a mitigation system or mitigation system design;
+5 (2) "Board of radon safety" or "board", the group of radon professionals
+6 representing radon business entities as well as nonradon professionals acting on behalf
+7 of the board to establish and implement standards, policies, protocols, and procedures
+8 in accordance with sections 324.2000 to 324.2065;
+9 (3) "Building", any structure used or intended to be used for supporting or
+10 sheltering any use or occupancy;
+11 (4) "Certified", meeting the certification requirements of an EPA-recognized
+12 radon proficiency program for radon measurement or radon mitigation;
+13 (5) "Compensation", something of value given or received in exchange for radon
+14 measurement, mitigation, inspection, or laboratory analysis;
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 2995 2
+15 (6) "Direct supervision", on-site supervision by a certified person who accepts
+16 responsibility for ensuring compliance by his or her employees, subcontractors, or other
+17 designated agents with all applicable requirements under sections 324.2000 to 324.2065;
+18 (7) "Division", the division of professional registration;
+19 (8) "EPA", the United States Environmental Protection Agency;
+20 (9) "Laboratory analysis", the act of analyzing radon or radon progeny
+21 concentrations with passive measurement devices, the act of calibrating radon or radon
+22 progeny measurement devices, or the act of exposing radon or radon progeny
+23 measurement devices to controlled concentrations of radon or radon progeny;
+24 (10) "Licensee", a person or business entity licensed by the board as a
+25 measurement professional, mitigation professional, radon mitigation inspector, or radon
+26 laboratory;
+27 (11) "Measurement", the act of testing the air, water, or soil using an active or
+28 passive measurement device for the presence of radon or radon progeny in the indoor
+29 environment of a building;
+30 (12) "Measurement device", any active or passive device approved by a radon
+31 proficiency program and used for the measurement of radon or radon progeny in air or
+32 water in the indoor environment of a building;
+33 (13) "Measurement professional", a person certified by a radon proficiency
+34 program who provides radon measurement for compensation and who meets the
+35 requirements of section 324.2010;
+36 (14) "Mitigation", the act of installing, repairing, or altering an active or passive
+37 system for the purpose, in whole or in part, of reducing the concentration of radon or
+38 radon progeny in the indoor environment of a building;
+39 (15) "Mitigation professional", a person certified by a radon proficiency
+40 program who provides radon mitigation for compensation and who meets the
+41 requirements of section 324.2015;
+42 (16) "Mitigation system", any active or passive system designed to reduce radon
+43 concentrations in the indoor environment of a building;
+44 (17) "Person", an individual, corporation, association, or other legal entity;
+45 (18) "Prescribed", promulgated by administrative regulation by the board;
+46 (19) "Proficiency program", a national radon credentialing body that is
+47 currently recognized by the United States Environmental Protection Agency;
+48 (20) "Radon", a naturally occurring radioactive element that is produced by the
+49 breakdown of uranium and exists as a colorless, odorless, and tasteless inert gas;
+50 (21) "Radon laboratory", a business entity approved by a laboratory
+51 accreditation program recognized by the National Environmental Laboratory
+
+HB 2995 3
+52 Accreditation Program that provides laboratory analysis for compensation and meets
+53 the requirements of section 324.2025;
+54 (22) "Radon mitigation inspector", a person certified by a radon proficiency
+55 program who provides inspection of radon systems for compensation and who meets the
+56 requirements of section 324.2020;
+57 (23) "Radon progeny", any combination of the radioactive decay products of
+58 radon;
+59 (24) "Research", board-approved scientific investigation that includes radon
+60 measurement, mitigation, inspection, or laboratory analysis;
+61 (25) "Standard", a current written document developed and continuously
+62 maintained by a standards development organization accredited by the American
+63 National Standards Institute that describes in detail commonly accepted methods for
+64 the performance of certain tasks.
+324.2005. 1. No person or business entity shall conduct radon measurement,
+2 mitigation, inspection, or laboratory analysis in this state after December 31, 2026, for
+3 compensation without the appropriate private certification and state licensing required
+4 under sections 324.2000 to 324.2065. The certification and licensing requirements of
+5 sections 324.2000 to 324.2065 shall not apply to any person or business entity before
+6 January 1, 2027.
+7 2. No person or business entity shall advertise or claim to be a radon
+8 measurement professional, radon mitigation professional, radon mitigation inspector, or
+9 radon laboratory unless certified and licensed under sections 324.2000 to 324.2065.
+10 3. A radon business entity may engage in radon measurement, mitigation,
+11 inspection, or laboratory analysis if the owner or an employee associated with the radon
+12 business entity is a measurement or mitigation professional, radon mitigation inspector,
+13 or radon laboratory, as applicable, and performs or supervises the radon measurement,
+14 mitigation, inspection, or laboratory analysis work as applicable. Any business entity
+15 that employs these persons shall have a radon business entity license.
+16 4. A measurement or mitigation professional directly in charge of measurement
+17 or mitigation activities within a radon business entity shall notify the board in writing
+18 immediately upon conclusion of the relationship with the radon business entity.
+19 5. A person who owns or rents a single-family home and occupies it may test the
+20 home. A person who owns and occupies a single-family home may install a radon
+21 mitigation system if such installation is in accordance with the applicable standard and
+22 the person certifies to the board that mitigation installation by a nonlicensed person will
+23 be disclosed upon the sale of the home.
+
+HB 2995 4
+24 6. Any homeowner or renter who receives a radon test kit from the state of
+25 Missouri or any nonprofit health-related organization or who purchases a radon test kit
+26 from any business in this state or online by mail order shall be exempt from the
+27 requirements of sections 324.2000 to 324.2065 as long as the test kit is used in the
+28 homeowner's or renter's personal home only.
+29 7. The board may authorize by regulation subcategories of measurement,
+30 mitigation, and inspection licensure to align with credentials that may be established by
+31 a proficiency program and specify related requirements and limitations.
+32 8. The board may establish reciprocity arrangements with bordering states.
+324.2010. 1. The board shall issue a measurement professional license, effective
+2 for a period of two years, to any person certified for measurement who:
+3 (1) Completes an application and pays a fee prescribed by the board by rule;
+4 (2) Presents current proof of certification by a radon proficiency program; and
+5 (3) Furnishes evidence of a general liability insurance policy that satisfies the
+6 requirements of section 324.2035.
+7 2. The board shall renew the measurement professional license, effective for a
+8 period of two years, of any person who:
+9 (1) Completes a licensure renewal process and pays a fee prescribed by the
+10 board by rule;
+11 (2) Presents current proof of certification by a radon proficiency program; and
+12 (3) Furnishes evidence of a general liability insurance policy that satisfies the
+13 requirements of section 324.2035.
+14 3. A measurement professional shall:
+15 (1) Maintain certification by a radon proficiency program;
+16 (2) Ensure measurements are conducted in accordance with the applicable
+17 standard and administrative regulations;
+18 (3) Maintain a quality assurance plan in accordance with the standard for
+19 measurement systems quality assurance;
+20 (4) Ensure measurements are conducted by or under the direct supervision of a
+21 measurement professional;
+22 (5) Use or sell only measurement devices approved by the radon proficiency
+23 program that certifies the person;
+24 (6) Report all measurements as prescribed by the board; and
+25 (7) Ensure all laboratory analysis is conducted by a radon laboratory.
+324.2015. 1. The board shall issue a mitigation professional license, effective for
+2 a period of two years, to any person certified for mitigation who:
+
+HB 2995 5
+3 (1) Completes an application process and pays a fee prescribed by the board by
+4 rule;
+5 (2) Presents proof of certification by a radon proficiency program; and
+6 (3) Furnishes evidence of a general liability insurance policy that satisfies the
+7 requirements of section 324.2035.
+8 2. The board shall renew the mitigation professional license, effective for a
+9 period of two years, of any person who:
+10 (1) Completes a license renewal process and pays a fee prescribed by the board
+11 by rule;
+12 (2) Presents current proof of certification by a radon proficiency program; and
+13 (3) Furnishes evidence of a general liability insurance policy that satisfies the
+14 requirements of section 324.2035.
+15 3. A mitigation professional shall:
+16 (1) Maintain certification by a radon proficiency program;
+17 (2) Ensure mitigations are conducted in accordance with the applicable
+18 mitigation standard and administrative regulations;
+19 (3) Maintain a quality management plan in accordance with the applicable
+20 standard for mitigation;
+21 (4) Ensure all mitigation is conducted by or under the direct supervision of a
+22 mitigation professional;
+23 (5) Report all mitigations as prescribed by the board; and
+24 (6) Ensure all radon mitigation systems repaired or altered after December 31,
+25 2026, meet the applicable mitigation standard.
+324.2020. 1. The board shall issue a radon mitigation inspector license, effective
+2 for a period of two years, to any person certified for radon mitigation inspection who:
+3 (1) Completes an application and pays a fee prescribed by the board by rule;
+4 (2) Presents current proof of certification by a radon proficiency program; and
+5 (3) Furnishes evidence of a general liability insurance policy that satisfies the
+6 requirements of section 324.2035.
+7 2. The board shall renew the radon mitigation inspector license, effective for a
+8 period of two years, of any person who:
+9 (1) Completes a licensure renewal process and pays a fee prescribed by the
+10 board by rule;
+11 (2) Presents current proof of certification by a radon proficiency program; and
+12 (3) Furnishes evidence of a general liability insurance policy that satisfies the
+13 requirements of section 324.2035.
+14 3. A radon mitigation inspector shall:
+
+HB 2995 6
+15 (1) Maintain certification by a radon proficiency program;
+16 (2) Ensure inspections are conducted in accordance with the applicable standard
+17 and administrative regulations; and
+18 (3) Report all inspections as prescribed by the board.
+324.2025. 1. The board shall issue a radon laboratory license to any business
+2 entity approved for radon laboratory analysis that:
+3 (1) Completes an application process and pays a fee prescribed by the board by
+4 rule;
+5 (2) Presents proof of independent third-party accreditation; and
+6 (3) Furnishes evidence of a general liability insurance policy that satisfies the
+7 requirements of section 324.2035.
+8 2. The board shall renew the radon laboratory license of any business entity
+9 that:
+10 (1) Completes a license renewal process and pays a fee prescribed by the board
+11 by rule;
+12 (2) Presents current proof of approval by a radon proficiency program; and
+13 (3) Furnishes evidence of a general liability insurance policy that satisfies the
+14 requirements of section 324.2035.
+15 3. A radon laboratory shall:
+16 (1) Maintain proof of accreditation by a laboratory accreditation program
+17 recognized by the National Environmental Laboratory Accreditation Program;
+18 (2) Ensure all laboratory analysis is conducted in accordance with the applicable
+19 laboratory analysis standard;
+20 (3) Maintain a quality control program plan in accordance with the applicable
+21 standard for performance criteria for measurement systems; and
+22 (4) Report all laboratory analyses as prescribed by the board.
+324.2030. 1. The board shall issue a radon business entity license, effective for a
+2 period of two years, to any business for which the application designates a responsible
+3 person and a licensed radon professional and for which a fee is paid.
+4 2. The radon business entity shall notify the board of the transfer of the radon
+5 business entity license to another business entity within thirty days.
+324.2035. 1. Each radon mitigation professional, radon measurement
+2 professional, radon mitigation inspector, and radon laboratory shall maintain an
+3 insurance policy in effect at all times during the licensure period that:
+4 (1) Is issued by an insurance company or other legal entity permitted to transact
+5 insurance business in this state;
+6 (2) Provides for applicable liability coverage as follows:
+
+HB 2995 7
+7 (a) For measurement professionals and radon mitigation inspectors, liability
+8 coverage in an amount of at least two hundred fifty thousand dollars per occurrence;
+9 and
+10 (b) For mitigation professionals and radon laboratories, liability coverage in an
+11 amount of at least five hundred thousand dollars per occurrence;
+12 (3) Lists the board as a certificate holder of any insurance policy issued under
+13 this section; and
+14 (4) States that cancellation or nonrenewal of the underlying liability insurance
+15 policy is not effective until the board receives written notice of the cancellation or
+16 nonrenewal.
+17 2. A business entity may meet the requirements of this section on behalf of its
+18 employees.
+324.2040. 1. Licenses not renewed within thirty days after the renewal date shall
+2 lapse and shall be reinstated only upon the completion of the application process as
+3 prescribed by the board by rule.
+4 2. A licensee shall report any change of information submitted during the
+5 application or renewal process in writing to the board within ten days of such change
+6 taking place. The board shall not be responsible for a licensee not receiving notices,
+7 communications, or other correspondence caused by a failure of the licensee to report
+8 changes.
+324.2045. 1. There is hereby established in the division the "Board of Radon
+2 Safety". The board shall:
+3 (1) Promote testing for and mitigation of radon in this state in collaboration with
+4 the department of health and senior services;
+5 (2) Develop and conduct programs for evaluation and control of activities
+6 related to radon, including laboratory analyses, inspection, measurement, and
+7 mitigation;
+8 (3) Issue licenses to eligible certified persons or business entities;
+9 (4) Maintain a public list of all persons or business entities licensed by the board;
+10 (5) Design and administer, or participate in the design and administration of,
+11 educational and research programs in collaboration with the department of health and
+12 senior services to ensure citizens are informed about the health risks associated with
+13 radon;
+14 (6) Enter into agreements with any federal or state agency, political subdivision,
+15 postsecondary education institution, nonprofit organization, or other person or entity to
+16 assist with and administer funds received by the board including, but not limited to,
+
+HB 2995 8
+17 funds received through the United States Environmental Protection Agency's State and
+18 Tribal Indoor Radon Grants (SIRG) program;
+19 (7) Prepare an annual budget for the use of moneys received by the board from
+20 the collection of fees, receipt of grants, and all other radon-related activities;
+21 (8) Collect or receive all fees and other moneys owed under sections 324.2000 to
+22 324.2065 and deposit all those moneys into the radon control fund established in section
+23 324.2050;
+24 (9) Issue subpoenas only through the board's attorney and only under the
+25 authority of the board's general counsel;
+26 (10) Record minutes of board meetings and proceedings, which shall be
+27 documented and made available for public inspection;
+28 (11) Perform other duties and responsibilities relating to the topic of radon in
+29 collaboration with the department of health and senior services;
+30 (12) Promulgate administrative regulations to administer, coordinate, and
+31 enforce sections 324.2000 to 324.2065;
+32 (13) Establish and maintain personnel and information and communication
+33 systems, as necessary, to administer, coordinate, and enforce sections 324.2000 to
+34 324.2065; and
+35 (14) Ensure compliance with sections 324.2000 to 324.2065 and initiate
+36 enforcement action.
+37 2. Each member of the board shall be a citizen, a resident of this state or a
+38 resident of a state adjacent to this state, and a radon measurement professional or radon
+39 mitigation professional, except that licensure as such a professional shall be required
+40 only as described in this section.
+41 3. The board shall consist of eight members as follows:
+42 (1) Four members, who shall include two radon measurement professionals and
+43 two radon mitigation professionals, shall be appointed by the governor from a list of six
+44 names submitted to the governor by the Heartland Chapter of the Indoor Environments
+45 Association;
+46 (2) One member shall be a representative of a public health organization and
+47 shall be appointed by the governor from a list of three names submitted to the governor
+48 by the Missouri Cancer Consortium;
+49 (3) One nonvoting member shall be a representative of the home building
+50 industry and shall be appointed by the governor from a list of three names submitted to
+51 the governor by the Home Builders Association;
+
+HB 2995 9
+52 (4) One nonvoting member shall be a real estate salesperson or broker licensed
+53 under chapter 339 and shall be appointed by the governor from a list of three names
+54 submitted to the governor by the Association of Realtors; and
+55 (5) One nonvoting member from the department of health and senior services
+56 shall be appointed by the governor.
+57 4. No business entity shall be represented by more than one professional on the
+58 board.
+59 5. To be eligible for initial appointment as a member of the board under
+60 subsection 2 of this section, a person shall have been actively engaged in the practice of
+61 radon measurement, mitigation, inspection, or laboratory analysis for not less than
+62 three years immediately preceding the date of appointment to the board.
+63 6. Upon expiration of the initial appointments, to be eligible for any appointment
+64 as a member of the board under subsection 2 of this section, a person shall have been
+65 actively engaged in performing or managing the practice of radon measurement,
+66 mitigation, inspection, or laboratory analysis for not less than three years in this state
+67 immediately preceding the date of the appointment to the board and:
+68 (1) Hold a valid license as a radon measurement professional or radon
+69 mitigation professional in this state; or
+70 (2) Be associated with a licensed radon laboratory.
+71 7. The governor shall initially appoint two voting members for a term of four
+72 years, two voting members for a term of three years, and one voting member for a term
+73 of two years. All appointments shall expire on June thirtieth of the last year of the
+74 appointee's term. Thereafter, voting members shall be appointed for terms of four
+75 years.
+76 8. No person shall serve more than four consecutive terms. Members shall serve
+77 until their successors are appointed.
+78 9. Upon recommendation of the board, the governor may remove any member of
+79 the board for poor attendance, neglect of duty, misfeasance, or malfeasance in office.
+80 10. Vacancies in the membership of the board for any cause shall be filled by
+81 appointment by the governor for the balance of the unexpired term.
+82 11. A majority of the voting members shall constitute a quorum to do business.
+83 The board shall meet at least once each calendar quarter and at other times deemed
+84 necessary by the chair or a quorum of the board after a minimum of ten days' notice at
+85 a location or teleconference designated by the chair or a quorum of the board.
+86 12. The board shall elect a chair and a vice chair. The chair shall preside at all
+87 meetings at which the chair is present. The vice chair shall preside at all meetings in the
+88 absence of the chair. If the chair and vice chair are absent from a meeting of the board
+
+HB 2995 10
+89 when a quorum exists, the members who are present may elect a presiding officer to
+90 serve as acting chair until the conclusion of the meeting or until the arrival of the chair
+91 or vice chair.
+92 13. Members of the board shall be immune from suit for any discretionary act
+93 performed in good faith.
+94 14. Each member of the board shall be reimbursed for costs for actual travel and
+95 other actual and necessary expenses incurred in the discharge of official duties
+96 associated with the board, as prescribed by the board by rule.
+97 15. Any rule or portion of a rule, as that term is defined in section 536.010, that
+98 is created under the authority delegated in this section shall become effective only if it
+99 complies with and is subject to all of the provisions of chapter 536 and, if applicable,
+100 section 536.028. This section and chapter 536 are nonseverable and if any of the powers
+101 vested with the general assembly pursuant to chapter 536 to review, to delay the
+102 effective date, or to disapprove and annul a rule are subsequently held unconstitutional,
+103 then the grant of rulemaking authority and any rule proposed or adopted after August
+104 28, 2026, shall be invalid and void.
+324.2050. 1. There is hereby created in the state treasury the "Radon Control
+2 Fund". All fees authorized to be charged by the board shall be collected by the director
+3 of the division and shall be transmitted to the department of revenue for deposit in the
+4 state treasury for credit to this fund. The state treasurer shall be custodian of the fund.
+5 In accordance with sections 30.170 and 30.180, the state treasurer may approve
+6 disbursements. The fund shall be a dedicated fund and, upon appropriation, moneys in
+7 this fund shall be used solely for the administration and enforcement of sections
+8 324.2000 to 324.2065.
+9 2. Notwithstanding the provisions of section 33.080 to the contrary, moneys in
+10 this fund shall not be transferred and placed to the credit of general revenue until the
+11 amount in the fund at the end of the biennium exceeds three times the amount of the
+12 appropriation from the fund for the preceding fiscal year. The amount, if any, in the
+13 fund that shall lapse is that amount in the fund that exceeds the appropriate multiple of
+14 the appropriations from the fund for the preceding fiscal year.
+15 3. The state treasurer shall invest moneys in the fund in the same manner as
+16 other funds are invested. Any interest and moneys earned on such investments shall be
+17 credited to the fund.
+324.2055. 1. The board may refuse to issue, renew, or reinstate any license
+2 required by sections 324.2000 to 324.2065 for one or any combination of causes stated in
+3 subsection 2 of this section. The board shall notify the applicant in writing of the
+
+HB 2995 11
+4 reasons for the refusal and shall advise the applicant of his or her right to file a
+5 complaint with the administrative hearing commission as provided in chapter 621.
+6 2. The board may cause a complaint to be filed with the administrative hearing
+7 commission as provided by chapter 621 against any holder of any license issued under
+8 sections 324.2000 to 324.2065 or any person who has failed to renew or has surrendered
+9 his or her license for any one or any combination of the following causes:
+10 (1) The person has been finally adjudicated and found guilty, or entered a plea of
+11 guilty or nolo contendere, in a criminal prosecution under the laws of any state, of the
+12 United States, or of any country for any offense directly related to the duties and
+13 responsibilities of the occupation, as set forth in section 324.012, regardless of whether a
+14 sentence is imposed;
+15 (2) Fraudulently or deceptively using a license issued under sections 324.2000 to
+16 324.2065;
+17 (3) Use of fraud or deception in obtaining or attempting to obtain a certification,
+18 a license, or a contract to conduct radon measurement, mitigation, inspection, or
+19 laboratory analysis for the applicant or licensee or for another;
+20 (4) Attempting to transfer the authority granted by a license issued under
+21 sections 324.2000 to 324.2065 to another person or business entity;
+22 (5) Use of unfair or deceptive trade practices;
+23 (6) Making any false statement as to a material matter in any application or
+24 other statement or certificate required by sections 324.2000 to 324.2065;
+25 (7) Incompetency, misconduct, or gross negligence in the performance of
+26 providing radon services or assisting in providing radon services;
+27 (8) Revocation of a professional license, certification, registration, or permit
+28 granted by another state following disciplinary proceedings in that state;
+29 (9) Failure to display a license issued under sections 324.2000 to 324.2065 as
+30 prescribed by rule of the board;
+31 (10) Disregarding or violating the standards, building codes, electrical codes, or
+32 related laws of this state or ordinances of any municipality, city, or county;
+33 (11) Failing to adequately train and supervise any person working under the
+34 direction and control of the measurement professional, mitigation professional, radon
+35 mitigation inspector, or radon laboratory;
+36 (12) Failing to maintain the liability insurance required under section 324.2035;
+37 (13) Violating any provision of sections 324.2000 to 324.2065, any regulation
+38 promulgated by the board, or any standard, code, rule, or regulation adopted in
+39 accordance with sections 324.2000 to 324.2065; or
+
+HB 2995 12
+40 (14) Attempting to evade, or aiding or abetting any person attempting to evade,
+41 the provisions of sections 324.2000 to 324.2065 or the administrative regulations
+42 promulgated thereunder by the board.
+43 3. After the filing of a complaint under subsection 2 of this section, the
+44 proceedings shall be conducted in accordance with the provisions of chapter 621. Upon
+45 a finding by the administrative hearing commission that one or more of the grounds for
+46 disciplinary action provided in subsection 2 of this section are met, the board may,
+47 singly or in combination, censure or place the person named in the complaint on
+48 probation or suspension or revoke the license of the person on such terms and
+49 conditions as the board deems appropriate.
+50 4. To determine the appropriate disciplinary action to impose on a licensee
+51 under this section, the board shall consider the seriousness of the violation, the harm
+52 caused by the violation, the good faith of the licensee, and any history of previous
+53 violations by the licensee.
+54 5. If a license is revoked or suspended, or an application for a license or renewal
+55 of a license is denied, the person, business entity, or laboratory shall not conduct radon
+56 measurement, mitigation, inspection, or laboratory services.
+324.2060. 1. The board or its agent or inspector may examine records of licensed
+2 mitigation professionals, measurement professionals, radon mitigation inspectors, radon
+3 business entities, radon laboratories, unlicensed persons, and unlicensed business
+4 entities that perform, offer, or claim to perform activities regulated by sections 324.2000
+5 to 324.2065 including, but not limited to, conducting inspections of mitigation system
+6 installations and measurement locations in order to ensure that radon measurement,
+7 mitigation, and laboratory analysis are conducted in accordance with the applicable
+8 standard and administrative regulations.
+9 2. For purposes of enforcing sections 324.2000 to 324.2065, the board or its agent
+10 or inspector may inspect or test any equipment used for measurement, mitigation, or
+11 laboratory analysis or photograph or sketch any portion of a site, building, or
+12 equipment involved in measurement, mitigation, or laboratory analysis.
+13 3. In accordance with sections 324.2000 to 324.2065 or any administrative
+14 regulation promulgated by the board pertaining to radon measurement, mitigation, or
+15 laboratory analysis, based on a complaint or report, an agent or inspector of the board
+16 shall have the power to seek to enter upon premises at all reasonable times to make an
+17 inspection and question persons.
+18 4. In accordance with sections 324.2000 to 324.2065 or any administrative
+19 regulation promulgated by the board pertaining to radon measurement, mitigation, or
+20 laboratory analysis, an agent or inspector of the board shall have the power to:
+
+HB 2995 13
+21 (1) Question licensed mitigation professionals, measurement professionals,
+22 radon mitigation inspectors, radon business entities, radon laboratories, unlicensed
+23 persons, and unlicensed business entities that perform, offer, or claim to perform
+24 activities regulated by sections 324.2000 to 324.2065; and
+25 (2) Require the production of radon mitigation system plans, sketches,
+26 diagnostic information, test reports, quality control plans, quality management plans,
+27 and other evidence.
+28 5. Agents and inspectors of the board shall be empowered to issue a stop order to
+29 any owner, agent, or occupant of real property requiring that the radon mitigation
+30 system thereon cease operation if that system has been found to be in violation of
+31 sections 324.2000 to 324.2065 or any administrative regulation promulgated thereunder
+32 by the board or if the radon mitigation system was not constructed, installed, or altered
+33 in accordance with the applicable standard.
+34 6. A person shall not interfere with an inspection conducted by an agent or
+35 inspector of the board.
+324.2065. 1. Measurement professionals, mitigation professionals, and radon
+2 mitigation inspectors shall report the address, results, and other records about services
+3 performed in a manner prescribed by the board by rule.
+4 2. Records required by sections 324.2000 to 324.2065, administrative regulations
+5 promulgated thereunder, or the applicable standard, including, but not limited to,
+6 records of radon measurement, mitigation, quality control program plans, calibration
+7 certifications, laboratory analysis activities, worker health and safety plans, and
+8 equipment repairs, shall be retained by licensees, as applicable, for a minimum period of
+9 five years or the length of time of any warranty or guarantee, whichever is greater.
+10 3. The board shall make the records available upon request:
+11 (1) To the owner or occupant of a building;
+12 (2) To the board's staff, counsel, and contractors involved in compliance and
+13 enforcement;
+14 (3) To the public aggregated at the census tract or zip code level without
+15 identifying individual homeowners or individual property locations; and
+16 (4) To a state or federal agency that provides aggregated data to the public.
+17 4. Any measurement professional, mitigation professional, or radon mitigation
+18 inspector applying for a license or renewal of a license shall specify, for approval by the
+19 board, the physical or electronic location where records required under sections
+20 324.2000 to 324.2065 shall be maintained for inspection by the board.
+✔
+
+[DELETED:  B N 2IJ a c 3 R b a t f n s r t t Ct b k a s 3 3 3 3 3 33r Ao( " t c o m a b o b d o t rr( " o r s o " t g o r proi( " a s u o i t b u f s o0s1( " m t c r a E2r3( "4m—M i e]
+[DELETED: 5( "6r7d8( "9( "0( " a t a o a r o r p1c2p m d o t a o e r o r p3m4( " a p o b e l b t b a a5m6l7( "8p9e0(1p2w3( " p a p c b a r p4p w p r m f c a w m t5r6( "7s8r9( " p a p c b a r p0p w p r m f c a w m t1r2( "3c4( "5( "6( " p a n r c b t i7c8( "9b0( " l a b e a b a l1a p r b t N E L ]
+[DELETED: 2A3t4( "5p6r7( "8r9( " b s i t i r0m1( " a c w d d a c2m b a s d o a b t A3N4t 1 Nmcu TsJ2 N p o b e s a o c t b a rmr03 A r b e m e i r m m1i2b3o4m A5t64 A7o8i95 A0h A p w o a o a s h m i a r1m2t3b ]
+[DELETED: 46 A h w k o5M6f a b i t s o o b m o s b e f t7r o s 3 t 3 a l a t t k i u i t8h97 T b m a b r s o m0m1a28 T 1 Tf( C( P( Fr2p( C a l r p a p a f p b t0b1( P2( F3r43 A5( M6( E m a c i a w t a7s8( M a q a p i a w t s f9m0( E1m2( U o s m d a b t r p3p4( R5( E Ta ]
+[DELETED: ( Cr( P( Fr2 T b s r t m p l e f ap0( C1b2( P3( F4r53 A6( M7( E m a c i a w t a8m9( M a q m p i a w t a0s1( E2m3( R4( E52 1 Tf( C( P( Fr2 Tp( C a l r p a p a f p b t0b1( P2(3r43 A ]
+[DELETED: 5( M6( E7a8( R 1 Te( Cr( P( Fr2 Tt0( C1b2(3( F4r53 A6( M p o a b a l a p7r8( E9l0( M1s2( R 1 Tpp2 Tb 1 E r m p r mp r m i a r l s m ai(i( P ]
+[DELETED: ( F m p a r m i lca0( F1a2( L3t4( S5p i n e u t b r w n o t c o6n72 A8e 1 Ll s r o o p ap2 l s r a c o i s d tat Tcc 1 TS T( Pt( D a c p f e a c o ar t r i l a i m am( I( M0( D1e2s3r4( E5p6a ]
+[DELETED: 7f8T9( P0t1( C23334( I s o t t b a a o u t5a6( R m o b m a p w s b7d8( P9c0( P a r t a c a1e2( a m p a i a c3s a n t a c a e s 3 t435( E c w s 3 t 3 a i6e72 E8r9m0o13 T2( F3t4n5A6( O7s8b9( O n m s b a r o t h b0i1t ]
+[DELETED: 2( O3u4s5( O6s74 N8b95 T b e f i a a a m o t b u0s1r m m i o l a f n l t2t36 U4a5a e i p o m t p o r m6m7i8( H a v l a a r m p o r9m0( B17 T2y3o A4a t T v m s b a f t o f5y68 N M7u89 U9t01 V1a21 A3T4n5a61 T7m T8a I ]
+[DELETED: 9w0s1o21 M3p41 E5o a a n e i i t d o o d6a71 A8i9c0s T1v w t g a p t c 5 t r t d t2e3t42 1 TF Aos TI a w s 3 a 3 t s t m ad Tt f s b u s f t a a e o s32 N0t1a2a T3f4t53 T6o A7c 1 T b m r t i r o r a lrs 2 o t s T b s n t a i w o t 1]
+[DELETED: r f t r a s a t a o h o h r t f ac2 Tcsh0( T1g2U S o o a c f a o d r t t d a3r4s5( F637( U8a l o a c t c r m m i o9l0( A t t t a g b a l i u1s2( U3( M4o5( I m o g n i t p o6p7( R o a p l c r o p8g9( F0p1( D2r3( F4d5m6( F7( V a p o s 3 t 3 a r8p b t b o a s c r o r a i9a 1]
+[DELETED: 0( A1t p o s 3 t 3 o t a r2p33 A t f o a c u s 2 o t s t4p U5a6d a p i s 2 o t s a m t b m7s o i c c o p t p n i t c o8p o s o r t l o t p o s t a9c04 T d t a d a t i o a l1u2c b t v t g f o t l a a h o p3v45 I5o6m 1 Tmb e r l u p a u betim a l a a c i a w t as2 F0o1l a o p o s a p o a s b o2e33 I a w s 3 t 3 o a a4r5l6s7i84 a w s 3 t 3 o a a9r0l 1]
+[DELETED: 1( Q l m p m p2r m i r b e r l u3p a u b e t p o o c t p4a5( R t p o r m s p s6d7a85 A9a o a o o o r p r t t r m0s t c o i t s h b f t b i v o1s2b3i46 A p s n i w a i c b a a o5i Mmp2 Rp t o t a s i b n l trc l a a w h a s p aef03 T1( T2( T3e4( T t p a a t c t o z c l w5i6( T74 A8i9b t p o e l w r r u s03 1]
