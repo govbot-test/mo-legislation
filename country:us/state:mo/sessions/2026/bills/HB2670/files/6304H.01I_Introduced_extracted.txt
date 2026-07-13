@@ -1,0 +1,1132 @@
+Title: HOUSE BILL NO. 2670
+Official Title: HOUSE BILL NO. 2670
+Number of Sections: 12
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE PETERS.
+6304H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To repeal sections 192.131, 192.665, 192.667, 192.700, 192.703, 192.707, 192.710, 192.712,
+
+Section 2:
+192.714, 192.716, 192.718, 192.723, 192.725, 197.165, 197.293, 197.294, 643.263,
+and 643.265, RSMo, and to enact in lieu thereof nine new sections relating to public
+health.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+
+Section 3:
+Section A. Sections 192.131, 192.665, 192.667, 192.700, 192.703, 192.707, 192.710,
+2 192.712, 192.714, 192.716, 192.718, 192.723, 192.725, 197.165, 197.293, 197.294, 643.263,
+3 and 643.265, RSMo, are repealed and nine new sections enacted in lieu thereof, to be known
+4 as sections 192.131, 192.665, 192.667, 192.700, 192.703, 192.714, 197.293, 197.294, and
+5 643.263, to read as follows:
+
+Section 4:
+192.131. 1. As used in this section, the following terms shall mean:
+2 (1) ["Advisory panel", the infection control advisory panel created by section
+3 197.165;
+4 (2)] "Antibiogram", a record of the resistance of microbes to various antibiotics;
+5 [(3)] (2) "Antimicrobial", the ability of an agent to destroy or prevent the
+6 development of pathogenic action of a microorganism;
+7 [(4)] (3) "Department", the department of health and senior services.
+8 2. Every laboratory performing culture and sensitivity testing on humans in Missouri
+9 shall submit data on health care associated infections to the department in accordance with
+10 this section. The data to be reported shall be defined by regulation of the department [after
+11 considering the recommendations of the advisory panel]. Such data may include
+12 antibiograms and, not later than July 1, 2005, shall include but not be limited to the
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+HB 2670 2
+13 number of patients or isolates by hospital, ambulatory surgical center, and other facility or
+14 practice setting with methicillin-resistant staphylococcus aureus (MRSA) or vancomycin-
+15 resistant enterococcus (VRE).
+16 3. Information on infections collected pursuant to this section shall be subject to the
+17 confidentiality protections of this chapter but shall be available in provider-specific form to
+18 appropriate facility and professional licensure authorities.
+19 4. The [advisory panel] department shall [develop a recommended plan to] use
+20 laboratory and health care provider data provided pursuant to this chapter to create a system
+21 to:
+22 (1) Enhance the ability of health care providers and the department to track the
+23 incidence and distribution of preventable infections, with emphasis on those infections that
+24 are most susceptible to interventions and that pose the greatest risk of harm to Missouri
+25 residents; and
+26 (2) Monitor trends in the development of antibiotic-resistant microbes, including but
+27 not limited to methicillin-resistant staphylococcus aureus (MRSA) and vancomycin-resistant
+28 enterococcus (VRE) infections.
+29 5. In implementing this section, [the advisory panel and] the department shall
+30 conform to guidelines and standards adopted by the federal Centers for Disease Control and
+31 Prevention. [The advisory panel's plan may provide for demonstration projects to assess the
+32 viability of the recommended initiatives.]
+
+Section 5:
+192.665. As used in this section, section 192.667, and sections 197.150 to [197.165]
+2 197.162, the following terms mean:
+3 (1) "Charge data", information submitted by health care providers on current charges
+4 for leading procedures and diagnoses;
+5 (2) "Charges by payer", information submitted by hospitals on amount billed to
+6 Medicare, Medicaid, other government sources and all nongovernment sources combined as
+7 one data element;
+8 (3) "Department", the department of health and senior services;
+9 (4) "Financial data", information submitted by hospitals drawn from financial
+10 statements which includes the balance sheet, income statement, charity care and bad debt and
+11 charges by payer, prepared in accordance with generally accepted accounting principles;
+12 (5) "Health care provider", hospitals as defined in section 197.020 and ambulatory
+13 surgical centers and abortion facilities as defined in section 197.200;
+14 (6) "Nosocomial infection", as defined by the federal Centers for Disease Control and
+15 Prevention and applied to infections within hospitals, ambulatory surgical centers, abortion
+16 facilities, and other facilities;
+HB 2670 3
+17 (7) "Nosocomial infection incidence rate", a risk-adjusted measurement of new cases
+18 of nosocomial infections by procedure or device within a population over a given period of
+19 time, with such measurements defined by rule of the department pursuant to subsection 3 of
+20 section 192.667 for use by all hospitals, ambulatory surgical centers, abortion facilities, and
+21 other facilities in complying with the requirements of the Missouri nosocomial infection
+22 control act of 2004;
+23 (8) "Other facility", a type of facility determined to be a source of infections and
+24 designated by rule of the department pursuant to subsection 11 of section 192.667;
+25 (9) "Patient abstract data", data submitted by hospitals which includes but is not
+26 limited to date of birth, sex, race, zip code, county of residence, admission date, discharge
+27 date, principal and other diagnoses, including external causes, principal and other procedures,
+28 procedure dates, total billed charges, disposition of the patient and expected source of
+29 payment with sources categorized according to Medicare, Medicaid, other government,
+30 workers' compensation, all commercial payors coded with a common code, self-pay, no
+31 charge and other.
+
+Section 6:
+192.667. 1. All health care providers shall at least annually provide to the department
+2 charge data as required by the department. All hospitals shall at least annually provide patient
+3 abstract data and financial data as required by the department. Hospitals as defined in section
+4 197.020 shall report patient abstract data for outpatients and inpatients. Ambulatory surgical
+5 centers and abortion facilities as defined in section 197.200 shall provide patient abstract data
+6 to the department. The department shall specify by rule the types of information which shall
+7 be submitted and the method of submission.
+8 2. The department shall collect data on the incidence of health care-associated
+9 infections from hospitals, ambulatory surgical centers, abortion facilities, and other facilities
+10 as necessary to generate the reports required by this section. Hospitals, ambulatory surgical
+11 centers, abortion facilities, and other facilities shall provide such data in compliance with this
+12 section. In order to streamline government and to eliminate duplicative reporting
+13 requirements, if the Centers for Medicare and Medicaid Services, or its successor entity,
+14 requires hospitals to submit health care-associated infection data, then hospitals and the
+15 department shall not be required to comply with the health care-associated infection data
+16 reporting requirements of subsections 2 to [17] 16 of this section applicable to hospitals,
+17 except that the department shall post a link on its website to publicly reported data by
+18 hospitals on the Centers for Medicare and Medicaid Services' Hospital Compare website, or
+19 its successor.
+20 3. The department shall promulgate rules specifying the standards and procedures for
+21 the collection, analysis, risk adjustment, and reporting of the incidence of health care-
+HB 2670 4
+22 associated infections and the types of infections and procedures to be monitored pursuant to
+23 subsection [13] 12 of this section. In promulgating such rules, the department shall[:
+24 (1)] use methodologies and systems for data collection established by the federal
+25 Centers for Disease Control and Prevention's National Healthcare Safety Network, or its
+26 successor[; and
+27 (2) Consider the findings and recommendations of the infection control advisory
+28 panel established pursuant to section 197.165].
+29 4. [By January 1, 2017, the infection control advisory panel created by section
+30 197.165 shall make recommendations to] The department [regarding] will continue to assess
+31 the Centers for Medicare and Medicaid Services' health care-associated infection data
+32 collection, analysis, and public reporting requirements for hospitals, ambulatory surgical
+33 centers, and other facilities in the federal Centers for Disease Control and Prevention's
+34 National Healthcare Safety Network, or its successor, in lieu of all or part of the data
+35 collection, analysis, and public reporting requirements of this section. The [advisory panel
+36 recommendations] department shall address which hospitals shall be required as a condition
+37 of licensure to use the National Healthcare Safety Network for data collection; the use of the
+38 National Healthcare Safety Network for risk adjustment and analysis of hospital submitted
+39 data; and the use of the Centers for Medicare and Medicaid Services' Hospital Compare
+40 website, or its successor, for public reporting of the incidence of health care-associated
+41 infection metrics. [The advisory panel shall consider the following factors in developing its
+42 recommendation:
+43 (1) Whether the public is afforded the same or greater access to facility-specific
+44 infection control indicators and metrics;
+45 (2) Whether the data provided to the public is subject to the same or greater accuracy
+46 of risk adjustment;
+47 (3) Whether the public is provided with the same or greater specificity of reporting of
+48 infections by type of facility infections and procedures;
+49 (4) Whether the data is subject to the same or greater level of confidentiality of the
+50 identity of an individual patient;
+51 (5) Whether the National Healthcare Safety Network, or its successor, has the
+52 capacity to receive, analyze, and report the required data for all facilities;
+53 (6) Whether the cost to implement the National Healthcare Safety Network infection
+54 data collection and reporting system is the same or less.]
+55 5. [After considering the recommendations of the infection control advisory panel,
+56 and provided that the requirements of subsection 13 of this section can be met,] The
+57 department shall implement guidelines from the federal Centers for Disease Control and
+58 Prevention's National Healthcare Safety Network, or its successor. It shall be a condition of
+HB 2670 5
+59 licensure for hospitals that meet the minimum public reporting requirements of the National
+60 Healthcare Safety Network and the Centers for Medicare and Medicaid Services to participate
+61 in the National Healthcare Safety Network, or its successor. Such hospitals shall permit the
+62 National Healthcare Safety Network, or its successor, to disclose facility-specific infection
+63 data to the department as required under this section, and as necessary to provide the public
+64 reports required by the department. It shall be a condition of licensure for any ambulatory
+65 surgical center or abortion facility which does not voluntarily participate in the National
+66 Healthcare Safety Network, or its successor, to submit facility-specific data to the department
+67 as required under this section, and as necessary to provide the public reports required by the
+68 department.
+69 6. The department shall not require the resubmission of data which has been
+70 submitted to the department of health and senior services or the department of social services
+71 under any other provision of law. The department of health and senior services shall accept
+72 data submitted by associations or related organizations on behalf of health care providers by
+73 entering into binding agreements negotiated with such associations or related organizations to
+74 obtain data required pursuant to section 192.665 and this section. A health care provider shall
+75 submit the required information to the department of health and senior services:
+76 (1) If the provider does not submit the required data through such associations or
+77 related organizations;
+78 (2) If no binding agreement has been reached within ninety days of August 28, 1992,
+79 between the department of health and senior services and such associations or related
+80 organizations; or
+81 (3) If a binding agreement has expired for more than ninety days.
+82 7. Information obtained by the department under the provisions of section 192.665
+83 and this section shall not be public information. Reports and studies prepared by the
+84 department based upon such information shall be public information and may identify
+85 individual health care providers. The department of health and senior services may authorize
+86 the use of the data by other research organizations pursuant to the provisions of section
+87 192.067. The department shall not use or release any information provided under section
+88 192.665 and this section which would enable any person to determine any health care
+89 provider's negotiated discounts with specific preferred provider organizations or other
+90 managed care organizations. The department shall not release data in a form which could be
+91 used to identify a patient. Any violation of this subsection is a class A misdemeanor.
+92 8. The department shall undertake a reasonable number of studies and publish
+93 information, including at least an annual consumer guide, in collaboration with health care
+94 providers, business coalitions and consumers based upon the information obtained pursuant to
+95 the provisions of section 192.665 and this section. The department shall allow all health care
+HB 2670 6
+96 providers and associations and related organizations who have submitted data which will be
+97 used in any publication to review and comment on the publication prior to its publication or
+98 release for general use. The publication shall be made available to the public for a reasonable
+99 charge.
+100 9. Any health care provider which continually and substantially, as these terms are
+101 defined by rule, fails to comply with the provisions of this section shall not be allowed to
+102 participate in any program administered by the state or to receive any moneys from the state.
+103 10. A hospital, as defined in section 197.020, aggrieved by the department's
+104 determination of ineligibility for state moneys pursuant to subsection 9 of this section may
+105 appeal as provided in section 197.071. An ambulatory surgical center or abortion facility as
+106 defined in section 197.200 aggrieved by the department's determination of ineligibility for
+107 state moneys pursuant to subsection 9 of this section may appeal as provided in section
+108 197.221.
+109 11. The department of health may promulgate rules providing for collection of data
+110 and publication of the incidence of health care-associated infections for other types of health
+111 facilities determined to be sources of infections; except that, physicians' offices shall be
+112 exempt from reporting and disclosure of such infections.
+113 12. [By January 1, 2017, the advisory panel shall recommend and] The department
+114 shall adopt in regulation [with an effective date of no later than January 1, 2018,] the
+115 requirements for the reporting of the following types of infections as specified in this
+116 subsection:
+117 (1) Infections associated with a minimum of four surgical procedures for hospitals
+118 and a minimum of two surgical procedures for ambulatory surgical centers that meet the
+119 following criteria:
+120 (a) Are usually associated with an elective surgical procedure. An "elective surgical
+121 procedure" is a planned, nonemergency surgical procedure that may be either medically
+122 required such as a hip replacement or optional such as breast augmentation;
+123 (b) Demonstrate a high priority aspect such as affecting a large number of patients,
+124 having a substantial impact for a smaller population, or being associated with substantial cost,
+125 morbidity, or mortality; or
+126 (c) Are infections for which reports are collected by the National Healthcare Safety
+127 Network or its successor;
+128 (2) Central line-related bloodstream infections;
+129 (3) Health care-associated infections specified for reporting by hospitals, ambulatory
+130 surgical centers, and other health care facilities by the rules of the Centers for Medicare and
+131 Medicaid Services to the federal Centers for Disease Control and Prevention's National
+132 Healthcare Safety Network, or its successor; and
+HB 2670 7
+133 (4) Other categories of infections that may be established by rule by the department.
+134
+135 The department[, in consultation with the advisory panel,] shall be authorized to collect and
+136 report data on subsets of each type of infection described in this subsection.
+137 13. [In consultation with the infection control advisory panel established pursuant to
+138 section 197.165,] The department shall develop and disseminate to the public reports based
+139 on data compiled for a period of twelve months. Such reports shall be updated [quarterly] at
+140 least annually and shall show for each hospital, ambulatory surgical center, abortion facility,
+141 and other facility metrics on risk-adjusted health care-associated infections under this section.
+142 14. The types of infections under subsection 12 of this section to be publicly reported
+143 shall be determined by the department by rule and shall be consistent with the infections
+144 tracked by the National Healthcare Safety Network, or its successor.
+145 15. Reports published pursuant to subsection 13 of this section shall be published and
+146 readily accessible on the department's internet website. The reports shall be distributed at
+147 least annually to the governor and members of the general assembly. The department shall
+148 make such reports available to the public for a period of at least two years.
+149 16. [The Hospital Industry Data Institute shall publish a report of Missouri hospitals',
+150 ambulatory surgical centers', and abortion facilities' compliance with standardized quality of
+151 care measures established by the federal Centers for Medicare and Medicaid Services for
+152 prevention of infections related to surgical procedures. If the Hospital Industry Data Institute
+153 fails to do so by July 31, 2008, and annually thereafter, the department shall be authorized to
+154 collect information from the Centers for Medicare and Medicaid Services or from hospitals,
+155 ambulatory surgical centers, and abortion facilities and publish such information in
+156 accordance with this section.
+157 17.] The data collected or published pursuant to this section shall be available to the
+158 department for purposes of licensing hospitals, ambulatory surgical centers, and abortion
+159 facilities pursuant to chapter 197.
+160 [18.] 17. The department shall promulgate rules to implement the provisions of
+161 section 192.131 and sections 197.150 to 197.160. Any rule or portion of a rule, as that term is
+162 defined in section 536.010, that is created under the authority delegated in this section shall
+163 become effective only if it complies with and is subject to all of the provisions of chapter 536
+164 and, if applicable, section 536.028. This section and chapter 536 are nonseverable and if any
+165 of the powers vested with the general assembly pursuant to chapter 536 to review, to delay the
+166 effective date, or to disapprove and annul a rule are subsequently held unconstitutional, then
+167 the grant of rulemaking authority and any rule proposed or adopted after August 28, 2004,
+168 shall be invalid and void.
+HB 2670 8
+169 [19. No later than August 28, 2017,] 18. Each hospital, excluding mental health
+170 facilities as defined in section 632.005, and each ambulatory surgical center and abortion
+171 facility as defined in section 197.200, shall in consultation with its medical staff establish an
+172 antimicrobial stewardship program for evaluating the judicious use of antimicrobials,
+173 especially antibiotics that are the last line of defense against resistant infections. The
+174 hospital's stewardship program and the results of the program shall be monitored and
+175 evaluated by hospital quality improvement departments and shall be available upon
+176 inspection to the department. At a minimum, the antimicrobial stewardship program shall be
+177 designed to evaluate that hospitalized patients receive, in accordance with accepted medical
+178 standards of practice, the appropriate antimicrobial, at the appropriate dose, at the appropriate
+179 time, and for the appropriate duration.
+180 [20.] 19. Hospitals described in subsection [19] 18 of this section shall meet the
+181 National Healthcare Safety Network requirements for reporting antimicrobial usage or
+182 resistance by using the Centers for Disease Control and Prevention's Antimicrobial Use and
+183 Resistance (AUR) Module when conditions of participation promulgated by the Centers for
+184 Medicare and Medicaid Services requiring the electronic reporting of antibiotic use or
+185 antibiotic resistance by hospitals become effective. When such antimicrobial usage or
+186 resistance reporting takes effect, hospitals shall authorize the National Healthcare Safety
+187 Network, or its successor, to disclose to the department facility-specific information reported
+188 to the AUR Module. Facility-specific data on antibiotic usage and resistance collected under
+189 this subsection shall not be disclosed to the public, but the department may release case-
+190 specific information to other facilities, physicians, and the public if the department
+191 determines on a case-by-case basis that the release of such information is necessary to protect
+192 persons in a public health emergency. Nothing in this section shall prohibit a hospital from
+193 voluntarily reporting antibiotic use or antibiotic resistance data through the National
+194 Healthcare Safety Network, or its successor, prior to the effective date of the conditions of
+195 participation requiring the reporting.
+196 [21.] 20. The department shall make a report to the general assembly beginning
+197 January 1, 2018, and on every January first thereafter on the incidence, type, and distribution
+198 of antimicrobial-resistant infections identified in the state and within regions of the state.
+
+Section 7:
+192.700. There is hereby established a state arthritis program. [The board and the
+2 committee established by sections 192.700 to 192.727 are to administer state, federal and
+3 private grants and programs dealing with arthritis and related diseases as a part of this arthritis
+4 program.] Regional arthritis [centers] programs established pursuant to sections 192.700 to
+5 192.727 constitute part of the state arthritis program.
+
+Section 8:
+192.703. As used in sections 192.700 to 192.727, the [following terms mean:
+2 (1) "Board", the Missouri arthritis advisory board;
+HB 2670 9
+3 (2) "Committee", the arthritis program review committee;
+4 (3)] term "director"[,] means the director of the department of health and senior
+5 services.
+
+Section 9:
+192.714. 1. Beginning October 1, [1984] 2026, there shall be established within this
+2 state, and within the department of health and senior services, [a network of] regional arthritis
+3 [centers] programs, subject to appropriations, designed to [demonstrate and stimulate the
+4 prompt and effective application of available knowledge for the treatment of patients with
+5 arthritis and related musculoskeletal diseases, and to develop new knowledge essential for the
+6 control of these disorders] improve knowledge and access to arthritis management among
+7 adults with arthritis.
+8 2. The arthritis [centers] programs established pursuant to sections 192.700 to
+9 192.727 shall [operate programs in the area of education of] educate patients, their families,
+10 and the public.
+11 [3. At least one regional arthritis center shall be established in each of the following
+12 seven regions, the boundaries of which shall be determined by the board:
+13 (1) Greater St. Louis area;
+14 (2) Southeast;
+15 (3) Northeast;
+16 (4) Central;
+17 (5) Southwest;
+18 (6) Northwest; and
+19 (7) Greater Kansas City area.]
+
+Section 10:
+197.293. 1. In addition to the powers established in sections 197.070 and 197.220,
+2 the department of health and senior services shall use the following standards for enforcing
+3 hospital, ambulatory surgical center, and abortion facility licensure regulations promulgated
+4 to enforce the provisions of sections 197.010 to 197.120, sections 197.150 to [197.165]
+5 197.162, and sections 197.200 to 197.240:
+6 (1) Upon notification of a deficiency in meeting regulatory standards, the hospital,
+7 ambulatory surgical center, or abortion facility shall develop and implement a plan of
+8 correction approved by the department which includes, but is not limited to, the specific type
+9 of corrective action to be taken and an estimated time to complete such action;
+10 (2) If the plan as implemented does not correct the deficiency, the department may
+11 either:
+12 (a) Direct the hospital, ambulatory surgical center, or abortion facility to develop and
+13 implement a plan of correction pursuant to subdivision (1) of this subsection; or
+14 (b) Require the hospital, ambulatory surgical center, or abortion facility to implement
+15 a plan of correction developed by the department;
+HB 2670 10
+16 (3) If there is a continuing deficiency after implementation of the plan of correction
+17 pursuant to subdivision (2) of this subsection and the hospital, ambulatory surgical center, or
+18 abortion facility has had an opportunity to correct such deficiency, the department may
+19 restrict new inpatient admissions or outpatient entrants to the service or services affected by
+20 such deficiency;
+21 (4) If there is a continuing deficiency after the department restricts new inpatient
+22 admissions or outpatient entrants to the service or services pursuant to subdivision (3) of this
+23 subsection and the hospital, ambulatory surgical center, or abortion facility has had an
+24 opportunity to correct such deficiency, the department may suspend operations in all or part of
+25 the service or services affected by such deficiency;
+26 (5) If there is a continuing deficiency after suspension of operations pursuant to
+27 subdivision (4) of this subsection, the department may deny, suspend or revoke the hospital's,
+28 ambulatory surgical center's, or abortion facility's license pursuant to section 197.070 or
+29 section 197.220.
+30 2. Notwithstanding the provisions of subsection 1 of this section to the contrary, if a
+31 deficiency in meeting licensure standards presents an immediate and serious threat to the
+32 patients' health and safety, the department may, based on the scope and severity of the
+33 deficiency, restrict access to the service or services affected by the deficiency until the
+34 hospital, ambulatory surgical center, or abortion facility has developed and implemented an
+35 approved plan of correction. Decisions as to whether a deficiency constitutes an immediate
+36 and serious threat to the patients' health and safety shall be made in accordance with
+37 guidelines established pursuant to regulation of the department of health and senior services
+38 and such decisions shall be approved by the bureau of health facility licensing in the
+39 department of health and senior services, or its successor agency, or by a person authorized by
+40 the regulations to approve such decisions in the absence of the director.
+
+Section 11:
+197.294. No information disclosed by the department to the public pursuant to
+2 sections 192.019, 192.020, 192.067, 192.131, 192.138, 192.665, and 192.667, and sections
+3 197.150, 197.152, 197.154, 197.156, 197.158, 197.160, 197.162, [197.165,] and 197.293
+4 shall be used to establish a standard of care in a private civil action.
+
+Section 12:
+643.263. 1. Each public school district and private or parochial school in Missouri
+2 shall [report to the department of health and senior services] maintain any reports relating
+3 to the results of the examination of its structures for friable asbestos as required by the
+4 Environmental Protection Agency under the Toxic Substances Control Act, PL 94-469. [All
+5 such reports shall be filed with the department of health and senior services before March 1,
+6 1987.] Other political subdivisions shall [assess] maintain assessments relating to asbestos
+7 in buildings owned, leased or operated by the political subdivisions and [report] reports
+8 relating to the results of the examination of its structures for friable asbestos [to the
+HB 2670 11
+9 department of health and senior services by December 31, 1991]. The results of the
+10 assessment shall be public information and shall be readily available to the public and
+11 employees of each political subdivision and each school district and private and parochial
+12 school.
+13 2. If the assessment indicates the presence of asbestos-containing materials, the report
+14 shall identify the location of all materials containing asbestos, the location and square footage
+15 of friable asbestos, the average number of persons exposed, the percent of asbestos found in
+16 the material, the test used to assess the material and plans for management of any friable
+17 asbestos. The report shall also describe any plans for interim measures, such as treating or
+18 covering friable asbestos, to be taken pending management of the material. Any political
+19 subdivision, any school district and any private or parochial school which adopts interim
+20 measures or which has not completed its management plan shall reevaluate the material
+21 biennially and report its findings to [the department of health and senior services and make its
+22 findings available to] its employees and the public. Any political subdivision, any school
+23 district and any private or parochial school which identifies nonfriable asbestos shall, no less
+24 often than every three years, reevaluate the material and report its findings to [the department
+25 of health and senior services and make its findings available to] its employees and the public.
+26 [The department of health and senior services shall provide technical assistance including
+27 training, consultation and inspection upon request to political subdivisions in identifying
+28 buildings owned, leased or operated by political subdivisions which have asbestos-containing
+29 materials.
+30 3. The department of health and senior services shall annually provide the department
+31 of elementary and secondary education with a list of all public school districts whose
+32 buildings contain friable asbestos.
+33 4. The department of health and senior services shall, in cooperation with the office of
+34 administration, assess asbestos in buildings owned, operated or leased by the state of Missouri
+35 and report its findings to the office of administration.]
+[192.707. 1. The "Missouri Arthritis Advisory Board" is established
+2 within the department of health and senior services, as a continuation of the
+3 arthritis advisory board in existence on August 13, 1984. The board shall
+4 consist of twenty-five members. The members of the board that are serving on
+5 August 13, 1984, shall continue until the expiration of this term. The board
+6 shall submit a list of names to the director as recommendations to fill expired
+7 terms on the board. The director shall fill each expired membership on the
+8 board, each of the appointees to serve for a term of four years and until his
+9 successor is appointed and confirmed. Vacancies on the board arising from
+10 reasons other than expiration of the member's term shall be filled by the
+11 director for the time remaining in the unexpired term.
+HB 2670 12
+12 2. The board shall meet semiannually and at other such times as called
+13 by the chairman of the board. The chairman shall be elected from the board
+14 membership at the first board meeting, and shall serve as chairman until a new
+15 chairman is elected, or until his term on the board expires, whichever occurs
+16 first.
+17 3. The board shall serve in an advisory capacity to the committee, and
+18 report annually to the department and to the state board of health and senior
+19 services regarding the implementing of the statewide arthritis plan, making
+20 recommendations for necessary changes in content and direction.
+21 4. The board shall be responsible for development and
+22 recommendations of guidelines for programs supported under the state
+23 arthritis program, and make recommendations on program relevance of grant
+24 applications funded under the state arthritis program. The board will make
+25 final recommendations to the director regarding programs and grants of the
+26 state arthritis program.
+27 5. Any reimbursement of members of the board for their actual and
+28 necessary expenses shall be subject to appropriations.]
+[192.710. 1. The "Arthritis Program Review Committee" is hereby
+2 created within the department of health and senior services. This committee
+3 shall consist of fifteen members, two from each of the seven regions set forth
+4 in section 192.714 and one at-large member. The fourteen regional members
+5 shall be nominated to the committee by the board. The one at-large member
+6 shall be nominated by the state board of health and senior services. The
+7 members of the committee shall include at least one from each of the
+8 following categories: rheumatology educators, practicing rheumatologists,
+9 primary care practitioners, nurses, allied health professionals, arthritis patients,
+10 and members of the general public. Members of the committee shall be
+11 appointed by the director in consultation with the board of health and senior
+12 services. Of the fifteen initial members, five shall have a two-year term, five
+13 shall have a three-year term, and five shall have a four-year term. Thereafter,
+14 each member shall serve a four-year term and until his successor is appointed
+15 and confirmed. Vacancies on the committee arising from reasons other than
+16 expiration of the member's term shall be filled by the director for the time
+17 remaining in the unexpired term.
+18 2. The committee shall meet annually and at other such times as called
+19 by the chairman of the committee. The chairman shall be elected annually
+20 from the committee membership at the first committee meeting and shall serve
+21 as chairman until a new chairman is elected, or until his term on the committee
+22 expires, whichever occurs first.
+23 3. The committee shall review, make site visits and determine and
+24 make recommendations to the board on the merit of regional arthritis center
+25 applications. No program or other activity will be recommended for funding
+26 by the board without the favorable review of the committee.
+27 4. The arthritis program coordinator shall serve the committee as its
+28 executive administrator.]
+HB 2670 13
+[192.712. Committee and board members shall serve without
+2 compensation, but their expenses incurred in carrying out their official
+3 duties shall, subject to appropriations, be reimbursed by the state.]
+[192.716. Beginning upon receipt of appropriations for that purpose
+2 and subject to the availability of appropriations, but not before October 1,
+3 1984, the arthritis centers established pursuant to section 192.714 shall operate
+4 programs in the following areas:
+5 (1) Education at all levels for various health professionals; and
+6 (2) Improved patient care and other arthritis control activities aimed at
+7 benefitting communities served by the center.]
+[192.718. 1. Beginning upon receipt of appropriations for that purpose
+2 and subject to the availability of appropriations, but not before October 1,
+3 1984, each year the board may grant three one-year, state-supported clinical
+4 rheumatology fellowships which might include four to six months of a
+5 community-based experience in one or more of the regional arthritis centers
+6 and six to eight months at an academic institution in this state which is willing
+7 and qualified to train rheumatology fellows.
+8 2. A candidate for a fellowship granted pursuant to this section shall be
+9 approved by the director, the board, the academic institution, and the regional
+10 arthritis center director.
+11 3. Each fellowship granted pursuant to this section shall consist of an
+12 appropriate stipend and either adequate housing or a housing allowance in an
+13 amount to be determined by the board.]
+[192.723. Beginning upon receipt of appropriations for that purpose
+2 and subject to the availability of appropriations, but not before July 1, 1985,
+3 innovative research feasibility studies which cannot be funded by traditional
+4 mechanisms and which have significance for having impact on the state
+5 arthritis problem may be carried out by arthritis centers established pursuant to
+6 section 192.714.]
+[192.725. Beginning upon receipt of appropriations for that purpose
+2 and subject to the availability of appropriations, but not before July 1, 1985, a
+3 statewide "Arthritis Information Network" shall be established, consisting of a
+4 statewide WATS telephone system, staffed by volunteers insofar as possible.]
+[197.165. 1. The department shall appoint an "Infection Control
+2 Advisory Panel" for the purposes of implementing sections 192.131 and
+3 192.667.
+4 2. Members of the infection control advisory panel shall include:
+5 (1) Two public members;
+6 (2) Three board-certified or board-eligible physicians licensed
+7 pursuant to chapter 334 who are affiliated with a Missouri hospital or
+8 medical school, active members of the Society for Health Care Epidemiology
+9 of America, and have demonstrated interest and expertise in health facility
+10 infection control;
+HB 2670 14
+11 (3) One physician licensed pursuant to chapter 334 who is active in the
+12 practice of medicine in Missouri and who holds medical staff privileges at a
+13 Missouri hospital;
+14 (4) Four infection control practitioners certified by the certification
+15 board of infection control and epidemiology, at least two of whom shall be
+16 practicing in a rural hospital or setting and at least two of whom shall be
+17 registered professional nurses licensed under chapter 335;
+18 (5) A medical statistician with an advanced degree in such specialty;
+19 (6) A clinical microbiologist with an advanced degree in such
+20 specialty;
+21 (7) Three employees of the department, representing the functions of
+22 hospital, ambulatory surgical center, and abortion facility licensure,
+23 epidemiology and health data analysis, who shall serve as ex officio
+24 nonvoting members of the panel.
+25 3. Reasonable expenses of the panel shall be paid from private
+26 donations made specifically for that purpose to the "Infection Control
+27 Advisory Panel Fund", which is hereby created in the state treasury. If such
+28 donations are not received from private sources, then the provisions of this act
+29 shall be implemented without the advisory panel.]
+[643.265. The department of health and senior services and the
+2 department of natural resources shall develop an interagency agreement
+3 establishing agency responsibilities and procedures concerning asbestos
+4 reporting, removal and treatment. The department of health and senior
+5 services is hereby designated the state agency for the administration of loans
+6 and grants under the Asbestos School Hazard Abatement Act of 1984, Public
+7 Law 98-377, and other federally funded loan or grant programs for the
+8 abatement of asbestos.]
+✔
+[DELETED:  B N 2IJ S1aa6 1 A( [ p t i c a p c b s1( "[ ()" t a o a a t d o p td[)"2 Es0t T1c t r o t a p S d m i2a a n l t J 1 2 s i b n b l t t—M i e]
+[DELETED: 3n4p s w m s a ( o v5r63 I7c8a94 T [ p dts [ a r p t u0l1t2( E t a o h c p a t d t t t3i4a m s t i a t p t g r o h t M5r6( M7n8e95 I i t s [ a p a t d s0clC1P [2v A1( "f( " b p i s b h o a b tMo( "( " d i s b h d f f0s1c2( "3s4( "5P6f ]
+[DELETED: 7( "8o9t0s1o f i c w t r o t M n i2c3( "4d5( " a d d s b h w i b i n6l7d8p d t b c d o t p a e s o9p w s c a t M M o g0w c a c p c w a c c s n1c Ac Aa H1 Act Tb2 T d s c d o t i o h ci0a H1c2s I o t s g a t e d r3r i t C f M a M S o i s e4r h t s h c i d t h a t5d b t c t h c6r s [ 16o t t7e t t d s p a l o i w t p r d b8h9i031t c a r a a r o t i o h c ]
+[DELETED: 2a3s2o I4( u5C f D C a P N H S N o i6s7( C t f a r o t i c a8p94 [ J 1 2 t i c a p c b s015s1t C f M a M S h c i d2c a a p r r f h a s3c a o f i t f C f D C a P4N H S N o i s i l o a o p o t d5c T6rts7o8N9d a t u o t C f M a M S H C0w o i s f p r o t i o h c1i [2r3( W t p i a t s o g a t f4i5( W6o7( W8i9( W0i1( W t N H S N o i s h t2c3( W4d55 [6a p t t r o s 1 o t s c b m T7d s i g f t f C f D C a8P I ]
+[DELETED: 9l0H1i S2N3d4r I5s c o a f w d n v p i t N6H7a8d96 T d s n r t r o d w h b0s1u T2d3e4o A5s6( I7r8( I9b t d o h a s s a s a o r0o1( I27 I3a t s s n b p i R a s p b t4d b u s i s b p i a m i5i T6t u o t d b o r o p t t p o s71 T81 a t s w w e a p t d a h c9p n d w s p p o o o0m T1u A28 T d s u a r n o s a p3i4p5t T ]
+[DELETED: 6p7u8r T9c09 A1d2p31 A h a d i s 1 a b t d4d5a A6d7s m p t s 9 o t s m a a p i s8191 T0a1f d t b s o i e t p o s b2e31 [4s a i r [ a e d o n l t J 1 2 t5r f t r o t f t o i a s i t6s7( I8a a m o t s p f a s c t m t9f0( A A1p i a p n s p t m b e m2r3( D4h5m6( A7N8( C9( H0s1M S t t f C f D C a P N2H ]
+[DELETED: 3( O5T6r71 [8s9o S0lya1a21 T3s4t51 R6r T7l T8m91 [0a1c2p I3f4c5a s c a a f a p s i i6a71 T8d f p o l h a s c a a9f0[ 1.T d s p r t i t p o1s A2d3b4a T5o6e7t8s ]
+[DELETED: 9[ N E0f1f2a s p f e t j u o a3e a t a t l l o d a r i T4h s p a t r o t p s b m a5e b h q i d a s b a u6i A7d8s9t0[ 1.H d i s [ 18o t s s m t1N H S N r f r a u o2r3R4M a M S r t e r o a u o5a r b h b e W s a u o6r r t e h s a t N H S7N8t F9t0s i t o f p a t p i t d1d2p N3v r a u o a r d t t N4H5p6[ 2.T d s m a r t t g a b7J8o T [c7app Rse1 A( " ]
+[DELETED: ( "( tm"eds 1 Bs[,dpaca2 T a [ pse p t s 1 t1ep0a1[ A2s3(4( S5( N6( C7( S8( N9( G 1 Itht e t p o s 1 t 1 s 1 t [1( Ua s c o a f s d a i a p oco0( I1e2( D3i4( R5a ]
+[DELETED: 6( I7p8a f h h a o t c s d t d m9r0s1( I2a3s a t h a s c o a f h h a4o5t6( I t i a c d a s o o p t7s8a s c o a f l p t s 1 o9s02 N1d2p h a s t d m b o t s a s o t3d r a t t s o s a b t d u t4h5a D6a s t t t p h a s s b m i a w7g8a s d s b a b t b o h f l i t9d0t N i d b t d t t p p ts1 1 1 1 1 1 1 [ a 1s 1 Estot r o t e o i s f f a a r b tE [s1 Ooai b o l o o b t p s a [ rr tot r o t e o i s f f a [ t 1]
+[DELETED: d o h a s s b D 3 1 T r o t0a s b p i a s b r a t t p a1e2s32 I4s5o6t7a T8c A9s s d a a p o p s w a i0m o w h n c i m p s r t m1b2f A3d4o5o6[7t c a i u r t p s i i8b9m03 T1o e a s e w a l o a p s d w2b34 T4a5a 1 Twa a b i e o A 1 1 T b sc TA Tst Tbs V0r o t e o t m t s b f b t1d 1]
+[DELETED: 22 T3b T4m5c6f73 T8r9s r i t s a m0r14 T b s b r f d a2r o g f p s u t s3a4a T5f6s75 A8n 1 Tc Tsi Ts Ts b n b t s b o h a s s Tm o t c s i a l o f e o tf c r e p rp0a m o t g p M o t c s b1a2s O3s T4e5a V6e7r82 T9b T0f1a2e33 T c s r m s a d a4m5a N6b748e 1]
+[DELETED:  C a b m s s wc b t e i i c o t od Ba s t t a o a b n b O 11p(( Ib 1 Ba s t t a o a b n b O 11r f w m i f t s m o acaa2a0a13 E2a3a Baim a w h s f h i o t sas Bass 1 T d s a a " CA P f t p o i s 1 a12 M( T( T b o b p lp t c 3 w a a w a M h omo A a h d i a e i h f0i 1]
+[DELETED: 1( O2p3M4( F5b6p i a r h o s a a l t o w s b7r8( A9( c m w a a d i s0s1( T2h a s c a a f l3e a h d a w s s a e o4n53 e o t p s b p f p6d m s f t p t t " C7A I8d9s T d o h a s s a td o n r s d a i ae a r a p c ar r a t T d o h a ssaL 9 a o f f l o g p f ta 1]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+HOUSE BILL NO. 2670
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE PETERS.
+6304H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To repeal sections 192.131, 192.665, 192.667, 192.700, 192.703, 192.707, 192.710, 192.712,
+192.714, 192.716, 192.718, 192.723, 192.725, 197.165, 197.293, 197.294, 643.263,
+and 643.265, RSMo, and to enact in lieu thereof nine new sections relating to public
+health.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Sections 192.131, 192.665, 192.667, 192.700, 192.703, 192.707, 192.710,
+2 192.712, 192.714, 192.716, 192.718, 192.723, 192.725, 197.165, 197.293, 197.294, 643.263,
+3 and 643.265, RSMo, are repealed and nine new sections enacted in lieu thereof, to be known
+4 as sections 192.131, 192.665, 192.667, 192.700, 192.703, 192.714, 197.293, 197.294, and
+5 643.263, to read as follows:
+192.131. 1. As used in this section, the following terms shall mean:
+2 (1) ["Advisory panel", the infection control advisory panel created by section
+3 197.165;
+4 (2)] "Antibiogram", a record of the resistance of microbes to various antibiotics;
+5 [(3)] (2) "Antimicrobial", the ability of an agent to destroy or prevent the
+6 development of pathogenic action of a microorganism;
+7 [(4)] (3) "Department", the department of health and senior services.
+8 2. Every laboratory performing culture and sensitivity testing on humans in Missouri
+9 shall submit data on health care associated infections to the department in accordance with
+10 this section. The data to be reported shall be defined by regulation of the department [after
+11 considering the recommendations of the advisory panel]. Such data may include
+12 antibiograms and, not later than July 1, 2005, shall include but not be limited to the
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 2670 2
+13 number of patients or isolates by hospital, ambulatory surgical center, and other facility or
+14 practice setting with methicillin-resistant staphylococcus aureus (MRSA) or vancomycin-
+15 resistant enterococcus (VRE).
+16 3. Information on infections collected pursuant to this section shall be subject to the
+17 confidentiality protections of this chapter but shall be available in provider-specific form to
+18 appropriate facility and professional licensure authorities.
+19 4. The [advisory panel] department shall [develop a recommended plan to] use
+20 laboratory and health care provider data provided pursuant to this chapter to create a system
+21 to:
+22 (1) Enhance the ability of health care providers and the department to track the
+23 incidence and distribution of preventable infections, with emphasis on those infections that
+24 are most susceptible to interventions and that pose the greatest risk of harm to Missouri
+25 residents; and
+26 (2) Monitor trends in the development of antibiotic-resistant microbes, including but
+27 not limited to methicillin-resistant staphylococcus aureus (MRSA) and vancomycin-resistant
+28 enterococcus (VRE) infections.
+29 5. In implementing this section, [the advisory panel and] the department shall
+30 conform to guidelines and standards adopted by the federal Centers for Disease Control and
+31 Prevention. [The advisory panel's plan may provide for demonstration projects to assess the
+32 viability of the recommended initiatives.]
+192.665. As used in this section, section 192.667, and sections 197.150 to [197.165]
+2 197.162, the following terms mean:
+3 (1) "Charge data", information submitted by health care providers on current charges
+4 for leading procedures and diagnoses;
+5 (2) "Charges by payer", information submitted by hospitals on amount billed to
+6 Medicare, Medicaid, other government sources and all nongovernment sources combined as
+7 one data element;
+8 (3) "Department", the department of health and senior services;
+9 (4) "Financial data", information submitted by hospitals drawn from financial
+10 statements which includes the balance sheet, income statement, charity care and bad debt and
+11 charges by payer, prepared in accordance with generally accepted accounting principles;
+12 (5) "Health care provider", hospitals as defined in section 197.020 and ambulatory
+13 surgical centers and abortion facilities as defined in section 197.200;
+14 (6) "Nosocomial infection", as defined by the federal Centers for Disease Control and
+15 Prevention and applied to infections within hospitals, ambulatory surgical centers, abortion
+16 facilities, and other facilities;
+
+HB 2670 3
+17 (7) "Nosocomial infection incidence rate", a risk-adjusted measurement of new cases
+18 of nosocomial infections by procedure or device within a population over a given period of
+19 time, with such measurements defined by rule of the department pursuant to subsection 3 of
+20 section 192.667 for use by all hospitals, ambulatory surgical centers, abortion facilities, and
+21 other facilities in complying with the requirements of the Missouri nosocomial infection
+22 control act of 2004;
+23 (8) "Other facility", a type of facility determined to be a source of infections and
+24 designated by rule of the department pursuant to subsection 11 of section 192.667;
+25 (9) "Patient abstract data", data submitted by hospitals which includes but is not
+26 limited to date of birth, sex, race, zip code, county of residence, admission date, discharge
+27 date, principal and other diagnoses, including external causes, principal and other procedures,
+28 procedure dates, total billed charges, disposition of the patient and expected source of
+29 payment with sources categorized according to Medicare, Medicaid, other government,
+30 workers' compensation, all commercial payors coded with a common code, self-pay, no
+31 charge and other.
+192.667. 1. All health care providers shall at least annually provide to the department
+2 charge data as required by the department. All hospitals shall at least annually provide patient
+3 abstract data and financial data as required by the department. Hospitals as defined in section
+4 197.020 shall report patient abstract data for outpatients and inpatients. Ambulatory surgical
+5 centers and abortion facilities as defined in section 197.200 shall provide patient abstract data
+6 to the department. The department shall specify by rule the types of information which shall
+7 be submitted and the method of submission.
+8 2. The department shall collect data on the incidence of health care-associated
+9 infections from hospitals, ambulatory surgical centers, abortion facilities, and other facilities
+10 as necessary to generate the reports required by this section. Hospitals, ambulatory surgical
+11 centers, abortion facilities, and other facilities shall provide such data in compliance with this
+12 section. In order to streamline government and to eliminate duplicative reporting
+13 requirements, if the Centers for Medicare and Medicaid Services, or its successor entity,
+14 requires hospitals to submit health care-associated infection data, then hospitals and the
+15 department shall not be required to comply with the health care-associated infection data
+16 reporting requirements of subsections 2 to [17] 16 of this section applicable to hospitals,
+17 except that the department shall post a link on its website to publicly reported data by
+18 hospitals on the Centers for Medicare and Medicaid Services' Hospital Compare website, or
+19 its successor.
+20 3. The department shall promulgate rules specifying the standards and procedures for
+21 the collection, analysis, risk adjustment, and reporting of the incidence of health care-
+
+HB 2670 4
+22 associated infections and the types of infections and procedures to be monitored pursuant to
+23 subsection [13] 12 of this section. In promulgating such rules, the department shall[:
+24 (1)] use methodologies and systems for data collection established by the federal
+25 Centers for Disease Control and Prevention's National Healthcare Safety Network, or its
+26 successor[; and
+27 (2) Consider the findings and recommendations of the infection control advisory
+28 panel established pursuant to section 197.165].
+29 4. [By January 1, 2017, the infection control advisory panel created by section
+30 197.165 shall make recommendations to] The department [regarding] will continue to assess
+31 the Centers for Medicare and Medicaid Services' health care-associated infection data
+32 collection, analysis, and public reporting requirements for hospitals, ambulatory surgical
+33 centers, and other facilities in the federal Centers for Disease Control and Prevention's
+34 National Healthcare Safety Network, or its successor, in lieu of all or part of the data
+35 collection, analysis, and public reporting requirements of this section. The [advisory panel
+36 recommendations] department shall address which hospitals shall be required as a condition
+37 of licensure to use the National Healthcare Safety Network for data collection; the use of the
+38 National Healthcare Safety Network for risk adjustment and analysis of hospital submitted
+39 data; and the use of the Centers for Medicare and Medicaid Services' Hospital Compare
+40 website, or its successor, for public reporting of the incidence of health care-associated
+41 infection metrics. [The advisory panel shall consider the following factors in developing its
+42 recommendation:
+43 (1) Whether the public is afforded the same or greater access to facility-specific
+44 infection control indicators and metrics;
+45 (2) Whether the data provided to the public is subject to the same or greater accuracy
+46 of risk adjustment;
+47 (3) Whether the public is provided with the same or greater specificity of reporting of
+48 infections by type of facility infections and procedures;
+49 (4) Whether the data is subject to the same or greater level of confidentiality of the
+50 identity of an individual patient;
+51 (5) Whether the National Healthcare Safety Network, or its successor, has the
+52 capacity to receive, analyze, and report the required data for all facilities;
+53 (6) Whether the cost to implement the National Healthcare Safety Network infection
+54 data collection and reporting system is the same or less.]
+55 5. [After considering the recommendations of the infection control advisory panel,
+56 and provided that the requirements of subsection 13 of this section can be met,] The
+57 department shall implement guidelines from the federal Centers for Disease Control and
+58 Prevention's National Healthcare Safety Network, or its successor. It shall be a condition of
+
+HB 2670 5
+59 licensure for hospitals that meet the minimum public reporting requirements of the National
+60 Healthcare Safety Network and the Centers for Medicare and Medicaid Services to participate
+61 in the National Healthcare Safety Network, or its successor. Such hospitals shall permit the
+62 National Healthcare Safety Network, or its successor, to disclose facility-specific infection
+63 data to the department as required under this section, and as necessary to provide the public
+64 reports required by the department. It shall be a condition of licensure for any ambulatory
+65 surgical center or abortion facility which does not voluntarily participate in the National
+66 Healthcare Safety Network, or its successor, to submit facility-specific data to the department
+67 as required under this section, and as necessary to provide the public reports required by the
+68 department.
+69 6. The department shall not require the resubmission of data which has been
+70 submitted to the department of health and senior services or the department of social services
+71 under any other provision of law. The department of health and senior services shall accept
+72 data submitted by associations or related organizations on behalf of health care providers by
+73 entering into binding agreements negotiated with such associations or related organizations to
+74 obtain data required pursuant to section 192.665 and this section. A health care provider shall
+75 submit the required information to the department of health and senior services:
+76 (1) If the provider does not submit the required data through such associations or
+77 related organizations;
+78 (2) If no binding agreement has been reached within ninety days of August 28, 1992,
+79 between the department of health and senior services and such associations or related
+80 organizations; or
+81 (3) If a binding agreement has expired for more than ninety days.
+82 7. Information obtained by the department under the provisions of section 192.665
+83 and this section shall not be public information. Reports and studies prepared by the
+84 department based upon such information shall be public information and may identify
+85 individual health care providers. The department of health and senior services may authorize
+86 the use of the data by other research organizations pursuant to the provisions of section
+87 192.067. The department shall not use or release any information provided under section
+88 192.665 and this section which would enable any person to determine any health care
+89 provider's negotiated discounts with specific preferred provider organizations or other
+90 managed care organizations. The department shall not release data in a form which could be
+91 used to identify a patient. Any violation of this subsection is a class A misdemeanor.
+92 8. The department shall undertake a reasonable number of studies and publish
+93 information, including at least an annual consumer guide, in collaboration with health care
+94 providers, business coalitions and consumers based upon the information obtained pursuant to
+95 the provisions of section 192.665 and this section. The department shall allow all health care
+
+HB 2670 6
+96 providers and associations and related organizations who have submitted data which will be
+97 used in any publication to review and comment on the publication prior to its publication or
+98 release for general use. The publication shall be made available to the public for a reasonable
+99 charge.
+100 9. Any health care provider which continually and substantially, as these terms are
+101 defined by rule, fails to comply with the provisions of this section shall not be allowed to
+102 participate in any program administered by the state or to receive any moneys from the state.
+103 10. A hospital, as defined in section 197.020, aggrieved by the department's
+104 determination of ineligibility for state moneys pursuant to subsection 9 of this section may
+105 appeal as provided in section 197.071. An ambulatory surgical center or abortion facility as
+106 defined in section 197.200 aggrieved by the department's determination of ineligibility for
+107 state moneys pursuant to subsection 9 of this section may appeal as provided in section
+108 197.221.
+109 11. The department of health may promulgate rules providing for collection of data
+110 and publication of the incidence of health care-associated infections for other types of health
+111 facilities determined to be sources of infections; except that, physicians' offices shall be
+112 exempt from reporting and disclosure of such infections.
+113 12. [By January 1, 2017, the advisory panel shall recommend and] The department
+114 shall adopt in regulation [with an effective date of no later than January 1, 2018,] the
+115 requirements for the reporting of the following types of infections as specified in this
+116 subsection:
+117 (1) Infections associated with a minimum of four surgical procedures for hospitals
+118 and a minimum of two surgical procedures for ambulatory surgical centers that meet the
+119 following criteria:
+120 (a) Are usually associated with an elective surgical procedure. An "elective surgical
+121 procedure" is a planned, nonemergency surgical procedure that may be either medically
+122 required such as a hip replacement or optional such as breast augmentation;
+123 (b) Demonstrate a high priority aspect such as affecting a large number of patients,
+124 having a substantial impact for a smaller population, or being associated with substantial cost,
+125 morbidity, or mortality; or
+126 (c) Are infections for which reports are collected by the National Healthcare Safety
+127 Network or its successor;
+128 (2) Central line-related bloodstream infections;
+129 (3) Health care-associated infections specified for reporting by hospitals, ambulatory
+130 surgical centers, and other health care facilities by the rules of the Centers for Medicare and
+131 Medicaid Services to the federal Centers for Disease Control and Prevention's National
+132 Healthcare Safety Network, or its successor; and
+
+HB 2670 7
+133 (4) Other categories of infections that may be established by rule by the department.
+134
+135 The department[, in consultation with the advisory panel,] shall be authorized to collect and
+136 report data on subsets of each type of infection described in this subsection.
+137 13. [In consultation with the infection control advisory panel established pursuant to
+138 section 197.165,] The department shall develop and disseminate to the public reports based
+139 on data compiled for a period of twelve months. Such reports shall be updated [quarterly] at
+140 least annually and shall show for each hospital, ambulatory surgical center, abortion facility,
+141 and other facility metrics on risk-adjusted health care-associated infections under this section.
+142 14. The types of infections under subsection 12 of this section to be publicly reported
+143 shall be determined by the department by rule and shall be consistent with the infections
+144 tracked by the National Healthcare Safety Network, or its successor.
+145 15. Reports published pursuant to subsection 13 of this section shall be published and
+146 readily accessible on the department's internet website. The reports shall be distributed at
+147 least annually to the governor and members of the general assembly. The department shall
+148 make such reports available to the public for a period of at least two years.
+149 16. [The Hospital Industry Data Institute shall publish a report of Missouri hospitals',
+150 ambulatory surgical centers', and abortion facilities' compliance with standardized quality of
+151 care measures established by the federal Centers for Medicare and Medicaid Services for
+152 prevention of infections related to surgical procedures. If the Hospital Industry Data Institute
+153 fails to do so by July 31, 2008, and annually thereafter, the department shall be authorized to
+154 collect information from the Centers for Medicare and Medicaid Services or from hospitals,
+155 ambulatory surgical centers, and abortion facilities and publish such information in
+156 accordance with this section.
+157 17.] The data collected or published pursuant to this section shall be available to the
+158 department for purposes of licensing hospitals, ambulatory surgical centers, and abortion
+159 facilities pursuant to chapter 197.
+160 [18.] 17. The department shall promulgate rules to implement the provisions of
+161 section 192.131 and sections 197.150 to 197.160. Any rule or portion of a rule, as that term is
+162 defined in section 536.010, that is created under the authority delegated in this section shall
+163 become effective only if it complies with and is subject to all of the provisions of chapter 536
+164 and, if applicable, section 536.028. This section and chapter 536 are nonseverable and if any
+165 of the powers vested with the general assembly pursuant to chapter 536 to review, to delay the
+166 effective date, or to disapprove and annul a rule are subsequently held unconstitutional, then
+167 the grant of rulemaking authority and any rule proposed or adopted after August 28, 2004,
+168 shall be invalid and void.
+
+HB 2670 8
+169 [19. No later than August 28, 2017,] 18. Each hospital, excluding mental health
+170 facilities as defined in section 632.005, and each ambulatory surgical center and abortion
+171 facility as defined in section 197.200, shall in consultation with its medical staff establish an
+172 antimicrobial stewardship program for evaluating the judicious use of antimicrobials,
+173 especially antibiotics that are the last line of defense against resistant infections. The
+174 hospital's stewardship program and the results of the program shall be monitored and
+175 evaluated by hospital quality improvement departments and shall be available upon
+176 inspection to the department. At a minimum, the antimicrobial stewardship program shall be
+177 designed to evaluate that hospitalized patients receive, in accordance with accepted medical
+178 standards of practice, the appropriate antimicrobial, at the appropriate dose, at the appropriate
+179 time, and for the appropriate duration.
+180 [20.] 19. Hospitals described in subsection [19] 18 of this section shall meet the
+181 National Healthcare Safety Network requirements for reporting antimicrobial usage or
+182 resistance by using the Centers for Disease Control and Prevention's Antimicrobial Use and
+183 Resistance (AUR) Module when conditions of participation promulgated by the Centers for
+184 Medicare and Medicaid Services requiring the electronic reporting of antibiotic use or
+185 antibiotic resistance by hospitals become effective. When such antimicrobial usage or
+186 resistance reporting takes effect, hospitals shall authorize the National Healthcare Safety
+187 Network, or its successor, to disclose to the department facility-specific information reported
+188 to the AUR Module. Facility-specific data on antibiotic usage and resistance collected under
+189 this subsection shall not be disclosed to the public, but the department may release case-
+190 specific information to other facilities, physicians, and the public if the department
+191 determines on a case-by-case basis that the release of such information is necessary to protect
+192 persons in a public health emergency. Nothing in this section shall prohibit a hospital from
+193 voluntarily reporting antibiotic use or antibiotic resistance data through the National
+194 Healthcare Safety Network, or its successor, prior to the effective date of the conditions of
+195 participation requiring the reporting.
+196 [21.] 20. The department shall make a report to the general assembly beginning
+197 January 1, 2018, and on every January first thereafter on the incidence, type, and distribution
+198 of antimicrobial-resistant infections identified in the state and within regions of the state.
+192.700. There is hereby established a state arthritis program. [The board and the
+2 committee established by sections 192.700 to 192.727 are to administer state, federal and
+3 private grants and programs dealing with arthritis and related diseases as a part of this arthritis
+4 program.] Regional arthritis [centers] programs established pursuant to sections 192.700 to
+5 192.727 constitute part of the state arthritis program.
+192.703. As used in sections 192.700 to 192.727, the [following terms mean:
+2 (1) "Board", the Missouri arthritis advisory board;
+
+HB 2670 9
+3 (2) "Committee", the arthritis program review committee;
+4 (3)] term "director"[,] means the director of the department of health and senior
+5 services.
+192.714. 1. Beginning October 1, [1984] 2026, there shall be established within this
+2 state, and within the department of health and senior services, [a network of] regional arthritis
+3 [centers] programs, subject to appropriations, designed to [demonstrate and stimulate the
+4 prompt and effective application of available knowledge for the treatment of patients with
+5 arthritis and related musculoskeletal diseases, and to develop new knowledge essential for the
+6 control of these disorders] improve knowledge and access to arthritis management among
+7 adults with arthritis.
+8 2. The arthritis [centers] programs established pursuant to sections 192.700 to
+9 192.727 shall [operate programs in the area of education of] educate patients, their families,
+10 and the public.
+11 [3. At least one regional arthritis center shall be established in each of the following
+12 seven regions, the boundaries of which shall be determined by the board:
+13 (1) Greater St. Louis area;
+14 (2) Southeast;
+15 (3) Northeast;
+16 (4) Central;
+17 (5) Southwest;
+18 (6) Northwest; and
+19 (7) Greater Kansas City area.]
+197.293. 1. In addition to the powers established in sections 197.070 and 197.220,
+2 the department of health and senior services shall use the following standards for enforcing
+3 hospital, ambulatory surgical center, and abortion facility licensure regulations promulgated
+4 to enforce the provisions of sections 197.010 to 197.120, sections 197.150 to [197.165]
+5 197.162, and sections 197.200 to 197.240:
+6 (1) Upon notification of a deficiency in meeting regulatory standards, the hospital,
+7 ambulatory surgical center, or abortion facility shall develop and implement a plan of
+8 correction approved by the department which includes, but is not limited to, the specific type
+9 of corrective action to be taken and an estimated time to complete such action;
+10 (2) If the plan as implemented does not correct the deficiency, the department may
+11 either:
+12 (a) Direct the hospital, ambulatory surgical center, or abortion facility to develop and
+13 implement a plan of correction pursuant to subdivision (1) of this subsection; or
+14 (b) Require the hospital, ambulatory surgical center, or abortion facility to implement
+15 a plan of correction developed by the department;
+
+HB 2670 10
+16 (3) If there is a continuing deficiency after implementation of the plan of correction
+17 pursuant to subdivision (2) of this subsection and the hospital, ambulatory surgical center, or
+18 abortion facility has had an opportunity to correct such deficiency, the department may
+19 restrict new inpatient admissions or outpatient entrants to the service or services affected by
+20 such deficiency;
+21 (4) If there is a continuing deficiency after the department restricts new inpatient
+22 admissions or outpatient entrants to the service or services pursuant to subdivision (3) of this
+23 subsection and the hospital, ambulatory surgical center, or abortion facility has had an
+24 opportunity to correct such deficiency, the department may suspend operations in all or part of
+25 the service or services affected by such deficiency;
+26 (5) If there is a continuing deficiency after suspension of operations pursuant to
+27 subdivision (4) of this subsection, the department may deny, suspend or revoke the hospital's,
+28 ambulatory surgical center's, or abortion facility's license pursuant to section 197.070 or
+29 section 197.220.
+30 2. Notwithstanding the provisions of subsection 1 of this section to the contrary, if a
+31 deficiency in meeting licensure standards presents an immediate and serious threat to the
+32 patients' health and safety, the department may, based on the scope and severity of the
+33 deficiency, restrict access to the service or services affected by the deficiency until the
+34 hospital, ambulatory surgical center, or abortion facility has developed and implemented an
+35 approved plan of correction. Decisions as to whether a deficiency constitutes an immediate
+36 and serious threat to the patients' health and safety shall be made in accordance with
+37 guidelines established pursuant to regulation of the department of health and senior services
+38 and such decisions shall be approved by the bureau of health facility licensing in the
+39 department of health and senior services, or its successor agency, or by a person authorized by
+40 the regulations to approve such decisions in the absence of the director.
+197.294. No information disclosed by the department to the public pursuant to
+2 sections 192.019, 192.020, 192.067, 192.131, 192.138, 192.665, and 192.667, and sections
+3 197.150, 197.152, 197.154, 197.156, 197.158, 197.160, 197.162, [197.165,] and 197.293
+4 shall be used to establish a standard of care in a private civil action.
+643.263. 1. Each public school district and private or parochial school in Missouri
+2 shall [report to the department of health and senior services] maintain any reports relating
+3 to the results of the examination of its structures for friable asbestos as required by the
+4 Environmental Protection Agency under the Toxic Substances Control Act, PL 94-469. [All
+5 such reports shall be filed with the department of health and senior services before March 1,
+6 1987.] Other political subdivisions shall [assess] maintain assessments relating to asbestos
+7 in buildings owned, leased or operated by the political subdivisions and [report] reports
+8 relating to the results of the examination of its structures for friable asbestos [to the
+
+HB 2670 11
+9 department of health and senior services by December 31, 1991]. The results of the
+10 assessment shall be public information and shall be readily available to the public and
+11 employees of each political subdivision and each school district and private and parochial
+12 school.
+13 2. If the assessment indicates the presence of asbestos-containing materials, the report
+14 shall identify the location of all materials containing asbestos, the location and square footage
+15 of friable asbestos, the average number of persons exposed, the percent of asbestos found in
+16 the material, the test used to assess the material and plans for management of any friable
+17 asbestos. The report shall also describe any plans for interim measures, such as treating or
+18 covering friable asbestos, to be taken pending management of the material. Any political
+19 subdivision, any school district and any private or parochial school which adopts interim
+20 measures or which has not completed its management plan shall reevaluate the material
+21 biennially and report its findings to [the department of health and senior services and make its
+22 findings available to] its employees and the public. Any political subdivision, any school
+23 district and any private or parochial school which identifies nonfriable asbestos shall, no less
+24 often than every three years, reevaluate the material and report its findings to [the department
+25 of health and senior services and make its findings available to] its employees and the public.
+26 [The department of health and senior services shall provide technical assistance including
+27 training, consultation and inspection upon request to political subdivisions in identifying
+28 buildings owned, leased or operated by political subdivisions which have asbestos-containing
+29 materials.
+30 3. The department of health and senior services shall annually provide the department
+31 of elementary and secondary education with a list of all public school districts whose
+32 buildings contain friable asbestos.
+33 4. The department of health and senior services shall, in cooperation with the office of
+34 administration, assess asbestos in buildings owned, operated or leased by the state of Missouri
+35 and report its findings to the office of administration.]
+[192.707. 1. The "Missouri Arthritis Advisory Board" is established
+2 within the department of health and senior services, as a continuation of the
+3 arthritis advisory board in existence on August 13, 1984. The board shall
+4 consist of twenty-five members. The members of the board that are serving on
+5 August 13, 1984, shall continue until the expiration of this term. The board
+6 shall submit a list of names to the director as recommendations to fill expired
+7 terms on the board. The director shall fill each expired membership on the
+8 board, each of the appointees to serve for a term of four years and until his
+9 successor is appointed and confirmed. Vacancies on the board arising from
+10 reasons other than expiration of the member's term shall be filled by the
+11 director for the time remaining in the unexpired term.
+
+HB 2670 12
+12 2. The board shall meet semiannually and at other such times as called
+13 by the chairman of the board. The chairman shall be elected from the board
+14 membership at the first board meeting, and shall serve as chairman until a new
+15 chairman is elected, or until his term on the board expires, whichever occurs
+16 first.
+17 3. The board shall serve in an advisory capacity to the committee, and
+18 report annually to the department and to the state board of health and senior
+19 services regarding the implementing of the statewide arthritis plan, making
+20 recommendations for necessary changes in content and direction.
+21 4. The board shall be responsible for development and
+22 recommendations of guidelines for programs supported under the state
+23 arthritis program, and make recommendations on program relevance of grant
+24 applications funded under the state arthritis program. The board will make
+25 final recommendations to the director regarding programs and grants of the
+26 state arthritis program.
+27 5. Any reimbursement of members of the board for their actual and
+28 necessary expenses shall be subject to appropriations.]
+[192.710. 1. The "Arthritis Program Review Committee" is hereby
+2 created within the department of health and senior services. This committee
+3 shall consist of fifteen members, two from each of the seven regions set forth
+4 in section 192.714 and one at-large member. The fourteen regional members
+5 shall be nominated to the committee by the board. The one at-large member
+6 shall be nominated by the state board of health and senior services. The
+7 members of the committee shall include at least one from each of the
+8 following categories: rheumatology educators, practicing rheumatologists,
+9 primary care practitioners, nurses, allied health professionals, arthritis patients,
+10 and members of the general public. Members of the committee shall be
+11 appointed by the director in consultation with the board of health and senior
+12 services. Of the fifteen initial members, five shall have a two-year term, five
+13 shall have a three-year term, and five shall have a four-year term. Thereafter,
+14 each member shall serve a four-year term and until his successor is appointed
+15 and confirmed. Vacancies on the committee arising from reasons other than
+16 expiration of the member's term shall be filled by the director for the time
+17 remaining in the unexpired term.
+18 2. The committee shall meet annually and at other such times as called
+19 by the chairman of the committee. The chairman shall be elected annually
+20 from the committee membership at the first committee meeting and shall serve
+21 as chairman until a new chairman is elected, or until his term on the committee
+22 expires, whichever occurs first.
+23 3. The committee shall review, make site visits and determine and
+24 make recommendations to the board on the merit of regional arthritis center
+25 applications. No program or other activity will be recommended for funding
+26 by the board without the favorable review of the committee.
+27 4. The arthritis program coordinator shall serve the committee as its
+28 executive administrator.]
+
+HB 2670 13
+[192.712. Committee and board members shall serve without
+2 compensation, but their expenses incurred in carrying out their official
+3 duties shall, subject to appropriations, be reimbursed by the state.]
+[192.716. Beginning upon receipt of appropriations for that purpose
+2 and subject to the availability of appropriations, but not before October 1,
+3 1984, the arthritis centers established pursuant to section 192.714 shall operate
+4 programs in the following areas:
+5 (1) Education at all levels for various health professionals; and
+6 (2) Improved patient care and other arthritis control activities aimed at
+7 benefitting communities served by the center.]
+[192.718. 1. Beginning upon receipt of appropriations for that purpose
+2 and subject to the availability of appropriations, but not before October 1,
+3 1984, each year the board may grant three one-year, state-supported clinical
+4 rheumatology fellowships which might include four to six months of a
+5 community-based experience in one or more of the regional arthritis centers
+6 and six to eight months at an academic institution in this state which is willing
+7 and qualified to train rheumatology fellows.
+8 2. A candidate for a fellowship granted pursuant to this section shall be
+9 approved by the director, the board, the academic institution, and the regional
+10 arthritis center director.
+11 3. Each fellowship granted pursuant to this section shall consist of an
+12 appropriate stipend and either adequate housing or a housing allowance in an
+13 amount to be determined by the board.]
+[192.723. Beginning upon receipt of appropriations for that purpose
+2 and subject to the availability of appropriations, but not before July 1, 1985,
+3 innovative research feasibility studies which cannot be funded by traditional
+4 mechanisms and which have significance for having impact on the state
+5 arthritis problem may be carried out by arthritis centers established pursuant to
+6 section 192.714.]
+[192.725. Beginning upon receipt of appropriations for that purpose
+2 and subject to the availability of appropriations, but not before July 1, 1985, a
+3 statewide "Arthritis Information Network" shall be established, consisting of a
+4 statewide WATS telephone system, staffed by volunteers insofar as possible.]
+[197.165. 1. The department shall appoint an "Infection Control
+2 Advisory Panel" for the purposes of implementing sections 192.131 and
+3 192.667.
+4 2. Members of the infection control advisory panel shall include:
+5 (1) Two public members;
+6 (2) Three board-certified or board-eligible physicians licensed
+7 pursuant to chapter 334 who are affiliated with a Missouri hospital or
+8 medical school, active members of the Society for Health Care Epidemiology
+9 of America, and have demonstrated interest and expertise in health facility
+10 infection control;
+
+HB 2670 14
+11 (3) One physician licensed pursuant to chapter 334 who is active in the
+12 practice of medicine in Missouri and who holds medical staff privileges at a
+13 Missouri hospital;
+14 (4) Four infection control practitioners certified by the certification
+15 board of infection control and epidemiology, at least two of whom shall be
+16 practicing in a rural hospital or setting and at least two of whom shall be
+17 registered professional nurses licensed under chapter 335;
+18 (5) A medical statistician with an advanced degree in such specialty;
+19 (6) A clinical microbiologist with an advanced degree in such
+20 specialty;
+21 (7) Three employees of the department, representing the functions of
+22 hospital, ambulatory surgical center, and abortion facility licensure,
+23 epidemiology and health data analysis, who shall serve as ex officio
+24 nonvoting members of the panel.
+25 3. Reasonable expenses of the panel shall be paid from private
+26 donations made specifically for that purpose to the "Infection Control
+27 Advisory Panel Fund", which is hereby created in the state treasury. If such
+28 donations are not received from private sources, then the provisions of this act
+29 shall be implemented without the advisory panel.]
+[643.265. The department of health and senior services and the
+2 department of natural resources shall develop an interagency agreement
+3 establishing agency responsibilities and procedures concerning asbestos
+4 reporting, removal and treatment. The department of health and senior
+5 services is hereby designated the state agency for the administration of loans
+6 and grants under the Asbestos School Hazard Abatement Act of 1984, Public
+7 Law 98-377, and other federally funded loan or grant programs for the
+8 abatement of asbestos.]
+✔
+
+[DELETED:  B N 2IJ S1aa6 1 A( [ p t i c a p c b s1( "[ ()" t a o a a t d o p td[)"2 Es0t T1c t r o t a p S d m i2a a n l t J 1 2 s i b n b l t t—M i e]
+[DELETED: 3n4p s w m s a ( o v5r63 I7c8a94 T [ p dts [ a r p t u0l1t2( E t a o h c p a t d t t t3i4a m s t i a t p t g r o h t M5r6( M7n8e95 I i t s [ a p a t d s0clC1P [2v A1( "f( " b p i s b h o a b tMo( "( " d i s b h d f f0s1c2( "3s4( "5P6f ]
+[DELETED: 7( "8o9t0s1o f i c w t r o t M n i2c3( "4d5( " a d d s b h w i b i n6l7d8p d t b c d o t p a e s o9p w s c a t M M o g0w c a c p c w a c c s n1c Ac Aa H1 Act Tb2 T d s c d o t i o h ci0a H1c2s I o t s g a t e d r3r i t C f M a M S o i s e4r h t s h c i d t h a t5d b t c t h c6r s [ 16o t t7e t t d s p a l o i w t p r d b8h9i031t c a r a a r o t i o h c ]
+[DELETED: 2a3s2o I4( u5C f D C a P N H S N o i6s7( C t f a r o t i c a8p94 [ J 1 2 t i c a p c b s015s1t C f M a M S h c i d2c a a p r r f h a s3c a o f i t f C f D C a P4N H S N o i s i l o a o p o t d5c T6rts7o8N9d a t u o t C f M a M S H C0w o i s f p r o t i o h c1i [2r3( W t p i a t s o g a t f4i5( W6o7( W8i9( W0i1( W t N H S N o i s h t2c3( W4d55 [6a p t t r o s 1 o t s c b m T7d s i g f t f C f D C a8P I ]
+[DELETED: 9l0H1i S2N3d4r I5s c o a f w d n v p i t N6H7a8d96 T d s n r t r o d w h b0s1u T2d3e4o A5s6( I7r8( I9b t d o h a s s a s a o r0o1( I27 I3a t s s n b p i R a s p b t4d b u s i s b p i a m i5i T6t u o t d b o r o p t t p o s71 T81 a t s w w e a p t d a h c9p n d w s p p o o o0m T1u A28 T d s u a r n o s a p3i4p5t T ]
+[DELETED: 6p7u8r T9c09 A1d2p31 A h a d i s 1 a b t d4d5a A6d7s m p t s 9 o t s m a a p i s8191 T0a1f d t b s o i e t p o s b2e31 [4s a i r [ a e d o n l t J 1 2 t5r f t r o t f t o i a s i t6s7( I8a a m o t s p f a s c t m t9f0( A A1p i a p n s p t m b e m2r3( D4h5m6( A7N8( C9( H0s1M S t t f C f D C a P N2H ]
+[DELETED: 3( O5T6r71 [8s9o S0lya1a21 T3s4t51 R6r T7l T8m91 [0a1c2p I3f4c5a s c a a f a p s i i6a71 T8d f p o l h a s c a a9f0[ 1.T d s p r t i t p o1s A2d3b4a T5o6e7t8s ]
+[DELETED: 9[ N E0f1f2a s p f e t j u o a3e a t a t l l o d a r i T4h s p a t r o t p s b m a5e b h q i d a s b a u6i A7d8s9t0[ 1.H d i s [ 18o t s s m t1N H S N r f r a u o2r3R4M a M S r t e r o a u o5a r b h b e W s a u o6r r t e h s a t N H S7N8t F9t0s i t o f p a t p i t d1d2p N3v r a u o a r d t t N4H5p6[ 2.T d s m a r t t g a b7J8o T [c7app Rse1 A( " ]
+[DELETED: ( "( tm"eds 1 Bs[,dpaca2 T a [ pse p t s 1 t1ep0a1[ A2s3(4( S5( N6( C7( S8( N9( G 1 Itht e t p o s 1 t 1 s 1 t [1( Ua s c o a f s d a i a p oco0( I1e2( D3i4( R5a ]
+[DELETED: 6( I7p8a f h h a o t c s d t d m9r0s1( I2a3s a t h a s c o a f h h a4o5t6( I t i a c d a s o o p t7s8a s c o a f l p t s 1 o9s02 N1d2p h a s t d m b o t s a s o t3d r a t t s o s a b t d u t4h5a D6a s t t t p h a s s b m i a w7g8a s d s b a b t b o h f l i t9d0t N i d b t d t t p p ts1 1 1 1 1 1 1 [ a 1s 1 Estot r o t e o i s f f a a r b tE [s1 Ooai b o l o o b t p s a [ rr tot r o t e o i s f f a [ t 1]
+[DELETED: d o h a s s b D 3 1 T r o t0a s b p i a s b r a t t p a1e2s32 I4s5o6t7a T8c A9s s d a a p o p s w a i0m o w h n c i m p s r t m1b2f A3d4o5o6[7t c a i u r t p s i i8b9m03 T1o e a s e w a l o a p s d w2b34 T4a5a 1 Twa a b i e o A 1 1 T b sc TA Tst Tbs V0r o t e o t m t s b f b t1d 1]
+[DELETED: 22 T3b T4m5c6f73 T8r9s r i t s a m0r14 T b s b r f d a2r o g f p s u t s3a4a T5f6s75 A8n 1 Tc Tsi Ts Ts b n b t s b o h a s s Tm o t c s i a l o f e o tf c r e p rp0a m o t g p M o t c s b1a2s O3s T4e5a V6e7r82 T9b T0f1a2e33 T c s r m s a d a4m5a N6b748e 1]
+[DELETED:  C a b m s s wc b t e i i c o t od Ba s t t a o a b n b O 11p(( Ib 1 Ba s t t a o a b n b O 11r f w m i f t s m o acaa2a0a13 E2a3a Baim a w h s f h i o t sas Bass 1 T d s a a " CA P f t p o i s 1 a12 M( T( T b o b p lp t c 3 w a a w a M h omo A a h d i a e i h f0i 1]
+[DELETED: 1( O2p3M4( F5b6p i a r h o s a a l t o w s b7r8( A9( c m w a a d i s0s1( T2h a s c a a f l3e a h d a w s s a e o4n53 e o t p s b p f p6d m s f t p t t " C7A I8d9s T d o h a s s a td o n r s d a i ae a r a p c ar r a t T d o h a ssaL 9 a o f f l o g p f ta 1]

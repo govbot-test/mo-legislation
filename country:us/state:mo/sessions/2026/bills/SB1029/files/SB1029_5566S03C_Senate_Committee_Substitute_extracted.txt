@@ -1,0 +1,382 @@
+Title: SENATE BILL NO. 1029
+Official Title: SENATE BILL NO. 1029
+Number of Sections: 1
+Source: versions - 5566S.03C - Senate Committee Substitute
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+SENATE COMMITTEE SUBSTITUTE FOR
+103RD GENERA L ASSEMBLY
+5566S.03C KRISTINA MARTIN, Secretary
+AN ACT
+To repeal section 162.821, RSMo, and to enact in lieu thereof two new sections relating to
+education.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Section 162.821, RSMo, is repealed and two new
+2 sections enacted in lieu thereof, to be known as sections
+3 162.192 and 162.821, to read as follows:
+1 162.192. 1. For purposes of this section, "financial
+2 ledger" means a searchable, machine-readable, publicly
+3 accessible database maintained by a school district that:
+4 (1) Sets forth all financial transactions conducted
+5 with school district funds, including, but not limited to,
+6 the school funds established pursuant to section 165.011;
+7 (2) Is available without login credentials,
+8 registration, or fees;
+9 (3) Is downloadable and exportable in formats
+10 including, but not limited to, comma-separated values (CSV)
+11 format and Microsoft Excel format;
+12 (4) Records all transactions using Missouri financial
+13 accounting manual classification categories, as applicable;
+14 and
+15 (5) Includes the following minimum required data
+16 fields for each financial transaction, and is searchable and
+17 filterable by such fields, at minimum:
+EXPLANATION-Matter enclosed in bold-faced brackets [thus] in this bill is not enacted
+and is intended to be omitted in the law.
+SCS SB 1029 2
+18 (a) Transaction date;
+19 (b) Transaction amount;
+20 (c) Revenue or expenditure designation;
+21 (d) Fund code;
+22 (e) Function code;
+23 (f) Object code;
+24 (g) Vendor or payee name; and
+25 (h) Description or memo field.
+26 2. Notwithstanding any provision of law to the
+27 contrary, each school district shall maintain a financial
+28 ledger on its publicly accessible website. The homepage of
+29 each public school's website shall include a direct link to
+30 the financial ledger of the school district that has
+31 oversight responsibility for that public school. The link
+32 shall make the financial ledger accessible within one click,
+33 shall be clearly labeled as a link to the school district's
+34 financial ledger, and shall be functional and mobile-
+35 responsive. The department may provide standardized
+36 language or icons that public schools may use for the
+37 purpose of ensuring compliance with this subsection.
+38 3. A school district's financial ledger shall be
+39 updated at least monthly. Details of each calendar month's
+40 financial transactions shall be posted no later than forty-
+41 five days after the close of that calendar month.
+42 4. For historical record keeping purposes, a school
+43 district shall maintain complete financial ledger data on
+44 its publicly accessible website for no fewer than five prior
+45 fiscal years.
+46 5. A school district may redact protected personal
+47 information on the financial ledger only to the extent
+48 required by applicable law. Vendor names, amounts, and
+49 accounting codes shall not be redacted. Payroll data may be
+SCS SB 1029 3
+50 presented in aggregated form where disclosure of individual
+51 information is restricted.
+52 6. Debt obligations shall be posted in a separate
+53 section of the financial ledger, with disclosure of the
+54 following information:
+55 (1) Outstanding debt balances;
+56 (2) Issuance dates;
+57 (3) Repayment schedules;
+58 (4) Annual debt service amounts; and
+59 (5) Debt service as a percentage of total expenditures.
+60 7. The department may provide or approve standardized
+61 templates or platforms a school district may use to comply
+62 with the provisions of this section. A school district may
+63 use a third-party template or platform that is approved by
+64 the department.
+65 8. The department may provide guidance to assist
+66 school districts in complying with the provisions of this
+67 section. Such guidance may include:
+68 (1) High-level expenditure summaries by classification
+69 category under the Missouri financial accounting manual;
+70 (2) Standardized definitions of terms to be used in
+71 the financial ledger; and
+72 (3) Clear explanations of methodology and limitations
+73 applicable to the compilation and presentation of financial
+74 ledger data.
+75 9. School districts shall annually certify compliance
+76 with this section to the department. The department shall
+77 promulgate rules establishing procedures and timelines for
+78 school districts to certify compliance.
+79 10. If the department finds that any school district
+80 has violated a provision of this section, the department may
+81 withhold state aid to which the school district is entitled
+SCS SB 1029 4
+82 under chapter 163 until the school district proves to the
+83 satisfaction of the department that the school district is
+84 no longer in violation of this section.
+85 11. The department shall establish a process for
+86 members of the public to file complaints with the department
+87 if they believe a school district has violated any provision
+88 of this section. The department may establish a public
+89 compliance dashboard on the department's website to enable
+90 members of the public to check whether a particular school
+91 district is certified as in compliance with the provisions
+92 of this section.
+93 12. The department shall promulgate rules to implement
+94 the provisions of this section. Any rule or portion of a
+95 rule, as that term is defined in section 536.010, that is
+96 created under the authority delegated in this section shall
+97 become effective only if it complies with and is subject to
+98 all of the provisions of chapter 536 and, if applicable,
+99 section 536.028. This section and chapter 536 are
+100 nonseverable and if any of the powers vested with the
+101 general assembly pursuant to chapter 536 to review, to delay
+102 the effective date, or to disapprove and annul a rule are
+103 subsequently held unconstitutional, then the grant of
+104 rulemaking authority and any rule proposed or adopted after
+105 August 28, 2026, shall be invalid and void.
+1 162.821. The district secretary shall keep a record of
+2 the proceedings of all annual and special elections of the
+3 voters of the district and of the proceedings of the board
+4 of education. He shall make copies of the election notices,
+5 contracts with teachers, certificates and all other papers
+6 relating to the business of the district, and securely keep
+7 the same. He shall maintain a correct plat of the district
+8 and shall promptly notify the department of elementary and
+SCS SB 1029 5
+9 secondary education and the county clerk of each county
+10 affected of all changes in the boundaries of the district.
+11 He shall transmit to the county commission and to the state
+12 department of elementary and secondary education, on or
+13 before the fifteenth day of August in each year, a report
+14 embracing the following items:
+15 (1) The number of children, male and female, attending
+16 the public schools during the year;
+17 (2) Total number of days' attendance by all such
+18 children;
+19 (3) The number of days the public schools of the
+20 district have been maintained during the school year;
+21 (4) The number of teachers employed, male and female,
+22 and the wages per month of each;
+23 (5) Estimated value of school property owned and
+24 managed by the district;
+25 (6) Assessed valuation of the district;
+26 (7) Rate of school tax on the assessed valuation of
+27 the district;
+28 (8) Cash on hand at the beginning of the year;
+29 (9) Tuition fees received and credited to the
+30 teachers' fund of the district;
+31 (10) Public funds received by county treasurer;
+32 (11) District tax received by county (or township)
+33 treasurer;
+34 (12) Amount paid on teachers' wages;
+35 (13) Amount paid for incidental expenses;
+36 (14) Amount expended for purchasing site, erecting
+37 schoolhouses, rent and repairs;
+38 (15) Amount expended in cancelling bonded indebtedness
+39 and paying interest on same;
+40 (16) Amount expended for library;
+SCS SB 1029 6
+41 (17) Amount expended for legal services. If the
+42 report does not include the amount expended for legal
+43 services, then the attorney general may investigate the
+44 violation of this subdivision and may bring a civil action,
+45 including an action for injunctive relief, against the
+46 school district. Such action shall be brought in the county
+47 where the school district is located;
+48 (18) Cash on hand at the end of the year;
+49 [(18)] (19) Such other information as may be required
+50 by the state board of education.
+✓
+[DELETED:  K r s 1 R a t e i l t t n s r t e i l t t b k a s.1.F    )S  )I )I  )R  )I  ]
+[DELETED: S )T )T )R )F )F )O )V )D.N  .T   .T    .T  .A .D  .F   .A  .V .P ]
+[DELETED: S .D   )O )I )R )A )D.T  .A  .T  .S)H )S )C  .S .T  .I   ]
+[DELETED: S  .T   .T    .T .A     .T      .T   .H   .H  ]
+[DELETED: S     )T )T )T )T )E )A)R )C)T )P)D )A)A)A )A )A]
+[DELETED: S  .I     .S  C ()Shorinasmyber](         ytesebdofe   ]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+SENATE COMMITTEE SUBSTITUTE FOR
+SENATE BILL NO. 1029
+103RD GENERA L ASSEMBLY
+5566S.03C KRISTINA MARTIN, Secretary
+AN ACT
+To repeal section 162.821, RSMo, and to enact in lieu thereof two new sections relating to
+education.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Section 162.821, RSMo, is repealed and two new
+2 sections enacted in lieu thereof, to be known as sections
+3 162.192 and 162.821, to read as follows:
+1 162.192. 1. For purposes of this section, "financial
+2 ledger" means a searchable, machine-readable, publicly
+3 accessible database maintained by a school district that:
+4 (1) Sets forth all financial transactions conducted
+5 with school district funds, including, but not limited to,
+6 the school funds established pursuant to section 165.011;
+7 (2) Is available without login credentials,
+8 registration, or fees;
+9 (3) Is downloadable and exportable in formats
+10 including, but not limited to, comma-separated values (CSV)
+11 format and Microsoft Excel format;
+12 (4) Records all transactions using Missouri financial
+13 accounting manual classification categories, as applicable;
+14 and
+15 (5) Includes the following minimum required data
+16 fields for each financial transaction, and is searchable and
+17 filterable by such fields, at minimum:
+EXPLANATION-Matter enclosed in bold-faced brackets [thus] in this bill is not enacted
+and is intended to be omitted in the law.
+
+SCS SB 1029 2
+18 (a) Transaction date;
+19 (b) Transaction amount;
+20 (c) Revenue or expenditure designation;
+21 (d) Fund code;
+22 (e) Function code;
+23 (f) Object code;
+24 (g) Vendor or payee name; and
+25 (h) Description or memo field.
+26 2. Notwithstanding any provision of law to the
+27 contrary, each school district shall maintain a financial
+28 ledger on its publicly accessible website. The homepage of
+29 each public school's website shall include a direct link to
+30 the financial ledger of the school district that has
+31 oversight responsibility for that public school. The link
+32 shall make the financial ledger accessible within one click,
+33 shall be clearly labeled as a link to the school district's
+34 financial ledger, and shall be functional and mobile-
+35 responsive. The department may provide standardized
+36 language or icons that public schools may use for the
+37 purpose of ensuring compliance with this subsection.
+38 3. A school district's financial ledger shall be
+39 updated at least monthly. Details of each calendar month's
+40 financial transactions shall be posted no later than forty-
+41 five days after the close of that calendar month.
+42 4. For historical record keeping purposes, a school
+43 district shall maintain complete financial ledger data on
+44 its publicly accessible website for no fewer than five prior
+45 fiscal years.
+46 5. A school district may redact protected personal
+47 information on the financial ledger only to the extent
+48 required by applicable law. Vendor names, amounts, and
+49 accounting codes shall not be redacted. Payroll data may be
+
+SCS SB 1029 3
+50 presented in aggregated form where disclosure of individual
+51 information is restricted.
+52 6. Debt obligations shall be posted in a separate
+53 section of the financial ledger, with disclosure of the
+54 following information:
+55 (1) Outstanding debt balances;
+56 (2) Issuance dates;
+57 (3) Repayment schedules;
+58 (4) Annual debt service amounts; and
+59 (5) Debt service as a percentage of total expenditures.
+60 7. The department may provide or approve standardized
+61 templates or platforms a school district may use to comply
+62 with the provisions of this section. A school district may
+63 use a third-party template or platform that is approved by
+64 the department.
+65 8. The department may provide guidance to assist
+66 school districts in complying with the provisions of this
+67 section. Such guidance may include:
+68 (1) High-level expenditure summaries by classification
+69 category under the Missouri financial accounting manual;
+70 (2) Standardized definitions of terms to be used in
+71 the financial ledger; and
+72 (3) Clear explanations of methodology and limitations
+73 applicable to the compilation and presentation of financial
+74 ledger data.
+75 9. School districts shall annually certify compliance
+76 with this section to the department. The department shall
+77 promulgate rules establishing procedures and timelines for
+78 school districts to certify compliance.
+79 10. If the department finds that any school district
+80 has violated a provision of this section, the department may
+81 withhold state aid to which the school district is entitled
+
+SCS SB 1029 4
+82 under chapter 163 until the school district proves to the
+83 satisfaction of the department that the school district is
+84 no longer in violation of this section.
+85 11. The department shall establish a process for
+86 members of the public to file complaints with the department
+87 if they believe a school district has violated any provision
+88 of this section. The department may establish a public
+89 compliance dashboard on the department's website to enable
+90 members of the public to check whether a particular school
+91 district is certified as in compliance with the provisions
+92 of this section.
+93 12. The department shall promulgate rules to implement
+94 the provisions of this section. Any rule or portion of a
+95 rule, as that term is defined in section 536.010, that is
+96 created under the authority delegated in this section shall
+97 become effective only if it complies with and is subject to
+98 all of the provisions of chapter 536 and, if applicable,
+99 section 536.028. This section and chapter 536 are
+100 nonseverable and if any of the powers vested with the
+101 general assembly pursuant to chapter 536 to review, to delay
+102 the effective date, or to disapprove and annul a rule are
+103 subsequently held unconstitutional, then the grant of
+104 rulemaking authority and any rule proposed or adopted after
+105 August 28, 2026, shall be invalid and void.
+1 162.821. The district secretary shall keep a record of
+2 the proceedings of all annual and special elections of the
+3 voters of the district and of the proceedings of the board
+4 of education. He shall make copies of the election notices,
+5 contracts with teachers, certificates and all other papers
+6 relating to the business of the district, and securely keep
+7 the same. He shall maintain a correct plat of the district
+8 and shall promptly notify the department of elementary and
+
+SCS SB 1029 5
+9 secondary education and the county clerk of each county
+10 affected of all changes in the boundaries of the district.
+11 He shall transmit to the county commission and to the state
+12 department of elementary and secondary education, on or
+13 before the fifteenth day of August in each year, a report
+14 embracing the following items:
+15 (1) The number of children, male and female, attending
+16 the public schools during the year;
+17 (2) Total number of days' attendance by all such
+18 children;
+19 (3) The number of days the public schools of the
+20 district have been maintained during the school year;
+21 (4) The number of teachers employed, male and female,
+22 and the wages per month of each;
+23 (5) Estimated value of school property owned and
+24 managed by the district;
+25 (6) Assessed valuation of the district;
+26 (7) Rate of school tax on the assessed valuation of
+27 the district;
+28 (8) Cash on hand at the beginning of the year;
+29 (9) Tuition fees received and credited to the
+30 teachers' fund of the district;
+31 (10) Public funds received by county treasurer;
+32 (11) District tax received by county (or township)
+33 treasurer;
+34 (12) Amount paid on teachers' wages;
+35 (13) Amount paid for incidental expenses;
+36 (14) Amount expended for purchasing site, erecting
+37 schoolhouses, rent and repairs;
+38 (15) Amount expended in cancelling bonded indebtedness
+39 and paying interest on same;
+40 (16) Amount expended for library;
+
+SCS SB 1029 6
+41 (17) Amount expended for legal services. If the
+42 report does not include the amount expended for legal
+43 services, then the attorney general may investigate the
+44 violation of this subdivision and may bring a civil action,
+45 including an action for injunctive relief, against the
+46 school district. Such action shall be brought in the county
+47 where the school district is located;
+48 (18) Cash on hand at the end of the year;
+49 [(18)] (19) Such other information as may be required
+50 by the state board of education.
+✓
+
+[DELETED:  K r s 1 R a t e i l t t n s r t e i l t t b k a s.1.F    )S  )I )I  )R  )I  ]
+[DELETED: S )T )T )R )F )F )O )V )D.N  .T   .T    .T  .A .D  .F   .A  .V .P ]
+[DELETED: S .D   )O )I )R )A )D.T  .A  .T  .S)H )S )C  .S .T  .I   ]
+[DELETED: S  .T   .T    .T .A     .T      .T   .H   .H  ]
+[DELETED: S     )T )T )T )T )E )A)R )C)T )P)D )A)A)A )A )A]
+[DELETED: S  .I     .S  C ()Shorinasmyber](         ytesebdofe   ]

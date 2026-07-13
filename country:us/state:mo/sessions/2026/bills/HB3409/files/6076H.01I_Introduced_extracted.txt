@@ -1,0 +1,677 @@
+Title: HOUSE BILL NO. 3409
+Official Title: HOUSE BILL NO. 3409
+Number of Sections: 13
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE HOVIS.
+6076H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapter 261, RSMo, by adding thereto eleven new sections relating to agricultural
+data ownership and market competition, with penalty provisions.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+
+Section 2:
+Section A. Chapter 261, RSMo, is amended by adding thereto eleven new sections, to
+2 be known as sections 261.150, 261.152, 261.154, 261.156, 261.158, 261.160, 261.162,
+3 261.164, 261.166, 261.168, and 261.170, to read as follows:
+
+Section 3:
+261.150. Sections 261.150 to 261.170 shall be known and may be cited as the
+2 "Missouri Agricultural Data Ownership and Market Competition Act".
+
+Section 4:
+261.152. As used in sections 261.150 to 261.170, the following terms mean:
+2 (1) "Agricultural data", any information in any format that is generated from,
+3 derived from, or relates to agricultural production operations, agricultural equipment
+4 operations, or agricultural land including, but not limited to:
+5 (a) Yield data, soil data, crop data, and field data;
+6 (b) Precision agriculture data including GPS coordinates, application rates, and
+7 prescription maps;
+8 (c) Equipment operational data, diagnostic data, telematics data, and machine
+9 performance data;
+10 (d) Livestock data including health records, production metrics, breeding data,
+11 and performance analytics;
+12 (e) Weather data, environmental data, and climate data specific to agricultural
+13 operations not otherwise publicly available;
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+HB 3409 2
+14 (f) Input data including seed, fertilizer, pesticide, herbicide, Diesel Emission
+15 Fluid (DEF), and fuel usage data;
+16 (g) Financial data specific to agricultural production operations; and
+17 (h) Agronomic analyses, predictive models, and benchmarking reports derived
+18 from the foregoing data;
+19 (2) "Agricultural equipment", any equipment used in agricultural production
+20 operations that generates, collects, transmits, stores, or processes agricultural data;
+21 (3) "Agricultural producer", a person or entity engaged in agricultural
+22 production operations as a landowner, tenant farmer, contract grower, livestock owner,
+23 or other agricultural operator;
+24 (4) "Agricultural production operations", any activity conducted for the
+25 purpose of producing agricultural commodities including crop production, livestock
+26 production, aquaculture, horticulture, viticulture, and similar activities;
+27 (5) "County data market share", the percentage of total agricultural data
+28 collected from agricultural producers within a single county of Missouri by a data
+29 collector or its affiliates;
+30 (6) "Data aggregator", a person or entity that collects, compiles, or processes
+31 agricultural data from multiple agricultural producers for the purpose of analysis, sale,
+32 licensing, or other commercial use;
+33 (7) "Data collector", a person or entity that collects, receives, accesses,
+34 transmits, stores, or processes agricultural data, including original equipment
+35 manufacturers, platform providers, service providers, and data aggregators;
+36 (8) "Data owner", a person or entity who holds ownership rights in agricultural
+37 data as determined under section 261.154;
+38 (9) "Data transaction", any sale, license, transfer, or other commercial exchange
+39 of agricultural data or rights therein;
+40 (10) "Department", the department of agriculture;
+41 (11) "Fair and reasonable terms", terms and conditions for data transactions
+42 that:
+43 (a) Are transparent and clearly disclosed;
+44 (b) Do not impose costs that unreasonably exceed the actual costs of providing
+45 the data or services;
+46 (c) Do not include terms that are discriminatory, predatory, or that
+47 unreasonably restrict the data owner's rights; and
+48 (d) Provide the data owner with adequate compensation reflecting the value of
+49 the data;
+HB 3409 3
+50 (12) "Independent data service provider", a person or entity that provides
+51 agricultural data services including data analysis, storage, management, or
+52 monetization services that are not provided by an original equipment manufacturer
+53 or an affiliate of an original equipment manufacturer;
+54 (13) "Landowner", a person or entity that holds a fee simple, life estate, or other
+55 possessory interest in agricultural land;
+56 (14) "Livestock owner", a person or entity that holds ownership rights in
+57 livestock;
+58 (15) "Original equipment manufacturer", a person or entity that manufactures
+59 agricultural equipment or licenses for the use of its brand name for agricultural
+60 equipment manufactured by others;
+61 (16) "Platform provider", a person or entity that operates a digital platform,
+62 application, or service through which agricultural data is collected, stored, transmitted,
+63 processed, or made available;
+64 (17) "Transformed data", agricultural data that has been processed, analyzed,
+65 aggregated, or otherwise transformed through the application of proprietary
+66 algorithms, analytical methods, or creative processes to produce copyrightable works
+67 including agronomic analyses, predictive models, field prescriptions, comparative
+68 benchmarking reports, or validated farming practices.
+
+Section 5:
+261.154. 1. Unless otherwise provided by written agreement between the
+2 parties:
+3 (1) Agricultural data generated from crop production operations belongs to the
+4 landowner of the agricultural land on which the data was generated, whether the
+5 landowner farms the land directly or leases it to tenant farmers;
+6 (2) Agricultural data generated from livestock operations belongs to the
+7 livestock owner, regardless of where the livestock is housed or who manages the
+8 livestock;
+9 (3) Data generated by agricultural equipment during agricultural production
+10 operations belongs to the owner or lessee of the equipment at the time the data was
+11 generated; and
+12 (4) When agricultural data is transformed into copyrightable works through the
+13 application of proprietary algorithms, analytical methods, or creative processes, the
+14 data owner who provided the underlying raw data retains an ownership interest in the
+15 transformed data proportional to the contribution of their raw data to the
+16 transformation.
+17 2. No browsewrap agreement, clickwrap agreement, terms of service, end-user
+18 license agreement, or similar instrument shall be effective to transfer or waive a data
+HB 3409 4
+19 owner's rights under sections 261.150 to 261.170 unless the data owner has provided
+20 express, informed, written consent specifically acknowledging the transfer or waiver of
+21 such rights.
+22 3. Nothing in this section shall prevent parties from negotiating alternative data
+23 ownership arrangements through written contract. Agricultural producers may
+24 negotiate data ownership and revenue-sharing arrangements based on their specific
+25 circumstances including, but not limited to, tenant farming arrangements,
+26 sharecropping arrangements, contract growing operations, custom farming
+27 operations, and equipment leasing arrangements.
+
+Section 6:
+261.156. 1. A data collector that collects, receives, or accesses agricultural data
+2 from an agricultural producer shall:
+3 (1) Provide clear, conspicuous, and complete disclosure of:
+4 (a) The types of agricultural data being collected;
+5 (b) The purposes for which the data will be used;
+6 (c) The third parties with whom the data has been or may be shared, sold, or
+7 licensed;
+8 (d) The data owner's rights under sections 261.150 to 261.170; and
+9 (e) The estimated commercial value of the data being collected, if known or
+10 reasonably ascertainable;
+11 (2) Obtain express, informed consent from the data owner prior to collecting,
+12 using, or sharing the data including, but not limited to, data collected for the past five
+13 years;
+14 (3) Provide the data owner with a copy of all data collected in a standardized,
+15 portable, machine-readable format upon request for the past five years from the date
+16 requested;
+17 (4) Fully delete the data owner's data upon written request, except to the extent
+18 retention is required under federal or state law; and
+19 (5) Provide a written, legally binding certification of the deletion upon request.
+20 2. A data collector shall offer agricultural producers access to their own data on
+21 fair and reasonable terms, which shall not:
+22 (1) Impose fees that unreasonably exceed the actual costs of providing the data;
+23 (2) Condition access to equipment, services, or functionality on the producer's
+24 consent to data collection or sharing beyond what is necessary for the requested service;
+25 (3) Impose discriminatory terms based on the producer's data sharing decisions;
+26 or
+27 (4) Restrict the producer's ability to share their data with independent data
+28 service providers of their choosing either directly or indirectly.
+HB 3409 5
+29 3. A data collector shall provide agricultural producers with the ability to export
+30 their data in standardized, interoperable formats that allow the data to be used with
+31 systems and services provided by independent data service providers.
+
+Section 7:
+261.158. 1. For purposes of this section:
+2 (1) Affiliates of a data collector shall include any entity that directly or indirectly
+3 controls, is controlled by, or is under common control with the data collector;
+4 (2) Agricultural production acreage shall be determined using data from the
+5 United States Department of Agriculture Census of Agriculture, or similar authoritative
+6 source;
+7 (3) Agricultural production of livestock shall be determined by the herd count
+8 divided by the annual number of animals harvested for each species.
+9 2. No data collector, together with its affiliates, shall collect agricultural data
+10 from agricultural producers representing more than twenty-five percent of the total
+11 agricultural production acreage within any single county of Missouri and based upon
+12 the number of animals harvested annually.
+13 3. A data collector that collects agricultural data from producers in Missouri
+14 shall:
+15 (1) Report annually to the department the total agricultural acreage and
+16 harvested animals represented by the producers from whom it collects data in each
+17 county; and
+18 (2) Maintain records sufficient to verify compliance with this section for a period
+19 of not less than five years.
+20 4. The agricultural market data concentration limits set forth in this section
+21 shall not apply to data collection conducted by:
+22 (1) A governmental entity for regulatory, research, or statistical purposes;
+23 (2) A land-grant university or agricultural research institution for bona fide
+24 research purposes; or
+25 (3) An agricultural cooperative owned and controlled by agricultural producers,
+26 provided that the data is used solely for the benefit of the cooperative's members and
+27 not resold.
+28 5. A data collector that violates the provisions of this section shall:
+29 (1) Within ninety days of becoming aware of or being notified of the violation by
+30 the department or attorney general, divest data-collection activities within that county
+31 and delete the excess data that would be sufficient to bring the data collector into
+32 compliance; or
+33 (2) Be subject to the provisions of section 261.164.
+34 6. The provisions of this section shall become effective on July 1, 2027.
+HB 3409 6
+
+Section 8:
+261.160. 1. An agricultural producer shall have the right to monetize their
+2 agricultural data by selling, licensing, or otherwise commercializing such data, either
+3 directly or through an independent data service provider or data aggregator of their
+4 choosing.
+5 2. A data collector shall not:
+6 (1) Prevent, restrict, or impede an agricultural producer from monetizing their
+7 data through third parties;
+8 (2) Impose contractual provisions that grant the data collector exclusive rights to
+9 the producer's data; or
+10 (3) Discriminate against a producer in terms, pricing, or service based on the
+11 producer's exercise of data monetization rights.
+12 3. When agricultural data is sold, licensed, or otherwise commercialized by a
+13 data collector or data aggregator:
+14 (1) The data owner shall be entitled to receive fair compensation for the use of
+15 their data, which shall be disclosed prior to the data transaction;
+16 (2) The data collector or aggregator shall provide the data owner with a
+17 transparent accounting of all data transactions involving the owner's data upon request;
+18 and
+19 (3) Revenue-sharing arrangements shall be established through a written
+20 agreement between the parties which shall specify the percentage or amount of revenue
+21 to be paid to the data owner.
+22 4. An agricultural producer who develops innovative farming methodologies,
+23 systems, or practices that demonstrably improve agricultural outcomes shall have the
+24 right to:
+25 (1) Transform such methodologies into copyrightable intellectual property
+26 through documentation and validation using operational data;
+27 (2) License or sell such validated farming practices to other agricultural
+28 producers or entities; and
+29 (3) Receive royalties or other compensation for the use of such validated farming
+30 practices.
+
+Section 9:
+261.162. 1. Data transactions involving agricultural data that occur within
+2 Missouri or involve Missouri agricultural producers shall be subject to state sales tax as
+3 provided in chapter 144.
+4 2. A data collector or data aggregator that facilitates data transactions involving
+5 agricultural data shall:
+6 (1) Calculate and collect applicable sales taxes on data transactions;
+HB 3409 7
+7 (2) Remit collected taxes to the Missouri department of revenue under
+8 applicable law; and
+9 (3) Provide data owners with documentation of taxes collected on data
+10 transactions involving their data.
+11 3. The following data transactions shall be exempt from sales tax under this
+12 section:
+13 (1) Data transactions conducted for bona fide research purposes by land-grant
+14 universities or agricultural research institutions;
+15 (2) Data transactions conducted by governmental entities for regulatory or
+16 statistical purposes; and
+17 (3) Data transactions within agricultural cooperatives that are solely for the
+18 benefit of cooperative members.
+19 4. All moneys collected under this section shall be deposited to the credit of the
+20 general revenue fund and shall be appropriated as provided by law.
+21 5. The department in consultation with the department of revenue shall
+22 promulgate rules necessary to implement the provisions of this section including, but not
+23 limited to, rules relating to the following:
+24 (1) Valuation methods for agricultural data transactions;
+25 (2) Reporting requirements for data collectors and aggregators; and
+26 (3) Procedures for tax collection and remittance.
+27 6. The provisions of this section shall become effective on July 1, 2027.
+
+Section 10:
+261.164. 1. A violation of any provisions or requirement of sections 261.150 to
+2 261.170 shall be deemed a violation of section 407.020, and any person violating such
+3 provisions or requirement shall be subject to all penalties, remedies, and procedures
+4 provided in sections 407.010 to 407.145. The attorney general shall have all powers,
+5 rights, and duties regarding violations of sections 261.150 to 261.170 as are provided in
+6 sections 407.010 to 407.145.
+7 2. A data collector who violates the provisions of sections 261.150 to 261.170
+8 shall be subject to a civil penalty in an amount not to exceed fifty thousand dollars per
+9 violation. Each day of continuing violation shall constitute a separate offense. The
+10 remedies under this subsection shall not be deemed exclusive and shall be in addition to
+11 any other remedies permitted by law.
+12 3. An agricultural producer who is aggrieved by a violation or violations under
+13 sections 261.150 to 261.170 may seek injunctive relief or bring a civil action in any court
+14 of competent jurisdiction for damages sustained as a consequence of the violation or
+15 violations, together with the actual costs of the action, including reasonable attorney's
+16 fees. A court may award the following to the prevailing party:
+HB 3409 8
+17 (1) Actual damages or statutory damages of up to ten thousand dollars per
+18 violation, whichever is greater; and
+19 (2) Reasonable attorney's fees and court costs.
+
+Section 11:
+261.166. 1. Sections 261.150 to 261.170 shall not be construed to:
+2 (1) Preempt or conflict with applicable federal laws including, but not limited to,
+3 the federal Copyright Act of 1976, Pub. L. No. 94-553, 17 U.S.C. Section 101 et seq., as
+4 amended, federal patent law 35 U.S.C. Section 100 et seq., as amended, or trade secret
+5 law 18 U.S.C. Section 1831 et seq., as amended;
+6 (2) Require a data collector to divulge any trade secret defined under section
+7 417.453 to any data owner or independent data service provider; or
+8 (3) Be superseded by any private memorandum of understanding or similar
+9 agreement between equipment manufacturers and agricultural associations unless such
+10 memorandum provides protections at least as protective of agricultural producers as
+11 those provided under sections 261.150 to 261.170.
+
+Section 12:
+261.168. The department shall have the authority to:
+2 (1) Receive and investigate complaints relating to violations under sections
+3 261.150 to 261.170; and
+4 (2) Refer complaints to the attorney general's office for appropriate follow-up
+5 action.
+6 2. The department shall publish an annual report or reports by December
+7 thirtieth of each year on agricultural data market concentration including, but not
+8 limited to, moneys collected, complaints received, complaints referred to the attorney
+9 general, civil actions filed, and other matters that are germane to the overall
+10 effectiveness of complying with sections 261.150 to 261.170.
+11 3. The department shall promulgate all necessary rules and regulations for the
+12 administration of this section including, but not limited to, the complaint process, forms
+13 and related requirements. Any rule or portion of a rule, as that term is defined in
+14 section 536.010, that is created under the authority delegated in this section shall
+15 become effective only if it complies with and is subject to all of the provisions of chapter
+16 536 and, if applicable, section 536.028. This section and chapter 536 are nonseverable
+17 and if any of the powers vested with the general assembly pursuant to chapter 536 to
+18 review, to delay the effective date, or to disapprove and annul a rule are subsequently
+19 held unconstitutional, then the grant of rulemaking authority and any rule proposed or
+20 adopted after August 28, 2026, shall be invalid and void.
+
+Section 13:
+261.170. 1. Except as provided in sections 261.158 and 261.162, sections 261.150
+2 to 261.170 shall become effective January 1, 2027.
+3 2. Under section 23.253 of the Missouri sunset act:
+HB 3409 9
+4 (1) The provisions of the new program authorized under sections 261.150 to
+5 261.170 shall sunset six years after the effective date of sections 261.150 to 261.170
+6 unless reauthorized by an act of the general assembly; and
+7 (2) Sections 261.150 to 261.170 shall terminate on September first of the
+8 calendar year immediately following the calendar year in which the program authorized
+9 under sections 261.150 to 261.170 is sunset.
+10 3. Prior to the termination of the provisions of sections 261.150 to 261.170, the
+11 department shall conduct a comprehensive review of the effectiveness of the Missouri
+12 agricultural data ownership and market competition act and submit a report to the
+13 general assembly with recommendations regarding the continuation, modification, or
+14 repeal of sections 261.150 to 261.170.
+✔
+[DELETED:  B N 3IJ Cb k a s 2 2 2 2 2 2 22.S".A( "do( Y( Pp( Ep0( L1a2( W3o—M i e]
+[DELETED: 4( I d i s f p h D E5F6( F7( A8f9( "0o1( " p a p o e e i a2p3o4( " p o a a c f t5p o p a c i c p l6p7( " d m s t p o t a d8c f a p w a s c o M b a d9c0( "1a2l3( " c a p o e t c r a4t s o p a d i o e5m6( "7d8( "9o0( "1( "2t3( A4( D5t6( D n i t t a d p o t7u8(9t ]
+[DELETED: 0( " d s p a p o e t p1a d s i d a s m o2m s t a n p b a o e m3o4( "5p6( " o a p o e t h o r i7l8( "9a e o l f t u o i b n f a0e1( "2a3p4( "5a o o t t t a o p6a7i a a p m f p c8b.1 U o p b w a b tp( Al o t a l o w t d w g w tl( A d g f l o b t tl o r o w t l i h o w m tl( D0o1g2( W3a o p a a m o c p t4d5t d p t t c o t r d t t6t72 N8l ]
+[DELETED: 9o0e1s23 N3o a t w c A p m4n d o a r a b o t s5c i b n l t t f a6s a c g o c f7o.1 Af( P( T( T( Tl( T( T e c v o t d b c i k o0r1( O2u3y4( P5p6r7( F8r9( P02 A1f2( I3( C4c5( I6o7( R t p a t s t d w i d8s ]
+[DELETED: 93 A0t1s.1 F( Ac( AUs( Ad2 N0f a p r m t t p o t t1a2t334s5( R a t t d t t a a a6h a r b t p f w i c d i e7c8( M9o04 T m d l s f i t s1s2( A3( A l u o a r i f b f4r5( A6p7n85 A9( W0t1a d t e d t w b s t b t d c i2c3( B46 T ]
+[DELETED: .1 A a p s h t r t m tadc2 A( Pd( It0( D1p23 W3d4( T5t6( d c o a s p t d o w a7t8a9( R a s b e t a w0a1t24 A3s4r5( T s m i c i p6t7( L o s s v f p t o a8p9( R0p.1 D t i a d t o wMp2 Aa( C ]
+[DELETED: ( R c t t t M d o r ua( P d o w d o t c o d0t13 T2s3( D4u5( D t c b g e f r o6s7( D t w a c t a s f t8b94 A0g15 T d i c w t d o r s2p3l4( V5( R6( P76 T.1 A2pp Trs2 Asv E d o c v s c a s o T0r1a23 A3s4o5v6f A ]
+[DELETED: 7( A d o s d o u t t t d p8v9( R.1 S( Ptal( R4( B s b a p m o u o sa0m1t.T( a i c r t v u s2( Ra2 T d s p a a r o r b Dt o e y o a d m c i b nlg c a f a o m t a g t t o0e13 T2a3a r A r o p o a a t t i i4s 5 t i c u t a d i t s s5b65 T7a8r9h0a.1t2 U ]
+[DELETED: ( T p o t n p a u s 2 t2 s s s y a t e d o s 2 t 2u( S 2 t 2 s t o S f o tcu03 P1d2a d o a m c a a s a r t t3g4r ]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+HOUSE BILL NO. 3409
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE HOVIS.
+6076H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapter 261, RSMo, by adding thereto eleven new sections relating to agricultural
+data ownership and market competition, with penalty provisions.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Chapter 261, RSMo, is amended by adding thereto eleven new sections, to
+2 be known as sections 261.150, 261.152, 261.154, 261.156, 261.158, 261.160, 261.162,
+3 261.164, 261.166, 261.168, and 261.170, to read as follows:
+261.150. Sections 261.150 to 261.170 shall be known and may be cited as the
+2 "Missouri Agricultural Data Ownership and Market Competition Act".
+261.152. As used in sections 261.150 to 261.170, the following terms mean:
+2 (1) "Agricultural data", any information in any format that is generated from,
+3 derived from, or relates to agricultural production operations, agricultural equipment
+4 operations, or agricultural land including, but not limited to:
+5 (a) Yield data, soil data, crop data, and field data;
+6 (b) Precision agriculture data including GPS coordinates, application rates, and
+7 prescription maps;
+8 (c) Equipment operational data, diagnostic data, telematics data, and machine
+9 performance data;
+10 (d) Livestock data including health records, production metrics, breeding data,
+11 and performance analytics;
+12 (e) Weather data, environmental data, and climate data specific to agricultural
+13 operations not otherwise publicly available;
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 3409 2
+14 (f) Input data including seed, fertilizer, pesticide, herbicide, Diesel Emission
+15 Fluid (DEF), and fuel usage data;
+16 (g) Financial data specific to agricultural production operations; and
+17 (h) Agronomic analyses, predictive models, and benchmarking reports derived
+18 from the foregoing data;
+19 (2) "Agricultural equipment", any equipment used in agricultural production
+20 operations that generates, collects, transmits, stores, or processes agricultural data;
+21 (3) "Agricultural producer", a person or entity engaged in agricultural
+22 production operations as a landowner, tenant farmer, contract grower, livestock owner,
+23 or other agricultural operator;
+24 (4) "Agricultural production operations", any activity conducted for the
+25 purpose of producing agricultural commodities including crop production, livestock
+26 production, aquaculture, horticulture, viticulture, and similar activities;
+27 (5) "County data market share", the percentage of total agricultural data
+28 collected from agricultural producers within a single county of Missouri by a data
+29 collector or its affiliates;
+30 (6) "Data aggregator", a person or entity that collects, compiles, or processes
+31 agricultural data from multiple agricultural producers for the purpose of analysis, sale,
+32 licensing, or other commercial use;
+33 (7) "Data collector", a person or entity that collects, receives, accesses,
+34 transmits, stores, or processes agricultural data, including original equipment
+35 manufacturers, platform providers, service providers, and data aggregators;
+36 (8) "Data owner", a person or entity who holds ownership rights in agricultural
+37 data as determined under section 261.154;
+38 (9) "Data transaction", any sale, license, transfer, or other commercial exchange
+39 of agricultural data or rights therein;
+40 (10) "Department", the department of agriculture;
+41 (11) "Fair and reasonable terms", terms and conditions for data transactions
+42 that:
+43 (a) Are transparent and clearly disclosed;
+44 (b) Do not impose costs that unreasonably exceed the actual costs of providing
+45 the data or services;
+46 (c) Do not include terms that are discriminatory, predatory, or that
+47 unreasonably restrict the data owner's rights; and
+48 (d) Provide the data owner with adequate compensation reflecting the value of
+49 the data;
+
+HB 3409 3
+50 (12) "Independent data service provider", a person or entity that provides
+51 agricultural data services including data analysis, storage, management, or
+52 monetization services that are not provided by an original equipment manufacturer
+53 or an affiliate of an original equipment manufacturer;
+54 (13) "Landowner", a person or entity that holds a fee simple, life estate, or other
+55 possessory interest in agricultural land;
+56 (14) "Livestock owner", a person or entity that holds ownership rights in
+57 livestock;
+58 (15) "Original equipment manufacturer", a person or entity that manufactures
+59 agricultural equipment or licenses for the use of its brand name for agricultural
+60 equipment manufactured by others;
+61 (16) "Platform provider", a person or entity that operates a digital platform,
+62 application, or service through which agricultural data is collected, stored, transmitted,
+63 processed, or made available;
+64 (17) "Transformed data", agricultural data that has been processed, analyzed,
+65 aggregated, or otherwise transformed through the application of proprietary
+66 algorithms, analytical methods, or creative processes to produce copyrightable works
+67 including agronomic analyses, predictive models, field prescriptions, comparative
+68 benchmarking reports, or validated farming practices.
+261.154. 1. Unless otherwise provided by written agreement between the
+2 parties:
+3 (1) Agricultural data generated from crop production operations belongs to the
+4 landowner of the agricultural land on which the data was generated, whether the
+5 landowner farms the land directly or leases it to tenant farmers;
+6 (2) Agricultural data generated from livestock operations belongs to the
+7 livestock owner, regardless of where the livestock is housed or who manages the
+8 livestock;
+9 (3) Data generated by agricultural equipment during agricultural production
+10 operations belongs to the owner or lessee of the equipment at the time the data was
+11 generated; and
+12 (4) When agricultural data is transformed into copyrightable works through the
+13 application of proprietary algorithms, analytical methods, or creative processes, the
+14 data owner who provided the underlying raw data retains an ownership interest in the
+15 transformed data proportional to the contribution of their raw data to the
+16 transformation.
+17 2. No browsewrap agreement, clickwrap agreement, terms of service, end-user
+18 license agreement, or similar instrument shall be effective to transfer or waive a data
+
+HB 3409 4
+19 owner's rights under sections 261.150 to 261.170 unless the data owner has provided
+20 express, informed, written consent specifically acknowledging the transfer or waiver of
+21 such rights.
+22 3. Nothing in this section shall prevent parties from negotiating alternative data
+23 ownership arrangements through written contract. Agricultural producers may
+24 negotiate data ownership and revenue-sharing arrangements based on their specific
+25 circumstances including, but not limited to, tenant farming arrangements,
+26 sharecropping arrangements, contract growing operations, custom farming
+27 operations, and equipment leasing arrangements.
+261.156. 1. A data collector that collects, receives, or accesses agricultural data
+2 from an agricultural producer shall:
+3 (1) Provide clear, conspicuous, and complete disclosure of:
+4 (a) The types of agricultural data being collected;
+5 (b) The purposes for which the data will be used;
+6 (c) The third parties with whom the data has been or may be shared, sold, or
+7 licensed;
+8 (d) The data owner's rights under sections 261.150 to 261.170; and
+9 (e) The estimated commercial value of the data being collected, if known or
+10 reasonably ascertainable;
+11 (2) Obtain express, informed consent from the data owner prior to collecting,
+12 using, or sharing the data including, but not limited to, data collected for the past five
+13 years;
+14 (3) Provide the data owner with a copy of all data collected in a standardized,
+15 portable, machine-readable format upon request for the past five years from the date
+16 requested;
+17 (4) Fully delete the data owner's data upon written request, except to the extent
+18 retention is required under federal or state law; and
+19 (5) Provide a written, legally binding certification of the deletion upon request.
+20 2. A data collector shall offer agricultural producers access to their own data on
+21 fair and reasonable terms, which shall not:
+22 (1) Impose fees that unreasonably exceed the actual costs of providing the data;
+23 (2) Condition access to equipment, services, or functionality on the producer's
+24 consent to data collection or sharing beyond what is necessary for the requested service;
+25 (3) Impose discriminatory terms based on the producer's data sharing decisions;
+26 or
+27 (4) Restrict the producer's ability to share their data with independent data
+28 service providers of their choosing either directly or indirectly.
+
+HB 3409 5
+29 3. A data collector shall provide agricultural producers with the ability to export
+30 their data in standardized, interoperable formats that allow the data to be used with
+31 systems and services provided by independent data service providers.
+261.158. 1. For purposes of this section:
+2 (1) Affiliates of a data collector shall include any entity that directly or indirectly
+3 controls, is controlled by, or is under common control with the data collector;
+4 (2) Agricultural production acreage shall be determined using data from the
+5 United States Department of Agriculture Census of Agriculture, or similar authoritative
+6 source;
+7 (3) Agricultural production of livestock shall be determined by the herd count
+8 divided by the annual number of animals harvested for each species.
+9 2. No data collector, together with its affiliates, shall collect agricultural data
+10 from agricultural producers representing more than twenty-five percent of the total
+11 agricultural production acreage within any single county of Missouri and based upon
+12 the number of animals harvested annually.
+13 3. A data collector that collects agricultural data from producers in Missouri
+14 shall:
+15 (1) Report annually to the department the total agricultural acreage and
+16 harvested animals represented by the producers from whom it collects data in each
+17 county; and
+18 (2) Maintain records sufficient to verify compliance with this section for a period
+19 of not less than five years.
+20 4. The agricultural market data concentration limits set forth in this section
+21 shall not apply to data collection conducted by:
+22 (1) A governmental entity for regulatory, research, or statistical purposes;
+23 (2) A land-grant university or agricultural research institution for bona fide
+24 research purposes; or
+25 (3) An agricultural cooperative owned and controlled by agricultural producers,
+26 provided that the data is used solely for the benefit of the cooperative's members and
+27 not resold.
+28 5. A data collector that violates the provisions of this section shall:
+29 (1) Within ninety days of becoming aware of or being notified of the violation by
+30 the department or attorney general, divest data-collection activities within that county
+31 and delete the excess data that would be sufficient to bring the data collector into
+32 compliance; or
+33 (2) Be subject to the provisions of section 261.164.
+34 6. The provisions of this section shall become effective on July 1, 2027.
+
+HB 3409 6
+261.160. 1. An agricultural producer shall have the right to monetize their
+2 agricultural data by selling, licensing, or otherwise commercializing such data, either
+3 directly or through an independent data service provider or data aggregator of their
+4 choosing.
+5 2. A data collector shall not:
+6 (1) Prevent, restrict, or impede an agricultural producer from monetizing their
+7 data through third parties;
+8 (2) Impose contractual provisions that grant the data collector exclusive rights to
+9 the producer's data; or
+10 (3) Discriminate against a producer in terms, pricing, or service based on the
+11 producer's exercise of data monetization rights.
+12 3. When agricultural data is sold, licensed, or otherwise commercialized by a
+13 data collector or data aggregator:
+14 (1) The data owner shall be entitled to receive fair compensation for the use of
+15 their data, which shall be disclosed prior to the data transaction;
+16 (2) The data collector or aggregator shall provide the data owner with a
+17 transparent accounting of all data transactions involving the owner's data upon request;
+18 and
+19 (3) Revenue-sharing arrangements shall be established through a written
+20 agreement between the parties which shall specify the percentage or amount of revenue
+21 to be paid to the data owner.
+22 4. An agricultural producer who develops innovative farming methodologies,
+23 systems, or practices that demonstrably improve agricultural outcomes shall have the
+24 right to:
+25 (1) Transform such methodologies into copyrightable intellectual property
+26 through documentation and validation using operational data;
+27 (2) License or sell such validated farming practices to other agricultural
+28 producers or entities; and
+29 (3) Receive royalties or other compensation for the use of such validated farming
+30 practices.
+261.162. 1. Data transactions involving agricultural data that occur within
+2 Missouri or involve Missouri agricultural producers shall be subject to state sales tax as
+3 provided in chapter 144.
+4 2. A data collector or data aggregator that facilitates data transactions involving
+5 agricultural data shall:
+6 (1) Calculate and collect applicable sales taxes on data transactions;
+
+HB 3409 7
+7 (2) Remit collected taxes to the Missouri department of revenue under
+8 applicable law; and
+9 (3) Provide data owners with documentation of taxes collected on data
+10 transactions involving their data.
+11 3. The following data transactions shall be exempt from sales tax under this
+12 section:
+13 (1) Data transactions conducted for bona fide research purposes by land-grant
+14 universities or agricultural research institutions;
+15 (2) Data transactions conducted by governmental entities for regulatory or
+16 statistical purposes; and
+17 (3) Data transactions within agricultural cooperatives that are solely for the
+18 benefit of cooperative members.
+19 4. All moneys collected under this section shall be deposited to the credit of the
+20 general revenue fund and shall be appropriated as provided by law.
+21 5. The department in consultation with the department of revenue shall
+22 promulgate rules necessary to implement the provisions of this section including, but not
+23 limited to, rules relating to the following:
+24 (1) Valuation methods for agricultural data transactions;
+25 (2) Reporting requirements for data collectors and aggregators; and
+26 (3) Procedures for tax collection and remittance.
+27 6. The provisions of this section shall become effective on July 1, 2027.
+261.164. 1. A violation of any provisions or requirement of sections 261.150 to
+2 261.170 shall be deemed a violation of section 407.020, and any person violating such
+3 provisions or requirement shall be subject to all penalties, remedies, and procedures
+4 provided in sections 407.010 to 407.145. The attorney general shall have all powers,
+5 rights, and duties regarding violations of sections 261.150 to 261.170 as are provided in
+6 sections 407.010 to 407.145.
+7 2. A data collector who violates the provisions of sections 261.150 to 261.170
+8 shall be subject to a civil penalty in an amount not to exceed fifty thousand dollars per
+9 violation. Each day of continuing violation shall constitute a separate offense. The
+10 remedies under this subsection shall not be deemed exclusive and shall be in addition to
+11 any other remedies permitted by law.
+12 3. An agricultural producer who is aggrieved by a violation or violations under
+13 sections 261.150 to 261.170 may seek injunctive relief or bring a civil action in any court
+14 of competent jurisdiction for damages sustained as a consequence of the violation or
+15 violations, together with the actual costs of the action, including reasonable attorney's
+16 fees. A court may award the following to the prevailing party:
+
+HB 3409 8
+17 (1) Actual damages or statutory damages of up to ten thousand dollars per
+18 violation, whichever is greater; and
+19 (2) Reasonable attorney's fees and court costs.
+261.166. 1. Sections 261.150 to 261.170 shall not be construed to:
+2 (1) Preempt or conflict with applicable federal laws including, but not limited to,
+3 the federal Copyright Act of 1976, Pub. L. No. 94-553, 17 U.S.C. Section 101 et seq., as
+4 amended, federal patent law 35 U.S.C. Section 100 et seq., as amended, or trade secret
+5 law 18 U.S.C. Section 1831 et seq., as amended;
+6 (2) Require a data collector to divulge any trade secret defined under section
+7 417.453 to any data owner or independent data service provider; or
+8 (3) Be superseded by any private memorandum of understanding or similar
+9 agreement between equipment manufacturers and agricultural associations unless such
+10 memorandum provides protections at least as protective of agricultural producers as
+11 those provided under sections 261.150 to 261.170.
+261.168. The department shall have the authority to:
+2 (1) Receive and investigate complaints relating to violations under sections
+3 261.150 to 261.170; and
+4 (2) Refer complaints to the attorney general's office for appropriate follow-up
+5 action.
+6 2. The department shall publish an annual report or reports by December
+7 thirtieth of each year on agricultural data market concentration including, but not
+8 limited to, moneys collected, complaints received, complaints referred to the attorney
+9 general, civil actions filed, and other matters that are germane to the overall
+10 effectiveness of complying with sections 261.150 to 261.170.
+11 3. The department shall promulgate all necessary rules and regulations for the
+12 administration of this section including, but not limited to, the complaint process, forms
+13 and related requirements. Any rule or portion of a rule, as that term is defined in
+14 section 536.010, that is created under the authority delegated in this section shall
+15 become effective only if it complies with and is subject to all of the provisions of chapter
+16 536 and, if applicable, section 536.028. This section and chapter 536 are nonseverable
+17 and if any of the powers vested with the general assembly pursuant to chapter 536 to
+18 review, to delay the effective date, or to disapprove and annul a rule are subsequently
+19 held unconstitutional, then the grant of rulemaking authority and any rule proposed or
+20 adopted after August 28, 2026, shall be invalid and void.
+261.170. 1. Except as provided in sections 261.158 and 261.162, sections 261.150
+2 to 261.170 shall become effective January 1, 2027.
+3 2. Under section 23.253 of the Missouri sunset act:
+
+HB 3409 9
+4 (1) The provisions of the new program authorized under sections 261.150 to
+5 261.170 shall sunset six years after the effective date of sections 261.150 to 261.170
+6 unless reauthorized by an act of the general assembly; and
+7 (2) Sections 261.150 to 261.170 shall terminate on September first of the
+8 calendar year immediately following the calendar year in which the program authorized
+9 under sections 261.150 to 261.170 is sunset.
+10 3. Prior to the termination of the provisions of sections 261.150 to 261.170, the
+11 department shall conduct a comprehensive review of the effectiveness of the Missouri
+12 agricultural data ownership and market competition act and submit a report to the
+13 general assembly with recommendations regarding the continuation, modification, or
+14 repeal of sections 261.150 to 261.170.
+✔
+
+[DELETED:  B N 3IJ Cb k a s 2 2 2 2 2 2 22.S".A( "do( Y( Pp( Ep0( L1a2( W3o—M i e]
+[DELETED: 4( I d i s f p h D E5F6( F7( A8f9( "0o1( " p a p o e e i a2p3o4( " p o a a c f t5p o p a c i c p l6p7( " d m s t p o t a d8c f a p w a s c o M b a d9c0( "1a2l3( " c a p o e t c r a4t s o p a d i o e5m6( "7d8( "9o0( "1( "2t3( A4( D5t6( D n i t t a d p o t7u8(9t ]
+[DELETED: 0( " d s p a p o e t p1a d s i d a s m o2m s t a n p b a o e m3o4( "5p6( " o a p o e t h o r i7l8( "9a e o l f t u o i b n f a0e1( "2a3p4( "5a o o t t t a o p6a7i a a p m f p c8b.1 U o p b w a b tp( Al o t a l o w t d w g w tl( A d g f l o b t tl o r o w t l i h o w m tl( D0o1g2( W3a o p a a m o c p t4d5t d p t t c o t r d t t6t72 N8l ]
+[DELETED: 9o0e1s23 N3o a t w c A p m4n d o a r a b o t s5c i b n l t t f a6s a c g o c f7o.1 Af( P( T( T( Tl( T( T e c v o t d b c i k o0r1( O2u3y4( P5p6r7( F8r9( P02 A1f2( I3( C4c5( I6o7( R t p a t s t d w i d8s ]
+[DELETED: 93 A0t1s.1 F( Ac( AUs( Ad2 N0f a p r m t t p o t t1a2t334s5( R a t t d t t a a a6h a r b t p f w i c d i e7c8( M9o04 T m d l s f i t s1s2( A3( A l u o a r i f b f4r5( A6p7n85 A9( W0t1a d t e d t w b s t b t d c i2c3( B46 T ]
+[DELETED: .1 A a p s h t r t m tadc2 A( Pd( It0( D1p23 W3d4( T5t6( d c o a s p t d o w a7t8a9( R a s b e t a w0a1t24 A3s4r5( T s m i c i p6t7( L o s s v f p t o a8p9( R0p.1 D t i a d t o wMp2 Aa( C ]
+[DELETED: ( R c t t t M d o r ua( P d o w d o t c o d0t13 T2s3( D4u5( D t c b g e f r o6s7( D t w a c t a s f t8b94 A0g15 T d i c w t d o r s2p3l4( V5( R6( P76 T.1 A2pp Trs2 Asv E d o c v s c a s o T0r1a23 A3s4o5v6f A ]
+[DELETED: 7( A d o s d o u t t t d p8v9( R.1 S( Ptal( R4( B s b a p m o u o sa0m1t.T( a i c r t v u s2( Ra2 T d s p a a r o r b Dt o e y o a d m c i b nlg c a f a o m t a g t t o0e13 T2a3a r A r o p o a a t t i i4s 5 t i c u t a d i t s s5b65 T7a8r9h0a.1t2 U ]
+[DELETED: ( T p o t n p a u s 2 t2 s s s y a t e d o s 2 t 2u( S 2 t 2 s t o S f o tcu03 P1d2a d o a m c a a s a r t t3g4r ]

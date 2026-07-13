@@ -1,0 +1,364 @@
+Title: SENATE BILL NO. 921
+Official Title: SENATE BILL NO. 921
+Number of Sections: 1
+Source: versions - 5681S.02I - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR NICOLA.
+5681S.02I KRISTINA MARTIN, Secretary
+AN ACT
+To amend chapters 105, 302, and 407, RSMo, by adding thereto three new sections relating to
+protecting personal identifiable information.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Chapters 105, 302, and 407, RSMo, are amended
+2 by adding thereto three new sections, to be known as sections
+3 105.2000, 302.029, and 407.2102, to read as follows:
+1 105.2000. 1. For purposes of this section, the
+2 following terms mean:
+3 (1) "Digital form of identification", any name or
+4 number that may be used, alone or in conjunction with any
+5 other information, to identify a specific individual,
+6 including any of the following:
+7 (a) Name, Social Security number, date of birth,
+8 official state or government-issued driver's license or
+9 identification number, alien registration number, government
+10 passport number, or employer or taxpayer identification
+11 number;
+12 (b) Unique biometric data, such as fingerprint, voice
+13 print, retina or iris image, or other unique physical
+14 representation;
+15 (c) Unique electronic identification number, address,
+16 or routing code; or
+SB 921 2
+17 (d) Telecommunication identifying information or
+18 access device;
+19 (2) "Minor", any person under eighteen years of age;
+20 (3) "Parent", a biological, foster, or adoptive
+21 parent, a stepparent, or a legal guardian;
+22 (4) "Personal data", any information relating to an
+23 identifiable natural person;
+24 (5) "Place of public accommodation", the same meaning
+25 given to such term in section 213.010;
+26 (6) "Public entity", the state of Missouri, any
+27 department, division, board, commission, or other
+28 instrumentality of the state, and any political subdivision
+29 of the state, including any school district or public
+30 institution of higher education.
+31 2. A public entity shall not require any person to
+32 obtain or maintain any digital form of identification.
+33 3. A public entity may offer the use of a digital form
+34 of identification when interacting with any person provided
+35 the person is not required to obtain or use such digital
+36 form of identification and a physical form of identification
+37 is offered and can be used in lieu of the digital form of
+38 identification.
+39 4. (1) A person who has agreed to use a digital form
+40 of identification shall be permitted, upon request, to view,
+41 correct, remove, destroy, or restrict the usage of all
+42 personal data associated with the person's own
+43 identification.
+44 (2) A person who has authorized the usage of any
+45 personal data associated with the person's digital form of
+46 identification for one purpose shall not be deemed
+47 authorization for any other purpose unless written consent
+48 is given by the person for each purpose.
+SB 921 3
+49 (3) Personal data of any person may only be collected
+50 by a public entity for the purpose stated by the public
+51 entity and only upon the consent of each individual person,
+52 or in the case of a minor, only upon consent of a parent of
+53 the minor.
+54 (4) Personal data of any person shall not be sold or
+55 transferred to any public or private entity without the
+56 consent of the person.
+57 5. (1) A public entity shall not, with respect to any
+58 individual person, take any action or refuse to take any
+59 action based solely on the personal data of a person.
+60 (2) A digital form of identification shall not be
+61 required by a public entity to enter any place of public
+62 accommodation.
+63 6. Any person may bring a cause of action in a court
+64 of competent jurisdiction if the person alleges that a
+65 public entity has violated this section. A public entity
+66 found by a court to have violated this section shall be
+67 liable to the person affected for not more than one hundred
+68 fifty thousand dollars per occurrence.
+69 7. This section shall not be construed to prohibit any
+70 public entity from complying with any lawful request from a
+71 law enforcement agency with respect to any person's personal
+72 data.
+1 302.029. 1. (1) No person shall be required to
+2 obtain a mobile driver's license.
+3 (2) A driver's license, including a mobile driver's
+4 license, shall not be linked with any automated license
+5 plate reader in this state without the written consent of
+6 such person to whom the driver's license belongs.
+7 2. For purposes of this section, the term "mobile
+8 driver's license" means a data file that is:
+SB 921 4
+9 (1) Available on a mobile device that has connectivity
+10 to the internet through an application that allows the
+11 mobile device to download the data file from the department
+12 of revenue;
+13 (2) Contains all of the same data elements visible on
+14 the face and back of the driver's license issued by the
+15 department of revenue; and
+16 (3) Displays the current status of the driver's
+17 license.
+1 407.2102. 1. For purposes of this section, the
+2 following terms mean:
+3 (1) "Digital form of identification", any name or
+4 number that may be used, alone or in conjunction with any
+5 other information, to identify a specific individual,
+6 including any of the following:
+7 (a) Name, Social Security number, date of birth,
+8 official state or government-issued driver's license or
+9 identification number, alien registration number, government
+10 passport number, or employer or taxpayer identification
+11 number;
+12 (b) Unique biometric data, such as fingerprint, voice
+13 print, retina or iris image, or other unique physical
+14 representation;
+15 (c) Unique electronic identification number, address,
+16 or routing code; or
+17 (d) Telecommunication identifying information or
+18 access device;
+19 (2) "Personal data", any information relating to an
+20 identifiable natural person;
+21 (3) "Private entity", any for-profit or not-for-profit
+22 organization, association, corporation, partnership, joint
+23 venture, limited partnership, limited liability partnership,
+SB 921 5
+24 limited liability company, or other entity or business
+25 association, including all wholly owned subsidiaries,
+26 majority-owned subsidiaries, parent companies, or affiliates
+27 of those entities or business associations.
+28 2. (1) A private entity may offer the use of a
+29 digital form of identification when interacting with any
+30 person. A person who has agreed to use a digital form of
+31 identification when interacting with a private entity shall
+32 be permitted, upon request, to view, correct, remove,
+33 destroy, or restrict the usage of all personal data
+34 associated with the person's own digital form of
+35 identification associated with the private entity.
+36 (2) A person who has authorized the usage by a private
+37 entity of any personal data associated with the person's
+38 digital form of identification for one purpose shall not be
+39 deemed authorization for any other purpose unless written
+40 consent is given by the person for each purpose.
+41 (3) Personal data of any person may only be collected
+42 by a private entity for the purpose stated by the private
+43 entity and only upon the consent of each individual person.
+44 (4) Personal data of any person shall not be sold or
+45 transferred to any public or private entity without the
+46 consent of the person.
+47 3. A private entity shall not, with respect to any
+48 individual person, take any action or refuse to take any
+49 action based solely on the personal data of a person.
+50 4. Any person may bring a cause of action in a court
+51 of competent jurisdiction if the person alleges that a
+52 business entity has violated this section. A business
+53 entity found by a court to have violated this section shall
+54 be liable to the person affected for not more than one
+55 hundred fifty thousand dollars per occurrence.
+SB 921 6
+56 5. This section shall not be construed to prohibit any
+57 business entity from complying with any lawful request from
+58 a law enforcement agency with respect to any person's
+59 personal data.
+✓
+[DELETED:  K.1.F   )"   )N    )U  )U ]
+[DELETED: S)T  )")" )" )" )"    .A .A     .()A      )A    ]
+[DELETED: S)P    )P  .()A    )A  .A  .A   .T   .1.()N     )A   .F ]
+[DELETED: S)A   )C  )D .1.F   )"   )N    )U  )U )T )" )"   ]
+[DELETED: S   .()A    .A     )A    )P  )P  .A  .A  .A   ]
+[DELETED: S.T   ]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+SENATE BILL NO. 921
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR NICOLA.
+5681S.02I KRISTINA MARTIN, Secretary
+AN ACT
+To amend chapters 105, 302, and 407, RSMo, by adding thereto three new sections relating to
+protecting personal identifiable information.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Chapters 105, 302, and 407, RSMo, are amended
+2 by adding thereto three new sections, to be known as sections
+3 105.2000, 302.029, and 407.2102, to read as follows:
+1 105.2000. 1. For purposes of this section, the
+2 following terms mean:
+3 (1) "Digital form of identification", any name or
+4 number that may be used, alone or in conjunction with any
+5 other information, to identify a specific individual,
+6 including any of the following:
+7 (a) Name, Social Security number, date of birth,
+8 official state or government-issued driver's license or
+9 identification number, alien registration number, government
+10 passport number, or employer or taxpayer identification
+11 number;
+12 (b) Unique biometric data, such as fingerprint, voice
+13 print, retina or iris image, or other unique physical
+14 representation;
+15 (c) Unique electronic identification number, address,
+16 or routing code; or
+
+SB 921 2
+17 (d) Telecommunication identifying information or
+18 access device;
+19 (2) "Minor", any person under eighteen years of age;
+20 (3) "Parent", a biological, foster, or adoptive
+21 parent, a stepparent, or a legal guardian;
+22 (4) "Personal data", any information relating to an
+23 identifiable natural person;
+24 (5) "Place of public accommodation", the same meaning
+25 given to such term in section 213.010;
+26 (6) "Public entity", the state of Missouri, any
+27 department, division, board, commission, or other
+28 instrumentality of the state, and any political subdivision
+29 of the state, including any school district or public
+30 institution of higher education.
+31 2. A public entity shall not require any person to
+32 obtain or maintain any digital form of identification.
+33 3. A public entity may offer the use of a digital form
+34 of identification when interacting with any person provided
+35 the person is not required to obtain or use such digital
+36 form of identification and a physical form of identification
+37 is offered and can be used in lieu of the digital form of
+38 identification.
+39 4. (1) A person who has agreed to use a digital form
+40 of identification shall be permitted, upon request, to view,
+41 correct, remove, destroy, or restrict the usage of all
+42 personal data associated with the person's own
+43 identification.
+44 (2) A person who has authorized the usage of any
+45 personal data associated with the person's digital form of
+46 identification for one purpose shall not be deemed
+47 authorization for any other purpose unless written consent
+48 is given by the person for each purpose.
+
+SB 921 3
+49 (3) Personal data of any person may only be collected
+50 by a public entity for the purpose stated by the public
+51 entity and only upon the consent of each individual person,
+52 or in the case of a minor, only upon consent of a parent of
+53 the minor.
+54 (4) Personal data of any person shall not be sold or
+55 transferred to any public or private entity without the
+56 consent of the person.
+57 5. (1) A public entity shall not, with respect to any
+58 individual person, take any action or refuse to take any
+59 action based solely on the personal data of a person.
+60 (2) A digital form of identification shall not be
+61 required by a public entity to enter any place of public
+62 accommodation.
+63 6. Any person may bring a cause of action in a court
+64 of competent jurisdiction if the person alleges that a
+65 public entity has violated this section. A public entity
+66 found by a court to have violated this section shall be
+67 liable to the person affected for not more than one hundred
+68 fifty thousand dollars per occurrence.
+69 7. This section shall not be construed to prohibit any
+70 public entity from complying with any lawful request from a
+71 law enforcement agency with respect to any person's personal
+72 data.
+1 302.029. 1. (1) No person shall be required to
+2 obtain a mobile driver's license.
+3 (2) A driver's license, including a mobile driver's
+4 license, shall not be linked with any automated license
+5 plate reader in this state without the written consent of
+6 such person to whom the driver's license belongs.
+7 2. For purposes of this section, the term "mobile
+8 driver's license" means a data file that is:
+
+SB 921 4
+9 (1) Available on a mobile device that has connectivity
+10 to the internet through an application that allows the
+11 mobile device to download the data file from the department
+12 of revenue;
+13 (2) Contains all of the same data elements visible on
+14 the face and back of the driver's license issued by the
+15 department of revenue; and
+16 (3) Displays the current status of the driver's
+17 license.
+1 407.2102. 1. For purposes of this section, the
+2 following terms mean:
+3 (1) "Digital form of identification", any name or
+4 number that may be used, alone or in conjunction with any
+5 other information, to identify a specific individual,
+6 including any of the following:
+7 (a) Name, Social Security number, date of birth,
+8 official state or government-issued driver's license or
+9 identification number, alien registration number, government
+10 passport number, or employer or taxpayer identification
+11 number;
+12 (b) Unique biometric data, such as fingerprint, voice
+13 print, retina or iris image, or other unique physical
+14 representation;
+15 (c) Unique electronic identification number, address,
+16 or routing code; or
+17 (d) Telecommunication identifying information or
+18 access device;
+19 (2) "Personal data", any information relating to an
+20 identifiable natural person;
+21 (3) "Private entity", any for-profit or not-for-profit
+22 organization, association, corporation, partnership, joint
+23 venture, limited partnership, limited liability partnership,
+
+SB 921 5
+24 limited liability company, or other entity or business
+25 association, including all wholly owned subsidiaries,
+26 majority-owned subsidiaries, parent companies, or affiliates
+27 of those entities or business associations.
+28 2. (1) A private entity may offer the use of a
+29 digital form of identification when interacting with any
+30 person. A person who has agreed to use a digital form of
+31 identification when interacting with a private entity shall
+32 be permitted, upon request, to view, correct, remove,
+33 destroy, or restrict the usage of all personal data
+34 associated with the person's own digital form of
+35 identification associated with the private entity.
+36 (2) A person who has authorized the usage by a private
+37 entity of any personal data associated with the person's
+38 digital form of identification for one purpose shall not be
+39 deemed authorization for any other purpose unless written
+40 consent is given by the person for each purpose.
+41 (3) Personal data of any person may only be collected
+42 by a private entity for the purpose stated by the private
+43 entity and only upon the consent of each individual person.
+44 (4) Personal data of any person shall not be sold or
+45 transferred to any public or private entity without the
+46 consent of the person.
+47 3. A private entity shall not, with respect to any
+48 individual person, take any action or refuse to take any
+49 action based solely on the personal data of a person.
+50 4. Any person may bring a cause of action in a court
+51 of competent jurisdiction if the person alleges that a
+52 business entity has violated this section. A business
+53 entity found by a court to have violated this section shall
+54 be liable to the person affected for not more than one
+55 hundred fifty thousand dollars per occurrence.
+
+SB 921 6
+56 5. This section shall not be construed to prohibit any
+57 business entity from complying with any lawful request from
+58 a law enforcement agency with respect to any person's
+59 personal data.
+✓
+
+[DELETED:  K.1.F   )"   )N    )U  )U ]
+[DELETED: S)T  )")" )" )" )"    .A .A     .()A      )A    ]
+[DELETED: S)P    )P  .()A    )A  .A  .A   .T   .1.()N     )A   .F ]
+[DELETED: S)A   )C  )D .1.F   )"   )N    )U  )U )T )" )"   ]
+[DELETED: S   .()A    .A     )A    )P  )P  .A  .A  .A   ]
+[DELETED: S.T   ]
