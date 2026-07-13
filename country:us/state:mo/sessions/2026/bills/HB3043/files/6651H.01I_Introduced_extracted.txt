@@ -1,0 +1,616 @@
+Title: HOUSE BILL NO. 3043
+Official Title: HOUSE BILL NO. 3043
+Number of Sections: 3
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE HAUSMAN.
+6651H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To repeal section 361.1100, RSMo, and to enact in lieu thereof one new section relating to
+virtual currency kiosks, with penalty provisions.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+
+Section 2:
+Section A. Section 361.1100, RSMo, is repealed and one new section enacted in lieu
+2 thereof, to be known as section 361.1100, to read as follows:
+
+Section 3:
+361.1100. 1. This section shall be known and may be cited as the "Virtual Currency
+2 Kiosk Consumer Protection Act".
+3 2. For purposes of this section, the following terms and phrases mean:
+4 (1) "Bank Secrecy Act", the federal Bank Secrecy Act, 31 U.S.C. Section 5311, et
+5 seq., and its implementing rules and regulations, as amended and recodified from time to
+6 time;
+7 (2) "Blockchain", a distributed digital ledger or database that is chronological,
+8 consensus-based, decentralized, and mathematically verified in nature;
+9 (3) "Blockchain analytics", a software service that uses data from various virtual
+10 currencies and their applicable blockchains to provide a risk rating specific to digital wallet
+11 addresses from users of virtual currency kiosks;
+12 (4) "Digital wallet", hardware or software that enables individuals to store and use
+13 virtual currency;
+14 (5) "Digital wallet address", an alphanumeric identifier representing a destination on
+15 a blockchain for a virtual currency transfer that is associated with a digital wallet;
+16 (6) "Director", the director of the division;
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+HB 3043 2
+17 (7) "Division", the division of finance within the department of commerce and
+18 insurance;
+19 (8) "Existing customer", an individual whose first virtual currency kiosk
+20 transaction with the virtual currency kiosk operator was more than fourteen days prior;
+21 [(8)] (9) "Federal Deposit Insurance Corporation or Securities Investor Protection
+22 Corporation", a bank, credit union, savings and loan association, trust company, savings
+23 association, savings bank, industrial bank, or industrial loan company organized under the
+24 laws of the United States or any state of the United States, if the bank, credit union, savings
+25 and loan association, trust company, savings association, savings bank, industrial bank, or
+26 industrial loan company has federally insured deposits;
+27 [(9)] (10) "Fiat currency", a medium of exchange that is authorized or adopted by the
+28 United States government as part of its currency and is not backed by a commodity;
+29 [(10)] (11) "Individual", a natural person;
+30 (12) "New customer", an individual during the fourteen-day period after such
+31 individual's first transaction with the virtual currency kiosk operator that the
+32 individual has never previously transacted with. The individual shall remain defined
+33 as a new customer during the fourteen-day period after the first virtual currency kiosk
+34 transaction with the virtual currency kiosk operator;
+35 [(11)] (13) "NMLS", the Nationwide Multistate Licensing System and Registry
+36 developed by the Conference of State Bank Supervisors and the American Association of
+37 Residential Mortgage Regulators and owned and operated by the State Regulatory Registry,
+38 LLC, or any successor or affiliated entity, for the licensing and registration of persons in
+39 financial services industries;
+40 [(12)] (14) "United States PATRIOT Act", the federal Uniting and Strengthening
+41 America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of
+42 2001 and its implementing rules and regulations, as amended and recodified from time to
+43 time;
+44 [(13)] (15) "Virtual currency",
+45 (a) Any type of digital unit that is used as a medium of exchange or a form of digitally
+46 stored value or that is incorporated into payment system technology. Virtual currency shall be
+47 construed to include digital units of exchange that:
+48 a. Have a centralized repository or administrator;
+49 b. Are decentralized and have no centralized repository or administrator; or
+50 c. May be created or obtained by computing or manufacturing effort;
+51 (b) Virtual currency shall not be construed to include digital units that are used:
+52 a. Solely within online gaming platforms with no market or application outside such
+53 gaming platforms; or
+HB 3043 3
+54 b. Exclusively as part of a consumer affinity or rewards program, and can be applied
+55 solely as payment for purchases with the issuer or other designated merchants, but cannot be
+56 converted into or redeemed for fiat currency;
+57 [(14)] (16) "Virtual currency kiosk", an electronic terminal of the virtual currency
+58 kiosk operator that enables the owner or operator to facilitate the exchange of fiat currency for
+59 virtual currency or virtual currency for fiat currency or other virtual currency, including, but
+60 not limited to:
+61 (a) Connecting directly to a separate virtual currency exchange that performs the
+62 actual virtual currency transmission; or
+63 (b) Drawing upon the virtual currency in the possession of the owner or operator of
+64 the electronic terminal;
+65 [(15)] (17) "Virtual currency kiosk operator", a corporation, limited liability
+66 company, limited liability partnership, or foreign entity qualified to do business in this state
+67 that operates a virtual currency kiosk within this state.
+68 3. (1) Except as otherwise provided in this section, all information or reports
+69 obtained by the division from a virtual currency kiosk operator, and all information contained
+70 in or related to an examination, investigation, operating report, or condition report prepared
+71 by, on behalf of, or for the use of the division in relation to a virtual currency kiosk operator,
+72 are confidential and are not subject to disclosure under chapter 610.
+73 (2) Information contained in the records of the division that is not confidential and
+74 may be available to the public either on the division's website, upon receipt by the division of
+75 a written request, or in NMLS shall include:
+76 (a) The name, business address, telephone number, and unique identifier of a virtual
+77 currency kiosk operator;
+78 (b) The business address of a virtual currency kiosk operator's registered agent for
+79 service; and
+80 (c) Copies of any final orders of the division relating to any violation of this section
+81 or regulations implementing this section.
+82 4. If any provision of this section is inconsistent with any federal law, including, but
+83 not limited to, the Bank Secrecy Act or the United States PATRIOT Act, the applicable
+84 federal law shall govern to the extent of any inconsistency.
+85 5. (1) The director may request evidence of compliance with this section or a rule
+86 adopted or order issued pursuant to this section as reasonably necessary or appropriate to
+87 administer and enforce this section, and other applicable law, including the Bank Secrecy Act
+88 and the United States PATRIOT Act.
+89 (2) A virtual currency kiosk operator shall provide the director all records the director
+90 may reasonably require to ensure compliance with this section.
+HB 3043 4
+91 6. As part of establishing a relationship with a customer, and prior to entering into an
+92 initial transaction for, on behalf of, or with such customer, each virtual currency kiosk
+93 operator shall disclose in clear, conspicuous, and legible writing in the English language,
+94 whether in accessible terms of service or elsewhere, all material risks associated with its
+95 products, services, and activities and virtual currency generally, including disclosures
+96 substantially similar to the following:
+97 (1) Virtual currency is not legal tender, is not backed by the government, and
+98 accounts and value balances are not subject to Federal Deposit Insurance Corporation or
+99 Securities Investor Protection Corporation protections;
+100 (2) Legislative and regulatory changes or actions at the state, federal, or international
+101 level may adversely affect the use, transfer, exchange, and value of virtual currency;
+102 (3) Transactions in virtual currency may be irreversible, and, accordingly, losses due
+103 to fraudulent or accidental transactions may not be recoverable;
+104 (4) Some virtual currency transactions shall be deemed to be made when recorded on
+105 a public ledger, which is not necessarily the date or time that the customer initiates the
+106 transaction;
+107 (5) The value of virtual currency may be derived from the continued willingness of
+108 market participants to exchange fiat currency for virtual currency, which may result in the
+109 potential for permanent and total loss of value of a particular virtual currency should the
+110 market for that virtual currency disappear;
+111 (6) There is no assurance that a person who accepts a virtual currency as payment
+112 today will continue to do so in the future;
+113 (7) The volatility and unpredictability of the price of virtual currency relative to fiat
+114 currency may result in significant loss over a short period of time;
+115 (8) The nature of virtual currency may lead to an increased risk of fraud or cyber
+116 attack;
+117 (9) The nature of virtual currency means that any technological difficulties
+118 experienced by the virtual currency kiosk operator may prevent the access or use of a
+119 customer's virtual currency; and
+120 (10) Any bond or trust account maintained by the virtual currency kiosk operator for
+121 the benefit of its customers may not be sufficient to cover all losses incurred by customers.
+122 7. When opening an account for a new customer, and prior to entering into an initial
+123 transaction for, on behalf of, or with such customer, each virtual currency kiosk operator shall
+124 disclose in clear, conspicuous, and legible writing in the English language, whether in
+125 accessible terms of service or elsewhere, all relevant terms and conditions associated with its
+126 products, services, and activities and virtual currency generally, including disclosures
+127 substantially similar to the following:
+HB 3043 5
+128 (1) The customer's liability for unauthorized virtual currency transactions;
+129 (2) Under what circumstances the virtual currency kiosk operator will, absent a court
+130 or government order, disclose information concerning the customer's account to third parties;
+131 (3) The customer's right to receive periodic account statements and valuations from
+132 the virtual currency kiosk operator;
+133 (4) The customer's right to receive a receipt, trade ticket, or other evidence of a
+134 transaction;
+135 (5) The customer's right to prior notice of a change in the virtual currency kiosk
+136 operator's rules or policies; and
+137 (6) Such other disclosures as are customarily given in connection with the opening of
+138 customer accounts.
+139 8. Prior to entering into a virtual currency transaction with a customer, each virtual
+140 currency kiosk operator shall ensure a warning is disclosed to a customer substantially similar
+141 to the following:
+142 Customer Notice. Please Read Carefully.
+143 Did you receive a phone call from your bank, software provider,
+144 the police, or were you directed to make a payment for Social
+145 Security, utility bill, investment, warrants, or bail money at this
+146 kiosk? STOP
+147 Is anyone on the phone pressuring you to make a payment of any
+148 kind? STOP
+149 I understand that the purchase and sale of cryptocurrency is a
+150 final irreversible and nonrefundable transaction.
+151 I confirm I am sending funds to a wallet I own or directly have
+152 control over. I confirm that I am using funds gained from my
+153 own initiative to make my transaction.
+154 9. Upon completion of any virtual currency kiosk transaction, each virtual currency
+155 kiosk operator shall provide to a customer a digital or physical receipt containing the
+156 following information:
+157 (1) The name and contact information of the virtual currency kiosk operator,
+158 including a telephone number established by the virtual currency kiosk operator to answer
+159 questions and register complaints;
+160 (2) The type, value, date, and precise time of the transaction in the local time zone;
+161 (3) The fee charged;
+162 (4) The exchange rate, if applicable;
+163 (5) A statement of the liability of the virtual currency kiosk operator for nondelivery
+164 or delayed delivery; and
+HB 3043 6
+165 (6) A statement of the refund policy of the virtual currency kiosk operator.
+166 10. All virtual currency kiosk operators shall use blockchain analytics software to
+167 assist in the prevention of sending purchased virtual currency from a virtual currency kiosk
+168 operator to a digital wallet known to be affiliated with fraudulent activity at the time of a
+169 transaction. The division may request evidence from any virtual currency kiosk operator of
+170 current use of blockchain analytics.
+171 11. All virtual currency kiosk operators performing business in this state shall provide
+172 live customer service at a minimum on Monday through Friday between the hours of 8:00
+173 a.m. and 10:00 p.m. The customer service toll-free number shall be displayed on the virtual
+174 currency kiosk or the virtual currency kiosk screens.
+175 12. All virtual currency kiosk operators shall take reasonable steps to detect and
+176 prevent fraud, including establishing and maintaining a written anti-fraud policy. The anti-
+177 fraud policy shall, at a minimum, include:
+178 (1) The identification and assessment of fraud-related risk areas;
+179 (2) Procedures and controls to protect against identified risks;
+180 (3) Allocation of responsibility for monitoring risks; and
+181 (4) Procedures for the periodic evaluation and revision of the anti-fraud procedures,
+182 controls, and monitoring mechanisms.
+183 13. (1) Each virtual currency kiosk operator shall maintain, implement, and enforce a
+184 written "enhanced due diligence policy". Such a policy shall be reviewed and approved by
+185 the virtual currency kiosk operator's board of directors or an equivalent governing body of the
+186 virtual currency kiosk operator.
+187 (2) The enhanced due diligence policy shall identify, at minimum, individuals who
+188 are at risk of fraud based on age or mental capacity.
+189 14. (1) Each virtual currency kiosk operator shall comply with the provisions of this
+190 section, any lawful order, rule, or regulation made or issued under the provisions of this
+191 section, and all applicable federal and state laws, rules, and regulations.
+192 (2) Each virtual currency kiosk shall maintain, implement, and enforce written
+193 compliance policies and procedures. Such policies and procedures shall be reviewed and
+194 approved by the virtual currency kiosk operator's board of directors or an equivalent
+195 governing body of the virtual currency kiosk operator.
+196 15. (1) Each virtual currency kiosk operator shall designate and employ a compliance
+197 officer with the following requirements:
+198 (a) The individual shall be qualified to coordinate and monitor compliance with this
+199 section and all other applicable federal and state laws, rules, and regulations;
+200 (b) The individual shall be employed full time by the virtual currency kiosk operator;
+201 and
+HB 3043 7
+202 (c) The designated compliance officer cannot be any individual who owns more than
+203 twenty percent of the virtual currency kiosk operator by whom the individual is employed.
+204 (2) Compliance responsibilities required under federal and state laws, rules, and
+205 regulations shall be completed by full-time employees of the virtual currency kiosk operator.
+206 16. Each virtual currency kiosk operator shall designate and employ a consumer
+207 protection officer with each of the following requirements:
+208 (1) The individual shall be qualified to coordinate and monitor compliance with this
+209 section and all other applicable federal and state laws, rules, and regulations;
+210 (2) The individual shall be employed full time by the virtual currency kiosk operators;
+211 and
+212 (3) The designated consumer protection officer cannot be an individual who owns
+213 more than twenty percent of the virtual currency kiosk operator by whom the individual is
+214 employed.
+215 17. (1) Each virtual currency kiosk operator shall submit a report to the division of
+216 the location of each virtual currency kiosk located within this state within forty-five days of
+217 the end of the calendar quarter. The director shall formulate a system for virtual currency
+218 kiosk operators to submit such locations that is consistent with the requirements of this
+219 section.
+220 (2) The location report shall include, at a minimum, the following information
+221 regarding the location where a virtual currency kiosk is located:
+222 (a) Company legal name;
+223 (b) Any fictitious or trade name;
+224 (c) Physical address;
+225 (d) Start date of operation of virtual currency kiosk at location; and
+226 (e) End date of operation of virtual currency kiosk at location, if applicable.
+227 18. (1) Any virtual currency kiosk operator who owns, operates, solicits, markets,
+228 advertises, or facilitates virtual currency kiosks in this state shall be deemed to be engaged in
+229 money transmission and require licensure pursuant to sections 361.900 to 361.1035.
+230 (2) All unlicensed virtual currency kiosk operators shall apply for a money
+231 transmitter license within sixty days after August 28, 2025. Virtual currency kiosk operators
+232 who apply within this time will be allowed to continue operations while the division reviews
+233 the application. Any virtual currency kiosk operator whose application is denied by the
+234 division shall cease operations until granted a money transmitter license.
+235 19. The division of finance may promulgate rules for the purpose of implementing the
+236 provisions of this section. Any rule or portion of a rule, as that term is defined in section
+237 536.010, that is created under the authority delegated in this section shall become effective
+238 only if it complies with and is subject to all of the provisions of chapter 536 and, if applicable,
+HB 3043 8
+239 section 536.028. This section and chapter 536 are nonseverable and if any of the powers
+240 vested with the general assembly pursuant to chapter 536 to review, to delay the effective
+241 date, or to disapprove and annul a rule are subsequently held unconstitutional, then the grant
+242 of rulemaking authority and any rule proposed or adopted after August 28, 2025, shall be
+243 invalid and void.
+244 20. (1) If the attorney general has reasonable belief that a virtual currency kiosk
+245 operator is in violation of this section, the attorney general has the sole authority to
+246 bring civil action to provide for any or all of the following:
+247 (a) Enjoin further violations by the operator;
+248 (b) Enforce compliance with this section;
+249 (c) Seek civil penalties in an amount not more than ten thousand dollars for each
+250 violation of this section; or
+251 (d) Other remedies permitted under law.
+252 (2) If the attorney general has reasonable belief that a person is in violation of an
+253 injunction issued pursuant to this subsection, the attorney general has the sole authority
+254 to bring civil action to provide for civil penalties in an amount not more than one
+255 hundred thousand dollars.
+256 (3) An individual that has knowledge of a violation of this section may report the
+257 violation to the attorney general.
+258 (4) The attorney general shall establish an electronic reporting system for the
+259 submission of reports pursuant to this subsection.
+260 21. A virtual currency kiosk operator shall not accept transactions in a day in
+261 connection with virtual currency kiosk transactions for a single customer in this state
+262 via one or more virtual currency kiosks exceeding:
+263 (1) For new customers, two thousand United States dollars or the equivalent in
+264 virtual currency; or
+265 (2) For existing customers, ten thousand five hundred dollars or the equivalent
+266 in virtual currency.
+✔
+[DELETED:  B N 3IJ St TK2 F( "st( " a d d l o d t i cc( " a a s s t u d f v v0c1a2(3v4( "5a6( "—M i e]
+[DELETED: 7( " t d o f w t d o c a8i9()" c a i w f v c k0t1[)"2C a b c u s a l a t c s3a4l5a6i7[)"8U9[)"0()"1i f t w t v c k o t t2i T3a4t5[ ()" t N M L S a R6d7R8L9f0[ ()" S P t f U a S1A223t4[)"5( A6s V7c8a H9b A0c M1(2a S3g ]
+[DELETED: 4b E5s6c7[)"8k9v0n1( C d t a v c t p2a3( D4t5[ ()" c k o a c l l6c7t83 ( E a o p i t s a i o r9o0i1b2a3( I4m5a6( T7c8( T9s0( C1o24 I3n l t t B S A o t U S P t a4f55 ( T6a7a8a9( A0m ]
+[DELETED: 16 A2i t f o b o o w s c e v c k3o4w i a t o s o e a m r a w i5p s a a a v c g i d6s7( V c i n l t i n b b t g a8a a v b a n s t F D I C o9S0( L1l2( T3t4( S5a p l w i n n t d o t t t c i t6t7( T8m9p0m1( T2t3( T4c5( T6a7( T n o v c m t a t d8e b t v c k o m p t a o u o a9c0( A1t27 W3t4d i c c a l w i t E l w i5a6p s a a a v c g i d7s ]
+[DELETED: 8( T9( U0o1( T2t3( T c r t r a r t t o o e o a4t5( T6o7( S8c98 P0c1t2C P3D4t5S6k S7I8k S9I0f1I2c I3o49 U5k o s p t a c a d o p r c t6f7( T n a c i o t v c k o8i9q0( T1( T2( T3( A4o ]
+[DELETED: 5( A61 A7a8o9t T0c11 A2l3a T4c51 A v c k o s t r s t d a6p T7f8( T9( P0(1( P2c31 ( E4w S5t6v7( T8a91 ( E0s a l o r o r m o i u t p o t1s2( E v c k s m i a e w3c S4a b t v c k o b o d o a e5g61 ( E7o8( T9s0( T1a ]
+[DELETED: 2( T3t4( C r r u f a s l r a5r61 E v c k o s d a e a c7p8( T9s0( T1a2( T3m4e51 ( E6t7t T8k o t s s l t i c w t r o t9s0( T l r s i a a m t f i1r2( C3( A4( P5( S6( E71 ( A8a9m0( A u v c k o s a f a m1t V2w3t a A v c k o w a i d b t4d51 T6p A758o ]
+[DELETED: 9s T0v1d2o3i42.()I5o6b7()E8()E9()S0v1()O2()I3i4t b c a t p f c p i a a n m t o5h6()A7v8()T9s02.A1c2v3()F4v5()F6i ]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+HOUSE BILL NO. 3043
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE HAUSMAN.
+6651H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To repeal section 361.1100, RSMo, and to enact in lieu thereof one new section relating to
+virtual currency kiosks, with penalty provisions.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Section 361.1100, RSMo, is repealed and one new section enacted in lieu
+2 thereof, to be known as section 361.1100, to read as follows:
+361.1100. 1. This section shall be known and may be cited as the "Virtual Currency
+2 Kiosk Consumer Protection Act".
+3 2. For purposes of this section, the following terms and phrases mean:
+4 (1) "Bank Secrecy Act", the federal Bank Secrecy Act, 31 U.S.C. Section 5311, et
+5 seq., and its implementing rules and regulations, as amended and recodified from time to
+6 time;
+7 (2) "Blockchain", a distributed digital ledger or database that is chronological,
+8 consensus-based, decentralized, and mathematically verified in nature;
+9 (3) "Blockchain analytics", a software service that uses data from various virtual
+10 currencies and their applicable blockchains to provide a risk rating specific to digital wallet
+11 addresses from users of virtual currency kiosks;
+12 (4) "Digital wallet", hardware or software that enables individuals to store and use
+13 virtual currency;
+14 (5) "Digital wallet address", an alphanumeric identifier representing a destination on
+15 a blockchain for a virtual currency transfer that is associated with a digital wallet;
+16 (6) "Director", the director of the division;
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 3043 2
+17 (7) "Division", the division of finance within the department of commerce and
+18 insurance;
+19 (8) "Existing customer", an individual whose first virtual currency kiosk
+20 transaction with the virtual currency kiosk operator was more than fourteen days prior;
+21 [(8)] (9) "Federal Deposit Insurance Corporation or Securities Investor Protection
+22 Corporation", a bank, credit union, savings and loan association, trust company, savings
+23 association, savings bank, industrial bank, or industrial loan company organized under the
+24 laws of the United States or any state of the United States, if the bank, credit union, savings
+25 and loan association, trust company, savings association, savings bank, industrial bank, or
+26 industrial loan company has federally insured deposits;
+27 [(9)] (10) "Fiat currency", a medium of exchange that is authorized or adopted by the
+28 United States government as part of its currency and is not backed by a commodity;
+29 [(10)] (11) "Individual", a natural person;
+30 (12) "New customer", an individual during the fourteen-day period after such
+31 individual's first transaction with the virtual currency kiosk operator that the
+32 individual has never previously transacted with. The individual shall remain defined
+33 as a new customer during the fourteen-day period after the first virtual currency kiosk
+34 transaction with the virtual currency kiosk operator;
+35 [(11)] (13) "NMLS", the Nationwide Multistate Licensing System and Registry
+36 developed by the Conference of State Bank Supervisors and the American Association of
+37 Residential Mortgage Regulators and owned and operated by the State Regulatory Registry,
+38 LLC, or any successor or affiliated entity, for the licensing and registration of persons in
+39 financial services industries;
+40 [(12)] (14) "United States PATRIOT Act", the federal Uniting and Strengthening
+41 America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of
+42 2001 and its implementing rules and regulations, as amended and recodified from time to
+43 time;
+44 [(13)] (15) "Virtual currency",
+45 (a) Any type of digital unit that is used as a medium of exchange or a form of digitally
+46 stored value or that is incorporated into payment system technology. Virtual currency shall be
+47 construed to include digital units of exchange that:
+48 a. Have a centralized repository or administrator;
+49 b. Are decentralized and have no centralized repository or administrator; or
+50 c. May be created or obtained by computing or manufacturing effort;
+51 (b) Virtual currency shall not be construed to include digital units that are used:
+52 a. Solely within online gaming platforms with no market or application outside such
+53 gaming platforms; or
+
+HB 3043 3
+54 b. Exclusively as part of a consumer affinity or rewards program, and can be applied
+55 solely as payment for purchases with the issuer or other designated merchants, but cannot be
+56 converted into or redeemed for fiat currency;
+57 [(14)] (16) "Virtual currency kiosk", an electronic terminal of the virtual currency
+58 kiosk operator that enables the owner or operator to facilitate the exchange of fiat currency for
+59 virtual currency or virtual currency for fiat currency or other virtual currency, including, but
+60 not limited to:
+61 (a) Connecting directly to a separate virtual currency exchange that performs the
+62 actual virtual currency transmission; or
+63 (b) Drawing upon the virtual currency in the possession of the owner or operator of
+64 the electronic terminal;
+65 [(15)] (17) "Virtual currency kiosk operator", a corporation, limited liability
+66 company, limited liability partnership, or foreign entity qualified to do business in this state
+67 that operates a virtual currency kiosk within this state.
+68 3. (1) Except as otherwise provided in this section, all information or reports
+69 obtained by the division from a virtual currency kiosk operator, and all information contained
+70 in or related to an examination, investigation, operating report, or condition report prepared
+71 by, on behalf of, or for the use of the division in relation to a virtual currency kiosk operator,
+72 are confidential and are not subject to disclosure under chapter 610.
+73 (2) Information contained in the records of the division that is not confidential and
+74 may be available to the public either on the division's website, upon receipt by the division of
+75 a written request, or in NMLS shall include:
+76 (a) The name, business address, telephone number, and unique identifier of a virtual
+77 currency kiosk operator;
+78 (b) The business address of a virtual currency kiosk operator's registered agent for
+79 service; and
+80 (c) Copies of any final orders of the division relating to any violation of this section
+81 or regulations implementing this section.
+82 4. If any provision of this section is inconsistent with any federal law, including, but
+83 not limited to, the Bank Secrecy Act or the United States PATRIOT Act, the applicable
+84 federal law shall govern to the extent of any inconsistency.
+85 5. (1) The director may request evidence of compliance with this section or a rule
+86 adopted or order issued pursuant to this section as reasonably necessary or appropriate to
+87 administer and enforce this section, and other applicable law, including the Bank Secrecy Act
+88 and the United States PATRIOT Act.
+89 (2) A virtual currency kiosk operator shall provide the director all records the director
+90 may reasonably require to ensure compliance with this section.
+
+HB 3043 4
+91 6. As part of establishing a relationship with a customer, and prior to entering into an
+92 initial transaction for, on behalf of, or with such customer, each virtual currency kiosk
+93 operator shall disclose in clear, conspicuous, and legible writing in the English language,
+94 whether in accessible terms of service or elsewhere, all material risks associated with its
+95 products, services, and activities and virtual currency generally, including disclosures
+96 substantially similar to the following:
+97 (1) Virtual currency is not legal tender, is not backed by the government, and
+98 accounts and value balances are not subject to Federal Deposit Insurance Corporation or
+99 Securities Investor Protection Corporation protections;
+100 (2) Legislative and regulatory changes or actions at the state, federal, or international
+101 level may adversely affect the use, transfer, exchange, and value of virtual currency;
+102 (3) Transactions in virtual currency may be irreversible, and, accordingly, losses due
+103 to fraudulent or accidental transactions may not be recoverable;
+104 (4) Some virtual currency transactions shall be deemed to be made when recorded on
+105 a public ledger, which is not necessarily the date or time that the customer initiates the
+106 transaction;
+107 (5) The value of virtual currency may be derived from the continued willingness of
+108 market participants to exchange fiat currency for virtual currency, which may result in the
+109 potential for permanent and total loss of value of a particular virtual currency should the
+110 market for that virtual currency disappear;
+111 (6) There is no assurance that a person who accepts a virtual currency as payment
+112 today will continue to do so in the future;
+113 (7) The volatility and unpredictability of the price of virtual currency relative to fiat
+114 currency may result in significant loss over a short period of time;
+115 (8) The nature of virtual currency may lead to an increased risk of fraud or cyber
+116 attack;
+117 (9) The nature of virtual currency means that any technological difficulties
+118 experienced by the virtual currency kiosk operator may prevent the access or use of a
+119 customer's virtual currency; and
+120 (10) Any bond or trust account maintained by the virtual currency kiosk operator for
+121 the benefit of its customers may not be sufficient to cover all losses incurred by customers.
+122 7. When opening an account for a new customer, and prior to entering into an initial
+123 transaction for, on behalf of, or with such customer, each virtual currency kiosk operator shall
+124 disclose in clear, conspicuous, and legible writing in the English language, whether in
+125 accessible terms of service or elsewhere, all relevant terms and conditions associated with its
+126 products, services, and activities and virtual currency generally, including disclosures
+127 substantially similar to the following:
+
+HB 3043 5
+128 (1) The customer's liability for unauthorized virtual currency transactions;
+129 (2) Under what circumstances the virtual currency kiosk operator will, absent a court
+130 or government order, disclose information concerning the customer's account to third parties;
+131 (3) The customer's right to receive periodic account statements and valuations from
+132 the virtual currency kiosk operator;
+133 (4) The customer's right to receive a receipt, trade ticket, or other evidence of a
+134 transaction;
+135 (5) The customer's right to prior notice of a change in the virtual currency kiosk
+136 operator's rules or policies; and
+137 (6) Such other disclosures as are customarily given in connection with the opening of
+138 customer accounts.
+139 8. Prior to entering into a virtual currency transaction with a customer, each virtual
+140 currency kiosk operator shall ensure a warning is disclosed to a customer substantially similar
+141 to the following:
+142 Customer Notice. Please Read Carefully.
+143 Did you receive a phone call from your bank, software provider,
+144 the police, or were you directed to make a payment for Social
+145 Security, utility bill, investment, warrants, or bail money at this
+146 kiosk? STOP
+147 Is anyone on the phone pressuring you to make a payment of any
+148 kind? STOP
+149 I understand that the purchase and sale of cryptocurrency is a
+150 final irreversible and nonrefundable transaction.
+151 I confirm I am sending funds to a wallet I own or directly have
+152 control over. I confirm that I am using funds gained from my
+153 own initiative to make my transaction.
+154 9. Upon completion of any virtual currency kiosk transaction, each virtual currency
+155 kiosk operator shall provide to a customer a digital or physical receipt containing the
+156 following information:
+157 (1) The name and contact information of the virtual currency kiosk operator,
+158 including a telephone number established by the virtual currency kiosk operator to answer
+159 questions and register complaints;
+160 (2) The type, value, date, and precise time of the transaction in the local time zone;
+161 (3) The fee charged;
+162 (4) The exchange rate, if applicable;
+163 (5) A statement of the liability of the virtual currency kiosk operator for nondelivery
+164 or delayed delivery; and
+
+HB 3043 6
+165 (6) A statement of the refund policy of the virtual currency kiosk operator.
+166 10. All virtual currency kiosk operators shall use blockchain analytics software to
+167 assist in the prevention of sending purchased virtual currency from a virtual currency kiosk
+168 operator to a digital wallet known to be affiliated with fraudulent activity at the time of a
+169 transaction. The division may request evidence from any virtual currency kiosk operator of
+170 current use of blockchain analytics.
+171 11. All virtual currency kiosk operators performing business in this state shall provide
+172 live customer service at a minimum on Monday through Friday between the hours of 8:00
+173 a.m. and 10:00 p.m. The customer service toll-free number shall be displayed on the virtual
+174 currency kiosk or the virtual currency kiosk screens.
+175 12. All virtual currency kiosk operators shall take reasonable steps to detect and
+176 prevent fraud, including establishing and maintaining a written anti-fraud policy. The anti-
+177 fraud policy shall, at a minimum, include:
+178 (1) The identification and assessment of fraud-related risk areas;
+179 (2) Procedures and controls to protect against identified risks;
+180 (3) Allocation of responsibility for monitoring risks; and
+181 (4) Procedures for the periodic evaluation and revision of the anti-fraud procedures,
+182 controls, and monitoring mechanisms.
+183 13. (1) Each virtual currency kiosk operator shall maintain, implement, and enforce a
+184 written "enhanced due diligence policy". Such a policy shall be reviewed and approved by
+185 the virtual currency kiosk operator's board of directors or an equivalent governing body of the
+186 virtual currency kiosk operator.
+187 (2) The enhanced due diligence policy shall identify, at minimum, individuals who
+188 are at risk of fraud based on age or mental capacity.
+189 14. (1) Each virtual currency kiosk operator shall comply with the provisions of this
+190 section, any lawful order, rule, or regulation made or issued under the provisions of this
+191 section, and all applicable federal and state laws, rules, and regulations.
+192 (2) Each virtual currency kiosk shall maintain, implement, and enforce written
+193 compliance policies and procedures. Such policies and procedures shall be reviewed and
+194 approved by the virtual currency kiosk operator's board of directors or an equivalent
+195 governing body of the virtual currency kiosk operator.
+196 15. (1) Each virtual currency kiosk operator shall designate and employ a compliance
+197 officer with the following requirements:
+198 (a) The individual shall be qualified to coordinate and monitor compliance with this
+199 section and all other applicable federal and state laws, rules, and regulations;
+200 (b) The individual shall be employed full time by the virtual currency kiosk operator;
+201 and
+
+HB 3043 7
+202 (c) The designated compliance officer cannot be any individual who owns more than
+203 twenty percent of the virtual currency kiosk operator by whom the individual is employed.
+204 (2) Compliance responsibilities required under federal and state laws, rules, and
+205 regulations shall be completed by full-time employees of the virtual currency kiosk operator.
+206 16. Each virtual currency kiosk operator shall designate and employ a consumer
+207 protection officer with each of the following requirements:
+208 (1) The individual shall be qualified to coordinate and monitor compliance with this
+209 section and all other applicable federal and state laws, rules, and regulations;
+210 (2) The individual shall be employed full time by the virtual currency kiosk operators;
+211 and
+212 (3) The designated consumer protection officer cannot be an individual who owns
+213 more than twenty percent of the virtual currency kiosk operator by whom the individual is
+214 employed.
+215 17. (1) Each virtual currency kiosk operator shall submit a report to the division of
+216 the location of each virtual currency kiosk located within this state within forty-five days of
+217 the end of the calendar quarter. The director shall formulate a system for virtual currency
+218 kiosk operators to submit such locations that is consistent with the requirements of this
+219 section.
+220 (2) The location report shall include, at a minimum, the following information
+221 regarding the location where a virtual currency kiosk is located:
+222 (a) Company legal name;
+223 (b) Any fictitious or trade name;
+224 (c) Physical address;
+225 (d) Start date of operation of virtual currency kiosk at location; and
+226 (e) End date of operation of virtual currency kiosk at location, if applicable.
+227 18. (1) Any virtual currency kiosk operator who owns, operates, solicits, markets,
+228 advertises, or facilitates virtual currency kiosks in this state shall be deemed to be engaged in
+229 money transmission and require licensure pursuant to sections 361.900 to 361.1035.
+230 (2) All unlicensed virtual currency kiosk operators shall apply for a money
+231 transmitter license within sixty days after August 28, 2025. Virtual currency kiosk operators
+232 who apply within this time will be allowed to continue operations while the division reviews
+233 the application. Any virtual currency kiosk operator whose application is denied by the
+234 division shall cease operations until granted a money transmitter license.
+235 19. The division of finance may promulgate rules for the purpose of implementing the
+236 provisions of this section. Any rule or portion of a rule, as that term is defined in section
+237 536.010, that is created under the authority delegated in this section shall become effective
+238 only if it complies with and is subject to all of the provisions of chapter 536 and, if applicable,
+
+HB 3043 8
+239 section 536.028. This section and chapter 536 are nonseverable and if any of the powers
+240 vested with the general assembly pursuant to chapter 536 to review, to delay the effective
+241 date, or to disapprove and annul a rule are subsequently held unconstitutional, then the grant
+242 of rulemaking authority and any rule proposed or adopted after August 28, 2025, shall be
+243 invalid and void.
+244 20. (1) If the attorney general has reasonable belief that a virtual currency kiosk
+245 operator is in violation of this section, the attorney general has the sole authority to
+246 bring civil action to provide for any or all of the following:
+247 (a) Enjoin further violations by the operator;
+248 (b) Enforce compliance with this section;
+249 (c) Seek civil penalties in an amount not more than ten thousand dollars for each
+250 violation of this section; or
+251 (d) Other remedies permitted under law.
+252 (2) If the attorney general has reasonable belief that a person is in violation of an
+253 injunction issued pursuant to this subsection, the attorney general has the sole authority
+254 to bring civil action to provide for civil penalties in an amount not more than one
+255 hundred thousand dollars.
+256 (3) An individual that has knowledge of a violation of this section may report the
+257 violation to the attorney general.
+258 (4) The attorney general shall establish an electronic reporting system for the
+259 submission of reports pursuant to this subsection.
+260 21. A virtual currency kiosk operator shall not accept transactions in a day in
+261 connection with virtual currency kiosk transactions for a single customer in this state
+262 via one or more virtual currency kiosks exceeding:
+263 (1) For new customers, two thousand United States dollars or the equivalent in
+264 virtual currency; or
+265 (2) For existing customers, ten thousand five hundred dollars or the equivalent
+266 in virtual currency.
+✔
+
+[DELETED:  B N 3IJ St TK2 F( "st( " a d d l o d t i cc( " a a s s t u d f v v0c1a2(3v4( "5a6( "—M i e]
+[DELETED: 7( " t d o f w t d o c a8i9()" c a i w f v c k0t1[)"2C a b c u s a l a t c s3a4l5a6i7[)"8U9[)"0()"1i f t w t v c k o t t2i T3a4t5[ ()" t N M L S a R6d7R8L9f0[ ()" S P t f U a S1A223t4[)"5( A6s V7c8a H9b A0c M1(2a S3g ]
+[DELETED: 4b E5s6c7[)"8k9v0n1( C d t a v c t p2a3( D4t5[ ()" c k o a c l l6c7t83 ( E a o p i t s a i o r9o0i1b2a3( I4m5a6( T7c8( T9s0( C1o24 I3n l t t B S A o t U S P t a4f55 ( T6a7a8a9( A0m ]
+[DELETED: 16 A2i t f o b o o w s c e v c k3o4w i a t o s o e a m r a w i5p s a a a v c g i d6s7( V c i n l t i n b b t g a8a a v b a n s t F D I C o9S0( L1l2( T3t4( S5a p l w i n n t d o t t t c i t6t7( T8m9p0m1( T2t3( T4c5( T6a7( T n o v c m t a t d8e b t v c k o m p t a o u o a9c0( A1t27 W3t4d i c c a l w i t E l w i5a6p s a a a v c g i d7s ]
+[DELETED: 8( T9( U0o1( T2t3( T c r t r a r t t o o e o a4t5( T6o7( S8c98 P0c1t2C P3D4t5S6k S7I8k S9I0f1I2c I3o49 U5k o s p t a c a d o p r c t6f7( T n a c i o t v c k o8i9q0( T1( T2( T3( A4o ]
+[DELETED: 5( A61 A7a8o9t T0c11 A2l3a T4c51 A v c k o s t r s t d a6p T7f8( T9( P0(1( P2c31 ( E4w S5t6v7( T8a91 ( E0s a l o r o r m o i u t p o t1s2( E v c k s m i a e w3c S4a b t v c k o b o d o a e5g61 ( E7o8( T9s0( T1a ]
+[DELETED: 2( T3t4( C r r u f a s l r a5r61 E v c k o s d a e a c7p8( T9s0( T1a2( T3m4e51 ( E6t7t T8k o t s s l t i c w t r o t9s0( T l r s i a a m t f i1r2( C3( A4( P5( S6( E71 ( A8a9m0( A u v c k o s a f a m1t V2w3t a A v c k o w a i d b t4d51 T6p A758o ]
+[DELETED: 9s T0v1d2o3i42.()I5o6b7()E8()E9()S0v1()O2()I3i4t b c a t p f c p i a a n m t o5h6()A7v8()T9s02.A1c2v3()F4v5()F6i ]

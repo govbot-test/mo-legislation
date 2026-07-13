@@ -1,0 +1,2295 @@
+Title: SENATE BILL NO. 1019
+Official Title: SENATE BILL NO. 1019
+Number of Sections: 34
+Source: versions - 4774H.04C - House Committee Substitute
+Media Type: application/pdf
+Strikethrough Detection: 29 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+HOUSE COMMITTEE SUBSTITUTE FOR
+103RD GENERAL ASSEMBLY
+4774H.04C JOSEPH ENGLER, Chief Clerk
+AN ACT
+To repeal sections 96.192, 96.196, 191.1146, 206.110, 324.009, 334.108, 345.050, 376.1000,
+
+Section 2:
+376.1012, 376.1017, 632.305, 632.489, 632.492, 632.495, 632.504, and 632.520,
+RSMo, and to enact in lieu thereof thirty-one new sections relating to health care, with
+penalty provisions.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+
+Section 3:
+Section A. Sections 96.192, 96.196, 191.1146, 206.110, 324.009, 334.108, 345.050,
+2 376.1000, 376.1012, 376.1017, 632.305, 632.489, 632.492, 632.495, 632.504, and 632.520,
+3 RSMo, are repealed and thirty-one new sections enacted in lieu thereof, to be known as
+4 sections 96.192, 96.196, 191.1146, 192.021, 197.708, 206.110, 206.158, 208.149, 324.009,
+5 334.108, 345.050, 376.417, 376.1000, 376.1012, 376.1017, 376.1280, 407.3007, 632.305,
+6 632.489, 632.492, 632.495, 632.504, 632.520, 632.580, 632.585, 632.590, 632.593, 632.595,
+7 632.600, 632.605, and 632.610, to read as follows:
+
+Section 4:
+96.192. 1. The board of trustees of any hospital authorized under subsection 2 of this
+2 section, and established and organized under the provisions of sections 96.150 to 96.229, may
+3 invest up to [twenty-five] fifty percent of [the hospital's] its funds not required for immediate
+4 disbursement in obligations or for the operation of the hospital [in any United States
+5 investment grade fixed income funds or any diversified stock funds, or both] into:
+6 (1) Any mutual funds that invest in stocks, bonds, or real estate, or any
+7 combination thereof;
+8 (2) Bonds that have:
+9 (a) One of the five highest long-term ratings or the highest short-term rating
+10 issued by a nationally recognized rating agency; and
+11 (b) A final maturity of ten years or less;
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+HCS SB 1019 2
+12 (3) Money-market investments; or
+13 (4) Any combination of investments described in subdivisions (1) to (3) of this
+14 subsection.
+15
+16 The board shall invest the remaining percentage of funds not required for immediate
+17 disbursement into any investment in which the state treasurer is allowed to invest.
+18 2. The provisions of this section shall only apply if the hospital:
+19 (1) Receives less than [one] three percent of its annual revenues from municipal,
+20 county, or state taxes; and
+21 (2) Receives less than [one] three percent of its annual revenue from appropriated
+22 funds from the municipality in which such hospital is located.
+
+Section 5:
+96.196. 1. A hospital organized under this chapter may purchase, operate or lease, as
+2 lessor or lessee, related facilities or engage in health care activities, except in counties of the
+3 third or fourth classification (other than the county in which the hospital is located) where
+4 there already exists a hospital organized pursuant to this chapter [and chapter 205 or 206];
+5 provided, however, that this exception shall not prohibit the continuation of existing activities
+6 otherwise allowed by law.
+7 2. If a hospital organized pursuant to this chapter accepts appropriated funds from the
+8 city during the twelve months immediately preceding the date that the hospital purchases,
+9 operates or leases its first related facility outside the city boundaries or engages in its first
+10 health care activity outside the city boundaries, the governing body of the city shall approve
+11 the hospital's plan for such purchase, operation or lease prior to implementation of the plan.
+
+Section 6:
+191.1146. 1. Physicians licensed under chapter 334 who use telemedicine shall
+2 ensure that a properly established physician-patient relationship exists with the person who
+3 receives the telemedicine services. The physician-patient relationship may be established by:
+4 (1) An in-person encounter through a medical [interview] evaluation and physical
+5 examination;
+6 (2) Consultation with another physician, or that physician's delegate, who has an
+7 established relationship with the patient and an agreement with the physician to participate in
+8 the patient's care; or
+9 (3) A telemedicine encounter, if the standard of care does not require an in-person
+10 encounter, and in accordance with evidence-based standards of practice and telemedicine
+11 practice guidelines that address the clinical and technological aspects of telemedicine.
+12 2. In order to establish a physician-patient relationship through telemedicine:
+13 (1) The technology utilized shall be sufficient to establish an informed diagnosis as
+14 though the medical [interview] evaluation and, if required to meet the standard of care,
+15 the physical examination has been performed in person; [and]
+HCS SB 1019 3
+16 (2) Prior to providing treatment, including issuing prescriptions or physician
+17 certifications under Article XIV of the Missouri Constitution, a physician who uses
+18 telemedicine shall [interview] evaluate the patient, collect or review the patient's relevant
+19 medical history, and perform an examination sufficient for the diagnosis and treatment of the
+20 patient. [A] Any questionnaire completed by the patient, whether via the internet or
+21 telephone, shall be reviewed by the treating health care professional, as defined in section
+22 376.1350, and shall include such information sufficient to provide the information as
+23 though the medical evaluation has been performed in person, otherwise such
+24 questionnaire does not constitute an acceptable medical [interview] evaluation and
+25 examination for the provision of treatment by telehealth; and
+26 (3) Any provider that uses a questionnaire to establish a physician-patient
+27 relationship through telemedicine shall be employed or contracted with a business entity
+28 that is licensed to provide health care in this state.
+29 3. A health care provider that uses a medical evaluation questionnaire completed
+30 by the patient by way of the internet or telephone shall provide a written report within
+31 fourteen days of evaluation to the patient's primary health care provider, if provided by
+32 the patient, that contains:
+33 (1) The identity of the patient;
+34 (2) The date of the evaluation;
+35 (3) The diagnosis and treatment provided, if any; and
+36 (4) Any further instructions provided to the patient.
+
+Section 7:
+192.021. 1. The department of health and senior services shall be authorized to
+2 contract directly with a Missouri affiliate of a national public health association or
+3 public health institute, or a similar or successor entity, in order to assist in carrying out
+4 its duties to promote the health and wellbeing of the residents of this state. Such
+5 contracts may include, but not be limited to, efforts to assist in the delivery of health
+6 services to residents throughout the state and the administration of grant funds and
+7 related programs.
+8 2. Within sixty days after the end of each fiscal year, the department and the
+9 designated affiliate shall provide the general assembly with an annual report and
+10 accounting of any appropriations and grant funds received and expended by the
+11 designated affiliate pursuant to this section during the immediate prior fiscal year and
+12 may provide recommendations and suggestions for improvement in services provided.
+
+Section 8:
+197.708. Each hospital shall display in a prominent place within the waiting
+2 rooms of the emergency department and the labor and delivery department a printed
+3 sign with the following text in all capital letters: "WARNING: ASSAULTING A
+4 HEALTH CARE PROFESSIONAL WHO IS ENGAGED IN THE PERFORMANCE
+HCS SB 1019 4
+5 OF HIS OR HER OFFICIAL DUTIES, INCLUDING STRIKING A HEALTH CARE
+6 PROFESSIONAL WITH ANY BODILY FLUID, IS A SERIOUS CRIME AND WILL
+7 BE PROSECUTED TO THE FULLEST EXTENT OF THE LAW.".
+
+Section 9:
+206.110. 1. A hospital district, both within and outside such district, except in
+2 counties of the third or fourth classification (other than within the district boundaries) where
+3 there already exists a hospital organized pursuant to [chapters 96, 205 or] this chapter;
+4 provided, however, that this exception shall not prohibit the continuation or expansion of
+5 existing activities otherwise allowed by law, shall have and exercise the following
+6 governmental powers, and all other powers incidental, necessary, convenient or desirable
+7 to carry out and effectuate the express powers:
+8 (1) To establish and maintain a hospital or hospitals and hospital facilities, and to
+9 construct, acquire, develop, expand, extend and improve any such hospital or hospital facility
+10 including medical office buildings to provide offices for rental to physicians and dentists on
+11 the district hospital's medical or dental staff, and the providing of sites therefor, including
+12 offstreet parking space for motor vehicles;
+13 (2) To acquire land in fee simple, rights in land and easements upon, over or across
+14 land and leasehold interest in land and tangible and intangible personal property used or
+15 useful for the location, establishment, maintenance, development, expansion, extension or
+16 improvement of any hospital or hospital facility. The acquisition may be by dedication,
+17 purchase, gift, agreement, lease, use or adverse possession or by condemnation;
+18 (3) To operate, maintain and manage a hospital and hospital facilities, and to make
+19 and enter into contracts, for the use, operation or management of a hospital or hospital
+20 facilities; to engage in health care activities; and to make and enter into leases of equipment
+21 and real property, a hospital or hospital facilities, as lessor or lessee, regardless of the duration
+22 of such lease; and to provide rules and regulations for the operation, management or use of a
+23 hospital or hospital facilities. Any agreement entered into pursuant to this subsection
+24 pertaining to the lease of the hospital shall have a definite termination date as negotiated by
+25 the parties, but this shall not preclude the trustees from entering into a renewal of the
+26 agreement with the same or other parties pertaining to the same or other subjects upon such
+27 terms and conditions as the parties may agree;
+28 (4) To fix, charge and collect reasonable fees and compensation for the use or
+29 occupancy of the hospital or any part thereof, or any hospital facility, and for nursing care,
+30 medicine, attendance, or other services furnished by the hospital or hospital facilities,
+31 according to the rules and regulations prescribed by the board from time to time;
+32 (5) To borrow money and to issue bonds, notes, certificates, or other evidences of
+33 indebtedness for the purpose of accomplishing any of its corporate purposes, subject to
+HCS SB 1019 5
+34 compliance with any condition or limitation set forth in this chapter or otherwise provided by
+35 the Constitution of the state of Missouri;
+36 (6) To employ or enter into contracts for the employment of any person, firm, or
+37 corporation, and for professional services, necessary or desirable for the accomplishment of
+38 the corporate objects of the district or the proper administration, management, protection or
+39 control of its property;
+40 (7) To maintain the hospital for the benefit of the inhabitants of the area comprising
+41 the district who are sick, injured, or maimed regardless of race, creed or color, and to adopt
+42 such reasonable rules and regulations as may be necessary to render the use of the hospital of
+43 the greatest benefit to the greatest number; to exclude from the use of the hospital all persons
+44 who willfully disregard any of the rules and regulations so established; to extend the
+45 privileges and use of the hospital to persons residing outside the area of the district upon such
+46 terms and conditions as the board of directors prescribes by its rules and regulations;
+47 (8) To police its property and to exercise police powers in respect thereto or in respect
+48 to the enforcement of any rule or regulation provided by the ordinances of the district and to
+49 employ and commission police officers and other qualified persons to enforce the same;
+50 (9) To lease to or allow for any institution of higher education to use or occupy the
+51 hospital, any real estate or facility owned or leased by the district or any part thereof for the
+52 purpose of health care-related and general education or training.
+53 2. The use of any hospital or hospital facility of a district shall be subject to the
+54 reasonable regulation and control of the district and upon such reasonable terms and
+55 conditions as shall be established by its board of directors.
+56 3. A regulatory ordinance of a district adopted under any provision of this section
+57 may provide for a suspension or revocation of any rights or privileges within the control of
+58 the district for a violation of any such regulatory ordinance.
+59 4. Nothing in this section or in other provisions of this chapter shall be construed to
+60 authorize the district or board to establish or enforce any regulation or rule in respect to
+61 hospitalization or the operation or maintenance of such hospital or any hospital facilities
+62 within its jurisdiction which is in conflict with any federal or state law or regulation
+63 applicable to the same subject matter.
+
+Section 10:
+206.158. 1. The board of trustees of any hospital authorized under subsection 2
+2 of this section, and established and organized under the provisions of sections 206.010 to
+3 206.160, may invest up to fifty percent of its funds not required for immediate
+4 disbursement in obligations or for the operation of the hospital into:
+5 (1) Any mutual funds that invest in stocks, bonds, or real estate, or any
+6 combination thereof;
+7 (2) Bonds that have:
+HCS SB 1019 6
+8 (a) One of the five highest long-term ratings or the highest short-term rating
+9 issued by a nationally recognized rating agency; and
+10 (b) A final maturity of ten years or less;
+11 (3) Money-market investments; or
+12 (4) Any combination of investments described in subdivisions (1) to (3) of this
+13 subsection.
+14
+15 The board shall invest the remaining percentage of funds not required for immediate
+16 disbursement into any investment in which the state treasurer is allowed to invest.
+17 2. The provisions of this section shall only apply if the hospital district receives
+18 less than three percent of its annual revenues from hospital district or state taxes.
+
+Section 11:
+208.149. 1. As used in this section, the following terms mean:
+2 (1) "Clinical pathology services", professional medical services provided by a
+3 licensed physician that involve the use of medical judgment, that contribute directly to
+4 the diagnosis, care, and treatment of individual patients, and that are necessary for
+5 every laboratory test run in a high-complexity laboratory environment;
+6 (2) "Hospital-based pathologist", a licensed physician specializing in pathology
+7 who provides clinical pathology services for the laboratory within a hospital;
+8 (3) "MO HealthNet", the Medicaid program administered by the state of
+9 Missouri in accordance with federal and state law;
+10 (4) "Professional component of clinical pathology services", the portion of each
+11 clinical pathology service in a high-complexity laboratory environment that involves the
+12 physician's use of medical judgment in interpreting and supervising laboratory tests
+13 and that excludes the technical component of the laboratory test.
+14 2. The professional component of clinical pathology services provided by a
+15 hospital-based pathologist shall be recognized as distinct physician services by the MO
+16 HealthNet program.
+17 3. The MO HealthNet program shall reimburse the professional component of
+18 clinical pathology services provided to MO HealthNet participants.
+19 4. The reimbursement amount for the professional component of clinical
+20 pathology services shall be set at no less than thirty percent of the approved MO
+21 HealthNet Independent Lab - Technical Component fee schedule.
+22 5. Payment for the professional component of clinical pathology services shall be
+23 made directly to the licensed physician providing the services or to the entity the
+24 licensed physician has assigned the right to receive payment for the services provided.
+25 6. If a state plan amendment is determined by the department of social services
+26 to be required, the department of social services shall timely submit such amendment.
+HCS SB 1019 7
+27 If such amendment is not approved, the department shall make all reasonable efforts to
+28 obtain federal approval, including resubmission, modification, or pursuit of any
+29 alternative lawful mechanism necessary to implement reimbursement consistent with
+30 this section. Nothing in this subsection shall be construed to relieve the department of
+31 its obligation to implement reimbursement to the fullest extent permitted under state
+32 and federal authority.
+33 7. The department of social services shall promulgate all necessary rules and
+34 regulations for the administration of this section. Any rule or portion of a rule, as that
+35 term is defined in section 536.010, that is created under the authority delegated in this
+36 section shall become effective only if it complies with and is subject to all of the
+37 provisions of chapter 536 and, if applicable, section 536.028. This section and chapter
+38 536 are nonseverable and if any of the powers vested with the general assembly
+39 pursuant to chapter 536 to review, to delay the effective date, or to disapprove and annul
+40 a rule are subsequently held unconstitutional, then the grant of rulemaking authority
+41 and any rule proposed or adopted after August 28, 2026, shall be invalid and void.
+
+Section 12:
+324.009. 1. For purposes of this section, the following terms mean:
+2 (1) "License", a license, certificate, registration, permit, accreditation, or military
+3 occupational speciality that enables a person to legally practice an occupation or profession in
+4 a particular jurisdiction;
+5 (2) "Military", the Armed Forces of the United States including the Air Force, Army,
+6 Coast Guard, Marine Corps, Navy, Space Force, National Guard and any other military
+7 branch that is designated by Congress as part of the Armed Forces of the United States, and
+8 all reserve components and auxiliaries. Such term also includes the military reserves and
+9 militia of any United States territory or state;
+10 (3) "Missouri law enforcement officer", any person employed by or otherwise serving
+11 in a position for the state or a local governmental entity in the state of Missouri as a police
+12 officer, peace officer certified under chapter 590, auxiliary police officer, sheriff, sheriff's
+13 deputy, member of the patrol as that term is defined in section 43.010, or in some like position
+14 involving the enforcement of the law and protection of the public interest at the risk of that
+15 person's life and who is a permanent resident of the state of Missouri or who is domiciled in
+16 the state of Missouri;
+17 (4) "Nonresident military or law enforcement spouse":
+18 (a) A nonresident spouse of an active duty member of the Armed Forces of the United
+19 States who has been transferred or is scheduled to be transferred to the state of Missouri, or
+20 who has been transferred or is scheduled to be transferred to an adjacent state and is or will be
+21 domiciled in the state of Missouri, or has moved to the state of Missouri on a permanent
+22 change-of-station basis; or
+HCS SB 1019 8
+23 (b) A nonresident spouse of a person residing outside the state of Missouri who has
+24 accepted an offer of employment from and with the state or a local governmental entity in the
+25 state of Missouri and who will become a Missouri law enforcement officer upon the
+26 commencement of such employment;
+27 (5) "Oversight body", any board, department, agency, or office of a jurisdiction that
+28 issues licenses;
+29 (6) "Resident military or law enforcement spouse", a spouse of an active duty
+30 member of the Armed Forces of the United States who has been transferred or is scheduled to
+31 be transferred to the state of Missouri or an adjacent state and who is a permanent resident of
+32 the state of Missouri, who is domiciled in the state of Missouri, or who has Missouri as his or
+33 her home of record, or a spouse of a Missouri law enforcement officer.
+34 2. Any person who holds a valid current license issued by another state, a branch or
+35 unit of the military, a territory of the United States, or the District of Columbia, and who has
+36 been licensed for at least one year in such other jurisdiction, may submit an application for a
+37 license in Missouri in the same occupation or profession, and at the same practice level, for
+38 which he or she holds the current license, along with proof of current licensure and proof of
+39 licensure for at least one year in the other jurisdiction, to the relevant oversight body in this
+40 state.
+41 3. The oversight body in this state shall:
+42 (1) Within six months of receiving an application described in subsection 2 of this
+43 section, waive any examination, educational, or experience requirements for licensure in this
+44 state for the applicant if it determines that there were minimum education requirements and, if
+45 applicable, work experience and clinical supervision requirements in effect and the other
+46 [state] jurisdiction verifies that the person met those requirements in order to be licensed or
+47 certified in that [state] jurisdiction. An oversight body that administers an examination on
+48 laws of this state as part of its licensing application requirement may require an applicant to
+49 take and pass an examination specific to the laws of this state; or
+50 (2) Within thirty days of receiving an application described in subsection 2 of this
+51 section from a nonresident military or law enforcement spouse or a resident military or law
+52 enforcement spouse, waive any examination, educational, or experience requirements for
+53 licensure in this state for the applicant and issue such applicant a license under this section if
+54 such applicant otherwise meets the requirements of this section.
+55 4. (1) The oversight body shall not waive any examination, educational, or
+56 experience requirements for any applicant who has had his or her license revoked by an
+57 oversight body outside the state; who is currently under investigation, who has a complaint
+58 pending, or who is currently under disciplinary action, except as provided in subdivision (2)
+59 of this subsection, with an oversight body outside the state; who does not hold a license in
+HCS SB 1019 9
+60 good standing with an oversight body outside the state; who has a criminal record that would
+61 disqualify him or her for licensure in Missouri; or who does not hold a valid current license in
+62 the other jurisdiction on the date the oversight body receives his or her application under this
+63 section.
+64 (2) If another jurisdiction has taken disciplinary action against an applicant, the
+65 oversight body shall determine if the cause for the action was corrected and the matter
+66 resolved. If the matter has not been resolved by that jurisdiction, the oversight body may
+67 deny a license until the matter is resolved.
+68 5. Nothing in this section shall prohibit the oversight body from denying a license to
+69 an applicant under this section for any reason described in any section associated with the
+70 occupation or profession for which the applicant seeks a license.
+71 6. Any person who is licensed under the provisions of this section shall be subject to
+72 the applicable oversight body's jurisdiction and all rules and regulations pertaining to the
+73 practice of the licensed occupation or profession in this state. Any health care provider
+74 licensed under the provisions of this section shall be deemed fully licensed to practice in
+75 this state and may provide telehealth services as described in section 191.1145 to the
+76 same extent and in the same manner as a health care provider who received his or her
+77 license without a waiver of any requirements.
+78 7. This section shall not be construed to waive any requirement for an applicant to
+79 pay any fees, post any bonds or surety bonds, or submit proof of insurance associated with the
+80 license the applicant seeks.
+81 8. This section shall not apply to business, professional, or occupational licenses
+82 issued or required by political subdivisions.
+83 9. The provisions of this section shall not impede an oversight body's authority to
+84 require an applicant to submit fingerprints as part of the application process.
+85 10. The provisions of this section shall not be construed to alter the authority granted
+86 by, or any requirements promulgated pursuant to, any interjurisdictional or interstate
+87 compacts adopted by Missouri statute or any reciprocity agreements with other states in
+88 effect, and whenever possible this section shall be interpreted so as to imply no conflict
+89 between it and any compact, or any reciprocity agreements with other states in effect.
+90 11. Notwithstanding any other provision of law, a license issued under this section
+91 shall be valid only in this state and shall not make a licensee eligible to be part of an interstate
+92 compact. An applicant who is licensed in another state pursuant to an interstate compact shall
+93 not be eligible for licensure by an oversight body under the provisions of this section.
+94 12. The provisions of this section shall not apply to any occupation set forth in
+95 subsection 6 of section 290.257, or any electrical contractor licensed under sections 324.900
+96 to 324.945.
+HCS SB 1019 10
+
+Section 13:
+334.108. 1. Prior to prescribing any drug, controlled substance, or other treatment
+2 through telemedicine, as defined in section 191.1145, or the internet, a physician shall
+3 establish a valid physician-patient relationship as described in section 191.1146. This
+4 relationship shall include:
+5 (1) Obtaining a reliable medical history and, if required to meet the standard of
+6 care,performing a physical examination of the patient, adequate to establish the diagnosis for
+7 which the drug is being prescribed and to identify underlying conditions or contraindications
+8 to the treatment recommended or provided;
+9 (2) Having sufficient [dialogue] exchange with the patient regarding treatment
+10 options and the risks and benefits of treatment or treatments;
+11 (3) If appropriate, following up with the patient to assess the therapeutic outcome;
+12 (4) Maintaining a contemporaneous medical record that is readily available to the
+13 patient and, subject to the patient's consent, to the patient's other health care professionals;
+14 and
+15 (5) Maintaining the electronic prescription information as part of the patient's medical
+16 record.
+17 2. The requirements of subsection 1 of this section may be satisfied by the prescribing
+18 physician's designee when treatment is provided in:
+19 (1) A hospital as defined in section 197.020;
+20 (2) A hospice program as defined in section 197.250;
+21 (3) Home health services provided by a home health agency as defined in section
+22 197.400;
+23 (4) Accordance with a collaborative practice agreement as [defined] described in
+24 section 334.104;
+25 (5) Conjunction with a physician assistant licensed pursuant to section 334.738;
+26 (6) Conjunction with an assistant physician licensed under section 334.036;
+27 (7) Consultation with another physician who has an ongoing physician-patient
+28 relationship with the patient, and who has agreed to supervise the patient's treatment,
+29 including use of any prescribed medications; or
+30 (8) On-call or cross-coverage situations.
+31 3. No health care provider, as defined in section 376.1350, shall prescribe any drug,
+32 controlled substance, or other treatment to a patient based solely on an evaluation [over the
+33 telephone] through telemedicine; except that, a physician or such physician's on-call
+34 designee, or an advanced practice registered nurse, a physician assistant, or an assistant
+35 physician in a collaborative practice arrangement with such physician, may prescribe any
+36 drug, controlled substance, or other treatment that is within his or her scope of practice to a
+37 patient based solely on a [telephone] telemedicine evaluation if a previously established and
+HCS SB 1019 11
+38 ongoing physician-patient relationship exists between such physician and the patient being
+39 treated.
+40 4. No health care provider shall prescribe any drug, controlled substance, or other
+41 treatment to a patient [based solely on an internet request or an internet questionnaire] in the
+42 absence of a proper provider-patient relationship, as described in section 191.1146.
+43 5. Medical records of any drug, controlled substance, or other treatment
+44 prescribed through telemedicine, as defined in section 191.1145, shall be collected,
+45 stored, and maintained in accordance with the Health Insurance Portability and
+46 Accountability Act of 1996, which allows for the sharing of protected health information
+47 for continuity of care between health care providers for treatment, payment, and health
+48 care operations.
+
+Section 14:
+345.050. To be eligible for licensure by the board by examination, each applicant
+2 shall submit the application fee and shall furnish evidence of such person's current
+3 competence and shall:
+4 (1) Hold a master's or a doctoral degree from a program that was awarded
+5 "accreditation candidate" status or is accredited by the Council on Academic Accreditation of
+6 the American Speech-Language-Hearing Association or other accrediting agency approved
+7 by the board in the area in which licensure is sought;
+8 (2) Submit official transcripts from one or more accredited colleges or universities
+9 presenting evidence of the completion of course work and clinical practicum requirements
+10 equivalent to that required by the Council on Academic Accreditation of the American
+11 Speech-Language-Hearing Association or other accrediting agency approved by the board;
+12 (3) Present written evidence of completion of a clinical fellowship from supervisors.
+13 The experience required by this subdivision shall follow the completion of the requirements
+14 of subdivisions (1) and (2) of this section. This period of employment shall be under the
+15 direct supervision of a [person who is] licensed [by the state of Missouri in the profession in
+16 which the applicant seeks to be licensed] speech-language pathologist in good standing in
+17 any state. Persons applying with an audiology clinical doctoral degree are exempt from this
+18 provision; and
+19 (4) Pass an examination promulgated or approved by the board. The board shall
+20 determine the subject and scope of the examinations.
+
+Section 15:
+376.417. 1. As used in this section, the following terms mean:
+2 (1) "340B drug", the same meaning given to the term in section 376.414;
+3 (2) "Covered entity", any entity described in subparagraphs (A) to (K) of
+4 subsection (a)(4) of Section 340B of the Public Health Service Act, 42 U.S.C. Section
+5 256b, including any pharmacy with which such entity has contracted to dispense 340B
+6 drugs on behalf of the entity;
+HCS SB 1019 12
+7 (3) "Health carrier", the same meaning given to the term in section 376.1350;
+8 (4) "Pharmacy", an entity licensed under chapter 338;
+9 (5) "Pharmacy benefits manager", the same meaning given to the term in section
+10 376.388.
+11 2. A health carrier, a pharmacy benefits manager, or an agent or affiliate of such
+12 health carrier or pharmacy benefits manager shall not discriminate against a covered
+13 entity including, but not limited to, by doing any of the following:
+14 (1) Reimbursing a covered entity for a quantity of a 340B drug in an amount less
+15 than it would pay any other similarly situated pharmacy or entity that is not a covered
+16 entity for such quantity of such drug on the basis that the covered entity is a covered
+17 entity or that the covered entity dispenses 340B drugs. The director of the department
+18 of commerce and insurance shall specify by rule the circumstances under which a
+19 pharmacy or entity shall be deemed a "similarly situated pharmacy or entity" for
+20 purposes of this subdivision;
+21 (2) Imposing any terms or conditions on covered entities that differ from such
+22 terms or conditions applied to other similarly situated entities or pharmacies that are
+23 not covered entities on the basis that the covered entity is a covered entity or that the
+24 covered entity dispenses 340B drugs including, but not limited to, terms or conditions
+25 with respect to any of the following:
+26 (a) Fees, chargebacks, clawbacks, adjustments, or other assessments;
+27 (b) Professional dispensing fees;
+28 (c) Restrictions or requirements regarding participation in standard or
+29 preferred pharmacy networks;
+30 (d) Requirements relating to the frequency or scope of audits or to inventory
+31 management systems using generally accepted accounting principles; and
+32 (e) Any other restrictions, conditions, practices, or policies that, as specified by
+33 the director of the department of commerce and insurance, interfere with the ability of a
+34 covered entity to maximize the value of discounts provided under 42 U.S.C. Section
+35 256b;
+36 (3) Discriminating in reimbursement to a covered entity based on the
+37 determination or indication a drug is a 340B drug;
+38 (4) Requiring a covered entity to identify, either directly or through a third
+39 party, a 340B drug;
+40 (5) Refusing to cover drugs purchased under the 340B drug-pricing program; or
+41 (6) Requiring a covered entity to reverse, resubmit, or clarify a 340B drug-
+42 pricing claim after the initial adjudication unless these actions are:
+HCS SB 1019 13
+43 (a) In the normal course of pharmacy business and not related to 340B drug
+44 pricing; or
+45 (b) Required by federal law.
+46 3. The director of the department of commerce and insurance shall impose a
+47 civil penalty on any health carrier, pharmacy benefits manager, or agent or affiliate of
+48 such health carrier or pharmacy benefits manager that violates the requirements of this
+49 section. Such penalty shall not exceed five thousand dollars per violation per day.
+50 4. The director of the department of commerce and insurance shall promulgate
+51 rules to implement the provisions of this section. Any rule or portion of a rule, as that
+52 term is defined in section 536.010, that is created under the authority delegated in this
+53 section shall become effective only if it complies with and is subject to all of the
+54 provisions of chapter 536 and, if applicable, section 536.028. This section and chapter
+55 536 are nonseverable and if any of the powers vested with the general assembly
+56 pursuant to chapter 536 to review, to delay the effective date, or to disapprove and annul
+57 a rule are subsequently held unconstitutional, then the grant of rulemaking authority
+58 and any rule proposed or adopted after August 28, 2026, shall be invalid and void.
+
+Section 16:
+376.1000. 1. As used in sections 376.1000 to 376.1045, a "multiple employer self-
+2 insured health plan" is any plan or arrangement which is not fully insured and which is either:
+3 (1) Offered by a staff or employee leasing company; or
+4 (2) Established or maintained for the purpose of offering or providing health, dental
+5 or short-term disability benefits to employees of two or more employers and to two or more
+6 self-employed individuals, each with at least one common-law employee, and their
+7 dependents.
+8 2. A plan or arrangement is considered fully insured only if an insurer licensed to
+9 transact business in this state retains the ultimate responsibility for all benefits payable by a
+10 contract or policy of insurance.
+
+Section 17:
+376.1012. Funds collected from the participating employers under multiple employer
+2 self-insured health plans shall be held in trust subject to the following requirements:
+3 (1) A board of trustees elected by participating employers shall serve as fund
+4 managers on behalf of participants. Trustees shall be plan participants. No participating
+5 employer may be represented by more than one trustee. No trustee may represent more than
+6 one employer. A minimum of three and a maximum of seven trustees may be elected.
+7 Trustees may not receive remuneration but they may be reimbursed for actual and reasonable
+8 expenses incurred in connection with duties as trustee. A trustee may not be an agent, or
+9 broker for or an owner, officer or employee of any third-party administrator, insurance agency
+10 or insurer utilized by the plan. The trustees shall have the authority to approve applications of
+HCS SB 1019 14
+11 association members for participation in the arrangement and to contract with a licensed
+12 third-party administrator to administer the day-to-day affairs of the plan;
+13 (2) Each trustee shall be bonded in an amount of not less than one hundred fifty
+14 thousand dollars by a licensed insurer;
+15 (3) Investment of plan funds is subject to the same restrictions which are applicable to
+16 insurers pursuant to sections 376.291 to 376.307; provided, however, that no foreign plan
+17 shall be exempt under section 376.310 from the investment laws of this state unless such plan
+18 is subject to laws in its state of domicile which are substantially similar to sections 376.1032
+19 to 376.1045. All investments shall be managed by a bank or other investment entity licensed
+20 to operate in Missouri;
+21 (4) Trustees, on behalf of the plan, shall file an annual report with the director of the
+22 department of commerce and insurance by March first [showing the condition and affairs of
+23 the plan as of the preceding thirty-first day of December. The report shall be made on forms
+24 prescribed by the director. The report shall summarize the financial condition of the fund,
+25 itemize collections from participating employers, detail all fund expenditures and provide any
+26 additional information which the director requires] in compliance with section 375.041.
+27 More frequent reports may be required at the discretion of the director. The plan shall also
+28 prepare and file an RBC report with the director in compliance with section 375.1252 as
+29 it applies to health organizations, and the provisions of section 375.1267 shall apply to
+30 such RBC reports.
+
+Section 18:
+376.1017. 1. A plan shall establish loss reserves for all incurred losses, both reported
+2 and unreported, and for unearned premiums.
+3 2. A plan also shall establish a surplus account equal to the greater of the following:
+4 (1) [Three times the average paid monthly premium during the plan's most recent
+5 fund year;
+6 (2) For plans which do not yet have one fund year's experience, three times estimated
+7 monthly premium; or
+8 (3)] Six hundred thousand dollars; or
+9 (2) An amount equal to two times the authorized control level risk-based capital,
+10 as that term is defined in section 375.1250.
+
+Section 19:
+376.1280. 1. As used in this section, the following terms mean:
+2 (1) "Acute pain", pain that results from disease, accidental or intentional
+3 trauma, or other causes, that a health care provider reasonably expects to last thirty
+4 days or fewer;
+5 (2) "Chronic pain", pain that is a persistent and long-lasting condition
+6 characterized by discomfort or pain that lasts for more than twelve weeks, often
+7 persisting beyond the expected healing time. It may result from various causes
+HCS SB 1019 15
+8 including, but not limited to, injury, surgery, nerve damage, or underlying medical
+9 conditions;
+10 (3) "Enrollee", the same meaning given to the term in section 376.1350;
+11 (4) "Health benefit plan", the same meaning given to the term in section
+12 376.1350;
+13 (5) "Health care professional", the same meaning given to the term in section
+14 376.1350.
+15 2. Notwithstanding any provision of law to the contrary, when a licensed health
+16 care professional acting within the scope of his or her license prescribes a nonopioid
+17 medication for the treatment of acute or chronic pain to an enrollee, it shall be unlawful
+18 for a health benefit plan to:
+19 (1) Deny coverage of the nonopioid prescription drug in favor of an opioid
+20 prescription drug;
+21 (2) Require the enrollee to try an opioid prescription drug before providing
+22 coverage of the nonopioid prescription drug; or
+23 (3) Require a higher level of cost-sharing for the nonopioid prescription drug
+24 than for an opioid prescription drug.
+25 3. This section shall apply to health benefit plans delivered, issued for delivery,
+26 continued, or renewed on or after January 1, 2027.
+
+Section 20:
+407.3007. 1. As used in this section, the following terms mean:
+2 (1) "Artificial intelligence" or "AI":
+3 (a) Any artificial system that performs tasks under varying and unpredictable
+4 circumstances without significant human oversight or that can learn from experience
+5 and improve performance when exposed to data sets;
+6 (b) An artificial system developed in computer software, physical hardware, or
+7 other computer systems that solves tasks requiring human-like perception, cognition,
+8 planning, learning, communication, or physical action;
+9 (c) An artificial system designed to think or act like a human, including cognitive
+10 architectures and neural networks;
+11 (d) A set of techniques, including machine learning, that is designed to
+12 approximate a cognitive task; or
+13 (e) An artificial system designed to act rationally, including an intelligent
+14 software agent or embodied robot that achieves goals using perception, planning,
+15 reasoning, learning, communicating, decision-making, and acting;
+16 (2) "Mental health professional", the same as defined in section 632.005. The
+17 term "mental health professional" shall also include any person licensed in a profession
+18 regulated under chapter 337.
+HCS SB 1019 16
+19 2. Any person or entity that develops or deploys artificial intelligence in the state
+20 shall not advertise or represent to the public that the AI is or is able to act as a mental
+21 health professional or is capable of providing therapy services, psychotherapy services,
+22 or a mental health diagnosis.
+23 3. Any violation of this section shall be considered an unlawful practice under
+24 the Missouri merchandising practices act under this chapter.
+25 4. The attorney general shall enforce the provisions of this section. Any
+26 individual may report violations of this section to the attorney general. If the attorney
+27 general finds that a violation occurred, the attorney general shall commence a civil
+28 action in a court of competent jurisdiction. If the court finds that a violation occurred,
+29 the court may grant damages, civil penalties, injunctive relief, attorney's fees, and any
+30 such other relief the court finds appropriate. Notwithstanding section 407.100 to the
+31 contrary, civil penalties shall be as follows:
+32 (1) Ten thousand dollars for the first violation; or
+33 (2) Twenty thousand dollars for any subsequent violation.
+
+Section 21:
+632.305. 1. An application for detention for evaluation and treatment at a mental
+2 health facility may be executed by any adult person, who need not be an attorney or
+3 represented by an attorney, on a form provided by the court for such purpose, and shall allege
+4 under oath[, without a notarization requirement,] that the applicant has reason to believe that
+5 the respondent is suffering from a mental disorder and presents a likelihood of serious harm to
+6 himself or herself or to others. The application shall specify the factual information on which
+7 such belief is based and should contain the names and addresses of all persons known to the
+8 applicant who have knowledge of such facts through personal observation.
+9 2. The filing of a written application in court by any adult person, who need not be an
+10 attorney or represented by an attorney, shall authorize the applicant to bring the matter before
+11 the court on an ex parte basis to determine whether the respondent should be taken into
+12 custody and transported to a mental health facility. The application may be filed in the court
+13 having probate jurisdiction in any county where the respondent may be found. If the court
+14 finds that there is probable cause, either upon testimony under oath or upon a review of
+15 affidavits, declarations, or other supporting documentation, to believe that the respondent
+16 may be suffering from a mental disorder and presents a likelihood of serious harm to himself
+17 or herself or others, it shall direct a peace officer to take the respondent into custody and
+18 transport him or her to a mental health facility for detention for evaluation and treatment for a
+19 period not to exceed ninety-six hours unless further detention and treatment is authorized
+20 pursuant to this chapter. Nothing herein shall be construed to prohibit the court, in the
+21 exercise of its discretion, from giving the respondent an opportunity to be heard.
+HCS SB 1019 17
+22 3. A peace officer may take a person into custody for detention for evaluation and
+23 treatment at a mental health facility for a period not to exceed ninety-six hours only when
+24 such peace officer has reasonable cause to believe that such person is suffering from a mental
+25 disorder and that the likelihood of serious harm by such person to himself or herself or others
+26 is imminent unless such person is immediately taken into custody. Upon arrival at the mental
+27 health facility, the peace officer who conveyed such person or caused him or her to be
+28 conveyed shall either present the application for detention for evaluation and treatment upon
+29 which the court has issued a finding of probable cause and the respondent was taken into
+30 custody or complete an application for initial detention for evaluation and treatment for a
+31 period not to exceed ninety-six hours which shall be based upon his or her own personal
+32 observations or investigations and shall contain the information required in subsection 1 of
+33 this section.
+34 4. If a person presents himself or herself or is presented by others to a mental health
+35 facility and a licensed physician, a registered professional nurse or a mental health
+36 professional designated by the head of the facility and approved by the department for such
+37 purpose has reasonable cause to believe that the person is mentally disordered and presents an
+38 imminent likelihood of serious harm to himself or herself or others unless he or she is
+39 accepted for detention, the licensed physician, the mental health professional or the registered
+40 professional nurse designated by the facility and approved by the department may complete
+41 an application for detention for evaluation and treatment for a period not to exceed ninety-six
+42 hours. The application shall be based on his or her own personal observations or
+43 investigation and shall contain the information required in subsection 1 of this section.
+44 5. (1) No notarization shall be required for an application, or for any affidavits,
+45 declarations, or other documents supporting an application, completed or executed by:
+46 (a) A peace officer under subsection 3 of this section;
+47 (b) A licensed physician, mental health professional, or registered professional
+48 nurse under subsection 4 of this section; or
+49 (c) An employee acting on behalf of a hospital, as defined in section 197.020,
+50 under subsections 1 and 2 of this section.
+51 (2) The application and any affidavits, declarations, or other documents supporting
+52 the application shall be subject to the provisions of section 492.060 allowing for declaration
+53 under penalty of perjury.
+
+Section 22:
+632.489. 1. Upon filing a petition pursuant to section 632.484 or 632.486, the judge
+2 shall determine whether probable cause exists to believe that the person named in the petition
+3 is a sexually violent predator. If such probable cause determination is made, the judge shall
+4 direct that person be taken into custody and direct that the person be transferred to an
+5 appropriate secure facility, including, but not limited to, a county jail. If the person is ordered
+HCS SB 1019 18
+6 to the department of mental health, the director of the department of mental health shall
+7 determine the appropriate secure facility to house the person under the provisions of section
+8 632.495.
+9 2. Within seventy-two hours after a person is taken into custody pursuant to
+10 subsection 1 of this section, excluding Saturdays, Sundays and legal holidays, such person
+11 shall be provided with notice of, and an opportunity to appear in person at, a hearing to
+12 contest probable cause as to whether the detained person is a sexually violent predator. At
+13 this hearing the court shall:
+14 (1) Verify the detainee's identity; and
+15 (2) Determine whether probable cause exists to believe that the person is a sexually
+16 violent predator. The state may rely upon the petition and supplement the petition with
+17 additional documentary evidence or live testimony.
+18 3. At the probable cause hearing as provided in subsection 2 of this section, the
+19 detained person shall have the following rights in addition to the rights previously specified:
+20 (1) To be represented by counsel;
+21 (2) To present evidence on such person's behalf;
+22 (3) To cross-examine witnesses who testify against such person; and
+23 (4) To view and copy all petitions and reports in the court file, including the
+24 assessment of the multidisciplinary team.
+25 4. If the probable cause determination is made, the court shall direct that the person be
+26 transferred to an appropriate secure facility, including, but not limited to, a county jail, for an
+27 evaluation as to whether the person is a sexually violent predator. If the person is ordered to
+28 the department of mental health, the director of the department of mental health shall
+29 determine the appropriate secure facility, which may include the department of corrections
+30 or a county jail as set forth in section 632.495, to house the person. The court shall direct the
+31 director of the department of mental health to have the person examined by a psychiatrist or
+32 psychologist as defined in section 632.005 who was not a member of the multidisciplinary
+33 team that previously reviewed the person's records. In addition, such person may be
+34 examined by a consenting psychiatrist or psychologist of the person's choice at the person's
+35 own expense. Any examination shall be conducted in the facility in which the person is
+36 confined. Any examinations ordered shall be made at such time and under such conditions as
+37 the court deems proper; except that, if the order directs the director of the department of
+38 mental health to have the person examined, the director shall determine the time, place and
+39 conditions under which the examination shall be conducted. The psychiatrist or psychologist
+40 conducting such an examination shall be authorized to interview family and associates of the
+41 person being examined, as well as victims and witnesses of the person's offense or offenses,
+42 for use in the examination unless the court for good cause orders otherwise. The psychiatrist
+HCS SB 1019 19
+43 or psychologist shall have access to all materials provided to and considered by the
+44 multidisciplinary team and to any police reports related to sexual offenses committed by the
+45 person being examined. Any examination performed pursuant to this section shall be
+46 completed and filed with the court within sixty days of the date the order is received by the
+47 director or other evaluator unless the court for good cause orders otherwise. One examination
+48 shall be provided at no charge by the department. All costs of any subsequent evaluations
+49 shall be assessed to the party requesting the evaluation.
+
+Section 23:
+632.492. Within sixty days after the completion of any examination held pursuant to
+2 section 632.489, the court shall conduct a trial to determine whether the person is a sexually
+3 violent predator. The trial may be continued upon the request of either party and a showing of
+4 good cause, or by the court on its own motion in the due administration of justice, and when
+5 the respondent will not be substantially prejudiced. At all stages of the proceedings pursuant
+6 to sections 632.480 to 632.513, any person subject to sections 632.480 to 632.513 shall be
+7 entitled to the assistance of counsel, and if the person is indigent, the court shall appoint
+8 counsel to assist such person. The person, the attorney general, or the judge shall have the
+9 right to demand that the trial be before a jury. If the trial is held before a jury, the judge shall
+10 instruct the jury that if it finds that the person is a sexually violent predator, the person shall
+11 be committed to the custody of the director of the department of mental health to be housed
+12 in an appropriate secure facility, as determined by the director of the department of
+13 mental health as set forth in section 632.495, for control, care and treatment. If no demand
+14 for a jury is made, the trial shall be before the court. The court shall conduct all trials
+15 pursuant to this section in open court, except as otherwise provided for by the child victim
+16 witness protection law pursuant to sections 491.675 to 491.705.
+
+Section 24:
+632.495. 1. The court or jury shall determine whether, by clear and convincing
+2 evidence, the person is a sexually violent predator. If such determination that the person is a
+3 sexually violent predator is made by a jury, such determination shall be by unanimous verdict
+4 of such jury. Any determination as to whether a person is a sexually violent predator may be
+5 appealed.
+6 2. If the court or jury determines that the person is a sexually violent predator, the
+7 person shall be committed to the custody of the director of the department of mental health for
+8 control, care and treatment until such time as the person's mental abnormality has so changed
+9 that the person is safe to be at large. Such control, care and treatment shall be provided or
+10 arranged by the department of mental health in an appropriate secure facility, as
+11 determined by the director of the department of mental health as set forth in this
+12 section.
+13 3. At all times, persons ordered to the department of mental health after a
+14 determination by the court that such persons may meet the definition of a sexually violent
+HCS SB 1019 20
+15 predator, persons ordered to the department of mental health after a finding of probable cause
+16 under section 632.489, and persons committed for control, care and treatment by the
+17 department of mental health pursuant to sections 632.480 to 632.513 shall be kept in a secure
+18 facility designated by the director of the department of mental health and such persons shall
+19 be segregated at all times from any other patient under the supervision of the director of the
+20 department of mental health. The department of mental health shall not place or house a
+21 person ordered to the department of mental health after a determination by the court that such
+22 person may meet the definition of a sexually violent predator, a person ordered to the
+23 department of mental health after a finding of probable cause under section 632.489, or a
+24 person committed for control, care, and treatment by the department of mental health,
+25 pursuant to sections 632.480 to 632.513, with other mental health patients. The provisions of
+26 this subsection shall not apply to a person who has been conditionally released under section
+27 632.505.
+28 4. The department of mental health is authorized to enter into an interagency
+29 agreement with the department of corrections for the confinement of [such] persons ordered
+30 to the department of mental health after a determination by the court that such persons
+31 may meet the definition of a sexually violent predator or for the confinement of persons
+32 ordered to the department of mental health after a finding of probable cause under
+33 section 632.489, provided the department of corrections has necessary space and
+34 services available and the director of the department of corrections has agreed to
+35 provide such confinement through an interagency agreement with the department of
+36 mental health. Such persons who are in the confinement of the department of corrections
+37 pursuant to an interagency agreement shall be housed and managed separately from offenders
+38 in the custody of the department of corrections, and except for occasional instances of
+39 supervised incidental contact, shall be segregated from such offenders. If the department of
+40 mental health and the department of corrections have entered into an interagency
+41 agreement as provided in this subsection, the department of corrections is authorized to
+42 enter into one or more contract agreements as may be necessary to perform the agreed
+43 upon responsibilities of the department of corrections under the interagency agreement
+44 including, but not limited to, a contract agreement with one or more licensed
+45 professionals or providers of health care services to provide health care services to the
+46 persons identified in this subsection.
+47 5. The department of mental health is authorized to enter into a contract agreement
+48 with one or more county jails in Missouri for the confinement of persons ordered to the
+49 department of mental health after a determination by the court that such persons may meet the
+50 definition of a sexually violent predator or for the confinement of persons ordered to the
+51 department of mental health after a finding of probable cause under section 632.489. Such
+HCS SB 1019 21
+52 persons who are in the confinement of a county jail pursuant to a contract agreement shall be
+53 housed and managed separately from offenders in the custody of the county jail, and except
+54 for occasional instances of supervised incidental contact, shall be segregated from such
+55 offenders.
+56 6. The department of mental health is authorized to enter into an interagency
+57 agreement with the department of corrections for the control and care, including health
+58 care services, of persons committed to the department of mental health by the court as a
+59 sexually violent predator, provided the department of corrections has necessary space
+60 and services available and the director of the department of corrections has agreed to
+61 provide such control and care through an interagency agreement with the department
+62 of mental health. Such persons who are in the control and care of the department of
+63 corrections under an interagency agreement shall be housed and managed separately
+64 from offenders in the custody of the department of corrections, and except for
+65 occasional instances of supervised incidental contact, shall be segregated from such
+66 offenders. If the department of mental health and the department of corrections have
+67 entered into an interagency agreement as provided in this subsection, the department of
+68 corrections is authorized to enter into one or more contract agreements as may be
+69 necessary to perform the agreed upon responsibilities of the department of corrections
+70 under the interagency agreement including, but not limited to, a contract agreement
+71 with one or more licensed professionals or providers of health care services to provide
+72 health care services to the persons identified in this subsection.
+73 7. The department of mental health is authorized to enter into a contract
+74 agreement with one or more licensed professionals or providers of health care or mental
+75 health care services to provide health care or mental health care services to persons
+76 ordered to the department of mental health after a determination by the court that such
+77 persons may meet the definition of a sexually violent predator, persons ordered to the
+78 department of mental health after a finding of probable cause under section 632.489,
+79 and persons committed for control, care, and treatment by the department of mental
+80 health under sections 632.480 to 632.513.
+81 8. If the court or jury is not satisfied by clear and convincing evidence that the person
+82 is a sexually violent predator, the court shall direct the person's release.
+83 [7.] 9. Upon a mistrial, the court shall direct that the person be held at an appropriate
+84 secure facility, including, but not limited to, a county jail, until another trial is conducted. If
+85 the person is ordered to the department of mental health, the director of the department of
+86 mental health shall determine the appropriate secure facility to house the person. Any
+87 subsequent trial following a mistrial shall be held within ninety days of the previous trial,
+88 unless such subsequent trial is continued as provided in section 632.492.
+HCS SB 1019 22
+
+Section 25:
+632.504. Nothing in sections 632.480 to 632.513 shall prohibit a person from filing a
+2 petition for release pursuant to sections 632.480 to 632.513. However, if a person has
+3 previously filed a petition for release without the [director's] director of the department of
+4 mental health's approval and the court determined either upon review of the petition or
+5 following a hearing that the petitioner's petition was frivolous or that the petitioner's condition
+6 had not so changed that the person was safe to be at large, then the court shall deny the
+7 subsequent petition unless the petition contains facts upon which a court could find the
+8 condition of the petitioner had so changed that a hearing was warranted. Upon receipt of a
+9 first or subsequent petition from committed persons without the director's approval, the court
+10 shall endeavor whenever possible to review the petition and determine if the petition is based
+11 upon frivolous grounds and if so shall deny the petition without a hearing.
+
+Section 26:
+632.520. 1. For purposes of this section, the following terms mean:
+2 (1) "Employee of the department of mental health", a person who is an employee of
+3 the department of mental health, an employee or contracted employee of a subcontractor of
+4 the department of mental health, or an employee or contracted employee of a subcontractor of
+5 an entity [responsible for confining offenders] under an interagency agreement or contract
+6 with the department of mental health as authorized by section 632.495;
+7 (2) "Offender", a person ordered to the department of mental health after a
+8 determination by the court that the person meets the definition of a sexually violent predator,
+9 a person ordered to the department of mental health after a finding of probable cause under
+10 section 632.489, or a person committed for control, care, and treatment by the department of
+11 mental health under sections 632.480 to 632.513;
+12 (3) "Secure facility", a facility operated by the department of mental health or an
+13 entity [responsible for confining offenders] designated by the department of mental health
+14 to confine offenders or provide control and care to offenders as authorized by section
+15 632.495.
+16 2. No offender shall knowingly commit violence to an employee of the department of
+17 mental health or to another offender housed in a secure facility. Violation of this subsection
+18 shall be a class B felony.
+19 3. No offender shall knowingly damage any building or other property owned or
+20 operated by the department of mental health. Violation of this subsection shall be a class D
+21 felony.
+
+Section 27:
+632.580. The definitions set forth in section 632.005 shall apply to sections
+2 632.580 to 632.610. In addition, as used in sections 632.580 to 632.610, unless the context
+3 clearly requires otherwise, the following terms mean:
+4 (1) "Assisted outpatient treatment", court-ordered involuntary outpatient
+5 mental health care services that are provided by a mental health program under a
+HCS SB 1019 23
+6 treatment plan developed and monitored by a master's level mental health professional.
+7 Such services may include, but are not limited to:
+8 (a) Case management;
+9 (b) Medication management;
+10 (c) Therapy or counseling;
+11 (d) Substance use treatment, if applicable;
+12 (e) Crisis intervention services; and
+13 (f) Assistance with housing, employment, or other community resources
+14 necessary for an individual's stability;
+15 (2) "Case manager", a mental health professional employed by a certified
+16 community mental health center who is assigned to a respondent to oversee the
+17 respondent's compliance with the outpatient treatment plan ordered by the court under
+18 sections 632.580 to 632.610;
+19 (3) "Community mental health center", the same meaning given to the term in
+20 section 205.975;
+21 (4) "Comprehensive mental health services", the same meaning given to the
+22 term in section 205.975;
+23 (5) "Local public health agency", a county health center board established
+24 under chapter 205, a county health department, a combined city and county health
+25 department or agency, a multicounty health department or agency, or any other county
+26 health authority;
+27 (6) "Petition", a petition for assisted outpatient treatment filed under section
+28 632.585 or for continued assisted outpatient treatment filed under section 632.600;
+29 (7) "Respondent", a person who is alleged in a petition to meet the criteria for
+30 assisted outpatient treatment in section 632.590;
+31 (8) "Service area", the same meaning given to the term in section 205.975.
+
+Section 28:
+632.585. 1. A petition for an order authorizing assisted outpatient treatment
+2 may be filed by:
+3 (1) The director, administrator, or treating physician of a mental health program
+4 in which the respondent is hospitalized;
+5 (2) The director, administrator, or treating physician of an emergency receiving
+6 center in which the respondent is receiving services;
+7 (3) A licensed physician, a registered professional nurse designated by the
+8 community mental health center and approved by the department of mental health, or a
+9 mental health professional from whom the respondent is receiving services;
+10 (4) The appointed guardian or limited guardian of a ward who is the
+11 respondent; or
+HCS SB 1019 24
+12 (5) The department of health and senior services, the department of mental
+13 health, or any local public health agency located within the probate jurisdiction in which
+14 the petition is filed.
+15 2. The petition may be filed in the court having probate jurisdiction in which the
+16 respondent is present or reasonably believed to be present or in the probate jurisdiction
+17 in which the respondent resides.
+18 3. The petition shall allege under oath, without a notarization requirement, that
+19 the petitioner has reason to believe that the respondent meets the criteria for assisted
+20 outpatient treatment in section 632.590. The petition shall specify factual information
+21 on which such belief is based and shall contain the names and addresses of all persons
+22 known to the petitioner who have knowledge of such facts through personal observation.
+23 4. No notarization shall be required for a petition or for any affidavits,
+24 declarations, or other documents supporting a petition. The petition and any affidavits,
+25 declarations, or other documents supporting the petition shall be subject to the
+26 provisions of section 492.060 allowing for declaration under penalty of perjury.
+27 5. The prosecuting attorney of the county in which a hearing on a petition takes
+28 place shall represent the petitioner and file and prosecute in court all petitions. Such
+29 duty shall be fulfilled by the county counselor in counties having a county counselor and
+30 by the circuit attorney in any city not within a county.
+
+Section 29:
+632.590. Following receipt of a petition and completion of the procedures
+2 required in section 632.593, a court may issue an order requiring a respondent to
+3 participate in assisted outpatient treatment if:
+4 (1) The respondent:
+5 (a) Is eighteen years of age or older;
+6 (b) Is suffering from a mental illness;
+7 (c) Will not obtain treatment in the community voluntarily; and
+8 (d) Is unable to make an informed decision to seek or to comply with voluntary
+9 treatment; and
+10 (2) Either:
+11 (a) Because of the respondent's fulfillment of the criteria of subdivision (1) of
+12 this section, the respondent requires treatment to prevent a deterioration in the
+13 respondent's mental illness that would be likely to result in serious harm to the
+14 respondent or others as described in section 632.305; or
+15 (b) The respondent has a history of a lack of compliance with treatment for the
+16 respondent's mental illness, and within the thirty-six months immediately preceding the
+17 date of the filing of the petition such lack of compliance has either:
+HCS SB 1019 25
+18 a. At least twice, been a significant factor in necessitating a civil detention period
+19 for treatment instituted under sections 632.120 or 632.305 or receipt of services in a
+20 forensic or other mental health unit of any state or local correctional facility, not
+21 including any period during which the respondent was hospitalized or incarcerated
+22 immediately preceding the date of the filing of the petition; or
+23 b. Resulted in one or more acts of violent behavior with the intention of causing
+24 serious physical injury toward self or others or threats of, or attempts of, serious
+25 physical harm to self or others, not including any period during which the respondent
+26 was hospitalized or incarcerated immediately preceding the date of the filing of the
+27 petition.
+
+Section 30:
+632.593. 1. At the time of filing the petition, the court clerk shall set a date and
+2 time for the hearing, which shall take place within two judicial days of the filing of the
+3 petition. An attorney shall be appointed to represent the respondent as required under
+4 section 632.450 from the register of attorneys described in section 632.415. An attorney
+5 so appointed shall be entitled to attorney's fees to the same extent as allowed under
+6 section 632.415. The clerk shall promptly notify the respondent, the respondent's
+7 attorney, the petitioner, and the petitioner's attorney of the date and time for the
+8 hearing. The court shall not grant continuances except upon a showing of good and
+9 sufficient cause.
+10 2. The hearing shall be conducted in as informal a manner as may be consistent
+11 with orderly procedure and in a physical setting not likely to have a harmful effect on
+12 the respondent. The respondent shall have the following rights in addition to those
+13 specified elsewhere:
+14 (1) To be represented by an attorney;
+15 (2) To present evidence on his or her own behalf;
+16 (3) To cross-examine witnesses who testify against him or her;
+17 (4) To remain silent;
+18 (5) To view and copy all petitions and reports in the court file of his or her case;
+19 (6) To have the hearing open or closed to the public as he or she elects;
+20 (7) To be proceeded against according to the rules of evidence applicable to civil
+21 judicial proceedings; and
+22 (8) To have the hearing before a jury if requested by the respondent or his or her
+23 attorney.
+24 3. The respondent shall be present at the hearing unless the respondent's
+25 physical condition is such that he or she cannot be present in the courtroom or if the
+26 court determines that the respondent's conduct in the courtroom is so disruptive that
+27 the proceedings cannot reasonably continue.
+HCS SB 1019 26
+28 4. The burden of proof at the hearing shall be by clear and convincing evidence
+29 and shall be upon the petitioner.
+30 5. If the matter is tried before a jury, the jury shall determine and shall be
+31 instructed only upon the issue of whether the respondent meets the criteria for assisted
+32 outpatient treatment in section 632.590. The remaining procedures for the jury trial
+33 shall be as in other civil matters.
+34 6. The respondent shall not be required to file an answer or other responsive
+35 pleading.
+36 7. At the conclusion of the hearing, if the court or jury finds, based upon clear
+37 and convincing evidence, that the respondent meets the criteria for assisted outpatient
+38 treatment in section 632.590, and the court finds that a mental health program
+39 appropriate to handle the respondent's condition has agreed to accept the respondent,
+40 the court shall issue an order requiring the respondent to participate in assisted
+41 outpatient treatment with the mental health program for a period not to exceed two
+42 years.
+43 8. At the conclusion of the hearing, if the court or jury does not find by clear and
+44 convincing evidence that the respondent meets the criteria for assisted outpatient
+45 treatment in section 632.590, the court shall dismiss the petition.
+46 9. An order requiring the respondent to participate in assisted outpatient
+47 treatment based on satisfaction of the provisions of subparagraph a. of paragraph (b) of
+48 subdivision (2) of section 632.590 shall not be issued unless the court has considered, or
+49 the jury has been instructed to consider, at least the following factors:
+50 (1) The respondent's ability to access finances in order to obtain food or
+51 medicine;
+52 (2) The respondent's ability to obtain treatment for the respondent's medical
+53 condition;
+54 (3) The respondent's ability to access necessary resources in the community
+55 without assistance;
+56 (4) The degree to which there are risks to the respondent's safety;
+57 (5) The likelihood that the respondent will decompensate without immediate
+58 care or treatment;
+59 (6) The respondent's previous attempts to inflict physical injury on self or
+60 others;
+61 (7) The respondent's history of behavioral health treatment in the community;
+62 (8) The respondent's patterns of decompensation in the past;
+63 (9) The respondent's risk of being victimized or harmed by others; and
+64 (10) The respondent's access to the means to inflict harm on self or others.
+HCS SB 1019 27
+65 10. Nothing in this section shall prevent the court or jury from considering any
+66 other factor not described in this section.
+67 11. If requested by the respondent, the court shall appoint an available licensed
+68 physician or licensed psychologist to examine the respondent and testify at the
+69 respondent's request. If the respondent or the respondent's attorney so requests, the
+70 court shall not appoint a licensed physician or licensed psychologist who is an employee
+71 of any entity in which the respondent is hospitalized or receiving services or who is an
+72 employee of any entity that filed the petition. The appointment procedures in section
+73 632.420 shall apply to any appointment under this subsection.
+74 12. The physician-patient privilege recognized by section 491.060 and the
+75 psychologist-patient privilege recognized by section 337.055 shall be deemed waived in
+76 proceedings under sections 632.580 to 632.610. The fact that such privileges have been
+77 waived in accordance with this section shall not by itself waive the privileges in any
+78 other proceeding, civil or criminal. The waiver of the privileges shall extend only to that
+79 evidence that is directly material and relevant to the proceedings under sections 632.580
+80 to 632.610.
+81 13. Appeals from court orders under this section may be made as described in
+82 section 632.430.
+83 14. Assisted outpatient treatment shall not be deemed outpatient detention for
+84 purposes of this chapter, and no provision of this chapter relating to the requirements
+85 for inpatient or outpatient detention proceedings shall apply to assisted outpatient
+86 treatment under sections 632.580 to 632.610 unless such provision has been specifically
+87 incorporated into sections 632.580 to 632.610 by reference or otherwise.
+88 15. The provisions of section 632.440 shall apply to assisted outpatient treatment
+89 under sections 632.580 to 632.610.
+
+Section 31:
+632.595. 1. The court shall assign a case manager from a certified community
+2 behavioral health clinic to each respondent ordered to participate in assisted outpatient
+3 treatment.
+4 2. The case manager and the respondent shall report to the court at least once
+5 every ninety days. The court may, at its discretion, request more frequent appearances.
+6 The case manager shall immediately report to the court a substantial failure of the
+7 respondent or the mental health program providing the assisted outpatient treatment to
+8 comply with the conditions of the assisted outpatient treatment.
+
+Section 32:
+632.600. 1. The court order for assisted outpatient treatment shall expire at the
+2 end of the period specified in the order unless a petition for an extension has been filed.
+3 If any person or entity authorized to file a petition under section 632.585 determines
+4 that a respondent requires further involuntary assisted outpatient treatment, the person
+HCS SB 1019 28
+5 or entity shall file a petition for continued assisted outpatient treatment before the
+6 expiration of the involuntary assisted outpatient treatment ordered by the court.
+7 2. The procedure for obtaining an extension shall be the same as for obtaining
+8 the original order, except that the thirty-six-month time period provided in paragraph
+9 (b) of subdivision (2) of section 632.590 shall not be applicable in determining the
+10 appropriateness of an extension.
+
+Section 33:
+632.605. 1. During the period of an order for assisted outpatient treatment, if
+2 the mental health program or mental health professional who is providing the
+3 respondent's assisted outpatient treatment determines that the respondent is not
+4 complying with the court order, the mental health program or mental health
+5 professional shall notify the court immediately.
+6 2. If it comes to the attention of the court that a respondent subject to an order of
+7 assisted outpatient treatment is not complying with the order, the court may require one
+8 or more of the following, without a hearing:
+9 (1) That the respondent be taken for evaluation to a community mental health
+10 center providing comprehensive mental health services to individuals residing in the
+11 service area in which the respondent resides;
+12 (2) That the respondent be hospitalized in a psychiatric hospital for a period of
+13 not more than ten days; and
+14 (3) Upon recommendation by the community mental health center providing
+15 comprehensive mental health services to individuals residing in the service area in which
+16 the respondent resides, that the individual be hospitalized for a period of more than ten
+17 days, but not longer than the duration of the order for assisted outpatient treatment, or
+18 not longer than ninety days, whichever is less.
+19 3. The court may direct peace officers to transport the respondent to a
+20 designated facility or a community mental health center, as applicable, and the court
+21 may specify conditions under which the respondent may return to assisted outpatient
+22 treatment before the order expires. Reimbursement for transportation costs shall be
+23 allowed as provided under section 632.312.
+24 4. A respondent hospitalized without a hearing as provided in subsection 2 of
+25 this section may object to the hospitalization. Upon transfer of the respondent to the
+26 hospital, the hospital shall notify the respondent of his or her right to object under this
+27 section. Upon receipt of an objection to the hospitalization, the court shall schedule a
+28 hearing for a determination that the individual requires hospitalization. The
+29 respondent shall have all rights specified in section 632.593 at the hearing. The court
+30 shall order the respondent discharged from hospitalization unless the court or jury
+31 finds, based upon clear and convincing evidence, that the respondent requires
+HCS SB 1019 29
+32 hospitalization as a result of the respondent's failure to comply with the order for
+33 assisted outpatient treatment.
+
+Section 34:
+632.610. Beginning December 1, 2028, the office of state courts administrator
+2 shall submit an annual report to the general assembly summarizing:
+3 (1) The number of individuals subject to orders for assisted outpatient
+4 treatment;
+5 (2) Statistics on compliance and noncompliance rates with assisted outpatient
+6 treatment; and
+7 (3) Any impact that assisted outpatient treatment has on hospitalization and
+8 incarceration rates.
+✔
+[DELETED:  B N 1CJ 3 6 6 6 6 6 a 6 S3R a r a t n s e i l t t b k as3 3 3 3 3 3 3 4 666 Tsiypsfd i o o f t o o t h [ a U Si()A m f t i i s b o r e o ac()B()O0i1()A—M i e]
+[DELETED: 2()M3()A4s6T7d82 T9( Rep0c1( Rep2f 1 Alttpo2 Ico0h1t 1 P l u c 3 w u t ser T( Anae( C w a p o t p d w h aet( A0e a i a w e s o p a t1p22 I3(4tna5tep ]
+[DELETED: 6( P t p t i i p o p7c u A X o t M C a p w u8tetsr9m0p [ Ayq c b t p w v t i o1t233t t m e h b p i p o s4qed n c a a m [ ena5e6()A p t u a q t e a p7r8t93.A0b1f2t3()T4()T5()T6()A 1 Tc d w a M a o a n p h a opi d t p t h a w o t r o t s Scsr2 Wd a s p t g a w a a r a0a o a a a g f r a e b t1d2m E h s d i a p p w t wrs w t f t i a c l " A AH ]
+[DELETED: OPB 1 A h d b w a o s d e ict a e a h o p t [ 9 2 o t cpe a o a b l s h a e t fg p a a o p i n c o dt( Tc0i1t2o3(4l a l i i l a t a i p p u o5u t l e d e o6i o a h o h f T a m b b d7p8( T9a e i c f t u o o m o a h o h0f1a2o3h o h f A a e i p t t s4p5t p b t s n p t t f e i a r o t6a7t8( T f c a c r f a c f t u o9o0m a o o s f b t h o h f1a2(3i f t p o a a o i c p s t ]
+[DELETED: 4c5t6( T7c8t9c0( T1t2s3t4w w d a o t r a r s e t e t5p6t7( T8t9e0( T1h2p32 T4r r a c o t d a u s r t a5c63 A7m8t94 N0a t d o b e e a r o r i r t1h o t o o m o s h o a h f2w i j w i i c w a f o s l o r3a 1 To2 m i u t f p o i f n r f id( m f t i i s b o r e o ac( B ]
+[DELETED: ( Oi0( A1( M2( A3s5T6d72 T8l.1 A( "lt d c a t o i p a t a n fe( "w( " H t M p a b t s oM0( "1c2p m j i a l3a42 T p c o c p s p b a5h6H73 T8c94 T r a f t p c o c0p s s b s a n l t t p o t a M1H25 P3m d t t l p p t s o t t e t4l56 I6t ]
+[DELETED: 7I8o f a i r m o p o a9a0t N1i2a37 T4r A5t6s s b e o i i c w a i s t a o t7p T85 a n a i a o t p v w t g a9p0a1a F( " a l c r p a o moa( "C G M C N S F N G a a o mba Sm0( "1i2o3d4i5p6t7( "8( A9S0w1d2c ]
+[DELETED: 3( A4a5s o M a w w b a M l e o u t6c7( "8i9( " m o l e s a s o a a d0m1b2t3h42 A5u6b7l8w9l0s13 T2( W3s4s5a w e a c s r i e a t o6[nv7c A8l9t0( W1s2e s w a e e o e r f3l4s54 ( T o b s n w a e e o6e r f a a w h h h o h l r b a7o8p9o ]
+[DELETED: 0g1d2t3s4( I a j h t d a a a a t5o b s d i t c f t a w c a t m6r I7d85 N9a0o16 A2t j a a r t3p A4l5t6s7l87 T9p0l18 T s s n a t b p o o l2i39 T4r51 T6b o a r p p t a i o i7c a b M s o a r a w o s i8e a w p t s s b i s a t i n c9b01 N1s2c A3n41 p o t s s n a t a o s f i5s6t ]
+[DELETED:  1 Pt t a d i s 1 o t i a p se a v p r a d i s 1 Tr( Oc,pwt( H s [ eew t p r t0o1( I2( M3p4a5( M6r72 T8p9( A0( A1( H213( Adi4s5( C6( C7( C w a p w h a o p8r w t p a w h a t s t p t9i0( O13 N2c3t t t e t a p o s p o4d o a a p r n a p a o a a5p6d7pee 1]
+[DELETED: 8o9t04 N1t2a35 M r o a d c s o o t4p t t a d i s 1 s b c5s a m i a w t H I P a6A7f8c Ts s t a f a s f e o s p cc( H a m o a d d f a p t w a"tb( Sp0e t t r b t C o A A o t A1S2( P3T4o T5d6w7a P8p9( P T0d 1 A( "( " e a e d i s ( t ( os2d 1]
+[DELETED: ( "( "( "0312 A2h3e4( R5t6e7e T8o c a i s s b r t c u w a9p o e s b d a " s p o e f0p1( I2t3n4c5w6( F7( P8( R o r r p i s o9p0( R1m2( A3t4c e t m t v o d p u 4 U S526( D i r t a c e b o t7d8( R a c e t i e d o t a t9p0( R1( a c e t r r o c a 3 d2p 1]
+[DELETED: 3( I4p5( R63 T7c8s9s S04 T1r A2t3s s b e o i i c w a i s t a o t4p T55 a n a i a o t p v w t g a6p7a8a 1 Ai( O( Eos i e w a l o c e a td2 At0c Fs( A b o t e b p e s s a fm T Ne No e A m o t a a m o s t m b eTe Ab0o T 1]
+[DELETED: 1a m f p i t a a t c w a l2t3( E4t5( I6i7s8i9t A0t1( T2d3t T4p T5i6a i w t d r i c w s 37M T8p9i0s 1 Aa2 A( [f()Fm( S()A0a 1 A( " p p t r f d a o itd( p p t i a p a l cc b d o p t l f m t t w op b t e h t I m r f v c 1]
+[DELETED: i b n l t i s n d o u mc0( "1( " b p t s m g t t t i s233( "4352 N6c7m8f9( D c o t n p d i f o a o0p1( R t e t t a o p d b p2c3(4t53 T6c.1 A( "( Aca( Aop( A0a1( A s o t i m l t i d t2a3( A a s d t a r i a i4s a o e r t a g u p p5r6( T7t8r 1]
+[DELETED: 92 A0s1h2o33 A4t54 T a g s e t p o t s A6i I7g f t a v o t a g s c a c8a I9t0s N1c2( T3( T Ah f m b e b a a p w n n b a a oruth Tsa2 T0a1t c o a e p b t d w t r s b t i2c T3h I4f t t i p c e u t u o o u a r o5a d o o s d t b t t r6m7o8t9p0p t t c N h s b c t p t c i t1e 1]
+[DELETED: 23 A3t4s5d6i U7h f t p o w c s p o c h o h t b8c9w0c1p2o3t44 I5f a a l p a r p n o a m h6p7p8i l o s h t h o h o o u h o s i9a0p1a2h T a s b b o h o h o p o o3i45 ( N,o5d6( A7( A8n9( A0u1( T2t3u 1 Usi Id t p b t i c a d t t p b t t aa I 1]
+[DELETED: t t d o m h t d o t d o m h sd62 W s h a a p i t i c p t0s1s p n o a a p a a t2c A3t4( V5( D6v p T s m r u t p a s t p w7a83 A t p c h a p i s 2 o t s t9d0( T1(2( T3( T v a c a p a r i t c f i t4a54 I6t7e I8t d o m h t d o t d o m h s9d0ora T1d2p3t t p r t p r I a s p m b4e5o A6c A7t8m9c T0c1p2f T 1]
+[DELETED: 3o p s h a t a m p t a c b t4m5p b e A e p p t t s s b6c7d O8s A9s Wsv Tgt Atec Tr I0i1b2i3m,f I4f a j i m t t s b b t c T c s c a t5p6w 1 T c o j s d w b c a ce Iso Aa2 Ipct S0adb t d o m h i a a s f a1d b t d o t d o m h a s f i t2s33 A a t p o t t d o m h a a4d 1]
+[DELETED: 5p6u s 6 a p c f c c a t b t7d8f9b0d T1p2p m m t d o a s v p a p o t t3d4p c f c c a t b t d o m h5p T6t7684 T d o m h i a t e i a i9a0t1m2o3s 6 p t d o c h n s a4s a a t d o t d o c h a t5p6m S7p8i t c o t d o c a e f o i o9s I0m h a t d o c h e i a i1a2e3u4i b n l t a c a w o o m l5p6p75 T8w o o m c j i M f t c o p o t t9d0d1d S 2]
+[DELETED: 2p3h4f o i o s i c s b s f s5o66 T7a8c9s0a1p2o S3c4f o i t c o t d o c a e f5o i o s i c s b s f s6o I7e8c i a t e i o o m c a a m b9n0u1w2h37.T d o m h i a t e i a c4a5h6o7p8d9a0h18.I2i3[.U4s I5t6m h s d t a s f t h t p A7s8u 2]
+[DELETED:  Np f r p t s 6 t 6 H i a p hpm hsa a t c d e u r o t p ofhs p u t p c f u w a c c f tc Uf0s1u 1 F( "ttawha( " a p o t t d o m h a ada0s1m2( "3e4tsa5662 N7m V8s93 N0o V1f T d s f i s 6 s a t s6 Ic( " o t c i om h c s t a p b a m h p u a 2]
+[DELETED: tS( C( M0( T1( S2( C3( A w h e o o c r4n5( " m a m h p e b a c6c m h c w i a t a r t o t7r8s9( "0s1( m h s t s m g t t2t3( " p h a a c h c b e4u c 2 a c h d a c c a c h5d6h7( "869( "0a1( " 1 Am( Ti( Tc( A l p a r p n d b tcm0( T a g o l g o a w w i t1r 2]
+[DELETED: 2( T d o h a s s t d o m3h4t52 T6r7i83 T9t0o T1o2k34 N n s b r f a p o f a a4d T5d o o d s t p s b s t t6p758p S9d0b F r o a p a c o t pr i s 6 a c m i a o r a r tp( T( I( I( W( It0( E1( B2t s t r r t t p a d i t3r m i t w b l t r i s h t t4r5( T6r7d 2]
+[DELETED: 8a A9f0f o o m h u o a s o l c f n1i a p d w t r w h o i2i3b R4s p i t s o o o t o o a o s5p6w h o i i p t d o t f o t7p 1 Atp As Ass 6 T c s p n t r t ra t p a t p a o t d a t f th Ts02 T1w2t r T r s h t f r i a t t3s4( T5( T6( T7( T8( T9( T0( T1j2( T3a43 T r s b p a t h u t r5p6c7t 2]
+[DELETED: 84 T9a05 I t m i t b j t j s d a s b1i2o T3s46 T5p67 A7a8t i s 6 a t c f t a m h p9a0t c s i a o r t r t p i a1o2y384c e t t r m t c f a o5t69 A o r t r t p i a o7t8s9t0( T r a t a f i o t o f o1m2( T3c4( T r a t a n r i t c5w6( T7( T l t t r w d w i8c9( T r p a t i p i o s o0o1( T2(3( T4( T 2]
+[DELETED: 51 N6o71 I8p o l p t e t r a t a t9r I0c1o2e T3641 T p p r b s 4 a t5p6p T7w8o T9e0t11 A2s31 A4p5f i o o d p s a t a o6t7i81 T9u 1 Tbt2 Te TT c m s i r t t c a s f o trc 1 TeIt 2]
+[DELETED: o e s f a p f c a o t b te2 Tt( o s ( o s 6 s n b a i d t0a 1 Dt m h p o m h p w i p tr a o t d t t r i nc w t c o t m h p o m hp2 Iao( T0c c m h s t i r i t1s2( T3n4( U b5c6t7d8n93 T c m d p o t t t r t a0d1m2t R3a44 A5t U6h7s U8h f a d t t i r h T9r T0s o t r d f h u t c o j1f b u c a c e t t r r 2]
+[DELETED: 2h a a r o t r f t c w t o f3a Bs( T n o i s t o f a ot( St( A i t a o t h o h ai 2]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+HOUSE COMMITTEE SUBSTITUTE FOR
+SENATE BILL NO. 1019
+103RD GENERAL ASSEMBLY
+4774H.04C JOSEPH ENGLER, Chief Clerk
+AN ACT
+To repeal sections 96.192, 96.196, 191.1146, 206.110, 324.009, 334.108, 345.050, 376.1000,
+376.1012, 376.1017, 632.305, 632.489, 632.492, 632.495, 632.504, and 632.520,
+RSMo, and to enact in lieu thereof thirty-one new sections relating to health care, with
+penalty provisions.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Sections 96.192, 96.196, 191.1146, 206.110, 324.009, 334.108, 345.050,
+2 376.1000, 376.1012, 376.1017, 632.305, 632.489, 632.492, 632.495, 632.504, and 632.520,
+3 RSMo, are repealed and thirty-one new sections enacted in lieu thereof, to be known as
+4 sections 96.192, 96.196, 191.1146, 192.021, 197.708, 206.110, 206.158, 208.149, 324.009,
+5 334.108, 345.050, 376.417, 376.1000, 376.1012, 376.1017, 376.1280, 407.3007, 632.305,
+6 632.489, 632.492, 632.495, 632.504, 632.520, 632.580, 632.585, 632.590, 632.593, 632.595,
+7 632.600, 632.605, and 632.610, to read as follows:
+96.192. 1. The board of trustees of any hospital authorized under subsection 2 of this
+2 section, and established and organized under the provisions of sections 96.150 to 96.229, may
+3 invest up to [twenty-five] fifty percent of [the hospital's] its funds not required for immediate
+4 disbursement in obligations or for the operation of the hospital [in any United States
+5 investment grade fixed income funds or any diversified stock funds, or both] into:
+6 (1) Any mutual funds that invest in stocks, bonds, or real estate, or any
+7 combination thereof;
+8 (2) Bonds that have:
+9 (a) One of the five highest long-term ratings or the highest short-term rating
+10 issued by a nationally recognized rating agency; and
+11 (b) A final maturity of ten years or less;
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HCS SB 1019 2
+12 (3) Money-market investments; or
+13 (4) Any combination of investments described in subdivisions (1) to (3) of this
+14 subsection.
+15
+16 The board shall invest the remaining percentage of funds not required for immediate
+17 disbursement into any investment in which the state treasurer is allowed to invest.
+18 2. The provisions of this section shall only apply if the hospital:
+19 (1) Receives less than [one] three percent of its annual revenues from municipal,
+20 county, or state taxes; and
+21 (2) Receives less than [one] three percent of its annual revenue from appropriated
+22 funds from the municipality in which such hospital is located.
+96.196. 1. A hospital organized under this chapter may purchase, operate or lease, as
+2 lessor or lessee, related facilities or engage in health care activities, except in counties of the
+3 third or fourth classification (other than the county in which the hospital is located) where
+4 there already exists a hospital organized pursuant to this chapter [and chapter 205 or 206];
+5 provided, however, that this exception shall not prohibit the continuation of existing activities
+6 otherwise allowed by law.
+7 2. If a hospital organized pursuant to this chapter accepts appropriated funds from the
+8 city during the twelve months immediately preceding the date that the hospital purchases,
+9 operates or leases its first related facility outside the city boundaries or engages in its first
+10 health care activity outside the city boundaries, the governing body of the city shall approve
+11 the hospital's plan for such purchase, operation or lease prior to implementation of the plan.
+191.1146. 1. Physicians licensed under chapter 334 who use telemedicine shall
+2 ensure that a properly established physician-patient relationship exists with the person who
+3 receives the telemedicine services. The physician-patient relationship may be established by:
+4 (1) An in-person encounter through a medical [interview] evaluation and physical
+5 examination;
+6 (2) Consultation with another physician, or that physician's delegate, who has an
+7 established relationship with the patient and an agreement with the physician to participate in
+8 the patient's care; or
+9 (3) A telemedicine encounter, if the standard of care does not require an in-person
+10 encounter, and in accordance with evidence-based standards of practice and telemedicine
+11 practice guidelines that address the clinical and technological aspects of telemedicine.
+12 2. In order to establish a physician-patient relationship through telemedicine:
+13 (1) The technology utilized shall be sufficient to establish an informed diagnosis as
+14 though the medical [interview] evaluation and, if required to meet the standard of care,
+15 the physical examination has been performed in person; [and]
+
+HCS SB 1019 3
+16 (2) Prior to providing treatment, including issuing prescriptions or physician
+17 certifications under Article XIV of the Missouri Constitution, a physician who uses
+18 telemedicine shall [interview] evaluate the patient, collect or review the patient's relevant
+19 medical history, and perform an examination sufficient for the diagnosis and treatment of the
+20 patient. [A] Any questionnaire completed by the patient, whether via the internet or
+21 telephone, shall be reviewed by the treating health care professional, as defined in section
+22 376.1350, and shall include such information sufficient to provide the information as
+23 though the medical evaluation has been performed in person, otherwise such
+24 questionnaire does not constitute an acceptable medical [interview] evaluation and
+25 examination for the provision of treatment by telehealth; and
+26 (3) Any provider that uses a questionnaire to establish a physician-patient
+27 relationship through telemedicine shall be employed or contracted with a business entity
+28 that is licensed to provide health care in this state.
+29 3. A health care provider that uses a medical evaluation questionnaire completed
+30 by the patient by way of the internet or telephone shall provide a written report within
+31 fourteen days of evaluation to the patient's primary health care provider, if provided by
+32 the patient, that contains:
+33 (1) The identity of the patient;
+34 (2) The date of the evaluation;
+35 (3) The diagnosis and treatment provided, if any; and
+36 (4) Any further instructions provided to the patient.
+192.021. 1. The department of health and senior services shall be authorized to
+2 contract directly with a Missouri affiliate of a national public health association or
+3 public health institute, or a similar or successor entity, in order to assist in carrying out
+4 its duties to promote the health and wellbeing of the residents of this state. Such
+5 contracts may include, but not be limited to, efforts to assist in the delivery of health
+6 services to residents throughout the state and the administration of grant funds and
+7 related programs.
+8 2. Within sixty days after the end of each fiscal year, the department and the
+9 designated affiliate shall provide the general assembly with an annual report and
+10 accounting of any appropriations and grant funds received and expended by the
+11 designated affiliate pursuant to this section during the immediate prior fiscal year and
+12 may provide recommendations and suggestions for improvement in services provided.
+197.708. Each hospital shall display in a prominent place within the waiting
+2 rooms of the emergency department and the labor and delivery department a printed
+3 sign with the following text in all capital letters: "WARNING: ASSAULTING A
+4 HEALTH CARE PROFESSIONAL WHO IS ENGAGED IN THE PERFORMANCE
+
+HCS SB 1019 4
+5 OF HIS OR HER OFFICIAL DUTIES, INCLUDING STRIKING A HEALTH CARE
+6 PROFESSIONAL WITH ANY BODILY FLUID, IS A SERIOUS CRIME AND WILL
+7 BE PROSECUTED TO THE FULLEST EXTENT OF THE LAW.".
+206.110. 1. A hospital district, both within and outside such district, except in
+2 counties of the third or fourth classification (other than within the district boundaries) where
+3 there already exists a hospital organized pursuant to [chapters 96, 205 or] this chapter;
+4 provided, however, that this exception shall not prohibit the continuation or expansion of
+5 existing activities otherwise allowed by law, shall have and exercise the following
+6 governmental powers, and all other powers incidental, necessary, convenient or desirable
+7 to carry out and effectuate the express powers:
+8 (1) To establish and maintain a hospital or hospitals and hospital facilities, and to
+9 construct, acquire, develop, expand, extend and improve any such hospital or hospital facility
+10 including medical office buildings to provide offices for rental to physicians and dentists on
+11 the district hospital's medical or dental staff, and the providing of sites therefor, including
+12 offstreet parking space for motor vehicles;
+13 (2) To acquire land in fee simple, rights in land and easements upon, over or across
+14 land and leasehold interest in land and tangible and intangible personal property used or
+15 useful for the location, establishment, maintenance, development, expansion, extension or
+16 improvement of any hospital or hospital facility. The acquisition may be by dedication,
+17 purchase, gift, agreement, lease, use or adverse possession or by condemnation;
+18 (3) To operate, maintain and manage a hospital and hospital facilities, and to make
+19 and enter into contracts, for the use, operation or management of a hospital or hospital
+20 facilities; to engage in health care activities; and to make and enter into leases of equipment
+21 and real property, a hospital or hospital facilities, as lessor or lessee, regardless of the duration
+22 of such lease; and to provide rules and regulations for the operation, management or use of a
+23 hospital or hospital facilities. Any agreement entered into pursuant to this subsection
+24 pertaining to the lease of the hospital shall have a definite termination date as negotiated by
+25 the parties, but this shall not preclude the trustees from entering into a renewal of the
+26 agreement with the same or other parties pertaining to the same or other subjects upon such
+27 terms and conditions as the parties may agree;
+28 (4) To fix, charge and collect reasonable fees and compensation for the use or
+29 occupancy of the hospital or any part thereof, or any hospital facility, and for nursing care,
+30 medicine, attendance, or other services furnished by the hospital or hospital facilities,
+31 according to the rules and regulations prescribed by the board from time to time;
+32 (5) To borrow money and to issue bonds, notes, certificates, or other evidences of
+33 indebtedness for the purpose of accomplishing any of its corporate purposes, subject to
+
+HCS SB 1019 5
+34 compliance with any condition or limitation set forth in this chapter or otherwise provided by
+35 the Constitution of the state of Missouri;
+36 (6) To employ or enter into contracts for the employment of any person, firm, or
+37 corporation, and for professional services, necessary or desirable for the accomplishment of
+38 the corporate objects of the district or the proper administration, management, protection or
+39 control of its property;
+40 (7) To maintain the hospital for the benefit of the inhabitants of the area comprising
+41 the district who are sick, injured, or maimed regardless of race, creed or color, and to adopt
+42 such reasonable rules and regulations as may be necessary to render the use of the hospital of
+43 the greatest benefit to the greatest number; to exclude from the use of the hospital all persons
+44 who willfully disregard any of the rules and regulations so established; to extend the
+45 privileges and use of the hospital to persons residing outside the area of the district upon such
+46 terms and conditions as the board of directors prescribes by its rules and regulations;
+47 (8) To police its property and to exercise police powers in respect thereto or in respect
+48 to the enforcement of any rule or regulation provided by the ordinances of the district and to
+49 employ and commission police officers and other qualified persons to enforce the same;
+50 (9) To lease to or allow for any institution of higher education to use or occupy the
+51 hospital, any real estate or facility owned or leased by the district or any part thereof for the
+52 purpose of health care-related and general education or training.
+53 2. The use of any hospital or hospital facility of a district shall be subject to the
+54 reasonable regulation and control of the district and upon such reasonable terms and
+55 conditions as shall be established by its board of directors.
+56 3. A regulatory ordinance of a district adopted under any provision of this section
+57 may provide for a suspension or revocation of any rights or privileges within the control of
+58 the district for a violation of any such regulatory ordinance.
+59 4. Nothing in this section or in other provisions of this chapter shall be construed to
+60 authorize the district or board to establish or enforce any regulation or rule in respect to
+61 hospitalization or the operation or maintenance of such hospital or any hospital facilities
+62 within its jurisdiction which is in conflict with any federal or state law or regulation
+63 applicable to the same subject matter.
+206.158. 1. The board of trustees of any hospital authorized under subsection 2
+2 of this section, and established and organized under the provisions of sections 206.010 to
+3 206.160, may invest up to fifty percent of its funds not required for immediate
+4 disbursement in obligations or for the operation of the hospital into:
+5 (1) Any mutual funds that invest in stocks, bonds, or real estate, or any
+6 combination thereof;
+7 (2) Bonds that have:
+
+HCS SB 1019 6
+8 (a) One of the five highest long-term ratings or the highest short-term rating
+9 issued by a nationally recognized rating agency; and
+10 (b) A final maturity of ten years or less;
+11 (3) Money-market investments; or
+12 (4) Any combination of investments described in subdivisions (1) to (3) of this
+13 subsection.
+14
+15 The board shall invest the remaining percentage of funds not required for immediate
+16 disbursement into any investment in which the state treasurer is allowed to invest.
+17 2. The provisions of this section shall only apply if the hospital district receives
+18 less than three percent of its annual revenues from hospital district or state taxes.
+208.149. 1. As used in this section, the following terms mean:
+2 (1) "Clinical pathology services", professional medical services provided by a
+3 licensed physician that involve the use of medical judgment, that contribute directly to
+4 the diagnosis, care, and treatment of individual patients, and that are necessary for
+5 every laboratory test run in a high-complexity laboratory environment;
+6 (2) "Hospital-based pathologist", a licensed physician specializing in pathology
+7 who provides clinical pathology services for the laboratory within a hospital;
+8 (3) "MO HealthNet", the Medicaid program administered by the state of
+9 Missouri in accordance with federal and state law;
+10 (4) "Professional component of clinical pathology services", the portion of each
+11 clinical pathology service in a high-complexity laboratory environment that involves the
+12 physician's use of medical judgment in interpreting and supervising laboratory tests
+13 and that excludes the technical component of the laboratory test.
+14 2. The professional component of clinical pathology services provided by a
+15 hospital-based pathologist shall be recognized as distinct physician services by the MO
+16 HealthNet program.
+17 3. The MO HealthNet program shall reimburse the professional component of
+18 clinical pathology services provided to MO HealthNet participants.
+19 4. The reimbursement amount for the professional component of clinical
+20 pathology services shall be set at no less than thirty percent of the approved MO
+21 HealthNet Independent Lab - Technical Component fee schedule.
+22 5. Payment for the professional component of clinical pathology services shall be
+23 made directly to the licensed physician providing the services or to the entity the
+24 licensed physician has assigned the right to receive payment for the services provided.
+25 6. If a state plan amendment is determined by the department of social services
+26 to be required, the department of social services shall timely submit such amendment.
+
+HCS SB 1019 7
+27 If such amendment is not approved, the department shall make all reasonable efforts to
+28 obtain federal approval, including resubmission, modification, or pursuit of any
+29 alternative lawful mechanism necessary to implement reimbursement consistent with
+30 this section. Nothing in this subsection shall be construed to relieve the department of
+31 its obligation to implement reimbursement to the fullest extent permitted under state
+32 and federal authority.
+33 7. The department of social services shall promulgate all necessary rules and
+34 regulations for the administration of this section. Any rule or portion of a rule, as that
+35 term is defined in section 536.010, that is created under the authority delegated in this
+36 section shall become effective only if it complies with and is subject to all of the
+37 provisions of chapter 536 and, if applicable, section 536.028. This section and chapter
+38 536 are nonseverable and if any of the powers vested with the general assembly
+39 pursuant to chapter 536 to review, to delay the effective date, or to disapprove and annul
+40 a rule are subsequently held unconstitutional, then the grant of rulemaking authority
+41 and any rule proposed or adopted after August 28, 2026, shall be invalid and void.
+324.009. 1. For purposes of this section, the following terms mean:
+2 (1) "License", a license, certificate, registration, permit, accreditation, or military
+3 occupational speciality that enables a person to legally practice an occupation or profession in
+4 a particular jurisdiction;
+5 (2) "Military", the Armed Forces of the United States including the Air Force, Army,
+6 Coast Guard, Marine Corps, Navy, Space Force, National Guard and any other military
+7 branch that is designated by Congress as part of the Armed Forces of the United States, and
+8 all reserve components and auxiliaries. Such term also includes the military reserves and
+9 militia of any United States territory or state;
+10 (3) "Missouri law enforcement officer", any person employed by or otherwise serving
+11 in a position for the state or a local governmental entity in the state of Missouri as a police
+12 officer, peace officer certified under chapter 590, auxiliary police officer, sheriff, sheriff's
+13 deputy, member of the patrol as that term is defined in section 43.010, or in some like position
+14 involving the enforcement of the law and protection of the public interest at the risk of that
+15 person's life and who is a permanent resident of the state of Missouri or who is domiciled in
+16 the state of Missouri;
+17 (4) "Nonresident military or law enforcement spouse":
+18 (a) A nonresident spouse of an active duty member of the Armed Forces of the United
+19 States who has been transferred or is scheduled to be transferred to the state of Missouri, or
+20 who has been transferred or is scheduled to be transferred to an adjacent state and is or will be
+21 domiciled in the state of Missouri, or has moved to the state of Missouri on a permanent
+22 change-of-station basis; or
+
+HCS SB 1019 8
+23 (b) A nonresident spouse of a person residing outside the state of Missouri who has
+24 accepted an offer of employment from and with the state or a local governmental entity in the
+25 state of Missouri and who will become a Missouri law enforcement officer upon the
+26 commencement of such employment;
+27 (5) "Oversight body", any board, department, agency, or office of a jurisdiction that
+28 issues licenses;
+29 (6) "Resident military or law enforcement spouse", a spouse of an active duty
+30 member of the Armed Forces of the United States who has been transferred or is scheduled to
+31 be transferred to the state of Missouri or an adjacent state and who is a permanent resident of
+32 the state of Missouri, who is domiciled in the state of Missouri, or who has Missouri as his or
+33 her home of record, or a spouse of a Missouri law enforcement officer.
+34 2. Any person who holds a valid current license issued by another state, a branch or
+35 unit of the military, a territory of the United States, or the District of Columbia, and who has
+36 been licensed for at least one year in such other jurisdiction, may submit an application for a
+37 license in Missouri in the same occupation or profession, and at the same practice level, for
+38 which he or she holds the current license, along with proof of current licensure and proof of
+39 licensure for at least one year in the other jurisdiction, to the relevant oversight body in this
+40 state.
+41 3. The oversight body in this state shall:
+42 (1) Within six months of receiving an application described in subsection 2 of this
+43 section, waive any examination, educational, or experience requirements for licensure in this
+44 state for the applicant if it determines that there were minimum education requirements and, if
+45 applicable, work experience and clinical supervision requirements in effect and the other
+46 [state] jurisdiction verifies that the person met those requirements in order to be licensed or
+47 certified in that [state] jurisdiction. An oversight body that administers an examination on
+48 laws of this state as part of its licensing application requirement may require an applicant to
+49 take and pass an examination specific to the laws of this state; or
+50 (2) Within thirty days of receiving an application described in subsection 2 of this
+51 section from a nonresident military or law enforcement spouse or a resident military or law
+52 enforcement spouse, waive any examination, educational, or experience requirements for
+53 licensure in this state for the applicant and issue such applicant a license under this section if
+54 such applicant otherwise meets the requirements of this section.
+55 4. (1) The oversight body shall not waive any examination, educational, or
+56 experience requirements for any applicant who has had his or her license revoked by an
+57 oversight body outside the state; who is currently under investigation, who has a complaint
+58 pending, or who is currently under disciplinary action, except as provided in subdivision (2)
+59 of this subsection, with an oversight body outside the state; who does not hold a license in
+
+HCS SB 1019 9
+60 good standing with an oversight body outside the state; who has a criminal record that would
+61 disqualify him or her for licensure in Missouri; or who does not hold a valid current license in
+62 the other jurisdiction on the date the oversight body receives his or her application under this
+63 section.
+64 (2) If another jurisdiction has taken disciplinary action against an applicant, the
+65 oversight body shall determine if the cause for the action was corrected and the matter
+66 resolved. If the matter has not been resolved by that jurisdiction, the oversight body may
+67 deny a license until the matter is resolved.
+68 5. Nothing in this section shall prohibit the oversight body from denying a license to
+69 an applicant under this section for any reason described in any section associated with the
+70 occupation or profession for which the applicant seeks a license.
+71 6. Any person who is licensed under the provisions of this section shall be subject to
+72 the applicable oversight body's jurisdiction and all rules and regulations pertaining to the
+73 practice of the licensed occupation or profession in this state. Any health care provider
+74 licensed under the provisions of this section shall be deemed fully licensed to practice in
+75 this state and may provide telehealth services as described in section 191.1145 to the
+76 same extent and in the same manner as a health care provider who received his or her
+77 license without a waiver of any requirements.
+78 7. This section shall not be construed to waive any requirement for an applicant to
+79 pay any fees, post any bonds or surety bonds, or submit proof of insurance associated with the
+80 license the applicant seeks.
+81 8. This section shall not apply to business, professional, or occupational licenses
+82 issued or required by political subdivisions.
+83 9. The provisions of this section shall not impede an oversight body's authority to
+84 require an applicant to submit fingerprints as part of the application process.
+85 10. The provisions of this section shall not be construed to alter the authority granted
+86 by, or any requirements promulgated pursuant to, any interjurisdictional or interstate
+87 compacts adopted by Missouri statute or any reciprocity agreements with other states in
+88 effect, and whenever possible this section shall be interpreted so as to imply no conflict
+89 between it and any compact, or any reciprocity agreements with other states in effect.
+90 11. Notwithstanding any other provision of law, a license issued under this section
+91 shall be valid only in this state and shall not make a licensee eligible to be part of an interstate
+92 compact. An applicant who is licensed in another state pursuant to an interstate compact shall
+93 not be eligible for licensure by an oversight body under the provisions of this section.
+94 12. The provisions of this section shall not apply to any occupation set forth in
+95 subsection 6 of section 290.257, or any electrical contractor licensed under sections 324.900
+96 to 324.945.
+
+HCS SB 1019 10
+334.108. 1. Prior to prescribing any drug, controlled substance, or other treatment
+2 through telemedicine, as defined in section 191.1145, or the internet, a physician shall
+3 establish a valid physician-patient relationship as described in section 191.1146. This
+4 relationship shall include:
+5 (1) Obtaining a reliable medical history and, if required to meet the standard of
+6 care,performing a physical examination of the patient, adequate to establish the diagnosis for
+7 which the drug is being prescribed and to identify underlying conditions or contraindications
+8 to the treatment recommended or provided;
+9 (2) Having sufficient [dialogue] exchange with the patient regarding treatment
+10 options and the risks and benefits of treatment or treatments;
+11 (3) If appropriate, following up with the patient to assess the therapeutic outcome;
+12 (4) Maintaining a contemporaneous medical record that is readily available to the
+13 patient and, subject to the patient's consent, to the patient's other health care professionals;
+14 and
+15 (5) Maintaining the electronic prescription information as part of the patient's medical
+16 record.
+17 2. The requirements of subsection 1 of this section may be satisfied by the prescribing
+18 physician's designee when treatment is provided in:
+19 (1) A hospital as defined in section 197.020;
+20 (2) A hospice program as defined in section 197.250;
+21 (3) Home health services provided by a home health agency as defined in section
+22 197.400;
+23 (4) Accordance with a collaborative practice agreement as [defined] described in
+24 section 334.104;
+25 (5) Conjunction with a physician assistant licensed pursuant to section 334.738;
+26 (6) Conjunction with an assistant physician licensed under section 334.036;
+27 (7) Consultation with another physician who has an ongoing physician-patient
+28 relationship with the patient, and who has agreed to supervise the patient's treatment,
+29 including use of any prescribed medications; or
+30 (8) On-call or cross-coverage situations.
+31 3. No health care provider, as defined in section 376.1350, shall prescribe any drug,
+32 controlled substance, or other treatment to a patient based solely on an evaluation [over the
+33 telephone] through telemedicine; except that, a physician or such physician's on-call
+34 designee, or an advanced practice registered nurse, a physician assistant, or an assistant
+35 physician in a collaborative practice arrangement with such physician, may prescribe any
+36 drug, controlled substance, or other treatment that is within his or her scope of practice to a
+37 patient based solely on a [telephone] telemedicine evaluation if a previously established and
+
+HCS SB 1019 11
+38 ongoing physician-patient relationship exists between such physician and the patient being
+39 treated.
+40 4. No health care provider shall prescribe any drug, controlled substance, or other
+41 treatment to a patient [based solely on an internet request or an internet questionnaire] in the
+42 absence of a proper provider-patient relationship, as described in section 191.1146.
+43 5. Medical records of any drug, controlled substance, or other treatment
+44 prescribed through telemedicine, as defined in section 191.1145, shall be collected,
+45 stored, and maintained in accordance with the Health Insurance Portability and
+46 Accountability Act of 1996, which allows for the sharing of protected health information
+47 for continuity of care between health care providers for treatment, payment, and health
+48 care operations.
+345.050. To be eligible for licensure by the board by examination, each applicant
+2 shall submit the application fee and shall furnish evidence of such person's current
+3 competence and shall:
+4 (1) Hold a master's or a doctoral degree from a program that was awarded
+5 "accreditation candidate" status or is accredited by the Council on Academic Accreditation of
+6 the American Speech-Language-Hearing Association or other accrediting agency approved
+7 by the board in the area in which licensure is sought;
+8 (2) Submit official transcripts from one or more accredited colleges or universities
+9 presenting evidence of the completion of course work and clinical practicum requirements
+10 equivalent to that required by the Council on Academic Accreditation of the American
+11 Speech-Language-Hearing Association or other accrediting agency approved by the board;
+12 (3) Present written evidence of completion of a clinical fellowship from supervisors.
+13 The experience required by this subdivision shall follow the completion of the requirements
+14 of subdivisions (1) and (2) of this section. This period of employment shall be under the
+15 direct supervision of a [person who is] licensed [by the state of Missouri in the profession in
+16 which the applicant seeks to be licensed] speech-language pathologist in good standing in
+17 any state. Persons applying with an audiology clinical doctoral degree are exempt from this
+18 provision; and
+19 (4) Pass an examination promulgated or approved by the board. The board shall
+20 determine the subject and scope of the examinations.
+376.417. 1. As used in this section, the following terms mean:
+2 (1) "340B drug", the same meaning given to the term in section 376.414;
+3 (2) "Covered entity", any entity described in subparagraphs (A) to (K) of
+4 subsection (a)(4) of Section 340B of the Public Health Service Act, 42 U.S.C. Section
+5 256b, including any pharmacy with which such entity has contracted to dispense 340B
+6 drugs on behalf of the entity;
+
+HCS SB 1019 12
+7 (3) "Health carrier", the same meaning given to the term in section 376.1350;
+8 (4) "Pharmacy", an entity licensed under chapter 338;
+9 (5) "Pharmacy benefits manager", the same meaning given to the term in section
+10 376.388.
+11 2. A health carrier, a pharmacy benefits manager, or an agent or affiliate of such
+12 health carrier or pharmacy benefits manager shall not discriminate against a covered
+13 entity including, but not limited to, by doing any of the following:
+14 (1) Reimbursing a covered entity for a quantity of a 340B drug in an amount less
+15 than it would pay any other similarly situated pharmacy or entity that is not a covered
+16 entity for such quantity of such drug on the basis that the covered entity is a covered
+17 entity or that the covered entity dispenses 340B drugs. The director of the department
+18 of commerce and insurance shall specify by rule the circumstances under which a
+19 pharmacy or entity shall be deemed a "similarly situated pharmacy or entity" for
+20 purposes of this subdivision;
+21 (2) Imposing any terms or conditions on covered entities that differ from such
+22 terms or conditions applied to other similarly situated entities or pharmacies that are
+23 not covered entities on the basis that the covered entity is a covered entity or that the
+24 covered entity dispenses 340B drugs including, but not limited to, terms or conditions
+25 with respect to any of the following:
+26 (a) Fees, chargebacks, clawbacks, adjustments, or other assessments;
+27 (b) Professional dispensing fees;
+28 (c) Restrictions or requirements regarding participation in standard or
+29 preferred pharmacy networks;
+30 (d) Requirements relating to the frequency or scope of audits or to inventory
+31 management systems using generally accepted accounting principles; and
+32 (e) Any other restrictions, conditions, practices, or policies that, as specified by
+33 the director of the department of commerce and insurance, interfere with the ability of a
+34 covered entity to maximize the value of discounts provided under 42 U.S.C. Section
+35 256b;
+36 (3) Discriminating in reimbursement to a covered entity based on the
+37 determination or indication a drug is a 340B drug;
+38 (4) Requiring a covered entity to identify, either directly or through a third
+39 party, a 340B drug;
+40 (5) Refusing to cover drugs purchased under the 340B drug-pricing program; or
+41 (6) Requiring a covered entity to reverse, resubmit, or clarify a 340B drug-
+42 pricing claim after the initial adjudication unless these actions are:
+
+HCS SB 1019 13
+43 (a) In the normal course of pharmacy business and not related to 340B drug
+44 pricing; or
+45 (b) Required by federal law.
+46 3. The director of the department of commerce and insurance shall impose a
+47 civil penalty on any health carrier, pharmacy benefits manager, or agent or affiliate of
+48 such health carrier or pharmacy benefits manager that violates the requirements of this
+49 section. Such penalty shall not exceed five thousand dollars per violation per day.
+50 4. The director of the department of commerce and insurance shall promulgate
+51 rules to implement the provisions of this section. Any rule or portion of a rule, as that
+52 term is defined in section 536.010, that is created under the authority delegated in this
+53 section shall become effective only if it complies with and is subject to all of the
+54 provisions of chapter 536 and, if applicable, section 536.028. This section and chapter
+55 536 are nonseverable and if any of the powers vested with the general assembly
+56 pursuant to chapter 536 to review, to delay the effective date, or to disapprove and annul
+57 a rule are subsequently held unconstitutional, then the grant of rulemaking authority
+58 and any rule proposed or adopted after August 28, 2026, shall be invalid and void.
+376.1000. 1. As used in sections 376.1000 to 376.1045, a "multiple employer self-
+2 insured health plan" is any plan or arrangement which is not fully insured and which is either:
+3 (1) Offered by a staff or employee leasing company; or
+4 (2) Established or maintained for the purpose of offering or providing health, dental
+5 or short-term disability benefits to employees of two or more employers and to two or more
+6 self-employed individuals, each with at least one common-law employee, and their
+7 dependents.
+8 2. A plan or arrangement is considered fully insured only if an insurer licensed to
+9 transact business in this state retains the ultimate responsibility for all benefits payable by a
+10 contract or policy of insurance.
+376.1012. Funds collected from the participating employers under multiple employer
+2 self-insured health plans shall be held in trust subject to the following requirements:
+3 (1) A board of trustees elected by participating employers shall serve as fund
+4 managers on behalf of participants. Trustees shall be plan participants. No participating
+5 employer may be represented by more than one trustee. No trustee may represent more than
+6 one employer. A minimum of three and a maximum of seven trustees may be elected.
+7 Trustees may not receive remuneration but they may be reimbursed for actual and reasonable
+8 expenses incurred in connection with duties as trustee. A trustee may not be an agent, or
+9 broker for or an owner, officer or employee of any third-party administrator, insurance agency
+10 or insurer utilized by the plan. The trustees shall have the authority to approve applications of
+
+HCS SB 1019 14
+11 association members for participation in the arrangement and to contract with a licensed
+12 third-party administrator to administer the day-to-day affairs of the plan;
+13 (2) Each trustee shall be bonded in an amount of not less than one hundred fifty
+14 thousand dollars by a licensed insurer;
+15 (3) Investment of plan funds is subject to the same restrictions which are applicable to
+16 insurers pursuant to sections 376.291 to 376.307; provided, however, that no foreign plan
+17 shall be exempt under section 376.310 from the investment laws of this state unless such plan
+18 is subject to laws in its state of domicile which are substantially similar to sections 376.1032
+19 to 376.1045. All investments shall be managed by a bank or other investment entity licensed
+20 to operate in Missouri;
+21 (4) Trustees, on behalf of the plan, shall file an annual report with the director of the
+22 department of commerce and insurance by March first [showing the condition and affairs of
+23 the plan as of the preceding thirty-first day of December. The report shall be made on forms
+24 prescribed by the director. The report shall summarize the financial condition of the fund,
+25 itemize collections from participating employers, detail all fund expenditures and provide any
+26 additional information which the director requires] in compliance with section 375.041.
+27 More frequent reports may be required at the discretion of the director. The plan shall also
+28 prepare and file an RBC report with the director in compliance with section 375.1252 as
+29 it applies to health organizations, and the provisions of section 375.1267 shall apply to
+30 such RBC reports.
+376.1017. 1. A plan shall establish loss reserves for all incurred losses, both reported
+2 and unreported, and for unearned premiums.
+3 2. A plan also shall establish a surplus account equal to the greater of the following:
+4 (1) [Three times the average paid monthly premium during the plan's most recent
+5 fund year;
+6 (2) For plans which do not yet have one fund year's experience, three times estimated
+7 monthly premium; or
+8 (3)] Six hundred thousand dollars; or
+9 (2) An amount equal to two times the authorized control level risk-based capital,
+10 as that term is defined in section 375.1250.
+376.1280. 1. As used in this section, the following terms mean:
+2 (1) "Acute pain", pain that results from disease, accidental or intentional
+3 trauma, or other causes, that a health care provider reasonably expects to last thirty
+4 days or fewer;
+5 (2) "Chronic pain", pain that is a persistent and long-lasting condition
+6 characterized by discomfort or pain that lasts for more than twelve weeks, often
+7 persisting beyond the expected healing time. It may result from various causes
+
+HCS SB 1019 15
+8 including, but not limited to, injury, surgery, nerve damage, or underlying medical
+9 conditions;
+10 (3) "Enrollee", the same meaning given to the term in section 376.1350;
+11 (4) "Health benefit plan", the same meaning given to the term in section
+12 376.1350;
+13 (5) "Health care professional", the same meaning given to the term in section
+14 376.1350.
+15 2. Notwithstanding any provision of law to the contrary, when a licensed health
+16 care professional acting within the scope of his or her license prescribes a nonopioid
+17 medication for the treatment of acute or chronic pain to an enrollee, it shall be unlawful
+18 for a health benefit plan to:
+19 (1) Deny coverage of the nonopioid prescription drug in favor of an opioid
+20 prescription drug;
+21 (2) Require the enrollee to try an opioid prescription drug before providing
+22 coverage of the nonopioid prescription drug; or
+23 (3) Require a higher level of cost-sharing for the nonopioid prescription drug
+24 than for an opioid prescription drug.
+25 3. This section shall apply to health benefit plans delivered, issued for delivery,
+26 continued, or renewed on or after January 1, 2027.
+407.3007. 1. As used in this section, the following terms mean:
+2 (1) "Artificial intelligence" or "AI":
+3 (a) Any artificial system that performs tasks under varying and unpredictable
+4 circumstances without significant human oversight or that can learn from experience
+5 and improve performance when exposed to data sets;
+6 (b) An artificial system developed in computer software, physical hardware, or
+7 other computer systems that solves tasks requiring human-like perception, cognition,
+8 planning, learning, communication, or physical action;
+9 (c) An artificial system designed to think or act like a human, including cognitive
+10 architectures and neural networks;
+11 (d) A set of techniques, including machine learning, that is designed to
+12 approximate a cognitive task; or
+13 (e) An artificial system designed to act rationally, including an intelligent
+14 software agent or embodied robot that achieves goals using perception, planning,
+15 reasoning, learning, communicating, decision-making, and acting;
+16 (2) "Mental health professional", the same as defined in section 632.005. The
+17 term "mental health professional" shall also include any person licensed in a profession
+18 regulated under chapter 337.
+
+HCS SB 1019 16
+19 2. Any person or entity that develops or deploys artificial intelligence in the state
+20 shall not advertise or represent to the public that the AI is or is able to act as a mental
+21 health professional or is capable of providing therapy services, psychotherapy services,
+22 or a mental health diagnosis.
+23 3. Any violation of this section shall be considered an unlawful practice under
+24 the Missouri merchandising practices act under this chapter.
+25 4. The attorney general shall enforce the provisions of this section. Any
+26 individual may report violations of this section to the attorney general. If the attorney
+27 general finds that a violation occurred, the attorney general shall commence a civil
+28 action in a court of competent jurisdiction. If the court finds that a violation occurred,
+29 the court may grant damages, civil penalties, injunctive relief, attorney's fees, and any
+30 such other relief the court finds appropriate. Notwithstanding section 407.100 to the
+31 contrary, civil penalties shall be as follows:
+32 (1) Ten thousand dollars for the first violation; or
+33 (2) Twenty thousand dollars for any subsequent violation.
+632.305. 1. An application for detention for evaluation and treatment at a mental
+2 health facility may be executed by any adult person, who need not be an attorney or
+3 represented by an attorney, on a form provided by the court for such purpose, and shall allege
+4 under oath[, without a notarization requirement,] that the applicant has reason to believe that
+5 the respondent is suffering from a mental disorder and presents a likelihood of serious harm to
+6 himself or herself or to others. The application shall specify the factual information on which
+7 such belief is based and should contain the names and addresses of all persons known to the
+8 applicant who have knowledge of such facts through personal observation.
+9 2. The filing of a written application in court by any adult person, who need not be an
+10 attorney or represented by an attorney, shall authorize the applicant to bring the matter before
+11 the court on an ex parte basis to determine whether the respondent should be taken into
+12 custody and transported to a mental health facility. The application may be filed in the court
+13 having probate jurisdiction in any county where the respondent may be found. If the court
+14 finds that there is probable cause, either upon testimony under oath or upon a review of
+15 affidavits, declarations, or other supporting documentation, to believe that the respondent
+16 may be suffering from a mental disorder and presents a likelihood of serious harm to himself
+17 or herself or others, it shall direct a peace officer to take the respondent into custody and
+18 transport him or her to a mental health facility for detention for evaluation and treatment for a
+19 period not to exceed ninety-six hours unless further detention and treatment is authorized
+20 pursuant to this chapter. Nothing herein shall be construed to prohibit the court, in the
+21 exercise of its discretion, from giving the respondent an opportunity to be heard.
+
+HCS SB 1019 17
+22 3. A peace officer may take a person into custody for detention for evaluation and
+23 treatment at a mental health facility for a period not to exceed ninety-six hours only when
+24 such peace officer has reasonable cause to believe that such person is suffering from a mental
+25 disorder and that the likelihood of serious harm by such person to himself or herself or others
+26 is imminent unless such person is immediately taken into custody. Upon arrival at the mental
+27 health facility, the peace officer who conveyed such person or caused him or her to be
+28 conveyed shall either present the application for detention for evaluation and treatment upon
+29 which the court has issued a finding of probable cause and the respondent was taken into
+30 custody or complete an application for initial detention for evaluation and treatment for a
+31 period not to exceed ninety-six hours which shall be based upon his or her own personal
+32 observations or investigations and shall contain the information required in subsection 1 of
+33 this section.
+34 4. If a person presents himself or herself or is presented by others to a mental health
+35 facility and a licensed physician, a registered professional nurse or a mental health
+36 professional designated by the head of the facility and approved by the department for such
+37 purpose has reasonable cause to believe that the person is mentally disordered and presents an
+38 imminent likelihood of serious harm to himself or herself or others unless he or she is
+39 accepted for detention, the licensed physician, the mental health professional or the registered
+40 professional nurse designated by the facility and approved by the department may complete
+41 an application for detention for evaluation and treatment for a period not to exceed ninety-six
+42 hours. The application shall be based on his or her own personal observations or
+43 investigation and shall contain the information required in subsection 1 of this section.
+44 5. (1) No notarization shall be required for an application, or for any affidavits,
+45 declarations, or other documents supporting an application, completed or executed by:
+46 (a) A peace officer under subsection 3 of this section;
+47 (b) A licensed physician, mental health professional, or registered professional
+48 nurse under subsection 4 of this section; or
+49 (c) An employee acting on behalf of a hospital, as defined in section 197.020,
+50 under subsections 1 and 2 of this section.
+51 (2) The application and any affidavits, declarations, or other documents supporting
+52 the application shall be subject to the provisions of section 492.060 allowing for declaration
+53 under penalty of perjury.
+632.489. 1. Upon filing a petition pursuant to section 632.484 or 632.486, the judge
+2 shall determine whether probable cause exists to believe that the person named in the petition
+3 is a sexually violent predator. If such probable cause determination is made, the judge shall
+4 direct that person be taken into custody and direct that the person be transferred to an
+5 appropriate secure facility, including, but not limited to, a county jail. If the person is ordered
+
+HCS SB 1019 18
+6 to the department of mental health, the director of the department of mental health shall
+7 determine the appropriate secure facility to house the person under the provisions of section
+8 632.495.
+9 2. Within seventy-two hours after a person is taken into custody pursuant to
+10 subsection 1 of this section, excluding Saturdays, Sundays and legal holidays, such person
+11 shall be provided with notice of, and an opportunity to appear in person at, a hearing to
+12 contest probable cause as to whether the detained person is a sexually violent predator. At
+13 this hearing the court shall:
+14 (1) Verify the detainee's identity; and
+15 (2) Determine whether probable cause exists to believe that the person is a sexually
+16 violent predator. The state may rely upon the petition and supplement the petition with
+17 additional documentary evidence or live testimony.
+18 3. At the probable cause hearing as provided in subsection 2 of this section, the
+19 detained person shall have the following rights in addition to the rights previously specified:
+20 (1) To be represented by counsel;
+21 (2) To present evidence on such person's behalf;
+22 (3) To cross-examine witnesses who testify against such person; and
+23 (4) To view and copy all petitions and reports in the court file, including the
+24 assessment of the multidisciplinary team.
+25 4. If the probable cause determination is made, the court shall direct that the person be
+26 transferred to an appropriate secure facility, including, but not limited to, a county jail, for an
+27 evaluation as to whether the person is a sexually violent predator. If the person is ordered to
+28 the department of mental health, the director of the department of mental health shall
+29 determine the appropriate secure facility, which may include the department of corrections
+30 or a county jail as set forth in section 632.495, to house the person. The court shall direct the
+31 director of the department of mental health to have the person examined by a psychiatrist or
+32 psychologist as defined in section 632.005 who was not a member of the multidisciplinary
+33 team that previously reviewed the person's records. In addition, such person may be
+34 examined by a consenting psychiatrist or psychologist of the person's choice at the person's
+35 own expense. Any examination shall be conducted in the facility in which the person is
+36 confined. Any examinations ordered shall be made at such time and under such conditions as
+37 the court deems proper; except that, if the order directs the director of the department of
+38 mental health to have the person examined, the director shall determine the time, place and
+39 conditions under which the examination shall be conducted. The psychiatrist or psychologist
+40 conducting such an examination shall be authorized to interview family and associates of the
+41 person being examined, as well as victims and witnesses of the person's offense or offenses,
+42 for use in the examination unless the court for good cause orders otherwise. The psychiatrist
+
+HCS SB 1019 19
+43 or psychologist shall have access to all materials provided to and considered by the
+44 multidisciplinary team and to any police reports related to sexual offenses committed by the
+45 person being examined. Any examination performed pursuant to this section shall be
+46 completed and filed with the court within sixty days of the date the order is received by the
+47 director or other evaluator unless the court for good cause orders otherwise. One examination
+48 shall be provided at no charge by the department. All costs of any subsequent evaluations
+49 shall be assessed to the party requesting the evaluation.
+632.492. Within sixty days after the completion of any examination held pursuant to
+2 section 632.489, the court shall conduct a trial to determine whether the person is a sexually
+3 violent predator. The trial may be continued upon the request of either party and a showing of
+4 good cause, or by the court on its own motion in the due administration of justice, and when
+5 the respondent will not be substantially prejudiced. At all stages of the proceedings pursuant
+6 to sections 632.480 to 632.513, any person subject to sections 632.480 to 632.513 shall be
+7 entitled to the assistance of counsel, and if the person is indigent, the court shall appoint
+8 counsel to assist such person. The person, the attorney general, or the judge shall have the
+9 right to demand that the trial be before a jury. If the trial is held before a jury, the judge shall
+10 instruct the jury that if it finds that the person is a sexually violent predator, the person shall
+11 be committed to the custody of the director of the department of mental health to be housed
+12 in an appropriate secure facility, as determined by the director of the department of
+13 mental health as set forth in section 632.495, for control, care and treatment. If no demand
+14 for a jury is made, the trial shall be before the court. The court shall conduct all trials
+15 pursuant to this section in open court, except as otherwise provided for by the child victim
+16 witness protection law pursuant to sections 491.675 to 491.705.
+632.495. 1. The court or jury shall determine whether, by clear and convincing
+2 evidence, the person is a sexually violent predator. If such determination that the person is a
+3 sexually violent predator is made by a jury, such determination shall be by unanimous verdict
+4 of such jury. Any determination as to whether a person is a sexually violent predator may be
+5 appealed.
+6 2. If the court or jury determines that the person is a sexually violent predator, the
+7 person shall be committed to the custody of the director of the department of mental health for
+8 control, care and treatment until such time as the person's mental abnormality has so changed
+9 that the person is safe to be at large. Such control, care and treatment shall be provided or
+10 arranged by the department of mental health in an appropriate secure facility, as
+11 determined by the director of the department of mental health as set forth in this
+12 section.
+13 3. At all times, persons ordered to the department of mental health after a
+14 determination by the court that such persons may meet the definition of a sexually violent
+
+HCS SB 1019 20
+15 predator, persons ordered to the department of mental health after a finding of probable cause
+16 under section 632.489, and persons committed for control, care and treatment by the
+17 department of mental health pursuant to sections 632.480 to 632.513 shall be kept in a secure
+18 facility designated by the director of the department of mental health and such persons shall
+19 be segregated at all times from any other patient under the supervision of the director of the
+20 department of mental health. The department of mental health shall not place or house a
+21 person ordered to the department of mental health after a determination by the court that such
+22 person may meet the definition of a sexually violent predator, a person ordered to the
+23 department of mental health after a finding of probable cause under section 632.489, or a
+24 person committed for control, care, and treatment by the department of mental health,
+25 pursuant to sections 632.480 to 632.513, with other mental health patients. The provisions of
+26 this subsection shall not apply to a person who has been conditionally released under section
+27 632.505.
+28 4. The department of mental health is authorized to enter into an interagency
+29 agreement with the department of corrections for the confinement of [such] persons ordered
+30 to the department of mental health after a determination by the court that such persons
+31 may meet the definition of a sexually violent predator or for the confinement of persons
+32 ordered to the department of mental health after a finding of probable cause under
+33 section 632.489, provided the department of corrections has necessary space and
+34 services available and the director of the department of corrections has agreed to
+35 provide such confinement through an interagency agreement with the department of
+36 mental health. Such persons who are in the confinement of the department of corrections
+37 pursuant to an interagency agreement shall be housed and managed separately from offenders
+38 in the custody of the department of corrections, and except for occasional instances of
+39 supervised incidental contact, shall be segregated from such offenders. If the department of
+40 mental health and the department of corrections have entered into an interagency
+41 agreement as provided in this subsection, the department of corrections is authorized to
+42 enter into one or more contract agreements as may be necessary to perform the agreed
+43 upon responsibilities of the department of corrections under the interagency agreement
+44 including, but not limited to, a contract agreement with one or more licensed
+45 professionals or providers of health care services to provide health care services to the
+46 persons identified in this subsection.
+47 5. The department of mental health is authorized to enter into a contract agreement
+48 with one or more county jails in Missouri for the confinement of persons ordered to the
+49 department of mental health after a determination by the court that such persons may meet the
+50 definition of a sexually violent predator or for the confinement of persons ordered to the
+51 department of mental health after a finding of probable cause under section 632.489. Such
+
+HCS SB 1019 21
+52 persons who are in the confinement of a county jail pursuant to a contract agreement shall be
+53 housed and managed separately from offenders in the custody of the county jail, and except
+54 for occasional instances of supervised incidental contact, shall be segregated from such
+55 offenders.
+56 6. The department of mental health is authorized to enter into an interagency
+57 agreement with the department of corrections for the control and care, including health
+58 care services, of persons committed to the department of mental health by the court as a
+59 sexually violent predator, provided the department of corrections has necessary space
+60 and services available and the director of the department of corrections has agreed to
+61 provide such control and care through an interagency agreement with the department
+62 of mental health. Such persons who are in the control and care of the department of
+63 corrections under an interagency agreement shall be housed and managed separately
+64 from offenders in the custody of the department of corrections, and except for
+65 occasional instances of supervised incidental contact, shall be segregated from such
+66 offenders. If the department of mental health and the department of corrections have
+67 entered into an interagency agreement as provided in this subsection, the department of
+68 corrections is authorized to enter into one or more contract agreements as may be
+69 necessary to perform the agreed upon responsibilities of the department of corrections
+70 under the interagency agreement including, but not limited to, a contract agreement
+71 with one or more licensed professionals or providers of health care services to provide
+72 health care services to the persons identified in this subsection.
+73 7. The department of mental health is authorized to enter into a contract
+74 agreement with one or more licensed professionals or providers of health care or mental
+75 health care services to provide health care or mental health care services to persons
+76 ordered to the department of mental health after a determination by the court that such
+77 persons may meet the definition of a sexually violent predator, persons ordered to the
+78 department of mental health after a finding of probable cause under section 632.489,
+79 and persons committed for control, care, and treatment by the department of mental
+80 health under sections 632.480 to 632.513.
+81 8. If the court or jury is not satisfied by clear and convincing evidence that the person
+82 is a sexually violent predator, the court shall direct the person's release.
+83 [7.] 9. Upon a mistrial, the court shall direct that the person be held at an appropriate
+84 secure facility, including, but not limited to, a county jail, until another trial is conducted. If
+85 the person is ordered to the department of mental health, the director of the department of
+86 mental health shall determine the appropriate secure facility to house the person. Any
+87 subsequent trial following a mistrial shall be held within ninety days of the previous trial,
+88 unless such subsequent trial is continued as provided in section 632.492.
+
+HCS SB 1019 22
+632.504. Nothing in sections 632.480 to 632.513 shall prohibit a person from filing a
+2 petition for release pursuant to sections 632.480 to 632.513. However, if a person has
+3 previously filed a petition for release without the [director's] director of the department of
+4 mental health's approval and the court determined either upon review of the petition or
+5 following a hearing that the petitioner's petition was frivolous or that the petitioner's condition
+6 had not so changed that the person was safe to be at large, then the court shall deny the
+7 subsequent petition unless the petition contains facts upon which a court could find the
+8 condition of the petitioner had so changed that a hearing was warranted. Upon receipt of a
+9 first or subsequent petition from committed persons without the director's approval, the court
+10 shall endeavor whenever possible to review the petition and determine if the petition is based
+11 upon frivolous grounds and if so shall deny the petition without a hearing.
+632.520. 1. For purposes of this section, the following terms mean:
+2 (1) "Employee of the department of mental health", a person who is an employee of
+3 the department of mental health, an employee or contracted employee of a subcontractor of
+4 the department of mental health, or an employee or contracted employee of a subcontractor of
+5 an entity [responsible for confining offenders] under an interagency agreement or contract
+6 with the department of mental health as authorized by section 632.495;
+7 (2) "Offender", a person ordered to the department of mental health after a
+8 determination by the court that the person meets the definition of a sexually violent predator,
+9 a person ordered to the department of mental health after a finding of probable cause under
+10 section 632.489, or a person committed for control, care, and treatment by the department of
+11 mental health under sections 632.480 to 632.513;
+12 (3) "Secure facility", a facility operated by the department of mental health or an
+13 entity [responsible for confining offenders] designated by the department of mental health
+14 to confine offenders or provide control and care to offenders as authorized by section
+15 632.495.
+16 2. No offender shall knowingly commit violence to an employee of the department of
+17 mental health or to another offender housed in a secure facility. Violation of this subsection
+18 shall be a class B felony.
+19 3. No offender shall knowingly damage any building or other property owned or
+20 operated by the department of mental health. Violation of this subsection shall be a class D
+21 felony.
+632.580. The definitions set forth in section 632.005 shall apply to sections
+2 632.580 to 632.610. In addition, as used in sections 632.580 to 632.610, unless the context
+3 clearly requires otherwise, the following terms mean:
+4 (1) "Assisted outpatient treatment", court-ordered involuntary outpatient
+5 mental health care services that are provided by a mental health program under a
+
+HCS SB 1019 23
+6 treatment plan developed and monitored by a master's level mental health professional.
+7 Such services may include, but are not limited to:
+8 (a) Case management;
+9 (b) Medication management;
+10 (c) Therapy or counseling;
+11 (d) Substance use treatment, if applicable;
+12 (e) Crisis intervention services; and
+13 (f) Assistance with housing, employment, or other community resources
+14 necessary for an individual's stability;
+15 (2) "Case manager", a mental health professional employed by a certified
+16 community mental health center who is assigned to a respondent to oversee the
+17 respondent's compliance with the outpatient treatment plan ordered by the court under
+18 sections 632.580 to 632.610;
+19 (3) "Community mental health center", the same meaning given to the term in
+20 section 205.975;
+21 (4) "Comprehensive mental health services", the same meaning given to the
+22 term in section 205.975;
+23 (5) "Local public health agency", a county health center board established
+24 under chapter 205, a county health department, a combined city and county health
+25 department or agency, a multicounty health department or agency, or any other county
+26 health authority;
+27 (6) "Petition", a petition for assisted outpatient treatment filed under section
+28 632.585 or for continued assisted outpatient treatment filed under section 632.600;
+29 (7) "Respondent", a person who is alleged in a petition to meet the criteria for
+30 assisted outpatient treatment in section 632.590;
+31 (8) "Service area", the same meaning given to the term in section 205.975.
+632.585. 1. A petition for an order authorizing assisted outpatient treatment
+2 may be filed by:
+3 (1) The director, administrator, or treating physician of a mental health program
+4 in which the respondent is hospitalized;
+5 (2) The director, administrator, or treating physician of an emergency receiving
+6 center in which the respondent is receiving services;
+7 (3) A licensed physician, a registered professional nurse designated by the
+8 community mental health center and approved by the department of mental health, or a
+9 mental health professional from whom the respondent is receiving services;
+10 (4) The appointed guardian or limited guardian of a ward who is the
+11 respondent; or
+
+HCS SB 1019 24
+12 (5) The department of health and senior services, the department of mental
+13 health, or any local public health agency located within the probate jurisdiction in which
+14 the petition is filed.
+15 2. The petition may be filed in the court having probate jurisdiction in which the
+16 respondent is present or reasonably believed to be present or in the probate jurisdiction
+17 in which the respondent resides.
+18 3. The petition shall allege under oath, without a notarization requirement, that
+19 the petitioner has reason to believe that the respondent meets the criteria for assisted
+20 outpatient treatment in section 632.590. The petition shall specify factual information
+21 on which such belief is based and shall contain the names and addresses of all persons
+22 known to the petitioner who have knowledge of such facts through personal observation.
+23 4. No notarization shall be required for a petition or for any affidavits,
+24 declarations, or other documents supporting a petition. The petition and any affidavits,
+25 declarations, or other documents supporting the petition shall be subject to the
+26 provisions of section 492.060 allowing for declaration under penalty of perjury.
+27 5. The prosecuting attorney of the county in which a hearing on a petition takes
+28 place shall represent the petitioner and file and prosecute in court all petitions. Such
+29 duty shall be fulfilled by the county counselor in counties having a county counselor and
+30 by the circuit attorney in any city not within a county.
+632.590. Following receipt of a petition and completion of the procedures
+2 required in section 632.593, a court may issue an order requiring a respondent to
+3 participate in assisted outpatient treatment if:
+4 (1) The respondent:
+5 (a) Is eighteen years of age or older;
+6 (b) Is suffering from a mental illness;
+7 (c) Will not obtain treatment in the community voluntarily; and
+8 (d) Is unable to make an informed decision to seek or to comply with voluntary
+9 treatment; and
+10 (2) Either:
+11 (a) Because of the respondent's fulfillment of the criteria of subdivision (1) of
+12 this section, the respondent requires treatment to prevent a deterioration in the
+13 respondent's mental illness that would be likely to result in serious harm to the
+14 respondent or others as described in section 632.305; or
+15 (b) The respondent has a history of a lack of compliance with treatment for the
+16 respondent's mental illness, and within the thirty-six months immediately preceding the
+17 date of the filing of the petition such lack of compliance has either:
+
+HCS SB 1019 25
+18 a. At least twice, been a significant factor in necessitating a civil detention period
+19 for treatment instituted under sections 632.120 or 632.305 or receipt of services in a
+20 forensic or other mental health unit of any state or local correctional facility, not
+21 including any period during which the respondent was hospitalized or incarcerated
+22 immediately preceding the date of the filing of the petition; or
+23 b. Resulted in one or more acts of violent behavior with the intention of causing
+24 serious physical injury toward self or others or threats of, or attempts of, serious
+25 physical harm to self or others, not including any period during which the respondent
+26 was hospitalized or incarcerated immediately preceding the date of the filing of the
+27 petition.
+632.593. 1. At the time of filing the petition, the court clerk shall set a date and
+2 time for the hearing, which shall take place within two judicial days of the filing of the
+3 petition. An attorney shall be appointed to represent the respondent as required under
+4 section 632.450 from the register of attorneys described in section 632.415. An attorney
+5 so appointed shall be entitled to attorney's fees to the same extent as allowed under
+6 section 632.415. The clerk shall promptly notify the respondent, the respondent's
+7 attorney, the petitioner, and the petitioner's attorney of the date and time for the
+8 hearing. The court shall not grant continuances except upon a showing of good and
+9 sufficient cause.
+10 2. The hearing shall be conducted in as informal a manner as may be consistent
+11 with orderly procedure and in a physical setting not likely to have a harmful effect on
+12 the respondent. The respondent shall have the following rights in addition to those
+13 specified elsewhere:
+14 (1) To be represented by an attorney;
+15 (2) To present evidence on his or her own behalf;
+16 (3) To cross-examine witnesses who testify against him or her;
+17 (4) To remain silent;
+18 (5) To view and copy all petitions and reports in the court file of his or her case;
+19 (6) To have the hearing open or closed to the public as he or she elects;
+20 (7) To be proceeded against according to the rules of evidence applicable to civil
+21 judicial proceedings; and
+22 (8) To have the hearing before a jury if requested by the respondent or his or her
+23 attorney.
+24 3. The respondent shall be present at the hearing unless the respondent's
+25 physical condition is such that he or she cannot be present in the courtroom or if the
+26 court determines that the respondent's conduct in the courtroom is so disruptive that
+27 the proceedings cannot reasonably continue.
+
+HCS SB 1019 26
+28 4. The burden of proof at the hearing shall be by clear and convincing evidence
+29 and shall be upon the petitioner.
+30 5. If the matter is tried before a jury, the jury shall determine and shall be
+31 instructed only upon the issue of whether the respondent meets the criteria for assisted
+32 outpatient treatment in section 632.590. The remaining procedures for the jury trial
+33 shall be as in other civil matters.
+34 6. The respondent shall not be required to file an answer or other responsive
+35 pleading.
+36 7. At the conclusion of the hearing, if the court or jury finds, based upon clear
+37 and convincing evidence, that the respondent meets the criteria for assisted outpatient
+38 treatment in section 632.590, and the court finds that a mental health program
+39 appropriate to handle the respondent's condition has agreed to accept the respondent,
+40 the court shall issue an order requiring the respondent to participate in assisted
+41 outpatient treatment with the mental health program for a period not to exceed two
+42 years.
+43 8. At the conclusion of the hearing, if the court or jury does not find by clear and
+44 convincing evidence that the respondent meets the criteria for assisted outpatient
+45 treatment in section 632.590, the court shall dismiss the petition.
+46 9. An order requiring the respondent to participate in assisted outpatient
+47 treatment based on satisfaction of the provisions of subparagraph a. of paragraph (b) of
+48 subdivision (2) of section 632.590 shall not be issued unless the court has considered, or
+49 the jury has been instructed to consider, at least the following factors:
+50 (1) The respondent's ability to access finances in order to obtain food or
+51 medicine;
+52 (2) The respondent's ability to obtain treatment for the respondent's medical
+53 condition;
+54 (3) The respondent's ability to access necessary resources in the community
+55 without assistance;
+56 (4) The degree to which there are risks to the respondent's safety;
+57 (5) The likelihood that the respondent will decompensate without immediate
+58 care or treatment;
+59 (6) The respondent's previous attempts to inflict physical injury on self or
+60 others;
+61 (7) The respondent's history of behavioral health treatment in the community;
+62 (8) The respondent's patterns of decompensation in the past;
+63 (9) The respondent's risk of being victimized or harmed by others; and
+64 (10) The respondent's access to the means to inflict harm on self or others.
+
+HCS SB 1019 27
+65 10. Nothing in this section shall prevent the court or jury from considering any
+66 other factor not described in this section.
+67 11. If requested by the respondent, the court shall appoint an available licensed
+68 physician or licensed psychologist to examine the respondent and testify at the
+69 respondent's request. If the respondent or the respondent's attorney so requests, the
+70 court shall not appoint a licensed physician or licensed psychologist who is an employee
+71 of any entity in which the respondent is hospitalized or receiving services or who is an
+72 employee of any entity that filed the petition. The appointment procedures in section
+73 632.420 shall apply to any appointment under this subsection.
+74 12. The physician-patient privilege recognized by section 491.060 and the
+75 psychologist-patient privilege recognized by section 337.055 shall be deemed waived in
+76 proceedings under sections 632.580 to 632.610. The fact that such privileges have been
+77 waived in accordance with this section shall not by itself waive the privileges in any
+78 other proceeding, civil or criminal. The waiver of the privileges shall extend only to that
+79 evidence that is directly material and relevant to the proceedings under sections 632.580
+80 to 632.610.
+81 13. Appeals from court orders under this section may be made as described in
+82 section 632.430.
+83 14. Assisted outpatient treatment shall not be deemed outpatient detention for
+84 purposes of this chapter, and no provision of this chapter relating to the requirements
+85 for inpatient or outpatient detention proceedings shall apply to assisted outpatient
+86 treatment under sections 632.580 to 632.610 unless such provision has been specifically
+87 incorporated into sections 632.580 to 632.610 by reference or otherwise.
+88 15. The provisions of section 632.440 shall apply to assisted outpatient treatment
+89 under sections 632.580 to 632.610.
+632.595. 1. The court shall assign a case manager from a certified community
+2 behavioral health clinic to each respondent ordered to participate in assisted outpatient
+3 treatment.
+4 2. The case manager and the respondent shall report to the court at least once
+5 every ninety days. The court may, at its discretion, request more frequent appearances.
+6 The case manager shall immediately report to the court a substantial failure of the
+7 respondent or the mental health program providing the assisted outpatient treatment to
+8 comply with the conditions of the assisted outpatient treatment.
+632.600. 1. The court order for assisted outpatient treatment shall expire at the
+2 end of the period specified in the order unless a petition for an extension has been filed.
+3 If any person or entity authorized to file a petition under section 632.585 determines
+4 that a respondent requires further involuntary assisted outpatient treatment, the person
+
+HCS SB 1019 28
+5 or entity shall file a petition for continued assisted outpatient treatment before the
+6 expiration of the involuntary assisted outpatient treatment ordered by the court.
+7 2. The procedure for obtaining an extension shall be the same as for obtaining
+8 the original order, except that the thirty-six-month time period provided in paragraph
+9 (b) of subdivision (2) of section 632.590 shall not be applicable in determining the
+10 appropriateness of an extension.
+632.605. 1. During the period of an order for assisted outpatient treatment, if
+2 the mental health program or mental health professional who is providing the
+3 respondent's assisted outpatient treatment determines that the respondent is not
+4 complying with the court order, the mental health program or mental health
+5 professional shall notify the court immediately.
+6 2. If it comes to the attention of the court that a respondent subject to an order of
+7 assisted outpatient treatment is not complying with the order, the court may require one
+8 or more of the following, without a hearing:
+9 (1) That the respondent be taken for evaluation to a community mental health
+10 center providing comprehensive mental health services to individuals residing in the
+11 service area in which the respondent resides;
+12 (2) That the respondent be hospitalized in a psychiatric hospital for a period of
+13 not more than ten days; and
+14 (3) Upon recommendation by the community mental health center providing
+15 comprehensive mental health services to individuals residing in the service area in which
+16 the respondent resides, that the individual be hospitalized for a period of more than ten
+17 days, but not longer than the duration of the order for assisted outpatient treatment, or
+18 not longer than ninety days, whichever is less.
+19 3. The court may direct peace officers to transport the respondent to a
+20 designated facility or a community mental health center, as applicable, and the court
+21 may specify conditions under which the respondent may return to assisted outpatient
+22 treatment before the order expires. Reimbursement for transportation costs shall be
+23 allowed as provided under section 632.312.
+24 4. A respondent hospitalized without a hearing as provided in subsection 2 of
+25 this section may object to the hospitalization. Upon transfer of the respondent to the
+26 hospital, the hospital shall notify the respondent of his or her right to object under this
+27 section. Upon receipt of an objection to the hospitalization, the court shall schedule a
+28 hearing for a determination that the individual requires hospitalization. The
+29 respondent shall have all rights specified in section 632.593 at the hearing. The court
+30 shall order the respondent discharged from hospitalization unless the court or jury
+31 finds, based upon clear and convincing evidence, that the respondent requires
+
+HCS SB 1019 29
+32 hospitalization as a result of the respondent's failure to comply with the order for
+33 assisted outpatient treatment.
+632.610. Beginning December 1, 2028, the office of state courts administrator
+2 shall submit an annual report to the general assembly summarizing:
+3 (1) The number of individuals subject to orders for assisted outpatient
+4 treatment;
+5 (2) Statistics on compliance and noncompliance rates with assisted outpatient
+6 treatment; and
+7 (3) Any impact that assisted outpatient treatment has on hospitalization and
+8 incarceration rates.
+✔
+
+[DELETED:  B N 1CJ 3 6 6 6 6 6 a 6 S3R a r a t n s e i l t t b k as3 3 3 3 3 3 3 4 666 Tsiypsfd i o o f t o o t h [ a U Si()A m f t i i s b o r e o ac()B()O0i1()A—M i e]
+[DELETED: 2()M3()A4s6T7d82 T9( Rep0c1( Rep2f 1 Alttpo2 Ico0h1t 1 P l u c 3 w u t ser T( Anae( C w a p o t p d w h aet( A0e a i a w e s o p a t1p22 I3(4tna5tep ]
+[DELETED: 6( P t p t i i p o p7c u A X o t M C a p w u8tetsr9m0p [ Ayq c b t p w v t i o1t233t t m e h b p i p o s4qed n c a a m [ ena5e6()A p t u a q t e a p7r8t93.A0b1f2t3()T4()T5()T6()A 1 Tc d w a M a o a n p h a opi d t p t h a w o t r o t s Scsr2 Wd a s p t g a w a a r a0a o a a a g f r a e b t1d2m E h s d i a p p w t wrs w t f t i a c l " A AH ]
+[DELETED: OPB 1 A h d b w a o s d e ict a e a h o p t [ 9 2 o t cpe a o a b l s h a e t fg p a a o p i n c o dt( Tc0i1t2o3(4l a l i i l a t a i p p u o5u t l e d e o6i o a h o h f T a m b b d7p8( T9a e i c f t u o o m o a h o h0f1a2o3h o h f A a e i p t t s4p5t p b t s n p t t f e i a r o t6a7t8( T f c a c r f a c f t u o9o0m a o o s f b t h o h f1a2(3i f t p o a a o i c p s t ]
+[DELETED: 4c5t6( T7c8t9c0( T1t2s3t4w w d a o t r a r s e t e t5p6t7( T8t9e0( T1h2p32 T4r r a c o t d a u s r t a5c63 A7m8t94 N0a t d o b e e a r o r i r t1h o t o o m o s h o a h f2w i j w i i c w a f o s l o r3a 1 To2 m i u t f p o i f n r f id( m f t i i s b o r e o ac( B ]
+[DELETED: ( Oi0( A1( M2( A3s5T6d72 T8l.1 A( "lt d c a t o i p a t a n fe( "w( " H t M p a b t s oM0( "1c2p m j i a l3a42 T p c o c p s p b a5h6H73 T8c94 T r a f t p c o c0p s s b s a n l t t p o t a M1H25 P3m d t t l p p t s o t t e t4l56 I6t ]
+[DELETED: 7I8o f a i r m o p o a9a0t N1i2a37 T4r A5t6s s b e o i i c w a i s t a o t7p T85 a n a i a o t p v w t g a9p0a1a F( " a l c r p a o moa( "C G M C N S F N G a a o mba Sm0( "1i2o3d4i5p6t7( "8( A9S0w1d2c ]
+[DELETED: 3( A4a5s o M a w w b a M l e o u t6c7( "8i9( " m o l e s a s o a a d0m1b2t3h42 A5u6b7l8w9l0s13 T2( W3s4s5a w e a c s r i e a t o6[nv7c A8l9t0( W1s2e s w a e e o e r f3l4s54 ( T o b s n w a e e o6e r f a a w h h h o h l r b a7o8p9o ]
+[DELETED: 0g1d2t3s4( I a j h t d a a a a t5o b s d i t c f t a w c a t m6r I7d85 N9a0o16 A2t j a a r t3p A4l5t6s7l87 T9p0l18 T s s n a t b p o o l2i39 T4r51 T6b o a r p p t a i o i7c a b M s o a r a w o s i8e a w p t s s b i s a t i n c9b01 N1s2c A3n41 p o t s s n a t a o s f i5s6t ]
+[DELETED:  1 Pt t a d i s 1 o t i a p se a v p r a d i s 1 Tr( Oc,pwt( H s [ eew t p r t0o1( I2( M3p4a5( M6r72 T8p9( A0( A1( H213( Adi4s5( C6( C7( C w a p w h a o p8r w t p a w h a t s t p t9i0( O13 N2c3t t t e t a p o s p o4d o a a p r n a p a o a a5p6d7pee 1]
+[DELETED: 8o9t04 N1t2a35 M r o a d c s o o t4p t t a d i s 1 s b c5s a m i a w t H I P a6A7f8c Ts s t a f a s f e o s p cc( H a m o a d d f a p t w a"tb( Sp0e t t r b t C o A A o t A1S2( P3T4o T5d6w7a P8p9( P T0d 1 A( "( " e a e d i s ( t ( os2d 1]
+[DELETED: ( "( "( "0312 A2h3e4( R5t6e7e T8o c a i s s b r t c u w a9p o e s b d a " s p o e f0p1( I2t3n4c5w6( F7( P8( R o r r p i s o9p0( R1m2( A3t4c e t m t v o d p u 4 U S526( D i r t a c e b o t7d8( R a c e t i e d o t a t9p0( R1( a c e t r r o c a 3 d2p 1]
+[DELETED: 3( I4p5( R63 T7c8s9s S04 T1r A2t3s s b e o i i c w a i s t a o t4p T55 a n a i a o t p v w t g a6p7a8a 1 Ai( O( Eos i e w a l o c e a td2 At0c Fs( A b o t e b p e s s a fm T Ne No e A m o t a a m o s t m b eTe Ab0o T 1]
+[DELETED: 1a m f p i t a a t c w a l2t3( E4t5( I6i7s8i9t A0t1( T2d3t T4p T5i6a i w t d r i c w s 37M T8p9i0s 1 Aa2 A( [f()Fm( S()A0a 1 A( " p p t r f d a o itd( p p t i a p a l cc b d o p t l f m t t w op b t e h t I m r f v c 1]
+[DELETED: i b n l t i s n d o u mc0( "1( " b p t s m g t t t i s233( "4352 N6c7m8f9( D c o t n p d i f o a o0p1( R t e t t a o p d b p2c3(4t53 T6c.1 A( "( Aca( Aop( A0a1( A s o t i m l t i d t2a3( A a s d t a r i a i4s a o e r t a g u p p5r6( T7t8r 1]
+[DELETED: 92 A0s1h2o33 A4t54 T a g s e t p o t s A6i I7g f t a v o t a g s c a c8a I9t0s N1c2( T3( T Ah f m b e b a a p w n n b a a oruth Tsa2 T0a1t c o a e p b t d w t r s b t i2c T3h I4f t t i p c e u t u o o u a r o5a d o o s d t b t t r6m7o8t9p0p t t c N h s b c t p t c i t1e 1]
+[DELETED: 23 A3t4s5d6i U7h f t p o w c s p o c h o h t b8c9w0c1p2o3t44 I5f a a l p a r p n o a m h6p7p8i l o s h t h o h o o u h o s i9a0p1a2h T a s b b o h o h o p o o3i45 ( N,o5d6( A7( A8n9( A0u1( T2t3u 1 Usi Id t p b t i c a d t t p b t t aa I 1]
+[DELETED: t t d o m h t d o t d o m h sd62 W s h a a p i t i c p t0s1s p n o a a p a a t2c A3t4( V5( D6v p T s m r u t p a s t p w7a83 A t p c h a p i s 2 o t s t9d0( T1(2( T3( T v a c a p a r i t c f i t4a54 I6t7e I8t d o m h t d o t d o m h s9d0ora T1d2p3t t p r t p r I a s p m b4e5o A6c A7t8m9c T0c1p2f T 1]
+[DELETED: 3o p s h a t a m p t a c b t4m5p b e A e p p t t s s b6c7d O8s A9s Wsv Tgt Atec Tr I0i1b2i3m,f I4f a j i m t t s b b t c T c s c a t5p6w 1 T c o j s d w b c a ce Iso Aa2 Ipct S0adb t d o m h i a a s f a1d b t d o t d o m h a s f i t2s33 A a t p o t t d o m h a a4d 1]
+[DELETED: 5p6u s 6 a p c f c c a t b t7d8f9b0d T1p2p m m t d o a s v p a p o t t3d4p c f c c a t b t d o m h5p T6t7684 T d o m h i a t e i a i9a0t1m2o3s 6 p t d o c h n s a4s a a t d o t d o c h a t5p6m S7p8i t c o t d o c a e f o i o9s I0m h a t d o c h e i a i1a2e3u4i b n l t a c a w o o m l5p6p75 T8w o o m c j i M f t c o p o t t9d0d1d S 2]
+[DELETED: 2p3h4f o i o s i c s b s f s5o66 T7a8c9s0a1p2o S3c4f o i t c o t d o c a e f5o i o s i c s b s f s6o I7e8c i a t e i o o m c a a m b9n0u1w2h37.T d o m h i a t e i a c4a5h6o7p8d9a0h18.I2i3[.U4s I5t6m h s d t a s f t h t p A7s8u 2]
+[DELETED:  Np f r p t s 6 t 6 H i a p hpm hsa a t c d e u r o t p ofhs p u t p c f u w a c c f tc Uf0s1u 1 F( "ttawha( " a p o t t d o m h a ada0s1m2( "3e4tsa5662 N7m V8s93 N0o V1f T d s f i s 6 s a t s6 Ic( " o t c i om h c s t a p b a m h p u a 2]
+[DELETED: tS( C( M0( T1( S2( C3( A w h e o o c r4n5( " m a m h p e b a c6c m h c w i a t a r t o t7r8s9( "0s1( m h s t s m g t t2t3( " p h a a c h c b e4u c 2 a c h d a c c a c h5d6h7( "869( "0a1( " 1 Am( Ti( Tc( A l p a r p n d b tcm0( T a g o l g o a w w i t1r 2]
+[DELETED: 2( T d o h a s s t d o m3h4t52 T6r7i83 T9t0o T1o2k34 N n s b r f a p o f a a4d T5d o o d s t p s b s t t6p758p S9d0b F r o a p a c o t pr i s 6 a c m i a o r a r tp( T( I( I( W( It0( E1( B2t s t r r t t p a d i t3r m i t w b l t r i s h t t4r5( T6r7d 2]
+[DELETED: 8a A9f0f o o m h u o a s o l c f n1i a p d w t r w h o i2i3b R4s p i t s o o o t o o a o s5p6w h o i i p t d o t f o t7p 1 Atp As Ass 6 T c s p n t r t ra t p a t p a o t d a t f th Ts02 T1w2t r T r s h t f r i a t t3s4( T5( T6( T7( T8( T9( T0( T1j2( T3a43 T r s b p a t h u t r5p6c7t 2]
+[DELETED: 84 T9a05 I t m i t b j t j s d a s b1i2o T3s46 T5p67 A7a8t i s 6 a t c f t a m h p9a0t c s i a o r t r t p i a1o2y384c e t t r m t c f a o5t69 A o r t r t p i a o7t8s9t0( T r a t a f i o t o f o1m2( T3c4( T r a t a n r i t c5w6( T7( T l t t r w d w i8c9( T r p a t i p i o s o0o1( T2(3( T4( T 2]
+[DELETED: 51 N6o71 I8p o l p t e t r a t a t9r I0c1o2e T3641 T p p r b s 4 a t5p6p T7w8o T9e0t11 A2s31 A4p5f i o o d p s a t a o6t7i81 T9u 1 Tbt2 Te TT c m s i r t t c a s f o trc 1 TeIt 2]
+[DELETED: o e s f a p f c a o t b te2 Tt( o s ( o s 6 s n b a i d t0a 1 Dt m h p o m h p w i p tr a o t d t t r i nc w t c o t m h p o m hp2 Iao( T0c c m h s t i r i t1s2( T3n4( U b5c6t7d8n93 T c m d p o t t t r t a0d1m2t R3a44 A5t U6h7s U8h f a d t t i r h T9r T0s o t r d f h u t c o j1f b u c a c e t t r r 2]
+[DELETED: 2h a a r o t r f t c w t o f3a Bs( T n o i s t o f a ot( St( A i t a o t h o h ai 2]

@@ -1,0 +1,519 @@
+Title: HOUSE BILL NO. 3073
+Official Title: HOUSE BILL NO. 3073
+Number of Sections: 3
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE VEIT.
+5590H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapter 640, RSMo, by adding thereto one new section relating to utility-scale solar
+projects, with penalty provisions.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+
+Section 2:
+Section A. Chapter 640, RSMo, is amended by adding thereto one new section, to be
+2 known as section 640.1800, to read as follows:
+
+Section 3:
+640.1800. 1. For purposes of this section, the following terms mean:
+2 (1) "Cessation of operations", occurs when a utility‑scale solar project has not
+3 produced power for a period of twelve months. This twelve‑month period shall not
+4 include a period in which:
+5 (a) The project fails to produce power due to an event of force majeure; or
+6 (b) The owner has retained legal control of the project's footprint and has
+7 commenced rebuilding the facility;
+8 (2) "Department", the department of natural resources;
+9 (3) "Expansion" or "expanded", adding two megawatts alternating current or
+10 more of directly connected solar energy generating capacity to the local or regional
+11 electrical grid with the ability to deliver power to the electrical grid, or increasing the
+12 ability of the project to deliver power to the electrical grid by thirty‑five percent,
+13 whichever is larger;
+14 (4) "Owner", the person or corporation who has assumed legal ownership of the
+15 solar energy system through the provisions of a contract or other legally binding
+16 transfer of ownership;
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+HB 3073 2
+17 (5) "Photovoltaic module" or "PV module", the smallest nondivisible,
+18 environmentally protected assembly of photovoltaic cells or other photovoltaic
+19 collector technology and ancillary parts intended to generate electrical power under
+20 sunlight, which is part of a utility‑scale solar project;
+21 (6) "Rebuild" or "rebuilt", a utility‑scale solar project for which more than fifty
+22 percent of the original photovoltaic modules have been replaced with a different type of
+23 photovoltaic module or other fuel source and the project is deemed to be new for income
+24 tax purposes;
+25 (7) "Recycle", the processing, including disassembling, dismantling, and
+26 shredding of photovoltaic modules or other equipment from utility‑scale solar
+27 projects, or their components, to recover a usable product. "Recycle" does not
+28 include any process that results in the incineration of such equipment. Photovoltaic
+29 modules determined to be hazardous shall comply with applicable hazardous waste
+30 requirements even when recycled;
+31 (8) "Utility‑scale solar project", a ground‑mounted photovoltaic, concentrating
+32 photovoltaic, or concentrating solar power project capable of generating two megawatts
+33 alternating current or more directly connected to the local or regional electrical grid
+34 with the ability to deliver power to the electrical grid. A "utility‑scale solar project":
+35 (a) Includes the solar arrays, accessory buildings, battery storage facilities,
+36 transmission facilities, and any other infrastructure necessary for the operation of the
+37 project;
+38 (b) Does not include renewable energy facilities owned or leased by a retail
+39 electric customer intended primarily for the customer's own use or to offset the
+40 customer's own retail electrical energy consumption at the premises or for net metering.
+41 2. The owner of a utility‑scale solar project shall be responsible for proper
+42 decommissioning of the project upon cessation of operations and restoration of the
+43 property in compliance with subdivision 4 of subsection 4 of this section, including all
+44 associated costs, no later than one year following cessation of operations.
+45 3. The owner shall notify the department within thirty days of cessation of
+46 operations. Such notice shall include a detailed description of the steps to be taken to
+47 properly decommission the project and for restoration of the site.
+48 4. At a minimum, an owner shall take all of the following steps in
+49 decommissioning a project:
+50 (1) Disconnect the solar project from the power grid;
+51 (2) Remove all equipment from the solar project, collect and ship equipment for
+52 reuse, or recycle all of the components thereof practicably capable of being recycled,
+53 including the PV modules, the entire solar module racking system; aboveground
+HB 3073 3
+54 electrical interconnection and distribution cables that are no longer deemed necessary;
+55 subsurface cable no longer deemed necessary; any metal fencing; electrical and
+56 electronic devices, including transformers and inverters; and energy storage system
+57 batteries;
+58 (3) Properly dispose of components that will not be shipped for reuse, are
+59 incapable of being recycled, and do not meet the definition of hazardous waste in:
+60 (a) An industrial landfill; or
+61 (b) A municipal solid waste landfill;
+62
+63 PV modules that meet the definition of hazardous waste shall comply with hazardous
+64 waste requirements for recycling and disposal as applicable; and
+65 (4) Restore the property:
+66 (a) As nearly as practicable to its condition before the utility‑scale solar project
+67 was sited; or
+68 (b) To an alternative condition agreed upon in a written contract or lease
+69 agreement between the landowner and the project owner;
+70
+71 A copy of the agreement signed by both parties shall be provided to the department
+72 prior to decommissioning. The condition of the property shall otherwise comply with
+73 any applicable statutory requirements, rules adopted thereunder, and requirements in
+74 local ordinance. Land that was cleared of trees for the solar project may be revegetated
+75 or reforested with seedlings.
+76 5. The owner of a utility‑scale solar project shall submit a decommissioning plan
+77 to the department for approval, prior to starting energy production. The
+78 decommissioning plan shall be prepared, signed, and certified by an independent
+79 licensed professional engineer, certified or licensed in this state, and shall contain all of
+80 the following:
+81 (1) The name, address, and contact information for the owner of the project, and
+82 name, address, and contact information for the landowner of the property on which the
+83 project is sited, if different than the owner;
+84 (2) A narrative description of how the decommissioning will be conducted,
+85 including the decommissioning sequencing; the disposition of materials to be used upon
+86 decommissioning, such as landfilling, reuse, or recycling of project equipment, which
+87 shall specifically delineate methods to be used for solid and hazardous waste; and a
+88 schedule for completion of the decommissioning activities;
+89 (3) Information on equipment proposed to be salvaged, including estimated
+90 salvage value of the equipment for the purpose of determining financial assurance;
+HB 3073 4
+91 (4) Information on steps to be taken to restore the property in compliance with
+92 subdivision (4) of subsection 4 of this section;
+93 (5) A cost estimate for decommissioning the project and restoration of the
+94 property in compliance with subdivision (4) of subsection 4 of this section; and
+95 (6) The proposed mechanism to satisfy the financial assurance requirements
+96 established under subsection 6 of this section, including information on which legal
+97 entity will establish the mechanism, when it will be established in accordance with the
+98 requirements of this section, and how the department will access the funds from the
+99 mechanism if needed.
+100 6. (1) The owner of a utility‑scale solar project shall establish financial
+101 assurance in an amount acceptable to the department to ensure that sufficient funds are
+102 available for decommissioning of the project and restoration of the property in
+103 compliance with subdivision (4) of subsection 4 of this section, even if the owner
+104 becomes insolvent or ceases to reside, be incorporated, do business, or maintain assets in
+105 this state. To establish sufficient availability of funds under this section, the owner of a
+106 utility‑scale solar project may use insurance; financial tests; third‑party guarantees by
+107 persons who can pass the financial test; guarantees by corporate parents who can pass
+108 the financial test; irrevocable letters of credit, trusts, surety bonds, or any other
+109 financial device; or any combination of the foregoing, shown to provide protection
+110 equivalent to the financial protection that would be provided by insurance if insurance
+111 were the only mechanism used.
+112 (2) Financial assurance shall be established by an owner of a utility‑scale solar
+113 project and maintained until such time as the project is decommissioned and restoration
+114 of the property has been completed in compliance with this section. Documentation of
+115 financial assurance established shall be submitted to the department at the time of
+116 registration and at the time of required update every five years, as required by
+117 subsection 7 of this section.
+118 7. Each owner of a utility‑scale solar project shall register with the department
+119 and update such registration every five years from the registration submission date, or
+120 with a transfer of ownership, until the site is completely decommissioned. At the time of
+121 registration or periodic required update required by the department, the owner shall
+122 provide all of the following information:
+123 (1) Identification of the owner and any other legal entity that will be responsible
+124 for decommissioning the project and establishment of financial assurance, if applicable;
+125 (2) A summary of project equipment that will be subject to decommissioning
+126 requirements under this section, including the location, size, number, and type of PV
+127 modules, as well as identification of any per‑ and poly‑fluoroalkyl substances associated
+HB 3073 5
+128 with the project, and a determination as to whether the PV modules are likely to be
+129 characterized as hazardous waste upon decommissioning. The hazardous waste
+130 determination shall be made in compliance with rules adopted by the department or the
+131 division of environmental quality;
+132 (3) A summary of project timeline, including actual or anticipated initiation and
+133 completion of construction, initiation of operations, and expected service life of the
+134 project;
+135 (4) Estimates of costs to decommission the project and restore the property;
+136 (5) A proposed financial assurance mechanism to be used to meet the
+137 requirements of this section, if applicable;
+138 (6) Copies of any decommissioning plan executed, or documentation of financial
+139 assurance established, pursuant to local government ordinance or agreement with a
+140 landowner, prior to registration under this subsection;
+141 (7) Any other information the department may require.
+142 8. Existing utility‑scale solar projects operating before August 28, 2026, shall
+143 have until December 31, 2027, to comply with the provisions of this section.
+144 9. The department shall notify the owner of the utility‑scale solar project of any
+145 modifications to the plan for decommissioning that are needed. The owner may appeal
+146 a modification by the department of a plan for decommissioning within thirty days of
+147 receiving notice of the modification to the plan, in the same manner as appeals are filed
+148 from the department's decision or as prescribed under the rules.
+149 10. The public service commission shall develop and maintain a list of all
+150 utility‑scale solar projects operating within this state and shall provide the department
+151 with an updated list annually on or before July first of each year.
+152 11. Nothing in this section shall be construed as limiting the authority of any
+153 landowner to enter into an agreement with an owner to lease property on which a
+154 utility‑scale solar project will be sited that expressly establishes requirements that are
+155 more stringent than those set forth in this section for decommissioning and financial
+156 assurance for utility‑scale solar projects to be located on the landowner's property.
+157 12. The department shall collect reasonable fees from the owner of a utility‑scale
+158 solar project subject to the requirements of this section, at the time of registration. Any
+159 fees that are collected by the department at the time of registration, periodic updates,
+160 annual reporting, or for meeting compliance requirements shall be established by rule,
+161 and in accordance with this section. Fees collected under this subsection shall be
+162 applied to the department's cost of administering the program.
+HB 3073 6
+163 13. Information regarding implementation of the requirements of this section
+164 shall be included in the appropriate annual report prepared by the department under
+165 chapter 640.
+166 14. (1) If the owner of a utility-scale solar project fails to comply with the
+167 decommissioning plan or the financial assurances requirements under the provisions of
+168 this section or any rule or regulation promulgated by the department, the surety bond
+169 or similar security posted by the owner to secure the owner's obligations under this
+170 section shall be deemed forfeited. The attorney general shall institute a civil action in
+171 any court of competent jurisdiction for forfeiture of the bond on behalf of the
+172 department. The department shall use the security proceeds or moneys obtained from
+173 the surety bond to pay for the decommissioning and restoration of the property.
+174 (2) Whenever it appears to the department that the owner has engaged in, or is
+175 about to engage in, any acts or practices that have or will constitute a violation of this
+176 section, or any rule or regulation promulgated thereunder, the director may request the
+177 county prosecuting attorney or the attorney general to bring an action in the circuit
+178 court for injunctive relief to prevent such violation, or in the case of a violation
+179 concerning the owner's failure to comply with the decommissioning plan or financial
+180 assurances, for the assessment of a penalty not to exceed one thousand two hundred
+181 dollars per day, or part thereof, or both, as the court deems proper. In any such action,
+182 the court may grant to the department such prohibitory or mandatory injunctive relief
+183 as the facts may warrant.
+184 (3) The prevailing party in any such action brought under subdivision (1) of this
+185 subsection, or for injunctive relief instituted under subdivision (2) of this subsection,
+186 shall be awarded costs and reasonable attorney's fees.
+187 15. The department shall promulgate all necessary rules and regulations for the
+188 administration of this section and include the specific criteria set out in subsection 6 of
+189 this section. Any rule or portion of a rule, as that term is defined in section 536.010, that
+190 is created under the authority delegated in this section shall become effective only if it
+191 complies with and is subject to all of the provisions of chapter 536 and, if applicable,
+192 section 536.028. This section and chapter 536 are nonseverable and if any of the powers
+193 vested with the general assembly pursuant to chapter 536 to review, to delay the
+194 effective date, or to disapprove and annul a rule are subsequently held unconstitutional,
+195 then the grant of rulemaking authority and any rule proposed or adopted after August
+196 28, 2026, shall be invalid and void.
+197 16. (1) The rules promulgated under this section shall establish criteria to set the
+198 amount of financial assurance required for utility‑scale solar projects as set forth in
+199 subsection 4 of this section.
+HB 3073 7
+200 (2) The rules shall include, at a minimum:
+201 (a) The solar technology to be employed including, but not limited to, PV,
+202 concentrated photovoltaics, concentrated solar power, or other technology;
+203 (b) The approximate number and size of PV modules included in the solar
+204 arrays to be constructed;
+205 (c) Any ancillary facilities to be constructed in association with the project;
+206 (d) The condition of the property prior to construction of a utility‑scale solar
+207 project;
+208 (e) The amount of acreage that would be impacted by the proposed project; and
+209 (f) Any other factors designed to enable establishment of adequate financial
+210 assurance for decommissioning and restoration on a site‑by‑site basis.
+211 (3) The department shall consider the salvage value of the project's equipment in
+212 establishing requirements for financial assurance for a utility‑scale solar project.
+213 (4) The rules shall require periodic updates to be provided by owners with
+214 respect to financial assurance maintained.
+215 (5) The rules shall address the following matters:
+216 (a) Requirements for decommissioning plans, including required information,
+217 and processes for submittal and review of plans;
+218 (b) Fees to be assessed at periodic updates or for annual compliance or reporting
+219 requirements; and
+220 (c) Any other matter the department deems necessary.
+✔
+[DELETED:  B N 3IJ Ck.1( "p Ti( T( T o h r l c o t p f a hc( "( "0m o d c s e g c t t l o r1e2a o t p t d p t t e g b t p3w4( "5s e s t t p o a c o o l b6t—M i e]
+[DELETED: 7( " m o " m t s n8e p a o p c o o p9c t a a p i t g e p u0s1( "2p3p4t5( " t p i d d a6s o p m o o e f u s7p o t c t r a u p " d n8i P9m d t b h s c w a h w0r1( "2p3a4w A5( I t s a a b b s f6t7p8( D n i r e f o o l b a r9e c i p f t c o u o t o t0c12 T o o a u s p s b r f p2d o t p u c o o a r o t3p4a53 T o s n t d w t d o c o6o S7p84 A a m a o s t a o t f s i9d0( D1(2r3i t P m t e s m r s a ]
+[DELETED: 4e5s c n l d n a m f e a6e d i t a i a e s s7b8( P d o c t w n b s f r a9i0( A1( A3P4w5( R6( A7w8( T a a c a u i a w c o l9a1A2p T3a4l L5o65 T7t t d f a p t s e p T8d p s b p s a c b a i9l0t1( T2n3p4( A n d o h t d w b c5i6d7s f8s9( I o e p t b s i e0s ]
+[DELETED: 1( I2s3( A c e f d t p a r o t4p5( T p m t s t f a r6e u s 6 o t s i i o w l7e8r9m06 ( T o o a u s p s e f1a2a f d o t p a r o t p i3c w s ( o s 4 o t s e i t o4b5t T6u7p8t f t i l o c t s b o a o9f d o a c o t f s t p p0e1w2( F3p4o D5f a e s b s t t d a t t o6r a a t t o r u e f y a r b7s87 E9a0w A1r2p3( I4f5(6r7m ]
+[DELETED: 8w9c a h w u d T h w0d1d2( A3c o c i o o a e s l o t4p5( E6( A p f a m t b u t m t7r8( C9a e p t l g o o a w a0l1( A28 E3h49 T5m T6a7r8f91 T p s c s d a m a l o a0u1w21 N3l t e i a a w a o t l p o w a4u5m6a71 T8s A9f0a1a i a w t s F c u t s s b2a ]
+[DELETED: 31 I4s5c61 ( I t o o a u s p f t c w t7d8t9o0s T1a c o c j f f o t b o b o t2d T3t4( W5a6s7c8c f i r t p s v o i t c o a v9c0a1d I2t3a4( T5s6s71 T8a9t A0i1c2s T3v w t g a p t c 5 t r t d t4e5t6271 T8a9s ]
+[DELETED: 0( T1( T s t t b e i b n l t P2c3( T a n a s o P m i i t s4a5( A6( T7p8( T9( A o f d t e e o a f0a1( T2e3( T r s r p u t b p b o w4r5(6( R7a8( F9r0( A ]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+HOUSE BILL NO. 3073
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE VEIT.
+5590H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapter 640, RSMo, by adding thereto one new section relating to utility-scale solar
+projects, with penalty provisions.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Chapter 640, RSMo, is amended by adding thereto one new section, to be
+2 known as section 640.1800, to read as follows:
+640.1800. 1. For purposes of this section, the following terms mean:
+2 (1) "Cessation of operations", occurs when a utility‑scale solar project has not
+3 produced power for a period of twelve months. This twelve‑month period shall not
+4 include a period in which:
+5 (a) The project fails to produce power due to an event of force majeure; or
+6 (b) The owner has retained legal control of the project's footprint and has
+7 commenced rebuilding the facility;
+8 (2) "Department", the department of natural resources;
+9 (3) "Expansion" or "expanded", adding two megawatts alternating current or
+10 more of directly connected solar energy generating capacity to the local or regional
+11 electrical grid with the ability to deliver power to the electrical grid, or increasing the
+12 ability of the project to deliver power to the electrical grid by thirty‑five percent,
+13 whichever is larger;
+14 (4) "Owner", the person or corporation who has assumed legal ownership of the
+15 solar energy system through the provisions of a contract or other legally binding
+16 transfer of ownership;
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 3073 2
+17 (5) "Photovoltaic module" or "PV module", the smallest nondivisible,
+18 environmentally protected assembly of photovoltaic cells or other photovoltaic
+19 collector technology and ancillary parts intended to generate electrical power under
+20 sunlight, which is part of a utility‑scale solar project;
+21 (6) "Rebuild" or "rebuilt", a utility‑scale solar project for which more than fifty
+22 percent of the original photovoltaic modules have been replaced with a different type of
+23 photovoltaic module or other fuel source and the project is deemed to be new for income
+24 tax purposes;
+25 (7) "Recycle", the processing, including disassembling, dismantling, and
+26 shredding of photovoltaic modules or other equipment from utility‑scale solar
+27 projects, or their components, to recover a usable product. "Recycle" does not
+28 include any process that results in the incineration of such equipment. Photovoltaic
+29 modules determined to be hazardous shall comply with applicable hazardous waste
+30 requirements even when recycled;
+31 (8) "Utility‑scale solar project", a ground‑mounted photovoltaic, concentrating
+32 photovoltaic, or concentrating solar power project capable of generating two megawatts
+33 alternating current or more directly connected to the local or regional electrical grid
+34 with the ability to deliver power to the electrical grid. A "utility‑scale solar project":
+35 (a) Includes the solar arrays, accessory buildings, battery storage facilities,
+36 transmission facilities, and any other infrastructure necessary for the operation of the
+37 project;
+38 (b) Does not include renewable energy facilities owned or leased by a retail
+39 electric customer intended primarily for the customer's own use or to offset the
+40 customer's own retail electrical energy consumption at the premises or for net metering.
+41 2. The owner of a utility‑scale solar project shall be responsible for proper
+42 decommissioning of the project upon cessation of operations and restoration of the
+43 property in compliance with subdivision 4 of subsection 4 of this section, including all
+44 associated costs, no later than one year following cessation of operations.
+45 3. The owner shall notify the department within thirty days of cessation of
+46 operations. Such notice shall include a detailed description of the steps to be taken to
+47 properly decommission the project and for restoration of the site.
+48 4. At a minimum, an owner shall take all of the following steps in
+49 decommissioning a project:
+50 (1) Disconnect the solar project from the power grid;
+51 (2) Remove all equipment from the solar project, collect and ship equipment for
+52 reuse, or recycle all of the components thereof practicably capable of being recycled,
+53 including the PV modules, the entire solar module racking system; aboveground
+
+HB 3073 3
+54 electrical interconnection and distribution cables that are no longer deemed necessary;
+55 subsurface cable no longer deemed necessary; any metal fencing; electrical and
+56 electronic devices, including transformers and inverters; and energy storage system
+57 batteries;
+58 (3) Properly dispose of components that will not be shipped for reuse, are
+59 incapable of being recycled, and do not meet the definition of hazardous waste in:
+60 (a) An industrial landfill; or
+61 (b) A municipal solid waste landfill;
+62
+63 PV modules that meet the definition of hazardous waste shall comply with hazardous
+64 waste requirements for recycling and disposal as applicable; and
+65 (4) Restore the property:
+66 (a) As nearly as practicable to its condition before the utility‑scale solar project
+67 was sited; or
+68 (b) To an alternative condition agreed upon in a written contract or lease
+69 agreement between the landowner and the project owner;
+70
+71 A copy of the agreement signed by both parties shall be provided to the department
+72 prior to decommissioning. The condition of the property shall otherwise comply with
+73 any applicable statutory requirements, rules adopted thereunder, and requirements in
+74 local ordinance. Land that was cleared of trees for the solar project may be revegetated
+75 or reforested with seedlings.
+76 5. The owner of a utility‑scale solar project shall submit a decommissioning plan
+77 to the department for approval, prior to starting energy production. The
+78 decommissioning plan shall be prepared, signed, and certified by an independent
+79 licensed professional engineer, certified or licensed in this state, and shall contain all of
+80 the following:
+81 (1) The name, address, and contact information for the owner of the project, and
+82 name, address, and contact information for the landowner of the property on which the
+83 project is sited, if different than the owner;
+84 (2) A narrative description of how the decommissioning will be conducted,
+85 including the decommissioning sequencing; the disposition of materials to be used upon
+86 decommissioning, such as landfilling, reuse, or recycling of project equipment, which
+87 shall specifically delineate methods to be used for solid and hazardous waste; and a
+88 schedule for completion of the decommissioning activities;
+89 (3) Information on equipment proposed to be salvaged, including estimated
+90 salvage value of the equipment for the purpose of determining financial assurance;
+
+HB 3073 4
+91 (4) Information on steps to be taken to restore the property in compliance with
+92 subdivision (4) of subsection 4 of this section;
+93 (5) A cost estimate for decommissioning the project and restoration of the
+94 property in compliance with subdivision (4) of subsection 4 of this section; and
+95 (6) The proposed mechanism to satisfy the financial assurance requirements
+96 established under subsection 6 of this section, including information on which legal
+97 entity will establish the mechanism, when it will be established in accordance with the
+98 requirements of this section, and how the department will access the funds from the
+99 mechanism if needed.
+100 6. (1) The owner of a utility‑scale solar project shall establish financial
+101 assurance in an amount acceptable to the department to ensure that sufficient funds are
+102 available for decommissioning of the project and restoration of the property in
+103 compliance with subdivision (4) of subsection 4 of this section, even if the owner
+104 becomes insolvent or ceases to reside, be incorporated, do business, or maintain assets in
+105 this state. To establish sufficient availability of funds under this section, the owner of a
+106 utility‑scale solar project may use insurance; financial tests; third‑party guarantees by
+107 persons who can pass the financial test; guarantees by corporate parents who can pass
+108 the financial test; irrevocable letters of credit, trusts, surety bonds, or any other
+109 financial device; or any combination of the foregoing, shown to provide protection
+110 equivalent to the financial protection that would be provided by insurance if insurance
+111 were the only mechanism used.
+112 (2) Financial assurance shall be established by an owner of a utility‑scale solar
+113 project and maintained until such time as the project is decommissioned and restoration
+114 of the property has been completed in compliance with this section. Documentation of
+115 financial assurance established shall be submitted to the department at the time of
+116 registration and at the time of required update every five years, as required by
+117 subsection 7 of this section.
+118 7. Each owner of a utility‑scale solar project shall register with the department
+119 and update such registration every five years from the registration submission date, or
+120 with a transfer of ownership, until the site is completely decommissioned. At the time of
+121 registration or periodic required update required by the department, the owner shall
+122 provide all of the following information:
+123 (1) Identification of the owner and any other legal entity that will be responsible
+124 for decommissioning the project and establishment of financial assurance, if applicable;
+125 (2) A summary of project equipment that will be subject to decommissioning
+126 requirements under this section, including the location, size, number, and type of PV
+127 modules, as well as identification of any per‑ and poly‑fluoroalkyl substances associated
+
+HB 3073 5
+128 with the project, and a determination as to whether the PV modules are likely to be
+129 characterized as hazardous waste upon decommissioning. The hazardous waste
+130 determination shall be made in compliance with rules adopted by the department or the
+131 division of environmental quality;
+132 (3) A summary of project timeline, including actual or anticipated initiation and
+133 completion of construction, initiation of operations, and expected service life of the
+134 project;
+135 (4) Estimates of costs to decommission the project and restore the property;
+136 (5) A proposed financial assurance mechanism to be used to meet the
+137 requirements of this section, if applicable;
+138 (6) Copies of any decommissioning plan executed, or documentation of financial
+139 assurance established, pursuant to local government ordinance or agreement with a
+140 landowner, prior to registration under this subsection;
+141 (7) Any other information the department may require.
+142 8. Existing utility‑scale solar projects operating before August 28, 2026, shall
+143 have until December 31, 2027, to comply with the provisions of this section.
+144 9. The department shall notify the owner of the utility‑scale solar project of any
+145 modifications to the plan for decommissioning that are needed. The owner may appeal
+146 a modification by the department of a plan for decommissioning within thirty days of
+147 receiving notice of the modification to the plan, in the same manner as appeals are filed
+148 from the department's decision or as prescribed under the rules.
+149 10. The public service commission shall develop and maintain a list of all
+150 utility‑scale solar projects operating within this state and shall provide the department
+151 with an updated list annually on or before July first of each year.
+152 11. Nothing in this section shall be construed as limiting the authority of any
+153 landowner to enter into an agreement with an owner to lease property on which a
+154 utility‑scale solar project will be sited that expressly establishes requirements that are
+155 more stringent than those set forth in this section for decommissioning and financial
+156 assurance for utility‑scale solar projects to be located on the landowner's property.
+157 12. The department shall collect reasonable fees from the owner of a utility‑scale
+158 solar project subject to the requirements of this section, at the time of registration. Any
+159 fees that are collected by the department at the time of registration, periodic updates,
+160 annual reporting, or for meeting compliance requirements shall be established by rule,
+161 and in accordance with this section. Fees collected under this subsection shall be
+162 applied to the department's cost of administering the program.
+
+HB 3073 6
+163 13. Information regarding implementation of the requirements of this section
+164 shall be included in the appropriate annual report prepared by the department under
+165 chapter 640.
+166 14. (1) If the owner of a utility-scale solar project fails to comply with the
+167 decommissioning plan or the financial assurances requirements under the provisions of
+168 this section or any rule or regulation promulgated by the department, the surety bond
+169 or similar security posted by the owner to secure the owner's obligations under this
+170 section shall be deemed forfeited. The attorney general shall institute a civil action in
+171 any court of competent jurisdiction for forfeiture of the bond on behalf of the
+172 department. The department shall use the security proceeds or moneys obtained from
+173 the surety bond to pay for the decommissioning and restoration of the property.
+174 (2) Whenever it appears to the department that the owner has engaged in, or is
+175 about to engage in, any acts or practices that have or will constitute a violation of this
+176 section, or any rule or regulation promulgated thereunder, the director may request the
+177 county prosecuting attorney or the attorney general to bring an action in the circuit
+178 court for injunctive relief to prevent such violation, or in the case of a violation
+179 concerning the owner's failure to comply with the decommissioning plan or financial
+180 assurances, for the assessment of a penalty not to exceed one thousand two hundred
+181 dollars per day, or part thereof, or both, as the court deems proper. In any such action,
+182 the court may grant to the department such prohibitory or mandatory injunctive relief
+183 as the facts may warrant.
+184 (3) The prevailing party in any such action brought under subdivision (1) of this
+185 subsection, or for injunctive relief instituted under subdivision (2) of this subsection,
+186 shall be awarded costs and reasonable attorney's fees.
+187 15. The department shall promulgate all necessary rules and regulations for the
+188 administration of this section and include the specific criteria set out in subsection 6 of
+189 this section. Any rule or portion of a rule, as that term is defined in section 536.010, that
+190 is created under the authority delegated in this section shall become effective only if it
+191 complies with and is subject to all of the provisions of chapter 536 and, if applicable,
+192 section 536.028. This section and chapter 536 are nonseverable and if any of the powers
+193 vested with the general assembly pursuant to chapter 536 to review, to delay the
+194 effective date, or to disapprove and annul a rule are subsequently held unconstitutional,
+195 then the grant of rulemaking authority and any rule proposed or adopted after August
+196 28, 2026, shall be invalid and void.
+197 16. (1) The rules promulgated under this section shall establish criteria to set the
+198 amount of financial assurance required for utility‑scale solar projects as set forth in
+199 subsection 4 of this section.
+
+HB 3073 7
+200 (2) The rules shall include, at a minimum:
+201 (a) The solar technology to be employed including, but not limited to, PV,
+202 concentrated photovoltaics, concentrated solar power, or other technology;
+203 (b) The approximate number and size of PV modules included in the solar
+204 arrays to be constructed;
+205 (c) Any ancillary facilities to be constructed in association with the project;
+206 (d) The condition of the property prior to construction of a utility‑scale solar
+207 project;
+208 (e) The amount of acreage that would be impacted by the proposed project; and
+209 (f) Any other factors designed to enable establishment of adequate financial
+210 assurance for decommissioning and restoration on a site‑by‑site basis.
+211 (3) The department shall consider the salvage value of the project's equipment in
+212 establishing requirements for financial assurance for a utility‑scale solar project.
+213 (4) The rules shall require periodic updates to be provided by owners with
+214 respect to financial assurance maintained.
+215 (5) The rules shall address the following matters:
+216 (a) Requirements for decommissioning plans, including required information,
+217 and processes for submittal and review of plans;
+218 (b) Fees to be assessed at periodic updates or for annual compliance or reporting
+219 requirements; and
+220 (c) Any other matter the department deems necessary.
+✔
+
+[DELETED:  B N 3IJ Ck.1( "p Ti( T( T o h r l c o t p f a hc( "( "0m o d c s e g c t t l o r1e2a o t p t d p t t e g b t p3w4( "5s e s t t p o a c o o l b6t—M i e]
+[DELETED: 7( " m o " m t s n8e p a o p c o o p9c t a a p i t g e p u0s1( "2p3p4t5( " t p i d d a6s o p m o o e f u s7p o t c t r a u p " d n8i P9m d t b h s c w a h w0r1( "2p3a4w A5( I t s a a b b s f6t7p8( D n i r e f o o l b a r9e c i p f t c o u o t o t0c12 T o o a u s p s b r f p2d o t p u c o o a r o t3p4a53 T o s n t d w t d o c o6o S7p84 A a m a o s t a o t f s i9d0( D1(2r3i t P m t e s m r s a ]
+[DELETED: 4e5s c n l d n a m f e a6e d i t a i a e s s7b8( P d o c t w n b s f r a9i0( A1( A3P4w5( R6( A7w8( T a a c a u i a w c o l9a1A2p T3a4l L5o65 T7t t d f a p t s e p T8d p s b p s a c b a i9l0t1( T2n3p4( A n d o h t d w b c5i6d7s f8s9( I o e p t b s i e0s ]
+[DELETED: 1( I2s3( A c e f d t p a r o t4p5( T p m t s t f a r6e u s 6 o t s i i o w l7e8r9m06 ( T o o a u s p s e f1a2a f d o t p a r o t p i3c w s ( o s 4 o t s e i t o4b5t T6u7p8t f t i l o c t s b o a o9f d o a c o t f s t p p0e1w2( F3p4o D5f a e s b s t t d a t t o6r a a t t o r u e f y a r b7s87 E9a0w A1r2p3( I4f5(6r7m ]
+[DELETED: 8w9c a h w u d T h w0d1d2( A3c o c i o o a e s l o t4p5( E6( A p f a m t b u t m t7r8( C9a e p t l g o o a w a0l1( A28 E3h49 T5m T6a7r8f91 T p s c s d a m a l o a0u1w21 N3l t e i a a w a o t l p o w a4u5m6a71 T8s A9f0a1a i a w t s F c u t s s b2a ]
+[DELETED: 31 I4s5c61 ( I t o o a u s p f t c w t7d8t9o0s T1a c o c j f f o t b o b o t2d T3t4( W5a6s7c8c f i r t p s v o i t c o a v9c0a1d I2t3a4( T5s6s71 T8a9t A0i1c2s T3v w t g a p t c 5 t r t d t4e5t6271 T8a9s ]
+[DELETED: 0( T1( T s t t b e i b n l t P2c3( T a n a s o P m i i t s4a5( A6( T7p8( T9( A o f d t e e o a f0a1( T2e3( T r s r p u t b p b o w4r5(6( R7a8( F9r0( A ]

@@ -1,0 +1,478 @@
+SECOND REGULAR SESSION
+HOUSE BILL NO. 3281
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE BYRNES.
+7041H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapter 160, RSMo, by adding thereto one new section relating to software
+accountability for education, with penalty provisions.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Chapter 160, RSMo, is amended by adding thereto one new section, to be
+2 known as section 160.071, to read as follows:
+160.071. 1. This section shall be known and may be cited as the "PROTECT
+2 Students Act".
+3 2. As used in this section, the following terms mean:
+4 (1) "Addictive design feature", any feature or component of a digital or online
+5 product that encourages or increases a student's frequency, time spent, or engagement
+6 with the product including, but not limited to:
+7 (a) Infinite scroll or autoplay;
+8 (b) Points, badges, or other gamification rewards tied to time spent on the
+9 product;
+10 (c) Persistent notifications or push alerts prompting reengagement when not
+11 actively in use; and
+12 (d) Personalized recommendation systems or addictive algorithms that promote
+13 extended or compulsive use;
+14 (2) "Contracting entity", a local educational agency or the Missouri state board
+15 of education;
+16 (3) "Digital privacy agreement", a required contract between a local educational
+17 agency and a digital provider that strictly governs access, use, protection, retention, and
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 3281 2
+18 disclosure of student data and ensures compliance with applicable laws. Digital privacy
+19 agreements prohibit advertising use, profiling, resale, or any noneducational use of
+20 student data and termination clause;
+21 (4) (a) "Educational purpose", a purpose directly tied to:
+22 a. Instruction;
+23 b. Assessment;
+24 c. Student learning; or
+25 d. School operations necessary for instruction.
+26 (b) "Educational purpose" does not include:
+27 a. Marketing;
+28 b. Advertising;
+29 c. Behavioral profiling; or
+30 d. Any commercial purpose;
+31 (5) "Independently verified", a product that has been checked for its safety,
+32 effectiveness, and compliance by an impartial, separate third party who is not involved
+33 with its creation or management, ensuring objectivity and trust by removing potential
+34 bias from the original source;
+35 (6) "Instructional software":
+36 (a) Software that has successfully:
+37 a. Executed a digital privacy agreement; and
+38 b. Been verified for academic effectiveness, compliant with the provisions of this
+39 section;
+40 (b) Any instructional software that has not successfully completed the steps
+41 under paragraph (a) of this subdivision shall be deemed noncompliant software and
+42 shall not be used for student learning or school-sponsored activities in Missouri schools;
+43 (7) "Local educational agency", the same meaning as defined in section 167.225;
+44 (8) "School-issued device", any laptop, tablet, mobile device, or hardware
+45 provided to a student by a local educational agency for educational use;
+46 (9) (a) "Software", any application, web-based service, cloud application,
+47 mobile application, plug-in, or other code-based product, whether free or paid, that:
+48 a. Runs on or is accessed from a school-issued device, or from a student-owned
+49 device when used under the authority of a local educational agency; and
+50 b. Is assigned, required, recommended, installed, or otherwise made available by
+51 a local educational agency for student use in connection with:
+52 (i) Classroom instruction;
+53 (ii) A school-sponsored activity; or
+54 (iii) Any curricular, co-curricular, or extracurricular activity.
+
+HB 3281 3
+55 (b) "Software" includes, without limitation, software used for instruction,
+56 assessment, communication, collaboration, enrichment, or recreation in connection with
+57 school-related purposes.
+58 (c) "Software" does not include the physical device itself;
+59 (10) "Student data", includes:
+60 (a) Personally identifiable information;
+61 (b) Metadata, device identifiers, and clickstream data;
+62 (c) Behavioral, engagement, or usage data; and
+63 (d) Information collected, generated, or inferred by the software during student
+64 use;
+65 (11) "Vendor", any company, developer, organization, or individual who
+66 provides software, digital tools, digital services, or related technology to a contracting
+67 entity for student use, whether free or paid.
+68 3. (1) Before any software may be installed, assigned, recommended, or
+69 otherwise made available for student use, the vendor shall:
+70 (a) Execute a statewide digital privacy agreement; and
+71 (b) Complete an independent review demonstrating that the software is
+72 academically effective.
+73 (2) (a) The state board of education shall adopt a single statewide digital privacy
+74 agreement governing the use of software and digital services by students in Missouri
+75 public schools.
+76 (b) All vendors shall execute the statewide digital privacy agreement as a
+77 condition of providing software or digital services to any local educational agency or the
+78 state board of education.
+79 (c) The statewide digital privacy agreement shall not be altered, supplemented,
+80 replaced, modified, or negotiated by a vendor, local educational agency, or contracting
+81 entity.
+82 (d) Any vendor-proposed privacy agreement, end-user license agreement, click-
+83 through terms, terms of service, or substitute contract is void and unenforceable with
+84 respect to student data or student use.
+85 (e) The contracting entity shall execute the statewide digital privacy agreement
+86 before software may be installed, assigned, recommended, or otherwise made available
+87 for student use.
+88 (3) The statewide digital privacy agreement shall incorporate and comply with
+89 state statutes governing data minimization, secondary use limitations, targeted
+90 advertising prohibitions, security safeguards, privacy notices, breach response,
+91 retention and deletion, and directory-information protections, where applicable.
+
+HB 3281 4
+92 (4) The statewide digital privacy agreement shall require full compliance with
+93 state statues and state board of education rules governing sensitive materials in schools.
+94 Software shall not display, recommend, algorithmically generate, link to, embed, or
+95 provide access to any material that:
+96 (a) Is pornographic;
+97 (b) Is harmful to minors;
+98 (c) Is indecent or obscene;
+99 (d) Contains descriptions or depictions of sexual conduct, sexual excitement,
+100 arousal, or stimulation;
+101 (e) Contains violent, graphic, or self-harm or suicidal content inconsistent with
+102 safety standards; or
+103 (f) Otherwise is prohibited under Missouri law.
+104 (5) (a) The statewide digital privacy agreement shall require that software shall
+105 not display, recommend, algorithmically generate, or provide access to any instructional
+106 or supplemental content that constitutes:
+107 a. Human sexuality instruction;
+108 b. Sexual education;
+109 c. Maturation instruction;
+110 d. Content relating to reproduction, contraception, sexual activity, or sexually
+111 transmitted diseases; or
+112 e. Sexual- or health-related information
+113
+114 unless affirmative written parental consent has been obtained by the local educational
+115 agency in accordance with any rule or law.
+116 (b) Such requirement applies to core content, supplemental content, adaptive
+117 learning pathways, embedded media, hyperlinks, and AI-generated or AI-recommended
+118 content.
+119 (6) The statewide digital privacy agreement shall also include the following
+120 protections:
+121 (a) Software shall not require open-internet access for core educational
+122 functions. All external links, embedded media, and third-party content shall be
+123 reviewed and approved by the contracting entity;
+124 (b) Software shall not include:
+125 a. Infinite scroll;
+126 b. Auto-play video;
+127 c. Gamified reward loops unrelated to learning; or
+
+HB 3281 5
+128 d. Behavioral nudges or engagement mechanics designed to increase screen
+129 time;
+130 (c) Vendors shall not collect, store, or analyze:
+131 a. Biometric identifiers;
+132 b. Behavioral or emotional signals;
+133 c. Voiceprints or keystroke dynamics; or
+134 d. Precise geolocation
+135
+136 unless strictly necessary for the educational purpose and disclosed in the digital privacy
+137 agreement;
+138 (d) Software shall not:
+139 a. Use student data to train machine-learning models;
+140 b. Employ AI systems that analyze or influence a student's emotions, behavior,
+141 or attention;
+142 c. Generate or recommend content intended to shape student beliefs or
+143 preferences;
+144 d. Produce or enable content that circumvents Missouri laws relating to sensitive
+145 materials or instructional materials;
+146 (e) Software shall not:
+147 a. Display commercial or sponsored content;
+148 b. Use session replay, heat-mapping, or behavioral analytics;
+149 c. Create persistent identifiers; or
+150 d. Track students outside the educational purpose;
+151 (f) Vendors shall:
+152 a. Use encryption for data in transit and at rest;
+153 b. Store and process all student data within the United States;
+154 c. Disclose all subprocessors and obtain approval before use; and
+155 d. Prohibit background data collection when software is minimized or inactive;
+156 (g) Vendors shall disclose to the contracting entity:
+157 a. All data elements collected;
+158 b. All third-party recipients;
+159 c. All embedded libraries, software development kits, and analytics tools;
+160 d. All device-level permissions; and
+161 e. All AI components and functions;
+162 (h) Camera, microphone, and system-level access shall not be used unless strictly
+163 necessary for the educational function and disclosed in the digital privacy agreement;
+164 and
+
+HB 3281 6
+165 (i) A vendor shall not condition access, features, pricing, or support on any form
+166 of usage quota or screen-time expectation.
+167 (7) The statewide digital privacy agreement shall include a termination-for-
+168 cause provision that:
+169 (a) Requires the vendor to cure any violation of the digital privacy agreement
+170 within a timeline established by rule;
+171 (b) Authorizes the contracting entity to terminate the contract if the vendor fails
+172 to cure the violation;
+173 (c) Provides that termination under this subdivision may occur without penalty,
+174 early-termination fee, or additional obligation to the contracting entity;
+175 (d) Requires the vendor to acknowledge that termination under this subdivision
+176 does not constitute a breach by the contracting entity; and
+177 (e) In order to protect students and ensure compliance with this section,
+178 authorizes the state board of education when a local educational agency does not cure or
+179 terminate a noncompliant contract within the required timeline to:
+180 a. Direct the contracting entity to terminate the contract; or
+181 b. Terminate the contracting entity's participation in the contract on its behalf.
+182 (8) (a) The independent review of academic effectiveness shall be performed by
+183 an evaluator that:
+184 a. Has no financial or contractual relationship with the vendor or any subsidiary
+185 of the vendor;
+186 b. Is not compensated by the vendor whose product is being reviewed;
+187 c. Uses transparent, publicly available evaluation methods; and
+188 d. Demonstrates expertise appropriate to the type of software being evaluated.
+189 (b) a. For purposes of this paragraph, "academic effectiveness" means:
+190 (i) Evidence, supported by independent studies, research, or evaluation,
+191 demonstrating that the software measurably improves student learning, skill
+192 development, or academic performance in the intended subject area;
+193 (ii) Alignment with Missouri core standards or state board of education–adopted
+194 standards for the relevant grade level or course;
+195 (iii) Demonstrated instructional value that meaningfully supplements or
+196 improves upon traditional, nondigital instructional practices;
+197 (iv) Absence of addictive design features that interfere with learning, distract
+198 from instruction, or reduce academic focus; and
+199 (v) Independent findings, based on transparent methodology, showing that the
+200 software produces positive, reliable, and replicable academic outcomes when used as
+201 intended in a classroom setting.
+
+HB 3281 7
+202 b. Each evaluation of academic effectiveness shall include:
+203 (i) A description of the research or evaluation methods used;
+204 (ii) Identification of the student populations, grade levels, or instructional
+205 contexts evaluated;
+206 (iii) Evidence that the results were not produced, funded, or influenced by the
+207 vendor;
+208 (iv) Disclosure of any limitations in the evidence or methodology; and
+209 (v) A determination of whether the software provides educational value
+210 sufficient to justify classroom use.
+211 c. The state board of education shall maintain a public list of independent
+212 evaluators that meet the standards described in this subdivision. Inclusion on the list
+213 does not constitute endorsement of an evaluator's findings.
+214 d. Before software may be installed, assigned, recommended, or otherwise made
+215 available for student use, the contracting entity shall obtain documentation of an
+216 independent evaluation demonstrating that the software meets the academic-
+217 effectiveness standards described in this subsection.
+218 4. (1) The state board of education shall create and maintain a statewide master
+219 list of software used by students in Missouri public schools. The master list is a
+220 transparency tool and does not constitute an approval or endorsement by the state
+221 board.
+222 (2) (a) Software shall be placed on the master list when the contracting entity
+223 has:
+224 a. Executed the statewide digital privacy agreement required under subsection 3
+225 of this section; and
+226 b. Obtained the academic-effectiveness verification required under subsection 3
+227 of this section.
+228 (b) Completion of the requirements under paragraph (a) of this subdivision shall
+229 be met before student use.
+230 (3) (a) The contracting entity shall:
+231 a. Execute the statewide digital privacy agreement for any software it adopts;
+232 b. Obtain the academic-effectiveness verification; and
+233 c. Submit the digital privacy agreement, verification, and required software
+234 information to the state board of education for listing.
+235 (b) Local educational agencies shall continue to maintain their local software
+236 inventory.
+237 (4) (a) The state board of education shall:
+238 a. Receive documentation submitted by contracting entities;
+
+HB 3281 8
+239 b. Publish and update the statewide master list on an ongoing basis; and
+240 c. Conduct compliance audits as provided in this subsection.
+241 (b) The state board of education does not approve or certify software and is not
+242 responsible for a local educational agency's contracting decisions.
+243 5. (1) The state board of education shall monitor and enforce compliance with
+244 this section through periodic audits of contracting entities and software vendors.
+245 (2) (a) The state board of education shall audit each local education agency to
+246 confirm that, for every software product used by students, the local educational agency
+247 has:
+248 a. Executed the statewide digital privacy agreement required under subsection 3
+249 of this section; and
+250 b. Obtained the academic-effectiveness verification required under subsection 3
+251 of this section.
+252 (b) Audits shall occur at least once every three years, with additional spot checks
+253 as needed.
+254 (3) As part of the audit process, the state board of education shall review vendor
+255 compliance with:
+256 (a) The statewide digital privacy agreement; and
+257 (b) The academic-effectiveness verification requirements established under
+258 subsection 3 of this section.
+259 (4) As part of vendor compliance reviews under subdivision (3) of this
+260 subsection, the state board of education shall verify whether the vendor discloses
+261 student data to unauthorized third parties in violation of the statewide digital privacy
+262 agreement or any rule or law.
+263 (5) Contracting entities and vendors shall provide the state board of education
+264 access to all records, documents, and data necessary to complete compliance audits and
+265 vendor reviews.
+266 (6) Following each audit, the state board of education shall issue a written
+267 compliance report identifying:
+268 (a) Findings of noncompliance;
+269 (b) Required corrective actions; and
+270 (c) Applicable timelines for remediation.
+271 (7) The state board of education may publish summary audit findings to support
+272 statewide transparency and allow parents and the public to identify compliant and
+273 noncompliant practices.
+274 6. (1) A local educational agency is out of compliance with this section if the
+275 local educational agency:
+
+HB 3281 9
+276 (a) Uses or assigns software for student use without a fully executed statewide
+277 digital privacy agreement; or
+278 (b) Uses or assigns software for student use without obtaining the academic-
+279 effectiveness verification required under subsection 3 of this section.
+280 (2) Upon finding a local educational agency is in noncompliance, the state board
+281 of education shall require the local educational agency to:
+282 (a) Discontinue use of the noncompliant software;
+283 (b) Remedy the deficiency by executing the statewide digital privacy agreement
+284 or obtaining the academic-effectiveness verification;
+285 (c) Implement a corrective-action plan to prevent future violations; and
+286 (d) Comply with any withholding of state technology funds imposed by the state
+287 board of education until corrective action is completed.
+288 (3) (a) A vendor is out of compliance with this section if the vendor:
+289 a. Violates any term of the statewide digital privacy agreement; or
+290 b. Provides false, misleading, or incomplete academic-effectiveness
+291 documentation.
+292 (b) Vendor violations under this subdivision are limited to violations of the
+293 statewide digital privacy agreement or the independent-verification requirements.
+294 (4) Upon finding vendor noncompliance, the contracting entity may:
+295 (a) Require the vendor to cure the violation within a timeline established by rule;
+296 (b) Terminate the contract under the terms of the digital privacy agreement if
+297 the vendor fails to cure the violation; and
+298 (c) Bar the vendor from entering into new contracts with that contracting entity
+299 for up to twenty-four months.
+300 (5) (a) If a local privacy agreement does not cure or terminate a noncompliant
+301 contract within the timeline required by rule, the state board of education may:
+302 a. Direct the contracting entity to terminate the contract; or
+303 b. Terminate the contracting entity's participation in the contract on its behalf, if
+304 necessary to protect students and ensure compliance with this section.
+305 (b) The authority under this subdivision applies only after a violation and does
+306 not include preapproval or certification of software.
+307 (6) (a) A parent or guardian may submit a written complaint to the state board
+308 of education alleging:
+309 a. Use of software without a statewide digital privacy agreement;
+310 b. Use of software without required academic-effectiveness verification; or
+311 c. A vendor's violation of the statewide digital privacy agreement.
+312 (b) Upon receiving a complaint, the state board of education shall:
+
+HB 3281 10
+313 a. Review the complaint;
+314 b. Determine whether a violation has occurred;
+315 c. Notify the parent of the determination; and
+316 d. Take appropriate enforcement action under this section if noncompliance is
+317 found.
+318 (c) The state board of education shall adopt rules establishing procedures and
+319 timelines for parent complaints submitted under this subdivision.
+320 (7) Teachers, school employees, and staff acting within the normal course of
+321 duties shall not be held personally responsible for the noncompliance with this section
+322 by a local educational agency.
+323 (8) A local educational agency or vendor may appeal a finding of noncompliance
+324 or enforcement actions imposed under this subsection through the administrative
+325 process established by the state board of education.
+326 7. (1) All existing software contracts used by students in Missouri public schools
+327 shall be brought into compliance with this section within twenty-four months of the
+328 effective date of this section.
+329 (2) The state board of education shall provide:
+330 (a) Technical guidance to local educational agencies and vendors regarding the
+331 transition to the statewide digital privacy agreement and academic-effectiveness
+332 requirements; and
+333 (b) Implementation timelines and instructions necessary for contracting entities
+334 to achieve full compliance.
+335 (3) During the phase-in period, local educational agencies may continue to use
+336 existing software contracts, provided that the contracting entity is actively working
+337 toward compliance with the statewide digital privacy agreement and academic-
+338 effectiveness requirements.
+339 (4) The state board may prioritize technical guidance and transition support for:
+340 (a) Software used across multiple local educational agencies;
+341 (b) Statewide or consortium contracts; or
+342 (c) Software with known privacy, safety, or effectiveness concerns.
+343 (5) The phase-in period does not waive the requirements of this section. All
+344 software shall meet compliance requirements within twenty-fours months after the
+345 effective date of this section.
+346 8. (1) (a) Each local educational agency shall provide parents and guardians
+347 with an annual list of all instructional software products that:
+348 a. Have a fully executed statewide digital privacy agreement;
+
+HB 3281 11
+349 b. Have completed the required independent academic-effectiveness verification
+350 under subsection 3 of this section; and
+351 c. Will be assigned, required, recommended, or otherwise made available for
+352 student use during the upcoming school year.
+353 (b) The list shall include, at a minimum:
+354 a. The product name and vendor;
+355 b. The product's primary instructional purpose; and
+356 c. A link to the product's statewide digital privacy agreement and academic-
+357 effectiveness verification summary.
+358 (c) The list shall be:
+359 a. Published on the local educational agency's public website in an easily
+360 accessible, searchable format; and
+361 b. Updated within ten business days of any addition or removal of a software
+362 product.
+363 (2) If any new instructional software product is added during the school year
+364 that was not included in the annual list, the local educational agreement shall:
+365 (a) Provide written notice to parents within five school days of the product's
+366 approval;
+367 (b) Include links to the product's statewide digital privacy agreement and
+368 academic-effectiveness verification summary; and
+369 (c) Provide this notice prior to assigning the software or making it available for
+370 student use.
+371 (3) (a) Local educational agencies shall provide parents with timely written
+372 notice of any significant software update or change in data-collection or data-sharing
+373 practices that:
+374 a. May affect compliance with the statewide digital privacy agreement; or
+375 b. May trigger new consent requirements under state or federal law.
+376 (b) Local educational agencies shall maintain a publicly accessible archive of
+377 instructional software previously used by students, including:
+378 a. The product name and vendor; and
+379 b. The dates during which the product was in active use
+380
+381 for a minimum of two years after the software is retired.
+382 9. (1) The attorney general shall have authority to enforce the provisions of this
+383 section to ensure compliance by covered entities.
+
+HB 3281 12
+384 (2) (a) A parent or legal guardian may submit a complaint through the
+385 established complaint process provided for under this section alleging a violation of this
+386 section.
+387 (b) If the complaint is determined to have merit after initial review by the
+388 designated administrative body, the complaint may be referred to the attorney general
+389 for investigation and enforcement.
+390 (c) The attorney general may initiate an investigation upon referral or upon
+391 independent determination that a violation may have occurred.
+392 (3) For purposes of enforcing this section, the attorney general may:
+393 (a) Issue subpoenas to compel testimony or production of documents, records, or
+394 data relevant to an investigation;
+395 (b) Conduct audits or require production of compliance records from covered
+396 entities;
+397 (c) Require written responses or compliance reports; and
+398 (d) Take other lawful investigative actions necessary to determine compliance.
+399 (4) A court may impose civil fines or penalties for violations of this section,
+400 including graduated penalties for repeated or willful violations, as determined
+401 appropriate by rule or statute.
+402 (5) In any enforcement action in which the attorney general prevails, the court
+403 may award reasonable attorney's fees, investigative costs, and litigation expenses to the
+404 state.
+405 (6) The attorney general may seek injunctive relief or court orders requiring
+406 corrective action, compliance plans, or cessation of unlawful practices.
+407 (7) The attorney general may promulgate rules necessary to implement
+408 enforcement procedures consistent with this subsection. Any rule or portion of a rule,
+409 as that term is defined in section 536.010, that is created under the authority delegated
+410 in this section shall become effective only if it complies with and is subject to all of the
+411 provisions of chapter 536 and, if applicable, section 536.028. This section and chapter
+412 536 are nonseverable and if any of the powers vested with the general assembly
+413 pursuant to chapter 536 to review, to delay the effective date, or to disapprove and annul
+414 a rule are subsequently held unconstitutional, then the grant of rulemaking authority
+415 and any rule proposed or adopted after the effective date of this act shall be invalid and
+416 void.
+417 10. The state board of education shall promulgate all necessary rules and
+418 regulations for the administration of this section. Any rule or portion of a rule, as that
+419 term is defined in section 536.010, that is created under the authority delegated in this
+420 section shall become effective only if it complies with and is subject to all of the
+
+HB 3281 13
+421 provisions of chapter 536 and, if applicable, section 536.028. This section and chapter
+422 536 are nonseverable and if any of the powers vested with the general assembly
+423 pursuant to chapter 536 to review, to delay the effective date, or to disapprove and annul
+424 a rule are subsequently held unconstitutional, then the grant of rulemaking authority
+425 and any rule proposed or adopted after the effective date of this act shall be invalid and
+426 void.
+✔
+
+[DELETED:  B N 3IJ a c 1 R b a t o n s r t s Ck.1S2 A( "pw( I( P b o o g r t t t s o tp0( P n o p a p r w n1a2(3e4( "5o6( "7a—M i e]
+[DELETED: 8d D9a p a u p r o a n u o0s1( ( "2a I3b A4c S5d S6( "7a M8b A9c B0d A1( " v a p t h b c f i s2e3w4b5( "6( S7a E8b B9s0( A i s t h n s c t s1u o s d2s3( "4( " d a l t m d o h5p6( ( " a a w s c a7m8a R9d0b I1a2(3( A4( A ]
+[DELETED: 5( " i w l s u f i6a7s8( "9( "0( P1( M2( B3( I4u5( " a c d o o i w6p7e83 ( B a s m b i a r o9o0(1( C a i r d t t s i2a3( ( T4a5p6( A v s e t s d p a a a7c8s9( T0r1e2( A3t4r5( T6b7f8( T9s s g d m s u l t0a p s s p n b r1r ]
+[DELETED: 2( T3s4S s n d r a g l t e o5p6( I7( I8( I9( C d o d o s c s e0a1( C2s3( O4( ( T5n6o7a8b S9c M0d C1t2e S4u5a6( S7l8c9( T s d p a s a i t f0p1( S s n r o a f c e2f A e l e m a t c s b3r4( S5a I6b7c G ]
+[DELETED: 8d B n o e m d t i s9t0( V1a B2b B3c V4d P6u7a8( S9a U0b E1o2c G o r c i t s s b o3p4d P5m6( S7a D8b U9c C0d T1( V2a U3b S4c D5d P6( V7a A8b A9c A0d A1e A2(3n4a ]
+[DELETED: 5( A6o7( T s d p a s i a t8c9( R0w1( A2t3( P4e5( R6d7( I o t p s a e c w t s8a9t0a1b T2( ( T3a4a H5o6b I7c U8d D9( a F0( E s b i s r o e1d t t s m i s l s2d3( A4s5( D i v t m s o6i7( A8f9(0s1i ]
+[DELETED: 2b E3( A4( I o t s p g l o i5c6( E7v8( D9( A d o w t s p e v0s1c T s b o e s m a p l o i2e I3d4d B5a f s u t c e s o d o a6i e d t t s m t a7e84 ( T9l o s u b s i M p s T m l i a0t t a d n c a a o e b t s1b2( ( S3h4a E5o6b O7o8( C9b0( ( T1a E2b O3c S t d p a v a r s4i5( L6i7( ( T8a R ]
+[DELETED: 9b P0c C1( T2r35 ( T4t5( ( T6c7h8a E9o0b O1o2( A3a4(5c6( T7( T a v r e u8s9( A p o v c r u s ( o t0s t s b o e s v w t v d1s2a3( C4a5v6( F e a t s b o e s i a w7c8( F9( R0( A1( T2s t a a p a t p t i c a3n46 ( A5l ]
+[DELETED: 6( U7d8( U9e0( U1o2( D3( R4o5( I6( C7b8( ( A9a V0b P f m o i a1d2( V v u t s a l t v o t3s4( U5( R6( T7t8( B9f0( ( I1c2a D3b T4n5( T6n7( ( A8o9a U0b1c A2( U ]
+[DELETED: 3a R4b D5c N6d T7f8( T9t0( T s e a s a w t n c o1d2b3( A4o e a i u t s t t a5p67 ( A7s b b i c w t s w t m o t8e9( T0( T1t t t s d p a a a2r3( I4t5( D6e s c p t t c e i a w7t c w t s d p a a a8e9( T0( S1( S2( S3( T A4s s m c r w t m a t5e68 ( ( E7w8a H 1]
+[DELETED: 9b H0u1c W2s3( T4a T5b T6c A7e8( T9a P o t l e a p w i a e0a1b U2p3( I4t5( P6a7( I l t t p s d p a a8a9( P0s1( ( L e a s p p w t w2n3p4a M5b M6( L7i8a T9b T1f29 ( T3s 1]
+[DELETED: 4( ( A p o l g m s a c t t5e6s7( I t c i d t h m a i r b t8d9f0( T a m i u r o u1i2( F3( I4d5( C6e7( R8( T9( c m i c f o p f v o t s0i g p f r o w v a d1a2( I3m4s5( T6c7( T a g m p r n t i8e A9a0i1p T25 a n a i a o t p v w t g a3p4a5a6v71 T s b o e s p a n r a8r A9t0s s b e o i i c w a i s t a o t 1]
+[DELETED: 1p T25 a n a i a o t p v w t g a3p4a5a6v 1]

@@ -1,0 +1,146 @@
+SECOND REGULAR SESSION
+HOUSE BILL NO. 1944
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE HRUZA.
+5555H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapter 376, RSMo, by adding thereto two new sections relating to health
+insurance claims settlement practices, with penalty provisions.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Chapter 376, RSMo, is amended by adding thereto two new sections, to be
+2 known as sections 376.1245 and 376.1580, to read as follows:
+376.1245. 1. As used in this section, the following terms mean:
+2 (1) "Anesthesia time", the period during which an anesthesia practitioner is
+3 present with the patient, starting when the anesthesia practitioner begins to prepare the
+4 patient for anesthesia services in the operating room or an equivalent area and ending
+5 when the anesthesia practitioner is no longer furnishing anesthesia services to the
+6 patient because the patient may be placed safely under postoperative or postanesthesia
+7 care. The term "anesthesia time" includes, if counted by the anesthesia practitioner,
+8 blocks of time around an interruption in anesthesia time provided the anesthesia
+9 practitioner is furnishing continuous anesthesia care within the time periods around the
+10 interruption;
+11 (2) "Anesthesia time units", time units recognized with appropriate time
+12 intervals that do not exceed fifteen minutes in length for each interval and that, taken
+13 together, represent the total anesthesia time for a particular anesthesia service;
+14 (3) "Excepted benefit plan", the same meaning given to the term in section
+15 376.998;
+16 (4) "Health benefit plan", the same meaning given to the term in section
+17 376.1350. The term "health benefit plan" shall also include MO HealthNet, the
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 1944 2
+18 children's health insurance program authorized under chapter 208, the Missouri
+19 consolidated health care plan established under chapter 103, and any other state-
+20 sponsored health insurance program;
+21 (5) "Health carrier", the same meaning given to the term in section 376.1350.
+22 The term "health carrier" shall also include the MO HealthNet division and any
+23 Medicaid managed care organization as defined in section 208.431;
+24 (6) "Payment of anesthesia services", an amount paid for anesthesia services:
+25 (a) Determined by using prevailing medical coding and billing standards in the
+26 professional medical billing community, such as the Current Procedural Terminology
+27 code book published by the American Medical Association, the Medicare Claims
+28 Processing Manual, or guidance from nationally recognized anesthesia organizations;
+29 and
+30 (b) Calculated as the product obtained by multiplying the following together:
+31 a. The sum of the base units for the appropriate medical code plus anesthesia
+32 time units; and
+33 b. An anesthesia conversion factor that is defined in the individual contract
+34 between the health carrier or health benefit plan and the anesthesia practitioner or
+35 group.
+36 2. No health carrier or health benefit plan shall establish, implement, or enforce
+37 any policy, practice, or procedure that imposes a time limit for the payment of
+38 anesthesia services provided during a medical or surgical procedure.
+39 3. No health carrier or health benefit plan shall establish, implement, or enforce
+40 any policy, practice, or procedure that restricts or excludes all anesthesia time in
+41 calculating the payment of anesthesia services.
+42 4. Excepted benefit plans shall be subject to the requirements of this section.
+376.1580. 1. As used in this section, the following terms mean:
+2 (1) "Claim", a claim for reimbursement for a health care service provided by a
+3 physician;
+4 (2) "Claim Adjustment Reason Code", a code in the list of Claim Adjustment
+5 Reason Codes that provides the reason for a financial adjustment specific to a particular
+6 claim or health care service referenced in the transmitted Accredited Standards
+7 Committee (ASC) X12 835 standard transaction adopted by the United States
+8 Department of Health and Human Services under 45 CFR 162.1602;
+9 (3) "Director", the director of the department of commerce and insurance;
+10 (4) "Downcoding", the unilateral alteration by a health carrier of the level of
+11 evaluation and management service code or other service code submitted on a claim,
+12 resulting in a lower payment on the claim;
+
+HB 1944 3
+13 (5) "Health care service", the same meaning given to the term in section
+14 376.1350;
+15 (6) "Health carrier", the same meaning given to the term in section 376.1350.
+16 The term "health carrier" shall also include a third-party administrator or other payer
+17 responsible for adjudicating claims;
+18 (7) "Remittance Advice Remark Code", a code in the list of Remittance Advice
+19 Remark Codes that provides supplemental information about a financial adjustment
+20 indicated by a Claim Adjustment Reason Code or information about remittance
+21 processing.
+22 2. (1) A health carrier shall not use an automated process, system, or tool to
+23 downcode a claim. An automated tool includes, but is not limited to, the use of artificial
+24 intelligence.
+25 (2) Any downcoding decision shall be made by a physician who is licensed in this
+26 state and shares the same specialty as the treating physician. The physician reviewer
+27 shall perform a documented review of the clinical information supporting the billed
+28 health care service.
+29 3. A health carrier shall not downcode a claim based solely on the reported
+30 diagnosis code.
+31 4. A health carrier that downcodes a claim shall notify the treating physician
+32 using the appropriate Claim Adjustment Reason Code and Remittance Advice Remark
+33 Code to clearly indicate that the claim has been downcoded and provide:
+34 (1) The specific reason for the downcoding, including reference to the clinical
+35 criteria used to justify the downcoding;
+36 (2) The original and revised health care service codes and payment amounts;
+37 (3) The National Provider Identifier of the physician who is responsible for the
+38 downcoding decision as well as the physician's credentials, board certifications, and
+39 areas of specialty expertise and training; and
+40 (4) A notice of the right to appeal as described in subsection 5 of this section.
+41 5. (1) Health carriers shall provide physicians with a clear and accessible
+42 process for appealing downcoded claims including, but not limited to, a written or
+43 electronic notice detailing how to initiate an appeal, contact information for the
+44 individual managing the appeal, reasonable timelines for submission of an appeal that
+45 are not less than one hundred eighty days, and timelines for adjudication of an appeal.
+46 (2) Physicians shall have the right to appeal in batches of similar claims
+47 involving substantially similar downcoding issues without restriction.
+
+HB 1944 4
+48 6. (1) A health carrier shall not use downcoding practices in a targeted or
+49 discriminatory manner against physicians who routinely treat patients with complex or
+50 chronic conditions.
+51 (2) Any pattern or practice of discriminatory downcoding shall be subject to
+52 enforcement actions by the director including, but not limited to, civil penalties,
+53 restitution, or suspension of the health carrier's license to operate in this state.
+54 7. (1) If the director determines that a health carrier has engaged, is engaging,
+55 or has taken a substantial step toward engaging in an act, practice, omission, or course
+56 of business constituting a violation of this section or a rule adopted or order issued in
+57 accordance with this section or that a person has materially aided or is materially aiding
+58 an act, practice, omission, or course of business constituting a violation of this section or
+59 a rule adopted or order issued in accordance with this section, the director may issue
+60 such administrative orders as authorized under section 374.046. A curative order under
+61 section 374.046 may include an order to reprocess claims downcoded in violation of this
+62 section and to pay any accrued interest on the claims paid.
+63 (2) If the director believes that a health carrier has engaged, is engaging, or has
+64 taken a substantial step toward engaging in an act, practice, omission, or course of
+65 business constituting a violation of this section or a rule adopted or order issued in
+66 accordance with this section or that a person has materially aided or is materially aiding
+67 an act, practice, omission, or course of business constituting a violation of this section or
+68 a rule adopted or order issued in accordance with this section, the director may
+69 maintain a civil action for relief authorized under section 374.048.
+70 (3) A violation of this section is a level four violation under section 374.049.
+71 8. The director may promulgate all necessary rules and regulations for the
+72 administration of this section. Any rule or portion of a rule, as that term is defined in
+73 section 536.010, that is created under the authority delegated in this section shall
+74 become effective only if it complies with and is subject to all of the provisions of chapter
+75 536 and, if applicable, section 536.028. This section and chapter 536 are nonseverable
+76 and if any of the powers vested with the general assembly pursuant to chapter 536 to
+77 review, to delay the effective date, or to disapprove and annul a rule are subsequently
+78 held unconstitutional, then the grant of rulemaking authority and any rule proposed or
+79 adopted after August 28, 2026, shall be invalid and void.
+✔
+
+[DELETED:  B N 1IJ a c 3 R b a t t n s r t h Ck A( " t t p d w a a p ippw t a p i n l f a s t tpc Tb o t a a i i a t p t ap0i1( " t u t u r w a t2i3t4( " b p t s m g t t t i s536( " b p t s m g t t t i s73 T t " b p s a i M H t—M i e]
+[DELETED: 8c h i p a u c 2 t M9c h c p e u c 1 a a o s0s1( "2T t " c s a i t M H d a a3M4( "5( D6p7c b p b t A M A t M C8P9a0( C1a T2t3b a c f t i d i t i c4b t h c o h b p a t a p o5g62 N7a p p o p t i a t l f t p o8a93 N0a p p o p t r o e a a t i1c24 E 1 A( "p( "Rc o h c s r i t t A SC ( X 8 s t a b t U SD( "0(1e2r ]
+[DELETED: 3( " c s t s m g t t t i s435( "6T7r8( "9R0i b a C A R C o i a r1p22 ( A3d A4i5( A6s T7s p a d r o t c i s t b8h93 A h c s n d a c b s o t r0d14 A2u3C4( T5c6( T7( T8d d a w a t p c b c a9a0( A15 ( H c s p p w a c a a2p f a d c i b n l t a w o3e n d h t i a a c i f t4i5a6( P s h t r t a i b o s c7i ]
+[DELETED: 86 ( A h c s n u d p i a t o9d0c1( A2e a b t d i b n l t c p3r47 ( I5o6o7a8a9a0s A1s2s3(4t a s s t e i a a p o o c o5b c a v o t s o a r a o i i6a7a8a r a o o i i a w t s t d m9m0( A18 T d m p a n r a r f t2a A3s 5 t i c u t a d i t s s4b55 T6a7r8h9a ]
