@@ -1,0 +1,1560 @@
+Title: HOUSE BILL NO. 2896
+Official Title: HOUSE BILL NO. 2896
+Number of Sections: 4
+Source: versions - Senate Substitute (Senate Floor Substitute)
+Media Type: application/pdf
+Strikethrough Detection: 22 sections found
+
+================================================================================
+
+Section 1:
+6382S.06F
+SENATE SUBSTITUTE
+FOR
+SENATE COMMITTEE SUBSTITUTE
+FOR
+AN ACT
+To repeal sections 173.831, 174.300, 174.332,
+
+Section 2:
+174.450, 174.453, 174.610, 175.020, 178.530, and
+
+Section 3:
+178.632, RSMo, and to enact in lieu thereof nine new
+
+Section 4:
+sections relating to education.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Sections 173.831, 174.300, 174.332, 174.450,
+2 174.453, 174.610, 175.020, 178.530, and 178.632, RSMo, are
+3 repealed and nine new sections enacted in lieu thereof, to be
+4 known as sections 173.831, 174.300, 174.332, 174.450, 174.453,
+5 174.610, 175.020, 178.530, and 178.632, to read as follows:
+1 173.831. 1. As used in this section, the following
+2 terms mean:
+3 (1) "Academic skill intake assessment", a criterion-
+4 referenced assessment of numeracy and literacy skills with
+5 high reliability and validity as determined by third-party
+6 research;
+7 (2) "Accredited", holding an active accreditation from
+8 one of the seven United States regional accreditors
+9 including, but not limited to, the Middle States Commission
+10 on Higher Education, the New England Association of Schools
+11 and Colleges, the Higher Learning Commission, the Northwest
+12 Commission on Colleges and Universities, the Southern
+13 Association of Colleges and Schools, the Western Association
+14 of Schools and Colleges, and the Accrediting Commission for
+15 Community and Junior Colleges, as well as any successor
+1
+16 entities or consolidations of the above including, but not
+17 limited to, AdvancEd or Cognia;
+18 (3) "Adult dropout recovery services" includes, but is
+19 not limited to, sourcing, recruitment, and engagement of
+20 eligible students, learning plan development, active
+21 teaching, and proactive coaching and mentoring, resulting in
+22 an accredited high school diploma and pathway to post
+23 secondary education opportunities;
+24 (4) "Approved program provider", a public, not-for-
+25 profit, or other entity that meets the requirements of
+26 subdivision (2) of subsection 3 of this section or any
+27 consortium of such entities;
+28 (5) "Average cost per graduate", the amount of the
+29 total program funding reimbursed to an approved program
+30 provider for each cohort during the period of time from the
+31 beginning of the same cohort through the subsequent twelve
+32 months after the close of the same cohort, divided by the
+33 total number of students who graduated from the same cohort
+34 within twelve months after the close of the same cohort or
+35 enrollment in postsecondary education;
+36 (6) "Career pathways coursework", one or more courses
+37 that align with the skill needs of industries in the economy
+38 of the state or region that help an individual enter or
+39 advance within a specific occupation or occupational cluster;
+40 (7) "Career placement services", services designed to
+41 assist students in obtaining employment, such as career
+42 interest self-assessments and job search skills such as
+43 resume development and mock interviews;
+44 (8) "Coaching", proactive communication between the
+45 approved program provider and the student related to the
+46 student's pace and progress through the student's learning
+47 plan;
+2
+48 (9) "Cohort", students who enter the program between
+49 July first and June thirtieth of each program year;
+50 (10) "Department", the department of elementary and
+51 secondary education;
+52 (11) "Employability skills certification", a
+53 certificate earned by demonstrating professional
+54 nontechnical skills through assessment, portfolio, or
+55 observation;
+56 (12) "Graduate", a student who has successfully
+57 completed all of the state and approved program provider
+58 requirements in order to obtain a high school diploma;
+59 (13) "Graduation rate", the total number of graduates
+60 from a cohort who graduated within twelve months after the
+61 close of the cohort divided by the total number of students
+62 included in the same cohort;
+63 (14) "Graduation requirements", course and credit
+64 requirements for the approved program provider's accredited
+65 high school diploma;
+66 (15) "High school diploma", a diploma issued by an
+67 accredited institution;
+68 (16) "Industry-recognized credential", an education-
+69 related credential or work-related credential that verifies
+70 an individual's qualification or competence issued by a
+71 third party with the relevant authority to issue such
+72 credential;
+73 (17) "Learning plan", a documented plan for courses or
+74 credits needed for each individual in order to complete
+75 program and approved program provider graduation
+76 requirements;
+77 (18) "Mentoring", a direct relationship between a
+78 coach and a student to facilitate the completion of the
+79 student's learning plan designed to prepare the student to
+80 succeed in the program and the student's future endeavors;
+3
+81 (19) "Milestones", objective measures of progress for
+82 which payment is made to an approved program provider under
+83 this section such as earned units of high school credit,
+84 attainment of an employability skills certificate,
+85 attainment of an industry-recognized credential, attainment
+86 of a technical skills assessment, and attainment of an
+87 accredited high school diploma;
+88 (20) "Program", the workforce diploma program
+89 established in this section;
+90 (21) "Request for qualifications", a request for
+91 interested potential program providers to submit evidence
+92 that they meet the qualifications established in subsection
+93 3 of this section;
+94 (22) "Stackable credential", a third-party credential
+95 that is part of a sequence of credentials that can be
+96 accumulated over time to build up an individual's
+97 qualifications to advance along a career pathway;
+98 (23) "Student", a participant in the program
+99 established in this section who is twenty-one years of age
+100 or older, who is a resident of Missouri, and who has not yet
+101 earned a high school diploma;
+102 (24) "Technical skills assessment", a criterion-
+103 referenced assessment of an individual's skills required for
+104 an entry-level career, or additional training in a technical
+105 field, or other postsecondary opportunities;
+106 (25) "Transcript evaluation", a documented summary of
+107 credits earned in previous public or private accredited high
+108 schools compared with the program and approved program
+109 provider graduation requirements;
+110 (26) "Unit of high school credit", credit awarded
+111 based on a student's demonstration that the student has
+112 successfully met the content expectations for the credit
+4
+113 area as defined by subject area standards, expectations, or
+114 guidelines.
+115 2. There is hereby established the "Workforce Diploma
+116 Program" within the department of elementary and secondary
+117 education to assist students with obtaining a high school
+118 diploma and developing employability and career technical
+119 skills. The program may be delivered in campus-based,
+120 blended, or online modalities.
+121 3. (1) Before September 1, 2022, and annually
+122 thereafter, the department shall issue a request for
+123 qualifications for interested program providers to become
+124 approved program providers and participate in the program.
+125 (2) Each approved program provider shall meet all of
+126 the following qualifications:
+127 (a) Be an accredited high school diploma-granting
+128 entity;
+129 (b) Have a minimum of two years of experience
+130 providing adult dropout recovery services;
+131 (c) Provide academic skill intake assessments and
+132 transcript evaluations to each student. Such academic skill
+133 intake assessments may be administered in person or online;
+134 (d) Develop a learning plan for each student that
+135 integrates graduation requirements and career goals;
+136 (e) Provide a course catalog that includes all courses
+137 necessary to meet graduation requirements;
+138 (f) Offer remediation opportunities in literacy and
+139 numeracy, as applicable;
+140 (g) Offer employability skills certification, as
+141 applicable;
+142 (h) Offer career pathways coursework, as applicable;
+143 (i) Ability to provide preparation for industry-
+144 recognized credentials or stackable credentials, a technical
+145 skills assessment, or a combination thereof; and
+5
+146 (j) Offer career placement services, as applicable.
+147 (3) Upon confirmation by the department that an
+148 interested program provider meets all of the qualifications
+149 listed in subdivision (2) of this subsection, an interested
+150 program provider shall become an approved program provider.
+151 4. (1) The department shall announce the approved
+152 program providers before October sixteenth annually, with
+153 authorization for the approved program providers to begin
+154 enrolling students before November fifteenth annually.
+155 (2) Approved program providers shall maintain approval
+156 without reapplying annually if the approved program provider
+157 has not been removed from the approved program provider list
+158 under this section.
+159 5. All approved program providers shall comply with
+160 requirements as provided by the department to ensure:
+161 (1) An accurate accounting of a student's accumulated
+162 credits toward a high school diploma;
+163 (2) An accurate accounting of credits necessary to
+164 complete a high school diploma; and
+165 (3) The provision of coursework aligned to the
+166 academic performance standards of the state.
+167 6. (1) Except as provided in subdivision (2) of this
+168 subsection, the department shall pay an amount as set by the
+169 department to approved program providers for the following
+170 milestones provided by the approved program provider:
+171 (a) Completion of each half unit of high school credit;
+172 (b) Attainment of an employability skills
+173 certification;
+174 (c) Attainment of an industry-recognized credential,
+175 technical skills assessment, or stackable credential
+176 requiring no more than fifty hours of training;
+6
+177 (d) Attainment of an industry-recognized credential or
+178 stackable credential requiring at least fifty-one but no
+179 more than one hundred hours of training;
+180 (e) Attainment of an industry-recognized credential or
+181 stackable credential requiring more than one hundred hours
+182 of training; and
+183 (f) Attainment of an accredited high school diploma.
+184 (2) No approved program provider shall receive funding
+185 for a student under this section if the approved program
+186 provider receives federal or state funding or private
+187 tuition for that student. No approved program provider
+188 shall charge student fees of any kind including, but not
+189 limited to, textbook fees, tuition fees, lab fees, or
+190 participation fees unless the student chooses to obtain
+191 additional education offered by the approved program
+192 provider that is not included in the state-funded program.
+193 (3) Payments made under this subsection shall be
+194 subject to an appropriation made to the department for such
+195 purposes.
+196 7. (1) Approved program providers shall submit
+197 monthly invoices to the department before the eleventh
+198 calendar day of each month for milestones met in the
+199 previous calendar month.
+200 (2) The department shall pay approved program
+201 providers in the order in which invoices are submitted until
+202 all available funds are exhausted.
+203 (3) The department shall provide a written update to
+204 approved program providers by the last calendar day of each
+205 month. The update shall include the aggregate total dollars
+206 that have been paid to approved program providers to date
+207 and the estimated number of enrollments still available for
+208 the program year.
+7
+209 8. Before July sixteenth of each year, each provider
+210 shall report the following metrics to the department for
+211 each individual cohort, on a cohort-by-cohort basis:
+212 (1) The total number of students who have been funded
+213 through the program;
+214 (2) The total number of credits earned;
+215 (3) The total number of employability skills
+216 certifications issued;
+217 (4) The total number of industry-recognized
+218 credentials, stackable credentials, and technical skills
+219 assessments earned for each tier of funding;
+220 (5) The total number of graduates;
+221 (6) The average cost per graduate once the stipulated
+222 time to make such a calculation has passed; and
+223 (7) The graduation rate once the stipulated time to
+224 make such a calculation has passed.
+225 9. (1) Before September sixteenth of each year, each
+226 approved program provider shall conduct and submit to the
+227 department the aggregate results of a survey of each
+228 individual cohort, on a cohort-by-cohort basis, who
+229 graduated from the program of the approved program provider
+230 under this section. The survey shall be conducted in the
+231 year after the year in which the individuals graduate and
+232 the next four consecutive years.
+233 (2) The survey shall include at least the following
+234 data collection elements for each year the survey is
+235 conducted:
+236 (a) The individual's employment status, including
+237 whether the individual is employed full time or part time;
+238 (b) The individual's hourly wages;
+239 (c) The individual's access to employer-sponsored
+240 health care; and
+8
+241 (d) The individual's postsecondary enrollment status,
+242 including whether the individual has completed a
+243 postsecondary certificate or degree program.
+244 10. (1) Beginning at the end of the second fiscal
+245 year of the program, the department shall review data from
+246 each approved program provider to ensure that each is
+247 achieving minimum program performance standards including,
+248 but not limited to:
+249 (a) A minimum fifty percent average graduation rate
+250 per cohort; and
+251 (b) An average cost per graduate per cohort of seven
+252 thousand dollars or less.
+253 (2) Any approved program provider that fails to meet
+254 the minimum program performance standards described in
+255 subdivision (1) of this subsection shall be placed on
+256 probationary status for the remainder of the fiscal year by
+257 the department.
+258 (3) Any approved program provider that fails to meet
+259 the minimum program performance standards described in
+260 subdivision (1) of this subsection for two consecutive years
+261 shall be removed from the approved program provider list by
+262 the department.
+263 11. (1) No approved program provider shall
+264 discriminate against a student on the basis of race, color,
+265 religion, national origin, ancestry, sex, sexuality, gender,
+266 or age.
+267 (2) If an approved program provider determines that a
+268 student would be better served by participating in a
+269 different program, the approved program provider may refer
+270 the student to the state's adult basic education services.
+271 12. (1) There is hereby created in the state treasury
+272 the "Workforce Diploma Program Fund", which shall consist of
+273 any grants, gifts, donations, bequests, or moneys
+9
+274 appropriated under this section. The state treasurer shall
+275 be custodian of the fund. In accordance with sections
+276 30.170 and 30.180, the state treasurer may approve
+277 disbursements. The fund shall be a dedicated fund and, upon
+278 appropriation, moneys in the fund shall be used solely as
+279 provided in this section.
+280 (2) Notwithstanding the provisions of section 33.080
+281 to the contrary, any moneys remaining in the fund at the end
+282 of the biennium shall not revert to the credit of the
+283 general revenue fund.
+284 (3) The state treasurer shall invest moneys in the
+285 fund in the same manner as other funds are invested. Any
+286 interest and moneys earned on such investments shall be
+287 credited to the fund.
+288 13. The director of the department may promulgate all
+289 necessary rules and regulations for the administration of
+290 this section. Any rule or portion of a rule, as that term
+291 is defined in section 536.010, that is created under the
+292 authority delegated in this section shall become effective
+293 only if it complies with and is subject to all of the
+294 provisions of chapter 536 and, if applicable, section
+295 536.028. This section and chapter 536 are nonseverable and
+296 if any of the powers vested with the general assembly
+297 pursuant to chapter 536 to review, to delay the effective
+298 date, or to disapprove and annul a rule are subsequently
+299 held unconstitutional, then the grant of rulemaking
+300 authority and any rule proposed or adopted after August 28,
+301 2022, shall be invalid and void.
+302 14. [Under section 23.253 of the Missouri sunset act:
+303 (1) The provisions of the new program authorized under
+304 this section shall automatically sunset six years after
+305 August 28, 2022, unless reauthorized by an act of the
+306 general assembly; and
+10
+307 (2) If such program is reauthorized, the program
+308 authorized under this section shall automatically sunset
+309 twelve years after the effective date of the reauthorization
+310 of this section; and
+311 (3) This section shall terminate on September first of
+312 the calendar year immediately following the calendar year in
+313 which the program authorized under this section is sunset.
+314 15.] If any provision of this section or its
+315 application to any person or circumstance is held invalid,
+316 such determination shall not affect the provisions or
+317 applications of the remainder of this act which may be given
+318 effect without the invalid provision or application, and to
+319 that end the provisions of this section are severable.
+1 174.300. 1. Prior to October 17, 1978, the governor
+2 shall, with the advice and consent of the senate, appoint a
+3 six-member board of regents to assume the general control
+4 and management of Harris-Stowe College. The members of the
+5 board shall serve for terms of six years each, except for
+6 the members first appointed, two of whom shall serve two-
+7 year terms, two of whom shall serve four-year terms, and two
+8 of whom shall serve six-year terms. Not more than three of
+9 the regents shall be affiliated with any one political party
+10 or reside in the city in which the institution's principal
+11 administrative office is located.
+12 2. On and after August 28, 2005, Harris-Stowe State
+13 College shall be known as Harris-Stowe State University, and
+14 the provisions contained in subsection 1 of this section
+15 shall continue to apply to the institution.
+1 174.332. 1. Notwithstanding the provisions of section
+2 174.050 to the contrary, the board of regents of Northwest
+3 Missouri State University shall be composed of nine members,
+4 eight of whom shall be voting members and one who shall be a
+5 nonvoting member. Not more than four voting members shall
+11
+6 belong to any one political party[. Not more than two
+7 voting members shall be residents of the same county. The
+8 appointed members of the board serving on August 28, 2008,
+9 shall continue to serve until the expiration of the terms
+10 for which the appointed members were appointed and until
+11 such time a successor is duly appointed.
+12 2. The board of regents shall be appointed as follows:
+13 (1) Six voting members shall be residents of the
+14 university's historic statutory service region, provided at
+15 least one member shall be a resident of Nodaway County. For
+16 the sole purpose of determining the composition of the board
+17 of regents, the university's historic statutory service
+18 region shall consist of the counties of Atchison, Andrew,
+19 Caldwell, Carroll, Clay, Clinton, Daviess, DeKalb, Gentry,
+20 Grundy, Harrison, Holt, Livingston, Mercer, Nodaway, Ray,
+21 and Worth;
+22 (2) Two voting members shall be residents of a county
+23 in the state that is outside the university's historic
+24 statutory service region, as described in subdivision (1) of
+25 this subsection, provided these two members shall not be
+26 appointed from the same congressional district; and
+27 (3)] or reside in the county in which the institution's
+28 principal administrative office is located. One nonvoting
+29 member shall be a full-time student of the university, a
+30 United States citizen, and a resident of Missouri.
+31 [3.] 2. A majority of the voting members of the board
+32 shall constitute a quorum for the transaction of business;
+33 however, no appropriation of money nor any contract that
+34 shall require any appropriation or disbursement of money
+35 shall be made, nor teacher employed or dismissed, unless a
+36 majority of the voting members of the board vote for the
+37 same.
+12
+38 [4.] 3. Except as specifically provided in this
+39 section, the appointments and terms of office for the voting
+40 and nonvoting members of the board, and all other duties and
+41 responsibilities of the board, shall comply with the
+42 provisions of state law regarding boards of regents.
+1 174.450. 1. Except as provided in subsections 2, [6]
+2 3, and [7] 4 of this section, the governing board of the
+3 University of Central Missouri, Missouri State University,
+4 Missouri Southern State University, Missouri Western State
+5 University, and of each other public institution of higher
+6 education which, through the procedures established in
+7 subdivision (8) or (9) of section 173.030, is charged with a
+8 statewide mission shall be a board of governors consisting
+9 of eight members, composed of seven voting members and one
+10 nonvoting member as provided in sections 174.453 and
+11 174.455, who shall be appointed by the governor of Missouri,
+12 by and with the advice and consent of the senate. No person
+13 shall be appointed a voting member who is not a citizen of
+14 the United States and who has not been a resident of the
+15 state of Missouri for at least two years immediately prior
+16 to such appointment. Not more than four voting members
+17 shall belong to any one political party. The appointed
+18 members of the board of regents serving on the date of the
+19 statutory mission change shall become members of the board
+20 of governors on the effective date of the statutory mission
+21 change and serve until the expiration of the terms for which
+22 such members were appointed. The board of regents of any
+23 such institution shall be abolished on the effective date of
+24 the statutory mission change, as prescribed in subdivision
+25 (8) or (9) of section 173.030.
+26 2. The governing board of Missouri State University, a
+27 public institution of higher education charged with a
+28 statewide mission in public affairs, shall be a board of
+13
+29 governors of ten members, composed of nine voting members
+30 and one nonvoting member, who shall be appointed by the
+31 governor, by and with the advice and consent of the senate.
+32 The nonvoting member shall be a student selected in the same
+33 manner as prescribed in section 174.055. [At least one but
+34 no more than two voting members shall be appointed to the
+35 board from each congressional district, and] Of the nine
+36 voting members appointed to the board, no fewer than seven
+37 members shall each be residents of different congressional
+38 districts of this state; provided that no more than one
+39 member shall be appointed from any one congressional
+40 district. In addition to the seven members appointed to
+41 represent different congressional districts, two members
+42 shall be appointed at-large and shall not be required to
+43 reside in a congressional district not otherwise represented
+44 on the board. Every member of the board shall be a citizen
+45 of the United States, and a resident of this state for at
+46 least two years prior to the member's appointment. No more
+47 than five voting members shall belong to any one political
+48 party. The term of office of the governors shall be six
+49 years, except as provided in this subsection. The term of
+50 office for those appointed hereafter shall end January first
+51 in years ending in an odd number.
+52 3. [If a voting member of the board of governors of
+53 Missouri State University is found by unanimous vote of the
+54 other governors to have moved such governor's residence from
+55 the district from which such governor was appointed, then
+56 the office of such governor shall be forfeited and
+57 considered vacant.
+58 4. Should the total number of Missouri congressional
+59 districts be altered, all members of the board of governors
+60 of Missouri State University shall be allowed to serve the
+61 remainder of the term for which such members were appointed.
+14
+62 5. Should the boundaries of any congressional
+63 districts be altered in a manner that displaces a member of
+64 the board of governors of Missouri State University from the
+65 congressional district from which the member was appointed,
+66 the member shall be allowed to serve the remainder of the
+67 term for which the member was appointed.
+68 6.] The governing board of Missouri Southern State
+69 University shall be a board of governors consisting of nine
+70 members, composed of eight voting members and one nonvoting
+71 member as provided in sections 174.453 and 174.455, who
+72 shall be appointed by the governor of Missouri, by and with
+73 the advice and consent of the senate. No person shall be
+74 appointed a voting member who is not a citizen of the United
+75 States and who has not been a resident of the state of
+76 Missouri for at least two years immediately prior to such
+77 appointment. Not more than four voting members shall belong
+78 to any one political party or reside in the county in which
+79 the institution's principal administrative office is located.
+80 [7.] 4. The governing board of Northwest Missouri
+81 State University shall be a board of regents as provided in
+82 section 174.332.
+83 5. Not more than three voting members of the governing
+84 board of the University of Central Missouri shall reside in
+85 the county in which the institution's principal
+86 administrative office is located.
+1 174.453. 1. Except as provided in section 174.450 and
+2 in [subsection] subsections 4, 5, and 6 of this section, the
+3 board of governors shall be appointed as follows:
+4 (1) Five voting members shall be selected from the
+5 counties comprising the institution's historic statutory
+6 service region as described in section 174.010, except that
+7 no more than two members shall be appointed from any one
+15
+8 county with a population of less than two hundred thousand
+9 inhabitants;
+10 (2) Two voting members shall be selected from any of
+11 the counties in the state which are outside of the
+12 institution's historic service region; and
+13 (3) One nonvoting member who is a student shall be
+14 selected in the same manner as prescribed in section 174.055.
+15 2. The term of service of the governors shall be as
+16 follows:
+17 (1) The voting members shall be appointed for terms of
+18 six years; and
+19 (2) The nonvoting student member shall serve a two-
+20 year term.
+21 3. Members of any board of governors selected pursuant
+22 to this section and in office on May 13, 1999, shall serve
+23 the remainder of their unexpired terms.
+24 4. Notwithstanding the provisions of subsection 1 of
+25 this section, the board of governors of Missouri Southern
+26 State University shall be appointed as follows:
+27 (1) [Six voting members shall be selected from any of
+28 the following counties: Barton, Jasper, Newton, McDonald,
+29 Dade, Lawrence, and Barry provided that no more than three
+30 of these six members shall be appointed from any one county;
+31 (2) Two voting members shall be selected from any of
+32 the counties in the state which are outside of the counties
+33 articulated in subdivision (1) of this subsection;
+34 (3)] Not more than four voting members shall be
+35 selected who reside in the county in which the institution's
+36 principal administrative office is located; and
+37 (2) One nonvoting member who is a student shall be
+38 selected in the same manner as prescribed in section
+39 174.055[; and
+16
+40 (4) The provisions of subdivisions (1) and (2) of this
+41 subsection shall only apply to board members first appointed
+42 after August 28, 2004].
+43 5. Notwithstanding the provisions of subsection 1 of
+44 this section, the board of governors of Missouri Western
+45 State University shall be composed of eight members
+46 appointed as follows:
+47 (1) Five voting members shall be selected from any of
+48 the following counties: Buchanan, Platte, Clinton, Andrew,
+49 and DeKalb;
+50 (2) One nonvoting member who is a student shall be
+51 selected in the same manner as prescribed in section
+52 174.055; and
+53 (3) The provisions of subdivisions (1) and (2) of this
+54 subsection shall only apply to board members first appointed
+55 after August 28, 2005.
+56 6. [(1)] Notwithstanding the provisions of subsection
+57 1 of this section to the contrary, the board of governors of
+58 Southeast Missouri State University shall be appointed as
+59 follows:
+60 [(a) Two voting members shall be selected from any of
+61 the following counties: Butler, Dunklin, Mississippi, New
+62 Madrid, Pemiscot, Scott, or Stoddard;
+63 (b) Two voting members shall be selected from any of
+64 the following counties: Bollinger, Cape Girardeau, Madison,
+65 Perry, Ste. Genevieve, or St. Francois;
+66 (c) Two voting members shall be selected from any of
+67 the following counties or areas: Franklin, Jefferson,
+68 Lincoln, St. Charles, St. Louis, St. Louis City, or Warren;
+69 (d) One voting member shall be selected from one of
+70 the counties in the state; and
+71 (e)] (1) Seven voting members shall be selected, not
+72 more than three of whom shall reside in the county in which
+17
+73 the institution's principal administrative office is
+74 located; and
+75 (2) One nonvoting member who is a student shall be
+76 selected in the same manner as provided in section 174.055.
+77 [(2) The provisions of paragraphs (a) to (c) of
+78 subdivision (1) of this subsection shall only apply to board
+79 members first appointed after August 28, 2021.]
+1 174.610. The governing board of the Truman State
+2 University shall be a board of governors consisting of ten
+3 members, composed of seven voting members and three
+4 nonvoting members as provided in section 174.620, who shall
+5 be appointed by the governor of Missouri, by and with the
+6 advice and consent of the senate. No person shall be
+7 appointed a voting governor who is not a citizen of the
+8 United States and who has not been a resident of the state
+9 of Missouri for at least two years immediately prior to such
+10 person's appointment. Not more than four voting governors
+11 shall belong to any one political party. Not more than
+12 three voting governors shall reside in the county in which
+13 the institution's principal administrative office is
+14 located. The appointed members of the board of regents
+15 serving on January 1, 1986, shall become members of the
+16 board of governors on January 1, 1986, and serve until the
+17 expiration of the terms for which they were appointed.
+1 175.020. The board of curators of Lincoln University
+2 of Missouri shall hereafter consist of nine members who
+3 shall be appointed by the governor, by and with the advice
+4 and consent of the senate. No person shall be appointed a
+5 curator who shall not be a citizen of the United States and
+6 who shall not have been a resident of the state of Missouri
+7 two years next prior to his or her appointment. Not more
+8 than five curators shall belong to any one political party,
+9 and not more than four curators shall reside in the county
+18
+10 in which the institution's principal administrative office
+11 is located.
+1 178.530. 1. The state board of education shall
+2 establish standards and annually inspect, as a basis for
+3 approval, all public prevocational, vocational schools,
+4 State Technical College of Missouri, departments and classes
+5 receiving state or federal moneys for giving training in
+6 agriculture, industrial, home economics and commercial
+7 subjects and all schools, departments and classes receiving
+8 state or federal moneys for the preparation of teachers and
+9 supervisors of such subjects. The public prevocational and
+10 vocational schools, State Technical College of Missouri,
+11 departments, and classes, and the training schools,
+12 departments and classes are entitled to the state or federal
+13 moneys so long as they are approved by the state board of
+14 education, as to site, plant, equipment, qualifications of
+15 teachers, admission of pupils, courses of study and methods
+16 of instruction. All disbursements of state or federal
+17 moneys for the benefit of the approved prevocational and
+18 vocational schools, State Technical College of Missouri,
+19 departments and classes shall be made semiannually. The
+20 school board of each approved school or the governing body
+21 of State Technical College of Missouri shall file a report
+22 with the state board of education at the times and in the
+23 form that the state board requires. Upon receipt of a
+24 satisfactory report, the state board of education shall
+25 certify to the commissioner of administration for [his] the
+26 commissioner's approval the amount of the state and federal
+27 moneys due the school district or State Technical College of
+28 Missouri. The amount due the school district shall be
+29 certified by the commissioner of administration and proper
+30 warrant therefor shall be issued to the district treasurer
+31 or State Technical College of Missouri.
+19
+32 2. Notwithstanding the provisions of subsection 1 of
+33 this section, the state board of education shall establish
+34 standards for agricultural education that may be adopted by
+35 a private school accredited by an agency recognized by the
+36 United States Department of Education as an accreditor of
+37 private schools that wishes to provide quality vocational
+38 programming outside the requirements of, but consistent
+39 with, the federal Vocational Education Act. Such standards
+40 shall be sufficient to qualify a private school to apply to
+41 the state chapter for approval of a local chapter of a
+42 federally chartered national agricultural education
+43 association on a form developed for that purpose by the
+44 department of elementary and secondary education without
+45 eligibility to receive state or federal funding for
+46 agricultural vocational education. The provisions of this
+47 subsection shall not be construed to create eligibility for
+48 a private school to receive state or federal funding for
+49 agricultural vocational education, but shall not prohibit a
+50 private school from receiving state or federal funds for
+51 which such private school would otherwise be eligible for
+52 agricultural vocational education. Any such private school
+53 shall reimburse the department annually for the cost of
+54 oversight and maintenance of the program.
+55 3. (1) The department of elementary and secondary
+56 education, through its agricultural education section, shall
+57 be authorized to establish a [pilot] program, beginning in
+58 the [2020-21] 2027-28 school year, to provide for
+59 agricultural education in elementary schools in the state.
+60 [The purpose of the pilot program shall be to determine
+61 whether and how to implement an elementary agricultural
+62 education program statewide.]
+63 (2) (a) The department, through its employees who
+64 work in the agricultural education section, [is authorized
+20
+65 to select from among applications submitted by the public
+66 elementary schools a minimum of sixteen public elementary
+67 schools for participation in the pilot program. The
+68 department] shall develop [an application] a process for
+69 public elementary schools to [apply to] participate in the
+70 [pilot] program.
+71 (b) The local school board for each elementary school
+72 [selected] that elects to be in the [pilot] program shall
+73 agree to implement and fully fund an elementary agricultural
+74 education program in such school and [to continue to provide
+75 such elementary agricultural education program for a period
+76 no shorter than three years. The local school district] may
+77 employ an agricultural education teacher to provide such
+78 program for the elementary school.
+79 (3) The department, through its employees who work in
+80 the agricultural education section, [and local school
+81 districts] shall [collaborate to] establish [the]
+82 instructional [model] models for [each] the elementary
+83 agricultural education program in conjunction and
+84 collaboration with Missouri agricultural commodity groups
+85 and organizations that promote and support Missouri
+86 agriculture. Such instructional [model] models shall be
+87 grade-appropriate and include instruction in an organized
+88 classroom, collaborative learning experiences through
+89 investigation and inquiry, including laboratory and site-
+90 based learning activities, and personal, leadership, and
+91 career development opportunities.
+92 (4) The department, through its agricultural education
+93 section, shall provide for a program evaluation regarding
+94 the success and impact of the [pilot] program [upon
+95 completion of the third year of the pilot program] and shall
+96 report the results of such evaluation [to the relevant house
+21
+97 and senate committees on agriculture and education] on the
+98 department's website.
+99 4. The department shall maintain an adequate number of
+100 full-time employees, certified in agricultural education and
+101 distributed regionally throughout the state, to provide
+102 accountability for program delivery of agricultural
+103 education, to continue to develop and maintain pertinent
+104 agricultural education instructional models and standards,
+105 to assist local school districts on matters related to
+106 agricultural education, and to coordinate regional and
+107 statewide activities supporting K-12 agricultural education
+108 programming.
+109 5. Nothing in this section shall be construed to
+110 require public elementary schools to participate in the
+111 [pilot] program.
+112 6. The requirements of section 160.514 shall not apply
+113 to the provisions of this section.
+1 178.632. The governing board of State Technical
+2 College of Missouri shall be a board of regents composed of
+3 seven voting members and one nonvoting student member. Such
+4 members shall be appointed by the governor with the advice
+5 and consent of the senate after August 28, 1995, and after
+6 the conditions of section 178.631 are satisfied. No person
+7 shall be appointed to the board who is not a citizen of the
+8 United States and who has not been a resident of the state
+9 of Missouri for at least two years immediately prior to his
+10 appointment. Not less than three voting members shall
+11 belong to one of the two major political parties and not
+12 less than three shall belong to the other major political
+13 party. Not more than [two voting members shall reside in
+14 Osage County or other immediately contiguous counties] three
+15 voting members shall reside in the county in which the
+16 institution's principal administrative office is located.
+22
+[DELETED:  r s 1 1 1 1 1 1 1 a 1 1 1 a 1 R a.1.A   )"   )"         ]
+[DELETED:  )"     )"   )"       )"   )"   )"   ]
+[DELETED: )" )" )"   )"  )"   )"  )" )"    )"   )"   ]
+[DELETED: )"      )" )"   )"   )"   )"   )"   )"   ]
+[DELETED:  .T    .T .(   )E )B )H )P .S )D )P )O )O )O)A  ]
+[DELETED: )O)U   .()T     )A   .A )A )A )T .()E     )C)A )A  ]
+[DELETED: )A  )A  )A)N   .N     )P  .()A     )T  )T  .T   ]
+[DELETED: .B  )T )T)T )T  )T)T )T .()B       .T  )T  )T )T)T ]
+[DELETED: )T  .()B      )A )A )A    )A    .()N     )I   .()T     ]
+[DELETED: .T .I  .T  )N   )T .A  .T  .A     .T      .U)T   ]
+[DELETED: )I   )T  .I     .1.P     .T    .N   .O   .1.N      .N ]
+[DELETED: y.N .T    .T)S  .F      )T    )o .O   3.2.A       ]
+[DELETED:  4.3.E     .1.E 6    7           .N    .N .T     .T   .T   ]
+[DELETED:     .A  d      .I    .E  .N  .T .T  .I     .S   ]
+[DELETED: .S     .T     .N    .N   7.4.T   .N   .1.E    sn  )F    ]
+[DELETED:  )T  )O .T )T )T .M  .N  )S :B  )T  )N  )O  5;]
+[DELETED: )T  4..N   )F :B )O  )T  .()N      ()T :B )T :B )T :F )O )()S   ]
+[DELETED:  )O  ()T  ..T     .N    .N .N   .T   .T   .N   .N   ]
+[DELETED:  .1.T          .T       .A   .T    .U   hs    .T   ]
+[DELETED: .N       .S       .T      .A  .()T     pt   21     .)()T    i ]
+[DELETED:   .T t  an [  ao  t .)T ][d  pt    t  .Tt   )T  a s  co  te[][  ml  eh ][    .S ml      )T   pt  u] m   t ]
+[DELETED: n  .T         .N  t .T .T  .S   .N    .N   .N t s   ]
+
+
+================================================================================
+
+Raw Text:
+6382S.06F
+SENATE SUBSTITUTE
+FOR
+SENATE COMMITTEE SUBSTITUTE
+FOR
+HOUSE BILL NO. 2896
+AN ACT
+To repeal sections 173.831, 174.300, 174.332,
+174.450, 174.453, 174.610, 175.020, 178.530, and
+178.632, RSMo, and to enact in lieu thereof nine new
+sections relating to education.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Sections 173.831, 174.300, 174.332, 174.450,
+2 174.453, 174.610, 175.020, 178.530, and 178.632, RSMo, are
+3 repealed and nine new sections enacted in lieu thereof, to be
+4 known as sections 173.831, 174.300, 174.332, 174.450, 174.453,
+5 174.610, 175.020, 178.530, and 178.632, to read as follows:
+1 173.831. 1. As used in this section, the following
+2 terms mean:
+3 (1) "Academic skill intake assessment", a criterion-
+4 referenced assessment of numeracy and literacy skills with
+5 high reliability and validity as determined by third-party
+6 research;
+7 (2) "Accredited", holding an active accreditation from
+8 one of the seven United States regional accreditors
+9 including, but not limited to, the Middle States Commission
+10 on Higher Education, the New England Association of Schools
+11 and Colleges, the Higher Learning Commission, the Northwest
+12 Commission on Colleges and Universities, the Southern
+13 Association of Colleges and Schools, the Western Association
+14 of Schools and Colleges, and the Accrediting Commission for
+15 Community and Junior Colleges, as well as any successor
+1
+
+16 entities or consolidations of the above including, but not
+17 limited to, AdvancEd or Cognia;
+18 (3) "Adult dropout recovery services" includes, but is
+19 not limited to, sourcing, recruitment, and engagement of
+20 eligible students, learning plan development, active
+21 teaching, and proactive coaching and mentoring, resulting in
+22 an accredited high school diploma and pathway to post
+23 secondary education opportunities;
+24 (4) "Approved program provider", a public, not-for-
+25 profit, or other entity that meets the requirements of
+26 subdivision (2) of subsection 3 of this section or any
+27 consortium of such entities;
+28 (5) "Average cost per graduate", the amount of the
+29 total program funding reimbursed to an approved program
+30 provider for each cohort during the period of time from the
+31 beginning of the same cohort through the subsequent twelve
+32 months after the close of the same cohort, divided by the
+33 total number of students who graduated from the same cohort
+34 within twelve months after the close of the same cohort or
+35 enrollment in postsecondary education;
+36 (6) "Career pathways coursework", one or more courses
+37 that align with the skill needs of industries in the economy
+38 of the state or region that help an individual enter or
+39 advance within a specific occupation or occupational cluster;
+40 (7) "Career placement services", services designed to
+41 assist students in obtaining employment, such as career
+42 interest self-assessments and job search skills such as
+43 resume development and mock interviews;
+44 (8) "Coaching", proactive communication between the
+45 approved program provider and the student related to the
+46 student's pace and progress through the student's learning
+47 plan;
+2
+
+48 (9) "Cohort", students who enter the program between
+49 July first and June thirtieth of each program year;
+50 (10) "Department", the department of elementary and
+51 secondary education;
+52 (11) "Employability skills certification", a
+53 certificate earned by demonstrating professional
+54 nontechnical skills through assessment, portfolio, or
+55 observation;
+56 (12) "Graduate", a student who has successfully
+57 completed all of the state and approved program provider
+58 requirements in order to obtain a high school diploma;
+59 (13) "Graduation rate", the total number of graduates
+60 from a cohort who graduated within twelve months after the
+61 close of the cohort divided by the total number of students
+62 included in the same cohort;
+63 (14) "Graduation requirements", course and credit
+64 requirements for the approved program provider's accredited
+65 high school diploma;
+66 (15) "High school diploma", a diploma issued by an
+67 accredited institution;
+68 (16) "Industry-recognized credential", an education-
+69 related credential or work-related credential that verifies
+70 an individual's qualification or competence issued by a
+71 third party with the relevant authority to issue such
+72 credential;
+73 (17) "Learning plan", a documented plan for courses or
+74 credits needed for each individual in order to complete
+75 program and approved program provider graduation
+76 requirements;
+77 (18) "Mentoring", a direct relationship between a
+78 coach and a student to facilitate the completion of the
+79 student's learning plan designed to prepare the student to
+80 succeed in the program and the student's future endeavors;
+3
+
+81 (19) "Milestones", objective measures of progress for
+82 which payment is made to an approved program provider under
+83 this section such as earned units of high school credit,
+84 attainment of an employability skills certificate,
+85 attainment of an industry-recognized credential, attainment
+86 of a technical skills assessment, and attainment of an
+87 accredited high school diploma;
+88 (20) "Program", the workforce diploma program
+89 established in this section;
+90 (21) "Request for qualifications", a request for
+91 interested potential program providers to submit evidence
+92 that they meet the qualifications established in subsection
+93 3 of this section;
+94 (22) "Stackable credential", a third-party credential
+95 that is part of a sequence of credentials that can be
+96 accumulated over time to build up an individual's
+97 qualifications to advance along a career pathway;
+98 (23) "Student", a participant in the program
+99 established in this section who is twenty-one years of age
+100 or older, who is a resident of Missouri, and who has not yet
+101 earned a high school diploma;
+102 (24) "Technical skills assessment", a criterion-
+103 referenced assessment of an individual's skills required for
+104 an entry-level career, or additional training in a technical
+105 field, or other postsecondary opportunities;
+106 (25) "Transcript evaluation", a documented summary of
+107 credits earned in previous public or private accredited high
+108 schools compared with the program and approved program
+109 provider graduation requirements;
+110 (26) "Unit of high school credit", credit awarded
+111 based on a student's demonstration that the student has
+112 successfully met the content expectations for the credit
+4
+
+113 area as defined by subject area standards, expectations, or
+114 guidelines.
+115 2. There is hereby established the "Workforce Diploma
+116 Program" within the department of elementary and secondary
+117 education to assist students with obtaining a high school
+118 diploma and developing employability and career technical
+119 skills. The program may be delivered in campus-based,
+120 blended, or online modalities.
+121 3. (1) Before September 1, 2022, and annually
+122 thereafter, the department shall issue a request for
+123 qualifications for interested program providers to become
+124 approved program providers and participate in the program.
+125 (2) Each approved program provider shall meet all of
+126 the following qualifications:
+127 (a) Be an accredited high school diploma-granting
+128 entity;
+129 (b) Have a minimum of two years of experience
+130 providing adult dropout recovery services;
+131 (c) Provide academic skill intake assessments and
+132 transcript evaluations to each student. Such academic skill
+133 intake assessments may be administered in person or online;
+134 (d) Develop a learning plan for each student that
+135 integrates graduation requirements and career goals;
+136 (e) Provide a course catalog that includes all courses
+137 necessary to meet graduation requirements;
+138 (f) Offer remediation opportunities in literacy and
+139 numeracy, as applicable;
+140 (g) Offer employability skills certification, as
+141 applicable;
+142 (h) Offer career pathways coursework, as applicable;
+143 (i) Ability to provide preparation for industry-
+144 recognized credentials or stackable credentials, a technical
+145 skills assessment, or a combination thereof; and
+5
+
+146 (j) Offer career placement services, as applicable.
+147 (3) Upon confirmation by the department that an
+148 interested program provider meets all of the qualifications
+149 listed in subdivision (2) of this subsection, an interested
+150 program provider shall become an approved program provider.
+151 4. (1) The department shall announce the approved
+152 program providers before October sixteenth annually, with
+153 authorization for the approved program providers to begin
+154 enrolling students before November fifteenth annually.
+155 (2) Approved program providers shall maintain approval
+156 without reapplying annually if the approved program provider
+157 has not been removed from the approved program provider list
+158 under this section.
+159 5. All approved program providers shall comply with
+160 requirements as provided by the department to ensure:
+161 (1) An accurate accounting of a student's accumulated
+162 credits toward a high school diploma;
+163 (2) An accurate accounting of credits necessary to
+164 complete a high school diploma; and
+165 (3) The provision of coursework aligned to the
+166 academic performance standards of the state.
+167 6. (1) Except as provided in subdivision (2) of this
+168 subsection, the department shall pay an amount as set by the
+169 department to approved program providers for the following
+170 milestones provided by the approved program provider:
+171 (a) Completion of each half unit of high school credit;
+172 (b) Attainment of an employability skills
+173 certification;
+174 (c) Attainment of an industry-recognized credential,
+175 technical skills assessment, or stackable credential
+176 requiring no more than fifty hours of training;
+6
+
+177 (d) Attainment of an industry-recognized credential or
+178 stackable credential requiring at least fifty-one but no
+179 more than one hundred hours of training;
+180 (e) Attainment of an industry-recognized credential or
+181 stackable credential requiring more than one hundred hours
+182 of training; and
+183 (f) Attainment of an accredited high school diploma.
+184 (2) No approved program provider shall receive funding
+185 for a student under this section if the approved program
+186 provider receives federal or state funding or private
+187 tuition for that student. No approved program provider
+188 shall charge student fees of any kind including, but not
+189 limited to, textbook fees, tuition fees, lab fees, or
+190 participation fees unless the student chooses to obtain
+191 additional education offered by the approved program
+192 provider that is not included in the state-funded program.
+193 (3) Payments made under this subsection shall be
+194 subject to an appropriation made to the department for such
+195 purposes.
+196 7. (1) Approved program providers shall submit
+197 monthly invoices to the department before the eleventh
+198 calendar day of each month for milestones met in the
+199 previous calendar month.
+200 (2) The department shall pay approved program
+201 providers in the order in which invoices are submitted until
+202 all available funds are exhausted.
+203 (3) The department shall provide a written update to
+204 approved program providers by the last calendar day of each
+205 month. The update shall include the aggregate total dollars
+206 that have been paid to approved program providers to date
+207 and the estimated number of enrollments still available for
+208 the program year.
+7
+
+209 8. Before July sixteenth of each year, each provider
+210 shall report the following metrics to the department for
+211 each individual cohort, on a cohort-by-cohort basis:
+212 (1) The total number of students who have been funded
+213 through the program;
+214 (2) The total number of credits earned;
+215 (3) The total number of employability skills
+216 certifications issued;
+217 (4) The total number of industry-recognized
+218 credentials, stackable credentials, and technical skills
+219 assessments earned for each tier of funding;
+220 (5) The total number of graduates;
+221 (6) The average cost per graduate once the stipulated
+222 time to make such a calculation has passed; and
+223 (7) The graduation rate once the stipulated time to
+224 make such a calculation has passed.
+225 9. (1) Before September sixteenth of each year, each
+226 approved program provider shall conduct and submit to the
+227 department the aggregate results of a survey of each
+228 individual cohort, on a cohort-by-cohort basis, who
+229 graduated from the program of the approved program provider
+230 under this section. The survey shall be conducted in the
+231 year after the year in which the individuals graduate and
+232 the next four consecutive years.
+233 (2) The survey shall include at least the following
+234 data collection elements for each year the survey is
+235 conducted:
+236 (a) The individual's employment status, including
+237 whether the individual is employed full time or part time;
+238 (b) The individual's hourly wages;
+239 (c) The individual's access to employer-sponsored
+240 health care; and
+8
+
+241 (d) The individual's postsecondary enrollment status,
+242 including whether the individual has completed a
+243 postsecondary certificate or degree program.
+244 10. (1) Beginning at the end of the second fiscal
+245 year of the program, the department shall review data from
+246 each approved program provider to ensure that each is
+247 achieving minimum program performance standards including,
+248 but not limited to:
+249 (a) A minimum fifty percent average graduation rate
+250 per cohort; and
+251 (b) An average cost per graduate per cohort of seven
+252 thousand dollars or less.
+253 (2) Any approved program provider that fails to meet
+254 the minimum program performance standards described in
+255 subdivision (1) of this subsection shall be placed on
+256 probationary status for the remainder of the fiscal year by
+257 the department.
+258 (3) Any approved program provider that fails to meet
+259 the minimum program performance standards described in
+260 subdivision (1) of this subsection for two consecutive years
+261 shall be removed from the approved program provider list by
+262 the department.
+263 11. (1) No approved program provider shall
+264 discriminate against a student on the basis of race, color,
+265 religion, national origin, ancestry, sex, sexuality, gender,
+266 or age.
+267 (2) If an approved program provider determines that a
+268 student would be better served by participating in a
+269 different program, the approved program provider may refer
+270 the student to the state's adult basic education services.
+271 12. (1) There is hereby created in the state treasury
+272 the "Workforce Diploma Program Fund", which shall consist of
+273 any grants, gifts, donations, bequests, or moneys
+9
+
+274 appropriated under this section. The state treasurer shall
+275 be custodian of the fund. In accordance with sections
+276 30.170 and 30.180, the state treasurer may approve
+277 disbursements. The fund shall be a dedicated fund and, upon
+278 appropriation, moneys in the fund shall be used solely as
+279 provided in this section.
+280 (2) Notwithstanding the provisions of section 33.080
+281 to the contrary, any moneys remaining in the fund at the end
+282 of the biennium shall not revert to the credit of the
+283 general revenue fund.
+284 (3) The state treasurer shall invest moneys in the
+285 fund in the same manner as other funds are invested. Any
+286 interest and moneys earned on such investments shall be
+287 credited to the fund.
+288 13. The director of the department may promulgate all
+289 necessary rules and regulations for the administration of
+290 this section. Any rule or portion of a rule, as that term
+291 is defined in section 536.010, that is created under the
+292 authority delegated in this section shall become effective
+293 only if it complies with and is subject to all of the
+294 provisions of chapter 536 and, if applicable, section
+295 536.028. This section and chapter 536 are nonseverable and
+296 if any of the powers vested with the general assembly
+297 pursuant to chapter 536 to review, to delay the effective
+298 date, or to disapprove and annul a rule are subsequently
+299 held unconstitutional, then the grant of rulemaking
+300 authority and any rule proposed or adopted after August 28,
+301 2022, shall be invalid and void.
+302 14. [Under section 23.253 of the Missouri sunset act:
+303 (1) The provisions of the new program authorized under
+304 this section shall automatically sunset six years after
+305 August 28, 2022, unless reauthorized by an act of the
+306 general assembly; and
+10
+
+307 (2) If such program is reauthorized, the program
+308 authorized under this section shall automatically sunset
+309 twelve years after the effective date of the reauthorization
+310 of this section; and
+311 (3) This section shall terminate on September first of
+312 the calendar year immediately following the calendar year in
+313 which the program authorized under this section is sunset.
+314 15.] If any provision of this section or its
+315 application to any person or circumstance is held invalid,
+316 such determination shall not affect the provisions or
+317 applications of the remainder of this act which may be given
+318 effect without the invalid provision or application, and to
+319 that end the provisions of this section are severable.
+1 174.300. 1. Prior to October 17, 1978, the governor
+2 shall, with the advice and consent of the senate, appoint a
+3 six-member board of regents to assume the general control
+4 and management of Harris-Stowe College. The members of the
+5 board shall serve for terms of six years each, except for
+6 the members first appointed, two of whom shall serve two-
+7 year terms, two of whom shall serve four-year terms, and two
+8 of whom shall serve six-year terms. Not more than three of
+9 the regents shall be affiliated with any one political party
+10 or reside in the city in which the institution's principal
+11 administrative office is located.
+12 2. On and after August 28, 2005, Harris-Stowe State
+13 College shall be known as Harris-Stowe State University, and
+14 the provisions contained in subsection 1 of this section
+15 shall continue to apply to the institution.
+1 174.332. 1. Notwithstanding the provisions of section
+2 174.050 to the contrary, the board of regents of Northwest
+3 Missouri State University shall be composed of nine members,
+4 eight of whom shall be voting members and one who shall be a
+5 nonvoting member. Not more than four voting members shall
+11
+
+6 belong to any one political party[. Not more than two
+7 voting members shall be residents of the same county. The
+8 appointed members of the board serving on August 28, 2008,
+9 shall continue to serve until the expiration of the terms
+10 for which the appointed members were appointed and until
+11 such time a successor is duly appointed.
+12 2. The board of regents shall be appointed as follows:
+13 (1) Six voting members shall be residents of the
+14 university's historic statutory service region, provided at
+15 least one member shall be a resident of Nodaway County. For
+16 the sole purpose of determining the composition of the board
+17 of regents, the university's historic statutory service
+18 region shall consist of the counties of Atchison, Andrew,
+19 Caldwell, Carroll, Clay, Clinton, Daviess, DeKalb, Gentry,
+20 Grundy, Harrison, Holt, Livingston, Mercer, Nodaway, Ray,
+21 and Worth;
+22 (2) Two voting members shall be residents of a county
+23 in the state that is outside the university's historic
+24 statutory service region, as described in subdivision (1) of
+25 this subsection, provided these two members shall not be
+26 appointed from the same congressional district; and
+27 (3)] or reside in the county in which the institution's
+28 principal administrative office is located. One nonvoting
+29 member shall be a full-time student of the university, a
+30 United States citizen, and a resident of Missouri.
+31 [3.] 2. A majority of the voting members of the board
+32 shall constitute a quorum for the transaction of business;
+33 however, no appropriation of money nor any contract that
+34 shall require any appropriation or disbursement of money
+35 shall be made, nor teacher employed or dismissed, unless a
+36 majority of the voting members of the board vote for the
+37 same.
+12
+
+38 [4.] 3. Except as specifically provided in this
+39 section, the appointments and terms of office for the voting
+40 and nonvoting members of the board, and all other duties and
+41 responsibilities of the board, shall comply with the
+42 provisions of state law regarding boards of regents.
+1 174.450. 1. Except as provided in subsections 2, [6]
+2 3, and [7] 4 of this section, the governing board of the
+3 University of Central Missouri, Missouri State University,
+4 Missouri Southern State University, Missouri Western State
+5 University, and of each other public institution of higher
+6 education which, through the procedures established in
+7 subdivision (8) or (9) of section 173.030, is charged with a
+8 statewide mission shall be a board of governors consisting
+9 of eight members, composed of seven voting members and one
+10 nonvoting member as provided in sections 174.453 and
+11 174.455, who shall be appointed by the governor of Missouri,
+12 by and with the advice and consent of the senate. No person
+13 shall be appointed a voting member who is not a citizen of
+14 the United States and who has not been a resident of the
+15 state of Missouri for at least two years immediately prior
+16 to such appointment. Not more than four voting members
+17 shall belong to any one political party. The appointed
+18 members of the board of regents serving on the date of the
+19 statutory mission change shall become members of the board
+20 of governors on the effective date of the statutory mission
+21 change and serve until the expiration of the terms for which
+22 such members were appointed. The board of regents of any
+23 such institution shall be abolished on the effective date of
+24 the statutory mission change, as prescribed in subdivision
+25 (8) or (9) of section 173.030.
+26 2. The governing board of Missouri State University, a
+27 public institution of higher education charged with a
+28 statewide mission in public affairs, shall be a board of
+13
+
+29 governors of ten members, composed of nine voting members
+30 and one nonvoting member, who shall be appointed by the
+31 governor, by and with the advice and consent of the senate.
+32 The nonvoting member shall be a student selected in the same
+33 manner as prescribed in section 174.055. [At least one but
+34 no more than two voting members shall be appointed to the
+35 board from each congressional district, and] Of the nine
+36 voting members appointed to the board, no fewer than seven
+37 members shall each be residents of different congressional
+38 districts of this state; provided that no more than one
+39 member shall be appointed from any one congressional
+40 district. In addition to the seven members appointed to
+41 represent different congressional districts, two members
+42 shall be appointed at-large and shall not be required to
+43 reside in a congressional district not otherwise represented
+44 on the board. Every member of the board shall be a citizen
+45 of the United States, and a resident of this state for at
+46 least two years prior to the member's appointment. No more
+47 than five voting members shall belong to any one political
+48 party. The term of office of the governors shall be six
+49 years, except as provided in this subsection. The term of
+50 office for those appointed hereafter shall end January first
+51 in years ending in an odd number.
+52 3. [If a voting member of the board of governors of
+53 Missouri State University is found by unanimous vote of the
+54 other governors to have moved such governor's residence from
+55 the district from which such governor was appointed, then
+56 the office of such governor shall be forfeited and
+57 considered vacant.
+58 4. Should the total number of Missouri congressional
+59 districts be altered, all members of the board of governors
+60 of Missouri State University shall be allowed to serve the
+61 remainder of the term for which such members were appointed.
+14
+
+62 5. Should the boundaries of any congressional
+63 districts be altered in a manner that displaces a member of
+64 the board of governors of Missouri State University from the
+65 congressional district from which the member was appointed,
+66 the member shall be allowed to serve the remainder of the
+67 term for which the member was appointed.
+68 6.] The governing board of Missouri Southern State
+69 University shall be a board of governors consisting of nine
+70 members, composed of eight voting members and one nonvoting
+71 member as provided in sections 174.453 and 174.455, who
+72 shall be appointed by the governor of Missouri, by and with
+73 the advice and consent of the senate. No person shall be
+74 appointed a voting member who is not a citizen of the United
+75 States and who has not been a resident of the state of
+76 Missouri for at least two years immediately prior to such
+77 appointment. Not more than four voting members shall belong
+78 to any one political party or reside in the county in which
+79 the institution's principal administrative office is located.
+80 [7.] 4. The governing board of Northwest Missouri
+81 State University shall be a board of regents as provided in
+82 section 174.332.
+83 5. Not more than three voting members of the governing
+84 board of the University of Central Missouri shall reside in
+85 the county in which the institution's principal
+86 administrative office is located.
+1 174.453. 1. Except as provided in section 174.450 and
+2 in [subsection] subsections 4, 5, and 6 of this section, the
+3 board of governors shall be appointed as follows:
+4 (1) Five voting members shall be selected from the
+5 counties comprising the institution's historic statutory
+6 service region as described in section 174.010, except that
+7 no more than two members shall be appointed from any one
+15
+
+8 county with a population of less than two hundred thousand
+9 inhabitants;
+10 (2) Two voting members shall be selected from any of
+11 the counties in the state which are outside of the
+12 institution's historic service region; and
+13 (3) One nonvoting member who is a student shall be
+14 selected in the same manner as prescribed in section 174.055.
+15 2. The term of service of the governors shall be as
+16 follows:
+17 (1) The voting members shall be appointed for terms of
+18 six years; and
+19 (2) The nonvoting student member shall serve a two-
+20 year term.
+21 3. Members of any board of governors selected pursuant
+22 to this section and in office on May 13, 1999, shall serve
+23 the remainder of their unexpired terms.
+24 4. Notwithstanding the provisions of subsection 1 of
+25 this section, the board of governors of Missouri Southern
+26 State University shall be appointed as follows:
+27 (1) [Six voting members shall be selected from any of
+28 the following counties: Barton, Jasper, Newton, McDonald,
+29 Dade, Lawrence, and Barry provided that no more than three
+30 of these six members shall be appointed from any one county;
+31 (2) Two voting members shall be selected from any of
+32 the counties in the state which are outside of the counties
+33 articulated in subdivision (1) of this subsection;
+34 (3)] Not more than four voting members shall be
+35 selected who reside in the county in which the institution's
+36 principal administrative office is located; and
+37 (2) One nonvoting member who is a student shall be
+38 selected in the same manner as prescribed in section
+39 174.055[; and
+16
+
+40 (4) The provisions of subdivisions (1) and (2) of this
+41 subsection shall only apply to board members first appointed
+42 after August 28, 2004].
+43 5. Notwithstanding the provisions of subsection 1 of
+44 this section, the board of governors of Missouri Western
+45 State University shall be composed of eight members
+46 appointed as follows:
+47 (1) Five voting members shall be selected from any of
+48 the following counties: Buchanan, Platte, Clinton, Andrew,
+49 and DeKalb;
+50 (2) One nonvoting member who is a student shall be
+51 selected in the same manner as prescribed in section
+52 174.055; and
+53 (3) The provisions of subdivisions (1) and (2) of this
+54 subsection shall only apply to board members first appointed
+55 after August 28, 2005.
+56 6. [(1)] Notwithstanding the provisions of subsection
+57 1 of this section to the contrary, the board of governors of
+58 Southeast Missouri State University shall be appointed as
+59 follows:
+60 [(a) Two voting members shall be selected from any of
+61 the following counties: Butler, Dunklin, Mississippi, New
+62 Madrid, Pemiscot, Scott, or Stoddard;
+63 (b) Two voting members shall be selected from any of
+64 the following counties: Bollinger, Cape Girardeau, Madison,
+65 Perry, Ste. Genevieve, or St. Francois;
+66 (c) Two voting members shall be selected from any of
+67 the following counties or areas: Franklin, Jefferson,
+68 Lincoln, St. Charles, St. Louis, St. Louis City, or Warren;
+69 (d) One voting member shall be selected from one of
+70 the counties in the state; and
+71 (e)] (1) Seven voting members shall be selected, not
+72 more than three of whom shall reside in the county in which
+17
+
+73 the institution's principal administrative office is
+74 located; and
+75 (2) One nonvoting member who is a student shall be
+76 selected in the same manner as provided in section 174.055.
+77 [(2) The provisions of paragraphs (a) to (c) of
+78 subdivision (1) of this subsection shall only apply to board
+79 members first appointed after August 28, 2021.]
+1 174.610. The governing board of the Truman State
+2 University shall be a board of governors consisting of ten
+3 members, composed of seven voting members and three
+4 nonvoting members as provided in section 174.620, who shall
+5 be appointed by the governor of Missouri, by and with the
+6 advice and consent of the senate. No person shall be
+7 appointed a voting governor who is not a citizen of the
+8 United States and who has not been a resident of the state
+9 of Missouri for at least two years immediately prior to such
+10 person's appointment. Not more than four voting governors
+11 shall belong to any one political party. Not more than
+12 three voting governors shall reside in the county in which
+13 the institution's principal administrative office is
+14 located. The appointed members of the board of regents
+15 serving on January 1, 1986, shall become members of the
+16 board of governors on January 1, 1986, and serve until the
+17 expiration of the terms for which they were appointed.
+1 175.020. The board of curators of Lincoln University
+2 of Missouri shall hereafter consist of nine members who
+3 shall be appointed by the governor, by and with the advice
+4 and consent of the senate. No person shall be appointed a
+5 curator who shall not be a citizen of the United States and
+6 who shall not have been a resident of the state of Missouri
+7 two years next prior to his or her appointment. Not more
+8 than five curators shall belong to any one political party,
+9 and not more than four curators shall reside in the county
+18
+
+10 in which the institution's principal administrative office
+11 is located.
+1 178.530. 1. The state board of education shall
+2 establish standards and annually inspect, as a basis for
+3 approval, all public prevocational, vocational schools,
+4 State Technical College of Missouri, departments and classes
+5 receiving state or federal moneys for giving training in
+6 agriculture, industrial, home economics and commercial
+7 subjects and all schools, departments and classes receiving
+8 state or federal moneys for the preparation of teachers and
+9 supervisors of such subjects. The public prevocational and
+10 vocational schools, State Technical College of Missouri,
+11 departments, and classes, and the training schools,
+12 departments and classes are entitled to the state or federal
+13 moneys so long as they are approved by the state board of
+14 education, as to site, plant, equipment, qualifications of
+15 teachers, admission of pupils, courses of study and methods
+16 of instruction. All disbursements of state or federal
+17 moneys for the benefit of the approved prevocational and
+18 vocational schools, State Technical College of Missouri,
+19 departments and classes shall be made semiannually. The
+20 school board of each approved school or the governing body
+21 of State Technical College of Missouri shall file a report
+22 with the state board of education at the times and in the
+23 form that the state board requires. Upon receipt of a
+24 satisfactory report, the state board of education shall
+25 certify to the commissioner of administration for [his] the
+26 commissioner's approval the amount of the state and federal
+27 moneys due the school district or State Technical College of
+28 Missouri. The amount due the school district shall be
+29 certified by the commissioner of administration and proper
+30 warrant therefor shall be issued to the district treasurer
+31 or State Technical College of Missouri.
+19
+
+32 2. Notwithstanding the provisions of subsection 1 of
+33 this section, the state board of education shall establish
+34 standards for agricultural education that may be adopted by
+35 a private school accredited by an agency recognized by the
+36 United States Department of Education as an accreditor of
+37 private schools that wishes to provide quality vocational
+38 programming outside the requirements of, but consistent
+39 with, the federal Vocational Education Act. Such standards
+40 shall be sufficient to qualify a private school to apply to
+41 the state chapter for approval of a local chapter of a
+42 federally chartered national agricultural education
+43 association on a form developed for that purpose by the
+44 department of elementary and secondary education without
+45 eligibility to receive state or federal funding for
+46 agricultural vocational education. The provisions of this
+47 subsection shall not be construed to create eligibility for
+48 a private school to receive state or federal funding for
+49 agricultural vocational education, but shall not prohibit a
+50 private school from receiving state or federal funds for
+51 which such private school would otherwise be eligible for
+52 agricultural vocational education. Any such private school
+53 shall reimburse the department annually for the cost of
+54 oversight and maintenance of the program.
+55 3. (1) The department of elementary and secondary
+56 education, through its agricultural education section, shall
+57 be authorized to establish a [pilot] program, beginning in
+58 the [2020-21] 2027-28 school year, to provide for
+59 agricultural education in elementary schools in the state.
+60 [The purpose of the pilot program shall be to determine
+61 whether and how to implement an elementary agricultural
+62 education program statewide.]
+63 (2) (a) The department, through its employees who
+64 work in the agricultural education section, [is authorized
+20
+
+65 to select from among applications submitted by the public
+66 elementary schools a minimum of sixteen public elementary
+67 schools for participation in the pilot program. The
+68 department] shall develop [an application] a process for
+69 public elementary schools to [apply to] participate in the
+70 [pilot] program.
+71 (b) The local school board for each elementary school
+72 [selected] that elects to be in the [pilot] program shall
+73 agree to implement and fully fund an elementary agricultural
+74 education program in such school and [to continue to provide
+75 such elementary agricultural education program for a period
+76 no shorter than three years. The local school district] may
+77 employ an agricultural education teacher to provide such
+78 program for the elementary school.
+79 (3) The department, through its employees who work in
+80 the agricultural education section, [and local school
+81 districts] shall [collaborate to] establish [the]
+82 instructional [model] models for [each] the elementary
+83 agricultural education program in conjunction and
+84 collaboration with Missouri agricultural commodity groups
+85 and organizations that promote and support Missouri
+86 agriculture. Such instructional [model] models shall be
+87 grade-appropriate and include instruction in an organized
+88 classroom, collaborative learning experiences through
+89 investigation and inquiry, including laboratory and site-
+90 based learning activities, and personal, leadership, and
+91 career development opportunities.
+92 (4) The department, through its agricultural education
+93 section, shall provide for a program evaluation regarding
+94 the success and impact of the [pilot] program [upon
+95 completion of the third year of the pilot program] and shall
+96 report the results of such evaluation [to the relevant house
+21
+
+97 and senate committees on agriculture and education] on the
+98 department's website.
+99 4. The department shall maintain an adequate number of
+100 full-time employees, certified in agricultural education and
+101 distributed regionally throughout the state, to provide
+102 accountability for program delivery of agricultural
+103 education, to continue to develop and maintain pertinent
+104 agricultural education instructional models and standards,
+105 to assist local school districts on matters related to
+106 agricultural education, and to coordinate regional and
+107 statewide activities supporting K-12 agricultural education
+108 programming.
+109 5. Nothing in this section shall be construed to
+110 require public elementary schools to participate in the
+111 [pilot] program.
+112 6. The requirements of section 160.514 shall not apply
+113 to the provisions of this section.
+1 178.632. The governing board of State Technical
+2 College of Missouri shall be a board of regents composed of
+3 seven voting members and one nonvoting student member. Such
+4 members shall be appointed by the governor with the advice
+5 and consent of the senate after August 28, 1995, and after
+6 the conditions of section 178.631 are satisfied. No person
+7 shall be appointed to the board who is not a citizen of the
+8 United States and who has not been a resident of the state
+9 of Missouri for at least two years immediately prior to his
+10 appointment. Not less than three voting members shall
+11 belong to one of the two major political parties and not
+12 less than three shall belong to the other major political
+13 party. Not more than [two voting members shall reside in
+14 Osage County or other immediately contiguous counties] three
+15 voting members shall reside in the county in which the
+16 institution's principal administrative office is located.
+22
+
+[DELETED:  r s 1 1 1 1 1 1 1 a 1 1 1 a 1 R a.1.A   )"   )"         ]
+[DELETED:  )"     )"   )"       )"   )"   )"   ]
+[DELETED: )" )" )"   )"  )"   )"  )" )"    )"   )"   ]
+[DELETED: )"      )" )"   )"   )"   )"   )"   )"   ]
+[DELETED:  .T    .T .(   )E )B )H )P .S )D )P )O )O )O)A  ]
+[DELETED: )O)U   .()T     )A   .A )A )A )T .()E     )C)A )A  ]
+[DELETED: )A  )A  )A)N   .N     )P  .()A     )T  )T  .T   ]
+[DELETED: .B  )T )T)T )T  )T)T )T .()B       .T  )T  )T )T)T ]
+[DELETED: )T  .()B      )A )A )A    )A    .()N     )I   .()T     ]
+[DELETED: .T .I  .T  )N   )T .A  .T  .A     .T      .U)T   ]
+[DELETED: )I   )T  .I     .1.P     .T    .N   .O   .1.N      .N ]
+[DELETED: y.N .T    .T)S  .F      )T    )o .O   3.2.A       ]
+[DELETED:  4.3.E     .1.E 6    7           .N    .N .T     .T   .T   ]
+[DELETED:     .A  d      .I    .E  .N  .T .T  .I     .S   ]
+[DELETED: .S     .T     .N    .N   7.4.T   .N   .1.E    sn  )F    ]
+[DELETED:  )T  )O .T )T )T .M  .N  )S :B  )T  )N  )O  5;]
+[DELETED: )T  4..N   )F :B )O  )T  .()N      ()T :B )T :B )T :F )O )()S   ]
+[DELETED:  )O  ()T  ..T     .N    .N .N   .T   .T   .N   .N   ]
+[DELETED:  .1.T          .T       .A   .T    .U   hs    .T   ]
+[DELETED: .N       .S       .T      .A  .()T     pt   21     .)()T    i ]
+[DELETED:   .T t  an [  ao  t .)T ][d  pt    t  .Tt   )T  a s  co  te[][  ml  eh ][    .S ml      )T   pt  u] m   t ]
+[DELETED: n  .T         .N  t .T .T  .S   .N    .N   .N t s   ]

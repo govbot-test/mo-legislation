@@ -1,0 +1,221 @@
+Title: HOUSE BILL NO. 2031
+Official Title: HOUSE BILL NO. 2031
+Number of Sections: 3
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE SCHMIDT.
+4190H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapter 1, RSMo, by adding thereto one new section relating to artificial
+intelligence chatbots.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+
+Section 2:
+Section A. Chapter 1, RSMo, is amended by adding thereto one new section, to be
+2 known as section 1.2047, to read as follows:
+
+Section 3:
+1.2047. 1. This section shall be known and may be cited as the "Children
+2 Harmed by AI Technology Act" or the "CHAT Act".
+3 2. As used in this section, the following terms mean:
+4 (1) "Companion AI chatbot", any software-based artificial intelligence system
+5 or program that exists for the primary purpose of simulating interpersonal or emotional
+6 interaction, friendship, companionship, or therapeutic communication with a user;
+7 (2) "Covered entity", any person that owns, operates, or otherwise makes
+8 available a companion AI chatbot to individuals in this state;
+9 (3) "Minor", any person under eighteen years of age;
+10 (4) "Pop-up", a visible notification on the screen of a user that can be resolved if
+11 interacted with by the user;
+12 (5) "Sexually explicit communication", any content, conversation, or material
+13 that describes, depicts, or encourages sexually explicit conduct;
+14 (6) "Sexually suggestive communication", any oral, written, or behavioral action
+15 with sexual undertones that implies sexual intent.
+16 3. A covered entity shall require each individual accessing a companion AI
+17 chatbot to make a user account in order to use or otherwise interact with such chatbot.
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+HB 2031 2
+18 4. (1) With respect to each user account of a companion AI chatbot that exists as
+19 of August 28, 2026, a covered entity shall:
+20 (a) On such date, freeze any such account;
+21 (b) In order to restore the functionality of such account, require that the user
+22 provide age information that is verifiable using a commercially available method or
+23 process that is reasonably designed to ensure accuracy; and
+24 (c) Using such age information, classify each user as a minor or an adult.
+25 (2) At the time an individual creates a new user account to use or interact with a
+26 companion AI chatbot, a covered entity shall:
+27 (a) Request age information from the individual; and
+28 (b) Verify the individual's age using a commercially available method or process
+29 that is reasonably designed to ensure accuracy.
+30 (3) If the age verification process described in subdivisions (1) and (2) of this
+31 subsection determines that a user is a minor, a covered entity shall:
+32 (a) Require the account of such user to be affiliated with a parental account,
+33 which such covered entity has verified using a commercially available method or process
+34 that is reasonably designed to ensure accuracy;
+35 (b) Obtain verifiable parental consent from the holder of the account before
+36 allowing a minor to access and use the companion AI chatbot; and
+37 (c) Block the minor's access to any companion AI chatbot that engages in a
+38 sexually explicit communication or sexually suggestive communication.
+39 (4) A covered entity shall protect the confidentiality of age information provided
+40 by a user for age verification by limiting the collection, processing, use, and storage of
+41 such information to what is strictly necessary to verify a user's age, obtain verifiable
+42 parental consent, or maintain compliance records.
+43 (5) At the beginning of any interaction between a user and a companion AI
+44 chatbot, and not less frequently than every sixty minutes during such interaction
+45 thereafter, a covered entity shall display to such user a clear pop-up that notifies the
+46 user that they are not engaging in dialogue with a human counterpart.
+47 5. (1) No later than one hundred eighty days after August 28, 2026, the attorney
+48 general shall issue guidance to assist covered entities in complying with the
+49 requirements of this section.
+50 (2) In any enforcement action brought under this section, the attorney general
+51 shall allege a specific violation of a provision of this section. The attorney general shall
+52 not base an enforcement action on, or execute a consent order based on, practices that
+53 are alleged to be inconsistent with any guidance issued by the attorney general with
+HB 2031 3
+54 respect to this section unless the practices are alleged to violate a provision of this
+55 section. A person may use such guidance as evidence of compliance with this section.
+56 6. In any case in which the attorney general has reason to believe that an interest
+57 of the residents of this state has been or is threatened or adversely affected by the
+58 engagement of any person in a practice that violates this section, the attorney general, as
+59 parens patriae, may bring a civil action on behalf of the residents of this state in a circuit
+60 court of this state with appropriate jurisdiction to:
+61 (1) Enjoin that practice;
+62 (2) Enforce compliance with the requirements of this section;
+63 (3) Obtain damages, restitution, or other compensation on behalf of residents of
+64 this state; or
+65 (4) Obtain such other relief as the court may consider to be appropriate.
+66 7. For purposes of bringing any civil action under subsection 6 of this section,
+67 nothing in this section shall be construed to prevent the attorney general from exercising
+68 the powers conferred on the attorney general to:
+69 (1) Conduct investigations;
+70 (2) Serve civil investigative demands;
+71 (3) Administer oaths or affirmations; or
+72 (4) Compel the attendance of witnesses or the production of documentary and
+73 other evidence.
+74 8. A covered entity is deemed not liable for a violation of this section if the
+75 covered entity demonstrates it has:
+76 (1) Relied in good faith on age information provided by a user of the companion
+77 AI chatbot for purposes of verifying the age of such user;
+78 (2) Complied with the guidance described in subsection 5 of this section; and
+79 (3) Reasonably conformed to widely accepted industry standards or best
+80 practices for age verification and applied those standards or best practices consistently
+81 and in good faith.
+✔
+[DELETED:  B N 2IJ a c 1 R b a t o n s r t a Ck T s s b k a m b c a t "H2 A( "oi( " e a p t o o o o ma( "0( "1i2(3t4( "5w63 A c e s r e i a a c A7c—M i e]
+[DELETED: 84 ( W9o0( O1( I2p a i t i v u a c a m o3p4( U5( A6c7( R8( V9t0( I1s2( R3w4t5( O v t6a7( B t m a t a c A c t e i a8s9( A0b1s2p3( A t b o a i b a u a a c A4c a n l f t e s m d s i5t6u75 ( N8g s i g t a c e i c w t9r0( I1s T2n3a ]
+[DELETED: 4r t t s u t p a a t v a p o t5s A66 I7o t r o t s h b o i t o a a b t8e9p0c1( E2( E3( O4t5( O67 F7n8t9(0( S1( A2( C3o48 A c e i d n l f a v o t s i t5c6( R7A8( C9( R c t w a i s o b0p1a ]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+HOUSE BILL NO. 2031
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE SCHMIDT.
+4190H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapter 1, RSMo, by adding thereto one new section relating to artificial
+intelligence chatbots.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Chapter 1, RSMo, is amended by adding thereto one new section, to be
+2 known as section 1.2047, to read as follows:
+1.2047. 1. This section shall be known and may be cited as the "Children
+2 Harmed by AI Technology Act" or the "CHAT Act".
+3 2. As used in this section, the following terms mean:
+4 (1) "Companion AI chatbot", any software-based artificial intelligence system
+5 or program that exists for the primary purpose of simulating interpersonal or emotional
+6 interaction, friendship, companionship, or therapeutic communication with a user;
+7 (2) "Covered entity", any person that owns, operates, or otherwise makes
+8 available a companion AI chatbot to individuals in this state;
+9 (3) "Minor", any person under eighteen years of age;
+10 (4) "Pop-up", a visible notification on the screen of a user that can be resolved if
+11 interacted with by the user;
+12 (5) "Sexually explicit communication", any content, conversation, or material
+13 that describes, depicts, or encourages sexually explicit conduct;
+14 (6) "Sexually suggestive communication", any oral, written, or behavioral action
+15 with sexual undertones that implies sexual intent.
+16 3. A covered entity shall require each individual accessing a companion AI
+17 chatbot to make a user account in order to use or otherwise interact with such chatbot.
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 2031 2
+18 4. (1) With respect to each user account of a companion AI chatbot that exists as
+19 of August 28, 2026, a covered entity shall:
+20 (a) On such date, freeze any such account;
+21 (b) In order to restore the functionality of such account, require that the user
+22 provide age information that is verifiable using a commercially available method or
+23 process that is reasonably designed to ensure accuracy; and
+24 (c) Using such age information, classify each user as a minor or an adult.
+25 (2) At the time an individual creates a new user account to use or interact with a
+26 companion AI chatbot, a covered entity shall:
+27 (a) Request age information from the individual; and
+28 (b) Verify the individual's age using a commercially available method or process
+29 that is reasonably designed to ensure accuracy.
+30 (3) If the age verification process described in subdivisions (1) and (2) of this
+31 subsection determines that a user is a minor, a covered entity shall:
+32 (a) Require the account of such user to be affiliated with a parental account,
+33 which such covered entity has verified using a commercially available method or process
+34 that is reasonably designed to ensure accuracy;
+35 (b) Obtain verifiable parental consent from the holder of the account before
+36 allowing a minor to access and use the companion AI chatbot; and
+37 (c) Block the minor's access to any companion AI chatbot that engages in a
+38 sexually explicit communication or sexually suggestive communication.
+39 (4) A covered entity shall protect the confidentiality of age information provided
+40 by a user for age verification by limiting the collection, processing, use, and storage of
+41 such information to what is strictly necessary to verify a user's age, obtain verifiable
+42 parental consent, or maintain compliance records.
+43 (5) At the beginning of any interaction between a user and a companion AI
+44 chatbot, and not less frequently than every sixty minutes during such interaction
+45 thereafter, a covered entity shall display to such user a clear pop-up that notifies the
+46 user that they are not engaging in dialogue with a human counterpart.
+47 5. (1) No later than one hundred eighty days after August 28, 2026, the attorney
+48 general shall issue guidance to assist covered entities in complying with the
+49 requirements of this section.
+50 (2) In any enforcement action brought under this section, the attorney general
+51 shall allege a specific violation of a provision of this section. The attorney general shall
+52 not base an enforcement action on, or execute a consent order based on, practices that
+53 are alleged to be inconsistent with any guidance issued by the attorney general with
+
+HB 2031 3
+54 respect to this section unless the practices are alleged to violate a provision of this
+55 section. A person may use such guidance as evidence of compliance with this section.
+56 6. In any case in which the attorney general has reason to believe that an interest
+57 of the residents of this state has been or is threatened or adversely affected by the
+58 engagement of any person in a practice that violates this section, the attorney general, as
+59 parens patriae, may bring a civil action on behalf of the residents of this state in a circuit
+60 court of this state with appropriate jurisdiction to:
+61 (1) Enjoin that practice;
+62 (2) Enforce compliance with the requirements of this section;
+63 (3) Obtain damages, restitution, or other compensation on behalf of residents of
+64 this state; or
+65 (4) Obtain such other relief as the court may consider to be appropriate.
+66 7. For purposes of bringing any civil action under subsection 6 of this section,
+67 nothing in this section shall be construed to prevent the attorney general from exercising
+68 the powers conferred on the attorney general to:
+69 (1) Conduct investigations;
+70 (2) Serve civil investigative demands;
+71 (3) Administer oaths or affirmations; or
+72 (4) Compel the attendance of witnesses or the production of documentary and
+73 other evidence.
+74 8. A covered entity is deemed not liable for a violation of this section if the
+75 covered entity demonstrates it has:
+76 (1) Relied in good faith on age information provided by a user of the companion
+77 AI chatbot for purposes of verifying the age of such user;
+78 (2) Complied with the guidance described in subsection 5 of this section; and
+79 (3) Reasonably conformed to widely accepted industry standards or best
+80 practices for age verification and applied those standards or best practices consistently
+81 and in good faith.
+✔
+
+[DELETED:  B N 2IJ a c 1 R b a t o n s r t a Ck T s s b k a m b c a t "H2 A( "oi( " e a p t o o o o ma( "0( "1i2(3t4( "5w63 A c e s r e i a a c A7c—M i e]
+[DELETED: 84 ( W9o0( O1( I2p a i t i v u a c a m o3p4( U5( A6c7( R8( V9t0( I1s2( R3w4t5( O v t6a7( B t m a t a c A c t e i a8s9( A0b1s2p3( A t b o a i b a u a a c A4c a n l f t e s m d s i5t6u75 ( N8g s i g t a c e i c w t9r0( I1s T2n3a ]
+[DELETED: 4r t t s u t p a a t v a p o t5s A66 I7o t r o t s h b o i t o a a b t8e9p0c1( E2( E3( O4t5( O67 F7n8t9(0( S1( A2( C3o48 A c e i d n l f a v o t s i t5c6( R7A8( C9( R c t w a i s o b0p1a ]

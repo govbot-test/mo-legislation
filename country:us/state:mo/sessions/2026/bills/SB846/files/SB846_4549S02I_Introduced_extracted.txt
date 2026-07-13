@@ -1,0 +1,794 @@
+Title: SENATE BILL NO. 846
+Official Title: SENATE BILL NO. 846
+Number of Sections: 1
+Source: versions - 4549S.02I - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR BROWN (16).
+4549S.02I KRISTINA MARTIN, Secretary
+AN ACT
+To amend chapter 376, RSMo, by adding thereto eight new sections relating to insurance coverage
+of health care services, with penalty provisions.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Chapter 376, RSMo, is amended by adding thereto
+2 eight new sections, to be known as sections 376.411, 376.415,
+3 376.416, 376.2100, 376.2102, 376.2104, 376.2106, and 376.2108,
+4 to read as follows:
+1 376.411. 1. For purposes of this section, the
+2 following terms mean:
+3 (1) "Clinician-administered drug", any legend drug, as
+4 defined in section 338.330, that is administered by a health
+5 care provider who is authorized to administer the drug;
+6 (2) "Health carrier", the same meaning given to the
+7 term in section 376.1350;
+8 (3) "Participating provider", the same meaning given
+9 to the term in section 376.1350;
+10 (4) "Pharmacy benefits manager", the same meaning
+11 given to the term in section 376.388.
+12 2. A health carrier, a pharmacy benefits manager, or
+13 an agent or affiliate of such health carrier or pharmacy
+14 benefits manager shall not:
+15 (1) Impose any penalty, impediment, differentiation,
+16 or limitation on a participating provider for providing
+SB 846 2
+17 medically necessary clinician-administered drugs regardless
+18 of whether the participating provider obtains such drugs
+19 from a provider that is in the network including, but not
+20 limited to, refusing to approve or pay or reimbursing less
+21 than the contracted payment amount;
+22 (2) Impose any penalty, impediment, differentiation,
+23 or limitation on a covered person who is administered
+24 medically necessary clinician-administered drugs regardless
+25 of whether the participating provider obtains such drugs
+26 from a provider that is in the network including, but not
+27 limited to, limiting coverage or benefits; requiring an
+28 additional fee, higher co-payment, or higher coinsurance
+29 amount; or interfering with a patient's ability to obtain a
+30 clinician-administered drug from the patient's provider or
+31 pharmacy of choice by any means including, but not limited
+32 to, inducing, steering, or offering financial or other
+33 incentives; or
+34 (3) Impose any penalty, impediment, differentiation,
+35 or limitation on any pharmacy, including any class B
+36 hospital pharmacy as defined in section 338.220, that is
+37 dispensing medically necessary clinician-administered drugs
+38 regardless of whether the participating provider obtains
+39 such drugs from a provider that is in the network including,
+40 but not limited to, requiring a pharmacy to dispense such
+41 drugs to a patient with the intention that the patient will
+42 transport the medication to a health care provider for
+43 administration.
+44 3. The provisions of this section shall not apply if
+45 the clinician-administered drug is not otherwise covered by
+46 the health carrier or pharmacy benefits manager.
+1 376.415. 1. For purposes of this section, the
+2 following terms mean:
+SB 846 3
+3 (1) "Biological product", the same meaning given to
+4 the term in 42 U.S.C. Section 262(i);
+5 (2) "Biosimilar", the same meaning given to the term
+6 in 42 U.S.C. Section 262(i);
+7 (3) "Health carrier", the same meaning given to the
+8 term in section 376.1350;
+9 (4) "Pharmacy benefits manager", the same meaning
+10 given to the term in section 376.388;
+11 (5) "Reference product", the same meaning given to the
+12 term in 42 U.S.C. Section 262(i).
+13 2. A health carrier, a pharmacy benefits manager, or
+14 an agent or affiliate of such health carrier or pharmacy
+15 benefits manager that provides coverage for a reference
+16 product or a biological product that is biosimilar to the
+17 reference product shall provide coverage for the reference
+18 product and all biological products that have been deemed
+19 biosimilar to the reference product. The scope, extent, and
+20 amount of such required coverage shall be the same
+21 including, but not limited to, any payment limitations or
+22 cost-sharing obligations.
+1 376.416. 1. For purposes of this section, the
+2 following terms mean:
+3 (1) "340B drug", the same meaning given to the term in
+4 section 376.414;
+5 (2) "Covered entity", the same meaning given to the
+6 term in section 376.414;
+7 (3) "Health carrier", the same meaning given to the
+8 term in section 376.1350;
+9 (4) "Pharmacy", an entity licensed under chapter 338;
+10 (5) "Pharmacy benefits manager", the same meaning
+11 given to the term in section 376.388;
+SB 846 4
+12 2. A health carrier, a pharmacy benefits manager, or
+13 an agent or affiliate of such health carrier or pharmacy
+14 benefits manager shall not discriminate against a covered
+15 entity or a pharmacy including, but not limited to, by doing
+16 any of the following:
+17 (1) Reimbursing a covered entity or pharmacy for a
+18 quantity of a 340B drug in an amount less than it would pay
+19 to any other similarly situated pharmacy that is not a
+20 covered entity or a pharmacy for such quantity of such drug
+21 on the basis that the entity or pharmacy is a covered entity
+22 or pharmacy or that the entity or pharmacy dispenses 340B
+23 drugs;
+24 (2) Imposing any terms or conditions on covered
+25 entities or pharmacies that differ from such terms or
+26 conditions applied to other similarly situated pharmacies or
+27 entities that are not covered entities on the basis that the
+28 entity or pharmacy is a covered entity or pharmacy or that
+29 the entity or pharmacy dispenses 340B drugs including, but
+30 not limited to, terms or conditions with respect to any of
+31 the following:
+32 (a) Fees, chargebacks, clawbacks, adjustments, or
+33 other assessments;
+34 (b) Professional dispensing fees;
+35 (c) Restrictions or requirements regarding
+36 participation in standard or preferred pharmacy networks;
+37 (d) Requirements relating to the frequency or scope of
+38 audits or to inventory management systems using generally
+39 accepted accounting principles; and
+40 (e) Any other restrictions, conditions, practices, or
+41 policies that, as specified by the director of the
+42 department of commerce and insurance, interfere with the
+SB 846 5
+43 ability of a covered entity to maximize the value of
+44 discounts provided under 42 U.S.C. Section 256b;
+45 (3) Interfering with an individual's choice to receive
+46 a 340B drug from a covered entity or pharmacy, whether in
+47 person or via direct delivery, mail, or other form of
+48 shipment, by any means including, but not limited to,
+49 modifying a patient's payment limitations or cost-sharing
+50 obligations on the basis of participation, in whole or in
+51 part, in the 340B drug pricing program;
+52 (4) Discriminating in reimbursement to a covered
+53 entity or pharmacy based on the determination or indication
+54 a drug is a 340B drug;
+55 (5) Requiring a covered entity or pharmacy to
+56 identify, either directly or through a third party, a 340B
+57 drug sooner than forty-five days after the point of sale of
+58 the 340B drug;
+59 (6) Refusing to contract with a covered entity or
+60 pharmacy for reasons other than those that apply equally to
+61 entities that are not covered entities or similarly situated
+62 pharmacies, or on the basis that:
+63 (a) The entity is a covered entity; or
+64 (b) The entity or pharmacy is described in any of
+65 subparagraphs (A) to (O) of 42 U.S.C. Section 235b(a)(4);
+66 (7) Denying the covered entity the ability to purchase
+67 drugs at 340B program pricing by substituting a rebate
+68 discount;
+69 (8) Refusing to cover drugs purchased under the 340B
+70 drug pricing program; or
+71 (9) Requiring a covered entity or pharmacy to reverse,
+72 resubmit, or clarify a 340B drug pricing claim after the
+73 initial adjudication unless these actions are in the normal
+SB 846 6
+74 course of pharmacy business and not related to 340B drug
+75 pricing, except as required by federal law.
+76 3. The director of the department of commerce and
+77 insurance shall impose a civil penalty on any health
+78 carrier, pharmacy benefits manager, or agent or affiliate of
+79 such health carrier or pharmacy benefits manager that
+80 violates the requirements of this section. Such penalty
+81 shall not exceed five thousand dollars per violation per day.
+82 4. The director of the department of commerce and
+83 insurance shall promulgate rules to implement the provisions
+84 of this section. Any rule or portion of a rule, as that
+85 term is defined in section 536.010, that is created under
+86 the authority delegated in this section shall become
+87 effective only if it complies with and is subject to all of
+88 the provisions of chapter 536 and, if applicable, section
+89 536.028. This section and chapter 536 are nonseverable and
+90 if any of the powers vested with the general assembly
+91 pursuant to chapter 536 to review, to delay the effective
+92 date, or to disapprove and annul a rule are subsequently
+93 held unconstitutional, then the grant of rulemaking
+94 authority and any rule proposed or adopted after August 28,
+95 2026, shall be invalid and void.
+1 376.2100. 1. Except as otherwise provided in
+2 subsection 1 of section 376.2108, as used in sections
+3 376.2100 to 376.2108, terms shall have the same meanings as
+4 are ascribed to them under section 376.1350.
+5 2. As used in sections 376.2100 to 376.2108, the
+6 following terms mean:
+7 (1) "Evaluation period", any consecutive twelve months;
+8 (2) "Value-based care agreement", a contractual
+9 agreement between a health care provider, either directly or
+SB 846 7
+10 indirectly through a health care provider group or
+11 organization, and a health carrier that:
+12 (a) Incentivizes or rewards providers based on one or
+13 more of the following:
+14 a. Quality of care;
+15 b. Safety;
+16 c. Patient outcomes;
+17 d. Efficiency;
+18 e. Cost reduction; or
+19 f. Other factors; and
+20 (b) May, but is not required to, include shared
+21 financial risk and rewards based on performance metrics.
+1 376.2102. 1. Except as otherwise provided in this
+2 section, beginning January 1, 2027, a health carrier or
+3 utilization review entity shall not require a health care
+4 provider to obtain prior authorization for a health care
+5 service unless the health carrier or utilization review
+6 entity makes a determination that in the most recent
+7 evaluation period the health carrier or utilization review
+8 entity has approved or would have approved less than ninety
+9 percent of the prior authorization requests submitted by
+10 that provider for that health care service.
+11 2. Beginning January 1, 2027, a health carrier or
+12 utilization review entity shall not require a health care
+13 provider to obtain prior authorization for any health care
+14 services unless the health carrier or utilization review
+15 entity makes a determination that in the most recent
+16 evaluation period the health carrier or utilization review
+17 entity has approved or would have approved less than ninety
+18 percent of all prior authorization requests submitted by
+19 that provider for health care services.
+SB 846 8
+20 3. (1) Beginning January 1, 2027, a health carrier or
+21 utilization review entity may elect to have a hospital, as
+22 that term is defined in section 197.020, determine which of
+23 the following conditions that such hospital will comply with
+24 to obtain an exemption from prior authorization requirements
+25 under subsections 1 and 2 of this section:
+26 (a) The hospital entering into, either directly or
+27 indirectly through a health care provider group or
+28 organization, a value-based care agreement with the health
+29 carrier;
+30 (b) The hospital's score of three or higher on the
+31 Center for Medicare and Medicaid Services Five-Star Quality
+32 Rating System, 42 CFR Section 412.190, or its successor
+33 rating system; or
+34 (c) At least ninety-one percent of the hospital's
+35 prior authorization requests submitted for purposes of
+36 eligibility for subsections 1 or 2 of this section were
+37 approved or would have been approved by the health carrier
+38 or utilization review entity.
+39 (2) Critical access hospitals and hospitals that do
+40 not participate in the Center for Medicare and Medicaid
+41 Services Five-Star Quality Rating System, or its successor
+42 rating system, shall be exempt from the provisions of this
+43 subsection.
+44 4. The exemption from prior authorization requirements
+45 described in subsections 1, 2, and 3 of this section shall
+46 not include:
+47 (1) Pharmacy services, not to exceed the amount of one
+48 hundred thousand dollars;
+49 (2) Imaging services, not to exceed the amount of one
+50 hundred thousand dollars;
+SB 846 9
+51 (3) Cosmetic procedures that are not medically
+52 necessary; or
+53 (4) Investigative or experimental treatments.
+54 5. The amount of the limitations described in
+55 subdivisions (1) and (2) of subsection 4 of this section
+56 shall be increased every year, rounded to the nearest
+57 thousand dollars, beginning January 1, 2028, based on the
+58 Consumer Price Index for All Urban Consumers for the United
+59 States (CPI-U), or its successor index, as such index is
+60 defined and officially reported by the United States
+61 Department of Labor, or its successor agency.
+62 6. In making a determination under this section, the
+63 health carrier or utilization review entity shall not count:
+64 (1) Any prior authorization requests denied by a
+65 health carrier or utilization review entity and being
+66 appealed by the health care provider; or
+67 (2) Any request made by a health care provider for a
+68 service that is not included in the health carrier's benefit
+69 plan but shall count as approved any prior authorization
+70 request that was denied by a health carrier or utilization
+71 review entity but that was subsequently authorized.
+72 7. In making a determination under this section, the
+73 health carrier or utilization review entity shall use either
+74 the provider's national provider identifier or a taxpayer
+75 identification number. Such designation shall remain unless
+76 requested to be changed by the provider.
+77 8. The exemption from prior authorization requirements
+78 described in subsections 1, 2, and 3 of this section may be
+79 subject to internal auditing of the most recent consecutive
+80 six months, up to a maximum of two times per year, by the
+81 health carrier or utilization review entity and may be
+82 rescinded if:
+SB 846 10
+83 (1) Such carrier or utilization review entity
+84 determines that the carrier or utilization review entity
+85 would have approved less than ninety percent of prior
+86 authorization requests for a health care service that the
+87 provider was exempt from the prior authorization requirement
+88 under subsection 1 of this section;
+89 (2) Such carrier or utilization review entity
+90 determines that the carrier or utilization review entity
+91 would have approved less than ninety percent of all prior
+92 authorization requests if the provider was exempt from the
+93 prior authorization requirement under subsection 2 of this
+94 section; or
+95 (3) There has been an increase in the provision of
+96 exempt procedures by a health care provider of more than
+97 fifty percent or more than twenty procedures, whichever
+98 amount is greater.
+99 9. The exemption described in subsections 1, 2, and 3
+100 of this section shall be null and void upon a determination
+101 that the health care provider has been found by a court of
+102 law to have civilly or criminally engaged in any fraud or
+103 abuse after the exemption is granted by a health carrier or
+104 utilization review entity.
+105 10. A health carrier or utilization review entity may
+106 require health care providers in the health carrier's or
+107 utilization review entity's network to use an online portal
+108 to submit requests for prior authorization.
+109 11. No adverse determination shall be finalized under
+110 subsections 1, 2, 3, or 8 unless reviewed by a clinical peer.
+111 12. Any patient who has received prior authorization
+112 for the coverage of a ninety-day supply of medication whose
+113 health coverage plan changes following such authorization
+114 shall be permitted a ninety-day grace period from the date
+SB 846 11
+115 of such change in order to determine whether such patient's
+116 new plan covers the previously authorized medication or
+117 whether prior authorization is required.
+1 376.2104. 1. The health carrier or utilization review
+2 entity shall notify the health care provider no later than
+3 twenty-five days after any determination made under section
+4 376.2102. The notification shall include the statistics,
+5 data, and any supporting documentation for making the
+6 determination for the relevant evaluation period.
+7 2. The health carrier or utilization review entity
+8 shall establish a process for health care providers to
+9 appeal any determinations made under section 376.2102.
+10 3. The health carrier or utilization review entity
+11 shall maintain an online portal to allow health care
+12 providers to access all prior authorization decisions,
+13 including determinations made under section 376.2102. For
+14 health care providers subject to prior authorizations, the
+15 portal shall include the status of each prior authorization
+16 request, all notifications to the health care provider, the
+17 dates the health care provider received such notifications,
+18 and any other information relevant to the determination.
+1 376.2106. No health carrier or utilization review
+2 entity shall deny or reduce payment to a health care
+3 provider for a health care service for which the provider
+4 has a prior authorization unless the provider:
+5 (1) Knowingly and materially misrepresented the health
+6 care service in a request for payment submitted to the
+7 health carrier or utilization review entity with the
+8 specific intent to deceive and obtain an unlawful payment
+9 from the carrier or entity; or
+10 (2) Failed to substantially perform the health care
+11 service.
+SB 846 12
+1 376.2108. 1. The provisions of sections 376.2100 to
+2 376.2108 shall not apply to MO HealthNet, except that a
+3 Medicaid managed care organization as defined in section
+4 208.431 shall be considered a health carrier for purposes of
+5 sections 376.2100 to 376.2108.
+6 2. The provisions of sections 376.2100 to 376.2108
+7 shall not apply to health care providers who have not
+8 participated in a health benefit plan offered by the health
+9 carrier for at least one full evaluation period.
+10 3. Nothing in sections 376.2100 to 376.2108 shall be
+11 construed to:
+12 (1) Authorize a health care provider to provide a
+13 health care service outside the scope of his or her
+14 applicable license; or
+15 (2) Require a health carrier or utilization review
+16 entity to pay for a health care service described in
+17 subdivision (1) of this subsection.
+✓
+[DELETED:  K.1.F   )"  )" )" )" .A  )I  ]
+[DELETED: S    )I           )I         .T  .1.F   ]
+[DELETED: S)" )" )" )" )" .A      .T   .1.F   )" )" )"  )")" ]
+[DELETED: S.A    )R      )I       )F  )P)R )R  )A   ]
+[DELETED: S )I      )D  )R   )R    )T)T )D  )R )R   ]
+[DELETED: S .T    .S .T  .A     .T      .1.E     .A  )")"  ]
+[DELETED: S )I  .Q .S .P .E .C .O)M .1.E           .B        ]
+[DELETED: S.()B       )T   )T   )A    )C    .T  )P )I ]
+[DELETED: S)C  )I.T       .I )A  )A    .I   .S .T     ]
+[DELETED: S)S     )S     )T   .T     .A   .N .A    ]
+[DELETED: S  .1.T     .T  .T  .T   .F     .N   )K    )F ]
+[DELETED: S.1.T      .T   .N )A  )R  ]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+SENATE BILL NO. 846
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR BROWN (16).
+4549S.02I KRISTINA MARTIN, Secretary
+AN ACT
+To amend chapter 376, RSMo, by adding thereto eight new sections relating to insurance coverage
+of health care services, with penalty provisions.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Chapter 376, RSMo, is amended by adding thereto
+2 eight new sections, to be known as sections 376.411, 376.415,
+3 376.416, 376.2100, 376.2102, 376.2104, 376.2106, and 376.2108,
+4 to read as follows:
+1 376.411. 1. For purposes of this section, the
+2 following terms mean:
+3 (1) "Clinician-administered drug", any legend drug, as
+4 defined in section 338.330, that is administered by a health
+5 care provider who is authorized to administer the drug;
+6 (2) "Health carrier", the same meaning given to the
+7 term in section 376.1350;
+8 (3) "Participating provider", the same meaning given
+9 to the term in section 376.1350;
+10 (4) "Pharmacy benefits manager", the same meaning
+11 given to the term in section 376.388.
+12 2. A health carrier, a pharmacy benefits manager, or
+13 an agent or affiliate of such health carrier or pharmacy
+14 benefits manager shall not:
+15 (1) Impose any penalty, impediment, differentiation,
+16 or limitation on a participating provider for providing
+
+SB 846 2
+17 medically necessary clinician-administered drugs regardless
+18 of whether the participating provider obtains such drugs
+19 from a provider that is in the network including, but not
+20 limited to, refusing to approve or pay or reimbursing less
+21 than the contracted payment amount;
+22 (2) Impose any penalty, impediment, differentiation,
+23 or limitation on a covered person who is administered
+24 medically necessary clinician-administered drugs regardless
+25 of whether the participating provider obtains such drugs
+26 from a provider that is in the network including, but not
+27 limited to, limiting coverage or benefits; requiring an
+28 additional fee, higher co-payment, or higher coinsurance
+29 amount; or interfering with a patient's ability to obtain a
+30 clinician-administered drug from the patient's provider or
+31 pharmacy of choice by any means including, but not limited
+32 to, inducing, steering, or offering financial or other
+33 incentives; or
+34 (3) Impose any penalty, impediment, differentiation,
+35 or limitation on any pharmacy, including any class B
+36 hospital pharmacy as defined in section 338.220, that is
+37 dispensing medically necessary clinician-administered drugs
+38 regardless of whether the participating provider obtains
+39 such drugs from a provider that is in the network including,
+40 but not limited to, requiring a pharmacy to dispense such
+41 drugs to a patient with the intention that the patient will
+42 transport the medication to a health care provider for
+43 administration.
+44 3. The provisions of this section shall not apply if
+45 the clinician-administered drug is not otherwise covered by
+46 the health carrier or pharmacy benefits manager.
+1 376.415. 1. For purposes of this section, the
+2 following terms mean:
+
+SB 846 3
+3 (1) "Biological product", the same meaning given to
+4 the term in 42 U.S.C. Section 262(i);
+5 (2) "Biosimilar", the same meaning given to the term
+6 in 42 U.S.C. Section 262(i);
+7 (3) "Health carrier", the same meaning given to the
+8 term in section 376.1350;
+9 (4) "Pharmacy benefits manager", the same meaning
+10 given to the term in section 376.388;
+11 (5) "Reference product", the same meaning given to the
+12 term in 42 U.S.C. Section 262(i).
+13 2. A health carrier, a pharmacy benefits manager, or
+14 an agent or affiliate of such health carrier or pharmacy
+15 benefits manager that provides coverage for a reference
+16 product or a biological product that is biosimilar to the
+17 reference product shall provide coverage for the reference
+18 product and all biological products that have been deemed
+19 biosimilar to the reference product. The scope, extent, and
+20 amount of such required coverage shall be the same
+21 including, but not limited to, any payment limitations or
+22 cost-sharing obligations.
+1 376.416. 1. For purposes of this section, the
+2 following terms mean:
+3 (1) "340B drug", the same meaning given to the term in
+4 section 376.414;
+5 (2) "Covered entity", the same meaning given to the
+6 term in section 376.414;
+7 (3) "Health carrier", the same meaning given to the
+8 term in section 376.1350;
+9 (4) "Pharmacy", an entity licensed under chapter 338;
+10 (5) "Pharmacy benefits manager", the same meaning
+11 given to the term in section 376.388;
+
+SB 846 4
+12 2. A health carrier, a pharmacy benefits manager, or
+13 an agent or affiliate of such health carrier or pharmacy
+14 benefits manager shall not discriminate against a covered
+15 entity or a pharmacy including, but not limited to, by doing
+16 any of the following:
+17 (1) Reimbursing a covered entity or pharmacy for a
+18 quantity of a 340B drug in an amount less than it would pay
+19 to any other similarly situated pharmacy that is not a
+20 covered entity or a pharmacy for such quantity of such drug
+21 on the basis that the entity or pharmacy is a covered entity
+22 or pharmacy or that the entity or pharmacy dispenses 340B
+23 drugs;
+24 (2) Imposing any terms or conditions on covered
+25 entities or pharmacies that differ from such terms or
+26 conditions applied to other similarly situated pharmacies or
+27 entities that are not covered entities on the basis that the
+28 entity or pharmacy is a covered entity or pharmacy or that
+29 the entity or pharmacy dispenses 340B drugs including, but
+30 not limited to, terms or conditions with respect to any of
+31 the following:
+32 (a) Fees, chargebacks, clawbacks, adjustments, or
+33 other assessments;
+34 (b) Professional dispensing fees;
+35 (c) Restrictions or requirements regarding
+36 participation in standard or preferred pharmacy networks;
+37 (d) Requirements relating to the frequency or scope of
+38 audits or to inventory management systems using generally
+39 accepted accounting principles; and
+40 (e) Any other restrictions, conditions, practices, or
+41 policies that, as specified by the director of the
+42 department of commerce and insurance, interfere with the
+
+SB 846 5
+43 ability of a covered entity to maximize the value of
+44 discounts provided under 42 U.S.C. Section 256b;
+45 (3) Interfering with an individual's choice to receive
+46 a 340B drug from a covered entity or pharmacy, whether in
+47 person or via direct delivery, mail, or other form of
+48 shipment, by any means including, but not limited to,
+49 modifying a patient's payment limitations or cost-sharing
+50 obligations on the basis of participation, in whole or in
+51 part, in the 340B drug pricing program;
+52 (4) Discriminating in reimbursement to a covered
+53 entity or pharmacy based on the determination or indication
+54 a drug is a 340B drug;
+55 (5) Requiring a covered entity or pharmacy to
+56 identify, either directly or through a third party, a 340B
+57 drug sooner than forty-five days after the point of sale of
+58 the 340B drug;
+59 (6) Refusing to contract with a covered entity or
+60 pharmacy for reasons other than those that apply equally to
+61 entities that are not covered entities or similarly situated
+62 pharmacies, or on the basis that:
+63 (a) The entity is a covered entity; or
+64 (b) The entity or pharmacy is described in any of
+65 subparagraphs (A) to (O) of 42 U.S.C. Section 235b(a)(4);
+66 (7) Denying the covered entity the ability to purchase
+67 drugs at 340B program pricing by substituting a rebate
+68 discount;
+69 (8) Refusing to cover drugs purchased under the 340B
+70 drug pricing program; or
+71 (9) Requiring a covered entity or pharmacy to reverse,
+72 resubmit, or clarify a 340B drug pricing claim after the
+73 initial adjudication unless these actions are in the normal
+
+SB 846 6
+74 course of pharmacy business and not related to 340B drug
+75 pricing, except as required by federal law.
+76 3. The director of the department of commerce and
+77 insurance shall impose a civil penalty on any health
+78 carrier, pharmacy benefits manager, or agent or affiliate of
+79 such health carrier or pharmacy benefits manager that
+80 violates the requirements of this section. Such penalty
+81 shall not exceed five thousand dollars per violation per day.
+82 4. The director of the department of commerce and
+83 insurance shall promulgate rules to implement the provisions
+84 of this section. Any rule or portion of a rule, as that
+85 term is defined in section 536.010, that is created under
+86 the authority delegated in this section shall become
+87 effective only if it complies with and is subject to all of
+88 the provisions of chapter 536 and, if applicable, section
+89 536.028. This section and chapter 536 are nonseverable and
+90 if any of the powers vested with the general assembly
+91 pursuant to chapter 536 to review, to delay the effective
+92 date, or to disapprove and annul a rule are subsequently
+93 held unconstitutional, then the grant of rulemaking
+94 authority and any rule proposed or adopted after August 28,
+95 2026, shall be invalid and void.
+1 376.2100. 1. Except as otherwise provided in
+2 subsection 1 of section 376.2108, as used in sections
+3 376.2100 to 376.2108, terms shall have the same meanings as
+4 are ascribed to them under section 376.1350.
+5 2. As used in sections 376.2100 to 376.2108, the
+6 following terms mean:
+7 (1) "Evaluation period", any consecutive twelve months;
+8 (2) "Value-based care agreement", a contractual
+9 agreement between a health care provider, either directly or
+
+SB 846 7
+10 indirectly through a health care provider group or
+11 organization, and a health carrier that:
+12 (a) Incentivizes or rewards providers based on one or
+13 more of the following:
+14 a. Quality of care;
+15 b. Safety;
+16 c. Patient outcomes;
+17 d. Efficiency;
+18 e. Cost reduction; or
+19 f. Other factors; and
+20 (b) May, but is not required to, include shared
+21 financial risk and rewards based on performance metrics.
+1 376.2102. 1. Except as otherwise provided in this
+2 section, beginning January 1, 2027, a health carrier or
+3 utilization review entity shall not require a health care
+4 provider to obtain prior authorization for a health care
+5 service unless the health carrier or utilization review
+6 entity makes a determination that in the most recent
+7 evaluation period the health carrier or utilization review
+8 entity has approved or would have approved less than ninety
+9 percent of the prior authorization requests submitted by
+10 that provider for that health care service.
+11 2. Beginning January 1, 2027, a health carrier or
+12 utilization review entity shall not require a health care
+13 provider to obtain prior authorization for any health care
+14 services unless the health carrier or utilization review
+15 entity makes a determination that in the most recent
+16 evaluation period the health carrier or utilization review
+17 entity has approved or would have approved less than ninety
+18 percent of all prior authorization requests submitted by
+19 that provider for health care services.
+
+SB 846 8
+20 3. (1) Beginning January 1, 2027, a health carrier or
+21 utilization review entity may elect to have a hospital, as
+22 that term is defined in section 197.020, determine which of
+23 the following conditions that such hospital will comply with
+24 to obtain an exemption from prior authorization requirements
+25 under subsections 1 and 2 of this section:
+26 (a) The hospital entering into, either directly or
+27 indirectly through a health care provider group or
+28 organization, a value-based care agreement with the health
+29 carrier;
+30 (b) The hospital's score of three or higher on the
+31 Center for Medicare and Medicaid Services Five-Star Quality
+32 Rating System, 42 CFR Section 412.190, or its successor
+33 rating system; or
+34 (c) At least ninety-one percent of the hospital's
+35 prior authorization requests submitted for purposes of
+36 eligibility for subsections 1 or 2 of this section were
+37 approved or would have been approved by the health carrier
+38 or utilization review entity.
+39 (2) Critical access hospitals and hospitals that do
+40 not participate in the Center for Medicare and Medicaid
+41 Services Five-Star Quality Rating System, or its successor
+42 rating system, shall be exempt from the provisions of this
+43 subsection.
+44 4. The exemption from prior authorization requirements
+45 described in subsections 1, 2, and 3 of this section shall
+46 not include:
+47 (1) Pharmacy services, not to exceed the amount of one
+48 hundred thousand dollars;
+49 (2) Imaging services, not to exceed the amount of one
+50 hundred thousand dollars;
+
+SB 846 9
+51 (3) Cosmetic procedures that are not medically
+52 necessary; or
+53 (4) Investigative or experimental treatments.
+54 5. The amount of the limitations described in
+55 subdivisions (1) and (2) of subsection 4 of this section
+56 shall be increased every year, rounded to the nearest
+57 thousand dollars, beginning January 1, 2028, based on the
+58 Consumer Price Index for All Urban Consumers for the United
+59 States (CPI-U), or its successor index, as such index is
+60 defined and officially reported by the United States
+61 Department of Labor, or its successor agency.
+62 6. In making a determination under this section, the
+63 health carrier or utilization review entity shall not count:
+64 (1) Any prior authorization requests denied by a
+65 health carrier or utilization review entity and being
+66 appealed by the health care provider; or
+67 (2) Any request made by a health care provider for a
+68 service that is not included in the health carrier's benefit
+69 plan but shall count as approved any prior authorization
+70 request that was denied by a health carrier or utilization
+71 review entity but that was subsequently authorized.
+72 7. In making a determination under this section, the
+73 health carrier or utilization review entity shall use either
+74 the provider's national provider identifier or a taxpayer
+75 identification number. Such designation shall remain unless
+76 requested to be changed by the provider.
+77 8. The exemption from prior authorization requirements
+78 described in subsections 1, 2, and 3 of this section may be
+79 subject to internal auditing of the most recent consecutive
+80 six months, up to a maximum of two times per year, by the
+81 health carrier or utilization review entity and may be
+82 rescinded if:
+
+SB 846 10
+83 (1) Such carrier or utilization review entity
+84 determines that the carrier or utilization review entity
+85 would have approved less than ninety percent of prior
+86 authorization requests for a health care service that the
+87 provider was exempt from the prior authorization requirement
+88 under subsection 1 of this section;
+89 (2) Such carrier or utilization review entity
+90 determines that the carrier or utilization review entity
+91 would have approved less than ninety percent of all prior
+92 authorization requests if the provider was exempt from the
+93 prior authorization requirement under subsection 2 of this
+94 section; or
+95 (3) There has been an increase in the provision of
+96 exempt procedures by a health care provider of more than
+97 fifty percent or more than twenty procedures, whichever
+98 amount is greater.
+99 9. The exemption described in subsections 1, 2, and 3
+100 of this section shall be null and void upon a determination
+101 that the health care provider has been found by a court of
+102 law to have civilly or criminally engaged in any fraud or
+103 abuse after the exemption is granted by a health carrier or
+104 utilization review entity.
+105 10. A health carrier or utilization review entity may
+106 require health care providers in the health carrier's or
+107 utilization review entity's network to use an online portal
+108 to submit requests for prior authorization.
+109 11. No adverse determination shall be finalized under
+110 subsections 1, 2, 3, or 8 unless reviewed by a clinical peer.
+111 12. Any patient who has received prior authorization
+112 for the coverage of a ninety-day supply of medication whose
+113 health coverage plan changes following such authorization
+114 shall be permitted a ninety-day grace period from the date
+
+SB 846 11
+115 of such change in order to determine whether such patient's
+116 new plan covers the previously authorized medication or
+117 whether prior authorization is required.
+1 376.2104. 1. The health carrier or utilization review
+2 entity shall notify the health care provider no later than
+3 twenty-five days after any determination made under section
+4 376.2102. The notification shall include the statistics,
+5 data, and any supporting documentation for making the
+6 determination for the relevant evaluation period.
+7 2. The health carrier or utilization review entity
+8 shall establish a process for health care providers to
+9 appeal any determinations made under section 376.2102.
+10 3. The health carrier or utilization review entity
+11 shall maintain an online portal to allow health care
+12 providers to access all prior authorization decisions,
+13 including determinations made under section 376.2102. For
+14 health care providers subject to prior authorizations, the
+15 portal shall include the status of each prior authorization
+16 request, all notifications to the health care provider, the
+17 dates the health care provider received such notifications,
+18 and any other information relevant to the determination.
+1 376.2106. No health carrier or utilization review
+2 entity shall deny or reduce payment to a health care
+3 provider for a health care service for which the provider
+4 has a prior authorization unless the provider:
+5 (1) Knowingly and materially misrepresented the health
+6 care service in a request for payment submitted to the
+7 health carrier or utilization review entity with the
+8 specific intent to deceive and obtain an unlawful payment
+9 from the carrier or entity; or
+10 (2) Failed to substantially perform the health care
+11 service.
+
+SB 846 12
+1 376.2108. 1. The provisions of sections 376.2100 to
+2 376.2108 shall not apply to MO HealthNet, except that a
+3 Medicaid managed care organization as defined in section
+4 208.431 shall be considered a health carrier for purposes of
+5 sections 376.2100 to 376.2108.
+6 2. The provisions of sections 376.2100 to 376.2108
+7 shall not apply to health care providers who have not
+8 participated in a health benefit plan offered by the health
+9 carrier for at least one full evaluation period.
+10 3. Nothing in sections 376.2100 to 376.2108 shall be
+11 construed to:
+12 (1) Authorize a health care provider to provide a
+13 health care service outside the scope of his or her
+14 applicable license; or
+15 (2) Require a health carrier or utilization review
+16 entity to pay for a health care service described in
+17 subdivision (1) of this subsection.
+✓
+
+[DELETED:  K.1.F   )"  )" )" )" .A  )I  ]
+[DELETED: S    )I           )I         .T  .1.F   ]
+[DELETED: S)" )" )" )" )" .A      .T   .1.F   )" )" )"  )")" ]
+[DELETED: S.A    )R      )I       )F  )P)R )R  )A   ]
+[DELETED: S )I      )D  )R   )R    )T)T )D  )R )R   ]
+[DELETED: S .T    .S .T  .A     .T      .1.E     .A  )")"  ]
+[DELETED: S )I  .Q .S .P .E .C .O)M .1.E           .B        ]
+[DELETED: S.()B       )T   )T   )A    )C    .T  )P )I ]
+[DELETED: S)C  )I.T       .I )A  )A    .I   .S .T     ]
+[DELETED: S)S     )S     )T   .T     .A   .N .A    ]
+[DELETED: S  .1.T     .T  .T  .T   .F     .N   )K    )F ]
+[DELETED: S.1.T      .T   .N )A  )R  ]

@@ -1,0 +1,369 @@
+Title: HOUSE BILL NO. 3139
+Official Title: HOUSE BILL NO. 3139
+Number of Sections: 3
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE SMITH (68).
+6915H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To repeal section 170.018, RSMo, and to enact in lieu thereof one new section relating to
+computer science courses in schools.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+
+Section 2:
+Section A. Section 170.018, RSMo, is repealed and one new section enacted in lieu
+2 thereof, to be known as section 170.018, to read as follows:
+
+Section 3:
+170.018. 1. (1) For purposes of this section, "computer science course" means a
+2 course in which students study computers [and], algorithmic processes, cybersecurity, social
+3 media training, and artificial intelligence including their principles, hardware and software
+4 designs, implementation, and impact on society. The term shall include, but not be limited to,
+5 a stand-alone course at any elementary, middle, or high school or a course at any elementary
+6 or middle school that embeds computer science content within other subjects.
+7 (2) The department of elementary and secondary education shall, before July 1, 2019,
+8 develop a high school graduation policy that allows a student to fulfill one unit of academic
+9 credit with a district-approved computer science course meeting the standards of subsection 2
+10 of this section for any mathematics, science, or practical arts unit required for high school
+11 graduation. The policy shall require that all students have either taken all courses that require
+12 end-of-course examinations for math and science or are on track to take all courses that
+13 require end-of-course examinations for math and science under the Missouri school
+14 improvement program in order to receive credit toward high school graduation under this
+15 subsection.
+16 (3) A school district shall communicate to students electing to use a computer science
+17 course for a mathematics unit that some institutions of higher education may require four
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+HB 3139 2
+18 units of academic credit in mathematics for college admission. The parent, guardian, or legal
+19 custodian of each student who chooses to take a computer science course to fulfill a unit of
+20 academic credit in mathematics shall sign and submit to the school district a document
+21 containing a statement acknowledging that taking a computer science course to fulfill a unit
+22 of academic credit in mathematics may have an adverse effect on college admission
+23 decisions.
+24 (4) The department of elementary and secondary education and the department of
+25 higher education and workforce development shall cooperate in developing and implementing
+26 academic requirements for computer science courses offered in any grade or grades not lower
+27 than the ninth nor higher than the twelfth grade.
+28 2. (1) The department of elementary and secondary education shall convene a work
+29 group to develop and recommend rigorous academic performance standards relating to
+30 computer science for students in kindergarten and in each grade not higher than the twelfth
+31 grade. The work group shall include, but not be limited to, educators providing instruction in
+32 kindergarten or in any grade not higher than the twelfth grade and representatives from the
+33 department of elementary and secondary education, the department of higher education and
+34 workforce development, business and industry, and institutions of higher education. The
+35 department of elementary and secondary education shall develop written curriculum
+36 frameworks relating to computer science that may be used by school districts. The
+37 requirements of section 160.514 shall not apply to this section.
+38 (2) The state board of education shall adopt and implement academic performance
+39 standards relating to computer science beginning in the 2019-20 school year.
+40 3. Before July 1, 2019, the department of elementary and secondary education shall
+41 develop a procedure by which any teacher who holds a certificate of license to teach under
+42 section 168.021 and demonstrates sufficient content knowledge of computer science shall
+43 receive a special endorsement on the teacher's license signifying the teacher's specialized
+44 knowledge in computer science.
+45 4. (1) For purposes of this subsection, "eligible entity" means:
+46 (a) A local educational agency, or a consortium of local educational agencies, in the
+47 state, including charter schools that have declared themselves local educational agencies;
+48 (b) An institution of higher education in the state; or
+49 (c) A nonprofit or private provider of nationally recognized and high-quality
+50 computer science professional development, as determined by the department of elementary
+51 and secondary education.
+52 (2) There is hereby created in the state treasury the "Computer Science Education
+53 Fund". The fund shall consist of all moneys that may be appropriated to it by the general
+54 assembly and any gifts, contributions, grants, or bequests received from private or other
+HB 3139 3
+55 sources for the purpose of providing teacher professional development programs relating to
+56 computer science. The state treasurer shall be custodian of the fund. In accordance with
+57 sections 30.170 and 30.180, the state treasurer may approve disbursements. The fund shall be
+58 a dedicated fund and, upon appropriation, moneys in the fund shall be used solely for the
+59 administration of grants to eligible entities as described in this section. Notwithstanding the
+60 provisions of section 33.080 to the contrary, any moneys remaining in the fund at the end of
+61 the biennium shall not revert to the credit of the general revenue fund. The state treasurer
+62 shall invest moneys in the fund in the same manner as other funds are invested. Any interest
+63 and moneys earned on such investments shall be credited to the fund.
+64 (3) The state board of education shall award grants from the computer science
+65 education fund to eligible entities for the purpose of providing teacher professional
+66 development programs relating to computer science. An eligible entity wishing to receive
+67 such a grant shall submit an application to the department of elementary and secondary
+68 education addressing how the entity plans to:
+69 (a) Reach new and existing teachers with little computer science background;
+70 (b) Use effective practices for professional development;
+71 (c) Focus the training on the conceptual foundations of computer science;
+72 (d) Reach and support historically underrepresented students in computer science;
+73 (e) Provide teachers with concrete experience with hands-on, inquiry-based practices;
+74 and
+75 (f) Accommodate the particular needs of students and teachers in each district and
+76 school.
+77 5. (1) For all school years beginning on or after July 1, 2023, each public high school
+78 and charter high school shall offer at least one computer science course in an in-person setting
+79 or as a virtual or distance course option.
+80 (2) Any computer science course or instruction offered under this subsection shall:
+81 (a) Be of high quality as defined by the state board of education;
+82 (b) Meet or exceed the computer science performance standards developed and
+83 adopted by the department of elementary and secondary education under this section; and
+84 (c) For any computer science course offered by a public high school or charter high
+85 school, be offered in such school's course catalog.
+86 (3) On or before June thirtieth of each school year, each school district shall submit to
+87 the department of elementary and secondary education a report for the current school year
+88 which shall include, but not be limited to:
+89 (a) The names and course codes of computer science courses offered in each school in
+90 the district with a course description and which computer science performance standards are
+91 covered, to the extent such information is available;
+HB 3139 4
+92 (b) The number and percentage of students who enrolled in each computer science
+93 course, listed by the categories in subparagraphs a. to f. of this paragraph. If a category
+94 contains one to five students or contains a quantity of students that would allow the quantity
+95 of another category that contains five or fewer to be deduced, the number shall be replaced
+96 with a symbol:
+97 a. Sex;
+98 b. Race and ethnicity;
+99 c. Special education status including, but not limited to, students receiving services
+100 under the federal Individuals with Disabilities Education Act (IDEA) (20 U.S.C. Section 1400
+101 et seq., as amended) or Section 504 of the federal Rehabilitation Act of 1973 (29 U.S.C.
+102 Section 794), as amended;
+103 d. English language learner status;
+104 e. Eligibility for free or reduced price meals; and
+105 f. Grade level; and
+106 (c) The number of computer science instructors at each school, listed by the following
+107 categories:
+108 a. Applicable certifications;
+109 b. Sex;
+110 c. Race and ethnicity; and
+111 d. Highest academic degree.
+112 (4) On or before September thirtieth of each school year, the department of
+113 elementary and secondary education shall post the following on the department's website:
+114 (a) Data received under paragraphs (a) and (b) of subdivision (3) of this subsection,
+115 disaggregated by school and aggregated statewide; and
+116 (b) Data received under paragraph (c) of subdivision (3) of this subsection,
+117 aggregated statewide.
+118 (5) On or before June thirtieth of each school year, the department of elementary and
+119 secondary education shall publish a list of computer science course codes and names with a
+120 course description and an indication of which courses meet or exceed the department of
+121 elementary and secondary education's computer science performance standards.
+122 6. The department of elementary and secondary education shall appoint a computer
+123 science supervisor. The computer science supervisor shall be responsible for implementing
+124 the provisions of this section.
+125 7. For all school years beginning on or after July 1, 2023, a computer science course
+126 successfully completed and counted toward state graduation requirements shall be equivalent
+127 to one science course or one practical arts credit for the purpose of satisfying any admission
+128 requirements of any public institution of higher education in this state.
+HB 3139 5
+129 8. (1) The workgroup established under subsection 2 of this section shall develop
+130 additional academic performance standards for computer science courses that
+131 incorporate academic requirements related to cybersecurity, social media training,
+132 and artificial intelligence.
+133 (2) The state board of education shall adopt and implement such academic
+134 performance standards beginning in the 2027-28 school year.
+135 (3) For the 2027-28 school year and all subsequent school years:
+136 (a) Each pupil who receives a high school diploma or certificate of graduation
+137 shall have satisfactorily completed one-half unit of academic credit with a computer
+138 science course before the end of grade twelve; and
+139 (b) Before a pupil may substitute a course that fulfills any mathematics, science,
+140 or practical arts unit required for high school graduation, the pupil shall satisfactorily
+141 complete one-half unit of academic credit with a computer science course.
+142 [8.] 9. The department of elementary and secondary education shall promulgate rules
+143 to implement the provisions of this section. Any rule or portion of a rule, as that term is
+144 defined in section 536.010, that is created under the authority delegated in this section shall
+145 become effective only if it complies with and is subject to all of the provisions of chapter 536
+146 and, if applicable, section 536.028. This section and chapter 536 are nonseverable and if any
+147 of the powers vested with the general assembly pursuant to chapter 536 to review, to delay the
+148 effective date, or to disapprove and annul a rule are subsequently held unconstitutional, then
+149 the grant of rulemaking authority and any rule proposed or adopted after December 18, 2018,
+150 shall be invalid and void.
+✔
+[DELETED:  B N 3IJ St ( Fc,ameid Tao( Tdc0o1g T2e e f m a s o a o t t t a c t3r e e f m a s u t M s4i5s6( A7c—M i e]
+[DELETED: 8u T9c0a c i m s s a s t t s d a d1c2o a c i m m h a a e o c a3d4( T5h6a7t82 ( T9g t d a r r a p s r t0c1g T2k3d4w d b a i a i o h e T5d o e a s e s d w c6f r t c s t m b u b s d T7r8( T9s03 B1d2s d c o3r a s e o t t l s t t s4k54 ( F6( A7s8( A9( A n o p p o n r a h0c1a2(3F T4a a a g c g o b r f p o o ]
+[DELETED: 5s6c T I7s T8a9a N0p1t T2s A3a4( T s b o e s a g f t c s5e f t e e f t p o p t p6d A7s a g s s a a t t d o e a s8e9( R0(1( F2( R3( P4a5( A6s75 ( F8a9o0( A1( B2( M o e t c s p s d a3a4( F5s6( O7t8w9(0t1c ]
+[DELETED: 2( T3c I4c5o6w7a S8b R9c S0u1e2S3d E4e E5f G6( T7c8a A9b S0c R1d H2( O o b S t o e s y t d o3e4( D5d6( D r u p ( o s ( o t s7a8( O9s0c d a a i o w c m o e t d o1e26 T3s T4t57 F6s7t8r ]
+[DELETED: 98.()T0a a p s f c s c t1i a r r t c s m t2a3()T s b o e s a a i s a4p5()F6()E7s o a8s9()B0o1c2[.T3t A4d5b6a T7o8e9t0s ]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+HOUSE BILL NO. 3139
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE SMITH (68).
+6915H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To repeal section 170.018, RSMo, and to enact in lieu thereof one new section relating to
+computer science courses in schools.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Section 170.018, RSMo, is repealed and one new section enacted in lieu
+2 thereof, to be known as section 170.018, to read as follows:
+170.018. 1. (1) For purposes of this section, "computer science course" means a
+2 course in which students study computers [and], algorithmic processes, cybersecurity, social
+3 media training, and artificial intelligence including their principles, hardware and software
+4 designs, implementation, and impact on society. The term shall include, but not be limited to,
+5 a stand-alone course at any elementary, middle, or high school or a course at any elementary
+6 or middle school that embeds computer science content within other subjects.
+7 (2) The department of elementary and secondary education shall, before July 1, 2019,
+8 develop a high school graduation policy that allows a student to fulfill one unit of academic
+9 credit with a district-approved computer science course meeting the standards of subsection 2
+10 of this section for any mathematics, science, or practical arts unit required for high school
+11 graduation. The policy shall require that all students have either taken all courses that require
+12 end-of-course examinations for math and science or are on track to take all courses that
+13 require end-of-course examinations for math and science under the Missouri school
+14 improvement program in order to receive credit toward high school graduation under this
+15 subsection.
+16 (3) A school district shall communicate to students electing to use a computer science
+17 course for a mathematics unit that some institutions of higher education may require four
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 3139 2
+18 units of academic credit in mathematics for college admission. The parent, guardian, or legal
+19 custodian of each student who chooses to take a computer science course to fulfill a unit of
+20 academic credit in mathematics shall sign and submit to the school district a document
+21 containing a statement acknowledging that taking a computer science course to fulfill a unit
+22 of academic credit in mathematics may have an adverse effect on college admission
+23 decisions.
+24 (4) The department of elementary and secondary education and the department of
+25 higher education and workforce development shall cooperate in developing and implementing
+26 academic requirements for computer science courses offered in any grade or grades not lower
+27 than the ninth nor higher than the twelfth grade.
+28 2. (1) The department of elementary and secondary education shall convene a work
+29 group to develop and recommend rigorous academic performance standards relating to
+30 computer science for students in kindergarten and in each grade not higher than the twelfth
+31 grade. The work group shall include, but not be limited to, educators providing instruction in
+32 kindergarten or in any grade not higher than the twelfth grade and representatives from the
+33 department of elementary and secondary education, the department of higher education and
+34 workforce development, business and industry, and institutions of higher education. The
+35 department of elementary and secondary education shall develop written curriculum
+36 frameworks relating to computer science that may be used by school districts. The
+37 requirements of section 160.514 shall not apply to this section.
+38 (2) The state board of education shall adopt and implement academic performance
+39 standards relating to computer science beginning in the 2019-20 school year.
+40 3. Before July 1, 2019, the department of elementary and secondary education shall
+41 develop a procedure by which any teacher who holds a certificate of license to teach under
+42 section 168.021 and demonstrates sufficient content knowledge of computer science shall
+43 receive a special endorsement on the teacher's license signifying the teacher's specialized
+44 knowledge in computer science.
+45 4. (1) For purposes of this subsection, "eligible entity" means:
+46 (a) A local educational agency, or a consortium of local educational agencies, in the
+47 state, including charter schools that have declared themselves local educational agencies;
+48 (b) An institution of higher education in the state; or
+49 (c) A nonprofit or private provider of nationally recognized and high-quality
+50 computer science professional development, as determined by the department of elementary
+51 and secondary education.
+52 (2) There is hereby created in the state treasury the "Computer Science Education
+53 Fund". The fund shall consist of all moneys that may be appropriated to it by the general
+54 assembly and any gifts, contributions, grants, or bequests received from private or other
+
+HB 3139 3
+55 sources for the purpose of providing teacher professional development programs relating to
+56 computer science. The state treasurer shall be custodian of the fund. In accordance with
+57 sections 30.170 and 30.180, the state treasurer may approve disbursements. The fund shall be
+58 a dedicated fund and, upon appropriation, moneys in the fund shall be used solely for the
+59 administration of grants to eligible entities as described in this section. Notwithstanding the
+60 provisions of section 33.080 to the contrary, any moneys remaining in the fund at the end of
+61 the biennium shall not revert to the credit of the general revenue fund. The state treasurer
+62 shall invest moneys in the fund in the same manner as other funds are invested. Any interest
+63 and moneys earned on such investments shall be credited to the fund.
+64 (3) The state board of education shall award grants from the computer science
+65 education fund to eligible entities for the purpose of providing teacher professional
+66 development programs relating to computer science. An eligible entity wishing to receive
+67 such a grant shall submit an application to the department of elementary and secondary
+68 education addressing how the entity plans to:
+69 (a) Reach new and existing teachers with little computer science background;
+70 (b) Use effective practices for professional development;
+71 (c) Focus the training on the conceptual foundations of computer science;
+72 (d) Reach and support historically underrepresented students in computer science;
+73 (e) Provide teachers with concrete experience with hands-on, inquiry-based practices;
+74 and
+75 (f) Accommodate the particular needs of students and teachers in each district and
+76 school.
+77 5. (1) For all school years beginning on or after July 1, 2023, each public high school
+78 and charter high school shall offer at least one computer science course in an in-person setting
+79 or as a virtual or distance course option.
+80 (2) Any computer science course or instruction offered under this subsection shall:
+81 (a) Be of high quality as defined by the state board of education;
+82 (b) Meet or exceed the computer science performance standards developed and
+83 adopted by the department of elementary and secondary education under this section; and
+84 (c) For any computer science course offered by a public high school or charter high
+85 school, be offered in such school's course catalog.
+86 (3) On or before June thirtieth of each school year, each school district shall submit to
+87 the department of elementary and secondary education a report for the current school year
+88 which shall include, but not be limited to:
+89 (a) The names and course codes of computer science courses offered in each school in
+90 the district with a course description and which computer science performance standards are
+91 covered, to the extent such information is available;
+
+HB 3139 4
+92 (b) The number and percentage of students who enrolled in each computer science
+93 course, listed by the categories in subparagraphs a. to f. of this paragraph. If a category
+94 contains one to five students or contains a quantity of students that would allow the quantity
+95 of another category that contains five or fewer to be deduced, the number shall be replaced
+96 with a symbol:
+97 a. Sex;
+98 b. Race and ethnicity;
+99 c. Special education status including, but not limited to, students receiving services
+100 under the federal Individuals with Disabilities Education Act (IDEA) (20 U.S.C. Section 1400
+101 et seq., as amended) or Section 504 of the federal Rehabilitation Act of 1973 (29 U.S.C.
+102 Section 794), as amended;
+103 d. English language learner status;
+104 e. Eligibility for free or reduced price meals; and
+105 f. Grade level; and
+106 (c) The number of computer science instructors at each school, listed by the following
+107 categories:
+108 a. Applicable certifications;
+109 b. Sex;
+110 c. Race and ethnicity; and
+111 d. Highest academic degree.
+112 (4) On or before September thirtieth of each school year, the department of
+113 elementary and secondary education shall post the following on the department's website:
+114 (a) Data received under paragraphs (a) and (b) of subdivision (3) of this subsection,
+115 disaggregated by school and aggregated statewide; and
+116 (b) Data received under paragraph (c) of subdivision (3) of this subsection,
+117 aggregated statewide.
+118 (5) On or before June thirtieth of each school year, the department of elementary and
+119 secondary education shall publish a list of computer science course codes and names with a
+120 course description and an indication of which courses meet or exceed the department of
+121 elementary and secondary education's computer science performance standards.
+122 6. The department of elementary and secondary education shall appoint a computer
+123 science supervisor. The computer science supervisor shall be responsible for implementing
+124 the provisions of this section.
+125 7. For all school years beginning on or after July 1, 2023, a computer science course
+126 successfully completed and counted toward state graduation requirements shall be equivalent
+127 to one science course or one practical arts credit for the purpose of satisfying any admission
+128 requirements of any public institution of higher education in this state.
+
+HB 3139 5
+129 8. (1) The workgroup established under subsection 2 of this section shall develop
+130 additional academic performance standards for computer science courses that
+131 incorporate academic requirements related to cybersecurity, social media training,
+132 and artificial intelligence.
+133 (2) The state board of education shall adopt and implement such academic
+134 performance standards beginning in the 2027-28 school year.
+135 (3) For the 2027-28 school year and all subsequent school years:
+136 (a) Each pupil who receives a high school diploma or certificate of graduation
+137 shall have satisfactorily completed one-half unit of academic credit with a computer
+138 science course before the end of grade twelve; and
+139 (b) Before a pupil may substitute a course that fulfills any mathematics, science,
+140 or practical arts unit required for high school graduation, the pupil shall satisfactorily
+141 complete one-half unit of academic credit with a computer science course.
+142 [8.] 9. The department of elementary and secondary education shall promulgate rules
+143 to implement the provisions of this section. Any rule or portion of a rule, as that term is
+144 defined in section 536.010, that is created under the authority delegated in this section shall
+145 become effective only if it complies with and is subject to all of the provisions of chapter 536
+146 and, if applicable, section 536.028. This section and chapter 536 are nonseverable and if any
+147 of the powers vested with the general assembly pursuant to chapter 536 to review, to delay the
+148 effective date, or to disapprove and annul a rule are subsequently held unconstitutional, then
+149 the grant of rulemaking authority and any rule proposed or adopted after December 18, 2018,
+150 shall be invalid and void.
+✔
+
+[DELETED:  B N 3IJ St ( Fc,ameid Tao( Tdc0o1g T2e e f m a s o a o t t t a c t3r e e f m a s u t M s4i5s6( A7c—M i e]
+[DELETED: 8u T9c0a c i m s s a s t t s d a d1c2o a c i m m h a a e o c a3d4( T5h6a7t82 ( T9g t d a r r a p s r t0c1g T2k3d4w d b a i a i o h e T5d o e a s e s d w c6f r t c s t m b u b s d T7r8( T9s03 B1d2s d c o3r a s e o t t l s t t s4k54 ( F6( A7s8( A9( A n o p p o n r a h0c1a2(3F T4a a a g c g o b r f p o o ]
+[DELETED: 5s6c T I7s T8a9a N0p1t T2s A3a4( T s b o e s a g f t c s5e f t e e f t p o p t p6d A7s a g s s a a t t d o e a s8e9( R0(1( F2( R3( P4a5( A6s75 ( F8a9o0( A1( B2( M o e t c s p s d a3a4( F5s6( O7t8w9(0t1c ]
+[DELETED: 2( T3c I4c5o6w7a S8b R9c S0u1e2S3d E4e E5f G6( T7c8a A9b S0c R1d H2( O o b S t o e s y t d o3e4( D5d6( D r u p ( o s ( o t s7a8( O9s0c d a a i o w c m o e t d o1e26 T3s T4t57 F6s7t8r ]
+[DELETED: 98.()T0a a p s f c s c t1i a r r t c s m t2a3()T s b o e s a a i s a4p5()F6()E7s o a8s9()B0o1c2[.T3t A4d5b6a T7o8e9t0s ]

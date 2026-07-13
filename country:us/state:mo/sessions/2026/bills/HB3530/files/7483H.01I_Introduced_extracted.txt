@@ -1,0 +1,387 @@
+Title: HOUSE BILL NO. 3530
+Official Title: HOUSE BILL NO. 3530
+Number of Sections: 5
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE DAVIDSON.
+7483H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapter 386, RSMo, by adding thereto three new sections relating to utilities, with
+penalty provisions.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+
+Section 2:
+Section A. Chapter 386, RSMo, is amended by adding thereto three new sections, to
+2 be known as sections 386.990, 386.993, and 386.996, to read as follows:
+
+Section 3:
+386.990. 1. This section shall be known and may be cited as the "Missouri Home
+2 Battery and Grid Resilience Act".
+3 2. As used in this section and section 386.993, the following terms mean:
+4 (1) "Aggregator", an entity that controls or coordinates multiple distributed
+5 energy storage systems for grid services participation;
+6 (2) "Battery energy storage system", an electrochemical device with a minimum
+7 usable capacity of ten kilowatts, capable of discharging electrical energy on demand,
+8 and compliant with applicable standards of Underwriters Laboratories, the Institute of
+9 Electrical and Electronics Engineers, the National Electrical Code, and the National
+10 Electrical Safety Code;
+11 (3) "Commission", the Missouri public service commission;
+12 (4) "Grid services", capacity, demand response, or ancillary services provided
+13 by distributed energy resources to a utility or transmission operator;
+14 (5) "Utility", any electrical corporation as defined in section 386.020.
+15 3. Each electrical corporation shall, within ninety days after the effective date of
+16 this section, file with the commission a "Residential Battery and Grid Resilience
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+HB 3530 2
+17 Program". The commission shall approve the application, subject to compliance with
+18 the provisions of this section. Each program shall:
+19 (1) Provide customer incentives for installation of eligible battery energy storage
+20 systems located behind the customer meter;
+21 (2) Require enrollment of each such system in a utility-approved grid services
+22 tariff for a minimum term of five years; and
+23 (3) Allow ownership of the battery energy storage system by the customer, a
+24 third-party lessor, or an approved aggregator.
+25 4. Each participating utility shall offer:
+26 (1) An up-front installation rebate of five hundred dollars per kilowatt-hour of
+27 usable battery capacity installed, not to exceed thirty kilowatt-hours per residence; and
+28 (2) Performance payments consisting of:
+29 (a) A capacity payment between two hundred twenty-five dollars and three
+30 hundred dollars per kilowatt of committed discharge power per summer season; and
+31 (b) An energy payment between twenty-five cents and sixty cents per kilowatt-
+32 hour of energy delivered during called events.
+33 5. Up-front and performance incentives under this section may be paid to the
+34 customer, the approved installer, the third-party owner or lessor, or the aggregator,
+35 depending on the ownership structure of the battery energy storage system. A
+36 minimum twenty percent state-of-charge reserve shall be maintained for customer
+37 backup during dispatch events. Incentive payments shall be made upon verification of
+38 installation and enrollment in the grid services tariff.
+39 6. All prudently incurred program costs including, but not limited to, rebates,
+40 performance payments, program administration costs and measurement and
+41 verification costs, shall be recorded to a regulatory asset on the utility’s books and
+42 shall be recoverable through an amortization of the regulatory asset balance in each of
+43 the utility’s general rate proceedings over a reasonable period of time as determined by
+44 the commission. The commission shall ensure that:
+45 (1) Program costs are offset by verified avoided-capacity, energy, and
+46 transmission savings;
+47 (2) Utilities may earn a performance incentive for net savings associated with
+48 obtaining accredited capacity; and
+49 (3) Low-income customers are not unduly burdened by cost recovery.
+50 7. Utilities may utilize federal funds, grants, or private contributions to cover
+51 incentives, program administration, or measurement and verification costs. General
+52 revenue or taxpayer funds shall not be required to implement this section.
+HB 3530 3
+53 8. Utilities shall verify available capacity and dispatched energy through interval
+54 metering or certified telemetry. Each utility shall file an annual report with the
+55 commission summarizing systems installed, total capacity enrolled, program
+56 expenditures, cost-effectiveness, and aggregate peak load reductions achieved.
+57 9. The commission may promulgate rules necessary to implement this section,
+58 including eligibility standards, aggregator registration, and consumer-protection
+59 provisions. Any rule or portion of a rule, as that term is defined in section 536.010,
+60 that is created under the authority delegated in this section shall become effective only if
+61 it complies with and is subject to all of the provisions of chapter 536 and, if applicable,
+62 section 536.028. This section and chapter 536 are nonseverable and if any of the powers
+63 vested with the general assembly pursuant to chapter 536 to review, to delay the
+64 effective date, or to disapprove and annul a rule are subsequently held unconstitutional,
+65 then the grant of rulemaking authority and any rule proposed or adopted after August
+66 28, 2026, shall be invalid and void.
+
+Section 4:
+386.993. 1. Residential customers participating in a program authorized under
+2 section 386.990 shall be entitled to the following rights and protections:
+3 (1) The installer, lessor, or aggregator shall provide the customer with a written
+4 disclosure of all terms before installation containing:
+5 (a) The total installed capacity and expected energy performance of the system;
+6 (b) All payments or incentives to be made by the utility or other entities;
+7 (c) The ownership structure of the equipment;
+8 (d) The duration of participation and any early-termination conditions; and
+9 (e) Contact information for the utility and the program administrator for
+10 inquiries or complaints;
+11 (2) No installer, lessor, or aggregator shall make false, deceptive, or misleading
+12 representations regarding energy savings, incentive values, or ownership;
+13 (3) A residential customer may rescind any participation, lease, or purchase
+14 agreement within three business days of execution without penalty or obligation;
+15 (4) A third-party owner or aggregator shall maintain the system in safe
+16 operating condition consistent with manufacturer specifications and the National
+17 Electrical Safety Code;
+18 (5) All contracts shall clearly state whether the agreement is transferable upon
+19 sale of the home and describe any conditions for transfer; and
+20 (6) Each third-party owner or aggregator shall maintain general liability
+21 insurance of not less than five hundred thousand dollars per occurrence covering
+22 installation and operation activities.
+HB 3530 4
+
+Section 5:
+386.996. 1. The commission, in consultation with the energy division of the
+2 department of natural resources, shall establish and administer a statewide licensing
+3 program for solar and energy storage contractors operating within the state of Missouri.
+4 2. Any person applying for a license under the provisions of this section shall
+5 complete an application created by the commission and the department. The
+6 application shall require, at a minimum:
+7 (1) Proof of registration as a Missouri business entity in good standing with the
+8 secretary of state;
+9 (2) Proof of general liability insurance of not less than five hundred thousand
+10 dollars per occurrence and current workers’ compensation coverage;
+11 (3) Designated qualifying individual holding one of the following credentials:
+12 (a) North American Board of Certified Energy Practitioners (NABCEP)
+13 Photovoltaic Installation Professional or Energy Storage Professional certification;
+14 (b) Missouri electrical contractor license or state-recognized engineer’s license in
+15 electrical or renewable energy; or
+16 (c) Has been actively engaged in the solar contracting or installation business in
+17 the state of Missouri for at least five consecutive years;
+18 (4) Completed background check confirming no felony fraud or consumer
+19 protection convictions within the past ten years;
+20 (5) Proof of completion of a PSC-approved solar contractor compliance course
+21 covering consumer disclosures and cancellation rights, net metering and interconnection
+22 standards, building and electrical code compliance, and APP+ permitting; and
+23 (6) Payment of a licensing fee of five hundred dollars for initial licensing and two
+24 hundred fifty dollars for biennial renewal.
+25 3. The commission, in coordination with the energy division of the department of
+26 natural resources, shall maintain a public online registry of all licensed solar and energy
+27 storage contractors including, but not limited to, license type, business address, and
+28 current standing.
+29 4. License holders under this section shall comply with the following
+30 requirements:
+31 (1) Advertising and marketing materials shall disclose company name, license
+32 number, and ownership structure. False or misleading claims regarding incentives,
+33 savings, or ownership are prohibited;
+34 (2) Salespersons shall be directly employed by, or contractually affiliated with, a
+35 licensed solar or energy storage contractor;
+36 (3) Contractors may collect a reasonable deposit at the time of contract
+37 execution, provided that the contract clearly states the deposit amount and refund
+HB 3530 5
+38 conditions; and if the customer exercises the three-day right to cancel under section
+39 386.993, the contractor shall refund the full deposit within ten business days of receiving
+40 notice of cancellation. All contracts shall honor the three-day cancellation right and
+41 fully disclose payment milestones, financing terms, and completion timelines;
+42 (4) All electrical work shall be performed or supervised by a licensed electrician.
+43 Installations shall meet the National Electrical Code, Underwriters Labortories
+44 Standards & Engagement, and local building and fire code standards;
+45 (5) Contractors shall comply with the ten-day residential and thirty-day
+46 commercial interconnection approval timelines and utilize the APP+ or equivalent
+47 platform once adopted;
+48 (6) Contractors shall provide a minimum ten-year workmanship warranty and
+49 ensure customer access to monitoring and warranty services;
+50 (7) Contractors shall maintain all project records, including permits,
+51 interconnection approvals, and inspection reports, for seven years and make such
+52 records available to the commission upon request.
+53
+54 The commission may suspend, fine, or revoke licenses for fraudulent or deceptive
+55 practices, unsafe installations, or failure to comply with this section. Fines may not
+56 exceed five thousand dollars per violation, plus restitution to affected customers.
+57 5. Contractors holding active NABCEP certification and operating in Missouri
+58 prior to enactment of this section may receive provisional licensing within one hundred
+59 eighty days. Out-of-state firms may apply for reciprocal licensing if holding equivalent
+60 credentials and experience.
+61 6. The commission shall promulgate rules to implement this section within one
+62 hundred eighty days of enactment. Any rule or portion of a rule, as that term is defined
+63 in section 536.010, that is created under the authority delegated in this section shall
+64 become effective only if it complies with and is subject to all of the provisions of chapter
+65 536 and, if applicable, section 536.028. This section and chapter 536 are nonseverable
+66 and if any of the powers vested with the general assembly pursuant to chapter 536 to
+67 review, to delay the effective date, or to disapprove and annul a rule are subsequently
+68 held unconstitutional, then the grant of rulemaking authority and any rule proposed or
+69 adopted after August 28, 2026, shall be invalid and void.
+✔
+[DELETED:  B N 3IJ Cb.1B2 A( " a e t c o c m de( "uaE a E E t N E C a t N0E1( "2(3b4( "53 E6t s f w t c a " B a G R—M i e]
+[DELETED: 7P T8t E9( P0s1( R2t3( A4t54 E6( A7u8( P9( A c p b t h t d a t0h1( A2h35 U4c t a i t t o o l o t a5d o t o s o t b e s s A6m t p s r s b m f c7b I8i96 A0p p p a c a m a1v c s b r t a r a o t u b a2s3t4t T5( P c a o b v a e a6t7( U8o9( L07 U1i G2r ]
+[DELETED: 38 U4m o c t E u s f a a r w t5c s s i t c e p6e79 T8i e s a r a c9p A0t1i2s T3v w t g a p t c 5 t r t d t4e5t62.1 Rs( Td( T( A( T( T( C i f t u a t p a f0i1( N2r3( A r c m r a p l o p4a5( A t o o a s m t s i s6o c c w m s a t N7E8( A9s0( E t o o a s m g l1i o n l t f h t d p o c2i ]
+[DELETED: .1 T c i c w t e d o tdp2 Ac a a c b t c a t d Ta( Ps( P0d1( D2( N A B o C E P (3P4( M5e6(7t8( C b c c n f f o c9p0( P1c2s3( P4h53 T6n7s c i b n l t l t b a a8c94 L h u t s s c w t f0r1( A2n a o s F o m c r i3s4( S5l6( C m c a r d a t t o c7e p t t c c s t d a a r ]
+[DELETED: 8c r930n A1f2( A3I s m t N E C U L4S5( C s c w t t r a t6c i a t a u t A o e7p8( C9e0( C s m a p r i p1i a a i r f s y a m s2r4T c m s f o r l f f o d5p o F6e75 C8p9e O0c16 T2h A3i u i4b55 T6a7r8h9a ]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+HOUSE BILL NO. 3530
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE DAVIDSON.
+7483H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapter 386, RSMo, by adding thereto three new sections relating to utilities, with
+penalty provisions.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Chapter 386, RSMo, is amended by adding thereto three new sections, to
+2 be known as sections 386.990, 386.993, and 386.996, to read as follows:
+386.990. 1. This section shall be known and may be cited as the "Missouri Home
+2 Battery and Grid Resilience Act".
+3 2. As used in this section and section 386.993, the following terms mean:
+4 (1) "Aggregator", an entity that controls or coordinates multiple distributed
+5 energy storage systems for grid services participation;
+6 (2) "Battery energy storage system", an electrochemical device with a minimum
+7 usable capacity of ten kilowatts, capable of discharging electrical energy on demand,
+8 and compliant with applicable standards of Underwriters Laboratories, the Institute of
+9 Electrical and Electronics Engineers, the National Electrical Code, and the National
+10 Electrical Safety Code;
+11 (3) "Commission", the Missouri public service commission;
+12 (4) "Grid services", capacity, demand response, or ancillary services provided
+13 by distributed energy resources to a utility or transmission operator;
+14 (5) "Utility", any electrical corporation as defined in section 386.020.
+15 3. Each electrical corporation shall, within ninety days after the effective date of
+16 this section, file with the commission a "Residential Battery and Grid Resilience
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 3530 2
+17 Program". The commission shall approve the application, subject to compliance with
+18 the provisions of this section. Each program shall:
+19 (1) Provide customer incentives for installation of eligible battery energy storage
+20 systems located behind the customer meter;
+21 (2) Require enrollment of each such system in a utility-approved grid services
+22 tariff for a minimum term of five years; and
+23 (3) Allow ownership of the battery energy storage system by the customer, a
+24 third-party lessor, or an approved aggregator.
+25 4. Each participating utility shall offer:
+26 (1) An up-front installation rebate of five hundred dollars per kilowatt-hour of
+27 usable battery capacity installed, not to exceed thirty kilowatt-hours per residence; and
+28 (2) Performance payments consisting of:
+29 (a) A capacity payment between two hundred twenty-five dollars and three
+30 hundred dollars per kilowatt of committed discharge power per summer season; and
+31 (b) An energy payment between twenty-five cents and sixty cents per kilowatt-
+32 hour of energy delivered during called events.
+33 5. Up-front and performance incentives under this section may be paid to the
+34 customer, the approved installer, the third-party owner or lessor, or the aggregator,
+35 depending on the ownership structure of the battery energy storage system. A
+36 minimum twenty percent state-of-charge reserve shall be maintained for customer
+37 backup during dispatch events. Incentive payments shall be made upon verification of
+38 installation and enrollment in the grid services tariff.
+39 6. All prudently incurred program costs including, but not limited to, rebates,
+40 performance payments, program administration costs and measurement and
+41 verification costs, shall be recorded to a regulatory asset on the utility’s books and
+42 shall be recoverable through an amortization of the regulatory asset balance in each of
+43 the utility’s general rate proceedings over a reasonable period of time as determined by
+44 the commission. The commission shall ensure that:
+45 (1) Program costs are offset by verified avoided-capacity, energy, and
+46 transmission savings;
+47 (2) Utilities may earn a performance incentive for net savings associated with
+48 obtaining accredited capacity; and
+49 (3) Low-income customers are not unduly burdened by cost recovery.
+50 7. Utilities may utilize federal funds, grants, or private contributions to cover
+51 incentives, program administration, or measurement and verification costs. General
+52 revenue or taxpayer funds shall not be required to implement this section.
+
+HB 3530 3
+53 8. Utilities shall verify available capacity and dispatched energy through interval
+54 metering or certified telemetry. Each utility shall file an annual report with the
+55 commission summarizing systems installed, total capacity enrolled, program
+56 expenditures, cost-effectiveness, and aggregate peak load reductions achieved.
+57 9. The commission may promulgate rules necessary to implement this section,
+58 including eligibility standards, aggregator registration, and consumer-protection
+59 provisions. Any rule or portion of a rule, as that term is defined in section 536.010,
+60 that is created under the authority delegated in this section shall become effective only if
+61 it complies with and is subject to all of the provisions of chapter 536 and, if applicable,
+62 section 536.028. This section and chapter 536 are nonseverable and if any of the powers
+63 vested with the general assembly pursuant to chapter 536 to review, to delay the
+64 effective date, or to disapprove and annul a rule are subsequently held unconstitutional,
+65 then the grant of rulemaking authority and any rule proposed or adopted after August
+66 28, 2026, shall be invalid and void.
+386.993. 1. Residential customers participating in a program authorized under
+2 section 386.990 shall be entitled to the following rights and protections:
+3 (1) The installer, lessor, or aggregator shall provide the customer with a written
+4 disclosure of all terms before installation containing:
+5 (a) The total installed capacity and expected energy performance of the system;
+6 (b) All payments or incentives to be made by the utility or other entities;
+7 (c) The ownership structure of the equipment;
+8 (d) The duration of participation and any early-termination conditions; and
+9 (e) Contact information for the utility and the program administrator for
+10 inquiries or complaints;
+11 (2) No installer, lessor, or aggregator shall make false, deceptive, or misleading
+12 representations regarding energy savings, incentive values, or ownership;
+13 (3) A residential customer may rescind any participation, lease, or purchase
+14 agreement within three business days of execution without penalty or obligation;
+15 (4) A third-party owner or aggregator shall maintain the system in safe
+16 operating condition consistent with manufacturer specifications and the National
+17 Electrical Safety Code;
+18 (5) All contracts shall clearly state whether the agreement is transferable upon
+19 sale of the home and describe any conditions for transfer; and
+20 (6) Each third-party owner or aggregator shall maintain general liability
+21 insurance of not less than five hundred thousand dollars per occurrence covering
+22 installation and operation activities.
+
+HB 3530 4
+386.996. 1. The commission, in consultation with the energy division of the
+2 department of natural resources, shall establish and administer a statewide licensing
+3 program for solar and energy storage contractors operating within the state of Missouri.
+4 2. Any person applying for a license under the provisions of this section shall
+5 complete an application created by the commission and the department. The
+6 application shall require, at a minimum:
+7 (1) Proof of registration as a Missouri business entity in good standing with the
+8 secretary of state;
+9 (2) Proof of general liability insurance of not less than five hundred thousand
+10 dollars per occurrence and current workers’ compensation coverage;
+11 (3) Designated qualifying individual holding one of the following credentials:
+12 (a) North American Board of Certified Energy Practitioners (NABCEP)
+13 Photovoltaic Installation Professional or Energy Storage Professional certification;
+14 (b) Missouri electrical contractor license or state-recognized engineer’s license in
+15 electrical or renewable energy; or
+16 (c) Has been actively engaged in the solar contracting or installation business in
+17 the state of Missouri for at least five consecutive years;
+18 (4) Completed background check confirming no felony fraud or consumer
+19 protection convictions within the past ten years;
+20 (5) Proof of completion of a PSC-approved solar contractor compliance course
+21 covering consumer disclosures and cancellation rights, net metering and interconnection
+22 standards, building and electrical code compliance, and APP+ permitting; and
+23 (6) Payment of a licensing fee of five hundred dollars for initial licensing and two
+24 hundred fifty dollars for biennial renewal.
+25 3. The commission, in coordination with the energy division of the department of
+26 natural resources, shall maintain a public online registry of all licensed solar and energy
+27 storage contractors including, but not limited to, license type, business address, and
+28 current standing.
+29 4. License holders under this section shall comply with the following
+30 requirements:
+31 (1) Advertising and marketing materials shall disclose company name, license
+32 number, and ownership structure. False or misleading claims regarding incentives,
+33 savings, or ownership are prohibited;
+34 (2) Salespersons shall be directly employed by, or contractually affiliated with, a
+35 licensed solar or energy storage contractor;
+36 (3) Contractors may collect a reasonable deposit at the time of contract
+37 execution, provided that the contract clearly states the deposit amount and refund
+
+HB 3530 5
+38 conditions; and if the customer exercises the three-day right to cancel under section
+39 386.993, the contractor shall refund the full deposit within ten business days of receiving
+40 notice of cancellation. All contracts shall honor the three-day cancellation right and
+41 fully disclose payment milestones, financing terms, and completion timelines;
+42 (4) All electrical work shall be performed or supervised by a licensed electrician.
+43 Installations shall meet the National Electrical Code, Underwriters Labortories
+44 Standards & Engagement, and local building and fire code standards;
+45 (5) Contractors shall comply with the ten-day residential and thirty-day
+46 commercial interconnection approval timelines and utilize the APP+ or equivalent
+47 platform once adopted;
+48 (6) Contractors shall provide a minimum ten-year workmanship warranty and
+49 ensure customer access to monitoring and warranty services;
+50 (7) Contractors shall maintain all project records, including permits,
+51 interconnection approvals, and inspection reports, for seven years and make such
+52 records available to the commission upon request.
+53
+54 The commission may suspend, fine, or revoke licenses for fraudulent or deceptive
+55 practices, unsafe installations, or failure to comply with this section. Fines may not
+56 exceed five thousand dollars per violation, plus restitution to affected customers.
+57 5. Contractors holding active NABCEP certification and operating in Missouri
+58 prior to enactment of this section may receive provisional licensing within one hundred
+59 eighty days. Out-of-state firms may apply for reciprocal licensing if holding equivalent
+60 credentials and experience.
+61 6. The commission shall promulgate rules to implement this section within one
+62 hundred eighty days of enactment. Any rule or portion of a rule, as that term is defined
+63 in section 536.010, that is created under the authority delegated in this section shall
+64 become effective only if it complies with and is subject to all of the provisions of chapter
+65 536 and, if applicable, section 536.028. This section and chapter 536 are nonseverable
+66 and if any of the powers vested with the general assembly pursuant to chapter 536 to
+67 review, to delay the effective date, or to disapprove and annul a rule are subsequently
+68 held unconstitutional, then the grant of rulemaking authority and any rule proposed or
+69 adopted after August 28, 2026, shall be invalid and void.
+✔
+
+[DELETED:  B N 3IJ Cb.1B2 A( " a e t c o c m de( "uaE a E E t N E C a t N0E1( "2(3b4( "53 E6t s f w t c a " B a G R—M i e]
+[DELETED: 7P T8t E9( P0s1( R2t3( A4t54 E6( A7u8( P9( A c p b t h t d a t0h1( A2h35 U4c t a i t t o o l o t a5d o t o s o t b e s s A6m t p s r s b m f c7b I8i96 A0p p p a c a m a1v c s b r t a r a o t u b a2s3t4t T5( P c a o b v a e a6t7( U8o9( L07 U1i G2r ]
+[DELETED: 38 U4m o c t E u s f a a r w t5c s s i t c e p6e79 T8i e s a r a c9p A0t1i2s T3v w t g a p t c 5 t r t d t4e5t62.1 Rs( Td( T( A( T( T( C i f t u a t p a f0i1( N2r3( A r c m r a p l o p4a5( A t o o a s m t s i s6o c c w m s a t N7E8( A9s0( E t o o a s m g l1i o n l t f h t d p o c2i ]
+[DELETED: .1 T c i c w t e d o tdp2 Ac a a c b t c a t d Ta( Ps( P0d1( D2( N A B o C E P (3P4( M5e6(7t8( C b c c n f f o c9p0( P1c2s3( P4h53 T6n7s c i b n l t l t b a a8c94 L h u t s s c w t f0r1( A2n a o s F o m c r i3s4( S5l6( C m c a r d a t t o c7e p t t c c s t d a a r ]
+[DELETED: 8c r930n A1f2( A3I s m t N E C U L4S5( C s c w t t r a t6c i a t a u t A o e7p8( C9e0( C s m a p r i p1i a a i r f s y a m s2r4T c m s f o r l f f o d5p o F6e75 C8p9e O0c16 T2h A3i u i4b55 T6a7r8h9a ]

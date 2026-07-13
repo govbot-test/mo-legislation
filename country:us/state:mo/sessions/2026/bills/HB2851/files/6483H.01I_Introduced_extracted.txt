@@ -1,0 +1,391 @@
+Title: HOUSE BILL NO. 2851
+Official Title: HOUSE BILL NO. 2851
+Number of Sections: 4
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE SCHULTE.
+6483H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapters 59 and 67, RSMo, by adding thereto two new sections relating to
+residential address confidentiality on county documents.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+
+Section 2:
+Section A. Chapters 59 and 67, RSMo, are amended by adding thereto two new
+2 sections, to be known as sections 59.670 and 67.5137, to read as follows:
+
+Section 3:
+59.670. 1. The provisions of this section shall be known and may be cited as the
+2 "Missouri Shield Act".
+3 2. For purposes of this section, the following terms mean:
+4 (1) "Eligible documents", documents or instruments that are maintained by and
+5 located in the office of the county recorder that are accessed electronically;
+6 (2) "Eligible person", any current or former law enforcement officer or judge;
+7 (3) "Indexes", indexes maintained by and located in the office of the county
+8 recorder that are accessed electronically;
+9 (4) "Judge", any municipal, associate, circuit, or appellate judge;
+10 (5) "Law enforcement officer", any commissioned peace officer with the power
+11 to arrest for a violation of the criminal code who is employed by any unit of the state or
+12 any county, charter county, city, charter city, municipality, district, college, university,
+13 or any other political subdivision or is employed by the board of police commissioners as
+14 defined in chapter 84;
+15 (6) "Shielded", a prohibition against the general public's electronic access to
+16 eligible documents and access to the unique identifier and recording data contained in
+17 indexes for eligible documents.
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+HB 2851 2
+18 3. Notwithstanding any other provision of law, in any county an eligible person
+19 may request that the general public be prohibited from accessing the unique identifier
+20 and the recording data contained in indexes of recorded instruments maintained by the
+21 county recorder and may request the county recorder to prohibit access to that person's
+22 residential address and telephone number contained in instruments or writings
+23 recorded by the county recorder.
+24 4. An eligible person may request this action by filing an affidavit that states the
+25 following on an application form developed by the office of the state courts
+26 administrator in agreement with an association of counties, an organization of peace
+27 officers, and the motor vehicle and driver licensing division of the department of
+28 revenue:
+29 (1) The person's full legal name and residential address;
+30 (2) The full legal description and parcel number of the person's property;
+31 (3) The document locator number and recording date of each eligible document
+32 for which the person requests access restriction under this section; and
+33 (4) A copy of pages from each eligible document for which the person requests
+34 record shielding that includes the document locator number and the person's
+35 identifying information, including the person's full legal name and residential address.
+36 5. If an eligible person is also requesting that the general public be prohibited
+37 from accessing records maintained by the county clerk, collector, assessor, treasurer, or
+38 auditor under section 67.5135, the eligible person may combine the request with the
+39 request filed under subsection 4 of this section by filing one affidavit. The affidavit and
+40 subsequent action by the appropriate authorities shall meet the requirements of this
+41 section and section 67.5135.
+42 6. An affidavit filed under subsection 4 or 5 of this section shall be filed with the
+43 presiding judge in the county where the eligible person resides. The presiding judge
+44 shall review the affidavit to determine whether the action requested shall be granted. If
+45 the presiding judge concludes that the affidavit meets the requirements of this section
+46 and that the action requested by the affiant will reduce a danger to the life or safety of
+47 the affiant or another person, the presiding judge shall issue a court order instructing
+48 the county recorder to shield the affiant's eligible documents listed on the affidavit. Any
+49 court order for record shielding shall expire five years from the date of issuance. An
+50 eligible person may submit an affidavit for a new court order to continue record
+51 shielding upon expiration of a previous order.
+52 7. The clerk of the court shall file the court order and send a copy of such order
+53 and the affidavit to the recorder of deeds in each county listed on the affidavit. Not
+54 more than ten business days after the date on which the county recorder receives the
+HB 2851 3
+55 court order and affidavit, the county recorder shall shield the eligible documents listed
+56 on the affidavit. The county recorder shall not record the court order or the affidavit.
+57 8. On motion to the court, the court may temporarily stay or permanently vacate
+58 all or part of the court order if the court determines that:
+59 (1) An instrument or document has been shielded in error;
+60 (2) The original affiant no longer lives at the address listed in the original
+61 affidavit;
+62 (3) The cause for the original affidavit no longer exists; or
+63 (4) Temporary access to the instrument or document is needed.
+64 9. The county recorder shall remove shielding for all records under this section
+65 on the first Thursday of June in the year after an order expires. The county recorder
+66 shall electronically send notice to the email address listed on the affidavit six months
+67 before the date the address shielding will terminate.
+68 10. In order to include subsequent eligible documents in a court order, the
+69 eligible person shall present to the county recorder at the time of recording a certified
+70 copy of the court order. The county recorder shall ensure that the eligible document is
+71 shielded within ten business days.
+72 11. The provisions of this section shall not prohibit access to county recorder
+73 records by:
+74 (1) Parties to an instrument;
+75 (2) A law enforcement officer in performance of official duties when the officer
+76 provides a subpoena, court order, or search warrant for the records;
+77 (3) A title insurer, title insurance agent, or an escrow agent licensed by the
+78 department of commerce and insurance;
+79 (4) Licensed attorneys;
+80 (5) A person with a notarized release from the party to the instrument or a court
+81 order; or
+82 (6) County, state, or local government offices with authority to access the records
+83 under state or local law, rule, or regulation.
+84 12. No county recorder shall be liable for any damages under this section,
+85 provided the recorder made a good faith effort to comply with the provisions of this
+86 section. No county recorder shall be liable for the release of any eligible document or
+87 any data from any eligible document that was released or accessed prior to the
+88 document being shielded under this section.
+89 13. The provisions of this section shall take effect June 1, 2027.
+
+Section 4:
+67.5137. 1. For purposes of this section, the following terms mean:
+HB 2851 4
+2 (1) "Eligible documents", documents or instruments that are maintained by and
+3 located in the office of the county clerk, collector, assessor, treasurer, or auditor that are
+4 accessed electronically;
+5 (2) "Eligible person", any current or former law enforcement officer or judge;
+6 (3) "Judge", any municipal, associate, circuit, or appellate judge;
+7 (4) "Law enforcement officer", any commissioned peace officer with the power
+8 to arrest for a violation of the criminal code who is employed by any unit of the state or
+9 any county, charter county, city, charter city, municipality, district, college, university,
+10 or any other political subdivision or is employed by the board of police commissioners as
+11 defined in chapter 84;
+12 (5) "Shielded", a prohibition against the general public's electronic access to
+13 eligible documents and access to residential address and phone number information
+14 contained in indexes for eligible documents.
+15 2. Notwithstanding any other provision of law, in any county an eligible person
+16 may request that the general public be prohibited from accessing that person's
+17 residential address and telephone number that are contained in instruments, writings,
+18 and information maintained by the county clerk under chapter 51, collector under
+19 chapter 52, assessor under chapter 53, treasurer under chapter 54, or auditor under
+20 chapter 55.
+21 3. An eligible person may request this action by filing an affidavit that states the
+22 person's full legal name and residential address on an application form developed by the
+23 office of the state courts administrator in agreement with an association of counties, an
+24 organization of peace officers, and the motor vehicle and driver licensing division of the
+25 department of revenue.
+26 4. If an eligible person is also requesting that the general public be prohibited
+27 from accessing records maintained by the county collector under section 59.670, the
+28 eligible person may combine the request with the request filed under subsection 3 of this
+29 section by filing one affidavit. The affidavit and subsequent action by the appropriate
+30 authorities shall meet the requirements of this section and section 59.670.
+31 5. An affidavit filed under subsection 3 or 4 of this section shall be filed with the
+32 presiding judge in the county where the eligible person resides. The presiding judge
+33 shall review the affidavit to determine whether the action requested shall be granted. If
+34 the presiding judge concludes that the affidavit meets the requirements of this section
+35 and that the action requested by the affiant will reduce a danger to the life or safety of
+36 the affiant or another person, the presiding judge shall issue a court order instructing
+37 the county officer to shield the affiant's eligible documents listed on the affidavit. Any
+38 court order for record shielding shall expire five years from the date of issuance. An
+HB 2851 5
+39 eligible person may submit an affidavit for a new court order to continue record
+40 shielding upon expiration of a previous order.
+41 6. The clerk of the court shall file the court order and send a copy of such order
+42 and the affidavit to the applicable county officer in each county listed on the affidavit.
+43 Not more than ten business days after the date on which the county officer receives the
+44 court order and affidavit, the county officer shall shield the eligible documents listed on
+45 the affidavit.
+46 7. On motion to the court, the court may temporarily stay or permanently vacate
+47 all or part of the court order if the court determines that:
+48 (1) An instrument or document has been shielded in error;
+49 (2) The original affiant no longer lives at the address listed in the original
+50 affidavit;
+51 (3) The cause for the original affidavit no longer exists; or
+52 (4) Temporary access to the instrument or document is needed.
+53 8. The county officer shall remove shielding for all records under this section on
+54 the first Thursday of June in the year after an order expires. The county officer may
+55 electronically send notice to the email address listed on the affidavit six months before
+56 the date the address shielding will terminate.
+57 9. The provisions of this section shall not prohibit access to county records by:
+58 (1) Parties to an instrument;
+59 (2) A law enforcement officer in performance of official duties when the officer
+60 provides a subpoena, court order, or search warrant for the records;
+61 (3) Licensed attorneys;
+62 (4) A person with a notarized release from the party to the instrument or a court
+63 order; or
+64 (5) County, state, or local government offices with authority to access the records
+65 under state or local law, rule, or regulation.
+66 10. No county officer shall be liable for any damages under this section, provided
+67 the county officer made a good faith effort to comply with the provisions of this section.
+68 No county officer shall be liable for the release of any eligible document or any data
+69 from any eligible document that was released or accessed prior to the document being
+70 shielded under this section.
+71 11. The provisions of this section shall take effect June 1, 2027.
+✔
+[DELETED:  B N 2IJ a c 5 a 6 R b a t t n s r t A C 5 a 6 R a a b a t t ns T"2 F( "l( "( " i b l i o or( "0( "1t2a3o4d5( "6e7i—M i e]
+[DELETED: 83 N9m0a1c2r a a t n c i i o w3r44 A5f o a a f d b t o o t s c6a7o a t m v a d l d o t d o8r9( T0( T1( T2f3(4r s t i t d l n a t p5i65 I7f8a9r T0s1s26 A3p T4s I5t6a7t8t A9c A0e p m s a a f a n c o t c r1s273a N4m ]
+[DELETED: 5c6o T78 O8a9( A0( T o a n l l a t a l i t o1a2( T3( T49 T5o T6s7b81 I o t i s e d i a c o t9e0c T1s21 T3r4( P5( A6p7( A t i t i a o a e a l b t8d9( L0( A1o2( C3u41 N c r s b l f a d u t s5p6s N7a d f a e d t w r o a p t t8d91 1 F ]
+[DELETED: ( "la( "( "( "ta0o1d2( "3e d a a t r a a p n i4c52 N6m r t t g p b p f a t p7r8a i m b t c c u c 5 c u9c0c13 A2p3o4o5d64 I7f a r m b t c c u s 5 t8e9s T0a15 A2p T3s I4t5a6t7t A8c A ]
+[DELETED: 9e p m s a a f a n c o t c r0s16 T2a3N4c5t67 O7a8( A9( T o a n l l a t a l i t o0a1( T2( T38 T4t T5e6t79 T8( P9( A0p1( L2( A3o4( C5u61 N7t8N9f0s11 T ]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+HOUSE BILL NO. 2851
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE SCHULTE.
+6483H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapters 59 and 67, RSMo, by adding thereto two new sections relating to
+residential address confidentiality on county documents.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Chapters 59 and 67, RSMo, are amended by adding thereto two new
+2 sections, to be known as sections 59.670 and 67.5137, to read as follows:
+59.670. 1. The provisions of this section shall be known and may be cited as the
+2 "Missouri Shield Act".
+3 2. For purposes of this section, the following terms mean:
+4 (1) "Eligible documents", documents or instruments that are maintained by and
+5 located in the office of the county recorder that are accessed electronically;
+6 (2) "Eligible person", any current or former law enforcement officer or judge;
+7 (3) "Indexes", indexes maintained by and located in the office of the county
+8 recorder that are accessed electronically;
+9 (4) "Judge", any municipal, associate, circuit, or appellate judge;
+10 (5) "Law enforcement officer", any commissioned peace officer with the power
+11 to arrest for a violation of the criminal code who is employed by any unit of the state or
+12 any county, charter county, city, charter city, municipality, district, college, university,
+13 or any other political subdivision or is employed by the board of police commissioners as
+14 defined in chapter 84;
+15 (6) "Shielded", a prohibition against the general public's electronic access to
+16 eligible documents and access to the unique identifier and recording data contained in
+17 indexes for eligible documents.
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 2851 2
+18 3. Notwithstanding any other provision of law, in any county an eligible person
+19 may request that the general public be prohibited from accessing the unique identifier
+20 and the recording data contained in indexes of recorded instruments maintained by the
+21 county recorder and may request the county recorder to prohibit access to that person's
+22 residential address and telephone number contained in instruments or writings
+23 recorded by the county recorder.
+24 4. An eligible person may request this action by filing an affidavit that states the
+25 following on an application form developed by the office of the state courts
+26 administrator in agreement with an association of counties, an organization of peace
+27 officers, and the motor vehicle and driver licensing division of the department of
+28 revenue:
+29 (1) The person's full legal name and residential address;
+30 (2) The full legal description and parcel number of the person's property;
+31 (3) The document locator number and recording date of each eligible document
+32 for which the person requests access restriction under this section; and
+33 (4) A copy of pages from each eligible document for which the person requests
+34 record shielding that includes the document locator number and the person's
+35 identifying information, including the person's full legal name and residential address.
+36 5. If an eligible person is also requesting that the general public be prohibited
+37 from accessing records maintained by the county clerk, collector, assessor, treasurer, or
+38 auditor under section 67.5135, the eligible person may combine the request with the
+39 request filed under subsection 4 of this section by filing one affidavit. The affidavit and
+40 subsequent action by the appropriate authorities shall meet the requirements of this
+41 section and section 67.5135.
+42 6. An affidavit filed under subsection 4 or 5 of this section shall be filed with the
+43 presiding judge in the county where the eligible person resides. The presiding judge
+44 shall review the affidavit to determine whether the action requested shall be granted. If
+45 the presiding judge concludes that the affidavit meets the requirements of this section
+46 and that the action requested by the affiant will reduce a danger to the life or safety of
+47 the affiant or another person, the presiding judge shall issue a court order instructing
+48 the county recorder to shield the affiant's eligible documents listed on the affidavit. Any
+49 court order for record shielding shall expire five years from the date of issuance. An
+50 eligible person may submit an affidavit for a new court order to continue record
+51 shielding upon expiration of a previous order.
+52 7. The clerk of the court shall file the court order and send a copy of such order
+53 and the affidavit to the recorder of deeds in each county listed on the affidavit. Not
+54 more than ten business days after the date on which the county recorder receives the
+
+HB 2851 3
+55 court order and affidavit, the county recorder shall shield the eligible documents listed
+56 on the affidavit. The county recorder shall not record the court order or the affidavit.
+57 8. On motion to the court, the court may temporarily stay or permanently vacate
+58 all or part of the court order if the court determines that:
+59 (1) An instrument or document has been shielded in error;
+60 (2) The original affiant no longer lives at the address listed in the original
+61 affidavit;
+62 (3) The cause for the original affidavit no longer exists; or
+63 (4) Temporary access to the instrument or document is needed.
+64 9. The county recorder shall remove shielding for all records under this section
+65 on the first Thursday of June in the year after an order expires. The county recorder
+66 shall electronically send notice to the email address listed on the affidavit six months
+67 before the date the address shielding will terminate.
+68 10. In order to include subsequent eligible documents in a court order, the
+69 eligible person shall present to the county recorder at the time of recording a certified
+70 copy of the court order. The county recorder shall ensure that the eligible document is
+71 shielded within ten business days.
+72 11. The provisions of this section shall not prohibit access to county recorder
+73 records by:
+74 (1) Parties to an instrument;
+75 (2) A law enforcement officer in performance of official duties when the officer
+76 provides a subpoena, court order, or search warrant for the records;
+77 (3) A title insurer, title insurance agent, or an escrow agent licensed by the
+78 department of commerce and insurance;
+79 (4) Licensed attorneys;
+80 (5) A person with a notarized release from the party to the instrument or a court
+81 order; or
+82 (6) County, state, or local government offices with authority to access the records
+83 under state or local law, rule, or regulation.
+84 12. No county recorder shall be liable for any damages under this section,
+85 provided the recorder made a good faith effort to comply with the provisions of this
+86 section. No county recorder shall be liable for the release of any eligible document or
+87 any data from any eligible document that was released or accessed prior to the
+88 document being shielded under this section.
+89 13. The provisions of this section shall take effect June 1, 2027.
+67.5137. 1. For purposes of this section, the following terms mean:
+
+HB 2851 4
+2 (1) "Eligible documents", documents or instruments that are maintained by and
+3 located in the office of the county clerk, collector, assessor, treasurer, or auditor that are
+4 accessed electronically;
+5 (2) "Eligible person", any current or former law enforcement officer or judge;
+6 (3) "Judge", any municipal, associate, circuit, or appellate judge;
+7 (4) "Law enforcement officer", any commissioned peace officer with the power
+8 to arrest for a violation of the criminal code who is employed by any unit of the state or
+9 any county, charter county, city, charter city, municipality, district, college, university,
+10 or any other political subdivision or is employed by the board of police commissioners as
+11 defined in chapter 84;
+12 (5) "Shielded", a prohibition against the general public's electronic access to
+13 eligible documents and access to residential address and phone number information
+14 contained in indexes for eligible documents.
+15 2. Notwithstanding any other provision of law, in any county an eligible person
+16 may request that the general public be prohibited from accessing that person's
+17 residential address and telephone number that are contained in instruments, writings,
+18 and information maintained by the county clerk under chapter 51, collector under
+19 chapter 52, assessor under chapter 53, treasurer under chapter 54, or auditor under
+20 chapter 55.
+21 3. An eligible person may request this action by filing an affidavit that states the
+22 person's full legal name and residential address on an application form developed by the
+23 office of the state courts administrator in agreement with an association of counties, an
+24 organization of peace officers, and the motor vehicle and driver licensing division of the
+25 department of revenue.
+26 4. If an eligible person is also requesting that the general public be prohibited
+27 from accessing records maintained by the county collector under section 59.670, the
+28 eligible person may combine the request with the request filed under subsection 3 of this
+29 section by filing one affidavit. The affidavit and subsequent action by the appropriate
+30 authorities shall meet the requirements of this section and section 59.670.
+31 5. An affidavit filed under subsection 3 or 4 of this section shall be filed with the
+32 presiding judge in the county where the eligible person resides. The presiding judge
+33 shall review the affidavit to determine whether the action requested shall be granted. If
+34 the presiding judge concludes that the affidavit meets the requirements of this section
+35 and that the action requested by the affiant will reduce a danger to the life or safety of
+36 the affiant or another person, the presiding judge shall issue a court order instructing
+37 the county officer to shield the affiant's eligible documents listed on the affidavit. Any
+38 court order for record shielding shall expire five years from the date of issuance. An
+
+HB 2851 5
+39 eligible person may submit an affidavit for a new court order to continue record
+40 shielding upon expiration of a previous order.
+41 6. The clerk of the court shall file the court order and send a copy of such order
+42 and the affidavit to the applicable county officer in each county listed on the affidavit.
+43 Not more than ten business days after the date on which the county officer receives the
+44 court order and affidavit, the county officer shall shield the eligible documents listed on
+45 the affidavit.
+46 7. On motion to the court, the court may temporarily stay or permanently vacate
+47 all or part of the court order if the court determines that:
+48 (1) An instrument or document has been shielded in error;
+49 (2) The original affiant no longer lives at the address listed in the original
+50 affidavit;
+51 (3) The cause for the original affidavit no longer exists; or
+52 (4) Temporary access to the instrument or document is needed.
+53 8. The county officer shall remove shielding for all records under this section on
+54 the first Thursday of June in the year after an order expires. The county officer may
+55 electronically send notice to the email address listed on the affidavit six months before
+56 the date the address shielding will terminate.
+57 9. The provisions of this section shall not prohibit access to county records by:
+58 (1) Parties to an instrument;
+59 (2) A law enforcement officer in performance of official duties when the officer
+60 provides a subpoena, court order, or search warrant for the records;
+61 (3) Licensed attorneys;
+62 (4) A person with a notarized release from the party to the instrument or a court
+63 order; or
+64 (5) County, state, or local government offices with authority to access the records
+65 under state or local law, rule, or regulation.
+66 10. No county officer shall be liable for any damages under this section, provided
+67 the county officer made a good faith effort to comply with the provisions of this section.
+68 No county officer shall be liable for the release of any eligible document or any data
+69 from any eligible document that was released or accessed prior to the document being
+70 shielded under this section.
+71 11. The provisions of this section shall take effect June 1, 2027.
+✔
+
+[DELETED:  B N 2IJ a c 5 a 6 R b a t t n s r t A C 5 a 6 R a a b a t t ns T"2 F( "l( "( " i b l i o or( "0( "1t2a3o4d5( "6e7i—M i e]
+[DELETED: 83 N9m0a1c2r a a t n c i i o w3r44 A5f o a a f d b t o o t s c6a7o a t m v a d l d o t d o8r9( T0( T1( T2f3(4r s t i t d l n a t p5i65 I7f8a9r T0s1s26 A3p T4s I5t6a7t8t A9c A0e p m s a a f a n c o t c r1s273a N4m ]
+[DELETED: 5c6o T78 O8a9( A0( T o a n l l a t a l i t o1a2( T3( T49 T5o T6s7b81 I o t i s e d i a c o t9e0c T1s21 T3r4( P5( A6p7( A t i t i a o a e a l b t8d9( L0( A1o2( C3u41 N c r s b l f a d u t s5p6s N7a d f a e d t w r o a p t t8d91 1 F ]
+[DELETED: ( "la( "( "( "ta0o1d2( "3e d a a t r a a p n i4c52 N6m r t t g p b p f a t p7r8a i m b t c c u c 5 c u9c0c13 A2p3o4o5d64 I7f a r m b t c c u s 5 t8e9s T0a15 A2p T3s I4t5a6t7t A8c A ]
+[DELETED: 9e p m s a a f a n c o t c r0s16 T2a3N4c5t67 O7a8( A9( T o a n l l a t a l i t o0a1( T2( T38 T4t T5e6t79 T8( P9( A0p1( L2( A3o4( C5u61 N7t8N9f0s11 T ]
