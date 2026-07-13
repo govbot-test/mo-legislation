@@ -1,0 +1,169 @@
+Title: HOUSE BILL NO. 2471
+Official Title: HOUSE BILL NO. 2471
+Number of Sections: 3
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE FARNAN.
+5941H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapter 354, RSMo, by adding thereto one new section relating to dental plans.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+
+Section 2:
+Section A. Chapter 354, RSMo, is amended by adding thereto one new section, to be
+2 known as section 354.718, to read as follows:
+
+Section 3:
+354.718. 1. As used in this section, the following terms mean:
+2 (1) "Dental loss ratio", the percentage of the amount of premiums received by a
+3 dental plan expended on actual patient care rather than overhead or administrative
+4 costs, as determined by the following fraction:
+5 (a) The numerator shall be the amount expended for clinical dental services
+6 provided to dental plan enrollees, including payments under capitation contracts with
+7 dental providers, during the reporting year together with unpaid claim reserves for
+8 dental services performed during the reporting year but not yet paid. The numerator
+9 shall not include:
+10 a. Administrative costs including, but not limited to, infrastructure costs,
+11 personnel costs, or broker payments;
+12 b. Amounts paid to third-party vendors for secondary network savings;
+13 c. Amounts paid to third-party vendors for network development,
+14 administrative fees, claims processing, and utilization management;
+15 d. Amounts paid to providers for professional or administrative services that do
+16 not represent compensation or reimbursement for covered services provided to an
+17 enrollee including, but not limited to, dental record copying costs, attorney's fees,
+18 subrogation vendor fees, and compensation to paraprofessionals, janitors, quality
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+HB 2471 2
+19 assurance analysts, administrative supervisors, secretaries to dental personnel, and
+20 dental record clerks; or
+21 e. Overpayments made by the provider that were recovered by the dental plan
+22 and not previously reported on any dental loss ratio report; and
+23 (b) The denominator shall be all earned premiums received by the dental plan
+24 for dental services, excluding federal and state taxes; licensing fees; regulatory fees;
+25 payments or receipts for risk adjustment, risk corridors, and reinsurance; community
+26 benefit expenditures, as defined in 45 CFR 158.162(c); and any other payments required
+27 by federal law;
+28 (2) "Dental plan", any health benefit plan, or portion of a health benefit plan,
+29 that issues, sells, renews, or offers a contract covering dental care services. The term
+30 "dental plan" shall not include any health benefit plan for health care services under
+31 MO HealthNet, the state children's health insurance program authorized in sections
+32 208.631 to 208.658, or any other state-sponsored health insurance program.
+33 2. (1) A dental plan shall file with the department of commerce and insurance a
+34 dental loss ratio report for each calendar year during which the dental plan provided
+35 dental coverage containing the same information as required in the 2013 federal dental
+36 loss ratio annual reporting form (CMS-10418). All terms used in the dental loss ratio
+37 annual report shall have the same meanings as used in the federal Public Health Service
+38 Act, 42 U.S.C. Section 300gg-18, and 45 CFR Part 158.
+39 (2) The dental loss ratio report shall be filed before March first of each year for
+40 the previous calendar year. If the department of commerce and insurance requires data
+41 verification of the dental loss ratio report, it shall give the dental plan thirty days' notice
+42 of the additional information and data required to be submitted to the department. The
+43 dental plan shall submit the information requested within thirty days of such notice.
+44 The department shall be deemed to have approved all dental loss ratio reports within
+45 ninety days of the filing of the reports unless a dental plan is notified otherwise.
+46 (3) The department of commerce and insurance shall make available to the
+47 public all the data provided to the department in accordance with this section.
+48 3. A dental plan shall provide an annual rebate to each enrollee, on a pro rata
+49 basis, to the extent the dental loss ratio is less than eighty-five percent before August
+50 first of the year following the year for which the dental loss ratio report was issued. The
+51 total annual rebate is the excess revenue expended by the dental plan on overhead or
+52 administrative costs, as determined by the amount by which the denominator of the
+53 dental loss ratio exceeds the numerator.
+HB 2471 3
+54 4. Any failure to rebate the amount prescribed in subsection 3 of this section by a
+55 dental plan not required to be licensed by the department of commerce and insurance
+56 shall be deemed an unlawful practice under section 407.020.
+✔
+[DELETED:  B N 2IJ Ck 1 A(d p e o a p c r t o ac( T n s b t a e f d spd p d t r y t w u c r fd Ts0a A c i b n l t i c1p2b A3c p t t v f n d4a5d A6n r c o r f c s p t a7e i b n l t d r c c a f8s v f a c t p j q—M i e]
+[DELETED: 9a a a s s t d p a0d1e O2a3( T4f d s e f a s t l f r f5p6b7b8( "9t T0"1M H t s c h i p a i s2232 ( A4d5d6l A7a8A9( T0t I1v2o T3d4T5n6( T d o c a i s m a t t7p83 A9b0f T1t2a3d ]
+[DELETED: 44 A5d6s ]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+HOUSE BILL NO. 2471
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE FARNAN.
+5941H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapter 354, RSMo, by adding thereto one new section relating to dental plans.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Chapter 354, RSMo, is amended by adding thereto one new section, to be
+2 known as section 354.718, to read as follows:
+354.718. 1. As used in this section, the following terms mean:
+2 (1) "Dental loss ratio", the percentage of the amount of premiums received by a
+3 dental plan expended on actual patient care rather than overhead or administrative
+4 costs, as determined by the following fraction:
+5 (a) The numerator shall be the amount expended for clinical dental services
+6 provided to dental plan enrollees, including payments under capitation contracts with
+7 dental providers, during the reporting year together with unpaid claim reserves for
+8 dental services performed during the reporting year but not yet paid. The numerator
+9 shall not include:
+10 a. Administrative costs including, but not limited to, infrastructure costs,
+11 personnel costs, or broker payments;
+12 b. Amounts paid to third-party vendors for secondary network savings;
+13 c. Amounts paid to third-party vendors for network development,
+14 administrative fees, claims processing, and utilization management;
+15 d. Amounts paid to providers for professional or administrative services that do
+16 not represent compensation or reimbursement for covered services provided to an
+17 enrollee including, but not limited to, dental record copying costs, attorney's fees,
+18 subrogation vendor fees, and compensation to paraprofessionals, janitors, quality
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 2471 2
+19 assurance analysts, administrative supervisors, secretaries to dental personnel, and
+20 dental record clerks; or
+21 e. Overpayments made by the provider that were recovered by the dental plan
+22 and not previously reported on any dental loss ratio report; and
+23 (b) The denominator shall be all earned premiums received by the dental plan
+24 for dental services, excluding federal and state taxes; licensing fees; regulatory fees;
+25 payments or receipts for risk adjustment, risk corridors, and reinsurance; community
+26 benefit expenditures, as defined in 45 CFR 158.162(c); and any other payments required
+27 by federal law;
+28 (2) "Dental plan", any health benefit plan, or portion of a health benefit plan,
+29 that issues, sells, renews, or offers a contract covering dental care services. The term
+30 "dental plan" shall not include any health benefit plan for health care services under
+31 MO HealthNet, the state children's health insurance program authorized in sections
+32 208.631 to 208.658, or any other state-sponsored health insurance program.
+33 2. (1) A dental plan shall file with the department of commerce and insurance a
+34 dental loss ratio report for each calendar year during which the dental plan provided
+35 dental coverage containing the same information as required in the 2013 federal dental
+36 loss ratio annual reporting form (CMS-10418). All terms used in the dental loss ratio
+37 annual report shall have the same meanings as used in the federal Public Health Service
+38 Act, 42 U.S.C. Section 300gg-18, and 45 CFR Part 158.
+39 (2) The dental loss ratio report shall be filed before March first of each year for
+40 the previous calendar year. If the department of commerce and insurance requires data
+41 verification of the dental loss ratio report, it shall give the dental plan thirty days' notice
+42 of the additional information and data required to be submitted to the department. The
+43 dental plan shall submit the information requested within thirty days of such notice.
+44 The department shall be deemed to have approved all dental loss ratio reports within
+45 ninety days of the filing of the reports unless a dental plan is notified otherwise.
+46 (3) The department of commerce and insurance shall make available to the
+47 public all the data provided to the department in accordance with this section.
+48 3. A dental plan shall provide an annual rebate to each enrollee, on a pro rata
+49 basis, to the extent the dental loss ratio is less than eighty-five percent before August
+50 first of the year following the year for which the dental loss ratio report was issued. The
+51 total annual rebate is the excess revenue expended by the dental plan on overhead or
+52 administrative costs, as determined by the amount by which the denominator of the
+53 dental loss ratio exceeds the numerator.
+
+HB 2471 3
+54 4. Any failure to rebate the amount prescribed in subsection 3 of this section by a
+55 dental plan not required to be licensed by the department of commerce and insurance
+56 shall be deemed an unlawful practice under section 407.020.
+✔
+
+[DELETED:  B N 2IJ Ck 1 A(d p e o a p c r t o ac( T n s b t a e f d spd p d t r y t w u c r fd Ts0a A c i b n l t i c1p2b A3c p t t v f n d4a5d A6n r c o r f c s p t a7e i b n l t d r c c a f8s v f a c t p j q—M i e]
+[DELETED: 9a a a s s t d p a0d1e O2a3( T4f d s e f a s t l f r f5p6b7b8( "9t T0"1M H t s c h i p a i s2232 ( A4d5d6l A7a8A9( T0t I1v2o T3d4T5n6( T d o c a i s m a t t7p83 A9b0f T1t2a3d ]
+[DELETED: 44 A5d6s ]

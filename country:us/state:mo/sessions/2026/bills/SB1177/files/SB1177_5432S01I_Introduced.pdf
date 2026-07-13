@@ -1,0 +1,497 @@
+SECOND REGULAR SESSION
+SENATE BILL NO. 1177
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR FITZWATER.
+5432S.01I KRISTINA MARTIN, Secretary
+AN ACT
+To amend chapter 409, RSMo, by adding thereto two new sections relating to the regulation of
+digital assets.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Chapter 409, RSMo, is amended by adding thereto
+2 two new sections, to be known as sections 409.450 and 409.455,
+3 to read as follows:
+1 409.450. 1. For purposes of this section and section
+2 409.455, the following terms mean:
+3 (1) "Bank", any entity subject to chapter 362;
+4 (2) "Commissioner", Missouri commissioner of
+5 securities;
+6 (3) "Custodial services", the safekeeping, servicing,
+7 and management of customer currency and digital assets.
+8 This term includes the exercise of fiduciary and trust
+9 powers involving the exercise of discretion, including
+10 transactions under subdivision (5) of this subsection;
+11 (4) "Digital asset", a representation of economic,
+12 proprietary, or access rights that is stored in a computer
+13 readable format and is either a digital consumer asset,
+14 digital security, or virtual currency;
+15 (5) "Digital consumer asset", a digital asset that is
+16 used or bought primarily for consumptive, personal, or
+17 household purposes and includes:
+
+SB 1177 2
+18 (a) An open blockchain token constituting intangible
+19 personal property as otherwise provided by law; and
+20 (b) Any other digital asset which does not fall within
+21 subdivisions (5) and (9) of this subsection;
+22 (6) "Digital security", a digital asset which
+23 constitutes a security, as defined in section 409.1-102, but
+24 shall exclude digital consumer assets and virtual currency;
+25 (7) "Private key", a unique element of cryptographic
+26 data, or any substantially similar analogue, which is:
+27 (a) Held by a person;
+28 (b) Paired with a unique, publicly available element
+29 of cryptographic data; and
+30 (c) Associated with an algorithm that is necessary to
+31 carry out an encryption or decryption required to execute a
+32 transaction;
+33 (8) "Secretary", the secretary of state;
+34 (9) "Virtual currency", a digital asset that is:
+35 (a) Used as a medium of exchange, unit of account, or
+36 store of value; and
+37 (b) Not recognized as legal tender by the United
+38 States government.
+39 2. (1) Digital assets are classified in the following
+40 manner:
+41 (a) Digital consumer assets are intangible personal
+42 property and shall be considered general intangibles, as
+43 defined in section 400.9-102, only for the purposes of
+44 article 9 of chapter 400;
+45 (b) Digital securities are intangible personal
+46 property and shall be considered securities, as defined in
+47 section 400.8-102, and investment property, as defined in
+48 section 400.9-102, only for the purposes of articles 8 and 9
+49 of chapter 400;
+
+SB 1177 3
+50 (c) Virtual currency is intangible personal property
+51 and shall be considered money, notwithstanding any provision
+52 of law to the contrary, only for the purposes of article 9
+53 of chapter 400.
+54 (2) Consistent with section 400.8-102, a digital asset
+55 may be treated as a financial asset under that section,
+56 pursuant to an agreement with the owner of the digital
+57 asset. If treated as a financial asset, the digital asset
+58 shall remain intangible personal property.
+59 (3) A bank providing custodial services shall be
+60 considered to meet the requirements of section 400.8-102.
+61 (4) Classification of digital assets under this
+62 subsection shall be construed in a manner to give the
+63 greatest effect to this section, but shall not be construed
+64 to apply to any other asset.
+65 3. (1) Notwithstanding the financing statement
+66 requirement specified by section 400.9-310 as otherwise
+67 applied to general intangibles or any other provision of
+68 law, perfection of a security interest in virtual currency
+69 or digital securities may be achieved through possession or
+70 control, as applicable to the asset. A security interest
+71 held by a secured party having possession or control, as
+72 applicable, of virtual currency or digital securities has
+73 priority over a security interest held by a secured party
+74 that does not have possession or control, as applicable, of
+75 virtual currency or digital securities. Other provisions of
+76 law relating to priority of security interests, including
+77 priority of control over delivery, shall remain applicable.
+78 (2) Before a secured party may take possession or
+79 control under this section, the secured party shall enter
+80 into a security agreement with the debtor. The security
+81 agreement may set forth the terms under which a secured
+
+SB 1177 4
+82 party may pledge its security interest as collateral for
+83 another transaction. Consistent with section 400.9-201, the
+84 security agreement shall be effective according to its terms
+85 between parties, against purchasers of collateral, and
+86 against creditors.
+87 (3) If a debtor is located in this state, a secured
+88 party may file a financing statement with the commissioner
+89 to perfect a security interest in digital consumer assets or
+90 digital securities, including to perfect a security interest
+91 in proceeds pursuant to section 400.9-315.
+92 (4) Notwithstanding any other provision of law,
+93 including article 9 of chapter 400, a transferee takes a
+94 digital asset free of any security interest two years after
+95 the transferee takes the asset for value and does not have
+96 actual notice of an adverse claim. This subdivision only
+97 applies to a security interest perfected by filing.
+98 (5) For purposes of this subsection, the following
+99 terms mean:
+100 (a) "Control",
+101 a. Includes the following:
+102 (i) A secured party, or an agent, custodian,
+103 fiduciary, or trustee of the party, has complied with
+104 section 400.8-106, including by means of a private key or
+105 the use of a multi-signature arrangement exclusive to the
+106 secured party or any substantially similar analogue;
+107 (ii) Use of a smart contract created by a secured
+108 party to comply with section 400.8-106. As used in this
+109 subparagraph, "smart contract" means a transaction conducted
+110 or performed, in whole or in part, by electronic means or
+111 electronic records, in which the acts or records of one or
+112 both parties are not reviewed by an individual in the
+113 ordinary course in forming a contract, performing under an
+
+SB 1177 5
+114 existing contract or fulfilling an obligation required by
+115 the transaction, or any substantially similar analogue,
+116 which is comprised of code, script, or programming language
+117 that executes the terms of an agreement, and which may
+118 include taking custody of and transferring an asset, or
+119 issuing executable instructions for these actions, based on
+120 the occurrence or nonoccurrence of specified conditions;
+121 b. This definition shall apply to article 9 of chapter
+122 400;
+123 (b) "Multi-signature arrangement", a system of access
+124 control relating to a digital asset for the purposes of
+125 preventing unauthorized transactions relating to the asset,
+126 in which two or more private keys are required to conduct a
+127 transaction, or any substantially similar analogue;
+128 (c) "Possession", the ability to exclude others from
+129 the use of property, and includes use of a private key, a
+130 multi-signature arrangement exclusive to the secured party
+131 or a smart contract, as defined in this subdivision, or any
+132 substantially similar analogue. "Possession" also includes
+133 delivery of certificated digital securities, consistent with
+134 section 400.8-301. This definition shall apply to article 9
+135 of chapter 400.
+136 (6) Perfection by possession creates a possessory
+137 security interest under subdivision (2) of section 400.9-301
+138 in virtual currency or certificated digital securities,
+139 based on the possessory nature of a private key or any
+140 substantially similar analogue, which may be tangible or
+141 electronic.
+142 (7) For purposes of article 9 of chapter 400 and this
+143 subsection, if collateral is required to be "located in a
+144 jurisdiction", a digital asset is located in this state if
+145 the asset is possessed or controlled by a Missouri bank, or
+
+SB 1177 6
+146 other custodian, the debtor or secured party is physically
+147 located in this state, or the debtor or secured party is
+148 incorporated or organized in Missouri, based on the
+149 following factors:
+150 (a) Whether a security agreement typically
+151 accompanying a possessory security interest or other secured
+152 transaction exists, consistent with subsection (a) of
+153 section 400.9-201, including an agreement describing the
+154 possessory nature of a private key or any substantially
+155 similar analogue;
+156 (b) Choice of law in a security agreement, evidencing
+157 the intent and understanding of the parties relating to a
+158 transaction, including waivers of litigation in
+159 jurisdictions other than Missouri and judicial economy; and
+160 (c) The relative clarity of the laws of other
+161 jurisdictions relating to a digital asset, consequences
+162 relating to unknown liens in those jurisdictions, and the
+163 ability of a court to exercise jurisdiction over a
+164 particular digital asset.
+165 4. (1) A bank may provide custodial services for
+166 digital assets consistent with this subsection upon
+167 providing sixty days written notice to the commissioner. If
+168 a bank elects to provide custodial services for digital
+169 assets, it shall comply with all provisions of this
+170 subsection.
+171 (2) A bank may serve as a qualified custodian, as
+172 specified by the United States securities and exchange
+173 commission in 17 C.F.R. Section 275.206(4)-2, or as a
+174 custodian authorized by the United States commodity futures
+175 trading commission or other law. In performing custodial
+176 services under this subsection, a bank shall:
+
+SB 1177 7
+177 (a) Implement all accounting, account statement,
+178 internal control, notice, and other standards specified by
+179 applicable state or federal law and rules for custodial
+180 services;
+181 (b) Maintain information technology best practices
+182 relating to digital assets held in custody. The
+183 commissioner may specify required best practices by rule;
+184 (c) Fully comply with applicable federal anti-money
+185 laundering, customer identification, and beneficial
+186 ownership requirements; and
+187 (d) Take other actions necessary to carry out this
+188 subsection, which may include exercising fiduciary powers
+189 similar to those permitted to national banks and ensuring
+190 compliance with federal law governing digital assets
+191 classified as commodities.
+192 (3) A bank providing custodial services shall conform
+193 to the audit, accounting, and related requirements specified
+194 by the commissioner and applicable law, which may include
+195 entering into an agreement with an independent public
+196 accountant to conduct an examination conforming to the
+197 requirements of 17 C.F.R. Section 275.206(4)-2(a)(4) and
+198 (6), at the cost of the bank. An accountant shall transmit
+199 the results of any examination to the commissioner within
+200 one hundred twenty days of the examination and may file the
+201 results with other regulatory agencies as their rules may
+202 provide. Material discrepancies in an examination shall be
+203 reported to the commissioner within one day. The
+204 commissioner shall review examination results upon receipt
+205 within a reasonable time.
+206 (4) Digital assets held in custody under this
+207 subsection are not liabilities or assets of the bank. A
+208 bank, or a subsidiary, may register as an investment
+
+SB 1177 8
+209 adviser, investment company or broker dealer, as necessary.
+210 A bank shall maintain possession or control, as applicable,
+211 over a digital asset while in custody. A customer shall
+212 elect, pursuant to a written agreement with the bank, one of
+213 the following relationships for each digital asset held in
+214 custody:
+215 (a) Custody under a bailment as a nonfungible or
+216 fungible asset. Assets held under this paragraph shall be
+217 strictly segregated from other assets; or
+218 (b) Custody pursuant to subdivision (5) of this
+219 subsection.
+220 (5) If a customer makes an election under paragraph
+221 (b) of subdivision (4) of this subsection, the bank may,
+222 based only on customer instructions, undertake transactions
+223 with the digital asset. A bank is deemed to maintain
+224 possession or control pursuant to subdivision (4) of this
+225 subsection by entering into an agreement with the
+226 counterparty to a transaction which contains a time for
+227 return of the asset and other customary terms in securities
+228 or commodities transactions. The bank shall not be liable
+229 for any loss suffered with respect to a transaction under
+230 this subsection, except for liability consistent with
+231 fiduciary and trust powers.
+232 (6) A bank and a customer shall agree in writing
+233 regarding the source code version the bank will use for each
+234 digital asset, and the treatment of each asset under chapter
+235 400, if necessary. Any ambiguity under this subdivision
+236 shall be resolved in favor of the customer.
+237 (7) A bank shall provide clear, written notice to each
+238 customer, and require written acknowledgement, of the
+239 following:
+
+SB 1177 9
+240 (a) Prior to the implementation of any updates,
+241 material source code updates relating to digital assets held
+242 in custody, except in emergencies which may include security
+243 vulnerabilities;
+244 (b) The heightened risk of loss from transactions
+245 under subdivision (5) of this subsection;
+246 (c) That some risk of loss as a pro rata creditor
+247 exists as the result of custody as a fungible asset or
+248 custody under paragraph (b) of subdivision (4) of this
+249 subsection;
+250 (d) That custody under paragraph (b) of subdivision
+251 (4) of this subsection may not result in the digital assets
+252 of the customer being strictly segregated from other
+253 customer assets; and
+254 (e) That the bank is not liable for losses suffered
+255 under subdivision (5) of this subsection, except for
+256 liability consistent with fiduciary and trust powers.
+257 (8) A bank and a customer shall agree in writing to a
+258 time period within which the bank must return a digital
+259 asset held in custody under this section. If a customer
+260 makes an election under paragraph (b) of subdivision (4) of
+261 this subsection, the bank and the customer may also agree in
+262 writing to the form in which the digital asset shall be
+263 returned.
+264 (9) All ancillary or subsidiary proceeds relating to
+265 digital assets held in custody under this section shall
+266 accrue to the benefit of the customer, except as specified
+267 by a written agreement with the customer. The bank may
+268 elect not to collect certain ancillary or subsidiary
+269 proceeds, as long as the election is disclosed in writing.
+270 A customer who makes an election under paragraph (b) of
+271 subdivision (4) of this subsection may withdraw the digital
+
+SB 1177 10
+272 asset in a form that permits the collection of the ancillary
+273 or subsidiary proceeds.
+274 (10) A bank shall not authorize or permit
+275 rehypothecation of digital assets under this subsection.
+276 The bank shall not engage in any activity to use or exercise
+277 discretionary authority relating to a digital asset except
+278 based on customer instructions.
+279 (11) A bank shall not take any action under this
+280 section which would likely impair the solvency or the safety
+281 and soundness of the bank, as determined by the commissioner
+282 after considering the nature of custodial services customary
+283 in the banking industry.
+284 (12) The commissioner may adopt rules to implement
+285 this section. Any rule or portion of a rule, as that term
+286 is defined in section 536.010, that is created under the
+287 authority delegated in this section shall become effective
+288 only if it complies with and is subject to all of the
+289 provisions of chapter 536 and, if applicable, section
+290 536.028. This section and chapter 536 are nonseverable and
+291 if any of the powers vested with the general assembly
+292 pursuant to chapter 536 to review, to delay the effective
+293 date, or to disapprove and annul a rule are subsequently
+294 held unconstitutional, then the grant of rulemaking
+295 authority and any rule proposed or adopted after August 28,
+296 2026, shall be invalid and void.
+297 (13) A bank may provide custodial services for
+298 stablecoin reserves, provided those custodial services are
+299 consistent with this section and the rules and regulations
+300 of the commissioner.
+301 (14) A supervised trust company that is chartered in
+302 this state may provide all the services provided in this
+
+SB 1177 11
+303 section if it complies with the provisions of this section
+304 and the rules and regulations of the commissioner.
+305 5. Except as otherwise provided by law, the courts of
+306 Missouri shall have jurisdiction to hear claims in both law
+307 and equity relating to digital assets, including those
+308 arising from this section and chapter 400.
+1 409.455. 1. (1) The lawful owner of any digital
+2 asset or the lawful owner's agent may register the digital
+3 asset with the secretary in accordance with this section.
+4 Digital assets registered with the secretary shall be deemed
+5 to be located within the state for purposes of all laws and
+6 regulations of this state, or any applicable federal laws
+7 not in conflict with this section or section 409.450, which
+8 may impact ownership rights of the digital asset or require
+9 transfer of the digital asset.
+10 (2) Following approval of an application for
+11 registration of a digital asset, the secretary shall provide
+12 a registration certificate cryptographically signed by the
+13 secretary for each registered digital asset that may be
+14 attached to or otherwise associated with the digital asset.
+15 (3) Nothing in this section or section 409.450 shall
+16 be construed to confer any ownership, property or other
+17 rights related to digital assets beyond those specifically
+18 granted in such sections.
+19 2. (1) Subject to the limitations set forth in this
+20 section, any person may submit an application to the
+21 secretary in the form and containing information as
+22 prescribed by the secretary, for registration of a digital
+23 asset. The application shall contain, at minimum, the
+24 following information:
+25 (a) The name and address of the person applying for
+26 registration;
+
+SB 1177 12
+27 (b) The nature of the digital asset and sufficient
+28 information to identify the digital asset;
+29 (c) A statement that the applicant is the lawful owner
+30 of the digital asset or the lawful owner's agent and that to
+31 the knowledge of the applicant no other person has a
+32 current, valid registration of the digital asset either in
+33 this state or in any other jurisdiction; and
+34 (d) Cryptographic proof that the lawful owner has
+35 control of the digital asset at the time of application.
+36 (2) The application shall be signed and verified by
+37 oath, affirmation, or declaration, under penalty of perjury,
+38 by the applicant.
+39 (3) The application for registration shall be
+40 accompanied by a registration fee prescribed in subsection 8
+41 of this section, which registration fee shall not exceed
+42 five hundred dollars and shall be payable to the secretary.
+43 (4) The applicant shall be a resident of this state,
+44 if the applicant is a natural person. In the case of a
+45 business entity, the applicant shall be incorporated or
+46 organized in this state.
+47 3. Upon the filing of a complete application for
+48 registration and payment of the registration fee, the
+49 application shall be deemed approved and the digital asset
+50 registered pursuant to this section unless the secretary
+51 causes the application to be examined for conformity with
+52 this section subject to the following:
+53 (1) The applicant shall provide any additional
+54 information requested by the secretary and may make or
+55 authorize the secretary to make necessary amendments to the
+56 application as may be reasonably requested by the secretary
+57 or deemed by the applicant to be advisable to respond to any
+58 rejection or objection to the application;
+
+SB 1177 13
+59 (2) The secretary may revise the application with
+60 agreement of the applicant or may require the applicant to
+61 submit a revised application;
+62 (3) If the applicant is found not to meet the
+63 registration requirements, the secretary shall advise the
+64 applicant of the reasons. The applicant shall have a
+65 reasonable period of time specified by the secretary in
+66 which to reply or to amend the application, in which event
+67 the application shall be reexamined. This procedure may be
+68 repeated until:
+69 (a) The secretary finally refuses registration of the
+70 digital asset; or
+71 (b) The applicant fails to reply or amend within the
+72 specified period, whereupon the application shall be deemed
+73 to have been abandoned.
+74 4. (1) Registration of a digital asset is effective
+75 for a term of five years from the date of registration.
+76 Upon application filed within six months prior to the
+77 expiration of the registration term and in a manner
+78 complying with the requirements of the secretary, the
+79 registration may be renewed for a term of five years from
+80 the end of the expiring term. The renewal fee shall be set
+81 in accordance with subsection 8 of this section, but shall
+82 not exceed two hundred fifty dollars and shall be submitted
+83 with the application for renewal of the registration.
+84 (2) A digital asset registration may be renewed for
+85 successive periods of five years under this section.
+86 5. The secretary shall keep for public examination a
+87 record of all registered digital assets under this section.
+88 6. A digital asset shall no longer be deemed
+89 registered and the secretary shall cancel from the register:
+
+SB 1177 14
+90 (1) Any registration upon a voluntary request for
+91 cancellation thereof from the lawful owner of the digital
+92 asset or his agent and payment of a fee set in accordance
+93 with subsection 8 of this section, but not to exceed thirty
+94 dollars;
+95 (2) Any registration that is not renewed under this
+96 section;
+97 (3) Any registration if a court of competent
+98 jurisdiction finds:
+99 (a) That the registration was granted improperly; or
+100 (b) That the registration was obtained fraudulently;
+101 (4) Any registration when a court of competent
+102 jurisdiction orders cancellation of a registration on any
+103 ground.
+104 7. Any person, whether on his or her own behalf or on
+105 behalf of any other person, files or registers any digital
+106 asset in the office of the secretary under the provisions of
+107 this section by knowingly making any false or fraudulent
+108 representation or declaration, orally or in writing, or by
+109 any other means, shall be liable to pay all damages
+110 sustained in consequence of the filing or registration, to
+111 be recovered by or on behalf of the injured party in any
+112 court of competent jurisdiction.
+113 8. (1) The secretary shall have all powers reasonably
+114 necessary to perform the duties required by this section
+115 including the promulgation of rules and regulations
+116 necessary to carry out the purposes of this article. Any
+117 rule or portion of a rule, as that term is defined in
+118 section 536.010, that is created under the authority
+119 delegated in this section shall become effective only if it
+120 complies with and is subject to all of the provisions of
+121 chapter 536 and, if applicable, section 536.028. This
+
+SB 1177 15
+122 section and chapter 536 are nonseverable and if any of the
+123 powers vested with the general assembly pursuant to chapter
+124 536 to review, to delay the effective date, or to disapprove
+125 and annul a rule are subsequently held unconstitutional,
+126 then the grant of rulemaking authority and any rule proposed
+127 or adopted after August 28, 2026, shall be invalid and void.
+128 (2) The secretary shall set and collect registration,
+129 service, and copying fees to recover the costs of providing
+130 these services and administering this section. Fees shall
+131 not exceed the costs of providing these services and
+132 administering this section.
+✓
+
+[DELETED:  K.1.F    )")" )"    )"   )"  ]
+[DELETED: S)A )A )"  )"  )H)P )A   )" )")U )N .()D   )D   )D    ]
+[DELETED: S)V   )C   .I )A )C   .()N       .A     .O  )B  .T  ]
+[DELETED: S .C   )I    )N    .T )F  )" .I)A    )U .A      ]
+[DELETED: S      .T )"    )"    ."  .T )P     )F    ]
+[DELETED: S   )W     )C   )T    .()A    .I   )A    .I ]
+[DELETED: S)I   )M .T )F  )T    )A      .A    .M .T  )D .A  ]
+[DELETED: S  .A   )C .A )C )I   .A     .T   )A   .A )A  ]
+[DELETED: S)P   )T )T  )o )T   )T  )A  .I    )A   .T     ]
+[DELETED: S )A    )A    )T .A     .T      )A   )A  ]
+[DELETED: S .E   .1.()T            )F    )N   .()S      .T )T ]
+[DELETED: S)T )A    )C )T  )T   )T .I  .U     )T     ]
+[DELETED: S)T  )I  .T   .T )T )T  .()R        .T   )A .T .A ]
+[DELETED: S)A    )A )A  )T )T)A  .A        .()T     .A     .T ]
+[DELETED: S     )T  .F  ]

@@ -1,0 +1,551 @@
+Title: HOUSE BILL NO. 2147
+Official Title: HOUSE BILL NO. 2147
+Number of Sections: 7
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE WILSON.
+4445H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To repeal sections 407.1095, 407.1098, 407.1101, and 407.1104, RSMo, and to enact in lieu
+thereof five new sections relating to electronic communications, with penalty
+provisions.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+
+Section 2:
+Section A. Sections 407.1095, 407.1098, 407.1101, and 407.1104, RSMo, are
+2 repealed and five new sections enacted in lieu thereof, to be known as sections 407.1095,
+3 407.1098, 407.1101, 407.1104, and 407.1115, to read as follows:
+
+Section 3:
+407.1095. As used in sections 407.1095 to 407.1110, the following words and phrases
+2 mean:
+3 (1) "Business subscriber", a person or entity that, for business use, has
+4 subscribed to telephone service, wireless service, or other similar service;
+5 (2) "Call spoofing", the practice by a calling party or any caller identification
+6 service of knowingly transmitting misleading or inaccurate caller identification
+7 information with the intent to defraud, cause harm, harass, or wrongfully obtain
+8 anything of value;
+9 (3) "Caller identification service", a type of telephone service which permits
+10 telephone subscribers to see the telephone number of incoming telephone calls;
+11 [(2)] (4) "Residential subscriber", a person who, for [primarily] personal and familial
+12 use, has subscribed to residential telephone service, wireless service or similar service, or the
+13 other persons living or residing with such person;
+14 [(3)] (5) "Seller", the same as defined in section 407.1070;
+15 (6) "Telemarketer", the same as defined in section 407.1070;
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+HB 2147 2
+16 (7) "Telephone solicitation", any voice, facsimile, short messaging service (SMS), or
+17 multimedia messaging service (MMS), for the purpose of encouraging the purchase or rental
+18 of, or investment in, property, goods or services, but does not include communications:
+19 (a) To any business subscriber or residential subscriber with that subscriber's prior
+20 express invitation or permission;
+21 (b) By or on behalf of any person or entity with whom a business subscriber or
+22 residential subscriber has had a business contact within the past one hundred eighty days or a
+23 current business or personal relationship;
+24 (c) By or on behalf of an entity organized pursuant to Chapter 501 (c)(3) of the United
+25 States Internal Revenue Code, while such entity is engaged in [fund-raising] fundraising to
+26 support the charitable purpose for which the entity was established provided that a bona fide
+27 member of such exempt organization makes the voice communication;
+28 (d) By or on behalf of any entity over which a federal agency has regulatory authority
+29 to the extent that:
+30 a. Subject to such authority, the entity is required to maintain a license, permit or
+31 certificate to sell or provide the merchandise being offered through telemarketing; and
+32 b. The entity is required by law or rule to develop and maintain a no-call list[;
+33 (e) By a natural person responding to a referral, or working from his or her primary
+34 residence, or a person licensed by the state of Missouri to carry out a trade, occupation or
+35 profession who is setting or attempting to set an appointment for actions relating to that
+36 licensed trade, occupation or profession within the state or counties contiguous to the state].
+
+Section 4:
+407.1098. No person or entity shall make or cause to be made any telephone
+2 solicitation, including via call spoofing,to any business subscriber orresidential subscriber
+3 in this state who has given notice to the attorney general, in accordance with rules
+4 promulgated pursuant to section 407.1101 of such subscriber's objection to receiving
+5 telephone solicitations.
+
+Section 5:
+407.1101. 1. The attorney general shall establish and provide for the operation of a
+2 database to compile a list of telephone numbers of business subscribers and residential
+3 subscribers who object to receiving telephone solicitations. [Such list is not intended to
+4 include any telephone number primarily used for business or commercial purposes.]
+5 2. The attorney general shall promulgate rules and regulations governing the
+6 establishment of a state no-call database as he or she deems necessary and appropriate to fully
+7 implement the provisions of sections 407.1095 to 407.1110. The rules and regulations shall
+8 include those which:
+9 (1) Specify the methods by which each business subscriber or residential subscriber
+10 may give notice to the attorney general or its contractor of his or her objection to receiving
+HB 2147 3
+11 such solicitations or revocation of such notice. There shall be no cost to the subscriber for
+12 joining the database;
+13 (2) Specify the length of time for which a notice of objection shall be effective and
+14 the effect of a change of telephone number on such notice;
+15 (3) Specify the methods by which such objections and revocations shall be collected
+16 and added to the database;
+17 (4) Specify that once a person gives notice of objection, the person shall not have
+18 to renew his or her objection;
+19 (5) Specify the methods by which any person or entity desiring to make telephone
+20 solicitations will obtain access to the database as required to avoid calling the telephone
+21 numbers of business subscribers or residential subscribers included in the database,
+22 including the cost assessed to that person or entity for access to the database; and
+23 [(5)] (6) Specify such other matters relating to the database that the attorney general
+24 deems desirable.
+25 3. If the Federal Communications Commission establishes a single national database
+26 of telephone numbers of subscribers who object to receiving telephone solicitations pursuant
+27 to 47 U.S.C. Section 227(c)(3), the attorney general shall include that part of such single
+28 national database that relates to Missouri in the database established pursuant to this section.
+29 4. Information contained in the database established pursuant to this section shall be
+30 used only for the purpose of compliance with section 407.1098 and this section or in a
+31 proceeding or action pursuant to section 407.1107. Such information shall not be considered
+32 a public record pursuant to chapter 610.
+33 5. In April, July, October and January of each year, the attorney general shall be
+34 encouraged to obtain subscription listings of business subscribers and residential
+35 subscribers in this state who have arranged to be included on any national do-not-call list
+36 and add those telephone numbers to the state do-not-call list.
+37 6. The attorney general may utilize moneys appropriated from general revenue and
+38 moneys appropriated from the merchandising practices revolving fund established in section
+39 407.140 for the purposes of establishing and operating the state no-call database.
+40 7. Any rule or portion of a rule, as that term is defined in section 536.010, that is
+41 created under the authority delegated in sections 407.1095 to 407.1110 shall become effective
+42 only if it complies with and is subject to all of the provisions of chapter 536 and, if applicable,
+43 section 536.028. This section and chapter 536 are nonseverable and if any of the powers
+44 vested with the general assembly pursuant to chapter 536 to review, to delay the effective date
+45 or to disapprove and annul a rule are subsequently held unconstitutional, then the grant of
+46 rulemaking authority and any rule proposed or adopted after August 28, 2000, shall be invalid
+47 and void.
+HB 2147 4
+
+Section 6:
+407.1104. 1. Any person or entity who makes a telephone solicitation to any
+2 business subscriber or residential subscriber in this state shall, at the beginning of such
+3 solicitation, state clearly the identity of the person or entity initiating the solicitation.
+4 2. No person or entity who makes a telephone solicitation to a business subscriber
+5 or residential subscriber in this state shall knowingly use any method, including call
+6 spoofing, to block or otherwise circumvent any subscriber's use of a caller identification
+7 service.
+
+Section 7:
+407.1115. 1. This section shall be known and may be cited as the "Caller ID
+2 Anti-Spoofing Act".
+3 2. As used in this section, the following terms mean:
+4 (1) "Automatic telephone dialing system" equipment that has the capacity to:
+5 (a) Store or produce telephone numbers to be called, using a random or
+6 sequential number generator; and
+7 (b) Dial such numbers;
+8 (2) "Call", any telephone call, facsimile, or text message made using a public
+9 switched telephone network, wireless cellular telephone service, or voice-over-internet
+10 protocol (VoIP) service that has the capability of accessing users on the public switched
+11 telephone network or a successor network;
+12 (3) "Caller", a person or entity who places a call, facsimile, or text message,
+13 whether by phone or computer;
+14 (4) "Caller identification information", information provided by a caller
+15 identification service regarding the telephone number or other origination information
+16 of a call or facsimile transmission made using a telecommunications service or an
+17 interconnected VoIP service or of a text message sent using a text-messaging service;
+18 (5) "Caller identification service", any service or device designed to provide the
+19 user of the service or device with the telephone number or other origination information
+20 of a call or facsimile transmission made using a telecommunications service or an
+21 interconnected VoIP service or of a text message sent using a text messaging service.
+22 "Caller identification service" includes automatic number identification services;
+23 (6) "Provider", a telecommunication company that provides voice
+24 communication services to customers in this state;
+25 (7) "Robocall", a call made, including a text message sent, to any telephone
+26 number owned by a person or entity in the state using an automatic telephone dialing
+27 system or an artificial or prerecorded voice;
+28 (8) "STIR/SHAKEN" or the "Secure Telephone Identity Revisited (STIR) and
+29 Signature-based Handling of Asserted Information Using toKENs (SHAKEN)", an
+30 authentication framework of interconnected standards adopted by the Federal
+HB 2147 5
+31 Communications Commission. "STIR/SHAKEN" digitally validates the handoff of
+32 phone calls passing through the complex web of networks, allowing the phone company
+33 of the consumer receiving the call to verify that a call is in fact from the number
+34 displayed on Caller ID;
+35 (9) "Text message":
+36 (a) A real-time or near real-time message consisting of text, images, sounds, or
+37 other information that is transmitted from or received by a device that is identified as
+38 the transmitting or receiving device by means of a telephone number;
+39 (b) Includes a short message service (SMS) message, an enhanced message
+40 service (EMS) message, and a multimedia message service (MMS) message; and
+41 (c) Does not include a real-time, two-way voice or video communication;
+42 (10) "Text messaging service", a service that permits the transmission or receipt
+43 of a text message, including a service provided as part of or in connection with a
+44 telecommunications service or an interconnected VoIP service;
+45 (11) "Voice service", any service that is interconnected with the public switched
+46 telephone network and that furnishes voice communications to an end user using
+47 resources from the North American Numbering Plan or any successor to the North
+48 American Numbering Plan adopted by the public service commission under the
+49 Communications Act of 1934, 47 U.S.C. Section 251(e)(1), as amended; and includes:
+50 (a) Transmissions from a telephone facsimile machine, computer, or other device
+51 to a telephone facsimile machine; and
+52 (b) Without limitation, any service that enables real-time, two-way voice
+53 communications, including any service that requires internet protocol-compatible
+54 customer premises equipment (commonly known as "CPE") and permits outbound
+55 calling, whether the service is one-way or two-way voice over internet protocol.
+56 3. Consistent with authorization provided by federal law and rules of the Federal
+57 Communications Commission or its successors:
+58 (1) Providers shall block a voice call when the subscriber to which the
+59 originating number is assigned has requested that calls purporting to originate from
+60 that number be blocked because the number is used for inbound calls only; and
+61 (2) Providers shall block calls originating from the following numbers:
+62 (a) A number that is not a valid North American numbering plan number;
+63 (b) A valid North American numbering plan number that is not allocated to a
+64 provider by the North American numbering plan administrator; and
+65 (c) A valid North American numbering plan number that is allocated to a
+66 provider by the North American number plan administrator or pooling administrator,
+67 but is unused, so long as the provider blocking the calls is the allocatee of the number
+HB 2147 6
+68 and confirms that the number is unused or has obtained verification from the allocatee
+69 that the number is unused at the time of the blocking.
+70 4. Consistent with the authorization provided by federal law and rules of the
+71 Federal Communications Commission or its successors:
+72 (1) Providers shall not block a voice call if the call is an emergency call placed to
+73 911; and
+74 (2) Providers shall not block a voice call to a subscriber who has requested that
+75 no inbound calls be blocked.
+76 5. For purposes of blocking calls from certain originating numbers as authorized
+77 in subsections 3 and 4 of this section, a provider may rely on caller identification service
+78 information to determine the originating number.
+79 6. Notwithstanding any other provision of law to the contrary, a voice service
+80 provider shall be considered to be in compliance with this section and any rule or
+81 regulation adopted thereunder if that provider has filed a certification with the Federal
+82 Communications Commission that the provider's traffic is either authenticated with
+83 STIR/SHAKEN or subject to a compliant robocall mitigation program. A copy of such
+84 certification shall be made available to the attorney general upon request.
+85 7. No later than August 28, 2027, a provider of voice service shall implement
+86 STIR/SHAKEN authentication protocol or an alternative technology that provides
+87 comparable or superior capability to verify and authenticate caller identification in the
+88 internet protocol networks of voice service providers.
+89 8. (1) Any voice service provider that knowingly fails or neglects to comply with
+90 this section, or a rule or regulation adopted thereunder, shall be subject to the payment
+91 of fines as follows:
+92 (a) A sum of twenty-five thousand dollars for the first offense;
+93 (b) A sum of fifty thousand dollars for the second offense; and
+94 (c) A sum of seventy-five thousand dollars for the third or any subsequent
+95 offense.
+96 (2) All fines collected by the attorney general under this section shall be
+97 deposited into the state treasury to be credited to the merchandising practices revolving
+98 fund created under section 407.140.
+99 9. The attorney general has jurisdiction to commence an action on behalf of the
+100 state of Missouri for any violations under this section in a court of competent
+101 jurisdiction. The court may, upon notice to the defendant of not less than five days,
+102 grant injunctive relief to enjoin and restrain the continuation of any violations, and for
+103 the enforcement and collection of the fines under subsection 8 of this section.
+104 10. It shall be a violation of this section for a caller to:
+HB 2147 7
+105 (1) Enter or cause to be entered false information into a caller identification
+106 service with the malicious intent to deceive, defraud, or mislead the recipient of a call; or
+107 (2) Place a call knowing that false information was entered into the caller
+108 identification service with the intent to deceive, defraud, or mislead the recipient of the
+109 call.
+110 11. This section shall not apply to:
+111 (1) The blocking of caller identification information;
+112 (2) Any law enforcement agency of the federal, state, county, or municipal
+113 government;
+114 (3) Any intelligence or security agency of the federal government; or
+115 (4) A communications service provider, including a telecommunications,
+116 broadband, or voice-over-internet service provider that:
+117 (a) Acts in the communications service provider's capacity as an intermediary
+118 for the transmission of telephone service between the caller and the recipient;
+119 (b) Provides or configures a service or service feature as requested by the
+120 customer;
+121 (c) Acts in a manner that is authorized or required by applicable law; or
+122 (d) Engages in other conduct that is necessary to provide service.
+123 12. The recipient of any call in which the caller uses false caller identification
+124 information shall have standing to recover actual and punitive damages against the
+125 caller. Punitive damages shall be in an amount determined by the court but not to
+126 exceed five thousand dollars per call. Call recipients may bring action under this section
+127 as members of a class. The attorney general may initiate legal proceedings or intervene
+128 in legal proceedings on behalf of call recipients and, if the caller is found guilty, shall
+129 recover all costs of the investigation and prosecution of the action.
+130 13. It shall be unlawful for any person within the United States, or any person
+131 outside the United States if the recipient is within the United States, in connection with
+132 any voice service or text messaging service, to cause any caller identification service to
+133 knowingly transmit misleading or inaccurate caller identification information with the
+134 intent to defraud, cause harm, or wrongfully obtain anything of value, unless such
+135 transmission is exempted under subsection 11 of this section.
+✔
+[DELETED:  B N 2IJ f n s r t e c w p A S 4 4 4 a 4 R ar4 Am( " s a p o e t f b u hs()"s o k t m o i c ii w t i t d c h h o w oa( " i s a t o t s w p0t1[)"2u3o4[)"5()"—M i e]
+[DELETED: 6( "7m8o9( Trr0e1( B2r3c4( B5Sgt6s7m8( B9t0a S1c2b T3( B4r5p w i s o a t s a a f a r t t6l N p o e s m o c t b m a ts,trri t s w h g n t t a g i a w rp p t s 4 o s s o t rt 1 Td t c a l o t n o b s adrs w o t r t s [ l i n i ti2 T a g s p r a r g tei Ti(rr0m ]
+[DELETED: 1s T2j3( S4t5( S6a7( S8t9( S0s w o a t t d a r t a c t t1n o b s orr s i i t d2i3[)S4d53 I6o7t8n94 I0u o f t p o c w s 4 a t s o i a1p S2a35 I4e t o s l o b s adr5s6a76 T8m9407 A1c2o3s T4v5o6r7a ]
+[DELETED:  1 A p o e w m a t s t abrr s t s a b o ss2 Norr s i t s s k u a m i cs,t b o o c a s u o a c is 1 TA2 A( "( S o p t n t b c u a r os( D( "s0p1t2( "3w4( " i i i p b a c5i6o a c o f t m u a t s o a7i8( "9u0o a c o f t m u a t s o a1i2"3( " a t c t p v4c5( " a c m i a t m s t a t6n7s8(9S H o A I U t ( a0a f o i s a b t F ]
+[DELETED: 1C C " d v t h o2p3o t c r t c t v t a c i i f f t n4d5( "6( A7o8t9( I a s m s ( m a e m0s1( D2( "3o a t m i a s p a p o o i c w a4t5( "6t n a t f v c t a e u u7r f t N A N P o a s t t N8A N P a b t p s c u t9C0( T1t2( W l a s t e r t v3c i a s t r i p4c p e ( k a " a p o5c63 C7C8( P s b a v c w t s t w t9o0t1( P2( A3( A4p5( N A n p n t i a t a6p7b ]
+[DELETED: 8a9t04 C1F2( P394( P5n65 F7i8i96 N0p s b c t b i c w t s a a r o1r2C C t t p t i e a w3S A4c57 N6S a p o a a t t p7c8i98 ( A0t1o2( A3( A4( A s o s t d f t t o a s5o6( A f c b t a g u t s s b7d8f99 T0s o M f a v u t s i a c o c1j T2g3t41 I ]
+[DELETED: 5( E6s7( P a c k t f i w e i t c8i9c01 T1( T2( A l e a o t f s c o m3g4( A5( A c s p i a t6b7( A8f9( P o c a s o s f a r b t0c1( A2( E31 T4i s h s t r a a p d a t5c P d s b i a a d b t c b t6e C7a T8i9r01 I1o2a3k4i t d c h o w o a o v u s5t ]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+HOUSE BILL NO. 2147
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE WILSON.
+4445H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To repeal sections 407.1095, 407.1098, 407.1101, and 407.1104, RSMo, and to enact in lieu
+thereof five new sections relating to electronic communications, with penalty
+provisions.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Sections 407.1095, 407.1098, 407.1101, and 407.1104, RSMo, are
+2 repealed and five new sections enacted in lieu thereof, to be known as sections 407.1095,
+3 407.1098, 407.1101, 407.1104, and 407.1115, to read as follows:
+407.1095. As used in sections 407.1095 to 407.1110, the following words and phrases
+2 mean:
+3 (1) "Business subscriber", a person or entity that, for business use, has
+4 subscribed to telephone service, wireless service, or other similar service;
+5 (2) "Call spoofing", the practice by a calling party or any caller identification
+6 service of knowingly transmitting misleading or inaccurate caller identification
+7 information with the intent to defraud, cause harm, harass, or wrongfully obtain
+8 anything of value;
+9 (3) "Caller identification service", a type of telephone service which permits
+10 telephone subscribers to see the telephone number of incoming telephone calls;
+11 [(2)] (4) "Residential subscriber", a person who, for [primarily] personal and familial
+12 use, has subscribed to residential telephone service, wireless service or similar service, or the
+13 other persons living or residing with such person;
+14 [(3)] (5) "Seller", the same as defined in section 407.1070;
+15 (6) "Telemarketer", the same as defined in section 407.1070;
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 2147 2
+16 (7) "Telephone solicitation", any voice, facsimile, short messaging service (SMS), or
+17 multimedia messaging service (MMS), for the purpose of encouraging the purchase or rental
+18 of, or investment in, property, goods or services, but does not include communications:
+19 (a) To any business subscriber or residential subscriber with that subscriber's prior
+20 express invitation or permission;
+21 (b) By or on behalf of any person or entity with whom a business subscriber or
+22 residential subscriber has had a business contact within the past one hundred eighty days or a
+23 current business or personal relationship;
+24 (c) By or on behalf of an entity organized pursuant to Chapter 501 (c)(3) of the United
+25 States Internal Revenue Code, while such entity is engaged in [fund-raising] fundraising to
+26 support the charitable purpose for which the entity was established provided that a bona fide
+27 member of such exempt organization makes the voice communication;
+28 (d) By or on behalf of any entity over which a federal agency has regulatory authority
+29 to the extent that:
+30 a. Subject to such authority, the entity is required to maintain a license, permit or
+31 certificate to sell or provide the merchandise being offered through telemarketing; and
+32 b. The entity is required by law or rule to develop and maintain a no-call list[;
+33 (e) By a natural person responding to a referral, or working from his or her primary
+34 residence, or a person licensed by the state of Missouri to carry out a trade, occupation or
+35 profession who is setting or attempting to set an appointment for actions relating to that
+36 licensed trade, occupation or profession within the state or counties contiguous to the state].
+407.1098. No person or entity shall make or cause to be made any telephone
+2 solicitation, including via call spoofing,to any business subscriber orresidential subscriber
+3 in this state who has given notice to the attorney general, in accordance with rules
+4 promulgated pursuant to section 407.1101 of such subscriber's objection to receiving
+5 telephone solicitations.
+407.1101. 1. The attorney general shall establish and provide for the operation of a
+2 database to compile a list of telephone numbers of business subscribers and residential
+3 subscribers who object to receiving telephone solicitations. [Such list is not intended to
+4 include any telephone number primarily used for business or commercial purposes.]
+5 2. The attorney general shall promulgate rules and regulations governing the
+6 establishment of a state no-call database as he or she deems necessary and appropriate to fully
+7 implement the provisions of sections 407.1095 to 407.1110. The rules and regulations shall
+8 include those which:
+9 (1) Specify the methods by which each business subscriber or residential subscriber
+10 may give notice to the attorney general or its contractor of his or her objection to receiving
+
+HB 2147 3
+11 such solicitations or revocation of such notice. There shall be no cost to the subscriber for
+12 joining the database;
+13 (2) Specify the length of time for which a notice of objection shall be effective and
+14 the effect of a change of telephone number on such notice;
+15 (3) Specify the methods by which such objections and revocations shall be collected
+16 and added to the database;
+17 (4) Specify that once a person gives notice of objection, the person shall not have
+18 to renew his or her objection;
+19 (5) Specify the methods by which any person or entity desiring to make telephone
+20 solicitations will obtain access to the database as required to avoid calling the telephone
+21 numbers of business subscribers or residential subscribers included in the database,
+22 including the cost assessed to that person or entity for access to the database; and
+23 [(5)] (6) Specify such other matters relating to the database that the attorney general
+24 deems desirable.
+25 3. If the Federal Communications Commission establishes a single national database
+26 of telephone numbers of subscribers who object to receiving telephone solicitations pursuant
+27 to 47 U.S.C. Section 227(c)(3), the attorney general shall include that part of such single
+28 national database that relates to Missouri in the database established pursuant to this section.
+29 4. Information contained in the database established pursuant to this section shall be
+30 used only for the purpose of compliance with section 407.1098 and this section or in a
+31 proceeding or action pursuant to section 407.1107. Such information shall not be considered
+32 a public record pursuant to chapter 610.
+33 5. In April, July, October and January of each year, the attorney general shall be
+34 encouraged to obtain subscription listings of business subscribers and residential
+35 subscribers in this state who have arranged to be included on any national do-not-call list
+36 and add those telephone numbers to the state do-not-call list.
+37 6. The attorney general may utilize moneys appropriated from general revenue and
+38 moneys appropriated from the merchandising practices revolving fund established in section
+39 407.140 for the purposes of establishing and operating the state no-call database.
+40 7. Any rule or portion of a rule, as that term is defined in section 536.010, that is
+41 created under the authority delegated in sections 407.1095 to 407.1110 shall become effective
+42 only if it complies with and is subject to all of the provisions of chapter 536 and, if applicable,
+43 section 536.028. This section and chapter 536 are nonseverable and if any of the powers
+44 vested with the general assembly pursuant to chapter 536 to review, to delay the effective date
+45 or to disapprove and annul a rule are subsequently held unconstitutional, then the grant of
+46 rulemaking authority and any rule proposed or adopted after August 28, 2000, shall be invalid
+47 and void.
+
+HB 2147 4
+407.1104. 1. Any person or entity who makes a telephone solicitation to any
+2 business subscriber or residential subscriber in this state shall, at the beginning of such
+3 solicitation, state clearly the identity of the person or entity initiating the solicitation.
+4 2. No person or entity who makes a telephone solicitation to a business subscriber
+5 or residential subscriber in this state shall knowingly use any method, including call
+6 spoofing, to block or otherwise circumvent any subscriber's use of a caller identification
+7 service.
+407.1115. 1. This section shall be known and may be cited as the "Caller ID
+2 Anti-Spoofing Act".
+3 2. As used in this section, the following terms mean:
+4 (1) "Automatic telephone dialing system" equipment that has the capacity to:
+5 (a) Store or produce telephone numbers to be called, using a random or
+6 sequential number generator; and
+7 (b) Dial such numbers;
+8 (2) "Call", any telephone call, facsimile, or text message made using a public
+9 switched telephone network, wireless cellular telephone service, or voice-over-internet
+10 protocol (VoIP) service that has the capability of accessing users on the public switched
+11 telephone network or a successor network;
+12 (3) "Caller", a person or entity who places a call, facsimile, or text message,
+13 whether by phone or computer;
+14 (4) "Caller identification information", information provided by a caller
+15 identification service regarding the telephone number or other origination information
+16 of a call or facsimile transmission made using a telecommunications service or an
+17 interconnected VoIP service or of a text message sent using a text-messaging service;
+18 (5) "Caller identification service", any service or device designed to provide the
+19 user of the service or device with the telephone number or other origination information
+20 of a call or facsimile transmission made using a telecommunications service or an
+21 interconnected VoIP service or of a text message sent using a text messaging service.
+22 "Caller identification service" includes automatic number identification services;
+23 (6) "Provider", a telecommunication company that provides voice
+24 communication services to customers in this state;
+25 (7) "Robocall", a call made, including a text message sent, to any telephone
+26 number owned by a person or entity in the state using an automatic telephone dialing
+27 system or an artificial or prerecorded voice;
+28 (8) "STIR/SHAKEN" or the "Secure Telephone Identity Revisited (STIR) and
+29 Signature-based Handling of Asserted Information Using toKENs (SHAKEN)", an
+30 authentication framework of interconnected standards adopted by the Federal
+
+HB 2147 5
+31 Communications Commission. "STIR/SHAKEN" digitally validates the handoff of
+32 phone calls passing through the complex web of networks, allowing the phone company
+33 of the consumer receiving the call to verify that a call is in fact from the number
+34 displayed on Caller ID;
+35 (9) "Text message":
+36 (a) A real-time or near real-time message consisting of text, images, sounds, or
+37 other information that is transmitted from or received by a device that is identified as
+38 the transmitting or receiving device by means of a telephone number;
+39 (b) Includes a short message service (SMS) message, an enhanced message
+40 service (EMS) message, and a multimedia message service (MMS) message; and
+41 (c) Does not include a real-time, two-way voice or video communication;
+42 (10) "Text messaging service", a service that permits the transmission or receipt
+43 of a text message, including a service provided as part of or in connection with a
+44 telecommunications service or an interconnected VoIP service;
+45 (11) "Voice service", any service that is interconnected with the public switched
+46 telephone network and that furnishes voice communications to an end user using
+47 resources from the North American Numbering Plan or any successor to the North
+48 American Numbering Plan adopted by the public service commission under the
+49 Communications Act of 1934, 47 U.S.C. Section 251(e)(1), as amended; and includes:
+50 (a) Transmissions from a telephone facsimile machine, computer, or other device
+51 to a telephone facsimile machine; and
+52 (b) Without limitation, any service that enables real-time, two-way voice
+53 communications, including any service that requires internet protocol-compatible
+54 customer premises equipment (commonly known as "CPE") and permits outbound
+55 calling, whether the service is one-way or two-way voice over internet protocol.
+56 3. Consistent with authorization provided by federal law and rules of the Federal
+57 Communications Commission or its successors:
+58 (1) Providers shall block a voice call when the subscriber to which the
+59 originating number is assigned has requested that calls purporting to originate from
+60 that number be blocked because the number is used for inbound calls only; and
+61 (2) Providers shall block calls originating from the following numbers:
+62 (a) A number that is not a valid North American numbering plan number;
+63 (b) A valid North American numbering plan number that is not allocated to a
+64 provider by the North American numbering plan administrator; and
+65 (c) A valid North American numbering plan number that is allocated to a
+66 provider by the North American number plan administrator or pooling administrator,
+67 but is unused, so long as the provider blocking the calls is the allocatee of the number
+
+HB 2147 6
+68 and confirms that the number is unused or has obtained verification from the allocatee
+69 that the number is unused at the time of the blocking.
+70 4. Consistent with the authorization provided by federal law and rules of the
+71 Federal Communications Commission or its successors:
+72 (1) Providers shall not block a voice call if the call is an emergency call placed to
+73 911; and
+74 (2) Providers shall not block a voice call to a subscriber who has requested that
+75 no inbound calls be blocked.
+76 5. For purposes of blocking calls from certain originating numbers as authorized
+77 in subsections 3 and 4 of this section, a provider may rely on caller identification service
+78 information to determine the originating number.
+79 6. Notwithstanding any other provision of law to the contrary, a voice service
+80 provider shall be considered to be in compliance with this section and any rule or
+81 regulation adopted thereunder if that provider has filed a certification with the Federal
+82 Communications Commission that the provider's traffic is either authenticated with
+83 STIR/SHAKEN or subject to a compliant robocall mitigation program. A copy of such
+84 certification shall be made available to the attorney general upon request.
+85 7. No later than August 28, 2027, a provider of voice service shall implement
+86 STIR/SHAKEN authentication protocol or an alternative technology that provides
+87 comparable or superior capability to verify and authenticate caller identification in the
+88 internet protocol networks of voice service providers.
+89 8. (1) Any voice service provider that knowingly fails or neglects to comply with
+90 this section, or a rule or regulation adopted thereunder, shall be subject to the payment
+91 of fines as follows:
+92 (a) A sum of twenty-five thousand dollars for the first offense;
+93 (b) A sum of fifty thousand dollars for the second offense; and
+94 (c) A sum of seventy-five thousand dollars for the third or any subsequent
+95 offense.
+96 (2) All fines collected by the attorney general under this section shall be
+97 deposited into the state treasury to be credited to the merchandising practices revolving
+98 fund created under section 407.140.
+99 9. The attorney general has jurisdiction to commence an action on behalf of the
+100 state of Missouri for any violations under this section in a court of competent
+101 jurisdiction. The court may, upon notice to the defendant of not less than five days,
+102 grant injunctive relief to enjoin and restrain the continuation of any violations, and for
+103 the enforcement and collection of the fines under subsection 8 of this section.
+104 10. It shall be a violation of this section for a caller to:
+
+HB 2147 7
+105 (1) Enter or cause to be entered false information into a caller identification
+106 service with the malicious intent to deceive, defraud, or mislead the recipient of a call; or
+107 (2) Place a call knowing that false information was entered into the caller
+108 identification service with the intent to deceive, defraud, or mislead the recipient of the
+109 call.
+110 11. This section shall not apply to:
+111 (1) The blocking of caller identification information;
+112 (2) Any law enforcement agency of the federal, state, county, or municipal
+113 government;
+114 (3) Any intelligence or security agency of the federal government; or
+115 (4) A communications service provider, including a telecommunications,
+116 broadband, or voice-over-internet service provider that:
+117 (a) Acts in the communications service provider's capacity as an intermediary
+118 for the transmission of telephone service between the caller and the recipient;
+119 (b) Provides or configures a service or service feature as requested by the
+120 customer;
+121 (c) Acts in a manner that is authorized or required by applicable law; or
+122 (d) Engages in other conduct that is necessary to provide service.
+123 12. The recipient of any call in which the caller uses false caller identification
+124 information shall have standing to recover actual and punitive damages against the
+125 caller. Punitive damages shall be in an amount determined by the court but not to
+126 exceed five thousand dollars per call. Call recipients may bring action under this section
+127 as members of a class. The attorney general may initiate legal proceedings or intervene
+128 in legal proceedings on behalf of call recipients and, if the caller is found guilty, shall
+129 recover all costs of the investigation and prosecution of the action.
+130 13. It shall be unlawful for any person within the United States, or any person
+131 outside the United States if the recipient is within the United States, in connection with
+132 any voice service or text messaging service, to cause any caller identification service to
+133 knowingly transmit misleading or inaccurate caller identification information with the
+134 intent to defraud, cause harm, or wrongfully obtain anything of value, unless such
+135 transmission is exempted under subsection 11 of this section.
+✔
+
+[DELETED:  B N 2IJ f n s r t e c w p A S 4 4 4 a 4 R ar4 Am( " s a p o e t f b u hs()"s o k t m o i c ii w t i t d c h h o w oa( " i s a t o t s w p0t1[)"2u3o4[)"5()"—M i e]
+[DELETED: 6( "7m8o9( Trr0e1( B2r3c4( B5Sgt6s7m8( B9t0a S1c2b T3( B4r5p w i s o a t s a a f a r t t6l N p o e s m o c t b m a ts,trri t s w h g n t t a g i a w rp p t s 4 o s s o t rt 1 Td t c a l o t n o b s adrs w o t r t s [ l i n i ti2 T a g s p r a r g tei Ti(rr0m ]
+[DELETED: 1s T2j3( S4t5( S6a7( S8t9( S0s w o a t t d a r t a c t t1n o b s orr s i i t d2i3[)S4d53 I6o7t8n94 I0u o f t p o c w s 4 a t s o i a1p S2a35 I4e t o s l o b s adr5s6a76 T8m9407 A1c2o3s T4v5o6r7a ]
+[DELETED:  1 A p o e w m a t s t abrr s t s a b o ss2 Norr s i t s s k u a m i cs,t b o o c a s u o a c is 1 TA2 A( "( S o p t n t b c u a r os( D( "s0p1t2( "3w4( " i i i p b a c5i6o a c o f t m u a t s o a7i8( "9u0o a c o f t m u a t s o a1i2"3( " a t c t p v4c5( " a c m i a t m s t a t6n7s8(9S H o A I U t ( a0a f o i s a b t F ]
+[DELETED: 1C C " d v t h o2p3o t c r t c t v t a c i i f f t n4d5( "6( A7o8t9( I a s m s ( m a e m0s1( D2( "3o a t m i a s p a p o o i c w a4t5( "6t n a t f v c t a e u u7r f t N A N P o a s t t N8A N P a b t p s c u t9C0( T1t2( W l a s t e r t v3c i a s t r i p4c p e ( k a " a p o5c63 C7C8( P s b a v c w t s t w t9o0t1( P2( A3( A4p5( N A n p n t i a t a6p7b ]
+[DELETED: 8a9t04 C1F2( P394( P5n65 F7i8i96 N0p s b c t b i c w t s a a r o1r2C C t t p t i e a w3S A4c57 N6S a p o a a t t p7c8i98 ( A0t1o2( A3( A4( A s o s t d f t t o a s5o6( A f c b t a g u t s s b7d8f99 T0s o M f a v u t s i a c o c1j T2g3t41 I ]
+[DELETED: 5( E6s7( P a c k t f i w e i t c8i9c01 T1( T2( A l e a o t f s c o m3g4( A5( A c s p i a t6b7( A8f9( P o c a s o s f a r b t0c1( A2( E31 T4i s h s t r a a p d a t5c P d s b i a a d b t c b t6e C7a T8i9r01 I1o2a3k4i t d c h o w o a o v u s5t ]

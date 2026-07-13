@@ -1,0 +1,766 @@
+Title: HOUSE BILL NO. 2225
+Official Title: HOUSE BILL NO. 2225
+Number of Sections: 6
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE RIGGS.
+4271H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapters 1 and 8, RSMo, by adding thereto four new sections relating to task
+forces.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+
+Section 2:
+Section A. Chapters 1 and 8, RSMo, are amended by adding thereto four new
+2 sections, to be known as sections 1.510, 1.511, 1.1300, and 8.930, to read as follows:
+
+Section 3:
+1.510. 1. There is hereby established the "Missouri State Technology Task
+2 Force".
+3 2. The task force shall consist of:
+4 (1) Five members of the house of representatives, with three members to be
+5 appointed by the speaker of the house of representatives and two members to be
+6 appointed by the minority leader of the house of representatives;
+7 (2) Three members of the senate, with two members to be appointed by the
+8 president pro tempore of the senate and one member to be appointed by the minority
+9 leader of the senate;
+10 (3) The lieutenant governor or the lieutenant governor's designee;
+11 (4) The secretary of state or the secretary's designee;
+12 (5) The chief information officer of the office of administration, one member of
+13 the information technology advisory board of the office of administration, one
+14 additional member representing the office of administration, and one member of the
+15 department of higher education and workforce development or the department's
+16 designee;
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+HB 2225 2
+17 (6) Five members appointed by the speaker of the house of representatives, with
+18 subject-matter expertise in the following areas:
+19 (a) Missouri-based technology providers; or
+20 (b) Cybersecurity; and
+21 (7) Three members appointed by the president pro tempore of the senate, with
+22 subject-matter expertise in the following areas:
+23 (a) Web-based communication services;
+24 (b) Electronic records and storage retention; or
+25 (c) Large-scale software implementation.
+26 3. The speaker of the house of representatives shall designate the chair of the
+27 task force, and the president pro tempore of the senate shall designate the vice chair of
+28 the task force.
+29 4. Staff members of house research, house drafting, senate research, and the
+30 joint committee on legislative research shall provide such legal, research, clerical,
+31 technical, and bill drafting services as the task force may require in the performance of
+32 its duties.
+33 5. Members of the task force shall serve without compensation, but the members
+34 and any staff assigned to the task force shall receive reimbursement for actual and
+35 necessary expenses incurred in attending meetings of the task force or any
+36 subcommittee thereof. All task force members shall be subject to the same conflict-
+37 of-interest provisions in chapter 105 that are enforced by the Missouri ethics
+38 commission in the same manner that elected or appointed officials and employees are
+39 subject to such provisions.
+40 6. The task force shall hold its first meeting within two months from the effective
+41 date of this section.
+42 7. The mission of the task force shall be to:
+43 (1) Evaluate the condition of the state's current technology platforms;
+44 (2) Evaluate the uses of cloud computing and artificial intelligence to improve
+45 the state's technological foundation and customer service;
+46 (3) Evaluate the state's certificate programs and workforce development efforts,
+47 including any efforts to use knowledge models to help guide students into certain
+48 employment areas from young ages so that they are able to advance in rewarding
+49 careers;
+50 (4) Research and review adaptive technology initiatives for state use;
+51 (5) Evaluate current cost-spending and cost-saving state technological protocols;
+52 (6) Make recommendations regarding the condition of the state's technological
+53 systems;
+HB 2225 3
+54 (7) Make recommendations regarding the condition of the state's citizen-
+55 accessible technology platforms; and
+56 (8) Make recommendations regarding the use of technology and artificial
+57 intelligence to improve state management of records and to enable Missouri citizens and
+58 agencies to have more efficient electronic communications and access.
+59 8. The task force shall report a summary of its activities and any
+60 recommendations for legislation to the general assembly before August 28, 2027.
+61 9. (1) The task force shall suspend its operations on January 1, 2028. At such
+62 time, all members of the task force shall be relieved of their position on the task force.
+63 (2) The task force shall resume its operations on January 1, 2029, with a new set
+64 of members to be selected in the manner of subsection 2 of this section. The new chair
+65 and the new vice chair of the task force shall be designated as provided under subsection
+66 3 of this section.
+67 (3) Upon resumption of its operations, the task force shall continue to receive
+68 services according to subsection 4 of this section and shall continue to be subject to all
+69 provisions of subsection 5 of this section.
+70 (4) Upon resumption of its operations, the task force shall review all summaries
+71 and recommendations previously made under subsection 8 of this section and shall
+72 continue to carry out the mission described under subsection 7 of this section.
+73 (5) Upon resumption of its operations, the task force shall report an updated
+74 summary of its activities and any recommendations for legislation to the general
+75 assembly before August 28, 2029.
+76 (6) After providing a report to the general assembly as required under
+77 subdivision (5) of this subsection, the task force shall continue to meet every two years
+78 periodically until this section expires. The task force shall provide additional updated
+79 summaries of its activities and additional recommendations for legislation to the general
+80 assembly, at such times as the task force deems necessary, until the task force is
+81 terminated.
+82 10. Under section 23.253 of the Missouri sunset act:
+83 (1) The provisions of the new program authorized under this section shall
+84 automatically sunset twelve years after the effective date of this section unless
+85 reauthorized by an act of the general assembly;
+86 (2) If such program is reauthorized, the program authorized under this section
+87 shall automatically sunset twelve years after the effective date of the reauthorization of
+88 this section; and
+HB 2225 4
+89 (3) This section shall terminate on September first of the calendar year
+90 immediately following the calendar year in which the program authorized under this
+91 section is sunset.
+
+Section 4:
+1.511. 1. There is hereby established the "Twenty-First Century Innovation Hub
+2 Task Force".
+3 2. The task force shall consist of:
+4 (1) Five members of the house of representatives, with three members to be
+5 appointed by the speaker of the house of representatives and two members to be
+6 appointed by the minority leader of the house of representatives;
+7 (2) Three members of the senate, with two members to be appointed by the
+8 president pro tempore of the senate and one member to be appointed by the minority
+9 leader of the senate;
+10 (3) The commissioner of education or the commissioner's designee;
+11 (4) One member representing the department of higher education and
+12 workforce development, appointed by the commissioner of higher education;
+13 (5) One member representing public universities in the state, appointed by the
+14 speaker of the house of representatives;
+15 (6) Five members appointed by the speaker of the house of representatives, each
+16 of whom has subject-matter expertise in one of the following:
+17 (a) Agricultural technology;
+18 (b) Business, representing a business organization in this state;
+19 (c) Farming, representing a farming organization in this state;
+20 (d) Food technology; and
+21 (e) Health sciences; and
+22 (7) Eleven members representing each of the following organizations, with eight
+23 members appointed by the speaker of the house of representatives and three members
+24 appointed by the president pro tempore of the senate:
+25 (a) BioSTL;
+26 (b) The Center for Rural Health Innovation;
+27 (c) The Danforth Plant Science Center;
+28 (d) The Early Adopter Grower Innovation Community;
+29 (e) The Independent Colleges and Universities of Missouri;
+30 (f) The Missouri Cattlemen's Association;
+31 (g) The Missouri Community College Association;
+32 (h) The Missouri Corn Growers Association;
+33 (i) The Missouri Partnership;
+34 (j) The Missouri Soybean Association; and
+HB 2225 5
+35 (k) The State Technical College of Missouri.
+36 3. The speaker of the house of representatives shall designate the chair of the
+37 task force, and the president pro tempore of the senate shall designate the vice chair of
+38 the task force.
+39 4. Staff members of house research, house drafting, senate research, and the
+40 joint committee on legislative research shall provide such legal, research, clerical,
+41 technical, and bill drafting services as the task force may require in the performance of
+42 its duties.
+43 5. Members of the task force shall serve without compensation, but the members
+44 and any staff assigned to the task force shall receive reimbursement for actual and
+45 necessary expenses incurred in attending meetings of the task force or any
+46 subcommittee thereof. All task force members shall be subject to the same conflict-
+47 of-interest provisions in chapter 105 that are enforced by the Missouri ethics
+48 commission in the same manner that elected or appointed officials and employees are
+49 subject to such provisions.
+50 6. The task force shall hold its first meeting within two months from the effective
+51 date of this section.
+52 7. The mission of the task force shall be to maximize and expand existing
+53 industries that spur technological innovation throughout the state, with particular focus
+54 on the areas of agricultural technology, health sciences, and food technology, and to
+55 create more jobs in the technology sector.
+56 8. The task force shall report a summary of its activities and any
+57 recommendations for legislation to the general assembly before August 28, 2027.
+58 9. (1) The task force shall suspend its operations on January 1, 2028. At such
+59 time, all members of the task force shall be relieved of their positions on the task force.
+60 (2) The task force shall resume its operations on January 1, 2029, with a new set
+61 of members to be selected in the manner of subsection 2 of this section. The new chair
+62 and the new vice chair of the task force shall be designated according to the provisions
+63 of subsection 3 of this section.
+64 (3) Upon resumption of its operations, the task force shall continue to receive
+65 services according to subsection 4 of this section and shall continue to be subject to all
+66 provisions of subsection 5 of this section.
+67 (4) Upon resumption of its operations, the task force shall review all summaries
+68 and recommendations previously made under subsection 8 of this section and shall
+69 continue to carry out the mission described under subsection 7 of this section.
+HB 2225 6
+70 (5) Upon resumption of its operations, the task force shall report an updated
+71 summary of its activities and any recommendations for legislation to the general
+72 assembly before August 28, 2029.
+73 (6) After providing a report to the general assembly as required under
+74 subdivision (5) of this subsection, the task force shall continue to meet every two years
+75 periodically until this section expires. The task force shall provide additional updated
+76 summaries of its activities and additional recommendations for legislation to the general
+77 assembly, at such times as the task force deems necessary, until the task force is
+78 terminated.
+79 10. Under section 23.253 of the Missouri sunset act:
+80 (1) The provisions of the new program authorized under this section shall
+81 automatically sunset twelve years after the effective date of this section unless
+82 reauthorized by an act of the general assembly;
+83 (2) If such program is reauthorized, the program authorized under this section
+84 shall automatically sunset twelve years after the effective date of the reauthorization of
+85 this section; and
+86 (3) This section shall terminate on September first of the calendar year
+87 immediately following the calendar year in which the program authorized under this
+88 section is sunset.
+
+Section 5:
+1.1300. 1. There is hereby created the "Decentralizing State Government Task
+2 Force".
+3 2. The members of the task force shall be as follows:
+4 (1) Three members of the house of representatives, with two members appointed
+5 by the speaker of the house of representatives and one member appointed by the
+6 minority leader of the house of representatives;
+7 (2) Three members of the senate, with two members appointed by the president
+8 pro tempore of the senate and one member appointed by the minority leader of the
+9 senate;
+10 (3) The state auditor or his or her designee; and
+11 (4) The commissioner of administration or his or her designee.
+12 3. The speaker of the house of representatives shall designate the chair of the
+13 task force, and the president pro tempore of the senate shall designate the vice chair of
+14 the task force.
+15 4. Staff offices including, but not limited to, house research, house drafting,
+16 senate research, and the joint committee on legislative research shall provide such legal,
+17 research, clerical, technical, and bill drafting services as the task force may require in
+18 the performance of its duties.
+HB 2225 7
+19 5. Members of the task force shall serve without compensation, but the members
+20 and any staff assigned to the task force shall receive reimbursement for actual and
+21 necessary expenses incurred in attending meetings of the task force or any
+22 subcommittee thereof. All task force members shall be subject to the same conflict-
+23 of-interest provisions in chapter 105 that are enforced by the Missouri ethics
+24 commission in the same manner that elected or appointed officials and employees are
+25 subject to such provisions.
+26 6. The task force shall hold its first meeting within two months from the effective
+27 date of this section.
+28 7. The duties of the task force shall be to:
+29 (1) Evaluate the degree of centralization of the various functions of government;
+30 (2) Evaluate the capacity for the private sector and political subdivisions to
+31 assume responsibilities currently under the purview of state government; and
+32 (3) Make recommendations regarding decentralizing state government to the
+33 general assembly.
+34 8. The task force shall report a summary of its activities and recommendations
+35 to the general assembly before September 30, 2027.
+36 9. (1) The task force shall suspend its operations on September 30, 2027. At
+37 such time, all members of the task force shall be relieved of their position on the task
+38 force.
+39 (2) The task force shall resume its operations on September 30, 2028, with a new
+40 set of members to be selected according to the provisions of subsection 2 of this section.
+41 The new chair and the new vice chair of the task force shall be designated according to
+42 the provisions of subsection 3 of this section.
+43 (3) Upon resumption of its operations, the task force shall continue to receive
+44 services according to the provisions of subsection 4 of this section and shall continue to
+45 be subject to all provisions of subsection 5 of this section.
+46 (4) Upon resumption of its operations, the task force shall review all summaries
+47 and recommendations previously made under subsection 8 of this section and shall
+48 continue to carry out the duties described in subsection 7 of this section.
+49 (5) Upon resumption of its operations, the task force shall report an updated
+50 summary of its activities and any recommendations for legislation to the general
+51 assembly before September 30, 2029.
+52 (6) After providing a report to the general assembly as required under
+53 subdivision (5) of this subsection, the task force shall continue to meet every two years
+54 until this section expires. The task force shall provide additional updated summaries of
+HB 2225 8
+55 its activities and additional recommendations for legislation to the general assembly, at
+56 such times as the task force deems necessary, until the task force is terminated.
+57 10. Under section 23.253 of the Missouri sunset act:
+58 (1) The provisions of the new program authorized under this section shall
+59 automatically sunset twelve years after the effective date of this section unless
+60 reauthorized by an act of the general assembly;
+61 (2) If such program is reauthorized, the program authorized under this section
+62 shall automatically sunset twelve years after the effective date of the reauthorization of
+63 this section; and
+64 (3) This section shall terminate on September thirtieth of the calendar year
+65 immediately following the calendar year in which the program authorized under this
+66 section is sunset.
+
+Section 6:
+8.930. 1. There is hereby created the "State Building Usage Task Force".
+2 2. The members of the task force shall be as follows:
+3 (1) Three members of the house of representatives, with two members appointed
+4 by the speaker of the house of representatives and one member appointed by the
+5 minority leader of the house of representatives;
+6 (2) Three members of the senate, with two members appointed by the president
+7 pro tempore of the senate and one member appointed by the minority leader of the
+8 senate;
+9 (3) The state auditor or his or her designee; and
+10 (4) The commissioner of administration or his or her designee.
+11 3. The speaker of the house of representatives shall designate the chair of the
+12 task force, and the president pro tempore of the senate shall designate the vice chair of
+13 the task force.
+14 4. Staff offices including, but not limited to, house research, house drafting,
+15 senate research, and the joint committee on legislative research shall provide such legal,
+16 research, clerical, technical, and bill drafting services as the task force may require in
+17 the performance of its duties.
+18 5. Members of the task force shall serve without compensation, but the members
+19 and any staff assigned to the task force shall receive reimbursement for actual and
+20 necessary expenses incurred in attending meetings of the task force or any
+21 subcommittee thereof. All task force members shall be subject to the same conflict-
+22 of-interest provisions in chapter 105 that are enforced by the Missouri ethics
+23 commission in the same manner that elected or appointed officials and employees are
+24 subject to such provisions.
+HB 2225 9
+25 6. The task force shall hold its first meeting within two months from the effective
+26 date of this section.
+27 7. The duties of the task force shall be to:
+28 (1) Provide and maintain an accurate account of all Missouri state government-
+29 owned and -leased real property, including property purchased as a right-of-way by the
+30 department of transportation;
+31 (2) Evaluate the conditions of all Missouri state government-owned and -leased
+32 real property, including identifying the utility costs associated with the real property
+33 and how often the real property is being utilized;
+34 (3) Evaluate the current funding each Missouri state government-owned and
+35 -leased real property is receiving for the purpose of maintaining the real property;
+36 (4) Evaluate whether the current funding received for maintaining the real
+37 property is sufficient to maintain the integrity of the real property and necessary
+38 compared to the amount of usage the real property receives;
+39 (5) Make recommendations regarding the conditions of state government-owned
+40 and -leased real property, including if the real property is in need of rehabilitation or
+41 liquidation and if the utility costs associated with the real property could be reduced;
+42 (6) For all real properties identified as in need of rehabilitation or liquidation,
+43 create a detailed plan for the rehabilitation or liquidation that may be implemented
+44 within two years; and
+45 (7) Make recommendations regarding funding of state government-owned and
+46 -leased real property as it pertains to funding for maintaining the real property.
+47
+48 Real properties owned and leased by public schools, as that term is defined in section
+49 160.011, shall not be included in the task force's evaluations.
+50 8. The office of administration shall, within sixty days of the effective date of this
+51 section, provide a complete list of all government-owned and -leased real property to the
+52 task force. The office of administration shall provide an updated list to the task force
+53 following any change to the status of government-owned or -leased real property. The
+54 office of administration shall provide a new list to the task force each time the task force
+55 resumes operations, as provided in subsection 10 of this section.
+56 9. The task force shall report a summary of its activities and recommendations
+57 to the general assembly before September 30, 2027.
+58 10. (1) The task force shall suspend its operations on September 30, 2027. At
+59 such time, all members of the task force shall be relieved of their position on the task
+60 force.
+HB 2225 10
+61 (2) The task force shall resume its operations on September 30, 2028, with a new
+62 set of members to be selected according to the provisions of subsection 2 of this section.
+63 The new chair and the new vice chair of the task force shall be designated according to
+64 the provisions of subsection 3 of this section.
+65 (3) Upon resumption of its operations, the task force shall continue to receive
+66 services according to the provisions of subsection 4 of this section and shall continue to
+67 be subject to all provisions of subsection 5 of this section.
+68 (4) Upon resumption of its operations, the task force shall review all summaries
+69 and recommendations previously made under subsection 8 of this section and shall
+70 continue to carry out the duties described in subsection 7 of this section.
+71 (5) Upon resumption of its operations, the task force shall report an updated
+72 summary of its activities and any recommendations for legislation to the general
+73 assembly before September 30, 2029.
+74 (6) After providing a report to the general assembly as required under
+75 subdivision (5) of this subsection, the task force shall continue to meet every two years
+76 until this section expires. The task force shall provide additional updated summaries of
+77 its activities and additional recommendations for legislation to the general assembly, at
+78 such times as the task force deems necessary, until the task force is terminated.
+79 11. Under section 23.253 of the Missouri sunset act:
+80 (1) The provisions of the new program authorized under this section shall
+81 automatically sunset twelve years after the effective date of this section unless
+82 reauthorized by an act of the general assembly;
+83 (2) If such program is reauthorized, the program authorized under this section
+84 shall automatically sunset twelve years after the effective date of the reauthorization of
+85 this section; and
+86 (3) This section shall terminate on September thirtieth of the calendar year
+87 immediately following the calendar year in which the program authorized under this
+88 section is sunset.
+✔
+[DELETED:  B N 2IJ a c 1 a 8 R b a t f n s r t t A C 1 a 8 R a a b a t f ns T i h e t " S T TF2 T( F m o t h o r w t m t ba b t s o t h o r a t m t ba( T o t s w t m t b a b tpl0( T1( T2(3t i t a b o t o o a o4a5d o h e a w d o t d6d—M i e]
+[DELETED: 7( F8s9( M0( C1( T2s3( W4( E5( L63 T7t8t94 S0j c o l r s p s l r c1t2i35 M4a a s a t t t f s r r f a a5n e i i a m o t t f o a6s A7o p i c 1 t a e b t M e8c9s06 T1d27 T3( E4( E5t6( E7i a e t u k m t h g s i c8e a f y a s t t a a t a i r9c0( R1(2( M3s ]
+[DELETED: 4( M r r t c o t s c5a6( M r r t u o t a a7i8a98 T t f s r a s o i a a a0r19 ( T A2t3( T4o T5a637( U8s9p0( U1a r p m u s 8 o t s a s2c3( U4s o i a a a r f l t t g5a6( A p a r t t g a a r u7s8p T9s0a a s t a t t f d n u t t f i1t21 U3( T p o t n p a u t s s4a s t y a t e d o t s u5r6( I7s8t ]
+[DELETED: 9( T s s t o S f o t c y0i1s 1 TT2 T( F m o t h o r w t m t ba b t s o t h o r a t m t ba( T o t s w t m t b a b tpl0( T1( O m r t d o h e a2w3(4s5( F6o7( A8( B9( F0( F1( H2( E3m4a5( B6( T7( T8( T9( T0( T1( T2(3( T4( T ]
+[DELETED: 5( T63 T7t8t94 S0j c o l r s p s l r c1t2i35 M4a a s a t t t f s r r f a a5n e i i a m o t t f o a6s A7o p i c 1 t a e b t M e8c9s061d27 T m o t t f s b t m a e e3i4o t a o a t s f t a t5c68 T t f s r a s o i a a a7r89 ( T A9t0( T1o T2a3o4( U5s6p7( U8a r p m u s 8 o t s a s9c ]
+[DELETED: 0( U1s o i a a a r f l t t g2a3( A p a r t t g a a r u4s5p T6s7a a s t a t t f d n u t t f i8t91 U0( T p o t n p a u t s s1a s t y a t e d o t s u2r3( I4s5t6( T s s t o S f o t c y7i8s 1 TF2 T( Tb t s o t h o r a o m a b tm( Tps0( T1( T23 T3t4t54 S o i b n l t h r h d6s7r8t ]
+[DELETED: 95 M0a a s a t t t f s r r f a a1n e i i a m o t t f o a2s A3o p i c 1 t a e b t M e4c5s66 T7d87 T9( E0( E t c f t p s a p s t1a2( M r d g t3g485t69 ( T A7s8f9( T0s1T2t3( U4s5b6( U7a r p m u s 8 o t s a s8c9( U0s o i a a a r f l t t g1a2( A p a r t t g a a r u3s4u T ]
+[DELETED: 5i6s71 U8( T p o t n p a u t s s9a s t y a t e d o t s u0r1( I2s3t4( T s s t o S t o t c y5i6s 1 T2 T( Tb t s o t h o r a o m a b tm( Tps( T0( T13 T2t3t44 S o i b n l t h r h d5s6r7t85 M9a a s a t t t f s r r f a a0n e i i a m o t t f o a1s A2o p i c 1 t a e b t M e3c4s ]
+[DELETED: 56 T6d77 T8( P9o0d1( E2r3a4( E5-6( E w t c f r f m t r7p i s t m t i o t r p a n8c9( M0a1l2( F3c4w5( M6-8R9108 T1s2t T3f T4o5r69 T7t81 ( T A9s0f ]
+[DELETED: 1( T2s3T4t5( U6s7b8( U9a r p m u s 8 o t s a s0c1( U2s o i a a a r f l t t g3a4( A p a r t t g a a r u5s6u T7i8s91 U0( T p o t n p a u t s s1a s t y a t e d o t s u2r3( I4s5t6( T s s t o S t o t c y7i8s 1]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+HOUSE BILL NO. 2225
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE RIGGS.
+4271H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapters 1 and 8, RSMo, by adding thereto four new sections relating to task
+forces.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Chapters 1 and 8, RSMo, are amended by adding thereto four new
+2 sections, to be known as sections 1.510, 1.511, 1.1300, and 8.930, to read as follows:
+1.510. 1. There is hereby established the "Missouri State Technology Task
+2 Force".
+3 2. The task force shall consist of:
+4 (1) Five members of the house of representatives, with three members to be
+5 appointed by the speaker of the house of representatives and two members to be
+6 appointed by the minority leader of the house of representatives;
+7 (2) Three members of the senate, with two members to be appointed by the
+8 president pro tempore of the senate and one member to be appointed by the minority
+9 leader of the senate;
+10 (3) The lieutenant governor or the lieutenant governor's designee;
+11 (4) The secretary of state or the secretary's designee;
+12 (5) The chief information officer of the office of administration, one member of
+13 the information technology advisory board of the office of administration, one
+14 additional member representing the office of administration, and one member of the
+15 department of higher education and workforce development or the department's
+16 designee;
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 2225 2
+17 (6) Five members appointed by the speaker of the house of representatives, with
+18 subject-matter expertise in the following areas:
+19 (a) Missouri-based technology providers; or
+20 (b) Cybersecurity; and
+21 (7) Three members appointed by the president pro tempore of the senate, with
+22 subject-matter expertise in the following areas:
+23 (a) Web-based communication services;
+24 (b) Electronic records and storage retention; or
+25 (c) Large-scale software implementation.
+26 3. The speaker of the house of representatives shall designate the chair of the
+27 task force, and the president pro tempore of the senate shall designate the vice chair of
+28 the task force.
+29 4. Staff members of house research, house drafting, senate research, and the
+30 joint committee on legislative research shall provide such legal, research, clerical,
+31 technical, and bill drafting services as the task force may require in the performance of
+32 its duties.
+33 5. Members of the task force shall serve without compensation, but the members
+34 and any staff assigned to the task force shall receive reimbursement for actual and
+35 necessary expenses incurred in attending meetings of the task force or any
+36 subcommittee thereof. All task force members shall be subject to the same conflict-
+37 of-interest provisions in chapter 105 that are enforced by the Missouri ethics
+38 commission in the same manner that elected or appointed officials and employees are
+39 subject to such provisions.
+40 6. The task force shall hold its first meeting within two months from the effective
+41 date of this section.
+42 7. The mission of the task force shall be to:
+43 (1) Evaluate the condition of the state's current technology platforms;
+44 (2) Evaluate the uses of cloud computing and artificial intelligence to improve
+45 the state's technological foundation and customer service;
+46 (3) Evaluate the state's certificate programs and workforce development efforts,
+47 including any efforts to use knowledge models to help guide students into certain
+48 employment areas from young ages so that they are able to advance in rewarding
+49 careers;
+50 (4) Research and review adaptive technology initiatives for state use;
+51 (5) Evaluate current cost-spending and cost-saving state technological protocols;
+52 (6) Make recommendations regarding the condition of the state's technological
+53 systems;
+
+HB 2225 3
+54 (7) Make recommendations regarding the condition of the state's citizen-
+55 accessible technology platforms; and
+56 (8) Make recommendations regarding the use of technology and artificial
+57 intelligence to improve state management of records and to enable Missouri citizens and
+58 agencies to have more efficient electronic communications and access.
+59 8. The task force shall report a summary of its activities and any
+60 recommendations for legislation to the general assembly before August 28, 2027.
+61 9. (1) The task force shall suspend its operations on January 1, 2028. At such
+62 time, all members of the task force shall be relieved of their position on the task force.
+63 (2) The task force shall resume its operations on January 1, 2029, with a new set
+64 of members to be selected in the manner of subsection 2 of this section. The new chair
+65 and the new vice chair of the task force shall be designated as provided under subsection
+66 3 of this section.
+67 (3) Upon resumption of its operations, the task force shall continue to receive
+68 services according to subsection 4 of this section and shall continue to be subject to all
+69 provisions of subsection 5 of this section.
+70 (4) Upon resumption of its operations, the task force shall review all summaries
+71 and recommendations previously made under subsection 8 of this section and shall
+72 continue to carry out the mission described under subsection 7 of this section.
+73 (5) Upon resumption of its operations, the task force shall report an updated
+74 summary of its activities and any recommendations for legislation to the general
+75 assembly before August 28, 2029.
+76 (6) After providing a report to the general assembly as required under
+77 subdivision (5) of this subsection, the task force shall continue to meet every two years
+78 periodically until this section expires. The task force shall provide additional updated
+79 summaries of its activities and additional recommendations for legislation to the general
+80 assembly, at such times as the task force deems necessary, until the task force is
+81 terminated.
+82 10. Under section 23.253 of the Missouri sunset act:
+83 (1) The provisions of the new program authorized under this section shall
+84 automatically sunset twelve years after the effective date of this section unless
+85 reauthorized by an act of the general assembly;
+86 (2) If such program is reauthorized, the program authorized under this section
+87 shall automatically sunset twelve years after the effective date of the reauthorization of
+88 this section; and
+
+HB 2225 4
+89 (3) This section shall terminate on September first of the calendar year
+90 immediately following the calendar year in which the program authorized under this
+91 section is sunset.
+1.511. 1. There is hereby established the "Twenty-First Century Innovation Hub
+2 Task Force".
+3 2. The task force shall consist of:
+4 (1) Five members of the house of representatives, with three members to be
+5 appointed by the speaker of the house of representatives and two members to be
+6 appointed by the minority leader of the house of representatives;
+7 (2) Three members of the senate, with two members to be appointed by the
+8 president pro tempore of the senate and one member to be appointed by the minority
+9 leader of the senate;
+10 (3) The commissioner of education or the commissioner's designee;
+11 (4) One member representing the department of higher education and
+12 workforce development, appointed by the commissioner of higher education;
+13 (5) One member representing public universities in the state, appointed by the
+14 speaker of the house of representatives;
+15 (6) Five members appointed by the speaker of the house of representatives, each
+16 of whom has subject-matter expertise in one of the following:
+17 (a) Agricultural technology;
+18 (b) Business, representing a business organization in this state;
+19 (c) Farming, representing a farming organization in this state;
+20 (d) Food technology; and
+21 (e) Health sciences; and
+22 (7) Eleven members representing each of the following organizations, with eight
+23 members appointed by the speaker of the house of representatives and three members
+24 appointed by the president pro tempore of the senate:
+25 (a) BioSTL;
+26 (b) The Center for Rural Health Innovation;
+27 (c) The Danforth Plant Science Center;
+28 (d) The Early Adopter Grower Innovation Community;
+29 (e) The Independent Colleges and Universities of Missouri;
+30 (f) The Missouri Cattlemen's Association;
+31 (g) The Missouri Community College Association;
+32 (h) The Missouri Corn Growers Association;
+33 (i) The Missouri Partnership;
+34 (j) The Missouri Soybean Association; and
+
+HB 2225 5
+35 (k) The State Technical College of Missouri.
+36 3. The speaker of the house of representatives shall designate the chair of the
+37 task force, and the president pro tempore of the senate shall designate the vice chair of
+38 the task force.
+39 4. Staff members of house research, house drafting, senate research, and the
+40 joint committee on legislative research shall provide such legal, research, clerical,
+41 technical, and bill drafting services as the task force may require in the performance of
+42 its duties.
+43 5. Members of the task force shall serve without compensation, but the members
+44 and any staff assigned to the task force shall receive reimbursement for actual and
+45 necessary expenses incurred in attending meetings of the task force or any
+46 subcommittee thereof. All task force members shall be subject to the same conflict-
+47 of-interest provisions in chapter 105 that are enforced by the Missouri ethics
+48 commission in the same manner that elected or appointed officials and employees are
+49 subject to such provisions.
+50 6. The task force shall hold its first meeting within two months from the effective
+51 date of this section.
+52 7. The mission of the task force shall be to maximize and expand existing
+53 industries that spur technological innovation throughout the state, with particular focus
+54 on the areas of agricultural technology, health sciences, and food technology, and to
+55 create more jobs in the technology sector.
+56 8. The task force shall report a summary of its activities and any
+57 recommendations for legislation to the general assembly before August 28, 2027.
+58 9. (1) The task force shall suspend its operations on January 1, 2028. At such
+59 time, all members of the task force shall be relieved of their positions on the task force.
+60 (2) The task force shall resume its operations on January 1, 2029, with a new set
+61 of members to be selected in the manner of subsection 2 of this section. The new chair
+62 and the new vice chair of the task force shall be designated according to the provisions
+63 of subsection 3 of this section.
+64 (3) Upon resumption of its operations, the task force shall continue to receive
+65 services according to subsection 4 of this section and shall continue to be subject to all
+66 provisions of subsection 5 of this section.
+67 (4) Upon resumption of its operations, the task force shall review all summaries
+68 and recommendations previously made under subsection 8 of this section and shall
+69 continue to carry out the mission described under subsection 7 of this section.
+
+HB 2225 6
+70 (5) Upon resumption of its operations, the task force shall report an updated
+71 summary of its activities and any recommendations for legislation to the general
+72 assembly before August 28, 2029.
+73 (6) After providing a report to the general assembly as required under
+74 subdivision (5) of this subsection, the task force shall continue to meet every two years
+75 periodically until this section expires. The task force shall provide additional updated
+76 summaries of its activities and additional recommendations for legislation to the general
+77 assembly, at such times as the task force deems necessary, until the task force is
+78 terminated.
+79 10. Under section 23.253 of the Missouri sunset act:
+80 (1) The provisions of the new program authorized under this section shall
+81 automatically sunset twelve years after the effective date of this section unless
+82 reauthorized by an act of the general assembly;
+83 (2) If such program is reauthorized, the program authorized under this section
+84 shall automatically sunset twelve years after the effective date of the reauthorization of
+85 this section; and
+86 (3) This section shall terminate on September first of the calendar year
+87 immediately following the calendar year in which the program authorized under this
+88 section is sunset.
+1.1300. 1. There is hereby created the "Decentralizing State Government Task
+2 Force".
+3 2. The members of the task force shall be as follows:
+4 (1) Three members of the house of representatives, with two members appointed
+5 by the speaker of the house of representatives and one member appointed by the
+6 minority leader of the house of representatives;
+7 (2) Three members of the senate, with two members appointed by the president
+8 pro tempore of the senate and one member appointed by the minority leader of the
+9 senate;
+10 (3) The state auditor or his or her designee; and
+11 (4) The commissioner of administration or his or her designee.
+12 3. The speaker of the house of representatives shall designate the chair of the
+13 task force, and the president pro tempore of the senate shall designate the vice chair of
+14 the task force.
+15 4. Staff offices including, but not limited to, house research, house drafting,
+16 senate research, and the joint committee on legislative research shall provide such legal,
+17 research, clerical, technical, and bill drafting services as the task force may require in
+18 the performance of its duties.
+
+HB 2225 7
+19 5. Members of the task force shall serve without compensation, but the members
+20 and any staff assigned to the task force shall receive reimbursement for actual and
+21 necessary expenses incurred in attending meetings of the task force or any
+22 subcommittee thereof. All task force members shall be subject to the same conflict-
+23 of-interest provisions in chapter 105 that are enforced by the Missouri ethics
+24 commission in the same manner that elected or appointed officials and employees are
+25 subject to such provisions.
+26 6. The task force shall hold its first meeting within two months from the effective
+27 date of this section.
+28 7. The duties of the task force shall be to:
+29 (1) Evaluate the degree of centralization of the various functions of government;
+30 (2) Evaluate the capacity for the private sector and political subdivisions to
+31 assume responsibilities currently under the purview of state government; and
+32 (3) Make recommendations regarding decentralizing state government to the
+33 general assembly.
+34 8. The task force shall report a summary of its activities and recommendations
+35 to the general assembly before September 30, 2027.
+36 9. (1) The task force shall suspend its operations on September 30, 2027. At
+37 such time, all members of the task force shall be relieved of their position on the task
+38 force.
+39 (2) The task force shall resume its operations on September 30, 2028, with a new
+40 set of members to be selected according to the provisions of subsection 2 of this section.
+41 The new chair and the new vice chair of the task force shall be designated according to
+42 the provisions of subsection 3 of this section.
+43 (3) Upon resumption of its operations, the task force shall continue to receive
+44 services according to the provisions of subsection 4 of this section and shall continue to
+45 be subject to all provisions of subsection 5 of this section.
+46 (4) Upon resumption of its operations, the task force shall review all summaries
+47 and recommendations previously made under subsection 8 of this section and shall
+48 continue to carry out the duties described in subsection 7 of this section.
+49 (5) Upon resumption of its operations, the task force shall report an updated
+50 summary of its activities and any recommendations for legislation to the general
+51 assembly before September 30, 2029.
+52 (6) After providing a report to the general assembly as required under
+53 subdivision (5) of this subsection, the task force shall continue to meet every two years
+54 until this section expires. The task force shall provide additional updated summaries of
+
+HB 2225 8
+55 its activities and additional recommendations for legislation to the general assembly, at
+56 such times as the task force deems necessary, until the task force is terminated.
+57 10. Under section 23.253 of the Missouri sunset act:
+58 (1) The provisions of the new program authorized under this section shall
+59 automatically sunset twelve years after the effective date of this section unless
+60 reauthorized by an act of the general assembly;
+61 (2) If such program is reauthorized, the program authorized under this section
+62 shall automatically sunset twelve years after the effective date of the reauthorization of
+63 this section; and
+64 (3) This section shall terminate on September thirtieth of the calendar year
+65 immediately following the calendar year in which the program authorized under this
+66 section is sunset.
+8.930. 1. There is hereby created the "State Building Usage Task Force".
+2 2. The members of the task force shall be as follows:
+3 (1) Three members of the house of representatives, with two members appointed
+4 by the speaker of the house of representatives and one member appointed by the
+5 minority leader of the house of representatives;
+6 (2) Three members of the senate, with two members appointed by the president
+7 pro tempore of the senate and one member appointed by the minority leader of the
+8 senate;
+9 (3) The state auditor or his or her designee; and
+10 (4) The commissioner of administration or his or her designee.
+11 3. The speaker of the house of representatives shall designate the chair of the
+12 task force, and the president pro tempore of the senate shall designate the vice chair of
+13 the task force.
+14 4. Staff offices including, but not limited to, house research, house drafting,
+15 senate research, and the joint committee on legislative research shall provide such legal,
+16 research, clerical, technical, and bill drafting services as the task force may require in
+17 the performance of its duties.
+18 5. Members of the task force shall serve without compensation, but the members
+19 and any staff assigned to the task force shall receive reimbursement for actual and
+20 necessary expenses incurred in attending meetings of the task force or any
+21 subcommittee thereof. All task force members shall be subject to the same conflict-
+22 of-interest provisions in chapter 105 that are enforced by the Missouri ethics
+23 commission in the same manner that elected or appointed officials and employees are
+24 subject to such provisions.
+
+HB 2225 9
+25 6. The task force shall hold its first meeting within two months from the effective
+26 date of this section.
+27 7. The duties of the task force shall be to:
+28 (1) Provide and maintain an accurate account of all Missouri state government-
+29 owned and -leased real property, including property purchased as a right-of-way by the
+30 department of transportation;
+31 (2) Evaluate the conditions of all Missouri state government-owned and -leased
+32 real property, including identifying the utility costs associated with the real property
+33 and how often the real property is being utilized;
+34 (3) Evaluate the current funding each Missouri state government-owned and
+35 -leased real property is receiving for the purpose of maintaining the real property;
+36 (4) Evaluate whether the current funding received for maintaining the real
+37 property is sufficient to maintain the integrity of the real property and necessary
+38 compared to the amount of usage the real property receives;
+39 (5) Make recommendations regarding the conditions of state government-owned
+40 and -leased real property, including if the real property is in need of rehabilitation or
+41 liquidation and if the utility costs associated with the real property could be reduced;
+42 (6) For all real properties identified as in need of rehabilitation or liquidation,
+43 create a detailed plan for the rehabilitation or liquidation that may be implemented
+44 within two years; and
+45 (7) Make recommendations regarding funding of state government-owned and
+46 -leased real property as it pertains to funding for maintaining the real property.
+47
+48 Real properties owned and leased by public schools, as that term is defined in section
+49 160.011, shall not be included in the task force's evaluations.
+50 8. The office of administration shall, within sixty days of the effective date of this
+51 section, provide a complete list of all government-owned and -leased real property to the
+52 task force. The office of administration shall provide an updated list to the task force
+53 following any change to the status of government-owned or -leased real property. The
+54 office of administration shall provide a new list to the task force each time the task force
+55 resumes operations, as provided in subsection 10 of this section.
+56 9. The task force shall report a summary of its activities and recommendations
+57 to the general assembly before September 30, 2027.
+58 10. (1) The task force shall suspend its operations on September 30, 2027. At
+59 such time, all members of the task force shall be relieved of their position on the task
+60 force.
+
+HB 2225 10
+61 (2) The task force shall resume its operations on September 30, 2028, with a new
+62 set of members to be selected according to the provisions of subsection 2 of this section.
+63 The new chair and the new vice chair of the task force shall be designated according to
+64 the provisions of subsection 3 of this section.
+65 (3) Upon resumption of its operations, the task force shall continue to receive
+66 services according to the provisions of subsection 4 of this section and shall continue to
+67 be subject to all provisions of subsection 5 of this section.
+68 (4) Upon resumption of its operations, the task force shall review all summaries
+69 and recommendations previously made under subsection 8 of this section and shall
+70 continue to carry out the duties described in subsection 7 of this section.
+71 (5) Upon resumption of its operations, the task force shall report an updated
+72 summary of its activities and any recommendations for legislation to the general
+73 assembly before September 30, 2029.
+74 (6) After providing a report to the general assembly as required under
+75 subdivision (5) of this subsection, the task force shall continue to meet every two years
+76 until this section expires. The task force shall provide additional updated summaries of
+77 its activities and additional recommendations for legislation to the general assembly, at
+78 such times as the task force deems necessary, until the task force is terminated.
+79 11. Under section 23.253 of the Missouri sunset act:
+80 (1) The provisions of the new program authorized under this section shall
+81 automatically sunset twelve years after the effective date of this section unless
+82 reauthorized by an act of the general assembly;
+83 (2) If such program is reauthorized, the program authorized under this section
+84 shall automatically sunset twelve years after the effective date of the reauthorization of
+85 this section; and
+86 (3) This section shall terminate on September thirtieth of the calendar year
+87 immediately following the calendar year in which the program authorized under this
+88 section is sunset.
+✔
+
+[DELETED:  B N 2IJ a c 1 a 8 R b a t f n s r t t A C 1 a 8 R a a b a t f ns T i h e t " S T TF2 T( F m o t h o r w t m t ba b t s o t h o r a t m t ba( T o t s w t m t b a b tpl0( T1( T2(3t i t a b o t o o a o4a5d o h e a w d o t d6d—M i e]
+[DELETED: 7( F8s9( M0( C1( T2s3( W4( E5( L63 T7t8t94 S0j c o l r s p s l r c1t2i35 M4a a s a t t t f s r r f a a5n e i i a m o t t f o a6s A7o p i c 1 t a e b t M e8c9s06 T1d27 T3( E4( E5t6( E7i a e t u k m t h g s i c8e a f y a s t t a a t a i r9c0( R1(2( M3s ]
+[DELETED: 4( M r r t c o t s c5a6( M r r t u o t a a7i8a98 T t f s r a s o i a a a0r19 ( T A2t3( T4o T5a637( U8s9p0( U1a r p m u s 8 o t s a s2c3( U4s o i a a a r f l t t g5a6( A p a r t t g a a r u7s8p T9s0a a s t a t t f d n u t t f i1t21 U3( T p o t n p a u t s s4a s t y a t e d o t s u5r6( I7s8t ]
+[DELETED: 9( T s s t o S f o t c y0i1s 1 TT2 T( F m o t h o r w t m t ba b t s o t h o r a t m t ba( T o t s w t m t b a b tpl0( T1( O m r t d o h e a2w3(4s5( F6o7( A8( B9( F0( F1( H2( E3m4a5( B6( T7( T8( T9( T0( T1( T2(3( T4( T ]
+[DELETED: 5( T63 T7t8t94 S0j c o l r s p s l r c1t2i35 M4a a s a t t t f s r r f a a5n e i i a m o t t f o a6s A7o p i c 1 t a e b t M e8c9s061d27 T m o t t f s b t m a e e3i4o t a o a t s f t a t5c68 T t f s r a s o i a a a7r89 ( T A9t0( T1o T2a3o4( U5s6p7( U8a r p m u s 8 o t s a s9c ]
+[DELETED: 0( U1s o i a a a r f l t t g2a3( A p a r t t g a a r u4s5p T6s7a a s t a t t f d n u t t f i8t91 U0( T p o t n p a u t s s1a s t y a t e d o t s u2r3( I4s5t6( T s s t o S f o t c y7i8s 1 TF2 T( Tb t s o t h o r a o m a b tm( Tps0( T1( T23 T3t4t54 S o i b n l t h r h d6s7r8t ]
+[DELETED: 95 M0a a s a t t t f s r r f a a1n e i i a m o t t f o a2s A3o p i c 1 t a e b t M e4c5s66 T7d87 T9( E0( E t c f t p s a p s t1a2( M r d g t3g485t69 ( T A7s8f9( T0s1T2t3( U4s5b6( U7a r p m u s 8 o t s a s8c9( U0s o i a a a r f l t t g1a2( A p a r t t g a a r u3s4u T ]
+[DELETED: 5i6s71 U8( T p o t n p a u t s s9a s t y a t e d o t s u0r1( I2s3t4( T s s t o S t o t c y5i6s 1 T2 T( Tb t s o t h o r a o m a b tm( Tps( T0( T13 T2t3t44 S o i b n l t h r h d5s6r7t85 M9a a s a t t t f s r r f a a0n e i i a m o t t f o a1s A2o p i c 1 t a e b t M e3c4s ]
+[DELETED: 56 T6d77 T8( P9o0d1( E2r3a4( E5-6( E w t c f r f m t r7p i s t m t i o t r p a n8c9( M0a1l2( F3c4w5( M6-8R9108 T1s2t T3f T4o5r69 T7t81 ( T A9s0f ]
+[DELETED: 1( T2s3T4t5( U6s7b8( U9a r p m u s 8 o t s a s0c1( U2s o i a a a r f l t t g3a4( A p a r t t g a a r u5s6u T7i8s91 U0( T p o t n p a u t s s1a s t y a t e d o t s u2r3( I4s5t6( T s s t o S t o t c y7i8s 1]

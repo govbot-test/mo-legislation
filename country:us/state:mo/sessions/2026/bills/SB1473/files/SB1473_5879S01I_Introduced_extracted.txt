@@ -1,0 +1,325 @@
+Title: SENATE BILL NO. 1473
+Official Title: SENATE BILL NO. 1473
+Number of Sections: 1
+Source: versions - 5879S.01I - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR TRENT.
+5879S.01I KRISTINA MARTIN, Secretary
+AN ACT
+To amend chapter 393, RSMo, by adding thereto one new section relating to rebates by electrical
+corporations.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Chapter 393, RSMo, is amended by adding thereto
+2 one new section, to be known as section 393.2500, to read as
+3 follows:
+1 393.2500. 1. As used in this section, the following
+2 terms shall mean:
+3 (1) "Commission", the Missouri public service
+4 commission;
+5 (2) "Customer-generator", the same as defined in
+6 section 386.890;
+7 (3) "Electrical corporation", the same as defined in
+8 section 386.020;
+9 (4) "Energy storage system", commercially available
+10 technology that is capable of absorbing energy and storing
+11 it for a period of time for use at a later time, including
+12 but not limited to electrochemical, thermal, and
+13 electromechanical technologies, and may be interconnected
+14 behind the customer's meter or interconnected behind its own
+15 meter;
+16 (5) "Smart inverter", a device that converts direct
+17 current from solar panels into alternating current and meets
+SB 1473 2
+18 all applicable safety, performance, interconnection, and
+19 reliability standards established by the National Electrical
+20 Code, the National Electrical Safety Code, the Institute of
+21 Electrical and Electronics Engineers, Underwriters
+22 Laboratories, the Federal Energy Regulatory Commission, and
+23 any local governing authorities.
+24 2. Within ninety days after August 28, 2026, an
+25 electrical corporation shall file an application with the
+26 commission requesting approval of the corporation's tariff
+27 to provide a rebate to any customer-generator installing any
+28 energy storage system and, if applicable, a new solar
+29 electric system at the customer-generator's premises for the
+30 customer-generator's own use. The rebate shall be as
+31 follows:
+32 (1) Two dollars per watt for systems becoming
+33 operational on or before June 30, 2027;
+34 (2) One dollar and fifty cents per watt for systems
+35 becoming operational between July 1, 2027, and June 30, 2028;
+36 (3) One dollar per watt for systems becoming
+37 operational between July 1, 2028, and June 30, 2029;
+38 (4) Fifty cents per watt for systems becoming
+39 operational between July 1, 2029, and June 30, 2030;
+40 (5) Fifty cents per watt for systems becoming
+41 operational between July 1, 2030, and June 30, 2031; or
+42 (6) Twenty-five cents per watt for systems becoming
+43 operational between July 1, 2031, and June 30, 2032.
+44 The rebate amounts under this subsection shall be issued
+45 until such funds expire or exceed the allotted amounts. An
+46 electrical corporation may, through its tariffs, require
+47 applications for rebates to be submitted by customer-
+SB 1473 3
+48 generators up to one hundred and eighty days prior to June
+49 30, 2027.
+50 3. The commission shall review the application under
+51 subsection 2 of this section and make modifications, if
+52 necessary, that are consistent with the commission's
+53 authority under chapter 386. No later than one hundred and
+54 eighty days after the electrical corporation files the
+55 application under subsection 2 of this section, the
+56 commission shall hold a hearing and issue an order
+57 approving, or approving with modifications, the tariff.
+58 4. To be eligible for a rebate under this section, a
+59 customer-generator shall:
+60 (1) Have a smart inverter installed at the customer's
+61 premises that is interconnected to distribution facilities
+62 owned or operated by an electrical corporation;
+63 (2) Install an energy storage system;
+64 (3) Connect an energy storage system to a new or
+65 existing solar electric system sited on the customer-
+66 generator's premises that is confirmed by the electrical
+67 corporation to have become operational and in compliance
+68 with the provisions of section 386.890; and
+69 (4) Transfer to the electrical corporation all rights,
+70 titles, and interest in and to the renewable energy credits
+71 associated with the solar electric system and energy storage
+72 system that qualified the customer-generator for the rebate
+73 for a period of ten years from the date the electrical
+74 corporation confirmed that the energy storage system was
+75 installed and operational.
+76 5. An electrical corporation's obligation to make
+77 rebate payments under this section shall not exceed the
+78 following limitations:
+SB 1473 4
+79 (1) As of August 28, 2026, an electrical corporation
+80 with one million or more customers in the state shall not be
+81 obligated to pay rebates in any calendar year from 2026
+82 through 2032 in an amount exceeding five million six hundred
+83 thousand dollars or in an aggregate amount exceeding twenty-
+84 eight million dollars;
+85 (2) As of August 28, 2026, an electrical corporation
+86 with less than one million but more than two hundred
+87 thousand customers in the state shall not be obligated to
+88 pay rebates in any calendar year from 2026 through 2032 in
+89 an amount exceeding one million six hundred thousand dollars
+90 or in an aggregate amount exceeding eight million dollars;
+91 and
+92 (3) As of August 28, 2026, an electrical corporation
+93 with two hundred thousand or less customers in the state
+94 shall not be obligated to pay rebates in any calendar year
+95 from 2026 through 2032 in an amount exceeding one million
+96 four hundred thousand dollars or in an aggregate amount
+97 exceeding seven million dollars.
+98 6. After the issuance of the rebate under this
+99 section, an electrical corporation shall be permitted to
+100 recover the cost of all rebate payments it has made through
+101 either base rates or a rate adjustment mechanism under
+102 section 393.1030 and shall also be permitted to defer and
+103 amortize the recovery of such costs, including interest at
+104 the electrical corporation's short-term borrowing rate,
+105 through either base rates or a surcharge over a period of
+106 the electrical corporation's choice not to exceed five
+107 years, provided that if recovery of such costs in such
+108 manner and over such a time period would cause the
+109 electrical corporation to exceed the one percent maximum
+110 average retail rate increase limitation required by
+SB 1473 5
+111 subdivision (1) of subsection 2 of section 393.1030. The
+112 recovery of such costs that would exceed the one percent
+113 maximum average retail rate increase limitation shall be
+114 deferred by the electrical corporation to a regulatory asset
+115 to which carrying costs at the electrical corporation's
+116 weighted average cost of capital shall be added and
+117 recovered through base rates or through a rate adjustment
+118 mechanism under section 393.1030, as soon as practicable.
+119 7. The commission shall promulgate rules to implement
+120 the provisions of this section. Any rule or portion of a
+121 rule, as that term is defined in section 536.010, that is
+122 created under the authority delegated in this section shall
+123 become effective only if it complies with and is subject to
+124 all of the provisions of chapter 536 and, if applicable,
+125 section 536.028. This section and chapter 536 are
+126 nonseverable and if any of the powers vested with the
+127 general assembly pursuant to chapter 536 to review, to delay
+128 the effective date, or to disapprove and annul a rule are
+129 subsequently held unconstitutional, then the grant of
+130 rulemaking authority and any rule proposed or adopted after
+131 August 28, 2026, shall be invalid and void.
+✓
+[DELETED:  K.1.A   )" )" )" )"      )"  ]
+[DELETED: S     .W      .T )T )O )O )F )F )T  .A   ]
+[DELETED: S .T   .N    .T )H   )I)C    )T      .A  ]
+[DELETED: S)A     )A      )A     .A             ]
+[DELETED: S.T       .T      .T      ]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+SENATE BILL NO. 1473
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR TRENT.
+5879S.01I KRISTINA MARTIN, Secretary
+AN ACT
+To amend chapter 393, RSMo, by adding thereto one new section relating to rebates by electrical
+corporations.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Chapter 393, RSMo, is amended by adding thereto
+2 one new section, to be known as section 393.2500, to read as
+3 follows:
+1 393.2500. 1. As used in this section, the following
+2 terms shall mean:
+3 (1) "Commission", the Missouri public service
+4 commission;
+5 (2) "Customer-generator", the same as defined in
+6 section 386.890;
+7 (3) "Electrical corporation", the same as defined in
+8 section 386.020;
+9 (4) "Energy storage system", commercially available
+10 technology that is capable of absorbing energy and storing
+11 it for a period of time for use at a later time, including
+12 but not limited to electrochemical, thermal, and
+13 electromechanical technologies, and may be interconnected
+14 behind the customer's meter or interconnected behind its own
+15 meter;
+16 (5) "Smart inverter", a device that converts direct
+17 current from solar panels into alternating current and meets
+
+SB 1473 2
+18 all applicable safety, performance, interconnection, and
+19 reliability standards established by the National Electrical
+20 Code, the National Electrical Safety Code, the Institute of
+21 Electrical and Electronics Engineers, Underwriters
+22 Laboratories, the Federal Energy Regulatory Commission, and
+23 any local governing authorities.
+24 2. Within ninety days after August 28, 2026, an
+25 electrical corporation shall file an application with the
+26 commission requesting approval of the corporation's tariff
+27 to provide a rebate to any customer-generator installing any
+28 energy storage system and, if applicable, a new solar
+29 electric system at the customer-generator's premises for the
+30 customer-generator's own use. The rebate shall be as
+31 follows:
+32 (1) Two dollars per watt for systems becoming
+33 operational on or before June 30, 2027;
+34 (2) One dollar and fifty cents per watt for systems
+35 becoming operational between July 1, 2027, and June 30, 2028;
+36 (3) One dollar per watt for systems becoming
+37 operational between July 1, 2028, and June 30, 2029;
+38 (4) Fifty cents per watt for systems becoming
+39 operational between July 1, 2029, and June 30, 2030;
+40 (5) Fifty cents per watt for systems becoming
+41 operational between July 1, 2030, and June 30, 2031; or
+42 (6) Twenty-five cents per watt for systems becoming
+43 operational between July 1, 2031, and June 30, 2032.
+44 The rebate amounts under this subsection shall be issued
+45 until such funds expire or exceed the allotted amounts. An
+46 electrical corporation may, through its tariffs, require
+47 applications for rebates to be submitted by customer-
+
+SB 1473 3
+48 generators up to one hundred and eighty days prior to June
+49 30, 2027.
+50 3. The commission shall review the application under
+51 subsection 2 of this section and make modifications, if
+52 necessary, that are consistent with the commission's
+53 authority under chapter 386. No later than one hundred and
+54 eighty days after the electrical corporation files the
+55 application under subsection 2 of this section, the
+56 commission shall hold a hearing and issue an order
+57 approving, or approving with modifications, the tariff.
+58 4. To be eligible for a rebate under this section, a
+59 customer-generator shall:
+60 (1) Have a smart inverter installed at the customer's
+61 premises that is interconnected to distribution facilities
+62 owned or operated by an electrical corporation;
+63 (2) Install an energy storage system;
+64 (3) Connect an energy storage system to a new or
+65 existing solar electric system sited on the customer-
+66 generator's premises that is confirmed by the electrical
+67 corporation to have become operational and in compliance
+68 with the provisions of section 386.890; and
+69 (4) Transfer to the electrical corporation all rights,
+70 titles, and interest in and to the renewable energy credits
+71 associated with the solar electric system and energy storage
+72 system that qualified the customer-generator for the rebate
+73 for a period of ten years from the date the electrical
+74 corporation confirmed that the energy storage system was
+75 installed and operational.
+76 5. An electrical corporation's obligation to make
+77 rebate payments under this section shall not exceed the
+78 following limitations:
+
+SB 1473 4
+79 (1) As of August 28, 2026, an electrical corporation
+80 with one million or more customers in the state shall not be
+81 obligated to pay rebates in any calendar year from 2026
+82 through 2032 in an amount exceeding five million six hundred
+83 thousand dollars or in an aggregate amount exceeding twenty-
+84 eight million dollars;
+85 (2) As of August 28, 2026, an electrical corporation
+86 with less than one million but more than two hundred
+87 thousand customers in the state shall not be obligated to
+88 pay rebates in any calendar year from 2026 through 2032 in
+89 an amount exceeding one million six hundred thousand dollars
+90 or in an aggregate amount exceeding eight million dollars;
+91 and
+92 (3) As of August 28, 2026, an electrical corporation
+93 with two hundred thousand or less customers in the state
+94 shall not be obligated to pay rebates in any calendar year
+95 from 2026 through 2032 in an amount exceeding one million
+96 four hundred thousand dollars or in an aggregate amount
+97 exceeding seven million dollars.
+98 6. After the issuance of the rebate under this
+99 section, an electrical corporation shall be permitted to
+100 recover the cost of all rebate payments it has made through
+101 either base rates or a rate adjustment mechanism under
+102 section 393.1030 and shall also be permitted to defer and
+103 amortize the recovery of such costs, including interest at
+104 the electrical corporation's short-term borrowing rate,
+105 through either base rates or a surcharge over a period of
+106 the electrical corporation's choice not to exceed five
+107 years, provided that if recovery of such costs in such
+108 manner and over such a time period would cause the
+109 electrical corporation to exceed the one percent maximum
+110 average retail rate increase limitation required by
+
+SB 1473 5
+111 subdivision (1) of subsection 2 of section 393.1030. The
+112 recovery of such costs that would exceed the one percent
+113 maximum average retail rate increase limitation shall be
+114 deferred by the electrical corporation to a regulatory asset
+115 to which carrying costs at the electrical corporation's
+116 weighted average cost of capital shall be added and
+117 recovered through base rates or through a rate adjustment
+118 mechanism under section 393.1030, as soon as practicable.
+119 7. The commission shall promulgate rules to implement
+120 the provisions of this section. Any rule or portion of a
+121 rule, as that term is defined in section 536.010, that is
+122 created under the authority delegated in this section shall
+123 become effective only if it complies with and is subject to
+124 all of the provisions of chapter 536 and, if applicable,
+125 section 536.028. This section and chapter 536 are
+126 nonseverable and if any of the powers vested with the
+127 general assembly pursuant to chapter 536 to review, to delay
+128 the effective date, or to disapprove and annul a rule are
+129 subsequently held unconstitutional, then the grant of
+130 rulemaking authority and any rule proposed or adopted after
+131 August 28, 2026, shall be invalid and void.
+✓
+
+[DELETED:  K.1.A   )" )" )" )"      )"  ]
+[DELETED: S     .W      .T )T )O )O )F )F )T  .A   ]
+[DELETED: S .T   .N    .T )H   )I)C    )T      .A  ]
+[DELETED: S)A     )A      )A     .A             ]
+[DELETED: S.T       .T      .T      ]
