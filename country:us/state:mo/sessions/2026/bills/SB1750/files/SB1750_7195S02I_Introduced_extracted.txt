@@ -1,0 +1,674 @@
+Title: SENATE BILL NO. 1750
+Official Title: SENATE BILL NO. 1750
+Number of Sections: 1
+Source: versions - 7195S.02I - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR MCCREERY.
+7195S.02I KRISTINA MARTIN, Secretary
+AN ACT
+To repeal section 393.130, RSMo, and to enact in lieu thereof two new sections relating to the
+regulation of large load electric customers.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Section 393.130, RSMo, is repealed and two new
+2 sections enacted in lieu thereof, to be known as sections
+3 393.130 and 393.325, to read as follows:
+1 393.130. 1. Every gas corporation, every electrical
+2 corporation, every water corporation, and every sewer
+3 corporation shall furnish and provide such service
+4 instrumentalities and facilities as shall be safe and
+5 adequate and in all respects just and reasonable. All
+6 charges made or demanded by any such gas corporation,
+7 electrical corporation, water corporation or sewer
+8 corporation for gas, electricity, water, sewer or any
+9 service rendered or to be rendered shall be just and
+10 reasonable and not more than allowed by law or by order or
+11 decision of the commission. Every unjust or unreasonable
+12 charge made or demanded for gas, electricity, water, sewer
+13 or any such service, or in connection therewith, or in
+14 excess of that allowed by law or by order or decision of the
+15 commission is prohibited.
+16 2. No gas corporation, electrical corporation, water
+17 corporation or sewer corporation shall directly or
+EXPLANATION-Matter enclosed in bold-faced brackets [thus] in this bill is not enacted
+and is intended to be omitted in the law.
+SB 1750 2
+18 indirectly by any special rate, rebate, drawback or other
+19 device or method, charge, demand, collect or receive from
+20 any person or corporation a greater or less compensation for
+21 gas, electricity, water, sewer or for any service rendered
+22 or to be rendered or in connection therewith, except as
+23 authorized in this chapter, than it charges, demands,
+24 collects or receives from any other person or corporation
+25 for doing a like and contemporaneous service with respect
+26 thereto under the same or substantially similar
+27 circumstances or conditions.
+28 3. No gas corporation, electrical corporation, water
+29 corporation or sewer corporation shall make or grant any
+30 undue or unreasonable preference or advantage to any person,
+31 corporation or locality, or to any particular description of
+32 service in any respect whatsoever, or subject any particular
+33 person, corporation or locality or any particular
+34 description of service to any undue or unreasonable
+35 prejudice or disadvantage in any respect whatsoever.
+36 4. Nothing in this section shall be taken to prohibit
+37 a gas corporation, electrical corporation, water corporation
+38 or sewer corporation from establishing a sliding scale for a
+39 fixed period for the automatic adjustment of charges for
+40 gas, electricity, water, sewer or any service rendered or to
+41 be rendered and the dividends to be paid stockholders of
+42 such gas corporation, electrical corporation, water
+43 corporation or sewer corporation; provided, that the sliding
+44 scale shall first have been filed with and approved by the
+45 commission; but nothing in this subsection shall operate to
+46 prevent the commission after the expiration of such fixed
+47 period from fixing proper, just and reasonable rates and
+48 charges to be made for service as authorized in sections
+49 393.110 to 393.285.
+SB 1750 3
+50 5. No water corporation shall be permitted to charge
+51 any municipality or fire protection district a rate for the
+52 placing and providing of fire hydrants for distribution of
+53 water for use in protecting life and property from the
+54 hazards of fire within such municipality or fire protection
+55 district. Nothing herein shall prevent such water
+56 corporation from including the cost of placement and
+57 maintenance of such fire hydrants in its cost basis in
+58 determining a fair and reasonable rate to be charged for
+59 water. Any such fee or rental charge being made for such
+60 fire hydrants whether by contract or otherwise at the time
+61 this act shall take effect may remain in effect for a period
+62 of one hundred twenty days after this section shall take
+63 effect.
+64 6. In any home rule city with more than four hundred
+65 thousand inhabitants and located in more than one county,
+66 any deposits held by the city for any water or sewerage
+67 services provided to a customer at any premises shall accrue
+68 interest if the customer is current in payments for water
+69 and sewerage services and if the city has held the deposit
+70 for two or more years. Interest for each year, or part
+71 thereof, shall accrue at the rate set for six month United
+72 States treasury bills effective December thirty-first of the
+73 preceding year. For any deposit held by the city on or
+74 before the December thirty-first prior to August 28, 2002,
+75 if that deposit is still held by the city on the December
+76 thirty-first one year next following August 28, 2002,
+77 interest accruing pursuant to this section from the
+78 effective date shall be credited to the customer's
+79 individual account, or paid to the customer, at the city's
+80 discretion.
+SB 1750 4
+81 7. Each electrical corporation providing electric
+82 service to more than two hundred fifty thousand customers
+83 shall develop and submit to the commission schedules to
+84 include in the electrical corporation's service tariff
+85 applicable to customers who are reasonably projected to have
+86 above an annual peak demand of [one hundred] fifty megawatts
+87 or more. The schedules should reasonably ensure such
+88 customers' rates will reflect the customers' representative
+89 share of the costs incurred to serve the customers and
+90 prevent other customer classes' rates from reflecting any
+91 unjust or unreasonable costs arising from service to such
+92 customers. Each electrical corporation providing electric
+93 service to two hundred fifty thousand or fewer customers as
+94 of January 1, 2025, shall develop and submit to the
+95 commission such schedules applicable to customers who are
+96 reasonably projected to have above an annual peak demand of
+97 fifty megawatts or more. The commission may order
+98 electrical corporations to submit similar tariffs to
+99 reasonably ensure that the rates of customers who are
+100 reasonably projected to have annual peak demands below the
+101 above-referenced levels will reflect the customers'
+102 representative share of the costs incurred to serve the
+103 customers and prevent other customer classes' rates from
+104 reflecting any unjust or unreasonable costs arising from
+105 service to such customers.
+1 393.325. 1. As used in this section, the following
+2 terms mean:
+3 (1) "Commission", the Missouri public service
+4 commission;
+5 (2) "Electrical corporation", the same as defined in
+6 section 386.020;
+SB 1750 5
+7 (3) "Large load facility", a facility that centralizes
+8 an organization's information technology operations and
+9 equipment for storing, managing, processing, and
+10 transmitting data. A large load facility contains critical
+11 information technology infrastructure, including servers,
+12 storage systems, and networking equipment supported by
+13 electrical generation, cooling, and security systems;
+14 (4) "Public utility", the same as defined in section
+15 386.020;
+16 (5) "Study costs", a financial analysis, feasibility,
+17 and estimation expenses projected to be incurred from
+18 planning, constructing, operating, or upgrading a large load
+19 facility.
+20 2. An owner or operator of a large load facility with
+21 an intent to operate the facility in the state after August
+22 28, 2026, shall file a disclosure of intent to operate with
+23 the commission before signing any binding contract with any
+24 public utility. Such disclosure shall include at a minimum:
+25 (1) Intent to operate;
+26 (2) Geographical location of operation; and
+27 (3) Facility specifics as applicable:
+28 (a) Predicted energy needs of operation and strategies
+29 for effectiveness of use;
+30 (b) Projected water usage estimates and strategies for
+31 effectiveness of use;
+32 (c) Projected total harmonic distortion measurements;
+33 (d) Airflow management plan;
+34 (e) Cooling system type and plan;
+35 (f) Plans for expansion of site; and
+36 (g) Plans for onsite power generation.
+37 3. During the review process of the disclosure under
+38 subsection 2 of this section, the commission shall take into
+SB 1750 6
+39 account the availability of local, state, and regional
+40 resources, including the current availability of electric
+41 generation, distribution, and transmission infrastructure to
+42 operate a large load facility without putting an electric
+43 burden on other customers connected to the same electric
+44 grid as the proposed large load facility. The commission
+45 shall make the disclosure publicly accessible on the
+46 commission's website. The commission shall require an owner
+47 or operator to include the following in the disclosure:
+48 (1) Provide baseline measurements of the proposed site
+49 to identify any existing issues with building a large load
+50 facility before the site is developed;
+51 (2) Provide power generation specifics that the large
+52 load facility plans to have on site;
+53 (3) Sign an affidavit that the large load facility
+54 shall enter into a contract with a public utility; and
+55 (4) Show that a large load facility shall have a
+56 minimum contract term of twenty years with an electrical
+57 corporation and a five-year period of termination with a
+58 five-year disconnection notice.
+59 4. The commission shall have the authority to approve,
+60 provisionally approve with the description of metrics needed
+61 for full approval, or deny the disclosure if the large load
+62 facility fails to meet the state and regional generation,
+63 distribution, or transmission infrastructure requirements.
+64 5. Upon approval of the disclosure under subsection 2
+65 of this section, an owner or operator of a large load
+66 facility shall conduct a preconstruction study of the large
+67 load facility and submit the results of the study to the
+68 commission. The study shall include, but not be limited to,
+69 the following:
+70 (1) The use of cooling systems;
+SB 1750 7
+71 (2) Power distribution;
+72 (3) Hardware efficiency;
+73 (4) Airflow management;
+74 (5) Modular design for expansion, if necessary;
+75 (6) Onsite power generation plan, if applicable;
+76 (7) Water usage effectiveness, including but not
+77 limited to:
+78 (a) Preconstruction water usage;
+79 (b) Preconstruction water availability;
+80 (c) Historical and projected weather patterns;
+81 (d) Water demand for a data center and demand for the
+82 customers in the area who may be impacted;
+83 (e) Potential water shortfall plan;
+84 (f) Onsite water treatment plan, if applicable; and
+85 (g) The use of water on cooling systems, if applicable;
+86 (8) Any feedback from the department of natural
+87 resources and relevant soil and water conservation district,
+88 if any, on the large load facility's water use and the
+89 impact on local communities; and
+90 (9) Harmonic distortion measurements not to exceed
+91 fifty decibels between the hours of 9 a.m. to 9 p.m. and
+92 forty-five decibels between the hours of 9 p.m. to 9 a.m.
+93 The study under this subsection shall be conducted for the
+94 second time after the construction of the large load
+95 facility is completed to ensure no deficiencies are present
+96 and whether mitigation is necessary. If the
+97 postconstruction study shows any deficiencies or
+98 disparities, the owner or operator shall pay for any
+99 mitigation expenses. Results of the pre and
+100 postconstruction studies shall be reported to the commission
+101 and shall be made available to the public before and after
+SB 1750 8
+102 construction is completed and annually thereafter in a
+103 format determined by the commission.
+104 6. After the disclosure under subsection 2 of this
+105 section is approved by the commission, an owner or operator
+106 of the large load facility shall be required to:
+107 (1) Deposit and maintain in a financial institution
+108 authorized to do business in the state a sum equal to the
+109 total cost of twenty-four months of minimum monthly payments
+110 for electric consumption by the large load facility;
+111 (2) Provide collateral equal to five years of minimum
+112 monthly bills;
+113 (3) Pay for the large load facility's electric
+114 capacity, including that in the event the large load
+115 facility's electric consumption falls below ninety percent,
+116 the large load facility shall continue as if the facility is
+117 operating at capacity;
+118 (4) Cover the costs of transmission network upgrades
+119 as necessary;
+120 (5) Cover the costs of capital expenditure for any
+121 needed infrastructure for generation, distribution, or
+122 transmission network upgrades to make such facility
+123 operational; and
+124 (6) Cover the cost of capital expenditure and
+125 maintenance costs of the facility to prevent the degradation
+126 of power quality, water quality, and the reduction of
+127 harmonic distortion.
+128 Costs under subdivisions (4), (5), and (6) of this
+129 subsection shall not be shifted to any other class of
+130 ratepayers in a general rate proceeding.
+131 7. After a large load facility becomes operational, an
+132 owner or operator of the facility shall contribute to a
+SB 1750 9
+133 statewide organization aimed at supporting nonprofit
+134 organizations operating the federal Low Income Home Energy
+135 Assistance Program or the Missouri low-income weatherization
+136 assistance program or to the Utilicare plan pursuant to
+137 sections 660.100 to 660.136 annually, as follows:
+138 (a) A large load facility that consumes between zero
+139 to twenty-five megawatts of electricity shall pay two
+140 hundred fifty thousand dollars;
+141 (b) A large load facility that consumes between twenty-
+142 five to fifty megawatts of electricity shall pay five
+143 hundred thousand dollars; or
+144 (c) A large load facility that consumes more than
+145 fifty megawatts of electricity shall pay one million dollars.
+146 8. (1) Any large load facility with a peak electrical
+147 demand of greater than twenty-five megawatts shall implement
+148 an emergency curtailment system for temporary reduction or
+149 suspension of electric usage. Such system shall allow an
+150 electrical corporation that provides electricity to the
+151 facility to temporarily reduce or suspend electric service
+152 during firm load emergencies including, but not limited to,
+153 low operating energy reserves or rotating electrical outages.
+154 (2) A Large load facility under this subsection may
+155 switch to backup generation that is self-supported during
+156 firm load emergency curtailment procedures.
+157 (3) A large load facility under this subsection shall
+158 submit annual energy consumption data and emergency
+159 curtailment plans to the commission and such plans shall be
+160 made available by the commission on the commission's website
+161 to the public.
+162 (4) A large load facility under this subsection that
+163 provides services to entities that provide critical services
+164 including, but not limited to, hospitals, long-term care
+SB 1750 10
+165 facilities, or first-responder facilities shall be exempted
+166 from the provisions of this subsection.
+167 9. A large load facility shall not get a refund
+168 relating to any capacity adjustment. Such refund shall be
+169 processed through a fuel adjustment clause.
+170 10. An owner or operator of a large load facility
+171 shall be required to pay for the facility's interconnection
+172 and study costs. Such costs shall not be shifted to
+173 ratepayers in a general rate proceeding.
+174 11. The commission shall promulgate rules to implement
+175 the provisions of this section. Any rule or portion of a
+176 rule, as that term is defined in section 536.010, that is
+177 created under the authority delegated in this section shall
+178 become effective only if it complies with and is subject to
+179 all of the provisions of chapter 536 and, if applicable,
+180 section 536.028. This section and chapter 536 are
+181 nonseverable and if any of the powers vested with the
+182 general assembly pursuant to chapter 536 to review, to delay
+183 the effective date, or to disapprove and annul a rule are
+184 subsequently held unconstitutional, then the grant of
+185 rulemaking authority and any rule proposed or adopted after
+186 August 28, 2026, shall be invalid and void.
+✓
+[DELETED:  K e i l t t b k a s.1.E      .A      .E    .N  ]
+[DELETED: S         .N       .N             ]
+[DELETED: S.N     .N    .A    .I      .I   .F       ]
+[DELETED: S.E      od  ]f .T     .E     .T        .1.A   )" )" ]
+[DELETED: S)"   .A   )" )"   .A    .S )I )G )F)P )P  )P )A )C )P )P.D  ]
+[DELETED: S     .T  .T )P  )P )S )S   .T    .U    .T  )T]
+[DELETED: S )P )H )A )M )O)W  )P )P )H)W  )P )O )T)A   )H     .I   .R   ]
+[DELETED: S .A  )D   )P )P    )C )C   )C     .A  ]
+[DELETED: S    )A  )A  )A .()A     .S    )A  )A    )A   ]
+[DELETED: S .A .S .A  .S .T .A     .T      ]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+SENATE BILL NO. 1750
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR MCCREERY.
+7195S.02I KRISTINA MARTIN, Secretary
+AN ACT
+To repeal section 393.130, RSMo, and to enact in lieu thereof two new sections relating to the
+regulation of large load electric customers.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Section 393.130, RSMo, is repealed and two new
+2 sections enacted in lieu thereof, to be known as sections
+3 393.130 and 393.325, to read as follows:
+1 393.130. 1. Every gas corporation, every electrical
+2 corporation, every water corporation, and every sewer
+3 corporation shall furnish and provide such service
+4 instrumentalities and facilities as shall be safe and
+5 adequate and in all respects just and reasonable. All
+6 charges made or demanded by any such gas corporation,
+7 electrical corporation, water corporation or sewer
+8 corporation for gas, electricity, water, sewer or any
+9 service rendered or to be rendered shall be just and
+10 reasonable and not more than allowed by law or by order or
+11 decision of the commission. Every unjust or unreasonable
+12 charge made or demanded for gas, electricity, water, sewer
+13 or any such service, or in connection therewith, or in
+14 excess of that allowed by law or by order or decision of the
+15 commission is prohibited.
+16 2. No gas corporation, electrical corporation, water
+17 corporation or sewer corporation shall directly or
+EXPLANATION-Matter enclosed in bold-faced brackets [thus] in this bill is not enacted
+and is intended to be omitted in the law.
+
+SB 1750 2
+18 indirectly by any special rate, rebate, drawback or other
+19 device or method, charge, demand, collect or receive from
+20 any person or corporation a greater or less compensation for
+21 gas, electricity, water, sewer or for any service rendered
+22 or to be rendered or in connection therewith, except as
+23 authorized in this chapter, than it charges, demands,
+24 collects or receives from any other person or corporation
+25 for doing a like and contemporaneous service with respect
+26 thereto under the same or substantially similar
+27 circumstances or conditions.
+28 3. No gas corporation, electrical corporation, water
+29 corporation or sewer corporation shall make or grant any
+30 undue or unreasonable preference or advantage to any person,
+31 corporation or locality, or to any particular description of
+32 service in any respect whatsoever, or subject any particular
+33 person, corporation or locality or any particular
+34 description of service to any undue or unreasonable
+35 prejudice or disadvantage in any respect whatsoever.
+36 4. Nothing in this section shall be taken to prohibit
+37 a gas corporation, electrical corporation, water corporation
+38 or sewer corporation from establishing a sliding scale for a
+39 fixed period for the automatic adjustment of charges for
+40 gas, electricity, water, sewer or any service rendered or to
+41 be rendered and the dividends to be paid stockholders of
+42 such gas corporation, electrical corporation, water
+43 corporation or sewer corporation; provided, that the sliding
+44 scale shall first have been filed with and approved by the
+45 commission; but nothing in this subsection shall operate to
+46 prevent the commission after the expiration of such fixed
+47 period from fixing proper, just and reasonable rates and
+48 charges to be made for service as authorized in sections
+49 393.110 to 393.285.
+
+SB 1750 3
+50 5. No water corporation shall be permitted to charge
+51 any municipality or fire protection district a rate for the
+52 placing and providing of fire hydrants for distribution of
+53 water for use in protecting life and property from the
+54 hazards of fire within such municipality or fire protection
+55 district. Nothing herein shall prevent such water
+56 corporation from including the cost of placement and
+57 maintenance of such fire hydrants in its cost basis in
+58 determining a fair and reasonable rate to be charged for
+59 water. Any such fee or rental charge being made for such
+60 fire hydrants whether by contract or otherwise at the time
+61 this act shall take effect may remain in effect for a period
+62 of one hundred twenty days after this section shall take
+63 effect.
+64 6. In any home rule city with more than four hundred
+65 thousand inhabitants and located in more than one county,
+66 any deposits held by the city for any water or sewerage
+67 services provided to a customer at any premises shall accrue
+68 interest if the customer is current in payments for water
+69 and sewerage services and if the city has held the deposit
+70 for two or more years. Interest for each year, or part
+71 thereof, shall accrue at the rate set for six month United
+72 States treasury bills effective December thirty-first of the
+73 preceding year. For any deposit held by the city on or
+74 before the December thirty-first prior to August 28, 2002,
+75 if that deposit is still held by the city on the December
+76 thirty-first one year next following August 28, 2002,
+77 interest accruing pursuant to this section from the
+78 effective date shall be credited to the customer's
+79 individual account, or paid to the customer, at the city's
+80 discretion.
+
+SB 1750 4
+81 7. Each electrical corporation providing electric
+82 service to more than two hundred fifty thousand customers
+83 shall develop and submit to the commission schedules to
+84 include in the electrical corporation's service tariff
+85 applicable to customers who are reasonably projected to have
+86 above an annual peak demand of [one hundred] fifty megawatts
+87 or more. The schedules should reasonably ensure such
+88 customers' rates will reflect the customers' representative
+89 share of the costs incurred to serve the customers and
+90 prevent other customer classes' rates from reflecting any
+91 unjust or unreasonable costs arising from service to such
+92 customers. Each electrical corporation providing electric
+93 service to two hundred fifty thousand or fewer customers as
+94 of January 1, 2025, shall develop and submit to the
+95 commission such schedules applicable to customers who are
+96 reasonably projected to have above an annual peak demand of
+97 fifty megawatts or more. The commission may order
+98 electrical corporations to submit similar tariffs to
+99 reasonably ensure that the rates of customers who are
+100 reasonably projected to have annual peak demands below the
+101 above-referenced levels will reflect the customers'
+102 representative share of the costs incurred to serve the
+103 customers and prevent other customer classes' rates from
+104 reflecting any unjust or unreasonable costs arising from
+105 service to such customers.
+1 393.325. 1. As used in this section, the following
+2 terms mean:
+3 (1) "Commission", the Missouri public service
+4 commission;
+5 (2) "Electrical corporation", the same as defined in
+6 section 386.020;
+
+SB 1750 5
+7 (3) "Large load facility", a facility that centralizes
+8 an organization's information technology operations and
+9 equipment for storing, managing, processing, and
+10 transmitting data. A large load facility contains critical
+11 information technology infrastructure, including servers,
+12 storage systems, and networking equipment supported by
+13 electrical generation, cooling, and security systems;
+14 (4) "Public utility", the same as defined in section
+15 386.020;
+16 (5) "Study costs", a financial analysis, feasibility,
+17 and estimation expenses projected to be incurred from
+18 planning, constructing, operating, or upgrading a large load
+19 facility.
+20 2. An owner or operator of a large load facility with
+21 an intent to operate the facility in the state after August
+22 28, 2026, shall file a disclosure of intent to operate with
+23 the commission before signing any binding contract with any
+24 public utility. Such disclosure shall include at a minimum:
+25 (1) Intent to operate;
+26 (2) Geographical location of operation; and
+27 (3) Facility specifics as applicable:
+28 (a) Predicted energy needs of operation and strategies
+29 for effectiveness of use;
+30 (b) Projected water usage estimates and strategies for
+31 effectiveness of use;
+32 (c) Projected total harmonic distortion measurements;
+33 (d) Airflow management plan;
+34 (e) Cooling system type and plan;
+35 (f) Plans for expansion of site; and
+36 (g) Plans for onsite power generation.
+37 3. During the review process of the disclosure under
+38 subsection 2 of this section, the commission shall take into
+
+SB 1750 6
+39 account the availability of local, state, and regional
+40 resources, including the current availability of electric
+41 generation, distribution, and transmission infrastructure to
+42 operate a large load facility without putting an electric
+43 burden on other customers connected to the same electric
+44 grid as the proposed large load facility. The commission
+45 shall make the disclosure publicly accessible on the
+46 commission's website. The commission shall require an owner
+47 or operator to include the following in the disclosure:
+48 (1) Provide baseline measurements of the proposed site
+49 to identify any existing issues with building a large load
+50 facility before the site is developed;
+51 (2) Provide power generation specifics that the large
+52 load facility plans to have on site;
+53 (3) Sign an affidavit that the large load facility
+54 shall enter into a contract with a public utility; and
+55 (4) Show that a large load facility shall have a
+56 minimum contract term of twenty years with an electrical
+57 corporation and a five-year period of termination with a
+58 five-year disconnection notice.
+59 4. The commission shall have the authority to approve,
+60 provisionally approve with the description of metrics needed
+61 for full approval, or deny the disclosure if the large load
+62 facility fails to meet the state and regional generation,
+63 distribution, or transmission infrastructure requirements.
+64 5. Upon approval of the disclosure under subsection 2
+65 of this section, an owner or operator of a large load
+66 facility shall conduct a preconstruction study of the large
+67 load facility and submit the results of the study to the
+68 commission. The study shall include, but not be limited to,
+69 the following:
+70 (1) The use of cooling systems;
+
+SB 1750 7
+71 (2) Power distribution;
+72 (3) Hardware efficiency;
+73 (4) Airflow management;
+74 (5) Modular design for expansion, if necessary;
+75 (6) Onsite power generation plan, if applicable;
+76 (7) Water usage effectiveness, including but not
+77 limited to:
+78 (a) Preconstruction water usage;
+79 (b) Preconstruction water availability;
+80 (c) Historical and projected weather patterns;
+81 (d) Water demand for a data center and demand for the
+82 customers in the area who may be impacted;
+83 (e) Potential water shortfall plan;
+84 (f) Onsite water treatment plan, if applicable; and
+85 (g) The use of water on cooling systems, if applicable;
+86 (8) Any feedback from the department of natural
+87 resources and relevant soil and water conservation district,
+88 if any, on the large load facility's water use and the
+89 impact on local communities; and
+90 (9) Harmonic distortion measurements not to exceed
+91 fifty decibels between the hours of 9 a.m. to 9 p.m. and
+92 forty-five decibels between the hours of 9 p.m. to 9 a.m.
+93 The study under this subsection shall be conducted for the
+94 second time after the construction of the large load
+95 facility is completed to ensure no deficiencies are present
+96 and whether mitigation is necessary. If the
+97 postconstruction study shows any deficiencies or
+98 disparities, the owner or operator shall pay for any
+99 mitigation expenses. Results of the pre and
+100 postconstruction studies shall be reported to the commission
+101 and shall be made available to the public before and after
+
+SB 1750 8
+102 construction is completed and annually thereafter in a
+103 format determined by the commission.
+104 6. After the disclosure under subsection 2 of this
+105 section is approved by the commission, an owner or operator
+106 of the large load facility shall be required to:
+107 (1) Deposit and maintain in a financial institution
+108 authorized to do business in the state a sum equal to the
+109 total cost of twenty-four months of minimum monthly payments
+110 for electric consumption by the large load facility;
+111 (2) Provide collateral equal to five years of minimum
+112 monthly bills;
+113 (3) Pay for the large load facility's electric
+114 capacity, including that in the event the large load
+115 facility's electric consumption falls below ninety percent,
+116 the large load facility shall continue as if the facility is
+117 operating at capacity;
+118 (4) Cover the costs of transmission network upgrades
+119 as necessary;
+120 (5) Cover the costs of capital expenditure for any
+121 needed infrastructure for generation, distribution, or
+122 transmission network upgrades to make such facility
+123 operational; and
+124 (6) Cover the cost of capital expenditure and
+125 maintenance costs of the facility to prevent the degradation
+126 of power quality, water quality, and the reduction of
+127 harmonic distortion.
+128 Costs under subdivisions (4), (5), and (6) of this
+129 subsection shall not be shifted to any other class of
+130 ratepayers in a general rate proceeding.
+131 7. After a large load facility becomes operational, an
+132 owner or operator of the facility shall contribute to a
+
+SB 1750 9
+133 statewide organization aimed at supporting nonprofit
+134 organizations operating the federal Low Income Home Energy
+135 Assistance Program or the Missouri low-income weatherization
+136 assistance program or to the Utilicare plan pursuant to
+137 sections 660.100 to 660.136 annually, as follows:
+138 (a) A large load facility that consumes between zero
+139 to twenty-five megawatts of electricity shall pay two
+140 hundred fifty thousand dollars;
+141 (b) A large load facility that consumes between twenty-
+142 five to fifty megawatts of electricity shall pay five
+143 hundred thousand dollars; or
+144 (c) A large load facility that consumes more than
+145 fifty megawatts of electricity shall pay one million dollars.
+146 8. (1) Any large load facility with a peak electrical
+147 demand of greater than twenty-five megawatts shall implement
+148 an emergency curtailment system for temporary reduction or
+149 suspension of electric usage. Such system shall allow an
+150 electrical corporation that provides electricity to the
+151 facility to temporarily reduce or suspend electric service
+152 during firm load emergencies including, but not limited to,
+153 low operating energy reserves or rotating electrical outages.
+154 (2) A Large load facility under this subsection may
+155 switch to backup generation that is self-supported during
+156 firm load emergency curtailment procedures.
+157 (3) A large load facility under this subsection shall
+158 submit annual energy consumption data and emergency
+159 curtailment plans to the commission and such plans shall be
+160 made available by the commission on the commission's website
+161 to the public.
+162 (4) A large load facility under this subsection that
+163 provides services to entities that provide critical services
+164 including, but not limited to, hospitals, long-term care
+
+SB 1750 10
+165 facilities, or first-responder facilities shall be exempted
+166 from the provisions of this subsection.
+167 9. A large load facility shall not get a refund
+168 relating to any capacity adjustment. Such refund shall be
+169 processed through a fuel adjustment clause.
+170 10. An owner or operator of a large load facility
+171 shall be required to pay for the facility's interconnection
+172 and study costs. Such costs shall not be shifted to
+173 ratepayers in a general rate proceeding.
+174 11. The commission shall promulgate rules to implement
+175 the provisions of this section. Any rule or portion of a
+176 rule, as that term is defined in section 536.010, that is
+177 created under the authority delegated in this section shall
+178 become effective only if it complies with and is subject to
+179 all of the provisions of chapter 536 and, if applicable,
+180 section 536.028. This section and chapter 536 are
+181 nonseverable and if any of the powers vested with the
+182 general assembly pursuant to chapter 536 to review, to delay
+183 the effective date, or to disapprove and annul a rule are
+184 subsequently held unconstitutional, then the grant of
+185 rulemaking authority and any rule proposed or adopted after
+186 August 28, 2026, shall be invalid and void.
+✓
+
+[DELETED:  K e i l t t b k a s.1.E      .A      .E    .N  ]
+[DELETED: S         .N       .N             ]
+[DELETED: S.N     .N    .A    .I      .I   .F       ]
+[DELETED: S.E      od  ]f .T     .E     .T        .1.A   )" )" ]
+[DELETED: S)"   .A   )" )"   .A    .S )I )G )F)P )P  )P )A )C )P )P.D  ]
+[DELETED: S     .T  .T )P  )P )S )S   .T    .U    .T  )T]
+[DELETED: S )P )H )A )M )O)W  )P )P )H)W  )P )O )T)A   )H     .I   .R   ]
+[DELETED: S .A  )D   )P )P    )C )C   )C     .A  ]
+[DELETED: S    )A  )A  )A .()A     .S    )A  )A    )A   ]
+[DELETED: S .A .S .A  .S .T .A     .T      ]

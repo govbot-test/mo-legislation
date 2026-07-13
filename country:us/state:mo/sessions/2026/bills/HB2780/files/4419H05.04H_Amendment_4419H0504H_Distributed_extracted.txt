@@ -1,0 +1,179 @@
+Title: House _____________________________________________________ Amendment NO.____
+Official Title: House _____________________________________________________ Amendment NO.____
+Number of Sections: 1
+Source: versions - Amendment 4419H05.04H (Distributed)
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+4419H05.04H
+HB 2780
+Offered By
+_____________________________________ ___________________________________
+1 AMEND House Committee Substitute for House Bill Nos. 2780 & 2668, Page 40, Section
+2 137.115, Line 124, by deleting all of said line and inserting in lieu thereof the following:
+3 "9. For the tax year ending on or before December 31, 2026, the assessor of each county
+4 and each city not within a county shall use a nationally"; and
+5
+6 Further amend said bill, page, and section, Line 142, by inserting after the number "10."
+7 following:
+8
+9 "For all tax years beginning on or after January 1, 2027, the assessor of each county and
+10 each city not within a county shall use the manufacturer's suggested retail price for all
+11 manufactured motor vehicles as acquired annually by the state tax commission for the original
+12 value in money of all motor vehicle assessment valuations. For the purposes of this subsection,
+13 the term "original value in money" means the manufacturer's suggested retail price. For the
+14 purposes of this subsection, the term "motor vehicles" means trucks, automobiles, motorcycles,
+15 boats, trailers, and other motor vehicles required to be registered and titled pursuant to the
+16 provisions of the motor vehicle and registration laws of this state. The following twelve-year
+17 depreciation schedule shall be applied to each manufacturer's suggested retail price to develop
+18 the annual and historical valuation guide for all motor vehicles. The values shall be delivered to
+19 each software vendor not later than November fifteenth annually and vendors shall have the
+20 values in place by December fifteenth annually for use in the next assessment year. In the
+21 absence of a listing for a particular motor vehicle in such publication, the assessor shall use such
+22 information or publications that, in the assessor's judgment, will fairly estimate the original value
+23 in money of the motor vehicle and the assessor shall apply the appropriate depreciation from the
+24 table as follows:
+Year Percent Depreciation
+Current 15
+1 25
+2 30.9
+3 36.8
+Action Taken___________________________________________ Date __________________
+Page 1 of 3
+4419H05.04H
+4 42.7
+5 48.6
+6 54.5
+7 60.4
+8 66.3
+9 72.2
+10 78.1
+11 84
+12 90
+Greater than 12 Minimum assessed value of $300
+1
+2 To implement the new schedule without large variations from the current method, the assessor
+3 shall assume that the last valuation tables prior to October 1, 2027, are fair valuations and these
+4 valuations shall be depreciated from the above table until the end of their useful life. The state
+5 tax commission shall, with the assistance of the Missouri State Assessors' Association, develop
+6 the bid specifications to select and secure the original manufacturer's suggested retail price from
+7 a nationally recognized service. The state tax commission shall secure an annual appropriation
+8 from the legislature for the guide and the programming necessary to allow valuation by vehicle
+9 identification number in all certified mass appraisal software systems used in the state. The state
+10 tax commission or the state of Missouri shall be the registered user of the value guide with rights
+11 to allow all assessors access to the guide and to an online site. The state tax commission or state
+12 shall be responsible for renewals and annual software cost for preparing the data in a usable
+13 format for approved personal property software vendors in the state. If a county creates its own
+14 software, it shall meet the same standards as the approved vendors. The data shall be available
+15 to all vendors by November fifteenth annually. All vendors shall have the data available for use
+16 in their client counties by December fifteenth prior to the January first assessment date. When
+17 the manufacturer’s suggested retail price data is not available from the approved source or the
+18 assessor deems it not appropriate for the vehicle value he or she is valuing, the assessor may
+19 obtain a manufacturer’s suggested retail price from a source he or she deems reliable and apply
+20 the depreciation schedule set out above.
+21
+22 11. "; and
+23
+Page 2 of 3
+4419H05.04H
+1 Further amend said bill and section, Pages 40-42, by renumbering subsequent subsections
+2 accordingly; and
+3
+4 Further amend said bill by amending the title, enacting clause, and intersectional references
+5 accordingly.
+Page 3 of 3
+[DELETED: 				A1"aFf"0e1m2v3t4p5b6p7d8t9e0v1a2i3i4trPt1233]
+[DELETED: 								4456670718292MTsvttafi0t1t2s3f4s5t6i7t8a9o0t21]
+[DELETED: 								FaFa]
+
+
+================================================================================
+
+Raw Text:
+4419H05.04H
+HB 2780
+House _____________________________________________________ Amendment NO.____
+Offered By
+_____________________________________ ___________________________________
+1 AMEND House Committee Substitute for House Bill Nos. 2780 & 2668, Page 40, Section
+2 137.115, Line 124, by deleting all of said line and inserting in lieu thereof the following:
+3 "9. For the tax year ending on or before December 31, 2026, the assessor of each county
+4 and each city not within a county shall use a nationally"; and
+5
+6 Further amend said bill, page, and section, Line 142, by inserting after the number "10."
+7 following:
+8
+9 "For all tax years beginning on or after January 1, 2027, the assessor of each county and
+10 each city not within a county shall use the manufacturer's suggested retail price for all
+11 manufactured motor vehicles as acquired annually by the state tax commission for the original
+12 value in money of all motor vehicle assessment valuations. For the purposes of this subsection,
+13 the term "original value in money" means the manufacturer's suggested retail price. For the
+14 purposes of this subsection, the term "motor vehicles" means trucks, automobiles, motorcycles,
+15 boats, trailers, and other motor vehicles required to be registered and titled pursuant to the
+16 provisions of the motor vehicle and registration laws of this state. The following twelve-year
+17 depreciation schedule shall be applied to each manufacturer's suggested retail price to develop
+18 the annual and historical valuation guide for all motor vehicles. The values shall be delivered to
+19 each software vendor not later than November fifteenth annually and vendors shall have the
+20 values in place by December fifteenth annually for use in the next assessment year. In the
+21 absence of a listing for a particular motor vehicle in such publication, the assessor shall use such
+22 information or publications that, in the assessor's judgment, will fairly estimate the original value
+23 in money of the motor vehicle and the assessor shall apply the appropriate depreciation from the
+24 table as follows:
+Year Percent Depreciation
+Current 15
+1 25
+2 30.9
+3 36.8
+Action Taken___________________________________________ Date __________________
+Page 1 of 3
+
+4419H05.04H
+4 42.7
+5 48.6
+6 54.5
+7 60.4
+8 66.3
+9 72.2
+10 78.1
+11 84
+12 90
+Greater than 12 Minimum assessed value of $300
+1
+2 To implement the new schedule without large variations from the current method, the assessor
+3 shall assume that the last valuation tables prior to October 1, 2027, are fair valuations and these
+4 valuations shall be depreciated from the above table until the end of their useful life. The state
+5 tax commission shall, with the assistance of the Missouri State Assessors' Association, develop
+6 the bid specifications to select and secure the original manufacturer's suggested retail price from
+7 a nationally recognized service. The state tax commission shall secure an annual appropriation
+8 from the legislature for the guide and the programming necessary to allow valuation by vehicle
+9 identification number in all certified mass appraisal software systems used in the state. The state
+10 tax commission or the state of Missouri shall be the registered user of the value guide with rights
+11 to allow all assessors access to the guide and to an online site. The state tax commission or state
+12 shall be responsible for renewals and annual software cost for preparing the data in a usable
+13 format for approved personal property software vendors in the state. If a county creates its own
+14 software, it shall meet the same standards as the approved vendors. The data shall be available
+15 to all vendors by November fifteenth annually. All vendors shall have the data available for use
+16 in their client counties by December fifteenth prior to the January first assessment date. When
+17 the manufacturer’s suggested retail price data is not available from the approved source or the
+18 assessor deems it not appropriate for the vehicle value he or she is valuing, the assessor may
+19 obtain a manufacturer’s suggested retail price from a source he or she deems reliable and apply
+20 the depreciation schedule set out above.
+21
+22 11. "; and
+23
+Page 2 of 3
+
+4419H05.04H
+1 Further amend said bill and section, Pages 40-42, by renumbering subsequent subsections
+2 accordingly; and
+3
+4 Further amend said bill by amending the title, enacting clause, and intersectional references
+5 accordingly.
+Page 3 of 3
+
+[DELETED: 				A1"aFf"0e1m2v3t4p5b6p7d8t9e0v1a2i3i4trPt1233]
+[DELETED: 								4456670718292MTsvttafi0t1t2s3f4s5t6i7t8a9o0t21]
+[DELETED: 								FaFa]

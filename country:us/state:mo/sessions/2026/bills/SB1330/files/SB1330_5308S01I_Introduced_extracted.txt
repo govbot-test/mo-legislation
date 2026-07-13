@@ -1,0 +1,1299 @@
+Title: SENATE BILL NO. 1330
+Official Title: SENATE BILL NO. 1330
+Number of Sections: 1
+Source: versions - 5308S.01I - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 19 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR BRATTIN.
+5308S.01I KRISTINA MARTIN, Secretary
+AN ACT
+To repeal sections 115.013, 115.074, 115.078, 115.179, 115.181, 115.193, 115.221, and 115.642,
+RSMo, and to enact in lieu thereof ten new sections relating to elections, with penalty
+provisions and an effective date.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Sections 115.013, 115.074, 115.078, 115.179,
+2 115.181, 115.193, 115.221, and 115.642, RSMo, are repealed and
+3 ten new sections enacted in lieu thereof, to be known as
+4 sections 115.013, 115.179, 115.181, 115.193, 115.220, 115.221,
+5 115.642, 115.1500, 115.1505, and 115.1510, to read as follows:
+1 115.013. As used in this chapter, unless the context
+2 clearly implies otherwise, the following terms mean:
+3 (1) "Air-gap" or "air-gapped", a security measure in
+4 which equipment is physically and technically isolated from
+5 any network and is not directly connected to the internet
+6 nor is it connected to any other system that is connected to
+7 the internet. Data can only be passed to an air-gapped
+8 device physically via a USB or other removable media;
+9 (2) "Automatic tabulating equipment", the apparatus
+10 necessary to examine and automatically count votes, and the
+11 data processing machines which are used for counting votes
+12 and tabulating results and which are air-gapped and not
+13 physically able to be connected to a network;
+EXPLANATION-Matter enclosed in bold-faced brackets [thus] in this bill is not enacted
+and is intended to be omitted in the law.
+SB 1330 2
+14 (3) "Ballot", the paper ballot, or ballot designed
+15 for use with an electronic voting system on which each voter
+16 may cast all votes to which he or she is entitled at an
+17 election;
+18 (4) "Ballot label", the card, paper, booklet, page, or
+19 other material containing the names of all offices and
+20 candidates and statements of all questions to be voted on;
+21 (5) "Counting location", a location selected by the
+22 election authority for the automatic processing or counting,
+23 or both, of ballots;
+24 (6) "County", any county in this state or any city not
+25 within a county;
+26 (7) "Disqualified", a determination made by a court of
+27 competent jurisdiction, the Missouri ethics commission, an
+28 election authority or any other body authorized by law to
+29 make such a determination that a candidate is ineligible to
+30 hold office or not entitled to be voted on for office;
+31 (8) "District", an area within the state or within a
+32 political subdivision of the state from which a person is
+33 elected to represent the area on a policy-making body with
+34 representatives of other areas in the state or political
+35 subdivision;
+36 (9) "Electronic voting machine", any part of an air-
+37 gapped electronic voting system on which a voter is able to
+38 cast a ballot under this chapter;
+39 (10) "Electronic voting system", a system of casting
+40 votes by use of marking devices, and counting votes by use
+41 of automatic air-gapped tabulating or air-gapped data
+42 processing equipment, including computerized voting systems
+43 that mark or tabulate ballots;
+44 (11) "Established political party" for the state, a
+45 political party which, at either of the last two general
+SB 1330 3
+46 elections, polled for its candidate for any statewide office
+47 more than two percent of the entire vote cast for the
+48 office. "Established political party" for any district or
+49 political subdivision shall mean a political party which
+50 polled more than two percent of the entire vote cast at
+51 either of the last two elections in which the district or
+52 political subdivision voted as a unit for the election of
+53 officers or representatives to serve its area;
+54 (12) "Federal office", the office of presidential
+55 elector, United States senator, or representative in
+56 Congress;
+57 (13) "Independent", a candidate who is not a candidate
+58 of any political party and who is running for an office for
+59 which political party candidates may run;
+60 (14) "Major political party", the political party
+61 whose candidates received the highest or second highest
+62 number of votes at the last general election;
+63 (15) "Marking device", any device approved by the
+64 secretary of state under section 115.225 which will enable
+65 the votes to be counted by automatic tabulating equipment;
+66 (16) "Municipal" or "municipality", a city, village,
+67 or incorporated town of this state;
+68 (17) "New party", any political group which has filed
+69 a valid petition and is entitled to place its list of
+70 candidates on the ballot at the next general or special
+71 election;
+72 (18) "Nonpartisan", a candidate who is not a candidate
+73 of any political party and who is running for an office for
+74 which party candidates may not run;
+75 (19) "Political party", any established political
+76 party and any new party;
+SB 1330 4
+77 (20) "Political subdivision", a county, city, town,
+78 village, or township of a township organization county;
+79 (21) "Polling place", the voting place designated for
+80 all voters residing in one or more precincts for any
+81 election;
+82 (22) "Precincts", the geographical areas into which
+83 the election authority divides its jurisdiction for the
+84 purpose of conducting elections;
+85 (23) "Public office", any office established by
+86 constitution, statute or charter and any employment under
+87 the United States, the state of Missouri, or any political
+88 subdivision or special district thereof, but does not
+89 include any office in the Missouri state defense force or
+90 the National Guard or the office of notary public or city
+91 attorney in cities of the third classification or cities of
+92 the fourth classification;
+93 (24) "Question", any measure on the ballot which can
+94 be voted "YES" or "NO";
+95 (25) "Relative within the second degree by
+96 consanguinity or affinity", a spouse, parent, child,
+97 grandparent, brother, sister, grandchild, mother-in-law,
+98 father-in-law, daughter-in-law, or son-in-law;
+99 (26) "Special district", any school district, water
+100 district, fire protection district, hospital district,
+101 health center, nursing district, or other districts with
+102 taxing authority, or other district formed pursuant to the
+103 laws of Missouri to provide limited, specific services;
+104 (27) "Special election", elections called by any
+105 school district, water district, fire protection district,
+106 or other district formed pursuant to the laws of Missouri to
+107 provide limited, specific services; and
+SB 1330 5
+108 (28) "Voter activity", registering to vote, voting in
+109 an election, signing a petition to form a new political
+110 party, signing a petition for the nomination of an
+111 independent candidate for office, or signing an initiative
+112 petition;
+113 (29) "Voting district", the one or more precincts
+114 within which all voters vote at a single polling place for
+115 any election.
+1 115.179. [1.] The election authority shall [have]
+2 canvass the registration records of all precincts in its
+3 jurisdiction [canvassed] every two years [in accordance with
+4 subsection 3 of section 115.163 and that it]. Such canvass
+5 shall be completed no later than ninety days prior to the
+6 date of a primary or general election for federal office.
+7 [The election authority may utilize postal service
+8 contractors under the federal National Change of Address
+9 program to canvass the records.
+10 2. In each jurisdiction without a board of election
+11 commissioners, the county clerk shall have the registration
+12 records of all precincts in its jurisdiction canvassed every
+13 two years in accordance with subsection 3 of section 115.163
+14 and that it be completed no later than ninety days prior to
+15 the date of a primary or general election for federal
+16 office.]
+1 115.181. 1. In its discretion, the election authority
+2 may order all or any part of a canvass to be made using any
+3 one of the following methods, or any combination thereof:
+4 (1) House-to-house, pursuant to sections 115.185 and
+5 115.187;
+6 (2) Through the United States Postal Service, [or by
+7 both methods] pursuant to section 115.189; or
+SB 1330 6
+8 (3) Through the utilization of postal service
+9 contractors pursuant to the federal National Change of
+10 Address program.
+11 2. At the discretion of the election authority, [the]
+12 a canvass may be made by including only those voters who did
+13 not vote at the last general election and those voters who
+14 registered since the last general election.
+1 115.193. 1. Upon completion of a canvass as provided
+2 for in this chapter, the election authority shall remove a
+3 registered voter's name [shall not be removed] from the list
+4 of registered voters on the precinct register on the ground
+5 that the voter has changed residence [unless] if:
+6 (1) The voter confirms in writing that the voter has
+7 changed residence to a place outside the election
+8 authority's jurisdiction in which the voter is registered; or
+9 (2) The voter fails to respond to a notice described
+10 in subsection 3 of this section and has not [voted in an
+11 election] engaged in voter activity during the period
+12 beginning on the date of the notice and ending on the day
+13 after the date of the second general election that occurs
+14 after the date of the notice.
+15 2. The notice referred to in subsection 1, subdivision
+16 (2) of this section shall contain a postage prepaid and
+17 preaddressed return card, sent by forwardable mail, on which
+18 the voter may state the voter's current address.
+19 3. The notice shall also contain the following
+20 statements:
+21 "(1) Any voter who has not changed his or her
+22 residence, or has changed residence but remained in the same
+23 election authority's jurisdiction, shall return the card not
+24 later than the fourth Wednesday prior to the next election.
+25 If the card is not returned by this date, oral or written
+SB 1330 7
+26 affirmation of the voter's address may be required at the
+27 polling place before the voter will be permitted to vote in
+28 an election during the period beginning on the date of the
+29 notice and ending on the day after the date of the second
+30 general election that occurs after the date of the notice.
+31 Any voter who does not [vote in an election] engage in voter
+32 activity during that period, will have his or her name
+33 removed from the list of eligible voters;
+34 (2) For additional information on registering to vote,
+35 contact the election authority located in the county of your
+36 current residence. If you reside in the City of St. Louis,
+37 contact the St. Louis City election board."
+38 4. If the election authority believes that the name of
+39 any voter was improperly removed from the [registration
+40 records] list of registered voters on the precinct register,
+41 it may, by telephone or in writing on election day,
+42 authorize election judges to permit the voter to vote. The
+43 voter may be required to execute an affidavit of
+44 qualification on a form prescribed by the election authority
+45 before being permitted to vote.
+46 5. An election authority may designate any voter as an
+47 inactive voter if the election authority receives from the
+48 United States Postal Service notification that the voter no
+49 longer resides at the address last known to the election
+50 authority and no forwarding address is available, or the
+51 voter fails to respond to the notice authorized in
+52 subdivision (2) of subsection 1 of this section within
+53 thirty days after the election authority sends such notice.
+54 Such voter may be designated as an inactive voter only until:
+55 (1) The voter returns such notice to the election
+56 authority;
+SB 1330 8
+57 (2) The voter provides the election authority with his
+58 or her new address pursuant to the provisions of this
+59 chapter;
+60 (3) The voter provides a written affirmation that the
+61 voter has not changed residence; or
+62 (4) The election authority receives sufficient
+63 information to remove the voter from the list of registered
+64 voters pursuant to this section or section 115.165, or
+65 return the voter to the active list of registered voters in
+66 the jurisdiction.
+67 6. An election authority may exclude inactive voters
+68 to determine only:
+69 (1) The number of ballots to be printed pursuant to
+70 section 115.247;
+71 (2) The proportional costs of elections; or
+72 (3) Mailing information to registered voters.
+1 115.220. 1. State agencies shall provide to the
+2 secretary of state, on a schedule to be determined by the
+3 secretary of state, any information and data that the
+4 secretary of state considers necessary to maintain the
+5 statewide voter registration database established according
+6 to section 115.158, except where prohibited by federal law
+7 or federal regulation. The secretary of state shall ensure
+8 that any information or data provided to the secretary of
+9 state that is confidential in the possession of the entity
+10 providing the data remains confidential while in the
+11 possession of the secretary of state.
+12 2. The secretary of state shall enter into agreements
+13 to share information or data that is in the possession of
+14 the secretary of state with other states or groups of
+15 states, as the secretary of state considers necessary, to
+16 maintain the statewide voter registration database. Except
+SB 1330 9
+17 as otherwise provided in this section, the secretary of
+18 state shall ensure that any information or data provided to
+19 the secretary of state that is confidential remains
+20 confidential while in the possession of the secretary of
+21 state.
+22 3. The clerk of each circuit court shall, on or before
+23 the tenth day of each month, prepare and transmit to the
+24 secretary of state, in a format prescribed by the secretary
+25 of state, a complete list of all persons, including
+26 addresses, ages, and other identifying information as
+27 specified by the secretary of state, who identify themselves
+28 as not being citizens of the United States during their
+29 qualification to serve as a juror during the preceding
+30 calendar month in that county.
+31 4. Upon receipt of the lists described in subsection 3
+32 of this section, the secretary of state shall transmit the
+33 names of such persons whose names appear on the list of
+34 electors to the appropriate election authority who shall
+35 remove all such names from the voter registration list and
+36 shall mail a notice of such action and the reason therefor
+37 to the last known address of such persons by first-class
+38 mail.
+1 115.221. [Notwithstanding any other provisions of law
+2 to the contrary,]
+3 1. Each election authority may [have] inspect the
+4 voting records [inspected and may] of all precincts in its
+5 jurisdiction.
+6 2. (1) Each election authority shall investigate the
+7 qualifications of any person who has not [voted] engaged in
+8 voter activity or has transferred his or her registration
+9 within the [four] two preceding calendar years.
+SB 1330 10
+10 (2) If an election authority determines that a
+11 registered voter has not engaged in voter activity within
+12 the two preceding calendar years, the election authority
+13 shall include such registered voter in any canvass conducted
+14 pursuant to section 115.181.
+1 115.642. 1. [Any person may file a complaint with the
+2 secretary of state stating the name of any person who has
+3 violated any of the provisions of sections 115.629 to
+4 115.646 and stating the facts of the alleged offense, sworn
+5 to, under penalty of perjury.] There is hereby created the
+6 "Office of Election Crimes and Security" within the office
+7 of the secretary of state. The secretary of state shall
+8 employ a director and investigators within the office,
+9 subject to appropriation. The office shall have the
+10 following duties:
+11 (1) Responding to notifications and complaints
+12 alleging a violation of this chapter;
+13 (2) Reviewing notices and reports of alleged
+14 violations of this chapter and conducting investigations as
+15 deemed necessary;
+16 (3) Initiating independent inquiries and conducting
+17 investigations into alleged violations of this chapter; and
+18 (4) Overseeing a voter fraud hotline.
+19 2. The office shall review complaints and conduct
+20 investigations into alleged violations of this chapter or
+21 any rule adopted under this chapter. Within thirty days of
+22 receiving a complaint, the [secretary of state] office shall
+23 notify the person filing the complaint whether or not the
+24 [secretary] office has dismissed the complaint or will
+25 commence an investigation. The [secretary of state] office
+26 shall dismiss frivolous complaints. For purposes of this
+27 subsection, "frivolous complaint" shall mean an allegation
+SB 1330 11
+28 clearly lacking any basis in fact or law. [Any person who
+29 makes a frivolous complaint pursuant to this section shall
+30 be liable for actual and compensatory damages to the alleged
+31 violator for holding the alleged violator before the public
+32 in a false light. If reasonable grounds appear that the
+33 alleged offense was committed, the secretary of state may
+34 issue a probable cause statement. If the secretary of state
+35 issues a probable cause statement, he or she may refer the
+36 offense to the appropriate prosecuting attorney.]
+37 3. [Notwithstanding the provisions of section 27.060,
+38 56.060, or 56.430 to the contrary, when requested by the
+39 prosecuting attorney or circuit attorney, the secretary of
+40 state or his or her authorized representatives may aid any
+41 prosecuting attorney or circuit attorney in the commencement
+42 and prosecution of election offenses as provided in sections
+43 115.629 to 115.646.
+44 4. (1) The secretary of state may investigate any
+45 suspected violation of any of the provisions of sections
+46 115.629 to 115.646.
+47 (2) (a) The secretary of state or an authorized
+48 representative of the secretary of state ] (1) For the
+49 purposes of this section, the office shall have the power to
+50 require the production of books, papers, correspondence,
+51 memoranda, contracts, agreements, and other records by
+52 subpoena or otherwise when necessary to conduct an
+53 investigation under this section. [Such powers shall be
+54 exercised only at the specific written direction of the
+55 secretary of state or his or her chief deputy.]
+56 Notwithstanding any other provision of law to the contrary,
+57 investigators conducting an investigation into an alleged
+58 violation of this chapter shall not be restricted from
+SB 1330 12
+59 entering a polling place or the office of the election
+60 authority under investigation.
+61 [(b)] (2) If any person refuses to comply with a
+62 subpoena issued under subdivision (1) of this subsection,
+63 the secretary of state may seek to enforce the subpoena
+64 before a court of competent jurisdiction to require the
+65 production of books, papers, correspondence, memoranda,
+66 contracts, agreements, and other records. The court may
+67 issue an order requiring the person to produce records
+68 relating to the matter under investigation or in question.
+69 Any person who fails to comply with the order may be held in
+70 contempt of court.
+71 [(c) The provisions of this subdivision shall expire
+72 on August 28, 2025.]
+73 4. If, during the course of an investigation, the
+74 office determines that there may be a violation of any
+75 criminal law or a provision of this chapter, the findings of
+76 the investigation shall be submitted to the attorney general
+77 and the prosecuting or circuit attorney with jurisdiction
+78 for further investigation or prosecution. This section
+79 shall not limit the jurisdiction of any other office or
+80 agency of the state to investigate violations of this
+81 chapter or any rule adopted under this chapter.
+82 5. (1) Before January fifteenth of each year, the
+83 office shall submit a report to the governor, the speaker of
+84 the house of representatives, the president pro tempore of
+85 the senate, and the house of representatives and senate
+86 committees with jurisdiction over elections that details
+87 each investigation of alleged violations of this chapter
+88 conducted during the previous calendar year. The report
+89 shall include the following:
+90 (a) The total number of complaints received;
+SB 1330 13
+91 (b) The number of independent investigations initiated
+92 or dismissed; and
+93 (c) The number of complaints referred to another
+94 agency for further investigation or prosecution.
+95 (2) For each complaint or investigation listed in
+96 subdivision (1) of this subsection, the report shall detail:
+97 (a) The source of the alleged violation;
+98 (b) The law or rule allegedly violated and the nature
+99 of the alleged violation;
+100 (c) The county in which the alleged violation occurred;
+101 (d) Whether the alleged violation was dismissed or
+102 referred to another agency for further investigation or
+103 prosecution and if so, to which agency; and
+104 (e) The current status of the investigation or
+105 resulting criminal case.
+106 6. The attorney general shall have statewide
+107 investigative authority and shall have concurrent authority
+108 with the appropriate prosecuting or circuit attorney over
+109 all violations of the provisions of sections 115.629 to
+110 115.646.
+1 115.1500. 1. As used in this section, the term
+2 "communications" means federal directive or guidance
+3 communicated to the state of Missouri through telephonic or
+4 electronic means, through the mail, or through in-person
+5 contact pertaining to elections, including the times,
+6 places, and manner for carrying out elections in Missouri,
+7 received on or after the effective date of this section, by
+8 any state agency or person, group, or entity charged by the
+9 state to administer any official election occurring within
+10 the state. This includes, but is not limited to, any
+11 guidance issued by the United States Department of Justice
+SB 1330 14
+12 or any other federal executive agency related to new or
+13 existing voting or election laws or procedures.
+14 2. Any state agency, whether that agency is involved
+15 in elections or not, or any person, group, or entity charged
+16 by the state to administer any official election occurring
+17 within the state, who receives or responds to a
+18 communication from the United States Department of Justice
+19 or any other federal executive branch agency related to new
+20 or existing voting or election laws, shall provide notice to
+21 the governor and general assembly of this communication
+22 within five business days.
+23 3. The notice requirement in subsection 2 of this
+24 section shall be presumed to have been met based on the
+25 postmarked date on each letter sent to the governor and
+26 general assembly, through certified mail, outlining the
+27 communication the agency, person, group, or entity received
+28 from or responded to the United States Department of Justice
+29 or any other federal executive agency.
+1 115.1505. 1. As used in this section, the term "new
+2 federal election guidance" means any federal directive or
+3 guidance pertaining to elections including the times,
+4 places, and manner for carrying out elections in Missouri
+5 received on or after the effective date of this section, by
+6 a person, group, or entity charged by the state to
+7 administer any official election occurring within Missouri.
+8 This includes, but is not limited to, any guidance issued by
+9 the United States Department of Justice or any other federal
+10 executive agency related to new or existing voting or
+11 election laws.
+12 2. Any person, group, or entity charged by the state
+13 of Missouri to administer any official election occurring
+14 within the state who intends to implement any new federal
+SB 1330 15
+15 election guidance pending approval from the general assembly
+16 pursuant to this section, shall provide notice to the
+17 general assembly of its intent to do so at least thirty days
+18 before implementing the guidance.
+19 3. All new federal election guidance shall be approved
+20 by concurrent resolution approved by a majority of each
+21 house of the general assembly before it is implemented by
+22 any person, group, or entity charged by the state to
+23 administer any official election occurring within the state.
+24 4. It shall be presumed for purposes of compliance
+25 with this section that the general assembly has approved the
+26 implementation of the new federal election guidance if the
+27 general assembly fails to vote on a concurrent resolution
+28 described in subsection 3 of this section within thirty days
+29 from when notice is provided to the general assembly
+30 pursuant to subsection 2 of this section.
+31 5. A violation of this section shall result in a fine
+32 in the amount of five thousand dollars to be levied every
+33 thirty days until the implemented guidance is formally
+34 withdrawn.
+1 115.1510. 1. As used in this section, the term "new
+2 federal election funds" shall mean any federal funds
+3 received on or after the effective date of this section, by
+4 a person, group, or entity charged by the state of Missouri
+5 to administer any official election occurring within the
+6 state.
+7 2. Any person, group, or entity charged by the state
+8 to administer any official election occurring within
+9 Missouri who intends to accept or disperse federal election
+10 funds pending approval from the general assembly pursuant to
+11 this section, shall provide notice to the general assembly
+12 of its intent to do so at least thirty days before accepting
+SB 1330 16
+13 the funds. If funds have already been accepted, then notice
+14 shall be provided to the general assembly thirty days before
+15 the funds are dispersed.
+16 3. All new federal election funds shall be approved by
+17 concurrent resolution approved by a majority of each house
+18 of the general assembly before they may be accepted or
+19 dispersed by a person, group, or entity charged by the state
+20 to administer any official election occurring within the
+21 state.
+22 4. It shall be presumed for purposes of compliance
+23 with this section that the general assembly has approved the
+24 acceptance and dispersal of new federal election funds if
+25 the general assembly fails to vote on a concurrent
+26 resolution described in subsection 3 of this section within
+27 thirty days from when notice is provided to the general
+28 assembly in accordance with subsection 2 of this section.
+29 5. A violation of this section shall result in a fine
+30 in the amount of the new federal election funds accepted or
+31 dispersed in violation of this section plus an additional
+32 one thousand dollars.
+1 [115.074. 1. Subject to appropriation
+2 from federal funds, the secretary of state shall
+3 administer a grant, loan, or other aid program
+4 for the purposes of providing funds to election
+5 authorities to upgrade or improve the voting
+6 process or equipment. Such funding may be in
+7 the form of matching grants. The secretary of
+8 state when awarding grants shall give priority
+9 to jurisdictions which have the highest number
+10 of residents according to the most recent
+11 federal census, with an income below the federal
+12 poverty level as established by the federal
+13 department of health and human services or its
+14 successor agency. The secretary of state may
+15 promulgate rules to effectuate the provisions of
+16 this section.
+SB 1330 17
+17 2. Any rule or portion of a rule, as that
+18 term is defined in section 536.010, that is
+19 created under the authority delegated in this
+20 section shall become effective only if it
+21 complies with and is subject to all of the
+22 provisions of chapter 536 and, if applicable,
+23 section 536.028. This section and chapter 536
+24 are nonseverable and if any of the powers vested
+25 with the general assembly pursuant to chapter
+26 536 to review, to delay the effective date or to
+27 disapprove and annul a rule are subsequently
+28 held unconstitutional, then the grant of
+29 rulemaking authority and any rule proposed or
+30 adopted after August 28, 2002, shall be invalid
+31 and void.]
+1 [115.078. 1. There is hereby created in
+2 the state treasury the "Election Administration
+3 Improvements Fund", which shall consist of
+4 appropriations from the general assembly, any
+5 gifts, contributions, grants, or bequests
+6 received from federal, private, or other sources
+7 for the purpose of improving the administration
+8 of elections within Missouri, including making
+9 payments of election costs as required under
+10 sections 115.065 and 115.077. The state
+11 treasurer shall be custodian of the fund and
+12 shall make disbursements from the fund in
+13 accordance with sections 30.170 and 30.180.
+14 Money in the fund shall be used exclusively for
+15 election administration improvements as directed
+16 by the secretary of state, and to meet the
+17 state's obligations under sections 115.065 and
+18 115.077. No moneys obtained through the
+19 provisions of this section shall be made a part
+20 of the general operating budget of an election
+21 authority, or used to supplant other federal,
+22 state, or local funds expended for elections.
+23 The secretary of state may transfer moneys from
+24 the fund to the election improvements revolving
+25 loan fund as the secretary deems necessary to
+26 facilitate compliance with the Help America Vote
+27 Act of 2002. Notwithstanding section 33.080 to
+28 the contrary, any moneys remaining in the fund
+SB 1330 18
+29 at the end of any biennium shall not revert to
+30 the credit of the general revenue fund. All
+31 yield, interest, income, increment, or gain
+32 received from time deposit of moneys in the
+33 state treasury to the credit of the fund shall
+34 be credited to the fund. Notwithstanding any
+35 provision of law to the contrary, no amount of
+36 moneys in the fund shall be transferred from the
+37 fund or charged for purposes of the
+38 administration of central services for the state
+39 of Missouri.
+40 2. There is hereby created in the state
+41 treasury the "Election Improvements Revolving
+42 Loan Fund", which shall consist of all moneys
+43 appropriated to it by the general assembly, all
+44 repayment of moneys from eligible lenders and
+45 any moneys deposited or transferred to the fund
+46 for the purpose of improving the administration
+47 of elections through loans. The state treasurer
+48 shall be custodian of the fund and shall make
+49 disbursements from the fund in accordance with
+50 sections 30.170 and 30.180. Money in the fund
+51 shall be used solely for improving the
+52 administration of elections through loans.
+53 Notwithstanding section 33.080 to the contrary,
+54 any moneys remaining in the fund shall not
+55 revert to the credit of the general revenue
+56 fund. All yield, interest, income, increment,
+57 or gain received from time deposit of moneys in
+58 the state treasury to the credit of the fund
+59 shall be credited to the fund. Notwithstanding
+60 any provision of law to the contrary, no amount
+61 of moneys in the fund shall be transferred from
+62 the fund or charged for purposes of the
+63 administration of central services for the state
+64 of Missouri. The secretary of state is
+65 authorized to administer the fund in accordance
+66 with this section and the Help America Vote Act
+67 of 2002, and to promulgate rules to execute this
+68 section. No rule or portion of a rule
+69 promulgated pursuant to the authority of this
+70 section shall become effective unless it has
+71 been promulgated pursuant to chapter 536.]
+SB 1330 19
+1 Section B. Section A of this act shall become
+2 effective January 1, 2027.
+✓
+[DELETED:  K n s e i l t t b k a.A )"    .D )"    ]
+[DELETED: S)"ep     )"  )"  )" )"    )"    )"  )"    )"  ]
+[DELETED: S  ."     )"  )"  )"  )"  )" )"   )"  )" ]
+[DELETED: S)" )"  )"  )"       )" )"   )"    )"   ]
+[DELETED: S     "  .1.T he  ][   cd  i] .S     .I      ..1.I     H)p  T o) s p]
+[DELETED: S)T  .A te   .1.U       sd      us :]i  )T    vf n  e   .T   .T )A     ]
+[DELETED: S      vn]e  )F  .I .I  r s ,l  .T   .A        )T ]
+[DELETED: S)T  )T )T    .A )T )T)M.1.S        .T    .T    .E ]
+[DELETED: S    .T        .U       .N , E he  .[]i  iy]o   .()E    vd]e yhso      fr  ]t]
+[DELETED: S)I    .1.A      .T  .T  .T )R )R  )I  )O       eoeslrwcsadc sioadvsoftscro       yreadurtsc       se  ]o  ]oy   .T se ]o .F  ]
+[DELETED: S.A    .I  .I  ..N      .()T    )()T    ()F     .S  .    ]
+[DELETED: S  ()I](        .T     ()T ..I     .T   .()B        .T  )T]
+[DELETED: S)T )T )F  )T)T  )T)W  )T .T    .1.A           .T  ]
+[DELETED: S .A        .T      .1.A            .A   ]
+[DELETED: S   .A    .I      .A   .1.A       .A      ]
+[DELETED: S.I  .A     .I      .A   .1.S       .S .T       .T  ]
+[DELETED: S.A      .T        ..1.T           .T        .N         .N  ]
+[DELETED: S .A    .N     .T       .T   .M      .A   .N     .T    .N   .]
+[DELETED: S.S ]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+SENATE BILL NO. 1330
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR BRATTIN.
+5308S.01I KRISTINA MARTIN, Secretary
+AN ACT
+To repeal sections 115.013, 115.074, 115.078, 115.179, 115.181, 115.193, 115.221, and 115.642,
+RSMo, and to enact in lieu thereof ten new sections relating to elections, with penalty
+provisions and an effective date.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Sections 115.013, 115.074, 115.078, 115.179,
+2 115.181, 115.193, 115.221, and 115.642, RSMo, are repealed and
+3 ten new sections enacted in lieu thereof, to be known as
+4 sections 115.013, 115.179, 115.181, 115.193, 115.220, 115.221,
+5 115.642, 115.1500, 115.1505, and 115.1510, to read as follows:
+1 115.013. As used in this chapter, unless the context
+2 clearly implies otherwise, the following terms mean:
+3 (1) "Air-gap" or "air-gapped", a security measure in
+4 which equipment is physically and technically isolated from
+5 any network and is not directly connected to the internet
+6 nor is it connected to any other system that is connected to
+7 the internet. Data can only be passed to an air-gapped
+8 device physically via a USB or other removable media;
+9 (2) "Automatic tabulating equipment", the apparatus
+10 necessary to examine and automatically count votes, and the
+11 data processing machines which are used for counting votes
+12 and tabulating results and which are air-gapped and not
+13 physically able to be connected to a network;
+EXPLANATION-Matter enclosed in bold-faced brackets [thus] in this bill is not enacted
+and is intended to be omitted in the law.
+
+SB 1330 2
+14 (3) "Ballot", the paper ballot, or ballot designed
+15 for use with an electronic voting system on which each voter
+16 may cast all votes to which he or she is entitled at an
+17 election;
+18 (4) "Ballot label", the card, paper, booklet, page, or
+19 other material containing the names of all offices and
+20 candidates and statements of all questions to be voted on;
+21 (5) "Counting location", a location selected by the
+22 election authority for the automatic processing or counting,
+23 or both, of ballots;
+24 (6) "County", any county in this state or any city not
+25 within a county;
+26 (7) "Disqualified", a determination made by a court of
+27 competent jurisdiction, the Missouri ethics commission, an
+28 election authority or any other body authorized by law to
+29 make such a determination that a candidate is ineligible to
+30 hold office or not entitled to be voted on for office;
+31 (8) "District", an area within the state or within a
+32 political subdivision of the state from which a person is
+33 elected to represent the area on a policy-making body with
+34 representatives of other areas in the state or political
+35 subdivision;
+36 (9) "Electronic voting machine", any part of an air-
+37 gapped electronic voting system on which a voter is able to
+38 cast a ballot under this chapter;
+39 (10) "Electronic voting system", a system of casting
+40 votes by use of marking devices, and counting votes by use
+41 of automatic air-gapped tabulating or air-gapped data
+42 processing equipment, including computerized voting systems
+43 that mark or tabulate ballots;
+44 (11) "Established political party" for the state, a
+45 political party which, at either of the last two general
+
+SB 1330 3
+46 elections, polled for its candidate for any statewide office
+47 more than two percent of the entire vote cast for the
+48 office. "Established political party" for any district or
+49 political subdivision shall mean a political party which
+50 polled more than two percent of the entire vote cast at
+51 either of the last two elections in which the district or
+52 political subdivision voted as a unit for the election of
+53 officers or representatives to serve its area;
+54 (12) "Federal office", the office of presidential
+55 elector, United States senator, or representative in
+56 Congress;
+57 (13) "Independent", a candidate who is not a candidate
+58 of any political party and who is running for an office for
+59 which political party candidates may run;
+60 (14) "Major political party", the political party
+61 whose candidates received the highest or second highest
+62 number of votes at the last general election;
+63 (15) "Marking device", any device approved by the
+64 secretary of state under section 115.225 which will enable
+65 the votes to be counted by automatic tabulating equipment;
+66 (16) "Municipal" or "municipality", a city, village,
+67 or incorporated town of this state;
+68 (17) "New party", any political group which has filed
+69 a valid petition and is entitled to place its list of
+70 candidates on the ballot at the next general or special
+71 election;
+72 (18) "Nonpartisan", a candidate who is not a candidate
+73 of any political party and who is running for an office for
+74 which party candidates may not run;
+75 (19) "Political party", any established political
+76 party and any new party;
+
+SB 1330 4
+77 (20) "Political subdivision", a county, city, town,
+78 village, or township of a township organization county;
+79 (21) "Polling place", the voting place designated for
+80 all voters residing in one or more precincts for any
+81 election;
+82 (22) "Precincts", the geographical areas into which
+83 the election authority divides its jurisdiction for the
+84 purpose of conducting elections;
+85 (23) "Public office", any office established by
+86 constitution, statute or charter and any employment under
+87 the United States, the state of Missouri, or any political
+88 subdivision or special district thereof, but does not
+89 include any office in the Missouri state defense force or
+90 the National Guard or the office of notary public or city
+91 attorney in cities of the third classification or cities of
+92 the fourth classification;
+93 (24) "Question", any measure on the ballot which can
+94 be voted "YES" or "NO";
+95 (25) "Relative within the second degree by
+96 consanguinity or affinity", a spouse, parent, child,
+97 grandparent, brother, sister, grandchild, mother-in-law,
+98 father-in-law, daughter-in-law, or son-in-law;
+99 (26) "Special district", any school district, water
+100 district, fire protection district, hospital district,
+101 health center, nursing district, or other districts with
+102 taxing authority, or other district formed pursuant to the
+103 laws of Missouri to provide limited, specific services;
+104 (27) "Special election", elections called by any
+105 school district, water district, fire protection district,
+106 or other district formed pursuant to the laws of Missouri to
+107 provide limited, specific services; and
+
+SB 1330 5
+108 (28) "Voter activity", registering to vote, voting in
+109 an election, signing a petition to form a new political
+110 party, signing a petition for the nomination of an
+111 independent candidate for office, or signing an initiative
+112 petition;
+113 (29) "Voting district", the one or more precincts
+114 within which all voters vote at a single polling place for
+115 any election.
+1 115.179. [1.] The election authority shall [have]
+2 canvass the registration records of all precincts in its
+3 jurisdiction [canvassed] every two years [in accordance with
+4 subsection 3 of section 115.163 and that it]. Such canvass
+5 shall be completed no later than ninety days prior to the
+6 date of a primary or general election for federal office.
+7 [The election authority may utilize postal service
+8 contractors under the federal National Change of Address
+9 program to canvass the records.
+10 2. In each jurisdiction without a board of election
+11 commissioners, the county clerk shall have the registration
+12 records of all precincts in its jurisdiction canvassed every
+13 two years in accordance with subsection 3 of section 115.163
+14 and that it be completed no later than ninety days prior to
+15 the date of a primary or general election for federal
+16 office.]
+1 115.181. 1. In its discretion, the election authority
+2 may order all or any part of a canvass to be made using any
+3 one of the following methods, or any combination thereof:
+4 (1) House-to-house, pursuant to sections 115.185 and
+5 115.187;
+6 (2) Through the United States Postal Service, [or by
+7 both methods] pursuant to section 115.189; or
+
+SB 1330 6
+8 (3) Through the utilization of postal service
+9 contractors pursuant to the federal National Change of
+10 Address program.
+11 2. At the discretion of the election authority, [the]
+12 a canvass may be made by including only those voters who did
+13 not vote at the last general election and those voters who
+14 registered since the last general election.
+1 115.193. 1. Upon completion of a canvass as provided
+2 for in this chapter, the election authority shall remove a
+3 registered voter's name [shall not be removed] from the list
+4 of registered voters on the precinct register on the ground
+5 that the voter has changed residence [unless] if:
+6 (1) The voter confirms in writing that the voter has
+7 changed residence to a place outside the election
+8 authority's jurisdiction in which the voter is registered; or
+9 (2) The voter fails to respond to a notice described
+10 in subsection 3 of this section and has not [voted in an
+11 election] engaged in voter activity during the period
+12 beginning on the date of the notice and ending on the day
+13 after the date of the second general election that occurs
+14 after the date of the notice.
+15 2. The notice referred to in subsection 1, subdivision
+16 (2) of this section shall contain a postage prepaid and
+17 preaddressed return card, sent by forwardable mail, on which
+18 the voter may state the voter's current address.
+19 3. The notice shall also contain the following
+20 statements:
+21 "(1) Any voter who has not changed his or her
+22 residence, or has changed residence but remained in the same
+23 election authority's jurisdiction, shall return the card not
+24 later than the fourth Wednesday prior to the next election.
+25 If the card is not returned by this date, oral or written
+
+SB 1330 7
+26 affirmation of the voter's address may be required at the
+27 polling place before the voter will be permitted to vote in
+28 an election during the period beginning on the date of the
+29 notice and ending on the day after the date of the second
+30 general election that occurs after the date of the notice.
+31 Any voter who does not [vote in an election] engage in voter
+32 activity during that period, will have his or her name
+33 removed from the list of eligible voters;
+34 (2) For additional information on registering to vote,
+35 contact the election authority located in the county of your
+36 current residence. If you reside in the City of St. Louis,
+37 contact the St. Louis City election board."
+38 4. If the election authority believes that the name of
+39 any voter was improperly removed from the [registration
+40 records] list of registered voters on the precinct register,
+41 it may, by telephone or in writing on election day,
+42 authorize election judges to permit the voter to vote. The
+43 voter may be required to execute an affidavit of
+44 qualification on a form prescribed by the election authority
+45 before being permitted to vote.
+46 5. An election authority may designate any voter as an
+47 inactive voter if the election authority receives from the
+48 United States Postal Service notification that the voter no
+49 longer resides at the address last known to the election
+50 authority and no forwarding address is available, or the
+51 voter fails to respond to the notice authorized in
+52 subdivision (2) of subsection 1 of this section within
+53 thirty days after the election authority sends such notice.
+54 Such voter may be designated as an inactive voter only until:
+55 (1) The voter returns such notice to the election
+56 authority;
+
+SB 1330 8
+57 (2) The voter provides the election authority with his
+58 or her new address pursuant to the provisions of this
+59 chapter;
+60 (3) The voter provides a written affirmation that the
+61 voter has not changed residence; or
+62 (4) The election authority receives sufficient
+63 information to remove the voter from the list of registered
+64 voters pursuant to this section or section 115.165, or
+65 return the voter to the active list of registered voters in
+66 the jurisdiction.
+67 6. An election authority may exclude inactive voters
+68 to determine only:
+69 (1) The number of ballots to be printed pursuant to
+70 section 115.247;
+71 (2) The proportional costs of elections; or
+72 (3) Mailing information to registered voters.
+1 115.220. 1. State agencies shall provide to the
+2 secretary of state, on a schedule to be determined by the
+3 secretary of state, any information and data that the
+4 secretary of state considers necessary to maintain the
+5 statewide voter registration database established according
+6 to section 115.158, except where prohibited by federal law
+7 or federal regulation. The secretary of state shall ensure
+8 that any information or data provided to the secretary of
+9 state that is confidential in the possession of the entity
+10 providing the data remains confidential while in the
+11 possession of the secretary of state.
+12 2. The secretary of state shall enter into agreements
+13 to share information or data that is in the possession of
+14 the secretary of state with other states or groups of
+15 states, as the secretary of state considers necessary, to
+16 maintain the statewide voter registration database. Except
+
+SB 1330 9
+17 as otherwise provided in this section, the secretary of
+18 state shall ensure that any information or data provided to
+19 the secretary of state that is confidential remains
+20 confidential while in the possession of the secretary of
+21 state.
+22 3. The clerk of each circuit court shall, on or before
+23 the tenth day of each month, prepare and transmit to the
+24 secretary of state, in a format prescribed by the secretary
+25 of state, a complete list of all persons, including
+26 addresses, ages, and other identifying information as
+27 specified by the secretary of state, who identify themselves
+28 as not being citizens of the United States during their
+29 qualification to serve as a juror during the preceding
+30 calendar month in that county.
+31 4. Upon receipt of the lists described in subsection 3
+32 of this section, the secretary of state shall transmit the
+33 names of such persons whose names appear on the list of
+34 electors to the appropriate election authority who shall
+35 remove all such names from the voter registration list and
+36 shall mail a notice of such action and the reason therefor
+37 to the last known address of such persons by first-class
+38 mail.
+1 115.221. [Notwithstanding any other provisions of law
+2 to the contrary,]
+3 1. Each election authority may [have] inspect the
+4 voting records [inspected and may] of all precincts in its
+5 jurisdiction.
+6 2. (1) Each election authority shall investigate the
+7 qualifications of any person who has not [voted] engaged in
+8 voter activity or has transferred his or her registration
+9 within the [four] two preceding calendar years.
+
+SB 1330 10
+10 (2) If an election authority determines that a
+11 registered voter has not engaged in voter activity within
+12 the two preceding calendar years, the election authority
+13 shall include such registered voter in any canvass conducted
+14 pursuant to section 115.181.
+1 115.642. 1. [Any person may file a complaint with the
+2 secretary of state stating the name of any person who has
+3 violated any of the provisions of sections 115.629 to
+4 115.646 and stating the facts of the alleged offense, sworn
+5 to, under penalty of perjury.] There is hereby created the
+6 "Office of Election Crimes and Security" within the office
+7 of the secretary of state. The secretary of state shall
+8 employ a director and investigators within the office,
+9 subject to appropriation. The office shall have the
+10 following duties:
+11 (1) Responding to notifications and complaints
+12 alleging a violation of this chapter;
+13 (2) Reviewing notices and reports of alleged
+14 violations of this chapter and conducting investigations as
+15 deemed necessary;
+16 (3) Initiating independent inquiries and conducting
+17 investigations into alleged violations of this chapter; and
+18 (4) Overseeing a voter fraud hotline.
+19 2. The office shall review complaints and conduct
+20 investigations into alleged violations of this chapter or
+21 any rule adopted under this chapter. Within thirty days of
+22 receiving a complaint, the [secretary of state] office shall
+23 notify the person filing the complaint whether or not the
+24 [secretary] office has dismissed the complaint or will
+25 commence an investigation. The [secretary of state] office
+26 shall dismiss frivolous complaints. For purposes of this
+27 subsection, "frivolous complaint" shall mean an allegation
+
+SB 1330 11
+28 clearly lacking any basis in fact or law. [Any person who
+29 makes a frivolous complaint pursuant to this section shall
+30 be liable for actual and compensatory damages to the alleged
+31 violator for holding the alleged violator before the public
+32 in a false light. If reasonable grounds appear that the
+33 alleged offense was committed, the secretary of state may
+34 issue a probable cause statement. If the secretary of state
+35 issues a probable cause statement, he or she may refer the
+36 offense to the appropriate prosecuting attorney.]
+37 3. [Notwithstanding the provisions of section 27.060,
+38 56.060, or 56.430 to the contrary, when requested by the
+39 prosecuting attorney or circuit attorney, the secretary of
+40 state or his or her authorized representatives may aid any
+41 prosecuting attorney or circuit attorney in the commencement
+42 and prosecution of election offenses as provided in sections
+43 115.629 to 115.646.
+44 4. (1) The secretary of state may investigate any
+45 suspected violation of any of the provisions of sections
+46 115.629 to 115.646.
+47 (2) (a) The secretary of state or an authorized
+48 representative of the secretary of state ] (1) For the
+49 purposes of this section, the office shall have the power to
+50 require the production of books, papers, correspondence,
+51 memoranda, contracts, agreements, and other records by
+52 subpoena or otherwise when necessary to conduct an
+53 investigation under this section. [Such powers shall be
+54 exercised only at the specific written direction of the
+55 secretary of state or his or her chief deputy.]
+56 Notwithstanding any other provision of law to the contrary,
+57 investigators conducting an investigation into an alleged
+58 violation of this chapter shall not be restricted from
+
+SB 1330 12
+59 entering a polling place or the office of the election
+60 authority under investigation.
+61 [(b)] (2) If any person refuses to comply with a
+62 subpoena issued under subdivision (1) of this subsection,
+63 the secretary of state may seek to enforce the subpoena
+64 before a court of competent jurisdiction to require the
+65 production of books, papers, correspondence, memoranda,
+66 contracts, agreements, and other records. The court may
+67 issue an order requiring the person to produce records
+68 relating to the matter under investigation or in question.
+69 Any person who fails to comply with the order may be held in
+70 contempt of court.
+71 [(c) The provisions of this subdivision shall expire
+72 on August 28, 2025.]
+73 4. If, during the course of an investigation, the
+74 office determines that there may be a violation of any
+75 criminal law or a provision of this chapter, the findings of
+76 the investigation shall be submitted to the attorney general
+77 and the prosecuting or circuit attorney with jurisdiction
+78 for further investigation or prosecution. This section
+79 shall not limit the jurisdiction of any other office or
+80 agency of the state to investigate violations of this
+81 chapter or any rule adopted under this chapter.
+82 5. (1) Before January fifteenth of each year, the
+83 office shall submit a report to the governor, the speaker of
+84 the house of representatives, the president pro tempore of
+85 the senate, and the house of representatives and senate
+86 committees with jurisdiction over elections that details
+87 each investigation of alleged violations of this chapter
+88 conducted during the previous calendar year. The report
+89 shall include the following:
+90 (a) The total number of complaints received;
+
+SB 1330 13
+91 (b) The number of independent investigations initiated
+92 or dismissed; and
+93 (c) The number of complaints referred to another
+94 agency for further investigation or prosecution.
+95 (2) For each complaint or investigation listed in
+96 subdivision (1) of this subsection, the report shall detail:
+97 (a) The source of the alleged violation;
+98 (b) The law or rule allegedly violated and the nature
+99 of the alleged violation;
+100 (c) The county in which the alleged violation occurred;
+101 (d) Whether the alleged violation was dismissed or
+102 referred to another agency for further investigation or
+103 prosecution and if so, to which agency; and
+104 (e) The current status of the investigation or
+105 resulting criminal case.
+106 6. The attorney general shall have statewide
+107 investigative authority and shall have concurrent authority
+108 with the appropriate prosecuting or circuit attorney over
+109 all violations of the provisions of sections 115.629 to
+110 115.646.
+1 115.1500. 1. As used in this section, the term
+2 "communications" means federal directive or guidance
+3 communicated to the state of Missouri through telephonic or
+4 electronic means, through the mail, or through in-person
+5 contact pertaining to elections, including the times,
+6 places, and manner for carrying out elections in Missouri,
+7 received on or after the effective date of this section, by
+8 any state agency or person, group, or entity charged by the
+9 state to administer any official election occurring within
+10 the state. This includes, but is not limited to, any
+11 guidance issued by the United States Department of Justice
+
+SB 1330 14
+12 or any other federal executive agency related to new or
+13 existing voting or election laws or procedures.
+14 2. Any state agency, whether that agency is involved
+15 in elections or not, or any person, group, or entity charged
+16 by the state to administer any official election occurring
+17 within the state, who receives or responds to a
+18 communication from the United States Department of Justice
+19 or any other federal executive branch agency related to new
+20 or existing voting or election laws, shall provide notice to
+21 the governor and general assembly of this communication
+22 within five business days.
+23 3. The notice requirement in subsection 2 of this
+24 section shall be presumed to have been met based on the
+25 postmarked date on each letter sent to the governor and
+26 general assembly, through certified mail, outlining the
+27 communication the agency, person, group, or entity received
+28 from or responded to the United States Department of Justice
+29 or any other federal executive agency.
+1 115.1505. 1. As used in this section, the term "new
+2 federal election guidance" means any federal directive or
+3 guidance pertaining to elections including the times,
+4 places, and manner for carrying out elections in Missouri
+5 received on or after the effective date of this section, by
+6 a person, group, or entity charged by the state to
+7 administer any official election occurring within Missouri.
+8 This includes, but is not limited to, any guidance issued by
+9 the United States Department of Justice or any other federal
+10 executive agency related to new or existing voting or
+11 election laws.
+12 2. Any person, group, or entity charged by the state
+13 of Missouri to administer any official election occurring
+14 within the state who intends to implement any new federal
+
+SB 1330 15
+15 election guidance pending approval from the general assembly
+16 pursuant to this section, shall provide notice to the
+17 general assembly of its intent to do so at least thirty days
+18 before implementing the guidance.
+19 3. All new federal election guidance shall be approved
+20 by concurrent resolution approved by a majority of each
+21 house of the general assembly before it is implemented by
+22 any person, group, or entity charged by the state to
+23 administer any official election occurring within the state.
+24 4. It shall be presumed for purposes of compliance
+25 with this section that the general assembly has approved the
+26 implementation of the new federal election guidance if the
+27 general assembly fails to vote on a concurrent resolution
+28 described in subsection 3 of this section within thirty days
+29 from when notice is provided to the general assembly
+30 pursuant to subsection 2 of this section.
+31 5. A violation of this section shall result in a fine
+32 in the amount of five thousand dollars to be levied every
+33 thirty days until the implemented guidance is formally
+34 withdrawn.
+1 115.1510. 1. As used in this section, the term "new
+2 federal election funds" shall mean any federal funds
+3 received on or after the effective date of this section, by
+4 a person, group, or entity charged by the state of Missouri
+5 to administer any official election occurring within the
+6 state.
+7 2. Any person, group, or entity charged by the state
+8 to administer any official election occurring within
+9 Missouri who intends to accept or disperse federal election
+10 funds pending approval from the general assembly pursuant to
+11 this section, shall provide notice to the general assembly
+12 of its intent to do so at least thirty days before accepting
+
+SB 1330 16
+13 the funds. If funds have already been accepted, then notice
+14 shall be provided to the general assembly thirty days before
+15 the funds are dispersed.
+16 3. All new federal election funds shall be approved by
+17 concurrent resolution approved by a majority of each house
+18 of the general assembly before they may be accepted or
+19 dispersed by a person, group, or entity charged by the state
+20 to administer any official election occurring within the
+21 state.
+22 4. It shall be presumed for purposes of compliance
+23 with this section that the general assembly has approved the
+24 acceptance and dispersal of new federal election funds if
+25 the general assembly fails to vote on a concurrent
+26 resolution described in subsection 3 of this section within
+27 thirty days from when notice is provided to the general
+28 assembly in accordance with subsection 2 of this section.
+29 5. A violation of this section shall result in a fine
+30 in the amount of the new federal election funds accepted or
+31 dispersed in violation of this section plus an additional
+32 one thousand dollars.
+1 [115.074. 1. Subject to appropriation
+2 from federal funds, the secretary of state shall
+3 administer a grant, loan, or other aid program
+4 for the purposes of providing funds to election
+5 authorities to upgrade or improve the voting
+6 process or equipment. Such funding may be in
+7 the form of matching grants. The secretary of
+8 state when awarding grants shall give priority
+9 to jurisdictions which have the highest number
+10 of residents according to the most recent
+11 federal census, with an income below the federal
+12 poverty level as established by the federal
+13 department of health and human services or its
+14 successor agency. The secretary of state may
+15 promulgate rules to effectuate the provisions of
+16 this section.
+
+SB 1330 17
+17 2. Any rule or portion of a rule, as that
+18 term is defined in section 536.010, that is
+19 created under the authority delegated in this
+20 section shall become effective only if it
+21 complies with and is subject to all of the
+22 provisions of chapter 536 and, if applicable,
+23 section 536.028. This section and chapter 536
+24 are nonseverable and if any of the powers vested
+25 with the general assembly pursuant to chapter
+26 536 to review, to delay the effective date or to
+27 disapprove and annul a rule are subsequently
+28 held unconstitutional, then the grant of
+29 rulemaking authority and any rule proposed or
+30 adopted after August 28, 2002, shall be invalid
+31 and void.]
+1 [115.078. 1. There is hereby created in
+2 the state treasury the "Election Administration
+3 Improvements Fund", which shall consist of
+4 appropriations from the general assembly, any
+5 gifts, contributions, grants, or bequests
+6 received from federal, private, or other sources
+7 for the purpose of improving the administration
+8 of elections within Missouri, including making
+9 payments of election costs as required under
+10 sections 115.065 and 115.077. The state
+11 treasurer shall be custodian of the fund and
+12 shall make disbursements from the fund in
+13 accordance with sections 30.170 and 30.180.
+14 Money in the fund shall be used exclusively for
+15 election administration improvements as directed
+16 by the secretary of state, and to meet the
+17 state's obligations under sections 115.065 and
+18 115.077. No moneys obtained through the
+19 provisions of this section shall be made a part
+20 of the general operating budget of an election
+21 authority, or used to supplant other federal,
+22 state, or local funds expended for elections.
+23 The secretary of state may transfer moneys from
+24 the fund to the election improvements revolving
+25 loan fund as the secretary deems necessary to
+26 facilitate compliance with the Help America Vote
+27 Act of 2002. Notwithstanding section 33.080 to
+28 the contrary, any moneys remaining in the fund
+
+SB 1330 18
+29 at the end of any biennium shall not revert to
+30 the credit of the general revenue fund. All
+31 yield, interest, income, increment, or gain
+32 received from time deposit of moneys in the
+33 state treasury to the credit of the fund shall
+34 be credited to the fund. Notwithstanding any
+35 provision of law to the contrary, no amount of
+36 moneys in the fund shall be transferred from the
+37 fund or charged for purposes of the
+38 administration of central services for the state
+39 of Missouri.
+40 2. There is hereby created in the state
+41 treasury the "Election Improvements Revolving
+42 Loan Fund", which shall consist of all moneys
+43 appropriated to it by the general assembly, all
+44 repayment of moneys from eligible lenders and
+45 any moneys deposited or transferred to the fund
+46 for the purpose of improving the administration
+47 of elections through loans. The state treasurer
+48 shall be custodian of the fund and shall make
+49 disbursements from the fund in accordance with
+50 sections 30.170 and 30.180. Money in the fund
+51 shall be used solely for improving the
+52 administration of elections through loans.
+53 Notwithstanding section 33.080 to the contrary,
+54 any moneys remaining in the fund shall not
+55 revert to the credit of the general revenue
+56 fund. All yield, interest, income, increment,
+57 or gain received from time deposit of moneys in
+58 the state treasury to the credit of the fund
+59 shall be credited to the fund. Notwithstanding
+60 any provision of law to the contrary, no amount
+61 of moneys in the fund shall be transferred from
+62 the fund or charged for purposes of the
+63 administration of central services for the state
+64 of Missouri. The secretary of state is
+65 authorized to administer the fund in accordance
+66 with this section and the Help America Vote Act
+67 of 2002, and to promulgate rules to execute this
+68 section. No rule or portion of a rule
+69 promulgated pursuant to the authority of this
+70 section shall become effective unless it has
+71 been promulgated pursuant to chapter 536.]
+
+SB 1330 19
+1 Section B. Section A of this act shall become
+2 effective January 1, 2027.
+✓
+
+[DELETED:  K n s e i l t t b k a.A )"    .D )"    ]
+[DELETED: S)"ep     )"  )"  )" )"    )"    )"  )"    )"  ]
+[DELETED: S  ."     )"  )"  )"  )"  )" )"   )"  )" ]
+[DELETED: S)" )"  )"  )"       )" )"   )"    )"   ]
+[DELETED: S     "  .1.T he  ][   cd  i] .S     .I      ..1.I     H)p  T o) s p]
+[DELETED: S)T  .A te   .1.U       sd      us :]i  )T    vf n  e   .T   .T )A     ]
+[DELETED: S      vn]e  )F  .I .I  r s ,l  .T   .A        )T ]
+[DELETED: S)T  )T )T    .A )T )T)M.1.S        .T    .T    .E ]
+[DELETED: S    .T        .U       .N , E he  .[]i  iy]o   .()E    vd]e yhso      fr  ]t]
+[DELETED: S)I    .1.A      .T  .T  .T )R )R  )I  )O       eoeslrwcsadc sioadvsoftscro       yreadurtsc       se  ]o  ]oy   .T se ]o .F  ]
+[DELETED: S.A    .I  .I  ..N      .()T    )()T    ()F     .S  .    ]
+[DELETED: S  ()I](        .T     ()T ..I     .T   .()B        .T  )T]
+[DELETED: S)T )T )F  )T)T  )T)W  )T .T    .1.A           .T  ]
+[DELETED: S .A        .T      .1.A            .A   ]
+[DELETED: S   .A    .I      .A   .1.A       .A      ]
+[DELETED: S.I  .A     .I      .A   .1.S       .S .T       .T  ]
+[DELETED: S.A      .T        ..1.T           .T        .N         .N  ]
+[DELETED: S .A    .N     .T       .T   .M      .A   .N     .T    .N   .]
+[DELETED: S.S ]

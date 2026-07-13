@@ -1,0 +1,558 @@
+Title: SENATE BILL NO. 1180
+Official Title: SENATE BILL NO. 1180
+Number of Sections: 1
+Source: versions - 4998S.02I - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR TRENT.
+4998S.02I KRISTINA MARTIN, Secretary
+AN ACT
+To repeal sections 490.715, 537.060, and 537.067, RSMo, and to enact in lieu thereof fourteen
+new sections relating to civil procedure.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Sections 490.715, 537.060, and 537.067, RSMo,
+2 are repealed and fourteen new sections enacted in lieu thereof,
+3 to be known as sections 490.715, 510.500, 510.503, 510.506,
+4 510.509, 510.512, 510.515, 510.518, 510.521, 537.059, 537.060,
+5 537.067, 537.092, and 537.870, to read as follows:
+1 490.715. 1. No evidence of collateral sources, or
+2 payments rendered under subsection 2 of this section, shall
+3 be admissible other than such evidence provided for in this
+4 section.
+5 2. If prior to trial a defendant or his or her insurer
+6 or authorized representative, or any combination of them,
+7 pays all or any part of a plaintiff's special damages, then
+8 any portion of a plaintiff's claims for special damages that
+9 are satisfied by a payment from a defendant or the
+10 defendant's insurer or authorized representative, or any
+11 combination of them, are not recoverable from that defendant.
+12 3. If such payments described in subsection 2 of this
+13 section are included in a plaintiff's claim for special
+14 damages at trial, the defendant who made the payment, or on
+15 whose behalf the payment was made, shall be entitled to
+EXPLANATION-Matter enclosed in bold-faced brackets [thus] in this bill is not enacted
+and is intended to be omitted in the law.
+SB 1180 2
+16 deduct and receive a credit for such payments from any
+17 judgment as provided for in section 490.710.
+18 4. This section does not require the exclusion of
+19 evidence admissible for another proper purpose.
+20 5. (1) Except as provided in subsection 2 of this
+21 section, [parties] in any action where a plaintiff seeks to
+22 recover for personal injury, bodily injury, or death, any
+23 party may introduce evidence of the actual cost of the
+24 medical care or treatment rendered to a plaintiff, or [a
+25 patient whose care is at issue] to the person for whose
+26 injury or death a plaintiff seeks to recover. Actual cost
+27 of the medical care or treatment shall be reasonable,
+28 necessary, and a proximate result of the negligence or fault
+29 of any party.
+30 (2) No party shall introduce evidence of the amount
+31 billed for medical care or treatment rendered to a plaintiff
+32 or a patient whose care is at issue in a plaintiff's case if
+33 the amount billed has been discounted pursuant to any
+34 contract, price reduction, or write-off by any person or
+35 entity or satisfied by payment of an amount less than the
+36 amount billed for that medical care or treatment.
+37 6. The actual cost of medical care or treatment
+38 rendered to a plaintiff or a patient whose care is at issue
+39 in a plaintiff's case and discounts pursuant to any
+40 contract, price reduction, or write-off shall be admissible
+41 evidence relevant to the potential cost of future treatment
+42 of the same type or kind to that plaintiff or patient whose
+43 care is at issue in a plaintiff's case.
+44 7. For purposes of this [subsection] section, the
+45 phrase "actual cost of the medical care or treatment" shall
+46 be defined as a sum of money not to exceed the dollar
+47 amounts paid by or on behalf of a plaintiff, or a patient
+SB 1180 3
+48 whose care is at issue in a plaintiff's case, plus any
+49 remaining dollar amount necessary to satisfy the financial
+50 obligation, including valid outstanding liens, for medical
+51 care or treatment by a health care provider after adjustment
+52 for any contractual discounts, price reduction, or write-off
+53 by any person or entity.
+1 510.500. Sections 510.500 to 510.521 shall be known
+2 and may be cited as the "Uniform Interstate Depositions and
+3 Discovery Act".
+1 510.503. As used in sections 510.500 to 510.521, the
+2 following terms mean:
+3 (1) "Foreign jurisdiction", a state other than this
+4 state;
+5 (2) "Foreign subpoena", a subpoena issued under
+6 authority of a court of record of a foreign jurisdiction;
+7 (3) "Person", an individual, corporation, business
+8 trust, estate, trust, partnership, limited liability
+9 company, association, joint venture, public corporation,
+10 government or political subdivision, agency or
+11 instrumentality, or any other legal or commercial entity;
+12 (4) "State", a state of the United States, the
+13 District of Columbia, Puerto Rico, the United States Virgin
+14 Islands, a federally recognized Indian tribe, or any
+15 territory or insular possession subject to the jurisdiction
+16 of the United States;
+17 (5) "Subpoena", a document, however denominated,
+18 issued under authority of a court of record requiring a
+19 person to:
+20 (a) Attend and give testimony at a deposition;
+21 (b) Produce and permit inspection and copying of
+22 designated books, documents, records, electronically stored
+SB 1180 4
+23 information, or tangible items in the possession, custody,
+24 or control of the person; or
+25 (c) Permit inspection of premises under the control of
+26 the person.
+1 510.506. 1. To request issuance of a subpoena under
+2 this section, a party shall submit a foreign subpoena to a
+3 clerk of court in the county in which discovery is sought to
+4 be conducted in this state. A request for the issuance of a
+5 subpoena under sections 510.500 to 510.521 shall not
+6 constitute an appearance in the courts of this state.
+7 2. If a party submits a foreign subpoena to a clerk of
+8 court in this state, the clerk, in accordance with such
+9 court's procedure, shall promptly issue a subpoena for
+10 service upon the person to which the foreign subpoena is
+11 directed.
+12 3. A subpoena under subsection 2 of this section shall:
+13 (1) Incorporate the terms used in the foreign
+14 subpoena; and
+15 (2) Contain or be accompanied by the names, addresses,
+16 and telephone numbers of all counsel of record in the
+17 proceeding to which the subpoena relates and of any party
+18 not represented by counsel.
+1 510.509. A subpoena issued by a clerk of court under
+2 section 510.506 shall be served in compliance with the
+3 Missouri supreme court rules of civil procedure and laws of
+4 this state.
+1 510.512. The Missouri supreme court rules of civil
+2 procedure and laws of this state, and any amendments
+3 thereto, apply to subpoenas issued under section 510.506.
+1 510.515. An application to the court for a protective
+2 order or to enforce, quash, or modify a subpoena issued by a
+3 clerk of court under section 510.506 shall comply with the
+SB 1180 5
+4 Missouri supreme court rules of civil procedure and the laws
+5 of this state and be submitted to the court in the county in
+6 which discovery is to be conducted.
+1 510.518. In applying and construing sections 510.500
+2 to 510.521, consideration shall be given to the need to
+3 promote uniformity of the law with respect to its subject
+4 matter among states that enact it.
+1 510.521. Sections 510.500 to 510.521 apply to requests
+2 for discovery in cases pending on August 28, 2026.
+1 537.059. In all actions in which there is any count
+2 alleging a tort to recover damages and in which any party
+3 contends that the damages were caused by the alleged fault
+4 of more than one person or entity, the trier of fact shall
+5 determine the amount of fault attributable to each person or
+6 entity, regardless of whether the person or entity is a
+7 party to the action, and regardless of whether the person or
+8 entity has settled or been released from liability. Fault
+9 of another person or entity may be alleged by any party to
+10 the tort action in any claim, counterclaim, cross-claim, or
+11 as an affirmative defense. Any determination by the trier
+12 of fact as to the amount of fault attributable to a person
+13 or entity not a party to the action at the time of trial
+14 shall not be binding against or otherwise affect the rights
+15 or liabilities of that person or entity.
+1 537.060. Defendants in a judgment founded on an action
+2 for the redress of a private wrong shall be subject to
+3 contribution, and all other consequences of such judgment,
+4 in the same manner and to the same extent as defendants in a
+5 judgment in an action founded on contract. When an
+6 agreement by release, covenant not to sue or not to enforce
+7 a judgment is given in good faith to one of two or more
+8 persons liable in tort for the same injury or wrongful
+SB 1180 6
+9 death, such agreement shall not discharge any of the other
+10 tort-feasors for the damage unless the terms of the
+11 agreement so provide[; however such agreement shall reduce
+12 the claim by the stipulated amount of the agreement, or in
+13 the amount of consideration paid, whichever is greater. The
+14 agreement shall discharge the tort-feasor to whom it is
+15 given from all liability for contribution or noncontractual
+16 indemnity to any other tort-feasor. The term
+17 "noncontractual indemnity" as used in this section refers to
+18 indemnity between joint tort-feasors culpably negligent,
+19 having no legal relationship to each other and does not
+20 include indemnity which comes about by reason of contract,
+21 or by reason of vicarious liability].
+1 537.067. 1. In all tort actions for damages, if a
+2 defendant is found to bear fifty-one percent or more of
+3 fault, then such defendant shall be jointly and severally
+4 liable for the amount of the judgment rendered against the
+5 defendants less the total of any stipulated amount in any
+6 release, covenant not to sue or not to enforce a judgment
+7 under any agreement with any other person or entity alleged
+8 to have been at fault pursuant to section 537.059, or any
+9 consideration paid by such person or entity, whichever is
+10 greater. If a defendant is found to bear less than fifty-
+11 one percent of fault, then the defendant shall only be
+12 responsible for the percentage of the judgment for which the
+13 defendant is determined to be responsible by the trier of
+14 fact; except that, a party is responsible for the fault of
+15 another defendant or for payment of the proportionate share
+16 of another defendant if any of the following applies:
+17 (1) The other defendant was acting as an employee of
+18 the party;
+SB 1180 7
+19 (2) The party's liability for the fault of another
+20 person arises out of a duty created by the federal
+21 Employers' Liability Act, 45 U.S.C. Section 51.
+22 2. The defendants shall only be severally liable for
+23 the percentage of punitive damages for which fault is
+24 attributed to such defendant by the trier of fact.
+25 3. In all tort actions, no party may disclose to the
+26 trier of fact the impact of this section.
+1 537.092. Notwithstanding any provision of law to the
+2 contrary, in any civil action in which the trier of fact is
+3 a jury, neither a party nor the attorneys of a party shall
+4 seek or make reference to a specific dollar amount or state
+5 a range for the jury to consider with respect to awards for
+6 noneconomic damages, as that term is defined in section
+7 538.205.
+1 537.870. 1. Within thirty days of filing a civil
+2 action involving a latent injury or disease or a claim for
+3 medical monitoring, the claimant shall file a sworn
+4 information form specifying the evidence that provides the
+5 basis for each claim against each defendant. The sworn
+6 information form shall include the following with
+7 specificity:
+8 (1) The claimant's name, date of birth, marital
+9 status, occupation, smoking history, current and past
+10 residences, current and past worksites, current and past
+11 employers, and if applicable, the name of any individual
+12 through whom the claimant alleges exposure to the product or
+13 substance that forms a basis for the civil action;
+14 (2) The name and address of each individual who is
+15 knowledgeable about the exposures or events that form a
+16 basis for the civil action and the individual's relationship
+17 to the claimant;
+SB 1180 8
+18 (3) The manufacturer or seller and specific brand and
+19 trade name of each product or substance that forms a basis
+20 for the civil action;
+21 (4) Each site, including the address of each site, and
+22 the specific location at each site where any exposure or
+23 event occurred that form a basis for the civil action;
+24 (5) The beginning and ending dates of each exposure or
+25 event that form a basis for the civil action and the
+26 specific manner, frequency, and duration of each exposure or
+27 event that form a basis for the civil action;
+28 (6) The specific disease or injury that is alleged; and
+29 (7) A certification that all supporting documentation
+30 relating to the information required by this section has
+31 been provided to the parties.
+32 2. A claimant shall supplement the information
+33 required by this section when the claimant receives
+34 information that is required to be disclosed or becomes
+35 aware that a prior disclosure was inaccurate or incomplete.
+36 3. Discovery shall not commence against a defendant
+37 until the defendant's product, substance, or premises is
+38 specifically identified in the disclosures required by this
+39 section.
+40 4. The court, on motion by a defendant, shall dismiss
+41 the civil action without prejudice as to any defendant whose
+42 product, substance, or premises is not specifically
+43 identified in the disclosures required by this section.
+44 5. The court, on motion by a defendant, shall dismiss
+45 the civil action without prejudice as to the moving
+46 defendant or as to all defendants, as applicable, if the
+47 claimant fails to comply in whole or in part with the
+48 provisions of this section.
+✓
+[DELETED:  K b k a s 4 5 5 5.1.N     .I      .I    ]
+[DELETED: S .T .()E    ps]i   f  a et A         .T       F sn ,.[]s   f  ]
+[DELETED: S    n    .S  .A )" )" )"    )"    )"   )A)P  ]
+[DELETED: S )P .1.T     .A  .I     .A)I )C   .A   .T  .A   ]
+[DELETED: S  .I   .S .I       .F   .A    .D    .W    ]
+[DELETED: S  e;  .T   .T     y..1.I           I      )T ]
+[DELETED: S)T  .T  .I .N      .1.W      .T  )T     )T   ]
+[DELETED: S)T  )E  )T    )T)A  .A   .D   .T   .T    ]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+SENATE BILL NO. 1180
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR TRENT.
+4998S.02I KRISTINA MARTIN, Secretary
+AN ACT
+To repeal sections 490.715, 537.060, and 537.067, RSMo, and to enact in lieu thereof fourteen
+new sections relating to civil procedure.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Sections 490.715, 537.060, and 537.067, RSMo,
+2 are repealed and fourteen new sections enacted in lieu thereof,
+3 to be known as sections 490.715, 510.500, 510.503, 510.506,
+4 510.509, 510.512, 510.515, 510.518, 510.521, 537.059, 537.060,
+5 537.067, 537.092, and 537.870, to read as follows:
+1 490.715. 1. No evidence of collateral sources, or
+2 payments rendered under subsection 2 of this section, shall
+3 be admissible other than such evidence provided for in this
+4 section.
+5 2. If prior to trial a defendant or his or her insurer
+6 or authorized representative, or any combination of them,
+7 pays all or any part of a plaintiff's special damages, then
+8 any portion of a plaintiff's claims for special damages that
+9 are satisfied by a payment from a defendant or the
+10 defendant's insurer or authorized representative, or any
+11 combination of them, are not recoverable from that defendant.
+12 3. If such payments described in subsection 2 of this
+13 section are included in a plaintiff's claim for special
+14 damages at trial, the defendant who made the payment, or on
+15 whose behalf the payment was made, shall be entitled to
+EXPLANATION-Matter enclosed in bold-faced brackets [thus] in this bill is not enacted
+and is intended to be omitted in the law.
+
+SB 1180 2
+16 deduct and receive a credit for such payments from any
+17 judgment as provided for in section 490.710.
+18 4. This section does not require the exclusion of
+19 evidence admissible for another proper purpose.
+20 5. (1) Except as provided in subsection 2 of this
+21 section, [parties] in any action where a plaintiff seeks to
+22 recover for personal injury, bodily injury, or death, any
+23 party may introduce evidence of the actual cost of the
+24 medical care or treatment rendered to a plaintiff, or [a
+25 patient whose care is at issue] to the person for whose
+26 injury or death a plaintiff seeks to recover. Actual cost
+27 of the medical care or treatment shall be reasonable,
+28 necessary, and a proximate result of the negligence or fault
+29 of any party.
+30 (2) No party shall introduce evidence of the amount
+31 billed for medical care or treatment rendered to a plaintiff
+32 or a patient whose care is at issue in a plaintiff's case if
+33 the amount billed has been discounted pursuant to any
+34 contract, price reduction, or write-off by any person or
+35 entity or satisfied by payment of an amount less than the
+36 amount billed for that medical care or treatment.
+37 6. The actual cost of medical care or treatment
+38 rendered to a plaintiff or a patient whose care is at issue
+39 in a plaintiff's case and discounts pursuant to any
+40 contract, price reduction, or write-off shall be admissible
+41 evidence relevant to the potential cost of future treatment
+42 of the same type or kind to that plaintiff or patient whose
+43 care is at issue in a plaintiff's case.
+44 7. For purposes of this [subsection] section, the
+45 phrase "actual cost of the medical care or treatment" shall
+46 be defined as a sum of money not to exceed the dollar
+47 amounts paid by or on behalf of a plaintiff, or a patient
+
+SB 1180 3
+48 whose care is at issue in a plaintiff's case, plus any
+49 remaining dollar amount necessary to satisfy the financial
+50 obligation, including valid outstanding liens, for medical
+51 care or treatment by a health care provider after adjustment
+52 for any contractual discounts, price reduction, or write-off
+53 by any person or entity.
+1 510.500. Sections 510.500 to 510.521 shall be known
+2 and may be cited as the "Uniform Interstate Depositions and
+3 Discovery Act".
+1 510.503. As used in sections 510.500 to 510.521, the
+2 following terms mean:
+3 (1) "Foreign jurisdiction", a state other than this
+4 state;
+5 (2) "Foreign subpoena", a subpoena issued under
+6 authority of a court of record of a foreign jurisdiction;
+7 (3) "Person", an individual, corporation, business
+8 trust, estate, trust, partnership, limited liability
+9 company, association, joint venture, public corporation,
+10 government or political subdivision, agency or
+11 instrumentality, or any other legal or commercial entity;
+12 (4) "State", a state of the United States, the
+13 District of Columbia, Puerto Rico, the United States Virgin
+14 Islands, a federally recognized Indian tribe, or any
+15 territory or insular possession subject to the jurisdiction
+16 of the United States;
+17 (5) "Subpoena", a document, however denominated,
+18 issued under authority of a court of record requiring a
+19 person to:
+20 (a) Attend and give testimony at a deposition;
+21 (b) Produce and permit inspection and copying of
+22 designated books, documents, records, electronically stored
+
+SB 1180 4
+23 information, or tangible items in the possession, custody,
+24 or control of the person; or
+25 (c) Permit inspection of premises under the control of
+26 the person.
+1 510.506. 1. To request issuance of a subpoena under
+2 this section, a party shall submit a foreign subpoena to a
+3 clerk of court in the county in which discovery is sought to
+4 be conducted in this state. A request for the issuance of a
+5 subpoena under sections 510.500 to 510.521 shall not
+6 constitute an appearance in the courts of this state.
+7 2. If a party submits a foreign subpoena to a clerk of
+8 court in this state, the clerk, in accordance with such
+9 court's procedure, shall promptly issue a subpoena for
+10 service upon the person to which the foreign subpoena is
+11 directed.
+12 3. A subpoena under subsection 2 of this section shall:
+13 (1) Incorporate the terms used in the foreign
+14 subpoena; and
+15 (2) Contain or be accompanied by the names, addresses,
+16 and telephone numbers of all counsel of record in the
+17 proceeding to which the subpoena relates and of any party
+18 not represented by counsel.
+1 510.509. A subpoena issued by a clerk of court under
+2 section 510.506 shall be served in compliance with the
+3 Missouri supreme court rules of civil procedure and laws of
+4 this state.
+1 510.512. The Missouri supreme court rules of civil
+2 procedure and laws of this state, and any amendments
+3 thereto, apply to subpoenas issued under section 510.506.
+1 510.515. An application to the court for a protective
+2 order or to enforce, quash, or modify a subpoena issued by a
+3 clerk of court under section 510.506 shall comply with the
+
+SB 1180 5
+4 Missouri supreme court rules of civil procedure and the laws
+5 of this state and be submitted to the court in the county in
+6 which discovery is to be conducted.
+1 510.518. In applying and construing sections 510.500
+2 to 510.521, consideration shall be given to the need to
+3 promote uniformity of the law with respect to its subject
+4 matter among states that enact it.
+1 510.521. Sections 510.500 to 510.521 apply to requests
+2 for discovery in cases pending on August 28, 2026.
+1 537.059. In all actions in which there is any count
+2 alleging a tort to recover damages and in which any party
+3 contends that the damages were caused by the alleged fault
+4 of more than one person or entity, the trier of fact shall
+5 determine the amount of fault attributable to each person or
+6 entity, regardless of whether the person or entity is a
+7 party to the action, and regardless of whether the person or
+8 entity has settled or been released from liability. Fault
+9 of another person or entity may be alleged by any party to
+10 the tort action in any claim, counterclaim, cross-claim, or
+11 as an affirmative defense. Any determination by the trier
+12 of fact as to the amount of fault attributable to a person
+13 or entity not a party to the action at the time of trial
+14 shall not be binding against or otherwise affect the rights
+15 or liabilities of that person or entity.
+1 537.060. Defendants in a judgment founded on an action
+2 for the redress of a private wrong shall be subject to
+3 contribution, and all other consequences of such judgment,
+4 in the same manner and to the same extent as defendants in a
+5 judgment in an action founded on contract. When an
+6 agreement by release, covenant not to sue or not to enforce
+7 a judgment is given in good faith to one of two or more
+8 persons liable in tort for the same injury or wrongful
+
+SB 1180 6
+9 death, such agreement shall not discharge any of the other
+10 tort-feasors for the damage unless the terms of the
+11 agreement so provide[; however such agreement shall reduce
+12 the claim by the stipulated amount of the agreement, or in
+13 the amount of consideration paid, whichever is greater. The
+14 agreement shall discharge the tort-feasor to whom it is
+15 given from all liability for contribution or noncontractual
+16 indemnity to any other tort-feasor. The term
+17 "noncontractual indemnity" as used in this section refers to
+18 indemnity between joint tort-feasors culpably negligent,
+19 having no legal relationship to each other and does not
+20 include indemnity which comes about by reason of contract,
+21 or by reason of vicarious liability].
+1 537.067. 1. In all tort actions for damages, if a
+2 defendant is found to bear fifty-one percent or more of
+3 fault, then such defendant shall be jointly and severally
+4 liable for the amount of the judgment rendered against the
+5 defendants less the total of any stipulated amount in any
+6 release, covenant not to sue or not to enforce a judgment
+7 under any agreement with any other person or entity alleged
+8 to have been at fault pursuant to section 537.059, or any
+9 consideration paid by such person or entity, whichever is
+10 greater. If a defendant is found to bear less than fifty-
+11 one percent of fault, then the defendant shall only be
+12 responsible for the percentage of the judgment for which the
+13 defendant is determined to be responsible by the trier of
+14 fact; except that, a party is responsible for the fault of
+15 another defendant or for payment of the proportionate share
+16 of another defendant if any of the following applies:
+17 (1) The other defendant was acting as an employee of
+18 the party;
+
+SB 1180 7
+19 (2) The party's liability for the fault of another
+20 person arises out of a duty created by the federal
+21 Employers' Liability Act, 45 U.S.C. Section 51.
+22 2. The defendants shall only be severally liable for
+23 the percentage of punitive damages for which fault is
+24 attributed to such defendant by the trier of fact.
+25 3. In all tort actions, no party may disclose to the
+26 trier of fact the impact of this section.
+1 537.092. Notwithstanding any provision of law to the
+2 contrary, in any civil action in which the trier of fact is
+3 a jury, neither a party nor the attorneys of a party shall
+4 seek or make reference to a specific dollar amount or state
+5 a range for the jury to consider with respect to awards for
+6 noneconomic damages, as that term is defined in section
+7 538.205.
+1 537.870. 1. Within thirty days of filing a civil
+2 action involving a latent injury or disease or a claim for
+3 medical monitoring, the claimant shall file a sworn
+4 information form specifying the evidence that provides the
+5 basis for each claim against each defendant. The sworn
+6 information form shall include the following with
+7 specificity:
+8 (1) The claimant's name, date of birth, marital
+9 status, occupation, smoking history, current and past
+10 residences, current and past worksites, current and past
+11 employers, and if applicable, the name of any individual
+12 through whom the claimant alleges exposure to the product or
+13 substance that forms a basis for the civil action;
+14 (2) The name and address of each individual who is
+15 knowledgeable about the exposures or events that form a
+16 basis for the civil action and the individual's relationship
+17 to the claimant;
+
+SB 1180 8
+18 (3) The manufacturer or seller and specific brand and
+19 trade name of each product or substance that forms a basis
+20 for the civil action;
+21 (4) Each site, including the address of each site, and
+22 the specific location at each site where any exposure or
+23 event occurred that form a basis for the civil action;
+24 (5) The beginning and ending dates of each exposure or
+25 event that form a basis for the civil action and the
+26 specific manner, frequency, and duration of each exposure or
+27 event that form a basis for the civil action;
+28 (6) The specific disease or injury that is alleged; and
+29 (7) A certification that all supporting documentation
+30 relating to the information required by this section has
+31 been provided to the parties.
+32 2. A claimant shall supplement the information
+33 required by this section when the claimant receives
+34 information that is required to be disclosed or becomes
+35 aware that a prior disclosure was inaccurate or incomplete.
+36 3. Discovery shall not commence against a defendant
+37 until the defendant's product, substance, or premises is
+38 specifically identified in the disclosures required by this
+39 section.
+40 4. The court, on motion by a defendant, shall dismiss
+41 the civil action without prejudice as to any defendant whose
+42 product, substance, or premises is not specifically
+43 identified in the disclosures required by this section.
+44 5. The court, on motion by a defendant, shall dismiss
+45 the civil action without prejudice as to the moving
+46 defendant or as to all defendants, as applicable, if the
+47 claimant fails to comply in whole or in part with the
+48 provisions of this section.
+✓
+
+[DELETED:  K b k a s 4 5 5 5.1.N     .I      .I    ]
+[DELETED: S .T .()E    ps]i   f  a et A         .T       F sn ,.[]s   f  ]
+[DELETED: S    n    .S  .A )" )" )"    )"    )"   )A)P  ]
+[DELETED: S )P .1.T     .A  .I     .A)I )C   .A   .T  .A   ]
+[DELETED: S  .I   .S .I       .F   .A    .D    .W    ]
+[DELETED: S  e;  .T   .T     y..1.I           I      )T ]
+[DELETED: S)T  .T  .I .N      .1.W      .T  )T     )T   ]
+[DELETED: S)T  )E  )T    )T)A  .A   .D   .T   .T    ]
