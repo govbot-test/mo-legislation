@@ -1,0 +1,317 @@
+Title: SENATE BILL NO. 1361
+Official Title: SENATE BILL NO. 1361
+Number of Sections: 1
+Source: versions - 4697S.01I - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR TRENT.
+4697S.01I KRISTINA MARTIN, Secretary
+AN ACT
+To amend chapter 314, RSMo, by adding thereto one new section relating to financial information
+pertaining to the purchase of firearms and firearm materials.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Chapter 314, RSMo, is amended by adding thereto
+2 one new section, to be known as section 314.400, to read as
+3 follows:
+1 314.400. 1. This section shall be known and may be
+2 cited as the "Second Amendment Financial Privacy Act".
+3 2. As used in this section, unless the context
+4 otherwise clearly indicates another meaning, the following
+5 terms mean:
+6 (1) "Customer", a resident of this state engaged in a
+7 payment card transaction that a financial institution
+8 facilitates or processes;
+9 (2) "Disclosure" or "disclose", the transfer,
+10 publication, or distribution of protected financial
+11 information to another person or entity for any purpose
+12 other than:
+13 (a) To process or facilitate a payment card
+14 transaction; or
+15 (b) To take any actions related to dispute processing,
+16 fraud management, or protecting transaction integrity from
+SB 1361 2
+17 concerns related to illegal activities, a data breach, or
+18 cyber risks;
+19 (3) "Financial institution", an entity involved in
+20 facilitating or processing a payment card transaction,
+21 including, but not limited to, a bank, an acquirer, a
+22 payment card network, or a payment card issuer;
+23 (4) "Financial record", a record held by a financial
+24 institution related to a payment card transaction that the
+25 financial institution has processed or facilitated;
+26 (5) "Firearms merchant category code", the merchant
+27 category code 5723 approved in September of 2022 by the
+28 International Organization for Standardization for firearms
+29 retailers or any other indicator that a financial
+30 institution assigns to a merchant that identifies a merchant
+31 as a firearms retailer or the payment card transaction as
+32 involving the purchase of a firearm, firearm ammunition,
+33 ammunition components for use with firearms, or firearm
+34 accessories;
+35 (6) "Firearms retailer", a person or entity physically
+36 located in this state and engaged in the lawful business of
+37 selling or trading firearms, ammunition, ammunition
+38 components for use with firearms, or firearm accessories;
+39 (7) "Protected financial information", any record of a
+40 sale, purchase, return, or refund involving a payment card
+41 that is retrieved, characterized, generated, labeled,
+42 sorted, or grouped based on the assignment of a firearms
+43 merchant category code.
+44 3. (1) A financial institution, or its agents, shall
+45 not require the usage of a firearms merchant category code
+46 by a firearms retailer physically located in this state in a
+47 manner that distinguishes a firearms retailer from a general
+48 merchandise retailer or a sporting goods retailer.
+SB 1361 3
+49 (2) A financial institution shall not discriminate
+50 against a firearms retailer by declining a lawful payment
+51 card transaction based solely on the assignment or
+52 nonassignment of a firearms merchant category code;
+53 provided, that a financial institution may decline or
+54 otherwise refuse to process the transaction on the basis of
+55 the firearms merchant category code only:
+56 (a) If necessary to comply with this section;
+57 (b) If requested by the customer; or
+58 (c) Due to fraud controls or merchant category
+59 exclusions offered by a financial entity for the purpose of
+60 expenditure control or corporate card control.
+61 (3) Except as otherwise required by law or regulation,
+62 a financial institution shall not disclose a financial
+63 record, including protected financial information, that was
+64 collected in violation of this section unless the disclosure
+65 of the financial record or protected financial information
+66 was based on a good-faith conclusion that the entity's
+67 action was required by applicable law or regulation.
+68 (4) This section shall not limit the ability of a
+69 financial institution to negotiate with responsible parties
+70 or otherwise impair the financial institution's actions
+71 related to dispute processing, fraud management, or
+72 protecting transaction integrity from concerns related to
+73 illegal activities, a data breach, or cyber risks.
+74 4. (1) The attorney general shall investigate alleged
+75 violations of this section and, upon finding a violation,
+76 shall provide written notice to any individual or entity
+77 believed to be in violation. Written notice to a commercial
+78 entity shall be made to the entity's registered agent. Upon
+79 receipt of the written notice from the attorney general, the
+SB 1361 4
+80 entity shall cease any violation of this section within
+81 thirty calendar days.
+82 (2) A firearms retailer physically located in this
+83 state whose business was the subject of an alleged violation
+84 of this section or a customer who transacted at a firearms
+85 retailer physically located in this state whose business was
+86 the subject of an alleged violation of this section, may
+87 petition the attorney general to investigate an alleged
+88 violation of this section.
+89 (3) (a) If an individual or entity is found to be in
+90 violation of this section and fails to cease the violating
+91 activity after the expiration of thirty calendar days from
+92 the receipt of written notice by the attorney general's
+93 office, then the attorney general shall pursue an injunction
+94 against the individual or entity alleged to be in violation
+95 of this section. The attorney general may pursue an
+96 injunction pursuant to this section in the circuit court
+97 where the alleged violation occurred.
+98 (b) If a court finds that an individual or entity
+99 continues to be in violation of this section after thirty
+100 calendar days from receiving written notice from the
+101 attorney general in accordance with subdivision (1) of this
+102 subsection, then the court shall enjoin the individual or
+103 entity from continuing the activity found to be in violation
+104 of this section.
+105 (c) If an individual or entity knowingly and willfully
+106 fails to comply with an injunction issued pursuant to
+107 paragraph (b) of this subdivision within thirty days after
+108 being served with the injunction, then the attorney general,
+109 upon petition to the court, may recover on behalf of the
+110 state a civil penalty in a sum not to exceed ten thousand
+111 dollars for each violation committed after the expiration of
+SB 1361 5
+112 the thirty-day period provided in subdivision (1) of this
+113 subsection. In assessing a penalty, the court shall
+114 consider the financial resources of the violator and the
+115 harm or risk of harm to the rights afforded to the
+116 individual pursuant to the Second Amendment of the United
+117 States Constitution resulting from the violation. The
+118 attorney general may also recover, in addition to the civil
+119 penalty pursuant to this subsection, investigative costs and
+120 reasonable attorney's fees. An order assessing a penalty
+121 for violation of this section shall be stayed pending appeal
+122 of the order.
+123 (4) It is an affirmative defense to a proceeding
+124 initiated pursuant to this section that the firearms
+125 merchant category code was required to be used based on a
+126 good-faith conclusion that the entity's disclosure or action
+127 was required by applicable law or regulation.
+✓
+[DELETED:  K.1.T   .A  )"  )"   )T )T  ]
+[DELETED: S )"   )"  )"        )"   )"    .()A      ]
+[DELETED: S)A       )I )I)D  )E      )T     .()T     .W .U  ]
+[DELETED: S )A      )()I        .T  )I      )I       ]
+[DELETED: S .I    .T   .A  )I    ]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+SENATE BILL NO. 1361
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR TRENT.
+4697S.01I KRISTINA MARTIN, Secretary
+AN ACT
+To amend chapter 314, RSMo, by adding thereto one new section relating to financial information
+pertaining to the purchase of firearms and firearm materials.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Chapter 314, RSMo, is amended by adding thereto
+2 one new section, to be known as section 314.400, to read as
+3 follows:
+1 314.400. 1. This section shall be known and may be
+2 cited as the "Second Amendment Financial Privacy Act".
+3 2. As used in this section, unless the context
+4 otherwise clearly indicates another meaning, the following
+5 terms mean:
+6 (1) "Customer", a resident of this state engaged in a
+7 payment card transaction that a financial institution
+8 facilitates or processes;
+9 (2) "Disclosure" or "disclose", the transfer,
+10 publication, or distribution of protected financial
+11 information to another person or entity for any purpose
+12 other than:
+13 (a) To process or facilitate a payment card
+14 transaction; or
+15 (b) To take any actions related to dispute processing,
+16 fraud management, or protecting transaction integrity from
+
+SB 1361 2
+17 concerns related to illegal activities, a data breach, or
+18 cyber risks;
+19 (3) "Financial institution", an entity involved in
+20 facilitating or processing a payment card transaction,
+21 including, but not limited to, a bank, an acquirer, a
+22 payment card network, or a payment card issuer;
+23 (4) "Financial record", a record held by a financial
+24 institution related to a payment card transaction that the
+25 financial institution has processed or facilitated;
+26 (5) "Firearms merchant category code", the merchant
+27 category code 5723 approved in September of 2022 by the
+28 International Organization for Standardization for firearms
+29 retailers or any other indicator that a financial
+30 institution assigns to a merchant that identifies a merchant
+31 as a firearms retailer or the payment card transaction as
+32 involving the purchase of a firearm, firearm ammunition,
+33 ammunition components for use with firearms, or firearm
+34 accessories;
+35 (6) "Firearms retailer", a person or entity physically
+36 located in this state and engaged in the lawful business of
+37 selling or trading firearms, ammunition, ammunition
+38 components for use with firearms, or firearm accessories;
+39 (7) "Protected financial information", any record of a
+40 sale, purchase, return, or refund involving a payment card
+41 that is retrieved, characterized, generated, labeled,
+42 sorted, or grouped based on the assignment of a firearms
+43 merchant category code.
+44 3. (1) A financial institution, or its agents, shall
+45 not require the usage of a firearms merchant category code
+46 by a firearms retailer physically located in this state in a
+47 manner that distinguishes a firearms retailer from a general
+48 merchandise retailer or a sporting goods retailer.
+
+SB 1361 3
+49 (2) A financial institution shall not discriminate
+50 against a firearms retailer by declining a lawful payment
+51 card transaction based solely on the assignment or
+52 nonassignment of a firearms merchant category code;
+53 provided, that a financial institution may decline or
+54 otherwise refuse to process the transaction on the basis of
+55 the firearms merchant category code only:
+56 (a) If necessary to comply with this section;
+57 (b) If requested by the customer; or
+58 (c) Due to fraud controls or merchant category
+59 exclusions offered by a financial entity for the purpose of
+60 expenditure control or corporate card control.
+61 (3) Except as otherwise required by law or regulation,
+62 a financial institution shall not disclose a financial
+63 record, including protected financial information, that was
+64 collected in violation of this section unless the disclosure
+65 of the financial record or protected financial information
+66 was based on a good-faith conclusion that the entity's
+67 action was required by applicable law or regulation.
+68 (4) This section shall not limit the ability of a
+69 financial institution to negotiate with responsible parties
+70 or otherwise impair the financial institution's actions
+71 related to dispute processing, fraud management, or
+72 protecting transaction integrity from concerns related to
+73 illegal activities, a data breach, or cyber risks.
+74 4. (1) The attorney general shall investigate alleged
+75 violations of this section and, upon finding a violation,
+76 shall provide written notice to any individual or entity
+77 believed to be in violation. Written notice to a commercial
+78 entity shall be made to the entity's registered agent. Upon
+79 receipt of the written notice from the attorney general, the
+
+SB 1361 4
+80 entity shall cease any violation of this section within
+81 thirty calendar days.
+82 (2) A firearms retailer physically located in this
+83 state whose business was the subject of an alleged violation
+84 of this section or a customer who transacted at a firearms
+85 retailer physically located in this state whose business was
+86 the subject of an alleged violation of this section, may
+87 petition the attorney general to investigate an alleged
+88 violation of this section.
+89 (3) (a) If an individual or entity is found to be in
+90 violation of this section and fails to cease the violating
+91 activity after the expiration of thirty calendar days from
+92 the receipt of written notice by the attorney general's
+93 office, then the attorney general shall pursue an injunction
+94 against the individual or entity alleged to be in violation
+95 of this section. The attorney general may pursue an
+96 injunction pursuant to this section in the circuit court
+97 where the alleged violation occurred.
+98 (b) If a court finds that an individual or entity
+99 continues to be in violation of this section after thirty
+100 calendar days from receiving written notice from the
+101 attorney general in accordance with subdivision (1) of this
+102 subsection, then the court shall enjoin the individual or
+103 entity from continuing the activity found to be in violation
+104 of this section.
+105 (c) If an individual or entity knowingly and willfully
+106 fails to comply with an injunction issued pursuant to
+107 paragraph (b) of this subdivision within thirty days after
+108 being served with the injunction, then the attorney general,
+109 upon petition to the court, may recover on behalf of the
+110 state a civil penalty in a sum not to exceed ten thousand
+111 dollars for each violation committed after the expiration of
+
+SB 1361 5
+112 the thirty-day period provided in subdivision (1) of this
+113 subsection. In assessing a penalty, the court shall
+114 consider the financial resources of the violator and the
+115 harm or risk of harm to the rights afforded to the
+116 individual pursuant to the Second Amendment of the United
+117 States Constitution resulting from the violation. The
+118 attorney general may also recover, in addition to the civil
+119 penalty pursuant to this subsection, investigative costs and
+120 reasonable attorney's fees. An order assessing a penalty
+121 for violation of this section shall be stayed pending appeal
+122 of the order.
+123 (4) It is an affirmative defense to a proceeding
+124 initiated pursuant to this section that the firearms
+125 merchant category code was required to be used based on a
+126 good-faith conclusion that the entity's disclosure or action
+127 was required by applicable law or regulation.
+✓
+
+[DELETED:  K.1.T   .A  )"  )"   )T )T  ]
+[DELETED: S )"   )"  )"        )"   )"    .()A      ]
+[DELETED: S)A       )I )I)D  )E      )T     .()T     .W .U  ]
+[DELETED: S )A      )()I        .T  )I      )I       ]
+[DELETED: S .I    .T   .A  )I    ]
