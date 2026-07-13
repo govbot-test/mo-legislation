@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1402",
+  "title": "SB 1402 - Current law provides a sales tax exemption for certain durable medical equipment as defined on January 1, 1980 by the federal Medicare program. This act removes the reference to January 1, 1980.\r\n\r\n\tAdditionally, current law provides a sales tax exemption for the sales or rental of manual and powered wheelchairs, including parts. This act applies the exemption to accessories for such wheelchairs. (Section 144.030)\r\n\r\n\tThis provision is identical to HB 1760 (2026) and SB 173 (2023), and to a provision in SCS/HCS/HB 1883 (2026), SB 573 (2025), SB 1180 (2024), HCS/HB 1427 (2024), HB 1817 (2024), HCS/SS/SB 143 (2023), and SCS/HCS/HB 154 (2023), and is similar to SB 943 (2022), HB 1864 (2022), and SB 483 (2021), and to a provision in SS/SCS/SB 649 (2022), SB 743 (2022), CCS/HCS/SB 226 (2021).\r\n\r\n\tThis act also provides a sales tax exemption for sales of class III medical devices that use electric fields for the purposes of treatment of cancer, including components and repair parts and disposable or single patient use supplies required for the use of such supplies. (Section 144.813)\r\n\r\n\tThis provision is identical to a provision in SB 573 (2025), SB 1180 (2024), HCS/HB 1427 (2024), HB 1817 (2024), SS/SCS/SB 131 (2023), and SCS/HCS/HB 154 (2023), and is substantially similar to SB 943 (2022), HB 1864 (2022), and SB 483 (2021), and to a provision in SS/SCS/SB 649 (2022), SB 743 (2022), CCS/HCS/SB 226 (2021).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1402 - Current law provides a sales tax exemption for certain durable medical equipment as defined on January 1, 1980 by the federal Medicare program. This act removes the reference to January 1, 1980.\r\n\r\n\tAdditionally, current law provides a sales tax exemption for the sales or rental of manual and powered wheelchairs, including parts. This act applies the exemption to accessories for such wheelchairs. (Section 144.030)\r\n\r\n\tThis provision is identical to HB 1760 (2026) and SB 173 (2023), and to a provision in SCS/HCS/HB 1883 (2026), SB 573 (2025), SB 1180 (2024), HCS/HB 1427 (2024), HB 1817 (2024), HCS/SS/SB 143 (2023), and SCS/HCS/HB 154 (2023), and is similar to SB 943 (2022), HB 1864 (2022), and SB 483 (2021), and to a provision in SS/SCS/SB 649 (2022), SB 743 (2022), CCS/HCS/SB 226 (2021).\r\n\r\n\tThis act also provides a sales tax exemption for sales of class III medical devices that use electric fields for the purposes of treatment of cancer, including components and repair parts and disposable or single patient use supplies required for the use of such supplies. (Section 144.813)\r\n\r\n\tThis provision is identical to a provision in SB 573 (2025), SB 1180 (2024), HCS/HB 1427 (2024), HB 1817 (2024), SS/SCS/SB 131 (2023), and SCS/HCS/HB 154 (2023), and is substantially similar to SB 943 (2022), HB 1864 (2022), and SB 483 (2021), and to a provision in SS/SCS/SB 649 (2022), SB 743 (2022), CCS/HCS/SB 226 (2021).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies a sales tax exemption for the sale of certain medical devices"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1402"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S Economic and Workforce Development Committee",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Economic and Workforce Development Committee",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Economic and Workforce Development Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Coleman, Mary Elizabeth",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Coleman, Mary Elizabeth\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5883S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1402.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=696",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5883S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

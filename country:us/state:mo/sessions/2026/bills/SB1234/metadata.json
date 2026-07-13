@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1234",
+  "title": "SB 1234 - This act specifies that, in any civil action for personal injury, death, or property damage caused by a product, the plaintiff shall prove that the defendant designed, manufactured, sold, or leased the actual product that caused the injury. Designers, manufacturers, sellers, or lessors of products not identified as having been used, ingested, or encountered by an injured party will not be held liable for any alleged injury. A person or business entity whose design is copied or otherwise used by a manufacturer without the designer's express authorization shall not be subject to liability for personal injury, death, or property damage, even if the use of the design is foreseeable.\r\n\r\n\tThis act is identical to HCS/HB 918 (2025) and is substantially similar to SB 552 (2025), a provision in SB 669 (2022), in SB 1243 (2022), in HB 2367 (2022), in HCS/SCS/SB 119 (2021), SB 350 (2021), HCS/HB 782 (2021), and in the perfected HCS/HB 922 (2021).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1234 - This act specifies that, in any civil action for personal injury, death, or property damage caused by a product, the plaintiff shall prove that the defendant designed, manufactured, sold, or leased the actual product that caused the injury. Designers, manufacturers, sellers, or lessors of products not identified as having been used, ingested, or encountered by an injured party will not be held liable for any alleged injury. A person or business entity whose design is copied or otherwise used by a manufacturer without the designer's express authorization shall not be subject to liability for personal injury, death, or property damage, even if the use of the design is foreseeable.\r\n\r\n\tThis act is identical to HCS/HB 918 (2025) and is substantially similar to SB 552 (2025), a provision in SB 669 (2022), in SB 1243 (2022), in HB 2367 (2022), in HCS/SCS/SB 119 (2021), SB 350 (2021), HCS/HB 782 (2021), and in the perfected HCS/HB 922 (2021).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes immunity from liability for certain designers, manufacturers, sellers, and lessors of products"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1234"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S General Laws Committee",
+      "date": "2026-04-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S General Laws Committee",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Trent, Curtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Trent, Curtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3365S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1234.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=158",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3365S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

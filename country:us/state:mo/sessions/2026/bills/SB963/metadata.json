@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 963",
+  "title": "SB 963 - At least twice during each school year, this act requires school districts and charter schools to offer students who are at least 17 1/2 years old the opportunity to register to vote.  The first opportunity shall occur during school hours on the fourth Tuesday in September.  The second opportunity shall occur at a later time and shall be conducted by the local election authority in whose jurisdiction the school district or charter school is located.  The school district or charter school shall coordinate with the local election authority to provide the second voter registration activity.\r\n\r\n\tThe Secretary of State shall prepare materials regarding voter registration to be distributed at each voter registration activity conducted pursuant to the provisions of the act.\r\n\r\n\tEach school district and charter school shall file a report regarding voter registration activities with the Department of Elementary and Secondary Education by December 31 of each year.\r\n\r\n\tThis act is identical to HB 3137 (2026) and SB 375 (2026).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 963 - At least twice during each school year, this act requires school districts and charter schools to offer students who are at least 17 1/2 years old the opportunity to register to vote.  The first opportunity shall occur during school hours on the fourth Tuesday in September.  The second opportunity shall occur at a later time and shall be conducted by the local election authority in whose jurisdiction the school district or charter school is located.  The school district or charter school shall coordinate with the local election authority to provide the second voter registration activity.\r\n\r\n\tThe Secretary of State shall prepare materials regarding voter registration to be distributed at each voter registration activity conducted pursuant to the provisions of the act.\r\n\r\n\tEach school district and charter school shall file a report regarding voter registration activities with the Department of Elementary and Secondary Education by December 31 of each year.\r\n\r\n\tThis act is identical to HB 3137 (2026) and SB 375 (2026).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Requires school districts and charter schools to offer students who are 17 1/2 years old the opportunity to register to vote"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb963"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Washington, Barbara",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Washington, Barbara\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4324S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB963.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=636",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4324S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

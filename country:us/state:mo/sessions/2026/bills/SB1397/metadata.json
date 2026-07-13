@@ -1,0 +1,140 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1397",
+  "title": "SB 1397 - Under the act, a person who has contracted for the right to store water in a reservoir owned by the United States Army Corps of Engineers shall have exclusive rights to any return flows from the reservoir. The rights shall be subject to regulatory requirements imposed by the state and to the availability of unused storage capacity within the reservoir.\r\n\r\n\tThe act also repeals a provision stating that the Clean Water Commission shall not adopt or recommend a clean water fee exceeding $5,000.\r\n\r\n\tThe act has a provision identical to SB 1589 (2026) and a provision identical to a provision in HCS/SB 953 (2026).\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1397 - Under the act, a person who has contracted for the right to store water in a reservoir owned by the United States Army Corps of Engineers shall have exclusive rights to any return flows from the reservoir. The rights shall be subject to regulatory requirements imposed by the state and to the availability of unused storage capacity within the reservoir.\r\n\r\n\tThe act also repeals a provision stating that the Clean Water Commission shall not adopt or recommend a clean water fee exceeding $5,000.\r\n\r\n\tThe act has a provision identical to SB 1589 (2026) and a provision identical to a provision in HCS/SB 953 (2026).\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies and creates new provisions relating to water regulation"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1397"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Hearing Cancelled S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-03-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Henderson, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Henderson, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5858S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1397.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=689",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5858S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

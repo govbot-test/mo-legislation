@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 921",
+  "title": "SB 921 - This act prohibits public entities from requiring any person to obtain or maintain any digital form of identification, as that term is defined in the act. The use of a digital form of identification may be offered by a public entity as an option when interacting with any person, but the person cannot be required to obtain or use a digital form of identification unless a physical form of identification is offered as an alternative in lieu of the digital form of identification. The use of a digital form of identification may also be offered by a private entity as an option when interacting with any person.\r\n\r\n\tA person who has agreed to use a digital form of identification shall be permitted, upon request, to view, correct, destroy, or restrict the usage of all personal data associated with the person's own identification. A person who has authorized the usage of any personal data associated with the person's digital form of identification for one purpose shall not be deemed authorization for any other purpose. Personal data of any person may only be collected for the purpose stated by the public or private entity and only upon the consent of each individual person, or in the case of a minor, only upon consent of a parent of the minor. Personal data of any person shall not be sold or transferred to any public or private entity without the consent of the person.\r\n\r\n\tA public entity shall not, with respect to any individual person, take any action or refuse to take any action based solely on the personal data of a person. Furthermore, a digital form of identification shall not be required by a public entity to enter any place of public accommodation.\r\n\r\n\tAny person may bring a cause of action in a court of competent jurisdiction if the person alleges that a public entity has violated this act.  A public entity found by a court to have violated this act shall be liable to the person affected for not more than $150,000 per occurrence.\r\n\r\n\tThis act shall not be construed to prohibit any public entity from complying with any lawful request from a law enforcement agency with respect to any person's personal data.\r\n\r\n\tThe act additionally provides that no person shall be required to obtain a mobile driver's license. Furthermore, a person's driver's license shall not be linked with any automated license plate reader without the written consent of such person.\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 921 - This act prohibits public entities from requiring any person to obtain or maintain any digital form of identification, as that term is defined in the act. The use of a digital form of identification may be offered by a public entity as an option when interacting with any person, but the person cannot be required to obtain or use a digital form of identification unless a physical form of identification is offered as an alternative in lieu of the digital form of identification. The use of a digital form of identification may also be offered by a private entity as an option when interacting with any person.\r\n\r\n\tA person who has agreed to use a digital form of identification shall be permitted, upon request, to view, correct, destroy, or restrict the usage of all personal data associated with the person's own identification. A person who has authorized the usage of any personal data associated with the person's digital form of identification for one purpose shall not be deemed authorization for any other purpose. Personal data of any person may only be collected for the purpose stated by the public or private entity and only upon the consent of each individual person, or in the case of a minor, only upon consent of a parent of the minor. Personal data of any person shall not be sold or transferred to any public or private entity without the consent of the person.\r\n\r\n\tA public entity shall not, with respect to any individual person, take any action or refuse to take any action based solely on the personal data of a person. Furthermore, a digital form of identification shall not be required by a public entity to enter any place of public accommodation.\r\n\r\n\tAny person may bring a cause of action in a court of competent jurisdiction if the person alleges that a public entity has violated this act.  A public entity found by a court to have violated this act shall be liable to the person affected for not more than $150,000 per occurrence.\r\n\r\n\tThis act shall not be construed to prohibit any public entity from complying with any lawful request from a law enforcement agency with respect to any person's personal data.\r\n\r\n\tThe act additionally provides that no person shall be required to obtain a mobile driver's license. Furthermore, a person's driver's license shall not be linked with any automated license plate reader without the written consent of such person.\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates new provisions relating to digital forms of identification"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb921"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nicola, Joe",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nicola, Joe\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5681S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB921.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=467",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5681S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

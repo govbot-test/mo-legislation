@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1741",
+  "title": "SB 1741 - This act establishes provisions relating to rental protections for victims of domestic violence. This act provides that a tenant or lessee may have a perpetrator of domestic violence against the tenant, lessee, or a household member removed from the rental agreement and excluded from the premises. The tenant or lessee is required to submit to the landlord a copy of a protective order, restraining order, or other similar relief or a record from a federal, state, or local law enforcement agency, a court, or an administrative agency pertaining to an alleged incident of domestic violence. The tenant or lessee shall also submit to the landlord a written notice providing the full legal name, preferred date of termination of lease for the perpetrator, and the preferred method of communication between the landlord and such tenant or lessee. \r\n\r\n\tA landlord may, after five days of notice of termination of the rental agreement and without the right of the tenant or lessee to cure the default, file suit and have judgment against only the perpetrator for recovery of possession of the premises as an expedited eviction.  If the perpetrator vacates the premises within five days of the notice, the landlord shall install new locks and inform the tenant or lessee of such. If the perpetrator fails to vacate the premises within five days of the notice, the landlord shall file suit and timely notify the requesting tenant or lessee of the hearing date and judgment. If a judgment is entered in favor of the landlord, the landlord shall be entitled to recover court costs and reasonable attorney's fees, shall install new locks, and shall notify the requesting tenant or lessee of the installation of the new locks and how to obtain access to the dwelling unit. The landlord shall also refuse access by the perpetrator to the dwelling unit for the purposes of reclaiming property, unless a law enforcement officer escorts the perpetrator into and out of the dwelling unit. A landlord shall not be liable for any actions taken in good faith in accordance with this act. \r\n\r\n\tIf the perpetrator of domestic violence is not a tenant, lessee, or occupant, the tenant or lessee may require his or her landlord to change the locks to the dwelling unit if the tenant or lessee provides a written request to the landlord along with a protective order, restraining order, or other similar relief or a record from a federal, state, or local law enforcement agency, a court, or an administrative agency pertaining to the alleged incident of domestic violence. The landlord shall change the locks to the tenant's dwelling unit within 24 hours. If a landlord fails to change the locks, the tenant or lessee may change the locks, provided that they notify the landlord that the locks have been changed and provide the landlord with a new key or the entry code by which to access the dwelling unit. A landlord may require the tenant to pay for the actual and reasonable cost incurred by the landlord in changing the locks.\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1741 - This act establishes provisions relating to rental protections for victims of domestic violence. This act provides that a tenant or lessee may have a perpetrator of domestic violence against the tenant, lessee, or a household member removed from the rental agreement and excluded from the premises. The tenant or lessee is required to submit to the landlord a copy of a protective order, restraining order, or other similar relief or a record from a federal, state, or local law enforcement agency, a court, or an administrative agency pertaining to an alleged incident of domestic violence. The tenant or lessee shall also submit to the landlord a written notice providing the full legal name, preferred date of termination of lease for the perpetrator, and the preferred method of communication between the landlord and such tenant or lessee. \r\n\r\n\tA landlord may, after five days of notice of termination of the rental agreement and without the right of the tenant or lessee to cure the default, file suit and have judgment against only the perpetrator for recovery of possession of the premises as an expedited eviction.  If the perpetrator vacates the premises within five days of the notice, the landlord shall install new locks and inform the tenant or lessee of such. If the perpetrator fails to vacate the premises within five days of the notice, the landlord shall file suit and timely notify the requesting tenant or lessee of the hearing date and judgment. If a judgment is entered in favor of the landlord, the landlord shall be entitled to recover court costs and reasonable attorney's fees, shall install new locks, and shall notify the requesting tenant or lessee of the installation of the new locks and how to obtain access to the dwelling unit. The landlord shall also refuse access by the perpetrator to the dwelling unit for the purposes of reclaiming property, unless a law enforcement officer escorts the perpetrator into and out of the dwelling unit. A landlord shall not be liable for any actions taken in good faith in accordance with this act. \r\n\r\n\tIf the perpetrator of domestic violence is not a tenant, lessee, or occupant, the tenant or lessee may require his or her landlord to change the locks to the dwelling unit if the tenant or lessee provides a written request to the landlord along with a protective order, restraining order, or other similar relief or a record from a federal, state, or local law enforcement agency, a court, or an administrative agency pertaining to the alleged incident of domestic violence. The landlord shall change the locks to the tenant's dwelling unit within 24 hours. If a landlord fails to change the locks, the tenant or lessee may change the locks, provided that they notify the landlord that the locks have been changed and provide the landlord with a new key or the entry code by which to access the dwelling unit. A landlord may require the tenant to pay for the actual and reasonable cost incurred by the landlord in changing the locks.\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to rental protections for victims of domestic violence"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1741"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Washington, Barbara",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Washington, Barbara\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6355S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1741.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6457880",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6355S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

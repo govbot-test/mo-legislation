@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1229",
+  "title": "SB 1229 - This act enacts provisions relating to health insurance coverage of maternity services.\r\n\r\nHEALTH INSURANCE COVERAGE OF MIDWIVES (Section 376.1755)\r\n\tThis act requires that certain health benefit plans providing coverage for maternity services shall provide coverage for health care services provided by a midwife, as defined in the act. The act further enacts provisions relating to cost-sharing requirements, requires reimbursement for services lawfully provided by midwives as well as physicians, and specifies that terminology in a health benefit plan subject to the act which is deemed to discriminate against midwifery or to inhibit reimbursement for midwifery services at the in-network rate shall be void and unenforceable. (Section 376.1755).\r\n\r\n\tThese provisions are identical to provisions in SB 260 (2025), SB 1238 (2024), SB 1222 (2024), SB 713 (2023), HB 900 (2023), and HB 1148 (2023).\r\n\r\nHEALTH INSURANCE COVERAGE OF DOULA SERVICES (Section 376.1758)\r\n\tThe act directs the Department of Health and Senior Services to promulgate rules for registration allowing a \"doula\", as defined in the act, to receive reimbursement for doula services. The act shall not be construed to prohibit any person from practicing as a doula, regardless of registration with the Department. (Section 376.1758).\r\n\r\n\tThese provisions are identical to provisions in SB 260 (2025), similar to HB 890 (2025), and identical to provisions in SB 1238 (2024), SB 1222 (2024), SB 713 (2023), HB 900 (2023), and HB 1148 (2023).\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1229 - This act enacts provisions relating to health insurance coverage of maternity services.\r\n\r\nHEALTH INSURANCE COVERAGE OF MIDWIVES (Section 376.1755)\r\n\tThis act requires that certain health benefit plans providing coverage for maternity services shall provide coverage for health care services provided by a midwife, as defined in the act. The act further enacts provisions relating to cost-sharing requirements, requires reimbursement for services lawfully provided by midwives as well as physicians, and specifies that terminology in a health benefit plan subject to the act which is deemed to discriminate against midwifery or to inhibit reimbursement for midwifery services at the in-network rate shall be void and unenforceable. (Section 376.1755).\r\n\r\n\tThese provisions are identical to provisions in SB 260 (2025), SB 1238 (2024), SB 1222 (2024), SB 713 (2023), HB 900 (2023), and HB 1148 (2023).\r\n\r\nHEALTH INSURANCE COVERAGE OF DOULA SERVICES (Section 376.1758)\r\n\tThe act directs the Department of Health and Senior Services to promulgate rules for registration allowing a \"doula\", as defined in the act, to receive reimbursement for doula services. The act shall not be construed to prohibit any person from practicing as a doula, regardless of registration with the Department. (Section 376.1758).\r\n\r\n\tThese provisions are identical to provisions in SB 260 (2025), similar to HB 890 (2025), and identical to provisions in SB 1238 (2024), SB 1222 (2024), SB 713 (2023), HB 900 (2023), and HB 1148 (2023).\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Enacts provisions relating to health insurance coverage of maternity services"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1229"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Conducted S Insurance and Banking Committee",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Insurance and Banking Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Washington, Barbara",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Washington, Barbara\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4463S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1229.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=649",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4463S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "identifier": "",
+  "motion_text": "Truly Agreed To and Finally Passed - AYES: 24 NOES: 4 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-15T05:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "428ce45a-754d-11f1-b24a-b6ae219d7a94",
+  "bill_action": null,
+  "bill_identifier": "HB 3080",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB3080&year=2026&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

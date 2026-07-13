@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1777",
+  "title": "SB 1777 - This act authorizes a low-performing school district to enter into a contract for the establishment of a \"Public School Transformation Campus\".  If a school district is determined to be in the bottom five percent of scores on the Annual Performance Report (APR) or has a recent APR score consistent with an accreditation status of provisionally accredited or unaccredited, such district may contract with the governing body of a charter school that satisfies certain performance and financial criteria or another entity approved by the State Board of Education to operate a struggling school as a \"transformation campus\".  A school district that enters into such a contract shall be exempt from certain state interventions that would normally apply to struggling schools or districts, such as the School Turnaround Act, special administrative boards, the lapse of an unaccredited district, or the transfer of students out of an unaccredited district. \r\n\t\t\t\t\t\t\t\t\t\t\r\n\tBefore entering into a transformation contract, a district shall notify the Commissioner of Education of its intent to pursue the contract.  The State Board of Education shall promulgate rules concerning how and when this notification shall occur, including certain information provided in the act.  The Commissioner shall notify the district within 60 days of receiving all required information whether the proposed contract is approved or rejected.  The Department of Elementary and Secondary Education (DESE) shall encourage approved entities to enter into such contracts with school districts.\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\tFor accountability purposes during the first two years of a transformation, the transformation campus shall be evaluated with an alternate performance status and shall be publicly identified as a transformation campus.  Following the first two years of transformation, the State Board of Education shall assign all performance ratings received by other public schools within the district to the transformation campus.\r\n\r\n\tDESE may provide, through state and federal funds where allowable, financial incentives to support transformations under this act.\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1777 - This act authorizes a low-performing school district to enter into a contract for the establishment of a \"Public School Transformation Campus\".  If a school district is determined to be in the bottom five percent of scores on the Annual Performance Report (APR) or has a recent APR score consistent with an accreditation status of provisionally accredited or unaccredited, such district may contract with the governing body of a charter school that satisfies certain performance and financial criteria or another entity approved by the State Board of Education to operate a struggling school as a \"transformation campus\".  A school district that enters into such a contract shall be exempt from certain state interventions that would normally apply to struggling schools or districts, such as the School Turnaround Act, special administrative boards, the lapse of an unaccredited district, or the transfer of students out of an unaccredited district. \r\n\t\t\t\t\t\t\t\t\t\t\r\n\tBefore entering into a transformation contract, a district shall notify the Commissioner of Education of its intent to pursue the contract.  The State Board of Education shall promulgate rules concerning how and when this notification shall occur, including certain information provided in the act.  The Commissioner shall notify the district within 60 days of receiving all required information whether the proposed contract is approved or rejected.  The Department of Elementary and Secondary Education (DESE) shall encourage approved entities to enter into such contracts with school districts.\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\tFor accountability purposes during the first two years of a transformation, the transformation campus shall be evaluated with an alternate performance status and shall be publicly identified as a transformation campus.  Following the first two years of transformation, the State Board of Education shall assign all performance ratings received by other public schools within the district to the transformation campus.\r\n\r\n\tDESE may provide, through state and federal funds where allowable, financial incentives to support transformations under this act.\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Allows a low-performing school district to enter into a contract with a state-approved entity for the establishment of a \"Public School Transformation Campus\""
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1777"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Coleman, Mary Elizabeth",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Coleman, Mary Elizabeth\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7206S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1777.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6616219",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7206S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:24Z"
+  }
+}

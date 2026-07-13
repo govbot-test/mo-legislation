@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1621",
+  "title": "SB 1621 - This act provides that there shall be no standalone cause of action for medical monitoring in this state. Additionally, regardless of the legal theory asserted, an increased risk of disease shall not compensable by itself through damages or any other form of relief. No defendant shall be required to pay damages or provide other relief for a plaintiff's future medical monitoring unless the plaintiff proves, in addition to the requirements for the underlying cause of action, the following:\r\n\t\u2022\tThe future monitoring is directly related to, and necessitated by, a presently existing and diagnosable physical disease or injury of the plaintiff;\r\n\t\u2022\tThe future monitoring is distinct from other monitoring recommended in the absence of the preexisting physical disease or injury and related exposure; and\r\n\t\u2022\tThe plaintiff's presently existing physical disease or injury was caused by the defendant's tortious conduct.\r\n\r\n\tFurthermore, the mere presence of a toxic substance in the bloodstream shall not constitute a presently existing and diagnosable physical disease or injury.\r\n\r\n\tThis act is identical to HB 2888 (2026).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1621 - This act provides that there shall be no standalone cause of action for medical monitoring in this state. Additionally, regardless of the legal theory asserted, an increased risk of disease shall not compensable by itself through damages or any other form of relief. No defendant shall be required to pay damages or provide other relief for a plaintiff's future medical monitoring unless the plaintiff proves, in addition to the requirements for the underlying cause of action, the following:\r\n\t\u2022\tThe future monitoring is directly related to, and necessitated by, a presently existing and diagnosable physical disease or injury of the plaintiff;\r\n\t\u2022\tThe future monitoring is distinct from other monitoring recommended in the absence of the preexisting physical disease or injury and related exposure; and\r\n\t\u2022\tThe plaintiff's presently existing physical disease or injury was caused by the defendant's tortious conduct.\r\n\r\n\tFurthermore, the mere presence of a toxic substance in the bloodstream shall not constitute a presently existing and diagnosable physical disease or injury.\r\n\r\n\tThis act is identical to HB 2888 (2026).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes provisions relating to civil actions involving medical monitoring"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1621"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gregory (21), Kurtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Gregory (21), Kurtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7045S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1621.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=3394069",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7045S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

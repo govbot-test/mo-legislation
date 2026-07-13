@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1177",
+  "title": "SB 1177 - This act creates new provisions governing digital assets.\r\n\r\nNATURE OF DIGITAL ASSETS AND THE UNIFORM COMMERCIAL CODE (Section 409.450)\r\nThe act establishes the following digital assets, all defined in the act, as intangible personal property and subject to the Uniform Commercial Code, as follows:\r\n\t\u2022\tDigital consumer assets are considered a general intangible;\r\n\t\u2022\tDigital securities are considered a security;\r\n\t\u2022\tVirtual currency is considered money.\r\n\r\nThe act creates standards and methods for the perfection, possession, and control of the aforementioned digital assets.\r\n\r\n\tProvisions are created allowing banks to provide custodial services, as that term is defined in the act, for digital assets and governing the manner in which such services are rendered to customers.\r\n\r\nREGISTRATION OF DIGITAL ASSETS (Section 409.455)\r\nThe act creates a process for registering digital assets with the Secretary of State (SOS). The lawful owner of any digital asset or the owner's agent may register the digital asset with the SOS if the owner is a resident of this state or, in the case of a business entity, if the entity is incorporated or organized under Missouri law. Provisions are included relating to the information needed to be included on any application and the fee to be submitted, not to exceed $500. Registration of any digital asset is for a period of 5 years and may be renewed for successive periods. \r\n\r\n\tAny person who files or registers any digital asset with the SOS by knowingly making any false or fraudulent representation or declaration, orally or in writing, or by any other means, shall be liable to pay all damages sustained in consequence of the filing or registration, to be recovered by or on behalf of the injured party in any court of competent jurisdiction.\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1177 - This act creates new provisions governing digital assets.\r\n\r\nNATURE OF DIGITAL ASSETS AND THE UNIFORM COMMERCIAL CODE (Section 409.450)\r\nThe act establishes the following digital assets, all defined in the act, as intangible personal property and subject to the Uniform Commercial Code, as follows:\r\n\t\u2022\tDigital consumer assets are considered a general intangible;\r\n\t\u2022\tDigital securities are considered a security;\r\n\t\u2022\tVirtual currency is considered money.\r\n\r\nThe act creates standards and methods for the perfection, possession, and control of the aforementioned digital assets.\r\n\r\n\tProvisions are created allowing banks to provide custodial services, as that term is defined in the act, for digital assets and governing the manner in which such services are rendered to customers.\r\n\r\nREGISTRATION OF DIGITAL ASSETS (Section 409.455)\r\nThe act creates a process for registering digital assets with the Secretary of State (SOS). The lawful owner of any digital asset or the owner's agent may register the digital asset with the SOS if the owner is a resident of this state or, in the case of a business entity, if the entity is incorporated or organized under Missouri law. Provisions are included relating to the information needed to be included on any application and the fee to be submitted, not to exceed $500. Registration of any digital asset is for a period of 5 years and may be renewed for successive periods. \r\n\r\n\tAny person who files or registers any digital asset with the SOS by knowingly making any false or fraudulent representation or declaration, orally or in writing, or by any other means, shall be liable to pay all damages sustained in consequence of the filing or registration, to be recovered by or on behalf of the injured party in any court of competent jurisdiction.\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates new provisions relating to digital assets"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1177"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Insurance and Banking Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fitzwater, Travis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Fitzwater, Travis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5432S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1177.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=138",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5432S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

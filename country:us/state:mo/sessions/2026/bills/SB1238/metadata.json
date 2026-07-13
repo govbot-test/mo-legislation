@@ -1,0 +1,128 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1238",
+  "title": "SB 1238 - This act requires teachers of American history at public schools and charter schools to provide instruction on the positive impacts of religion on American history.  The act lists certain historical accounts that shall be included in such instruction, including the organization of the pilgrims as a church; the religious background of the signers of the Declaration of Independence; George Washington's direction regarding chaplains in the army; Benjamin Franklin's appeal for prayer at the constitutional convention; the influence of religion on the United States Constitution; the religious origins of the concept of the separation of church and state; the role of the Ten Commandments in shaping American law; the history of the national motto \"In God We Trust\"; and other historical accounts specified in the act.  \r\n\r\n\tInstructors at public institutions of higher education may also provide such instruction, which may include the same historical accounts.\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1238 - This act requires teachers of American history at public schools and charter schools to provide instruction on the positive impacts of religion on American history.  The act lists certain historical accounts that shall be included in such instruction, including the organization of the pilgrims as a church; the religious background of the signers of the Declaration of Independence; George Washington's direction regarding chaplains in the army; Benjamin Franklin's appeal for prayer at the constitutional convention; the influence of religion on the United States Constitution; the religious origins of the concept of the separation of church and state; the role of the Ten Commandments in shaping American law; the history of the national motto \"In God We Trust\"; and other historical accounts specified in the act.  \r\n\r\n\tInstructors at public institutions of higher education may also provide such instruction, which may include the same historical accounts.\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to instruction on the positive impacts of religion on American history"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1238"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Conducted S Education Committee",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Hearing Cancelled S Education Committee",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5692S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1238.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=516",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5692S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

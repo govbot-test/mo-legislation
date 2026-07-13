@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1095",
+  "title": "SB 1095 - Under current law, the period for filing a declaration of candidacy in certain political subdivisions and special districts is from 8:00 a.m. on the 17th Tuesday prior to the election until 5:00 p.m. on the 14th Tuesday prior to the election. This act changes that period to 8:00 a.m. on the 16th Tuesday prior to the election until 5:00 p.m. on the 13th Tuesday prior to the election, unless the 13th Tuesday prior to an election falls on a holiday, then the closing of filing shall be at 5:00 p.m. on the next day that is not a holiday.\r\n\r\n\tThis act is identical to a provision in the truly agreed to SCS/HB 1940 (2026), a provision in the truly agreed to SS/SCS/HCS/HB 1871 (2026), a provision in SCS/SB 836 (2026), a provision in HCS/SCS/SB 1023 (2026), HB 1987 (2026), SCS/SB 182 (2025), SB 774 (2024), a provision in SB 926 (2024), a provision in HCS/HB 1525 (2024), HB 1604 (2024), a provision in SCS/HB 2084 (2024), a provision in HCS/HB 2140 (2024), a provision in HCS/HB 2206 (2024), a provision in HCS/HB 2895 (2024), a provision in SCS/SB 346 (2023), and CCS/HS/HCS/SS#2/SCS/SB 96 (2023) and substantially similar to HB 2225 (2024), HCS/HB 1214 (2023), provisions in the perfected HCS/HBs 267 & 347 (2023), and HCS/HB 783 (2023).\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1095 - Under current law, the period for filing a declaration of candidacy in certain political subdivisions and special districts is from 8:00 a.m. on the 17th Tuesday prior to the election until 5:00 p.m. on the 14th Tuesday prior to the election. This act changes that period to 8:00 a.m. on the 16th Tuesday prior to the election until 5:00 p.m. on the 13th Tuesday prior to the election, unless the 13th Tuesday prior to an election falls on a holiday, then the closing of filing shall be at 5:00 p.m. on the next day that is not a holiday.\r\n\r\n\tThis act is identical to a provision in the truly agreed to SCS/HB 1940 (2026), a provision in the truly agreed to SS/SCS/HCS/HB 1871 (2026), a provision in SCS/SB 836 (2026), a provision in HCS/SCS/SB 1023 (2026), HB 1987 (2026), SCS/SB 182 (2025), SB 774 (2024), a provision in SB 926 (2024), a provision in HCS/HB 1525 (2024), HB 1604 (2024), a provision in SCS/HB 2084 (2024), a provision in HCS/HB 2140 (2024), a provision in HCS/HB 2206 (2024), a provision in HCS/HB 2895 (2024), a provision in SCS/SB 346 (2023), and CCS/HS/HCS/SS#2/SCS/SB 96 (2023) and substantially similar to HB 2225 (2024), HCS/HB 1214 (2023), provisions in the perfected HCS/HBs 267 & 347 (2023), and HCS/HB 783 (2023).\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies the candidate filing period for local elections"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1095"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Crawford, Sandy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Crawford, Sandy\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4485S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1095.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=426",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4485S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

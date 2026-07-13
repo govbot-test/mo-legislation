@@ -1,0 +1,94 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HR 4331",
+  "title": "Grants use of the House Chamber for the Missouri Association of Counties Legislative Day on Wednesday, April 15, 2026, from 8:00 am to 8:45 a.m.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "official",
+      "title": "HR 4331"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-hr4331"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Offered (H)",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Referred: Consent and Procedure(H)",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Peggy McGaugh",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Peggy McGaugh\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/7163H.01I.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.house.mo.gov/BillContent.aspx?bill=HR4331&year=2026&code=R&style=new",
+      "note": ""
+    },
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HR4331&year=2026&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

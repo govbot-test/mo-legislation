@@ -1,0 +1,390 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1383",
+  "title": "SS/SCS/SB 1383 - This act ends the current pilot program for agricultural education in elementary schools and authorizes the Department of Elementary and Secondary Education (DESE) to establish an ongoing agricultural education program beginning in the 2027-28 school year.  DESE shall develop a process for public elementary schools to participate in such program, and the local school board for each participating school shall fully fund the program and may employ an agricultural education teacher.  DESE shall collaborate with Missouri agricultural commodity groups to establish instructional models for the program, as provided in the act.  DESE shall evaluate the success and impact of the agricultural education program and report the results of such evaluation on the DESE website.  Provisions of state law requiring the State Board of Education to form a work group to develop academic performance standards shall not apply to the provisions of this act. \r\n\r\n\tThis act is identical to provisions in SS/HCS/HBs 2097 & 1905 (2026) and in SS/SCS/HB 2896 (2026).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SS/SCS/SB 1383 - This act ends the current pilot program for agricultural education in elementary schools and authorizes the Department of Elementary and Secondary Education (DESE) to establish an ongoing agricultural education program beginning in the 2027-28 school year.  DESE shall develop a process for public elementary schools to participate in such program, and the local school board for each participating school shall fully fund the program and may employ an agricultural education teacher.  DESE shall collaborate with Missouri agricultural commodity groups to establish instructional models for the program, as provided in the act.  DESE shall evaluate the success and impact of the agricultural education program and report the results of such evaluation on the DESE website.  Provisions of state law requiring the State Board of Education to form a work group to develop academic performance standards shall not apply to the provisions of this act. \r\n\r\n\tThis act is identical to provisions in SS/HCS/HBs 2097 & 1905 (2026) and in SS/SCS/HB 2896 (2026).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Authorizes the Department of Elementary and Secondary Education to establish an agricultural education program for elementary schools"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1383"
+    }
+  ],
+  "actions": [
+    {
+      "description": "H Calendar Senate Bills for Third Reading",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass H Rules - Administrative",
+      "date": "2026-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass H Rules - Administrative",
+      "date": "2026-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Referred H Rules - Administrative",
+      "date": "2026-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass H Legislative Review",
+      "date": "2026-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass H Legislative Review",
+      "date": "2026-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted H Legislative Review",
+      "date": "2026-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Referred H Legislative Review",
+      "date": "2026-04-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass H Special Committee on Rural Issues",
+      "date": "2026-04-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass H Special Committee on Rural Issues",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted H Special Committee on Rural Issues",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Referred H Special Committee on Rural Issues",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "H Second Read",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "H First Read",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S Third Read and Passed",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Perfected",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "SS for SCS S offered & adopted (Washington)-(4325S.03F)",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Reported from S Education Committee w/SCS",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass S Education Committee (4325S.02C)",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Education Committee",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Washington, Barbara",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Washington, Barbara\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4325S.03P - Perfected",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB1383.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4325S.02C - Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB1383.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4325S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1383.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "3/24/2026 - SS for SCS S offered & adopted (Washington)-(4325S.03F)\r\n                    \r\n                        3/24/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=245",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=666",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4325S.03P"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

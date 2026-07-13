@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1603",
+  "title": "SB 1603 - This act establishes the Missouri Declaration and Bylaws Modernization Act. \r\n\r\n\tThe board of directors of a homeowners association may amend bylaws and declarations with a simple majority vote. Should an insufficient number of votes be obtained to decide the question within ninety days of distributing the amendment of the bylaws or declarations to the members of the association, the bylaws or declarations may be amended if the association provides a notice to all members containing a statement that the proposed amendment would be deemed approved by the members unless one quarter of the votes in the association submit a vote to reject the proposed amendment within sixty days of the date of notice. \r\n\r\n\tMembers have no more than one year to challenge the validity of an amendment to the declaration. Members have no more than six months to challenge the validity an amendment to the bylaws. \r\n\r\n\tIn the absence of a board of directors, at least ten percent of the members of the association may call a special meeting to conduct an election. Any quorum requirement shall be suspended. This newly elected board of directors shall be deemed to be the board of directors of the association unless suit is filed within sixty days of the election. \r\n\r\n\tThe board of directors is required to propose and pass an annual budget. Within thirty days of passing the budget, the board of directors shall provide to all lot owners a copy of the proposed budget.\r\n\r\n\tThis act is similar to SB 481 (2025)and SB 398 (2017).\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1603 - This act establishes the Missouri Declaration and Bylaws Modernization Act. \r\n\r\n\tThe board of directors of a homeowners association may amend bylaws and declarations with a simple majority vote. Should an insufficient number of votes be obtained to decide the question within ninety days of distributing the amendment of the bylaws or declarations to the members of the association, the bylaws or declarations may be amended if the association provides a notice to all members containing a statement that the proposed amendment would be deemed approved by the members unless one quarter of the votes in the association submit a vote to reject the proposed amendment within sixty days of the date of notice. \r\n\r\n\tMembers have no more than one year to challenge the validity of an amendment to the declaration. Members have no more than six months to challenge the validity an amendment to the bylaws. \r\n\r\n\tIn the absence of a board of directors, at least ten percent of the members of the association may call a special meeting to conduct an election. Any quorum requirement shall be suspended. This newly elected board of directors shall be deemed to be the board of directors of the association unless suit is filed within sixty days of the election. \r\n\r\n\tThe board of directors is required to propose and pass an annual budget. Within thirty days of passing the budget, the board of directors shall provide to all lot owners a copy of the proposed budget.\r\n\r\n\tThis act is similar to SB 481 (2025)and SB 398 (2017).\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the \"Missouri Declaration and Bylaws Modernization Act\""
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1603"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Cancelled S General Laws Committee",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hough, Lincoln",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Hough, Lincoln\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6746S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1603.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=2589603",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6746S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

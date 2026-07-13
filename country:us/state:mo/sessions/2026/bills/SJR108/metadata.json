@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SJR 108",
+  "title": "SJR 108 - If approved by the voters, this constitutional amendment requires the Department of Social Services and the MO HealthNet Division to implement work requirements for certain individuals as a condition of participation in the MO HealthNet program.  These individuals shall demonstrate compliance with work requirements for 3 consecutive months immediately preceding the month during which they apply and the Department and Division shall disenroll any individual who fails to comply with work requirements.  The Department shall submit any necessary state plan amendments to implement this amendment to the Centers for Medicare and Medicaid Services no later than March 1, 2027.\r\n\r\n\tThis constitutional amendment is similar to SJR 103 (2026), SCS/SJR 43 (2025), SJR 76 (2024), provisions of SJR 4 (2023) and HCS/HJR 117 (2022), SJR 60 (2020), and SJR 32 (2020).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SJR 108 - If approved by the voters, this constitutional amendment requires the Department of Social Services and the MO HealthNet Division to implement work requirements for certain individuals as a condition of participation in the MO HealthNet program.  These individuals shall demonstrate compliance with work requirements for 3 consecutive months immediately preceding the month during which they apply and the Department and Division shall disenroll any individual who fails to comply with work requirements.  The Department shall submit any necessary state plan amendments to implement this amendment to the Centers for Medicare and Medicaid Services no later than March 1, 2027.\r\n\r\n\tThis constitutional amendment is similar to SJR 103 (2026), SCS/SJR 43 (2025), SJR 76 (2024), provisions of SJR 4 (2023) and HCS/HJR 117 (2022), SJR 60 (2020), and SJR 32 (2020).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to work requirements for MO HealthNet"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sjr108"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hudson, Brad",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Hudson, Brad\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6124S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR108.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=19789",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6124S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

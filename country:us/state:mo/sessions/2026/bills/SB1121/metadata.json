@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1121",
+  "title": "SB 1121 - This act creates the \"Missouri Higher Education Funding Policy Prioritization Act\" and creates and modifies provisions relating to higher education workforce policy prioritization.\r\n\r\n\tThe act modifies the Bright Flight Scholarship Program by modifying the scholarship amounts and by awarding additional scholarships to students who receive Bright Flight awards and are enrolled in eligible programs of study under the Fast Track Workforce Incentive Grant Program.\r\n\r\n\tFor the 2027-28 academic year and all subsequent academic years, subject to appropriation, an eligible student under Bright Flight shall be offered academic scholarships in an amount equal to the actual in-state tuition charged for the first four semesters the student is enrolled at the approved institution.  This provision shall also apply to a Bright Flight recipient in academic years prior to 2027-28 who has completed the first two semesters under the current iteration of the program, for such student's third and fourth semesters.\r\n\r\n\tAdditionally, a Bright Flight renewal student who is enrolled in an eligible program of study under Fast Track may renew Bright Flight scholarships for up to six semesters in an amount equal to the actual in-state tuition charged.  (Section 173.250)\r\n\r\n\tThe \"Missouri Higher Education Funding Policy Prioritization Act\" is established to require the Department of Higher Education and Workforce Development (DHEWD) to develop a funding model for public institutions of higher education.  The act sets forth criteria for the funding model, which shall be aligned to meet the professional and workforce needs for the state; shall provide sustainable resources for institutions; and shall be based on the 2023 performance funding study commissioned by DHEWD.  The model shall include a process for allocating core appropriations to four-year institutions, community colleges, and State Technical College of Missouri, and shall use a cost-based approach, along with a performance component, as described in the act.  The model shall also establish a plan for testing and implementation.  After the plan has been reviewed and consented to by two members of the House of Representatives appointed by the Speaker of the House, as well as two senators appointed by the President Pro Tempore of the Senate, the plan shall be approved by the Coordinating Board for Higher Education and submitted to the Governor and the General Assembly before August 31, 2026.  DHEWD shall evaluate the effectiveness of the funding model test and submit a report to the Governor, the Speaker, and the President Pro Tempore before October 15, 2026.  The funding model shall be presented to the Coordinating Board for Higher Education for final approval before November 1, 2026.  However, the funding model shall not become effective unless approved by the General Assembly by concurrent resolution.\r\n\r\n\tFor the 2028-29 fiscal year and all subsequent fiscal years, appropriations to four-year institutions, community colleges, and State Technical College of Missouri shall be in accordance with the funding model approved by the General Assembly.  (Section 173.1541)\r\n\r\n\tThis provision is similar to HB 1569 (2025), HB 2905 (2024), and to a provision in HCS/HB 2123 (2026).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1121 - This act creates the \"Missouri Higher Education Funding Policy Prioritization Act\" and creates and modifies provisions relating to higher education workforce policy prioritization.\r\n\r\n\tThe act modifies the Bright Flight Scholarship Program by modifying the scholarship amounts and by awarding additional scholarships to students who receive Bright Flight awards and are enrolled in eligible programs of study under the Fast Track Workforce Incentive Grant Program.\r\n\r\n\tFor the 2027-28 academic year and all subsequent academic years, subject to appropriation, an eligible student under Bright Flight shall be offered academic scholarships in an amount equal to the actual in-state tuition charged for the first four semesters the student is enrolled at the approved institution.  This provision shall also apply to a Bright Flight recipient in academic years prior to 2027-28 who has completed the first two semesters under the current iteration of the program, for such student's third and fourth semesters.\r\n\r\n\tAdditionally, a Bright Flight renewal student who is enrolled in an eligible program of study under Fast Track may renew Bright Flight scholarships for up to six semesters in an amount equal to the actual in-state tuition charged.  (Section 173.250)\r\n\r\n\tThe \"Missouri Higher Education Funding Policy Prioritization Act\" is established to require the Department of Higher Education and Workforce Development (DHEWD) to develop a funding model for public institutions of higher education.  The act sets forth criteria for the funding model, which shall be aligned to meet the professional and workforce needs for the state; shall provide sustainable resources for institutions; and shall be based on the 2023 performance funding study commissioned by DHEWD.  The model shall include a process for allocating core appropriations to four-year institutions, community colleges, and State Technical College of Missouri, and shall use a cost-based approach, along with a performance component, as described in the act.  The model shall also establish a plan for testing and implementation.  After the plan has been reviewed and consented to by two members of the House of Representatives appointed by the Speaker of the House, as well as two senators appointed by the President Pro Tempore of the Senate, the plan shall be approved by the Coordinating Board for Higher Education and submitted to the Governor and the General Assembly before August 31, 2026.  DHEWD shall evaluate the effectiveness of the funding model test and submit a report to the Governor, the Speaker, and the President Pro Tempore before October 15, 2026.  The funding model shall be presented to the Coordinating Board for Higher Education for final approval before November 1, 2026.  However, the funding model shall not become effective unless approved by the General Assembly by concurrent resolution.\r\n\r\n\tFor the 2028-29 fiscal year and all subsequent fiscal years, appropriations to four-year institutions, community colleges, and State Technical College of Missouri shall be in accordance with the funding model approved by the General Assembly.  (Section 173.1541)\r\n\r\n\tThis provision is similar to HB 1569 (2025), HB 2905 (2024), and to a provision in HCS/HB 2123 (2026).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates the \"Missouri Higher Education Funding Policy Prioritization Act\" and creates and modifies provisions relating to higher education workforce policy prioritization"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1121"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Conducted S Education Committee",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Trent, Curtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Trent, Curtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5718S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1121.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=437",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5718S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1750",
+  "title": "SB 1750 - The act modifies and creates new provisions relating to the regulation of large load electric customers.\r\n\r\n\tUnder the act, an electrical corporation providing electric service to more than 250,000 customers shall develop and submit to the Public Service Commission schedules to include in the electrical corporation's service tariff applicable to customers who are projected to have above an annual peak demand of 50 megawatts, instead of 100 megawatts as currently provided, or more. (Section 393.130.7)\r\n\r\nLARGE LOAD FACILITIES (Section 393.325)\r\n\tThe act provides that an owner or operator of a large load facility, as defined in the act, that intends to operate the facility in the state after August 28, 2026, shall file with the Public Service Commission a disclosure of intent to operate the facility before signing contracts with any public utility. Requirements of the disclosure are described in the act. \r\n\r\n\tDuring the Commission's review process of the disclosure, the Commission shall take certain specifics into account, as described in the act. The Commission shall make such disclosure publicly accessible on the Commission's website. The Commission's requirements for the disclosure are described in the act.\r\n\r\n\tThe Commission shall have the authority to approve, provisionally approve, or deny the disclosure, as described in the act.\r\n\r\n\tUpon approval of the disclosure, an owner or operator shall conduct a pre-construction study of the large load facility and submit the results of the study to the Commission. Specifics of the study are described in the act. The study shall be conducted for the second time after the construction of the facility is completed to ensure no deficiencies are present and whether mitigation is necessary. If the post-construction study shows any deficiencies or disparities, the owner or operator shall pay for any mitigation costs. Results of the pre- and post-construction studies shall be reported to the Commission and shall be made available to the public before and after construction is completed and annually thereafter in a format determined by the Commission.\r\n\r\n\tAfter the disclosure is approved by the Commission, an owner or operator of a large load facility shall be required to pay for certain costs, as described in the act. Such costs shall not be shifted to any other class of ratepayers in a general rate proceeding.\r\n\r\n\tAfter a large load facility becomes operational, an owner or operator shall be required to make financial contributions to certain programs for low-income ratepayers, as described in the act.\r\n\r\n\tCertain facilities under the act shall implement an emergency curtailment system for temporary reduction or suspension of electric service, as described in the act. Facilities that provide services to entities such as hospitals, long term care facilities, or first-responder facilities shall be exempt from this provision.\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1750 - The act modifies and creates new provisions relating to the regulation of large load electric customers.\r\n\r\n\tUnder the act, an electrical corporation providing electric service to more than 250,000 customers shall develop and submit to the Public Service Commission schedules to include in the electrical corporation's service tariff applicable to customers who are projected to have above an annual peak demand of 50 megawatts, instead of 100 megawatts as currently provided, or more. (Section 393.130.7)\r\n\r\nLARGE LOAD FACILITIES (Section 393.325)\r\n\tThe act provides that an owner or operator of a large load facility, as defined in the act, that intends to operate the facility in the state after August 28, 2026, shall file with the Public Service Commission a disclosure of intent to operate the facility before signing contracts with any public utility. Requirements of the disclosure are described in the act. \r\n\r\n\tDuring the Commission's review process of the disclosure, the Commission shall take certain specifics into account, as described in the act. The Commission shall make such disclosure publicly accessible on the Commission's website. The Commission's requirements for the disclosure are described in the act.\r\n\r\n\tThe Commission shall have the authority to approve, provisionally approve, or deny the disclosure, as described in the act.\r\n\r\n\tUpon approval of the disclosure, an owner or operator shall conduct a pre-construction study of the large load facility and submit the results of the study to the Commission. Specifics of the study are described in the act. The study shall be conducted for the second time after the construction of the facility is completed to ensure no deficiencies are present and whether mitigation is necessary. If the post-construction study shows any deficiencies or disparities, the owner or operator shall pay for any mitigation costs. Results of the pre- and post-construction studies shall be reported to the Commission and shall be made available to the public before and after construction is completed and annually thereafter in a format determined by the Commission.\r\n\r\n\tAfter the disclosure is approved by the Commission, an owner or operator of a large load facility shall be required to pay for certain costs, as described in the act. Such costs shall not be shifted to any other class of ratepayers in a general rate proceeding.\r\n\r\n\tAfter a large load facility becomes operational, an owner or operator shall be required to make financial contributions to certain programs for low-income ratepayers, as described in the act.\r\n\r\n\tCertain facilities under the act shall implement an emergency curtailment system for temporary reduction or suspension of electric service, as described in the act. Facilities that provide services to entities such as hospitals, long term care facilities, or first-responder facilities shall be exempt from this provision.\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to the regulation of large load electric customers"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1750"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "McCreery, Tracy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            McCreery, Tracy\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7195S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1750.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6459808",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7195S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

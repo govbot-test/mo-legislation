@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Voted Do Pass S Agriculture, Food Production and Outdoor Resources Committee",
+    "occurred_at": "2026-04-23T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=4208578",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1651"
+}

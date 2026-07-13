@@ -1,0 +1,520 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 863",
+  "title": "SS#2/SB 863 - This act creates provisions governing organizations that facilitate interscholastic athletic activities for public secondary school students.  The act defines an \"activities association\" as a statewide nonprofit organization that includes at least one public school, charter school, or school district as a fee-paying member and that facilitates interscholastic activities, more than 50% of which are athletic activities, for secondary school students.  The term \"activities association\" does not include organizations that do not facilitate interscholastic athletic activities, such as career and technical student organizations and other organizations specified in the act.  A \"public school\" is defined as including both public schools and charter schools.\r\n\r\n\tUnder this act, appeals of decisions made by an activities association may be heard by the newly created \"Interscholastic Athletic Oversight Commission\", a board of directors appointed by the Governor, by and with the advice and consent of the Senate.   The term of office of each member shall be four years.\r\n\r\n\tThe oversight commission shall hear appeals after the activities association's appeals process has been exhausted or appeals that are made directly to the oversight commission.  The oversight commission shall hear only appeals of decisions relating to eligibility due to transfers of students deemed to be for athletic purposes and appeals relating to contests and contest procedures.  The oversight commission may recommend rule changes to the activities association to be considered through the activities association's rulemaking procedures.\r\n\r\n\tAn activities association shall prepare an annual report and present to House and Senate committees to be chosen by the Speaker of the House of Representatives and the President Pro Tem of the Senate within the first 30 days of the legislative session.\r\n\r\n\tThe oversight commission shall be established within the Department of Elementary and Secondary Education (DESE) for purposes of hearing appeals.  DESE shall provide sufficient administrative and financial personnel to support the work of the oversight commission, and shall promulgate rules as necessary to implement a fair and timely appeals process, including timelines and procedural rules for the appeals process.\r\n\r\n\tIf the oversight commission is named as a defendant in any action arising from or relating to a decision of the oversight commission, the Attorney General shall represent the oversight commission and the state shall be responsible for all attorney's fees, costs, and damages incurred.\r\n\r\n\tThe oversight commission may meet in person or hold virtual meetings.  All decisions of the oversight commission are final, not subject to further appeal, and shall be adhered to and implemented by the activities association.\r\n\r\n\tThis act is similar to SB 1364 (2026) and HCS/HBs 2278 & 2403 (2026).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SS#2/SB 863 - This act creates provisions governing organizations that facilitate interscholastic athletic activities for public secondary school students.  The act defines an \"activities association\" as a statewide nonprofit organization that includes at least one public school, charter school, or school district as a fee-paying member and that facilitates interscholastic activities, more than 50% of which are athletic activities, for secondary school students.  The term \"activities association\" does not include organizations that do not facilitate interscholastic athletic activities, such as career and technical student organizations and other organizations specified in the act.  A \"public school\" is defined as including both public schools and charter schools.\r\n\r\n\tUnder this act, appeals of decisions made by an activities association may be heard by the newly created \"Interscholastic Athletic Oversight Commission\", a board of directors appointed by the Governor, by and with the advice and consent of the Senate.   The term of office of each member shall be four years.\r\n\r\n\tThe oversight commission shall hear appeals after the activities association's appeals process has been exhausted or appeals that are made directly to the oversight commission.  The oversight commission shall hear only appeals of decisions relating to eligibility due to transfers of students deemed to be for athletic purposes and appeals relating to contests and contest procedures.  The oversight commission may recommend rule changes to the activities association to be considered through the activities association's rulemaking procedures.\r\n\r\n\tAn activities association shall prepare an annual report and present to House and Senate committees to be chosen by the Speaker of the House of Representatives and the President Pro Tem of the Senate within the first 30 days of the legislative session.\r\n\r\n\tThe oversight commission shall be established within the Department of Elementary and Secondary Education (DESE) for purposes of hearing appeals.  DESE shall provide sufficient administrative and financial personnel to support the work of the oversight commission, and shall promulgate rules as necessary to implement a fair and timely appeals process, including timelines and procedural rules for the appeals process.\r\n\r\n\tIf the oversight commission is named as a defendant in any action arising from or relating to a decision of the oversight commission, the Attorney General shall represent the oversight commission and the state shall be responsible for all attorney's fees, costs, and damages incurred.\r\n\r\n\tThe oversight commission may meet in person or hold virtual meetings.  All decisions of the oversight commission are final, not subject to further appeal, and shall be adhered to and implemented by the activities association.\r\n\r\n\tThis act is similar to SB 1364 (2026) and HCS/HBs 2278 & 2403 (2026).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the \"Interscholastic Athletic Oversight Commission\", a board of directors appointed by the Governor to hear appeals of certain decisions made by statewide activities associations"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb863"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Delivered to Governor",
+      "date": "2026-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Signed by House Speaker",
+      "date": "2026-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Signed by Senate President Pro Tem",
+      "date": "2026-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Reported Duly Enrolled Rules, Joint Rules, Resolutions & Ethics Committee",
+      "date": "2026-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Truly Agreed To and Finally Passed",
+      "date": "2026-04-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "H Third Read and Passed",
+      "date": "2026-04-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass H Fiscal Review",
+      "date": "2026-04-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass H Fiscal Review",
+      "date": "2026-04-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Referred H Fiscal Review Committee",
+      "date": "2026-04-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass H Rules - Legislative",
+      "date": "2026-04-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass H Rules - Legislative",
+      "date": "2026-04-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Referred H Rules - Legislative",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass H Corrections and Public Institutions",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass H Corrections and Public Institutions",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted H Corrections and Public Institutions",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Referred H Corrections and Public Institutions",
+      "date": "2026-04-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "H Second Read",
+      "date": "2026-04-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "H First Read",
+      "date": "2026-04-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S Third Read and Passed",
+      "date": "2026-04-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Reported from S Fiscal Oversight Committee",
+      "date": "2026-04-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Fiscal Oversight Committee",
+      "date": "2026-04-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Referred S Fiscal Oversight Committee",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Perfected",
+      "date": "2026-04-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "SS#2 S offered & adopted  (Bean)--(5125S.07F)",
+      "date": "2026-04-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "SS S withdrawn",
+      "date": "2026-04-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "SA 1 to SS S offered (Beck)--(5125S02.09S)",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "SS S offered (Bean)--(5125S.02F)",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Reported from S Education Committee",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Education Committee",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Education Committee",
+      "date": "2026-01-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bean, Jason",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Bean, Jason\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5125S.07T - Truly Agreed to and Finally Passed",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/tat/SB863.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "5125S.07P - Perfected",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB863.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "5125S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB863.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4/7/2026 - SS#2 S offered & adopted  (Bean)--(5125S.07F)\r\n                    \r\n                        4/7/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=381",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "2/3/2026 - SS S offered (Bean)--(5125S.02F)\r\n                    \r\n                        4/7/2026 - Withdrawn",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=17",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2/3/2026 - SA 1 to SS S offered (Beck)--(5125S02.09S)\r\n                    \r\n                        4/7/2026 - Moot",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=22",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=80",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5125S.07T"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1235",
+  "title": "SB 1235 - This act makes the following persons ineligible for parole, probation, or conditional release:\r\n\t\u2022\tAny person convicted of the offense of tampering with a judicial officer who threatened or caused harm to the judicial officer or members of the officer's family, or who used force, threats, or deception against or toward the officer or members of the officer's family;\r\n\t\u2022\tAny person convicted of the offense of tampering with a judicial officer who caused a death or bodily injury in the course of committing the offense; and\r\n\t\u2022\tAny person convicted of the offense of tampering with a judicial proceeding who threatened or caused harm to any person or property.\r\n\r\n\tThis act is similar to HCS/HB 2699 (2026) and SB 453 (2025), and to a provision contained in HCS/HB 1457 (2025)\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1235 - This act makes the following persons ineligible for parole, probation, or conditional release:\r\n\t\u2022\tAny person convicted of the offense of tampering with a judicial officer who threatened or caused harm to the judicial officer or members of the officer's family, or who used force, threats, or deception against or toward the officer or members of the officer's family;\r\n\t\u2022\tAny person convicted of the offense of tampering with a judicial officer who caused a death or bodily injury in the course of committing the offense; and\r\n\t\u2022\tAny person convicted of the offense of tampering with a judicial proceeding who threatened or caused harm to any person or property.\r\n\r\n\tThis act is similar to HCS/HB 2699 (2026) and SB 453 (2025), and to a provision contained in HCS/HB 1457 (2025)\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies the offense of tampering with a judicial officer and the offense of tampering with a judicial proceeding"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1235"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Cancelled S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Trent, Curtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Trent, Curtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5340S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1235.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=162",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5340S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1769",
+  "title": "SB 1769 - This act establishes the Office of Public Defense within the Department of Safety. The Director of the Department shall also serve as the director of the Office. The office is authorized to acquire and sell machine guns to the public, operate a warehouse and distribution station. In addition, the Office is tasked with verifying the eligibility of a qualified person to purchase a machine gun. Finally, the Office is required to make annual reports to the Governor.\r\n\r\n\tThis act requires that for each transfer to a qualified person, the office shall make two copies of a signed and dated certificate, the office shall provide one copy to the person and retain the other copy in perpetuity. The information contained within the certificate and any other information contained within any records shall be exempt from disclosure or inspection under the Missouri Sunshine Law. Any records associated with the transfer of any machine gun, other than the original certificate of transfer, shall be destroyed by the office five years after the transfer was completed.\r\n\r\n\tUnder this act, each machine gun sold is subject to a five hundred dollar surcharge. Half of this surcharge shall be deposited into the Public Defense Fund, and the other half shall be deposited into the Crime Victims' Compensation Fund.\r\n\r\n\tThis act establishes the Public Defense Fund. This fund shall be used for the operational costs of the Office.\r\n\r\n\tWhere a person that has been transferred a machine gun, later becomes prohibited from possessing firearms under Missouri or federal law, such person shall return the machine gun to the Office within seven days of learning of their prohibited status. If a person possessing a machine gun relocates outside of the state, the person must return the machine gun to the Office prior to relocation.\r\n\r\n\tUnder this act, if a machine gun is transferred to an heir or the beneficiary of an estate, the representative of the estate must present such weapon to the Office. The Office shall then transfer the machine gun to the heir or beneficiary, if that person is a qualified person. Such transfer shall be free of cost. \r\n\r\n\tThis act prohibits the Office from destroying any machine gun acquired pursuant to this section, unless the machine gun is returned under this section and is unserviceable.\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1769 - This act establishes the Office of Public Defense within the Department of Safety. The Director of the Department shall also serve as the director of the Office. The office is authorized to acquire and sell machine guns to the public, operate a warehouse and distribution station. In addition, the Office is tasked with verifying the eligibility of a qualified person to purchase a machine gun. Finally, the Office is required to make annual reports to the Governor.\r\n\r\n\tThis act requires that for each transfer to a qualified person, the office shall make two copies of a signed and dated certificate, the office shall provide one copy to the person and retain the other copy in perpetuity. The information contained within the certificate and any other information contained within any records shall be exempt from disclosure or inspection under the Missouri Sunshine Law. Any records associated with the transfer of any machine gun, other than the original certificate of transfer, shall be destroyed by the office five years after the transfer was completed.\r\n\r\n\tUnder this act, each machine gun sold is subject to a five hundred dollar surcharge. Half of this surcharge shall be deposited into the Public Defense Fund, and the other half shall be deposited into the Crime Victims' Compensation Fund.\r\n\r\n\tThis act establishes the Public Defense Fund. This fund shall be used for the operational costs of the Office.\r\n\r\n\tWhere a person that has been transferred a machine gun, later becomes prohibited from possessing firearms under Missouri or federal law, such person shall return the machine gun to the Office within seven days of learning of their prohibited status. If a person possessing a machine gun relocates outside of the state, the person must return the machine gun to the Office prior to relocation.\r\n\r\n\tUnder this act, if a machine gun is transferred to an heir or the beneficiary of an estate, the representative of the estate must present such weapon to the Office. The Office shall then transfer the machine gun to the heir or beneficiary, if that person is a qualified person. Such transfer shall be free of cost. \r\n\r\n\tThis act prohibits the Office from destroying any machine gun acquired pursuant to this section, unless the machine gun is returned under this section and is unserviceable.\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates the Office of Public Defense and authorizes the Office to acquire and transfer machine guns to residents"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1769"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brattin, Rick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brattin, Rick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7488S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1769.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6616211",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7488S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

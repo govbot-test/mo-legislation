@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SJR 73",
+  "title": "SJR 73 - This constitutional amendment establishes the \"Missouri Homestead Act\".\r\n\r\n\tFor all tax years beginning on or after January 1, 2027, this constitutional amendment, if approved by the voters, authorizes a taxpayer to claim an exemption from real property taxes imposed on the taxpayer's homestead, as such terms are defined in the amendment. To be eligible for a tax exemption, the homestead shall not be encumbered by a mortgage lien, the taxpayer shall not be delinquent on any state or local taxes, and the taxpayer shall prospectively pay five year's worth of property taxes owed on the homestead.\r\n\r\n\tTo claim an exemption, the taxpayer shall provide notice to the collector by September 1. Upon filing the notice and providing evidence that the taxpayer satisfies all requirements, the homestead shall be exempt from property taxation for as long as the taxpayer owns the homestead.\r\n\r\n\tAn exemption shall be void if the taxpayer sells or otherwise disposes of the property such that it no longer qualifies as a homestead, or by the taxpayer notifying the collector that the taxpayer wishes to void the exemption.\r\n\r\n\tThe amendment imposes a state sales tax at a rate of 0.1%, with the revenues deposited in the \"Homestead Preservation Fund\", which is established by the amendment. Moneys in the fund shall stand appropriated and shall be used solely to reimburse taxing jurisdictions for revenue lost as a result of tax exemptions authorized by the amendment, as described in the amendment.\r\n\r\n\tThe amendment provides for further rights to taxpayers owning a homestead and receiving a property tax exemption pursuant to the amendment, including the right to possess the homestead, to exclude others from the homestead, to enjoy the fruits and profits of the homestead, and to convey the homestead, as described in the amendment.\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SJR 73 - This constitutional amendment establishes the \"Missouri Homestead Act\".\r\n\r\n\tFor all tax years beginning on or after January 1, 2027, this constitutional amendment, if approved by the voters, authorizes a taxpayer to claim an exemption from real property taxes imposed on the taxpayer's homestead, as such terms are defined in the amendment. To be eligible for a tax exemption, the homestead shall not be encumbered by a mortgage lien, the taxpayer shall not be delinquent on any state or local taxes, and the taxpayer shall prospectively pay five year's worth of property taxes owed on the homestead.\r\n\r\n\tTo claim an exemption, the taxpayer shall provide notice to the collector by September 1. Upon filing the notice and providing evidence that the taxpayer satisfies all requirements, the homestead shall be exempt from property taxation for as long as the taxpayer owns the homestead.\r\n\r\n\tAn exemption shall be void if the taxpayer sells or otherwise disposes of the property such that it no longer qualifies as a homestead, or by the taxpayer notifying the collector that the taxpayer wishes to void the exemption.\r\n\r\n\tThe amendment imposes a state sales tax at a rate of 0.1%, with the revenues deposited in the \"Homestead Preservation Fund\", which is established by the amendment. Moneys in the fund shall stand appropriated and shall be used solely to reimburse taxing jurisdictions for revenue lost as a result of tax exemptions authorized by the amendment, as described in the amendment.\r\n\r\n\tThe amendment provides for further rights to taxpayers owning a homestead and receiving a property tax exemption pursuant to the amendment, including the right to possess the homestead, to exclude others from the homestead, to enjoy the fruits and profits of the homestead, and to convey the homestead, as described in the amendment.\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the Missouri Homestead Act"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sjr73"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S Economic and Workforce Development Committee",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Economic and Workforce Development Committee",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Economic and Workforce Development Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Moon, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Moon, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5339S.03I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR73.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=412",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5339S.03I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

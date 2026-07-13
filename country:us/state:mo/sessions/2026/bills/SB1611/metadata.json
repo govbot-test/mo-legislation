@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1611",
+  "title": "SB 1611 - This act establishes the \"Missouri Urban and Local Food Systems Apprenticeship Act\".  Under the Act, the Department of Higher Education and Workforce Development (DHEWD), in consultation with the Department of Agriculture, shall promote the development and registration of eligible apiary and urban farming apprenticeships that are approved by DHEWD or the United States Department of Labor.  Promotion of eligible apprenticeships shall include establishing model standards and curriculum guidelines; providing technical assistance to potential apprenticeship sponsors; and working with the Coordinating Board for Higher Education to ensure that related technical instruction is available through community colleges and other training providers.\r\n\r\n\tDHEWD shall allocate a portion of state funds designated for apprenticeship expansion to eligible urban farming apprenticeships.  Priority for such funds shall be given to programs in metropolitan statistical areas, programs that partner with entities dedicated to increasing local food access, and programs that are led by or serve minority and historically underserved farming populations.\t\t\r\n\r\n\tDHEWD shall annually report to the General Assembly on the progress of the Missouri Urban and Local Food Systems Apprenticeship Act, including the number of registered eligible apprenticeships, the number of apprentices enrolled, and the number of credentials issued.\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1611 - This act establishes the \"Missouri Urban and Local Food Systems Apprenticeship Act\".  Under the Act, the Department of Higher Education and Workforce Development (DHEWD), in consultation with the Department of Agriculture, shall promote the development and registration of eligible apiary and urban farming apprenticeships that are approved by DHEWD or the United States Department of Labor.  Promotion of eligible apprenticeships shall include establishing model standards and curriculum guidelines; providing technical assistance to potential apprenticeship sponsors; and working with the Coordinating Board for Higher Education to ensure that related technical instruction is available through community colleges and other training providers.\r\n\r\n\tDHEWD shall allocate a portion of state funds designated for apprenticeship expansion to eligible urban farming apprenticeships.  Priority for such funds shall be given to programs in metropolitan statistical areas, programs that partner with entities dedicated to increasing local food access, and programs that are led by or serve minority and historically underserved farming populations.\t\t\r\n\r\n\tDHEWD shall annually report to the General Assembly on the progress of the Missouri Urban and Local Food Systems Apprenticeship Act, including the number of registered eligible apprenticeships, the number of apprentices enrolled, and the number of credentials issued.\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the \"Missouri Urban and Local Food Systems Apprenticeship Act\""
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1611"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Washington, Barbara",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Washington, Barbara\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5757S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1611.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=2591245",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5757S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

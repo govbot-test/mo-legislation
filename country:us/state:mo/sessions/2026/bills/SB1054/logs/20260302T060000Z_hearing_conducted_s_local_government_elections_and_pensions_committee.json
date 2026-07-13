@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing Conducted S Local Government, Elections and Pensions Committee",
+    "occurred_at": "2026-03-02T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=377",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1054"
+}

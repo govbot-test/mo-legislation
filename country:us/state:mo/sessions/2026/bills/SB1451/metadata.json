@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1451",
+  "title": "SB 1451 - This act increases the maximum gross income for eligibility for the Fast Track Workforce Incentive Grant from $80,000 to $100,000 for taxpayers who are married filing jointly and from $40,000 to $50,000 for all other taxpayers, adjusted annually based on inflation.\r\n\r\n\tThis act is identical to SB 416 (2025) and SB 1056 (2024); is substantially similar to HB 855 (2025), HB 2278 (2024), and a provision in SCS/HCS/HB 1569 (2024); and is similar to HCS/HB 2151 (2026), HB 2992 (2026), and to a provision in HCS/SS/SB 1196 (2026).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1451 - This act increases the maximum gross income for eligibility for the Fast Track Workforce Incentive Grant from $80,000 to $100,000 for taxpayers who are married filing jointly and from $40,000 to $50,000 for all other taxpayers, adjusted annually based on inflation.\r\n\r\n\tThis act is identical to SB 416 (2025) and SB 1056 (2024); is substantially similar to HB 855 (2025), HB 2278 (2024), and a provision in SCS/HCS/HB 1569 (2024); and is similar to HCS/HB 2151 (2026), HB 2992 (2026), and to a provision in HCS/SS/SB 1196 (2026).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Increases the maximum gross income for eligibility for the Fast Track Workforce Incentive Grant"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1451"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Conducted S Economic and Workforce Development Committee",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Economic and Workforce Development Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Henderson, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Henderson, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6231S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1451.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=21558",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6231S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:24Z"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "SA 1 to SS S offered & adopted (May)--(4330S02.06S)",
+    "occurred_at": "2026-03-24T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=104",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR 87"
+}

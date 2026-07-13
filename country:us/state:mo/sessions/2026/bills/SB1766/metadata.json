@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1766",
+  "title": "SB 1766 - American Recovery Plan Act Appropriations\r\n\r\n.                 Governor                     Senate\r\n\r\nGR             $   324,697,955            $   239,997,955\r\nFEDERAL          1,355,102,368              1,355,102,368\r\nOTHER                9,841,018                  9,841,018\r\n.               ______________             ______________\r\nTOTAL          $ 1,689,641,341            $ 1,604,941,341\r\n\r\n\r\n.                 House                        Final\r\n\r\nGR                                                 \r\nFEDERAL\r\nOTHER\r\n.              _______________             ______________\r\nTOTAL\r\nADAM KOENIGSFELD",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1766 - American Recovery Plan Act Appropriations\r\n\r\n.                 Governor                     Senate\r\n\r\nGR             $   324,697,955            $   239,997,955\r\nFEDERAL          1,355,102,368              1,355,102,368\r\nOTHER                9,841,018                  9,841,018\r\n.               ______________             ______________\r\nTOTAL          $ 1,689,641,341            $ 1,604,941,341\r\n\r\n\r\n.                 House                        Final\r\n\r\nGR                                                 \r\nFEDERAL\r\nOTHER\r\n.              _______________             ______________\r\nTOTAL\r\nADAM KOENIGSFELD"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To appropriate money for the expenses, grants, refunds, distributions, purchase of equipment, planning expenses, capital improvement projects, and equipment or systems of the several departments and offices of state government"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1766"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Appropriations Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hough, Lincoln",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Hough, Lincoln\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7447S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1766.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6481031",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7447S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

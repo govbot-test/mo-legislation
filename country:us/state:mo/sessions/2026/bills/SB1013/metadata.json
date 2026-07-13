@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1013",
+  "title": "SB 1013 - This act modifies the factors a court shall consider when awarding custody to parents, including the willingness and ability of parents to cooperate in the rearing of their child; the child's physical, emotional, educational, and other needs; the mental health or substance use history experienced by either parent; the history of domestic and child abuse of any individuals involved; the distance between the residences of the parents; and the reasonable input of the child as to the child's custodian.\r\n\r\n\tThis act is identical to SB 805 (2025) and SCS/SBs 744 & 1026 (2024), substantially similar to provisions of the perfected SS/SCS/SB 129 (2023), and similar to SB 638 (2025).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1013 - This act modifies the factors a court shall consider when awarding custody to parents, including the willingness and ability of parents to cooperate in the rearing of their child; the child's physical, emotional, educational, and other needs; the mental health or substance use history experienced by either parent; the history of domestic and child abuse of any individuals involved; the distance between the residences of the parents; and the reasonable input of the child as to the child's custodian.\r\n\r\n\tThis act is identical to SB 805 (2025) and SCS/SBs 744 & 1026 (2024), substantially similar to provisions of the perfected SS/SCS/SB 129 (2023), and similar to SB 638 (2025).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to child custody"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1013"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nurrenbern, Maggie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nurrenbern, Maggie\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3859S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1013.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=522",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3859S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

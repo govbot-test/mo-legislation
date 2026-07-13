@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1610",
+  "title": "SB 1610 - This act creates the Liaison for Postsecondary Education for Homeless Pupils within the Department of Higher Education and Workforce Development, along with a corresponding fund in the state treasury, for purposes of providing support for homeless pupils.  The act defines \"homeless pupil\" as any person who satisfies the definition of \"homeless children and youths\" or \"unaccompanied youth\" under federal law. \r\n\r\n\tThe Governor shall, to the extent that money is available for the purpose, appoint the Liaison for a term of four years.  The individual appointed shall be knowledgeable in the various issues relating to homeless and unaccompanied pupils, including the federal McKinney-Vento Homeless Assistance Act; shall have no pecuniary interest in any entity providing services to homeless pupils; shall not pursue any other business or vocation; and shall not be a member of any political party.  The Governor may remove the Liaison from office for inefficiency, neglect of duty, or malfeasance in office.\r\n\r\n\tThe act outlines the Liaison's duties, which include conducting an annual analysis of homeless pupils to assess their needs; developing a database to monitor trends in the graduation and retention of homeless pupils; developing a model for college and career readiness for homeless pupils; collaborating with high schools to support homeless pupils who have been admitted to an institution of higher education in this state; collaborating with financial aid offices, student support services, and campus housing services of institutions of higher education; identifying and referring homeless pupils to mentoring programs; increasing awareness among staff members of institutions of higher education in Missouri who work with homeless pupils; maintaining a database of food banks, clothing banks, and low-cost health care providers; establishing one or more food banks or clothing banks on a campus of an institution of higher education within this state; establishing a plan for housing homeless pupils when campus housing is not available; and applying for and accepting grants awarded under federal law relating to reducing college costs for unaccompanied pupils.\r\n\r\n\tThe Liaison may employ staff, purchase equipment, lease office space, and perform other necessary functions, as provided in the act.\r\n\r\n\tThis act is similar to HB 3373 (2026).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1610 - This act creates the Liaison for Postsecondary Education for Homeless Pupils within the Department of Higher Education and Workforce Development, along with a corresponding fund in the state treasury, for purposes of providing support for homeless pupils.  The act defines \"homeless pupil\" as any person who satisfies the definition of \"homeless children and youths\" or \"unaccompanied youth\" under federal law. \r\n\r\n\tThe Governor shall, to the extent that money is available for the purpose, appoint the Liaison for a term of four years.  The individual appointed shall be knowledgeable in the various issues relating to homeless and unaccompanied pupils, including the federal McKinney-Vento Homeless Assistance Act; shall have no pecuniary interest in any entity providing services to homeless pupils; shall not pursue any other business or vocation; and shall not be a member of any political party.  The Governor may remove the Liaison from office for inefficiency, neglect of duty, or malfeasance in office.\r\n\r\n\tThe act outlines the Liaison's duties, which include conducting an annual analysis of homeless pupils to assess their needs; developing a database to monitor trends in the graduation and retention of homeless pupils; developing a model for college and career readiness for homeless pupils; collaborating with high schools to support homeless pupils who have been admitted to an institution of higher education in this state; collaborating with financial aid offices, student support services, and campus housing services of institutions of higher education; identifying and referring homeless pupils to mentoring programs; increasing awareness among staff members of institutions of higher education in Missouri who work with homeless pupils; maintaining a database of food banks, clothing banks, and low-cost health care providers; establishing one or more food banks or clothing banks on a campus of an institution of higher education within this state; establishing a plan for housing homeless pupils when campus housing is not available; and applying for and accepting grants awarded under federal law relating to reducing college costs for unaccompanied pupils.\r\n\r\n\tThe Liaison may employ staff, purchase equipment, lease office space, and perform other necessary functions, as provided in the act.\r\n\r\n\tThis act is similar to HB 3373 (2026).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates the Liaison for Postsecondary Education for Homeless Pupils within the Department of Higher Education and Workforce Development"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1610"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Washington, Barbara",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Washington, Barbara\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5654S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1610.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=2591244",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5654S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

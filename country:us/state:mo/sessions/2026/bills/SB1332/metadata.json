@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1332",
+  "title": "SB 1332 - This act provides that the Missouri National Guard shall not be called forth into active duty combat by the Governor unless the United States Congress has:\r\n(1)\tMade an official declaration of war; or\r\n(2)\tCalled forth the Missouri National Guard and the members thereof in an official action taken pursuant to the Constitution of the United States for the purposes of expressly executing the laws of the United States, repelling invasion, or suppressing an insurrection.\r\n\r\n\tFurthermore, the Governor shall take all necessary actions to comply with the requirements of this act. Lastly, nothing in this act shall be construed to prohibit or limit the Governor's authority to deploy the Missouri National Guard into active duty for the purposes of defense support for civil authority missions in a foreign state or within the United States.\r\n\r\n\tThis act is identical to SB 767 (2025) and is similar to HB 1228 (2025), HB 1521 (2024), HB 166 (2023), and HB 2098 (2022).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1332 - This act provides that the Missouri National Guard shall not be called forth into active duty combat by the Governor unless the United States Congress has:\r\n(1)\tMade an official declaration of war; or\r\n(2)\tCalled forth the Missouri National Guard and the members thereof in an official action taken pursuant to the Constitution of the United States for the purposes of expressly executing the laws of the United States, repelling invasion, or suppressing an insurrection.\r\n\r\n\tFurthermore, the Governor shall take all necessary actions to comply with the requirements of this act. Lastly, nothing in this act shall be construed to prohibit or limit the Governor's authority to deploy the Missouri National Guard into active duty for the purposes of defense support for civil authority missions in a foreign state or within the United States.\r\n\r\n\tThis act is identical to SB 767 (2025) and is similar to HB 1228 (2025), HB 1521 (2024), HB 166 (2023), and HB 2098 (2022).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes provisions relating to active duty combat deployment by the United States Congress for the Missouri National Guard"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1332"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Veterans and Military Affairs Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Moon, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Moon, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5725S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1332.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=411",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5725S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 932",
+  "title": "SB 932 - Current law allows the Director of the Division of Workers' Compensation to impose taxes or surcharges for different purposes relating to the administration of workers' compensation, with such tax rate being rounded up to the nearest one-half of a percentage point. This act requires the tax or surcharge rates to instead be rounded up to the nearest one-tenth of a percentage point.\r\n\r\nThis act is identical to provisions in HB 2855 (2026).\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 932 - Current law allows the Director of the Division of Workers' Compensation to impose taxes or surcharges for different purposes relating to the administration of workers' compensation, with such tax rate being rounded up to the nearest one-half of a percentage point. This act requires the tax or surcharge rates to instead be rounded up to the nearest one-tenth of a percentage point.\r\n\r\nThis act is identical to provisions in HB 2855 (2026).\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to workers' compensation"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb932"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S Insurance and Banking Committee",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Insurance and Banking Committee",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Insurance and Banking Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Crawford, Sandy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Crawford, Sandy\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5246S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB932.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=420",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5246S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:24Z"
+  }
+}

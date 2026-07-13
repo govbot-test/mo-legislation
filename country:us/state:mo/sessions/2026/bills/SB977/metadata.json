@@ -1,0 +1,441 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 977",
+  "title": "SS/SCS/SBs 977 & 1011 - This act provides that certain international organizations or bodies, such as the World Health Organization, the United Nations, and the World Economic Forum, shall have no jurisdiction or power within the state of Missouri. No rule, regulation, policy, or mandate of any kind from such organizations shall be enforced or implemented by any state or local public body. However, international organizations or bodies shall not include the Hauge Conference on Private International Law (HCCH) and nothing in this act shall prohibit the Department of Social Services from enforcing or implementing any provision of any convention, protocol, or instrument issued by the HCCH.\r\n\r\n\tThis act establishes the \"No Foreign Laws Act\" which prohibits  the application and enforceability of any foreign law that denies the parties the fundamental liberties, rights, and privileges guaranteed under the Constitution of the United States or the Constitution of Missouri. Additionally, the act provides that no court shall enforce or apply:\r\n\t(1)\tA judgment, decree, or arbitration decision if it relies on any foreign law that violates the fundamental rights of any party;\r\n\t(2)\tA contract or contractual provision choosing foreign law which would result in a violation of fundamental rights; or \r\n\t(3)\tIn certain family law matters, foreign law if inconsistent with fundamental rights or public policy.\r\n\r\n\tThis act shall not be construed to disapprove or abrogate existing precedent of the Supreme Court of Missouri, to limit adjudication of ecclesiastical matters of a religious organization, to apply to those corporations, partnerships, or associations that voluntarily subject themselves to foreign law or foreign courts, and apply where federal law preempts state law.\r\n\r\n\tAdditionally, this act provides that no state court, arbitration panel, tribunal, or administrative agency shall transfer any civil action if the transfer would result in the application of foreign law prohibited by this act.\r\n\r\n\tThis act is similar to SB 1372 (2026), SB 1456 (2026), HB 2106 (2026), HB 2139 (2026), HB 2175 (2026), HB 2327 (2026), SB 619 (2014), SB 267 (2013), HB 757 (2013), SB 676 (2012), HB 1512 (2012), SB 308 (2011), and SCS/HB 708 (2011).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SS/SCS/SBs 977 & 1011 - This act provides that certain international organizations or bodies, such as the World Health Organization, the United Nations, and the World Economic Forum, shall have no jurisdiction or power within the state of Missouri. No rule, regulation, policy, or mandate of any kind from such organizations shall be enforced or implemented by any state or local public body. However, international organizations or bodies shall not include the Hauge Conference on Private International Law (HCCH) and nothing in this act shall prohibit the Department of Social Services from enforcing or implementing any provision of any convention, protocol, or instrument issued by the HCCH.\r\n\r\n\tThis act establishes the \"No Foreign Laws Act\" which prohibits  the application and enforceability of any foreign law that denies the parties the fundamental liberties, rights, and privileges guaranteed under the Constitution of the United States or the Constitution of Missouri. Additionally, the act provides that no court shall enforce or apply:\r\n\t(1)\tA judgment, decree, or arbitration decision if it relies on any foreign law that violates the fundamental rights of any party;\r\n\t(2)\tA contract or contractual provision choosing foreign law which would result in a violation of fundamental rights; or \r\n\t(3)\tIn certain family law matters, foreign law if inconsistent with fundamental rights or public policy.\r\n\r\n\tThis act shall not be construed to disapprove or abrogate existing precedent of the Supreme Court of Missouri, to limit adjudication of ecclesiastical matters of a religious organization, to apply to those corporations, partnerships, or associations that voluntarily subject themselves to foreign law or foreign courts, and apply where federal law preempts state law.\r\n\r\n\tAdditionally, this act provides that no state court, arbitration panel, tribunal, or administrative agency shall transfer any civil action if the transfer would result in the application of foreign law prohibited by this act.\r\n\r\n\tThis act is similar to SB 1372 (2026), SB 1456 (2026), HB 2106 (2026), HB 2139 (2026), HB 2175 (2026), HB 2327 (2026), SB 619 (2014), SB 267 (2013), HB 757 (2013), SB 676 (2012), HB 1512 (2012), SB 308 (2011), and SCS/HB 708 (2011).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the \"No Foreign Laws Act\" which prohibits the application and enforceability of foreign law, legal codes, and systems"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb977"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Delivered to Governor",
+      "date": "2026-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Signed by House Speaker",
+      "date": "2026-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Signed by Senate President Pro Tem",
+      "date": "2026-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Reported Duly Enrolled Rules, Joint Rules, Resolutions & Ethics Committee",
+      "date": "2026-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Truly Agreed To and Finally Passed",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "H Third Read and Passed",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Bill Placed on H Informal Calendar",
+      "date": "2026-05-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass H Rules - Legislative",
+      "date": "2026-04-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass H Rules - Legislative",
+      "date": "2026-04-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Referred H Rules - Legislative",
+      "date": "2026-04-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass H Government Efficiency",
+      "date": "2026-04-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass H Government Efficiency",
+      "date": "2026-04-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted H Government Efficiency",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Referred H Government Efficiency",
+      "date": "2026-04-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "H Second Read",
+      "date": "2026-04-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "H First Read",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S Third Read and Passed",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Perfected",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "SS for SCS, as amended, S adopted",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "SA 1 to SS for SCS S offered & adopted (Lewis)--(5434S04.01S)",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "SS for SCS S offered (Schroer)--(5434S.04F)",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Reported from S Judiciary and Civil and Criminal Jurisprudence Committee w/SCS",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass (w/SCS SBs 977 & 1011) Judiciary and Civil and Criminal Jurisprudence Committee (5434S.02C)",
+      "date": "2026-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5434S.04T - Truly Agreed to and Finally Passed",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/tat/SB977.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "5434S.04P - Perfected",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB977.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "5434S.02C - Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB977.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "5434S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB977.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "3/31/2026 - SS for SCS S offered (Schroer)--(5434S.04F)\r\n                    \r\n                        3/31/2026 - Adopted, as amended",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=327",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "3/31/2026 - SA 1 to SS for SCS S offered & adopted (Lewis)--(5434S04.01S)\r\n                    \r\n                        3/31/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=329",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=327",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5434S.04T"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

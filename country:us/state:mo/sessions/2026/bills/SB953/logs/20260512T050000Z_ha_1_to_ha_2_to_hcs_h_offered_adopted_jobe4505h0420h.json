@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "HA 1 to HA 2 to HCS H offered & adopted (Jobe)--(4505H04.20H)",
+    "occurred_at": "2026-05-12T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=83",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 953"
+}

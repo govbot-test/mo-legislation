@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SR 984",
+  "title": "SR 984 - This resolution modifies Senate Rule 96 to provide that, no later than January 1, 2027, the Senate shall provide an audio and video feed of its proceedings on the website of the Senate.\r\nJIM ERTLE",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SR 984 - This resolution modifies Senate Rule 96 to provide that, no later than January 1, 2027, the Senate shall provide an audio and video feed of its proceedings on the website of the Senate.\r\nJIM ERTLE"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies Senate Rule 96 to provide that, no later than January 1, 2027, the Senate shall provide an audio and video feed of its proceedings on the website of the Senate"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sr984"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Resolutions Calendar",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S offered",
+      "date": "2026-04-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Moon, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Moon, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7564S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SR984.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=15360675",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7564S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

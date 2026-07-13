@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1021",
+  "title": "SB 1021 - This act modifies provisions relating to the Division of Finance.\r\n\r\n\tThis act creates the Consumer Licensing Fund. The fund is to consist of those fees charged for licensure by the Division of Finance. The fund is to be used for all costs incurred by the Director of the Division in administering the provisions of law assigned to the Division.\r\n\r\n\tThe act additionally modifies the fees charged for various entities regulated by the Division, including entities applying for licensure in the areas of earned wage access services, financing institutions, premium finance companies, sales finance companies, entities engaged in small loans, credit service organizations, and consumer legal funding companies. At the time of filing an application for licensure as one of the aforementioned entities, the applicant shall pay a licensing fee, to be determined by the Director from time to time, not to exceed $5,000 and a fee for each additional location where such applicant conducts business, to be determined by the Director from time to time, not to exceed $1,000. Applicants who have not exceeded 100 active accounts at any point in the previous licensing year, shall pay a licensing fee, to be determined by the Director from time to time, not to exceed $1,000 and a fee for each additional location where such applicant conducts business, to be determined by the Director from time to time, not to exceed $1,000. All license fees paid pursuant to this act shall be credited to the Consumer Licensing Fund.\r\n\r\n\tSeveral entities regulated by the Division of Finance are required by current law to register with the Division and pay a fee upon doing so. This act changes the terminology for such entities to require instead to be \"licensed.\" This change applies to entities applying for licensure in the areas of earned wage access services, financing institutions, premium finance companies, sales finance companies, entities engaged in small loans, credit service organizations, and consumer legal funding companies. \r\n\r\n\tThe act increases from $400 to $1,000 the fee that the Division may charge a credit service organization for filing a registration statement.\r\n\r\n\tThis act is substantially similar to the truly agreed to SS/HB 2423 (2026).\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1021 - This act modifies provisions relating to the Division of Finance.\r\n\r\n\tThis act creates the Consumer Licensing Fund. The fund is to consist of those fees charged for licensure by the Division of Finance. The fund is to be used for all costs incurred by the Director of the Division in administering the provisions of law assigned to the Division.\r\n\r\n\tThe act additionally modifies the fees charged for various entities regulated by the Division, including entities applying for licensure in the areas of earned wage access services, financing institutions, premium finance companies, sales finance companies, entities engaged in small loans, credit service organizations, and consumer legal funding companies. At the time of filing an application for licensure as one of the aforementioned entities, the applicant shall pay a licensing fee, to be determined by the Director from time to time, not to exceed $5,000 and a fee for each additional location where such applicant conducts business, to be determined by the Director from time to time, not to exceed $1,000. Applicants who have not exceeded 100 active accounts at any point in the previous licensing year, shall pay a licensing fee, to be determined by the Director from time to time, not to exceed $1,000 and a fee for each additional location where such applicant conducts business, to be determined by the Director from time to time, not to exceed $1,000. All license fees paid pursuant to this act shall be credited to the Consumer Licensing Fund.\r\n\r\n\tSeveral entities regulated by the Division of Finance are required by current law to register with the Division and pay a fee upon doing so. This act changes the terminology for such entities to require instead to be \"licensed.\" This change applies to entities applying for licensure in the areas of earned wage access services, financing institutions, premium finance companies, sales finance companies, entities engaged in small loans, credit service organizations, and consumer legal funding companies. \r\n\r\n\tThe act increases from $400 to $1,000 the fee that the Division may charge a credit service organization for filing a registration statement.\r\n\r\n\tThis act is substantially similar to the truly agreed to SS/HB 2423 (2026).\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to the Division of Finance"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1021"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S Insurance and Banking Committee",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Insurance and Banking Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Insurance and Banking Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Crawford, Sandy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Crawford, Sandy\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5067S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1021.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=424",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5067S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

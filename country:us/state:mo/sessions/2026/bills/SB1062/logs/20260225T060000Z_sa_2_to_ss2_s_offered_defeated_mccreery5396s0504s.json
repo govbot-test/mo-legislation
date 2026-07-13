@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "SA 2 to SS#2 S offered & defeated (McCreery)--(5396S05.04S)",
+    "occurred_at": "2026-02-25T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=585",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1062"
+}

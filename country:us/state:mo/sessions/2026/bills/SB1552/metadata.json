@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1552",
+  "title": "SB 1552 - Under the act, an electrical corporation shall reimburse a customer for any loss resulting from an electric service interruption lasting for more than 48 hours.\r\n\r\n\tAn electrical corporation shall create a loss recovery form and make it available on its website. If the loss is greater than $200, an electric customer shall submit receipts for the loss with the form to the electrical corporation before getting reimbursed.\r\n\r\n\tThe Public Service Commission shall require electrical corporations to maintain records of each instance an electric transmission falls below 50% of the standard voltage or whenever an electric service interruption affects more than 10 customers. The record shall not include disconnection of service to customers for good cause. Contents of the record are described in the act. Copies of the record shall be made public on the electrical corporations's website.\r\n\r\n\tThe act is substantially similar SB 286 (2025) and SB 1204 (2024).\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1552 - Under the act, an electrical corporation shall reimburse a customer for any loss resulting from an electric service interruption lasting for more than 48 hours.\r\n\r\n\tAn electrical corporation shall create a loss recovery form and make it available on its website. If the loss is greater than $200, an electric customer shall submit receipts for the loss with the form to the electrical corporation before getting reimbursed.\r\n\r\n\tThe Public Service Commission shall require electrical corporations to maintain records of each instance an electric transmission falls below 50% of the standard voltage or whenever an electric service interruption affects more than 10 customers. The record shall not include disconnection of service to customers for good cause. Contents of the record are described in the act. Copies of the record shall be made public on the electrical corporations's website.\r\n\r\n\tThe act is substantially similar SB 286 (2025) and SB 1204 (2024).\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to reimbursement by electric utilities to customers for losses incurred from electric service interruption"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1552"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "McCreery, Tracy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            McCreery, Tracy\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4834S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1552.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=746300",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4834S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

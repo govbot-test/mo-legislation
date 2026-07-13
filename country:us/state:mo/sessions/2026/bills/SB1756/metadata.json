@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1756",
+  "title": "SB 1756 - Economic Development, Commerce and Insurance & Labor and Industrial Relations\r\n\r\n.                        ECONOMIC DEVELOPMENT\r\n\r\n.                Governor                   Senate\r\n\r\nGR            $  104,058,258            $  101,558,258\r\nFEDERAL        1,975,317,273             1,975,317,273\r\nOTHER             41,398,470                41,398,470\r\n.              _____________             _____________\r\nTOTAL         $2,120,774,001            $2,118,274,001\r\n\r\n\r\n.                House                      Final\r\n\r\nGR                                                 \r\nFEDERAL\r\nOTHER\r\n.              _____________             _____________\r\nTOTAL\r\n\r\n.                      COMMERCE AND INSURANCE\r\n\r\n.                Governor                   Senate\r\n\r\nGR            $      260,001           $      260,001\r\nFEDERAL            1,650,000                1,650,000\r\nOTHER             86,595,003               85,382,359\r\n.              _____________            _____________\r\nTOTAL         $   88,505,004           $   87,292,360\r\n\r\n\r\n.                 House                      Final\r\n\r\nGR                                                 \r\nFEDERAL\r\nOTHER\r\n.              _____________            _____________\r\nTOTAL\r\n\r\n.                   LABOR AND INDUSTRIAL RELATIONS\r\n\r\n.                Governor                   Senate\r\n\r\nGR            $    4,945,228           $    4,945,228\r\nFEDERAL           62,386,097               62,386,097\r\nOTHER            256,553,166              256,553,166\r\n.              _____________            _____________\r\nTOTAL         $  323,884,491           $  323,884,491\r\n\r\n\r\n.                House                      Final\r\n\r\nGR                                                 \r\nFEDERAL\r\nOTHER\r\n.              ___________              ___________\r\nTOTAL\r\nADAM KOENIGSFELD",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1756 - Economic Development, Commerce and Insurance & Labor and Industrial Relations\r\n\r\n.                        ECONOMIC DEVELOPMENT\r\n\r\n.                Governor                   Senate\r\n\r\nGR            $  104,058,258            $  101,558,258\r\nFEDERAL        1,975,317,273             1,975,317,273\r\nOTHER             41,398,470                41,398,470\r\n.              _____________             _____________\r\nTOTAL         $2,120,774,001            $2,118,274,001\r\n\r\n\r\n.                House                      Final\r\n\r\nGR                                                 \r\nFEDERAL\r\nOTHER\r\n.              _____________             _____________\r\nTOTAL\r\n\r\n.                      COMMERCE AND INSURANCE\r\n\r\n.                Governor                   Senate\r\n\r\nGR            $      260,001           $      260,001\r\nFEDERAL            1,650,000                1,650,000\r\nOTHER             86,595,003               85,382,359\r\n.              _____________            _____________\r\nTOTAL         $   88,505,004           $   87,292,360\r\n\r\n\r\n.                 House                      Final\r\n\r\nGR                                                 \r\nFEDERAL\r\nOTHER\r\n.              _____________            _____________\r\nTOTAL\r\n\r\n.                   LABOR AND INDUSTRIAL RELATIONS\r\n\r\n.                Governor                   Senate\r\n\r\nGR            $    4,945,228           $    4,945,228\r\nFEDERAL           62,386,097               62,386,097\r\nOTHER            256,553,166              256,553,166\r\n.              _____________            _____________\r\nTOTAL         $  323,884,491           $  323,884,491\r\n\r\n\r\n.                House                      Final\r\n\r\nGR                                                 \r\nFEDERAL\r\nOTHER\r\n.              ___________              ___________\r\nTOTAL\r\nADAM KOENIGSFELD"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To appropriate money for the expenses, grants, refunds, and distributions of the Department of Economic Development, the Department of Commerce and Insurance, and the Department of Labor and Industrial Relations"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1756"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Appropriations Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hough, Lincoln",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Hough, Lincoln\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7436S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1756.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6479095",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7436S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1676",
+  "title": "SB 1676 - This act establishes \"Mason's Law\". At the time of motor vehicle registration, a resident of this state with a health condition or disability that limits or impairs the ability to effectively communicate with law enforcement may apply to the Department of Revenue for a designation that shall be associated with the person's motor vehicle license plate number and be available to law enforcement. Upon approval of the application, the Department shall notify the Missouri State Highway Patrol and the Highway Patrol shall prepare an entry in the Missouri Uniform Law Enforcement System (MULES). Such entry shall remain active for five years, unless the applicant requests such designation be removed from the system. Upon expiration of the five year period, a renewal form may be filed with the Department to renew the designation. \r\n\r\n\tThis act is identical to SB 1658 (2026), SS#2/SCS/HCS/HB 1840, and HB 3492 (2026), and substantially similar to HB 3175 (2026) and HS/HCS/HBs 3068 & 3049.\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1676 - This act establishes \"Mason's Law\". At the time of motor vehicle registration, a resident of this state with a health condition or disability that limits or impairs the ability to effectively communicate with law enforcement may apply to the Department of Revenue for a designation that shall be associated with the person's motor vehicle license plate number and be available to law enforcement. Upon approval of the application, the Department shall notify the Missouri State Highway Patrol and the Highway Patrol shall prepare an entry in the Missouri Uniform Law Enforcement System (MULES). Such entry shall remain active for five years, unless the applicant requests such designation be removed from the system. Upon expiration of the five year period, a renewal form may be filed with the Department to renew the designation. \r\n\r\n\tThis act is identical to SB 1658 (2026), SS#2/SCS/HCS/HB 1840, and HB 3492 (2026), and substantially similar to HB 3175 (2026) and HS/HCS/HBs 3068 & 3049.\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates new provisions relating to persons with impaired or limited ability to communicate with law enforcement"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1676"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Burger, Jamie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Burger, Jamie\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7258S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1676.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=5391806",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7258S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

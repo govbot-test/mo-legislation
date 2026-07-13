@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1316",
+  "title": "SB 1316 - This act establishes provisions relating to diversity-equity-inclusion requirements in school districts and charter schools.  The act defines diversity-equity-inclusion or \"DEI\" as education or training requirements, policies, or programs on the subjects of antiracism, implicit bias, or any other related instructions that promote differential treatment based on race, gender, religion, ethnicity, and sexual preference, but not including instruction on state and federal laws prohibiting discrimination.\r\n\r\n\tThe act prohibits school districts and charter schools from requiring students, employees, and prospective employees to ascribe to, study, be instructed with, or answer questions relating to DEI, as set forth in the act.  The act further prohibits school districts and charter schools from offering any student, employee, or prospective employee any incentive, benefit, grant, or other compensation for receiving any instruction or professional development relating to DEI, except in cases where the same incentive, benefit, grant, or compensation is equally available to individuals who are not involved in the DEI instruction or professional development.  A school district or charter school shall not reward or give any advantage to any employee or job applicant for any statement advocating DEI ideologies in employment-related decisions.  Finally, employees, contractors, volunteers, vendors, or agents of a school district or charter school shall not be required to ascribe to, study, or be instructed with DEI ideologies or materials. \r\n\r\n\tThe Attorney General or the prosecuting or circuit attorney in the county in which a violation of the act occurs may bring a cause of action against any school district or charter school that violates the act.  An attorney acting on behalf of a school district or charter school may request an opinion of the Attorney General as to whether a particular training material or instructional or curricular material complies with the provisions of the act.  A parent of a student enrolled in a school district or charter school may bring a civil action, including an action for injunctive relief or for damages, against the school district or charter school for any violation of the act that causes harm to such parent's child. \r\n\r\n\tThis act is identical to SB 56 (2025).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1316 - This act establishes provisions relating to diversity-equity-inclusion requirements in school districts and charter schools.  The act defines diversity-equity-inclusion or \"DEI\" as education or training requirements, policies, or programs on the subjects of antiracism, implicit bias, or any other related instructions that promote differential treatment based on race, gender, religion, ethnicity, and sexual preference, but not including instruction on state and federal laws prohibiting discrimination.\r\n\r\n\tThe act prohibits school districts and charter schools from requiring students, employees, and prospective employees to ascribe to, study, be instructed with, or answer questions relating to DEI, as set forth in the act.  The act further prohibits school districts and charter schools from offering any student, employee, or prospective employee any incentive, benefit, grant, or other compensation for receiving any instruction or professional development relating to DEI, except in cases where the same incentive, benefit, grant, or compensation is equally available to individuals who are not involved in the DEI instruction or professional development.  A school district or charter school shall not reward or give any advantage to any employee or job applicant for any statement advocating DEI ideologies in employment-related decisions.  Finally, employees, contractors, volunteers, vendors, or agents of a school district or charter school shall not be required to ascribe to, study, or be instructed with DEI ideologies or materials. \r\n\r\n\tThe Attorney General or the prosecuting or circuit attorney in the county in which a violation of the act occurs may bring a cause of action against any school district or charter school that violates the act.  An attorney acting on behalf of a school district or charter school may request an opinion of the Attorney General as to whether a particular training material or instructional or curricular material complies with the provisions of the act.  A parent of a student enrolled in a school district or charter school may bring a civil action, including an action for injunctive relief or for damages, against the school district or charter school for any violation of the act that causes harm to such parent's child. \r\n\r\n\tThis act is identical to SB 56 (2025).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Prohibits diversity-equity-inclusion requirements in school districts and charter schools"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1316"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Coleman, Mary Elizabeth",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Coleman, Mary Elizabeth\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3960S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1316.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=614",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3960S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

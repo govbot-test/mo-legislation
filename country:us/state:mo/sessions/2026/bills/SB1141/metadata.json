@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1141",
+  "title": "SB 1141 - Under this act, no health care institution, health care professional, or other person shall be required to perform, assist, or participate in medical procedures, treatments, counseling, prescriptions, or surgeries related to sex reassignment or gender identity transitioning if such procedures, treatments, counseling, prescriptions, or surgeries are contrary to the established policy of, or the moral, ethical, or religious beliefs of, such institution or professional or other person.\r\n\r\n\tNo person shall be denied or discriminated against in the receipt of any public benefit, assistance, or privilege or denied or discriminated against in the public or private employment on the grounds of refusal to perform, assist, or participate in sex reassignment or gender identity transitioning medical procedures, treatments, counseling, prescriptions, or surgeries, as described in the act.\r\n\r\n\tNo cause of action shall accrue against an institution, professional, or other person on account of the refusal to perform, assist, or participate in such described activities.  An institution, professional, or other aggrieved person may bring a civil action for a violation of the rights set forth in this act.\r\n\r\n\tThis act is similar to HB 1519 (2024).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1141 - Under this act, no health care institution, health care professional, or other person shall be required to perform, assist, or participate in medical procedures, treatments, counseling, prescriptions, or surgeries related to sex reassignment or gender identity transitioning if such procedures, treatments, counseling, prescriptions, or surgeries are contrary to the established policy of, or the moral, ethical, or religious beliefs of, such institution or professional or other person.\r\n\r\n\tNo person shall be denied or discriminated against in the receipt of any public benefit, assistance, or privilege or denied or discriminated against in the public or private employment on the grounds of refusal to perform, assist, or participate in sex reassignment or gender identity transitioning medical procedures, treatments, counseling, prescriptions, or surgeries, as described in the act.\r\n\r\n\tNo cause of action shall accrue against an institution, professional, or other person on account of the refusal to perform, assist, or participate in such described activities.  An institution, professional, or other aggrieved person may bring a civil action for a violation of the rights set forth in this act.\r\n\r\n\tThis act is similar to HB 1519 (2024).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to the right to refuse to participate in certain medical treatment"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1141"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hudson, Brad",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Hudson, Brad\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4462S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1141.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=296",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4462S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

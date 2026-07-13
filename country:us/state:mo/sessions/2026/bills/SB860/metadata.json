@@ -1,0 +1,149 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 860",
+  "title": "SCS/SB 860 - The act creates provisions relating to weather modification.\r\n\r\n\tUnder the act, it shall be unlawful to use any form of weather modification, as defined in the act, in the state.\r\n\r\n\tAny individual or entity knowingly deploying chemicals into the atmosphere shall disclose the contents of the chemicals to the Department of Natural Resources in a format determined by the Department.\r\n\r\n\tAny individual or entity deploying chemicals into the atmosphere shall post a bond in the amount of $25,000,000 to cover damages, if any, to the environment caused by the deployment of such chemicals.\r\n\r\n\tAny individual may report instances of weather modification to the Department. The Department shall create procedures to investigate reports to determine whether weather modification occurred.\r\n\r\n\tIf the Department finds that weather modification occurred, the Department shall commence a civil action. If the court finds that a violation occurred, the court may grant relief as described in the act.\r\n\r\n\tThe Department shall report any known weather modification instances to the Administrator of the National Oceanic and Atmospheric Administration pursuant to federal regulations.\r\n\r\n\tThe act shall not preclude the use of pesticides for farming or ranching purposes.\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SCS/SB 860 - The act creates provisions relating to weather modification.\r\n\r\n\tUnder the act, it shall be unlawful to use any form of weather modification, as defined in the act, in the state.\r\n\r\n\tAny individual or entity knowingly deploying chemicals into the atmosphere shall disclose the contents of the chemicals to the Department of Natural Resources in a format determined by the Department.\r\n\r\n\tAny individual or entity deploying chemicals into the atmosphere shall post a bond in the amount of $25,000,000 to cover damages, if any, to the environment caused by the deployment of such chemicals.\r\n\r\n\tAny individual may report instances of weather modification to the Department. The Department shall create procedures to investigate reports to determine whether weather modification occurred.\r\n\r\n\tIf the Department finds that weather modification occurred, the Department shall commence a civil action. If the court finds that a violation occurred, the court may grant relief as described in the act.\r\n\r\n\tThe Department shall report any known weather modification instances to the Administrator of the National Oceanic and Atmospheric Administration pursuant to federal regulations.\r\n\r\n\tThe act shall not preclude the use of pesticides for farming or ranching purposes.\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to weather modification"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb860"
+    }
+  ],
+  "actions": [
+    {
+      "description": "SCS Voted Do Pass S Agriculture, Food Production and Outdoor Resources Committee (4680S.05C)",
+      "date": "2026-04-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Moon, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Moon, Mike\\r\\n                                \"}",
+      "organization_id": null
+    },
+    {
+      "name": "Schroer, Nick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Schroer, Nick\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB860.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4680S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB860.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=379",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4680S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1550",
+  "title": "SB 1550 - The act provides that prior to the Public Service Commission allocating to each public utility the Commission's estimated expenses incurred for the regulation of public utilities, each public utility shall file with the Commission a statement satisfied by a declaration that the statement is made under penalty of perjury showing the utility's gross intrastate operating revenues for the preceding calendar year.\r\n\r\n\tThe act further provides that the Commission shall require every person and corporation under the Commission's supervision to file with the Commission an annual report, as described in current law, satisfied by a declaration that the report is made under penalty of perjury.\r\n\r\n\tThe act is substantially similar to HB 2424 (2026).\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1550 - The act provides that prior to the Public Service Commission allocating to each public utility the Commission's estimated expenses incurred for the regulation of public utilities, each public utility shall file with the Commission a statement satisfied by a declaration that the statement is made under penalty of perjury showing the utility's gross intrastate operating revenues for the preceding calendar year.\r\n\r\n\tThe act further provides that the Commission shall require every person and corporation under the Commission's supervision to file with the Commission an annual report, as described in current law, satisfied by a declaration that the report is made under penalty of perjury.\r\n\r\n\tThe act is substantially similar to HB 2424 (2026).\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to certain declarations made to the Public Service Commission"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1550"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Crawford, Sandy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Crawford, Sandy\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6640S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1550.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=746298",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6640S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

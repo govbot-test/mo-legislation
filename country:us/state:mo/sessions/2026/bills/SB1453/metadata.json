@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1453",
+  "title": "SB 1453 - Currently, the establishment of a physician-patient relationship for purposes of telehealth shall include an interview and a physical examination.  Under this act, an evaluation is required, but a physical examination shall be required only if needed to meet the standard of care.\r\n\r\n\tCurrent law prohibits the use of an internet or telephone questionnaire completed by a patient from constituting an acceptable medical interview for the provision of treatment by telehealth.  This act permits such questionnaires if the information provided is sufficient as though the medical evaluation was performed in person and has been reviewed by the treating health care professional.  Any provider that uses a questionnaire to establish a physician-patient relationship through telemedicine shall be employed or contracted with a business entity that is licensed to provide health care in this state.\r\n\r\n\tA health care provider using a medical evaluation questionnaire completed by a patient over the internet or telephone shall provide a written report to the patient's primary health care provider within 14 days of evaluation regarding the diagnosis and treatment of the patient.\r\n\r\n\tAdditionally, current law requires a physician-patient relationship for purposes of telehealth to include a sufficient dialogue with the patient regarding treatment.  This act changes \"dialogue\" to \"exchange\" with the patient regarding treatment.\r\n\r\n\tFinally, current law prohibits a health care provider from prescribing any drug, controlled substance, or other treatment to a patient based solely on an internet request or questionnaire.  Under this act, a health care provider shall not prescribe any drug, controlled substance, or other treatment to a patient in the absence of a proper provider-patient relationship.  \r\n\r\n\tMedical records of any drug, controlled substance, or treatment prescribed to a patient through telemedicine shall be collected, stored, and maintained, in compliance with the federal Health Insurance Portability and Accountability Act (HIPAA).\r\n\r\n\tThis act is substantially similar to HCS/HB 710 (2025) and similar to SB 108 (2025), SB 851 (2024), SCS/SB 418 (2023), and HB 710 (2023).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1453 - Currently, the establishment of a physician-patient relationship for purposes of telehealth shall include an interview and a physical examination.  Under this act, an evaluation is required, but a physical examination shall be required only if needed to meet the standard of care.\r\n\r\n\tCurrent law prohibits the use of an internet or telephone questionnaire completed by a patient from constituting an acceptable medical interview for the provision of treatment by telehealth.  This act permits such questionnaires if the information provided is sufficient as though the medical evaluation was performed in person and has been reviewed by the treating health care professional.  Any provider that uses a questionnaire to establish a physician-patient relationship through telemedicine shall be employed or contracted with a business entity that is licensed to provide health care in this state.\r\n\r\n\tA health care provider using a medical evaluation questionnaire completed by a patient over the internet or telephone shall provide a written report to the patient's primary health care provider within 14 days of evaluation regarding the diagnosis and treatment of the patient.\r\n\r\n\tAdditionally, current law requires a physician-patient relationship for purposes of telehealth to include a sufficient dialogue with the patient regarding treatment.  This act changes \"dialogue\" to \"exchange\" with the patient regarding treatment.\r\n\r\n\tFinally, current law prohibits a health care provider from prescribing any drug, controlled substance, or other treatment to a patient based solely on an internet request or questionnaire.  Under this act, a health care provider shall not prescribe any drug, controlled substance, or other treatment to a patient in the absence of a proper provider-patient relationship.  \r\n\r\n\tMedical records of any drug, controlled substance, or treatment prescribed to a patient through telemedicine shall be collected, stored, and maintained, in compliance with the federal Health Insurance Portability and Accountability Act (HIPAA).\r\n\r\n\tThis act is substantially similar to HCS/HB 710 (2025) and similar to SB 108 (2025), SB 851 (2024), SCS/SB 418 (2023), and HB 710 (2023).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to telemedicine"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1453"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brown (16), Justin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brown (16), Justin\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6201S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1453.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=27965",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6201S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

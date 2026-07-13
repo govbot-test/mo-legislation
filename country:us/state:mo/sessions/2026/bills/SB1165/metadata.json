@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1165",
+  "title": "SB 1165 - This act requires the school board of each school district to establish a policy authorizing students to be excused from class to attend a course in religious or moral instruction taught by an independent entity off school property.  Such instruction is defined in the act as a \"released time course\".\r\n\r\n\tThe policy shall provide that students may be excused for up to three class periods per week or a maximum of 125 class periods per school year.  The student's parent or legal guardian shall provide written consent prior to the student's participation in a released time course.  No school district funds, except minimal administrative costs, shall be used, and no school personnel, equipment, or resources shall be involved in providing the instruction.  The independent entity offering a released time course shall maintain attendance records and make them available to the school district and its board.  Transportation to and from the instruction site shall be the responsibility of the independent entity, the student, or the student's parent or legal guardian.  The independent entity or the student's parent or legal guardian shall indemnify and hold the school district harmless regarding any liability arising from student conduct that does not occur on school property under the district's control or supervision, and shall maintain adequate insurance for this purpose.  The student shall be responsible for any missed school work. The school district superintendent, principal, or their designees shall have discretion over the scheduling and timing of released time courses, ensuring students are not excused during courses in English language arts, mathematics, science, or U.S. history.\r\n\r\n\tThe school district, its school board, and the state shall not be liable for students participating in released time courses when the students are not under the district's control or supervision.\r\n\r\n\tFor purposes of calculating average daily attendance and establishing compliance with the compulsory attendance law, a student attending a released time course shall be considered in attendance in the school district, and the time shall be counted as part of the school day.\r\n\r\n\tThe school board shall award elective credit for work completed in a released time course, substantiated by a transcript from the independent entity providing the course.  The evaluation of the course for credit should be neutral and secular, considering factors including classroom instruction time, course syllabus, assessment methods, and instructor qualifications.\r\n\r\n\tThe provisions of the act shall not apply to charter schools or to virtual schools.\r\n\r\n\tThis act is identical to SB 698 (2025) and similar to HB 2157 (2026) and HB 1393 (2025).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1165 - This act requires the school board of each school district to establish a policy authorizing students to be excused from class to attend a course in religious or moral instruction taught by an independent entity off school property.  Such instruction is defined in the act as a \"released time course\".\r\n\r\n\tThe policy shall provide that students may be excused for up to three class periods per week or a maximum of 125 class periods per school year.  The student's parent or legal guardian shall provide written consent prior to the student's participation in a released time course.  No school district funds, except minimal administrative costs, shall be used, and no school personnel, equipment, or resources shall be involved in providing the instruction.  The independent entity offering a released time course shall maintain attendance records and make them available to the school district and its board.  Transportation to and from the instruction site shall be the responsibility of the independent entity, the student, or the student's parent or legal guardian.  The independent entity or the student's parent or legal guardian shall indemnify and hold the school district harmless regarding any liability arising from student conduct that does not occur on school property under the district's control or supervision, and shall maintain adequate insurance for this purpose.  The student shall be responsible for any missed school work. The school district superintendent, principal, or their designees shall have discretion over the scheduling and timing of released time courses, ensuring students are not excused during courses in English language arts, mathematics, science, or U.S. history.\r\n\r\n\tThe school district, its school board, and the state shall not be liable for students participating in released time courses when the students are not under the district's control or supervision.\r\n\r\n\tFor purposes of calculating average daily attendance and establishing compliance with the compulsory attendance law, a student attending a released time course shall be considered in attendance in the school district, and the time shall be counted as part of the school day.\r\n\r\n\tThe school board shall award elective credit for work completed in a released time course, substantiated by a transcript from the independent entity providing the course.  The evaluation of the course for credit should be neutral and secular, considering factors including classroom instruction time, course syllabus, assessment methods, and instructor qualifications.\r\n\r\n\tThe provisions of the act shall not apply to charter schools or to virtual schools.\r\n\r\n\tThis act is identical to SB 698 (2025) and similar to HB 2157 (2026) and HB 1393 (2025).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Requires school districts to establish a policy allowing students to be excused from class to receive religious or moral instruction off school property"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1165"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Moon, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Moon, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5659S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1165.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=387",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5659S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

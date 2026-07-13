@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1186",
+  "title": "SB 1186 - Under current law, if a jury is unable to agree upon the punishment for the offense of murder in the first degree, the court is to instruct the jury that the judge may decide upon a punishment of life imprisonment without eligibility for parole or a sentence of death.\r\n\r\n\tThis act repeals the provision that a judge may decide upon a punishment of death if the jury is unable to agree.\r\n\r\n\tThis act is identical to HB 2141 (2026), HB 2186 (2026), HB 2348 (2026), SB 225 (2025), HB 452 (2025), SB 1169 (2024), SB 687 (2023), SB 825 (2022), HB 1746 (2022), HB 2700 (2022), SB 341 (2021), SB 920 (2020), SB 288 (2019), and SB 996 (2018).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1186 - Under current law, if a jury is unable to agree upon the punishment for the offense of murder in the first degree, the court is to instruct the jury that the judge may decide upon a punishment of life imprisonment without eligibility for parole or a sentence of death.\r\n\r\n\tThis act repeals the provision that a judge may decide upon a punishment of death if the jury is unable to agree.\r\n\r\n\tThis act is identical to HB 2141 (2026), HB 2186 (2026), HB 2348 (2026), SB 225 (2025), HB 452 (2025), SB 1169 (2024), SB 687 (2023), SB 825 (2022), HB 1746 (2022), HB 2700 (2022), SB 341 (2021), SB 920 (2020), SB 288 (2019), and SB 996 (2018).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to jury instructions for the offense of murder in the first degree"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1186"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Coleman, Mary Elizabeth",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Coleman, Mary Elizabeth\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4688S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1186.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=603",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4688S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

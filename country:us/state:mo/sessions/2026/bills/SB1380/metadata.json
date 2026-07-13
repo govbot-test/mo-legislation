@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1380",
+  "title": "SB 1380 - This act prohibits lobbyists from receiving, or agreeing to receive, any direct or indirect compensation or other payment in any form, including intangible or in-kind, for carrying out any lobbying activity on behalf of another person that is a foreign adversary, a foreign political party of a foreign adversary, or foreign adversary client.\r\n\r\n\tA lobbyist who violates this act shall be subject to an action for disgorgement of any compensation received as well as a civil penalty of not more than $1,000 per violation. The Attorney General is given investigative authority and may subpoena documents, tangible things, and other information, as well as written responses under oath to questions or oral testimony under oath, to any person that may have knowledge or information regarding a potential violation of this act. The Attorney General may also file a civil action to enforce or otherwise obtain the assistance of a court with respect to any such subpoena.\r\n\r\n\tThe provisions of law pertaining to the Missouri Ethics Commission and its role with respect to complaints and suspected violations of lobbying laws do not apply to this act.\r\n\r\n\tThis act contains a severability clause.\r\n\r\n\tThis act is substantially similar to HB 3128 (2026).\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1380 - This act prohibits lobbyists from receiving, or agreeing to receive, any direct or indirect compensation or other payment in any form, including intangible or in-kind, for carrying out any lobbying activity on behalf of another person that is a foreign adversary, a foreign political party of a foreign adversary, or foreign adversary client.\r\n\r\n\tA lobbyist who violates this act shall be subject to an action for disgorgement of any compensation received as well as a civil penalty of not more than $1,000 per violation. The Attorney General is given investigative authority and may subpoena documents, tangible things, and other information, as well as written responses under oath to questions or oral testimony under oath, to any person that may have knowledge or information regarding a potential violation of this act. The Attorney General may also file a civil action to enforce or otherwise obtain the assistance of a court with respect to any such subpoena.\r\n\r\n\tThe provisions of law pertaining to the Missouri Ethics Commission and its role with respect to complaints and suspected violations of lobbying laws do not apply to this act.\r\n\r\n\tThis act contains a severability clause.\r\n\r\n\tThis act is substantially similar to HB 3128 (2026).\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates new provisions relating to prohibiting foreign influence on lobbying activities"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1380"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5220S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1380.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=352",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5220S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

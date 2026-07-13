@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1535",
+  "title": "SB 1535 - This act establishes the \"Missouri Disabled Veteran Homestead Tax Credit Act\".\r\n\r\n\tThis act authorizes a county to grant a property tax credit on real property used as a homestead by a veteran with a 100% permanent disability rating. The tax credit shall apply to all property tax levies imposed on the taxpayer's residence, excluding the state levy imposed for the Blind Pension Fund.\r\n\r\n\tTo qualify for a property tax credit, the taxpayer's qualified residence shall not have a market value exceeding $500,000 exclusive of any portion of the property used for commercial purposes.\r\n\r\n\tA property tax credit authorized by this act shall transfer to the taxpayer's surviving spouse as long as the spouse holds the legal or beneficial title to the residence, permanently resides at the residence, and does not remarry.\r\n\r\n\tTo grant property tax credits authorized by the act, a county shall opt in to the provisions of the act by an affirmative majority vote of the governing body of the county. The governing body may at any time rescind the property tax credit program by an affirmative vote.\r\n\r\n\tThe total amount of property tax credits authorized pursuant to this act shall be considered tax revenue actually received by the county and political subdivisions.\r\n\r\n\tThis act is identical to HB 2588 (2026).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1535 - This act establishes the \"Missouri Disabled Veteran Homestead Tax Credit Act\".\r\n\r\n\tThis act authorizes a county to grant a property tax credit on real property used as a homestead by a veteran with a 100% permanent disability rating. The tax credit shall apply to all property tax levies imposed on the taxpayer's residence, excluding the state levy imposed for the Blind Pension Fund.\r\n\r\n\tTo qualify for a property tax credit, the taxpayer's qualified residence shall not have a market value exceeding $500,000 exclusive of any portion of the property used for commercial purposes.\r\n\r\n\tA property tax credit authorized by this act shall transfer to the taxpayer's surviving spouse as long as the spouse holds the legal or beneficial title to the residence, permanently resides at the residence, and does not remarry.\r\n\r\n\tTo grant property tax credits authorized by the act, a county shall opt in to the provisions of the act by an affirmative majority vote of the governing body of the county. The governing body may at any time rescind the property tax credit program by an affirmative vote.\r\n\r\n\tThe total amount of property tax credits authorized pursuant to this act shall be considered tax revenue actually received by the county and political subdivisions.\r\n\r\n\tThis act is identical to HB 2588 (2026).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the \"Missouri Disabled Veteran Homestead Tax Credit Act\""
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1535"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Conducted S Veterans and Military Affairs Committee",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Veterans and Military Affairs Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Carter, Jill",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Carter, Jill\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6601S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1535.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=626312",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6601S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

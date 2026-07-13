@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "H Third Read and Passed, as amended",
+    "occurred_at": "2026-05-13T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=444",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 905"
+}

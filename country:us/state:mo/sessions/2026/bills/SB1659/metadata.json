@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1659",
+  "title": "SB 1659 - This act creates the \"Fire Life-Safety Damper Inspection Verification Act\". This act provides that any political subdivision within the state that requires fire life-safety dampers, each fire life-safety damper must be inspected within twelve months of installation. After the initial inspection, each  fire life-safety damper must be inspected not less than once every four years.\r\n\r\n\tAll tests and inspections performed under this provision must comply with certain national standards. This act states that such inspections shall not be performed by remote methods.\r\n\r\n\tA person conducting tests or inspections required by this act must have the following qualifications:\r\n\t\u2022\tContractors must hold an ICB Fire and Smoke Damper Contractor Certification or an equivalent certification from an organization that has been accredited under certain standards;\r\n\t\u2022\tPersons other than contractors must:\r\n\t\t\u2022\tBe employed by an enforcing agency or by a contractor with the aforementioned certifications;\r\n\t\t\u2022\tHave successfully completed an approved skill training program, or be enrolled in such a program, and be working under the supervision of a person that has completed such program; and\r\n\t\t\u2022\tHold an ICB Fire and Smoke Damper Technician Certification or an equivalent certification from an organization that has been accredited under certain standards.\r\n\r\n\tThis act states that after the required testing and inspection, if the damper passes the inspections and testing, the person conducting the inspection or test shall execute a compliance certification. The owner of the building shall maintain a copy of the compliance certification and shall make it available upon request from certain authorized entities of the political subdivision.\r\n\r\n\tUpon the required testing and inspections, if deficiencies are revealed, the person that conducted such tests and inspections shall prepare a deficiency report for the building owner. The deficiency report shall include the nature of the deficiency, and the reasons for noncompliance. After receiving the report, the building owner shall ensure the defective equipment is repaired or replaced. A violation of this act occurs if the building owner does not achieve compliance within thirty days.\r\n\r\n\tEvery building owner shall post a notice of verification of the testing and inspection in the outside lobby window of the building or another location visible to the public. \r\n\r\n\tThis act requires that building owners maintain a written record of the smoke dampers, fire dampers, combination fire-and-smoke dampers and smoke control systems testing and maintenance. These written records shall be maintained on the premises. Building owners are also required to submit copies of all valid operation certificates, showing they are in compliance within 30 days of obtaining the certificate.\r\n\r\n\tEach failure to comply with this act shall be subject to certain authorized administrative civil penalties. A civil penalty of not more that one thousand dollars may be assessed for each violation and for each day the noncompliance continues. \r\n\r\n\tThe State Fire Marshal may deny, suspend, or revoke any license, certificate, approval, or other authorization issued, when a person, firm, or entity fails to comply with the fire-prevention code. The State Fire Marshal may seek injunctive relief in a court of competent jurisdiction to restrain any continuing condition that presents an imminent danger to life or property. This act shall not prevent local enforcing agencies from exercising their enforcement powers or obligations.\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1659 - This act creates the \"Fire Life-Safety Damper Inspection Verification Act\". This act provides that any political subdivision within the state that requires fire life-safety dampers, each fire life-safety damper must be inspected within twelve months of installation. After the initial inspection, each  fire life-safety damper must be inspected not less than once every four years.\r\n\r\n\tAll tests and inspections performed under this provision must comply with certain national standards. This act states that such inspections shall not be performed by remote methods.\r\n\r\n\tA person conducting tests or inspections required by this act must have the following qualifications:\r\n\t\u2022\tContractors must hold an ICB Fire and Smoke Damper Contractor Certification or an equivalent certification from an organization that has been accredited under certain standards;\r\n\t\u2022\tPersons other than contractors must:\r\n\t\t\u2022\tBe employed by an enforcing agency or by a contractor with the aforementioned certifications;\r\n\t\t\u2022\tHave successfully completed an approved skill training program, or be enrolled in such a program, and be working under the supervision of a person that has completed such program; and\r\n\t\t\u2022\tHold an ICB Fire and Smoke Damper Technician Certification or an equivalent certification from an organization that has been accredited under certain standards.\r\n\r\n\tThis act states that after the required testing and inspection, if the damper passes the inspections and testing, the person conducting the inspection or test shall execute a compliance certification. The owner of the building shall maintain a copy of the compliance certification and shall make it available upon request from certain authorized entities of the political subdivision.\r\n\r\n\tUpon the required testing and inspections, if deficiencies are revealed, the person that conducted such tests and inspections shall prepare a deficiency report for the building owner. The deficiency report shall include the nature of the deficiency, and the reasons for noncompliance. After receiving the report, the building owner shall ensure the defective equipment is repaired or replaced. A violation of this act occurs if the building owner does not achieve compliance within thirty days.\r\n\r\n\tEvery building owner shall post a notice of verification of the testing and inspection in the outside lobby window of the building or another location visible to the public. \r\n\r\n\tThis act requires that building owners maintain a written record of the smoke dampers, fire dampers, combination fire-and-smoke dampers and smoke control systems testing and maintenance. These written records shall be maintained on the premises. Building owners are also required to submit copies of all valid operation certificates, showing they are in compliance within 30 days of obtaining the certificate.\r\n\r\n\tEach failure to comply with this act shall be subject to certain authorized administrative civil penalties. A civil penalty of not more that one thousand dollars may be assessed for each violation and for each day the noncompliance continues. \r\n\r\n\tThe State Fire Marshal may deny, suspend, or revoke any license, certificate, approval, or other authorization issued, when a person, firm, or entity fails to comply with the fire-prevention code. The State Fire Marshal may seek injunctive relief in a court of competent jurisdiction to restrain any continuing condition that presents an imminent danger to life or property. This act shall not prevent local enforcing agencies from exercising their enforcement powers or obligations.\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes provisions relating to fire suppression and fire safety"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1659"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nurrenbern, Maggie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nurrenbern, Maggie\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6959S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1659.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=4373493",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6959S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

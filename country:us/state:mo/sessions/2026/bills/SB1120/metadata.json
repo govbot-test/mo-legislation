@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1120",
+  "title": "SB 1120 - Currently, offers to settle any claim for personal injury, bodily injury, or wrongful death on behalf of a claimant that are required to be accepted within a specified period of time by a tort-feasor with a liability insurer are required to contain the time period within which the offer remains open for acceptance, which shall not be less than ninety days from the date such demand is received by the liability insurer.\r\n\r\n\tThis act modifies the provision by providing that in any action alleging extracontractual damages against the tort-feasor's liability insurer, any prior offers to settle any claim for personal injury, bodily injury, or wrongful death on behalf of a claimant to a tort-feasor with a liability insurance policy shall not be considered a reasonable opportunity to settle the claim unless the settlement demand remains open for acceptance for at least ninety days from the date such settlement demand was received by the liability insurer, and if the offer remains open for more than ninety days, the offer shall contain the time period within which acceptance may be given.\r\n\r\n\tThis act is identical to a provision in SB 268 (2025), SB 312 (2025), SB 903 (2024), SB 466 (2023), and in SB 708 (2023) and is substantially similar to HB 437 (2025), HB 2277 (2024), and HB 1009 (2023).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1120 - Currently, offers to settle any claim for personal injury, bodily injury, or wrongful death on behalf of a claimant that are required to be accepted within a specified period of time by a tort-feasor with a liability insurer are required to contain the time period within which the offer remains open for acceptance, which shall not be less than ninety days from the date such demand is received by the liability insurer.\r\n\r\n\tThis act modifies the provision by providing that in any action alleging extracontractual damages against the tort-feasor's liability insurer, any prior offers to settle any claim for personal injury, bodily injury, or wrongful death on behalf of a claimant to a tort-feasor with a liability insurance policy shall not be considered a reasonable opportunity to settle the claim unless the settlement demand remains open for acceptance for at least ninety days from the date such settlement demand was received by the liability insurer, and if the offer remains open for more than ninety days, the offer shall contain the time period within which acceptance may be given.\r\n\r\n\tThis act is identical to a provision in SB 268 (2025), SB 312 (2025), SB 903 (2024), SB 466 (2023), and in SB 708 (2023) and is substantially similar to HB 437 (2025), HB 2277 (2024), and HB 1009 (2023).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to time-limited settlement demands to liability insurers"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1120"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S General Laws Committee",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S General Laws Committee",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Trent, Curtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Trent, Curtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4996S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1120.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=152",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4996S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

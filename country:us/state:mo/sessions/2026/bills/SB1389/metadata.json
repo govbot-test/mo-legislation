@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1389",
+  "title": "SB 1389 - This act provides that any individual may bring a cause of action against a business entity that has a policy allowing for individuals of one biological sex into changing facilities or restrooms designated for use by the opposite biological sex and in which the individual's privacy or expectation of privacy was violated in a changing facility or restroom that matched the individual's biological sex by an individual of the opposite biological sex. The prevailing plaintiff shall be entitled to recover nominal, compensatory, and punitive damages along with costs and attorney's fees.\r\n\r\n\tAs defined in this act, the terms \"restroom\" and \"changing room\" do not include a unisex restrooms or changing rooms. Additionally, it shall be an affirmative defense if the individual that was permitted entry into a changing facility or restroom that did not match that individual's biological sex was:\r\n\t(1)\tA disabled individual or a child under the age of 13 who was accompanied, escorted, supervised, or assisted by an adult of the same biological sex as the one the changing room or restroom was designated for use;\r\n\t(2)\tAn employee or agent of the business entity that enters, after a clear and understandable oral notice, to clean the room or secure or ensure the safety or well-being of individuals within the room; or \r\n\t(3)\tA first responder in the lawful performance of his or her duties.\r\n\r\n\tThis act is identical to SB 632 (2025).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1389 - This act provides that any individual may bring a cause of action against a business entity that has a policy allowing for individuals of one biological sex into changing facilities or restrooms designated for use by the opposite biological sex and in which the individual's privacy or expectation of privacy was violated in a changing facility or restroom that matched the individual's biological sex by an individual of the opposite biological sex. The prevailing plaintiff shall be entitled to recover nominal, compensatory, and punitive damages along with costs and attorney's fees.\r\n\r\n\tAs defined in this act, the terms \"restroom\" and \"changing room\" do not include a unisex restrooms or changing rooms. Additionally, it shall be an affirmative defense if the individual that was permitted entry into a changing facility or restroom that did not match that individual's biological sex was:\r\n\t(1)\tA disabled individual or a child under the age of 13 who was accompanied, escorted, supervised, or assisted by an adult of the same biological sex as the one the changing room or restroom was designated for use;\r\n\t(2)\tAn employee or agent of the business entity that enters, after a clear and understandable oral notice, to clean the room or secure or ensure the safety or well-being of individuals within the room; or \r\n\t(3)\tA first responder in the lawful performance of his or her duties.\r\n\r\n\tThis act is identical to SB 632 (2025).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes a cause of action against business for violations of privacy in changing facilities or restrooms"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1389"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5761S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1389.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=554",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5761S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

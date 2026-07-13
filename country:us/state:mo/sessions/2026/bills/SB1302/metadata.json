@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1302",
+  "title": "SB 1302 - This act creates new provisions relating to public contracts. This act is identical to SB 338 (2025) and SB 1142 (2024).\r\n\r\nBANKING CONTRACTS - RESTRICTED FINANCIAL INSTITUTIONS\r\n\tThe act requires the State Treasurer to create a Restricted Financial Institutions List, containing the names of financial institutions that are engaged in a boycott of companies, as that phrase is defined in the act. The list is to be used by the Treasurer for the purpose of determining which financial institutions to enter into banking contracts with. The list must be updated annually and is required to be posted on the Treasurer's website and delivered to the Governor, the President Pro Tem of the Senate, and the Speaker of the House of Representatives.\r\n\r\n\tThe act requires a notice period for financial institutions prior to being included on the Restricted Financial Institutions List. Specifically, 45 days prior to including a financial institution on the restricted financial institution list, the Treasurer shall send a written notice to the institution notifying it that it has the opportunity to demonstrate that it is not engaged in a boycott of companies. Following inclusion on the list, the financial institution may be removed upon demonstration to the Treasurer that it has ceased all boycotts.\r\n\r\n\tThe act permits the Treasurer to disqualify restricted financial institutions from the competitive bidding process or from any other official selection process for any banking contract. The Treasurer may refuse to enter into a banking contract or an extension of any banking contract with a restricted financial institution based on its restricted financial institution status. The Treasurer may require, as a term of any banking contract, an agreement by the financial institution not to engage in a boycott for the duration of the contract.\r\n\r\n\tWith respect to actions taken in compliance with this act, a public body, public official, public employee, or member or employee of a financial institution shall be immune from any liability.\r\n\r\n\tNo party may take action to penalize or threaten to penalize any financial institution for compliance with this act. Furthermore, any contract subject to this act may be enforced by the Attorney General who shall have the same investigatory authority as permitted under the Missouri Merchandising Practices Act.\r\n\r\n\tIn addition to any other remedies available at law or equity, a company that provides false information to the Treasurer and later receives state monies, or violates a contractual agreement with the state not to engage in a boycott, is required to pay damages to the state in an amount equal to three times all monies paid to the company by the state for the company's goods or services.\r\n\r\nPUBLIC CONTRACTS - TREATMENT BASED ON ENVIRONMENTAL, SOCIAL AND GOVERNANCE SCORE\r\n\tThis act requires public bodies to ensure that bidders, offerors, contractors, or subcontractors, when engaged in procuring or letting contracts for any purpose, are not given preferential treatment or discriminated against based on an environmental, social and governance score, as defined in the act.\r\n\r\n\tThis provision is similar to SB 1350 (2024), SB 1518 (2024), SB 50 (2023) and SB 1171 (2022).\r\n\r\n\tThis act contains a severability clause.\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1302 - This act creates new provisions relating to public contracts. This act is identical to SB 338 (2025) and SB 1142 (2024).\r\n\r\nBANKING CONTRACTS - RESTRICTED FINANCIAL INSTITUTIONS\r\n\tThe act requires the State Treasurer to create a Restricted Financial Institutions List, containing the names of financial institutions that are engaged in a boycott of companies, as that phrase is defined in the act. The list is to be used by the Treasurer for the purpose of determining which financial institutions to enter into banking contracts with. The list must be updated annually and is required to be posted on the Treasurer's website and delivered to the Governor, the President Pro Tem of the Senate, and the Speaker of the House of Representatives.\r\n\r\n\tThe act requires a notice period for financial institutions prior to being included on the Restricted Financial Institutions List. Specifically, 45 days prior to including a financial institution on the restricted financial institution list, the Treasurer shall send a written notice to the institution notifying it that it has the opportunity to demonstrate that it is not engaged in a boycott of companies. Following inclusion on the list, the financial institution may be removed upon demonstration to the Treasurer that it has ceased all boycotts.\r\n\r\n\tThe act permits the Treasurer to disqualify restricted financial institutions from the competitive bidding process or from any other official selection process for any banking contract. The Treasurer may refuse to enter into a banking contract or an extension of any banking contract with a restricted financial institution based on its restricted financial institution status. The Treasurer may require, as a term of any banking contract, an agreement by the financial institution not to engage in a boycott for the duration of the contract.\r\n\r\n\tWith respect to actions taken in compliance with this act, a public body, public official, public employee, or member or employee of a financial institution shall be immune from any liability.\r\n\r\n\tNo party may take action to penalize or threaten to penalize any financial institution for compliance with this act. Furthermore, any contract subject to this act may be enforced by the Attorney General who shall have the same investigatory authority as permitted under the Missouri Merchandising Practices Act.\r\n\r\n\tIn addition to any other remedies available at law or equity, a company that provides false information to the Treasurer and later receives state monies, or violates a contractual agreement with the state not to engage in a boycott, is required to pay damages to the state in an amount equal to three times all monies paid to the company by the state for the company's goods or services.\r\n\r\nPUBLIC CONTRACTS - TREATMENT BASED ON ENVIRONMENTAL, SOCIAL AND GOVERNANCE SCORE\r\n\tThis act requires public bodies to ensure that bidders, offerors, contractors, or subcontractors, when engaged in procuring or letting contracts for any purpose, are not given preferential treatment or discriminated against based on an environmental, social and governance score, as defined in the act.\r\n\r\n\tThis provision is similar to SB 1350 (2024), SB 1518 (2024), SB 50 (2023) and SB 1171 (2022).\r\n\r\n\tThis act contains a severability clause.\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Prohibits giving preferential treatment or discrimination based upon ESG scores"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1302"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Insurance and Banking Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Moon, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Moon, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5658S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1302.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=409",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5658S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

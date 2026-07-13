@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1216",
+  "title": "SB 1216 - Currently, children under the age of seven years old are required to wear a personal flotation device when on board any watercraft on the waters of Missouri. This act names the provision \"Hannah's Law\" and raises the age until which a child is required to wear a personal flotation device to twelve. The act also requires a child who is wading or swimming in navigable public waters more than three feet in depth to wear a personal flotation device. This act exempts children from the personal flotation device requirement if supervised by a lifeguard.\r\n\r\n\tThis act is identical to HB 3293 (2026), SB 176 (2025), HB 619 (2025), and SB 1211 (2024), similar to HB 2557 (2024), identical to SB 307 (2023) and SB 913 (2022), and similar to HB 2212 (2022).\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1216 - Currently, children under the age of seven years old are required to wear a personal flotation device when on board any watercraft on the waters of Missouri. This act names the provision \"Hannah's Law\" and raises the age until which a child is required to wear a personal flotation device to twelve. The act also requires a child who is wading or swimming in navigable public waters more than three feet in depth to wear a personal flotation device. This act exempts children from the personal flotation device requirement if supervised by a lifeguard.\r\n\r\n\tThis act is identical to HB 3293 (2026), SB 176 (2025), HB 619 (2025), and SB 1211 (2024), similar to HB 2557 (2024), identical to SB 307 (2023) and SB 913 (2022), and similar to HB 2212 (2022).\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Expands the requirement for children to wear personal flotation devices"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1216"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nurrenbern, Maggie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nurrenbern, Maggie\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3851S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1216.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=533",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3851S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

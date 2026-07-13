@@ -1,0 +1,128 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 968",
+  "title": "SB 968 - Under this act, no pharmacy benefits manager shall prohibit or limit a covered person from selecting a pharmacy or pharmacist of their choice or impose a monetary advantage or penalty that would affect a covered person's choice if a pharmacy or pharmacist has agreed to participate in a covered person's health benefit plan.  A pharmacy benefits manager shall not impose upon a pharmacy or pharmacist any course of study, accreditation, certification, or credentialing as a condition of participation that is inconsistent with, more stringent than, or in addition to what is required under state law.  Additionally, a pharmacy benefits manager shall not pay or reimburse a pharmacy or pharmacist for an amount less than the most recently published National Average Drug Acquisition Cost (NADAC) for a prescription drug.\r\n\r\n\tThis act requires a pharmacy benefits manager to reimburse pharmacies for a drug at an amount that is the greater of the maximum allowable cost (MAC) pricing or the current NADAC pricing.  Additionally, no pharmacy benefits manager shall retaliate against a contracted pharmacy for exercising its right to appeal a reimbursement dispute to the pharmacy benefits manager.\r\n\r\n\tA pharmacy benefits manager shall reimburse any pharmacist or pharmacy located in this state for an amount equal to what the pharmacy benefits manager reimburses a pharmacy benefits manager affiliate for dispensing the same prescription drug.\r\n\r\n\tFinally, in addition to the reimbursement amounts determined by the MAC and NADAC, a pharmacy benefits manager shall reimburse a pharmacy or pharmacist a dispensing fee no less than 90% of the MO HealthNet professional dispensing fee in effect on the date of service.\r\n\r\n\tThis act is similar to HB 1975 (2026).\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 968 - Under this act, no pharmacy benefits manager shall prohibit or limit a covered person from selecting a pharmacy or pharmacist of their choice or impose a monetary advantage or penalty that would affect a covered person's choice if a pharmacy or pharmacist has agreed to participate in a covered person's health benefit plan.  A pharmacy benefits manager shall not impose upon a pharmacy or pharmacist any course of study, accreditation, certification, or credentialing as a condition of participation that is inconsistent with, more stringent than, or in addition to what is required under state law.  Additionally, a pharmacy benefits manager shall not pay or reimburse a pharmacy or pharmacist for an amount less than the most recently published National Average Drug Acquisition Cost (NADAC) for a prescription drug.\r\n\r\n\tThis act requires a pharmacy benefits manager to reimburse pharmacies for a drug at an amount that is the greater of the maximum allowable cost (MAC) pricing or the current NADAC pricing.  Additionally, no pharmacy benefits manager shall retaliate against a contracted pharmacy for exercising its right to appeal a reimbursement dispute to the pharmacy benefits manager.\r\n\r\n\tA pharmacy benefits manager shall reimburse any pharmacist or pharmacy located in this state for an amount equal to what the pharmacy benefits manager reimburses a pharmacy benefits manager affiliate for dispensing the same prescription drug.\r\n\r\n\tFinally, in addition to the reimbursement amounts determined by the MAC and NADAC, a pharmacy benefits manager shall reimburse a pharmacy or pharmacist a dispensing fee no less than 90% of the MO HealthNet professional dispensing fee in effect on the date of service.\r\n\r\n\tThis act is similar to HB 1975 (2026).\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to pharmacy benefits managers"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb968"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Bill Combined w/SCS SBs 984 & 968",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Families, Seniors and Health Committee",
+      "date": "2026-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fitzwater, Travis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Fitzwater, Travis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5510S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB968.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=130",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5510S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

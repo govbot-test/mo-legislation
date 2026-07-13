@@ -1,0 +1,151 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 976",
+  "title": "SCS/SB 976 - Current law requires any person who registers as a lobbyist to dissolve any candidate committee the person may have in existence. This act allows any person who has registered as a lobbyist and also has a candidate committee for the purpose of seeking a county, municipal, or school board office to maintain the candidate committee, provided the person is not lobbying the county, municipality, or school board for which the candidate committee is designated to seek office. Nothing in this act shall prohibit a person from changing the designated office sought by his or her candidate committee, provided such person is never simultaneously registered to lobby the public office for which such person's committee is designated to seek office.\r\n\r\nThis act is identical to a provision in the truly agreed to SS/SCS/HCS/HB 1871 (2026) and a provision in SCS/HCS/HB 1788 (2026).\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SCS/SB 976 - Current law requires any person who registers as a lobbyist to dissolve any candidate committee the person may have in existence. This act allows any person who has registered as a lobbyist and also has a candidate committee for the purpose of seeking a county, municipal, or school board office to maintain the candidate committee, provided the person is not lobbying the county, municipality, or school board for which the candidate committee is designated to seek office. Nothing in this act shall prohibit a person from changing the designated office sought by his or her candidate committee, provided such person is never simultaneously registered to lobby the public office for which such person's committee is designated to seek office.\r\n\r\nThis act is identical to a provision in the truly agreed to SS/SCS/HCS/HB 1871 (2026) and a provision in SCS/HCS/HB 1788 (2026).\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to candidate committees"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb976"
+    }
+  ],
+  "actions": [
+    {
+      "description": "SCS Voted Do Pass S Local Government, Elections and Pensions Committee (5436S.02C)",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Local Government, Elections and Pensions Committee",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Hearing Cancelled S Local Government, Elections and Pensions Committee",
+      "date": "2026-01-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Black, Rusty",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Black, Rusty\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB976.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "5436S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB976.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=376",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5436S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1690",
+  "title": "SB 1690 - This act provides that an individual who feloniously and intentionally kills the decedent forfeits all benefits with respect to the decedent's estate. If the decedent died intestate, the decedent's intestate estate passes as if the killer disclaimed the intestate share. Provisions of a governing instrument shall be treated as if the killer disclaimed all provisions revoked by this act or, in the case of a revoked nomination in a fiduciary or representative capacity, as if the killer predeceased the decedent.\r\n\r\n\tA severance of the interests of decedent and killer in property held by them as joint tenants with the right of survivorship does not affect any third-party interest in property acquired for value and in good faith reliance on an apparent title by survivorship in the killer unless there is a written declaration providing that the severance has been noted, registered, filed, or recorded.\r\n\r\n\tAfter all appeals have been exhausted, a judgment of conviction establishing criminal accountability for the felonious and intentional killing of the decedent shall conclusively establish that the convicted individual is the decedent's killer for purposes of this act. In the absence of a conviction, an interested person may petition the court to determine, by a preponderance of the evidence, that the individual would be found criminally accountable for the felonious and intentional killing of the decedent. \r\n\r\n\tA payor or other third-party shall not be liable for payments made, property transferred to, or other benefits conferred to a beneficiary designated in a governing instrument affected by an intentional and felonious killing. Additionally, such payor or third-party shall not be liable for any other actions taken upon a good faith reliance upon the validity of a governing instrument, upon request and satisfactory proof of the decedent's death, before the payor or other third-party received written notice of a claimed forfeiture or revocation under this act. \r\n\r\n\tHowever, a payor or third-party shall be liable for payments or actions taken after written notice of forfeiture or revocation is received. This act provides requirements for such written notice of forfeiture or revocation. Upon receipt of the written notice, the payor or third-party may pay the amount owed or transfer the property held by it to the court having jurisdiction over the probate proceedings of the decedent's estate, or if no proceedings have been commenced, then to the court located in the county of the decedent's residence. The court shall hold the funds or the property and shall order disbursement in accordance with the determinations made under this act. The payor or third-party shall be discharged from all claims for the value of amounts paid or transferred to the court.\r\n\r\n\tA person who purchases property for value and without notice or who receives a payment or property for satisfaction of a legally enforceable obligation shall not be obligated to return the payment, property, or benefit. Additionally, such person shall not be liable for the amount of the payment or the value of the property or benefit. A person who receives a payment, property, or benefit but not for value, shall be obligated to return it or shall be liable for such payment, property, or benefit to the person entitled to receive it under this act.\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1690 - This act provides that an individual who feloniously and intentionally kills the decedent forfeits all benefits with respect to the decedent's estate. If the decedent died intestate, the decedent's intestate estate passes as if the killer disclaimed the intestate share. Provisions of a governing instrument shall be treated as if the killer disclaimed all provisions revoked by this act or, in the case of a revoked nomination in a fiduciary or representative capacity, as if the killer predeceased the decedent.\r\n\r\n\tA severance of the interests of decedent and killer in property held by them as joint tenants with the right of survivorship does not affect any third-party interest in property acquired for value and in good faith reliance on an apparent title by survivorship in the killer unless there is a written declaration providing that the severance has been noted, registered, filed, or recorded.\r\n\r\n\tAfter all appeals have been exhausted, a judgment of conviction establishing criminal accountability for the felonious and intentional killing of the decedent shall conclusively establish that the convicted individual is the decedent's killer for purposes of this act. In the absence of a conviction, an interested person may petition the court to determine, by a preponderance of the evidence, that the individual would be found criminally accountable for the felonious and intentional killing of the decedent. \r\n\r\n\tA payor or other third-party shall not be liable for payments made, property transferred to, or other benefits conferred to a beneficiary designated in a governing instrument affected by an intentional and felonious killing. Additionally, such payor or third-party shall not be liable for any other actions taken upon a good faith reliance upon the validity of a governing instrument, upon request and satisfactory proof of the decedent's death, before the payor or other third-party received written notice of a claimed forfeiture or revocation under this act. \r\n\r\n\tHowever, a payor or third-party shall be liable for payments or actions taken after written notice of forfeiture or revocation is received. This act provides requirements for such written notice of forfeiture or revocation. Upon receipt of the written notice, the payor or third-party may pay the amount owed or transfer the property held by it to the court having jurisdiction over the probate proceedings of the decedent's estate, or if no proceedings have been commenced, then to the court located in the county of the decedent's residence. The court shall hold the funds or the property and shall order disbursement in accordance with the determinations made under this act. The payor or third-party shall be discharged from all claims for the value of amounts paid or transferred to the court.\r\n\r\n\tA person who purchases property for value and without notice or who receives a payment or property for satisfaction of a legally enforceable obligation shall not be obligated to return the payment, property, or benefit. Additionally, such person shall not be liable for the amount of the payment or the value of the property or benefit. A person who receives a payment, property, or benefit but not for value, shall be obligated to return it or shall be liable for such payment, property, or benefit to the person entitled to receive it under this act.\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes provisions relating to the effect of homicide on benefits received from a decedent's estate"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1690"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gregory (15), David",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Gregory (15), David\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6868S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1690.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=5552594",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6868S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1715",
+  "title": "SB 1715 - The act creates provisions relating to public utility employees and agents' whistleblower protections.\r\n\r\n\tUnder the act the Public Service Commission and the Missouri Office of the Public Counsel shall each designate counsel to stand as ombudsman who shall accept any complaint or information provided by a protected person, as defined in the act, as to any act or omission by a public utility that violates current law or any rule or regulation promulgated by the Commission.\r\n\r\n\tAny information provided to the ombudsman pertaining to the identity of the protected person shall be kept confidential and a closed record. Any information pertaining to the rate case shall be placed in an official rate case file.\r\n\r\n\tThe Commission and Public Counsel shall each have the power to investigate or make an inquiry into any allegation against a public utility contained in the complaint or information provided by the protected person.\r\n\r\n\tAfter receiving the complaint or information, the Commission and Public Counsel shall:\r\n\t(1) Confirm receipt of the complaint to the protected person;\r\n\t(2) Provide an opportunity for the protected person to meet with an investigator;\r\n\t(3) Provide an opportunity for the protected person to rebut any denial by a public utility; and\r\n\t(4) Provide an opportunity for the protected person to comment on a preliminary investigative report.\r\n\r\n\tAny denial, rebuttal, or comment shall be included into the record of the complaint.\r\n\r\n\tThe Commission and Public Counsel shall both send notification to the protected person of the final result of the investigation.\r\n\r\n\tA protected person under the act shall be entitled to the remedies under the Whistleblower's Protection Act.\r\n\r\n\tThe act is similar to SB 366 (2025).\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1715 - The act creates provisions relating to public utility employees and agents' whistleblower protections.\r\n\r\n\tUnder the act the Public Service Commission and the Missouri Office of the Public Counsel shall each designate counsel to stand as ombudsman who shall accept any complaint or information provided by a protected person, as defined in the act, as to any act or omission by a public utility that violates current law or any rule or regulation promulgated by the Commission.\r\n\r\n\tAny information provided to the ombudsman pertaining to the identity of the protected person shall be kept confidential and a closed record. Any information pertaining to the rate case shall be placed in an official rate case file.\r\n\r\n\tThe Commission and Public Counsel shall each have the power to investigate or make an inquiry into any allegation against a public utility contained in the complaint or information provided by the protected person.\r\n\r\n\tAfter receiving the complaint or information, the Commission and Public Counsel shall:\r\n\t(1) Confirm receipt of the complaint to the protected person;\r\n\t(2) Provide an opportunity for the protected person to meet with an investigator;\r\n\t(3) Provide an opportunity for the protected person to rebut any denial by a public utility; and\r\n\t(4) Provide an opportunity for the protected person to comment on a preliminary investigative report.\r\n\r\n\tAny denial, rebuttal, or comment shall be included into the record of the complaint.\r\n\r\n\tThe Commission and Public Counsel shall both send notification to the protected person of the final result of the investigation.\r\n\r\n\tA protected person under the act shall be entitled to the remedies under the Whistleblower's Protection Act.\r\n\r\n\tThe act is similar to SB 366 (2025).\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to public utilities employees' whistleblower protections"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1715"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "McCreery, Tracy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            McCreery, Tracy\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5357S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1715.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6116374",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5357S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:24Z"
+  }
+}

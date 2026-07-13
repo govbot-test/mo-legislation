@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1218",
+  "title": "SB 1218 - This act prohibits discrimination under the Missouri Human Rights Act (MHRA) based upon a person's sexual orientation, gender identity, or veteran status. Such discrimination includes unlawful housing practices, denial of loans or other financial assistance, denial of membership into an organization relating to the selling or renting of dwellings, unlawful employment practices, and denial of the right to use public accommodations. Discrimination is defined to include any unfair treatment based on a person's presumed or assumed race, color, religion, national origin, ancestry, sex, sexual orientation, gender identity, age as it relates to employment, disability, or familial status as it relates to housing, regardless of whether the presumption or assumption as to such characteristic is correct.\r\n\r\n\tThe act modifies the standard for proving discriminatory claims pursuant to the MHRA. Currently, a protected criterion must be the motivating factor in any adverse decision or action. This act changes that to a motivating factor.\r\n\r\n\tThe act changes which employers are subject to the MHRA. Currently, corporations and associations owned or operated by religious or sectarian organizations are exempt from the MHRA. This act only exempts corporations and associations owned and operated by religious or sectarian organizations. Additionally, the act repeals an exemption for individuals employed an employer.\r\n\r\n\tThis act is identical to SB 608 (2025) and substantially similar to certain provisions in SB 1633 (2026), HB 3425 (2026), SB 732 (2025), HB 1460 (2025), SB 787 (2024), HB 2478 (2024), SB 60 (2023), HB 384 (2023), HB 574 (2023), SB 711 (2022), HB 1760 (2022), HB 2580 (2022), SB 81 (2021) HB 275 (2021), HB 984 (2021), HB 1527 (2020), SB 954 (2020), HB 1763 (2020), SB 172 (2019), HB 208 (2019), SB 753 (2018), HCS/HBs 1360 & 2100 (2018), HB 1782 (2018), SB 338 (2017), HB 485 (2017), SB 653 (2016), SB 237 (2015), SB 962 (2014), SB 96 (2013) and SB 798 (2012), and similar to HB 1737 (2022), HB 407 (2015), SB 757 (2014), SS/HCS/HB 320 (2013), SB 239 (2011), SB 626 (2010), SB 109 (2009), SB 824 (2008), SB 266 (2007), SB 452 (2001), and SB 622 (2000).\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1218 - This act prohibits discrimination under the Missouri Human Rights Act (MHRA) based upon a person's sexual orientation, gender identity, or veteran status. Such discrimination includes unlawful housing practices, denial of loans or other financial assistance, denial of membership into an organization relating to the selling or renting of dwellings, unlawful employment practices, and denial of the right to use public accommodations. Discrimination is defined to include any unfair treatment based on a person's presumed or assumed race, color, religion, national origin, ancestry, sex, sexual orientation, gender identity, age as it relates to employment, disability, or familial status as it relates to housing, regardless of whether the presumption or assumption as to such characteristic is correct.\r\n\r\n\tThe act modifies the standard for proving discriminatory claims pursuant to the MHRA. Currently, a protected criterion must be the motivating factor in any adverse decision or action. This act changes that to a motivating factor.\r\n\r\n\tThe act changes which employers are subject to the MHRA. Currently, corporations and associations owned or operated by religious or sectarian organizations are exempt from the MHRA. This act only exempts corporations and associations owned and operated by religious or sectarian organizations. Additionally, the act repeals an exemption for individuals employed an employer.\r\n\r\n\tThis act is identical to SB 608 (2025) and substantially similar to certain provisions in SB 1633 (2026), HB 3425 (2026), SB 732 (2025), HB 1460 (2025), SB 787 (2024), HB 2478 (2024), SB 60 (2023), HB 384 (2023), HB 574 (2023), SB 711 (2022), HB 1760 (2022), HB 2580 (2022), SB 81 (2021) HB 275 (2021), HB 984 (2021), HB 1527 (2020), SB 954 (2020), HB 1763 (2020), SB 172 (2019), HB 208 (2019), SB 753 (2018), HCS/HBs 1360 & 2100 (2018), HB 1782 (2018), SB 338 (2017), HB 485 (2017), SB 653 (2016), SB 237 (2015), SB 962 (2014), SB 96 (2013) and SB 798 (2012), and similar to HB 1737 (2022), HB 407 (2015), SB 757 (2014), SS/HCS/HB 320 (2013), SB 239 (2011), SB 626 (2010), SB 109 (2009), SB 824 (2008), SB 266 (2007), SB 452 (2001), and SB 622 (2000).\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Prohibits discrimination based on sexual orientation or gender identity"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1218"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lewis, Patty",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Lewis, Patty\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4558S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1218.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=572",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4558S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

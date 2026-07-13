@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "S distributes CCR (4828S05.1SR)",
+    "occurred_at": "2026-05-14T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=314",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 994"
+}

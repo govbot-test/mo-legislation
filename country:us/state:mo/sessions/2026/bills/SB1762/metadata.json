@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1762",
+  "title": "SB 1762 - Statewide Leasing\r\n\r\n.                 Governor                     Senate\r\n\r\nGR             $  112,241,110            $  112,241,110\r\nFEDERAL            29,924,453                29,924,453\r\nOTHER              16,749,968                16,749,968\r\n.               _____________             _____________\r\nTOTAL          $  158,915,531            $  158,915,531\r\n\r\n\r\n.                 House                        Final\r\n\r\nGR                                                 \r\nFEDERAL\r\nOTHER\r\n.              ______________             _____________\r\nTOTAL\r\nADAM KOENIGSFELD",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1762 - Statewide Leasing\r\n\r\n.                 Governor                     Senate\r\n\r\nGR             $  112,241,110            $  112,241,110\r\nFEDERAL            29,924,453                29,924,453\r\nOTHER              16,749,968                16,749,968\r\n.               _____________             _____________\r\nTOTAL          $  158,915,531            $  158,915,531\r\n\r\n\r\n.                 House                        Final\r\n\r\nGR                                                 \r\nFEDERAL\r\nOTHER\r\n.              ______________             _____________\r\nTOTAL\r\nADAM KOENIGSFELD"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To appropriate money for real property leases, related services, utilities, systems furniture, structural modifications, and related expenses for the several departments of state government and the divisions and programs thereof"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1762"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Appropriations Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hough, Lincoln",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Hough, Lincoln\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7442S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1762.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6477159",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7442S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

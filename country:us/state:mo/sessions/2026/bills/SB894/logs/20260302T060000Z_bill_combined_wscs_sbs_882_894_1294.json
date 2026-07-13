@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Bill Combined w/SCS SBs 882, 894 & 1294",
+    "occurred_at": "2026-03-02T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=584",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 894"
+}

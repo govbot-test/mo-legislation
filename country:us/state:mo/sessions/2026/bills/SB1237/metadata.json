@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1237",
+  "title": "SB 1237 - Current law imposes a graduated income tax rate and authorizes reductions in the top rate of income tax contingent on certain state revenue collections, with an eventual top rate of 4.5%. This act provides that, for all tax years beginning on or after January 1, 2027, there shall be a flat income tax rate of 4% on all taxable income.\r\n\r\n\tThis act also provides for additional reductions in the rate of tax until the income tax is eliminated.  The reductions shall be equal to 0.1% and shall occur when the amount of net general revenue collected in the previous fiscal year exceeds the highest amount of net general revenue collected in any of the three fiscal years prior to such fiscal year by at least $120 million. (Section 143.011)\r\n\r\n\tCurrent law also authorizes an income tax deduction for a portion of federal income taxes paid. This act eliminates such deduction beginning with the 2027 tax year. (Section 143.171)\r\n\r\n\tThis act is identical to SB 5 (2025 First Extraordinary Session) and is similar to SB 220 (2025).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1237 - Current law imposes a graduated income tax rate and authorizes reductions in the top rate of income tax contingent on certain state revenue collections, with an eventual top rate of 4.5%. This act provides that, for all tax years beginning on or after January 1, 2027, there shall be a flat income tax rate of 4% on all taxable income.\r\n\r\n\tThis act also provides for additional reductions in the rate of tax until the income tax is eliminated.  The reductions shall be equal to 0.1% and shall occur when the amount of net general revenue collected in the previous fiscal year exceeds the highest amount of net general revenue collected in any of the three fiscal years prior to such fiscal year by at least $120 million. (Section 143.011)\r\n\r\n\tCurrent law also authorizes an income tax deduction for a portion of federal income taxes paid. This act eliminates such deduction beginning with the 2027 tax year. (Section 143.171)\r\n\r\n\tThis act is identical to SB 5 (2025 First Extraordinary Session) and is similar to SB 220 (2025).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions regarding income taxes, including the imposition of a 4% flat income tax"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1237"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Economic and Workforce Development Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5471S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1237.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=340",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5471S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

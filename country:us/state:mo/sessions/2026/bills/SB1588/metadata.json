@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1588",
+  "title": "SB 1588 - This act modifies provisions relating to protections against document fraud.\r\n\r\nOFFENSE OF FILING FALSE DOCUMENTS (SECTIONS 59.120 & 570.095)\r\n\tEach recorder of deeds shall display a notice, as described in the act, relating to the offense of filing false documents. The recorder of deeds may also post information in the office or online regarding the petition process for filings or records believed to be fraudulent, false, misleading, or forged or that contains materially false information.\r\n\r\n\tAdditionally, this act provides that the offense of filing false documents shall be a class C felony, rather than a class D felony. The offense of filing false documents shall be a class B felony, rather than a class C felony, in certain cases where the defendant has previously been found guilty of the offense or when the victim or named party is certain individuals described in the act. \r\n\tAn owner of an interest in real property that has been subject to a filing or record that is believed to be fraudulent, false, misleading, or forged or that contains materially false information may petition for judicial review under current law.\r\n\r\n\tThese provisions are identical to a provisions in HCS/HB 2103 (2026).\r\n\r\nNOTARIES (SECTIONS 486.735 & 578.700)\r\n\tThis act provides that a vendor or manufacturer of notary seals in Missouri who fails to comply with the requirements required under current law shall be subject to a fine of $10,000, instead of $1,000, for each violation.\r\n\r\n\tThis act establishes that a notary shall be guilty of a class E felony, instead of a misdemeanor, for executing a false notarial certificate containing information known or believed by the notary to be false. Furthermore, it shall be a class E felony, rather than a misdemeanor, for any person to knowingly:\r\n\t(1)\tAct as or otherwise impersonate a notary if the person is not a notary;\r\n\t(2)\tObtain, conceal, deface, or destroy the seal, journal, or official records of a notary;\r\n\t(3)\tSolicit, coerce, or in any way influence a notary to commit official misconduct; or\r\n\t(4)\tObtain, conceal, damage, or destroy the coding, disk, certificate, card, token, program, software, or hardware that is intended exclusively to enable an electronic notary public to produce a registered electronic signature, notary seal, or single element combining the required features of an electronic signature and notary seal.\r\n\r\n\tThis act additionally provides that it shall be a class E felony for any person who is not a notary to knowingly present false information to obtain or attempt to obtain a notary public's seal from a manufacturer.\r\n\r\n\tThese provisions are identical to provisions in HCS/HB 2103 (2026).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1588 - This act modifies provisions relating to protections against document fraud.\r\n\r\nOFFENSE OF FILING FALSE DOCUMENTS (SECTIONS 59.120 & 570.095)\r\n\tEach recorder of deeds shall display a notice, as described in the act, relating to the offense of filing false documents. The recorder of deeds may also post information in the office or online regarding the petition process for filings or records believed to be fraudulent, false, misleading, or forged or that contains materially false information.\r\n\r\n\tAdditionally, this act provides that the offense of filing false documents shall be a class C felony, rather than a class D felony. The offense of filing false documents shall be a class B felony, rather than a class C felony, in certain cases where the defendant has previously been found guilty of the offense or when the victim or named party is certain individuals described in the act. \r\n\tAn owner of an interest in real property that has been subject to a filing or record that is believed to be fraudulent, false, misleading, or forged or that contains materially false information may petition for judicial review under current law.\r\n\r\n\tThese provisions are identical to a provisions in HCS/HB 2103 (2026).\r\n\r\nNOTARIES (SECTIONS 486.735 & 578.700)\r\n\tThis act provides that a vendor or manufacturer of notary seals in Missouri who fails to comply with the requirements required under current law shall be subject to a fine of $10,000, instead of $1,000, for each violation.\r\n\r\n\tThis act establishes that a notary shall be guilty of a class E felony, instead of a misdemeanor, for executing a false notarial certificate containing information known or believed by the notary to be false. Furthermore, it shall be a class E felony, rather than a misdemeanor, for any person to knowingly:\r\n\t(1)\tAct as or otherwise impersonate a notary if the person is not a notary;\r\n\t(2)\tObtain, conceal, deface, or destroy the seal, journal, or official records of a notary;\r\n\t(3)\tSolicit, coerce, or in any way influence a notary to commit official misconduct; or\r\n\t(4)\tObtain, conceal, damage, or destroy the coding, disk, certificate, card, token, program, software, or hardware that is intended exclusively to enable an electronic notary public to produce a registered electronic signature, notary seal, or single element combining the required features of an electronic signature and notary seal.\r\n\r\n\tThis act additionally provides that it shall be a class E felony for any person who is not a notary to knowingly present false information to obtain or attempt to obtain a notary public's seal from a manufacturer.\r\n\r\n\tThese provisions are identical to provisions in HCS/HB 2103 (2026).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to protections against document fraud"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1588"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Conducted S General Laws Committee",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Burger, Jamie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Burger, Jamie\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6631S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1588.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=1839578",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6631S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

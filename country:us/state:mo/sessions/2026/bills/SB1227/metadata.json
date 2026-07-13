@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1227",
+  "title": "SB 1227 - This act enacts provisions relating to criminal proceedings.\r\n\r\nDWI DIVERSION PROGRAM (Section 557.520)\r\n\tThis act creates a DWI diversion program which allows a prosecuting or circuit attorney to divert the case to a DWI diversion program if the defendant meets criteria, as described in the act. The court may continue the diverted case for a period of up to two years and order the defendant to comply with terms and conditions of the program as determined by the prosecuting or circuit attorney.  Any defendant who has a case continued pursuant to this act shall also have any proceeding relating to the suspension of his or her license continued by the Department of Revenue.\r\n\r\n\tAs part of the program requirements, the prosecuting or circuit attorney may require installation of an ignition interlock device for a period of not less than one year and require the defendant to participate in a victim impact panel. Any person required to install an ignition interlock device shall be subject to penalties as provided under current law. The court may require the defendant to pay all or part of the costs, unless the court finds the defendant indigent.\r\n\r\n\tAfter the completion of the DWI diversion program and if the defendant has complied with all the imposed terms and conditions, the court shall dismiss the criminal case against the defendant, record the dismissal, and transmit the record to the central repository. The Department of Revenue shall also dismiss any proceeding to suspend the defendant's license. If the defendant does not comply with the terms of the program, the prosecuting or circuit attorney may file a motion to terminate the defendant from the diversion program and set the case on the next available criminal docket.\r\n\r\n\tThese provisions are identical to SCS/SB 1200 (2024), and to provisions in SCS/HCS/HB 87 (2025), SB 143 (2025), SCS/HCS/HB 1659 (2024), and SCS/HCS/HB 2700 (2024), and substantially similar to SS/SCS/SB 74 (2023).\r\n\r\nMISSOURI SURVIVORS' ACT (Sections 557.600 to 557.606)\r\n\tThis act establishes the \"Missouri Survivors' Act\". \r\n\r\n\tThe act provides that a defendant may present evidence at a sentencing hearing or a parole hearing that he or she is a domestic abuse survivor, as described in the act, and that the defendant was subjected to certain abuse by the victim of the crime for which the defendant is being sentenced, or that the defendant suffers from posttraumatic stress disorder as a result of such abuse by the victim.\r\n\r\n\tThese provisions are similar to HB 989 (2025).\r\n\r\n\tThis act is identical to SCS/SBs 353 & 434 (2025).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1227 - This act enacts provisions relating to criminal proceedings.\r\n\r\nDWI DIVERSION PROGRAM (Section 557.520)\r\n\tThis act creates a DWI diversion program which allows a prosecuting or circuit attorney to divert the case to a DWI diversion program if the defendant meets criteria, as described in the act. The court may continue the diverted case for a period of up to two years and order the defendant to comply with terms and conditions of the program as determined by the prosecuting or circuit attorney.  Any defendant who has a case continued pursuant to this act shall also have any proceeding relating to the suspension of his or her license continued by the Department of Revenue.\r\n\r\n\tAs part of the program requirements, the prosecuting or circuit attorney may require installation of an ignition interlock device for a period of not less than one year and require the defendant to participate in a victim impact panel. Any person required to install an ignition interlock device shall be subject to penalties as provided under current law. The court may require the defendant to pay all or part of the costs, unless the court finds the defendant indigent.\r\n\r\n\tAfter the completion of the DWI diversion program and if the defendant has complied with all the imposed terms and conditions, the court shall dismiss the criminal case against the defendant, record the dismissal, and transmit the record to the central repository. The Department of Revenue shall also dismiss any proceeding to suspend the defendant's license. If the defendant does not comply with the terms of the program, the prosecuting or circuit attorney may file a motion to terminate the defendant from the diversion program and set the case on the next available criminal docket.\r\n\r\n\tThese provisions are identical to SCS/SB 1200 (2024), and to provisions in SCS/HCS/HB 87 (2025), SB 143 (2025), SCS/HCS/HB 1659 (2024), and SCS/HCS/HB 2700 (2024), and substantially similar to SS/SCS/SB 74 (2023).\r\n\r\nMISSOURI SURVIVORS' ACT (Sections 557.600 to 557.606)\r\n\tThis act establishes the \"Missouri Survivors' Act\". \r\n\r\n\tThe act provides that a defendant may present evidence at a sentencing hearing or a parole hearing that he or she is a domestic abuse survivor, as described in the act, and that the defendant was subjected to certain abuse by the victim of the crime for which the defendant is being sentenced, or that the defendant suffers from posttraumatic stress disorder as a result of such abuse by the victim.\r\n\r\n\tThese provisions are similar to HB 989 (2025).\r\n\r\n\tThis act is identical to SCS/SBs 353 & 434 (2025).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Enacts provisions relating to criminal proceedings"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1227"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Washington, Barbara",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Washington, Barbara\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5655S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1227.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=647",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5655S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1183",
+  "title": "SB 1183 - Under the act, a creator, as defined in the act, shall not, within 18 weeks of an election, distribute a synthetic media message that the creator knows or should have known is a deceptive and fraudulent deepfake, as defined in the act. These provisions shall not apply if the creator of the audio or visual media includes a certain disclosure statement, as described in the act.\r\n\r\n\tA candidate whose appearance, action, or speech is depicted through the use of a deceptive and fraudulent deepfake may seek injunctive or other equitable relief from the creator prohibiting the publication of such deceptive and fraudulent deepfake.\r\n\r\n\tA person in violation of provisions under the act may be subject to certain criminal and civil penalties, as described in the act.\r\n\r\n\tThe act shall not apply to certain exceptions and media as described in the act.\r\n\r\n\tThe act is similar to a provision in SCS/HCS/HBs 2628 & 2603 (2024).\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1183 - Under the act, a creator, as defined in the act, shall not, within 18 weeks of an election, distribute a synthetic media message that the creator knows or should have known is a deceptive and fraudulent deepfake, as defined in the act. These provisions shall not apply if the creator of the audio or visual media includes a certain disclosure statement, as described in the act.\r\n\r\n\tA candidate whose appearance, action, or speech is depicted through the use of a deceptive and fraudulent deepfake may seek injunctive or other equitable relief from the creator prohibiting the publication of such deceptive and fraudulent deepfake.\r\n\r\n\tA person in violation of provisions under the act may be subject to certain criminal and civil penalties, as described in the act.\r\n\r\n\tThe act shall not apply to certain exceptions and media as described in the act.\r\n\r\n\tThe act is similar to a provision in SCS/HCS/HBs 2628 & 2603 (2024).\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to synthetic media"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1183"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4705S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1183.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=336",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4705S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

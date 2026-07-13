@@ -1,0 +1,23 @@
+{
+  "identifier": "",
+  "motion_text": "Third Read and Passed (H) - AYES: 122 NOES: 31 PRESENT: 1",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-06T05:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "c85274cc-754a-11f1-b24a-b6ae219d7a94",
+  "bill_action": null,
+  "bill_identifier": "HB 2005",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB2005&year=2026&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

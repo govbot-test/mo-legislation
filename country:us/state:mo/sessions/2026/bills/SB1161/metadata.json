@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1161",
+  "title": "SB 1161 - This act modifies provisions relating to outdoor advertising.\r\n\r\n\tThe definition of \"unzoned commercial and industrial land\" is modified to include lands in the same dimensions as existing \"unzoned commercial and industrial land\" located on the opposite side of a nonfreeway primary highway, irrespective of zoning and use. This definition shall not extend to land adjacent to an interstate highway or a freeway primary highway.\r\n\r\n\tThe act also provides that the one-time $200 fee for an outdoor advertising permit shall be waived for permit holders who own both the land on which an outdoor advertisement is placed and the business being advertised on the sign, so long as the business is located within 750 feet of the sign location. This act further specifies that the $100 biennial inspection fees shall be waived for such landowners.\r\n\r\n\tThis act is identical to provisions contained in HCS/SB 1408 (2026), HB 2145 (2026), SB 291 (2025) and to provisions in SCS/HCS/HB 572 (2025), HCS/HB 272 (2025), and SB 1008 (2024), and similar to provisions in HB 2279 (2024), HB 2324 (2024), SB 379 (2023), HB 805 (2023), SB 624 (2018), HB 1459 (2018), and HB 56 (2017).\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1161 - This act modifies provisions relating to outdoor advertising.\r\n\r\n\tThe definition of \"unzoned commercial and industrial land\" is modified to include lands in the same dimensions as existing \"unzoned commercial and industrial land\" located on the opposite side of a nonfreeway primary highway, irrespective of zoning and use. This definition shall not extend to land adjacent to an interstate highway or a freeway primary highway.\r\n\r\n\tThe act also provides that the one-time $200 fee for an outdoor advertising permit shall be waived for permit holders who own both the land on which an outdoor advertisement is placed and the business being advertised on the sign, so long as the business is located within 750 feet of the sign location. This act further specifies that the $100 biennial inspection fees shall be waived for such landowners.\r\n\r\n\tThis act is identical to provisions contained in HCS/SB 1408 (2026), HB 2145 (2026), SB 291 (2025) and to provisions in SCS/HCS/HB 572 (2025), HCS/HB 272 (2025), and SB 1008 (2024), and similar to provisions in HB 2279 (2024), HB 2324 (2024), SB 379 (2023), HB 805 (2023), SB 624 (2018), HB 1459 (2018), and HB 56 (2017).\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to outdoor advertising"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1161"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Crawford, Sandy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Crawford, Sandy\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4778S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1161.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=428",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4778S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

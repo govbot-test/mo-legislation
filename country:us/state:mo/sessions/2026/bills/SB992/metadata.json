@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 992",
+  "title": "SB 992 - This act repeals provisions of law requiring the State Board of Education to develop a statewide assessment system.  Instead, school districts shall use nationally norm-referenced assessments, rather than the Missouri Assessment Program, to test students' knowledge and skills.\r\n\r\n\tThis act shall become effective only upon notification to the Revisor of Statutes by an opinion by the Attorney General of Missouri, a proclamation by the Governor of Missouri, or the adoption of a concurrent resolution by the Missouri General Assembly that the United States Department of Education has been abolished or dismantled by an act of the United States Congress.\r\n\r\n\tThis act is similar to SB 542 (2025) and HB 1123 (2025).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 992 - This act repeals provisions of law requiring the State Board of Education to develop a statewide assessment system.  Instead, school districts shall use nationally norm-referenced assessments, rather than the Missouri Assessment Program, to test students' knowledge and skills.\r\n\r\n\tThis act shall become effective only upon notification to the Revisor of Statutes by an opinion by the Attorney General of Missouri, a proclamation by the Governor of Missouri, or the adoption of a concurrent resolution by the Missouri General Assembly that the United States Department of Education has been abolished or dismantled by an act of the United States Congress.\r\n\r\n\tThis act is similar to SB 542 (2025) and HB 1123 (2025).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Repeals provisions relating to the statewide assessment system"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb992"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Henderson, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Henderson, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4437S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB992.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=312",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4437S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

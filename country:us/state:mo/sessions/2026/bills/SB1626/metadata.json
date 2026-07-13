@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1626",
+  "title": "SB 1626 - Whenever a rate payer submits a complaint to the Public Service Commission concerning any rate or charge for any product or service provided by the public utility, and the Commission has found that a violation occurred, the Commission may order that the public utility pay a reparation to the rate payer with interest, provided no discrimination will result from such reparation. The Commission shall also have the authority to impose penalties or fines on the public utility as provided in current law. In case of a continuing violation, each day a violation occurred shall be considered a separate and distinct offence.\r\n\r\n\tIf the public utility does not comply with the order from the Commission within the specified time frame as provided in the order, the Commission may commence a civil action for the enforcement of the order. If the court finds that a violation occurred, the court shall enter an order so declaring and order that the public utility comply with the order by the Commission. Other remedies are described in the act. \r\n\r\n\tAny rate payer aggrieved by excessive or discriminatory charges by a public utility may submit a complaint to the Commission within two years from the date the charges occurred. The Commission may commence a civil action within one year from the date the Commission issued the order to the public utility.\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1626 - Whenever a rate payer submits a complaint to the Public Service Commission concerning any rate or charge for any product or service provided by the public utility, and the Commission has found that a violation occurred, the Commission may order that the public utility pay a reparation to the rate payer with interest, provided no discrimination will result from such reparation. The Commission shall also have the authority to impose penalties or fines on the public utility as provided in current law. In case of a continuing violation, each day a violation occurred shall be considered a separate and distinct offence.\r\n\r\n\tIf the public utility does not comply with the order from the Commission within the specified time frame as provided in the order, the Commission may commence a civil action for the enforcement of the order. If the court finds that a violation occurred, the court shall enter an order so declaring and order that the public utility comply with the order by the Commission. Other remedies are described in the act. \r\n\r\n\tAny rate payer aggrieved by excessive or discriminatory charges by a public utility may submit a complaint to the Commission within two years from the date the charges occurred. The Commission may commence a civil action within one year from the date the Commission issued the order to the public utility.\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to excessive charges by public utilities"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1626"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Moon, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Moon, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7063S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1626.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=3537626",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7063S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

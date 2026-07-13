@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1656",
+  "title": "SB 1656 - Current law taxes retail sales of food, as defined in current law, at a rate of one percent. This act provides that retail sales of food shall be exempt from state sales taxes.\r\n\r\n\tThis act is identical to SB 688 (2025), SB 734 (2025), and SCS/SB 161 (2023), and to a provision in SB 57 (2025) and SCS/HCS/HB 154 (2023), and is substantially similar to HB 2079 (2026), HB 2253 (2026), HB 2568 (2026), SB 659 (2025), HB 345 (2025), HB 432 (2025), HB 872 (2025), HB 1587 (2025), HB 1418 (2024), HB 1464 (2024), HB 2174 (2024), HB 260 (2023), HB 452 (2023), HB 591 (2023), HB 896 (2023), HCS#2/HB 1992 (2022), HB 1817 (2022), and HB 2530 (2022), and to a provision in SS/SCS/SB 1534 (2026), SCS/SBs 1017 & 1239 (2026), HB 1029 (2025), HB 2815 (2024), HB 2887 (2024), HB 377 (2023), HCS/HBs 876, 771, 676 & 551 (2023), HB 1136 (2023), HB 1779 (2022), and HB 2249 (2022).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1656 - Current law taxes retail sales of food, as defined in current law, at a rate of one percent. This act provides that retail sales of food shall be exempt from state sales taxes.\r\n\r\n\tThis act is identical to SB 688 (2025), SB 734 (2025), and SCS/SB 161 (2023), and to a provision in SB 57 (2025) and SCS/HCS/HB 154 (2023), and is substantially similar to HB 2079 (2026), HB 2253 (2026), HB 2568 (2026), SB 659 (2025), HB 345 (2025), HB 432 (2025), HB 872 (2025), HB 1587 (2025), HB 1418 (2024), HB 1464 (2024), HB 2174 (2024), HB 260 (2023), HB 452 (2023), HB 591 (2023), HB 896 (2023), HCS#2/HB 1992 (2022), HB 1817 (2022), and HB 2530 (2022), and to a provision in SS/SCS/SB 1534 (2026), SCS/SBs 1017 & 1239 (2026), HB 1029 (2025), HB 2815 (2024), HB 2887 (2024), HB 377 (2023), HCS/HBs 876, 771, 676 & 551 (2023), HB 1136 (2023), HB 1779 (2022), and HB 2249 (2022).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Authorizes a state sales tax exemption for food"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1656"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Economic and Workforce Development Committee",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Webber, Stephen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Webber, Stephen\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5845S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1656.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=4209226",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5845S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

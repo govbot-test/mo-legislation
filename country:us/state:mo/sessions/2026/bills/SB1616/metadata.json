@@ -1,0 +1,120 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1616",
+  "title": "SB 1616 - This act creates new eligibility verification requirements for public benefits, specifically including the Supplemental Nutrition Assistance Program (SNAP) and Mo HealthNet. Specifically, only people who are United States citizens, United States Nationals, or meet the definition of an eligible alien and qualified alien under federal law are eligible for public benefits. Provisions are included dictating the manner of providing proof of identity as one of the aforementioned individuals. Failure to submit acceptable documentation establishing United States citizenship, United States national status, or alien status eligible for such public benefits within the temporary eligibility period shall result in denial or termination of public benefits. No additional period of eligibility for temporary benefits shall be granted to any applicant who has previously been denied public benefits at any time due to a failure to verify United States citizenship, United States national status, or alien status eligible for such public benefits.\r\n\r\n\tThe act additionally creates new reporting requirements for Mo HealthNet with respect to illegal aliens receiving certain medical care. Current law prohibits any alien unlawfully present in the United States from receiving any state or local public benefit, including any health benefits, with the exception of emergency medical care, prenatal care, services offering alternatives to abortion, emergency assistance, or legal assistance.\r\n\r\nWhen administering SNAP benefits, the Department of Social Services shall:\r\n\t\u2022\tConsider the entire income and financial resources of any individual rendered ineligible to receive SNAP benefits under subsection 1 of this section when determining the eligibility and benefit allotment of the household of which such individual is a member; and\r\n\t\u2022\tNotwithstanding federal law to the contrary, not prorate or exclude the income or financial resources of ineligible individuals under this act. All such income and resources shall be fully considered.\r\n\r\n\tThis act is identical to a provision in SB 1772 (2026) and substantially similar to a provision in SB 1070 (2026), HB 2468 (2026), and HCS/HB 2481 (2026).\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1616 - This act creates new eligibility verification requirements for public benefits, specifically including the Supplemental Nutrition Assistance Program (SNAP) and Mo HealthNet. Specifically, only people who are United States citizens, United States Nationals, or meet the definition of an eligible alien and qualified alien under federal law are eligible for public benefits. Provisions are included dictating the manner of providing proof of identity as one of the aforementioned individuals. Failure to submit acceptable documentation establishing United States citizenship, United States national status, or alien status eligible for such public benefits within the temporary eligibility period shall result in denial or termination of public benefits. No additional period of eligibility for temporary benefits shall be granted to any applicant who has previously been denied public benefits at any time due to a failure to verify United States citizenship, United States national status, or alien status eligible for such public benefits.\r\n\r\n\tThe act additionally creates new reporting requirements for Mo HealthNet with respect to illegal aliens receiving certain medical care. Current law prohibits any alien unlawfully present in the United States from receiving any state or local public benefit, including any health benefits, with the exception of emergency medical care, prenatal care, services offering alternatives to abortion, emergency assistance, or legal assistance.\r\n\r\nWhen administering SNAP benefits, the Department of Social Services shall:\r\n\t\u2022\tConsider the entire income and financial resources of any individual rendered ineligible to receive SNAP benefits under subsection 1 of this section when determining the eligibility and benefit allotment of the household of which such individual is a member; and\r\n\t\u2022\tNotwithstanding federal law to the contrary, not prorate or exclude the income or financial resources of ineligible individuals under this act. All such income and resources shall be fully considered.\r\n\r\n\tThis act is identical to a provision in SB 1772 (2026) and substantially similar to a provision in SB 1070 (2026), HB 2468 (2026), and HCS/HB 2481 (2026).\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates new provisions restricting the availability of public benefits to U.S. citizens"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1616"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S General Laws Committee",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S General Laws Committee",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brattin, Rick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brattin, Rick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7025S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1616.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=3237688",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7025S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

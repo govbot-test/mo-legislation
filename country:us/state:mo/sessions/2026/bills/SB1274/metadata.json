@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1274",
+  "title": "SB 1274 - This act modifies notarization requirements for applications for detention for evaluation and treatment at a mental health facility.  Under this act, no notarization shall be required for the application or any affidavits, declarations, or other supporting documents filed under certain provisions of law, including when filed in court by an adult, when a peace officer takes a person into custody for detention at the facility for a period of 96 hours, when a person presents themselves at the facility and the health care provider completes the application, or if the person executing the application is an employee acting on behalf of a hospital.\r\n\r\n\tThis act is identical to SB 436 (2025) and substantially similar to provisions in SCS/HCS/HB 1259 (2025) and HCS/SB 189 (2025).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1274 - This act modifies notarization requirements for applications for detention for evaluation and treatment at a mental health facility.  Under this act, no notarization shall be required for the application or any affidavits, declarations, or other supporting documents filed under certain provisions of law, including when filed in court by an adult, when a peace officer takes a person into custody for detention at the facility for a period of 96 hours, when a person presents themselves at the facility and the health care provider completes the application, or if the person executing the application is an employee acting on behalf of a hospital.\r\n\r\n\tThis act is identical to SB 436 (2025) and substantially similar to provisions in SCS/HCS/HB 1259 (2025) and HCS/SB 189 (2025).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to notarization requirements for certain mental health detentions"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1274"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Trent, Curtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Trent, Curtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5318S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1274.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=149",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5318S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

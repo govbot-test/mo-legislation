@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 964",
+  "title": "SB 964 - This act modifies provisions relating to certification of community paramedics and the provision of community paramedic services.  Community paramedic services shall mean those services provided by an entity that employs licensed paramedics certified by the Department of Health and Senior Services as community paramedics for services that are provided in a nonemergent setting, consistent with the education and training of a community paramedic and the supervisory standard approved by the medical director, and documented in the entity's patient care plans or protocols.\r\n\r\n\tAny ambulance service that seeks to provide community paramedic services outside of its service area shall have a memorandum of understanding (MOU) with the ambulance service of that area if that ambulance service is already providing those services or shall notify the ambulance services of that area if that ambulance service is not providing community paramedic services.  Emergency medical response agencies (EMRAs) may provide community paramedic services in a ground ambulance service's service area.  If the ground ambulance service is already providing those services, then the EMRA and ground ambulance service may enter into a MOU for the coordination of services.  If the ground ambulance service provides those services after the EMRA begins to provide them, then the ground ambulance service and EMRA shall enter into a MOU for the coordination of services.\r\n\r\n\tThe Department shall establish regulations for the purpose of recognizing community paramedic services entities that have met the standards necessary to provide such services.  The Department shall endorse such entities to provide community paramedic services for a period of 5 years.\r\n\r\n\tThis provisions is similar to a provision in SCS/HCS/HB 943 (2025) and SCS/SB 317 (2025), SB 548 (2025), SB 206 (2025), and SCS/SB 1382 (2024).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 964 - This act modifies provisions relating to certification of community paramedics and the provision of community paramedic services.  Community paramedic services shall mean those services provided by an entity that employs licensed paramedics certified by the Department of Health and Senior Services as community paramedics for services that are provided in a nonemergent setting, consistent with the education and training of a community paramedic and the supervisory standard approved by the medical director, and documented in the entity's patient care plans or protocols.\r\n\r\n\tAny ambulance service that seeks to provide community paramedic services outside of its service area shall have a memorandum of understanding (MOU) with the ambulance service of that area if that ambulance service is already providing those services or shall notify the ambulance services of that area if that ambulance service is not providing community paramedic services.  Emergency medical response agencies (EMRAs) may provide community paramedic services in a ground ambulance service's service area.  If the ground ambulance service is already providing those services, then the EMRA and ground ambulance service may enter into a MOU for the coordination of services.  If the ground ambulance service provides those services after the EMRA begins to provide them, then the ground ambulance service and EMRA shall enter into a MOU for the coordination of services.\r\n\r\n\tThe Department shall establish regulations for the purpose of recognizing community paramedic services entities that have met the standards necessary to provide such services.  The Department shall endorse such entities to provide community paramedic services for a period of 5 years.\r\n\r\n\tThis provisions is similar to a provision in SCS/HCS/HB 943 (2025) and SCS/SB 317 (2025), SB 548 (2025), SB 206 (2025), and SCS/SB 1382 (2024).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to community paramedics"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb964"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Washington, Barbara",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Washington, Barbara\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4283S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB964.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=637",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4283S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

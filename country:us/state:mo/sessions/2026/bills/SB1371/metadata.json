@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1371",
+  "title": "SB 1371 - This act modifies the definition of \"joint legal custody\" as used in child custody determinations to remove references to allocating, apportioning, or decreeing a division of joint decision-making, responsibilities, and authority between the parents.  This act also modifies the definition of \"joint physical custody\" to change the amount of time with the child awarded to each parent from \"significant, but not necessarily equal\" to \"equal or substantially equal\".\r\n\r\n\tIn current law, there is a rebuttable presumption that an award of \"equal or approximately equal\" parenting time to each parent is in the best interests of the child.  This act changes \"approximately\" to \"substantially\".\r\n\r\n\tThis act modifies the factors a court shall consider when awarding custody to parents, including the willingness and ability of parents to cooperate in the rearing of their child; any substance abuse history experienced by either parent; the history of domestic and child abuse of any individuals involved; the distance between the residences of the parents; and the unobstructed input of the child as to the child's custodial arrangement.\r\n\r\n\tThis act is identical to SB 638 (2025) and similar to SB 805 (2025), SCS/SBs 744 & 1026 (2024), provisions in the perfected SS/SCS/SBs 767 & 1342 (2024), HCS/SS#2/SB 862 (2024), and provisions of the perfected SS/SCS/SB 129 (2023).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1371 - This act modifies the definition of \"joint legal custody\" as used in child custody determinations to remove references to allocating, apportioning, or decreeing a division of joint decision-making, responsibilities, and authority between the parents.  This act also modifies the definition of \"joint physical custody\" to change the amount of time with the child awarded to each parent from \"significant, but not necessarily equal\" to \"equal or substantially equal\".\r\n\r\n\tIn current law, there is a rebuttable presumption that an award of \"equal or approximately equal\" parenting time to each parent is in the best interests of the child.  This act changes \"approximately\" to \"substantially\".\r\n\r\n\tThis act modifies the factors a court shall consider when awarding custody to parents, including the willingness and ability of parents to cooperate in the rearing of their child; any substance abuse history experienced by either parent; the history of domestic and child abuse of any individuals involved; the distance between the residences of the parents; and the unobstructed input of the child as to the child's custodial arrangement.\r\n\r\n\tThis act is identical to SB 638 (2025) and similar to SB 805 (2025), SCS/SBs 744 & 1026 (2024), provisions in the perfected SS/SCS/SBs 767 & 1342 (2024), HCS/SS#2/SB 862 (2024), and provisions of the perfected SS/SCS/SB 129 (2023).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to child custody arrangements"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1371"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brattin, Rick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brattin, Rick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5153S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1371.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=510",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5153S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

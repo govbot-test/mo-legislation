@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SJR 100",
+  "title": "SJR 100 - This constitutional amendment, if adopted by the voters, prohibits the passage or implementation of any law, order, ordinance, regulation, or public policy of the state or any political subdivision of the state, including schools and institutions of higher education that receive public funds, that infringes upon the unquestionable right of individuals to refuse any medical procedure or treatment, including, but not limited to, injections, vaccines, or prophylactics.  Equality of rights under the law shall not be denied or abridged to any person in this state because of the exercise of this right.  Nothing in this amendment shall be interpreted to infringe upon a parent's right to exercise control over their minor, unemancipated child's physical and mental care.\r\n\r\n\tThis constitutional amendment is identical to SJR 37 (2025), SJR 63 (2024), SJR 20 (2023), and SJR 47 (2022) and substantially similar to SJR 50 (2022).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SJR 100 - This constitutional amendment, if adopted by the voters, prohibits the passage or implementation of any law, order, ordinance, regulation, or public policy of the state or any political subdivision of the state, including schools and institutions of higher education that receive public funds, that infringes upon the unquestionable right of individuals to refuse any medical procedure or treatment, including, but not limited to, injections, vaccines, or prophylactics.  Equality of rights under the law shall not be denied or abridged to any person in this state because of the exercise of this right.  Nothing in this amendment shall be interpreted to infringe upon a parent's right to exercise control over their minor, unemancipated child's physical and mental care.\r\n\r\n\tThis constitutional amendment is identical to SJR 37 (2025), SJR 63 (2024), SJR 20 (2023), and SJR 47 (2022) and substantially similar to SJR 50 (2022).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Prohibits laws or public policies from infringing on the right of individuals to refuse medical procedures or treatments"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sjr100"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Moon, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Moon, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5667S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR100.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=399",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5667S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

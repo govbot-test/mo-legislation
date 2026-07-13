@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1461",
+  "title": "SB 1461 - For all tax years beginning on or after January 1, 2027, this act authorizes a tax credit in the amount of fifty percent of an eligible taxpayer's qualified railroad expenditures and qualified new rail infrastructure expenditures. \"Qualified railroad expenditures\" are defined as gross expenditures for maintenance, reconstruction, or replacement of railroad infrastructure, as described in the act. \"Qualified new rail infrastructure expenditures\" are defined as gross expenditures for new rail infrastructure, as described in the act.\r\n\r\n\tA tax credit for qualified railroad expenditures shall not exceed $5,000 multiplied by the number of miles of railroad track owned or leased in the state by a railroad, and the total amount of tax credits for qualified railroad expenditures authorized in a calendar year shall not exceed $4.5 million. A tax credit for qualified new rail infrastructure expenditures shall not exceed $1 million for each new rail-served customer project, and the total amount of tax credits for qualified new rail infrastructure expenditures authorized in a calendar year shall not exceed $5 million.\r\n\r\n\tAn eligible taxpayer shall submit a certificate of eligibility to the Department of Economic Development after the completion of the qualified railroad expenditures or qualified new rail infrastructure expenditures.\r\n\r\n\tTax credits authorized by the act shall not be refundable, but may be carried forward for five subsequent tax years. Tax credits may be transferred as described in the act.\r\n\r\n\tThis act shall sunset on December 31, 2032, unless reauthorized by the General Assembly. (Section 135.1210)\r\n\r\n\tThis provision is identical to SCS/SB 462 (2025), HB 2716 (2026), and HB 2941 (2026), and to a provision in SB 913 (2026), SCS/SB 864 (2026), and HCS/HB 2713 (2026), and is substantially similar to HCS/HB 669 (2025), SS/SCS/SB 876 (2024), HB 1824 (2024), SB 385 (2023), and HCS/HB 657 (2023), and to a provision in HCS/SS/SCS/SB 466 (2025), HCS/HB 1935 (2024), and HCS/HB 939 (2023).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1461 - For all tax years beginning on or after January 1, 2027, this act authorizes a tax credit in the amount of fifty percent of an eligible taxpayer's qualified railroad expenditures and qualified new rail infrastructure expenditures. \"Qualified railroad expenditures\" are defined as gross expenditures for maintenance, reconstruction, or replacement of railroad infrastructure, as described in the act. \"Qualified new rail infrastructure expenditures\" are defined as gross expenditures for new rail infrastructure, as described in the act.\r\n\r\n\tA tax credit for qualified railroad expenditures shall not exceed $5,000 multiplied by the number of miles of railroad track owned or leased in the state by a railroad, and the total amount of tax credits for qualified railroad expenditures authorized in a calendar year shall not exceed $4.5 million. A tax credit for qualified new rail infrastructure expenditures shall not exceed $1 million for each new rail-served customer project, and the total amount of tax credits for qualified new rail infrastructure expenditures authorized in a calendar year shall not exceed $5 million.\r\n\r\n\tAn eligible taxpayer shall submit a certificate of eligibility to the Department of Economic Development after the completion of the qualified railroad expenditures or qualified new rail infrastructure expenditures.\r\n\r\n\tTax credits authorized by the act shall not be refundable, but may be carried forward for five subsequent tax years. Tax credits may be transferred as described in the act.\r\n\r\n\tThis act shall sunset on December 31, 2032, unless reauthorized by the General Assembly. (Section 135.1210)\r\n\r\n\tThis provision is identical to SCS/SB 462 (2025), HB 2716 (2026), and HB 2941 (2026), and to a provision in SB 913 (2026), SCS/SB 864 (2026), and HCS/HB 2713 (2026), and is substantially similar to HCS/HB 669 (2025), SS/SCS/SB 876 (2024), HB 1824 (2024), SB 385 (2023), and HCS/HB 657 (2023), and to a provision in HCS/SS/SCS/SB 466 (2025), HCS/HB 1935 (2024), and HCS/HB 939 (2023).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Authorizes a tax credit for certain railroad infrastructure investments"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1461"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Economic and Workforce Development Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gregory (21), Kurtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Gregory (21), Kurtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6292S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1461.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=33659",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6292S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

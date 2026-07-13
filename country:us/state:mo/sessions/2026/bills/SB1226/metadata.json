@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1226",
+  "title": "SB 1226 - This act provides that an offender shall be eligible to receive a parole hearing after serving 30 years or more of his or her sentence if such offender:\r\n\t\u2022\tIs incarcerated in a correctional facility after being sentenced by a court;\r\n\t\u2022\tIs serving a sentence of life without parole for the offense of first or second degree murder prior to October 1, 1984;\r\n\t\u2022\tIs 60 years of age or older;\r\n\t\u2022\tHas no felony convictions prior to the conviction for which he or she is currently incarcerated; and \r\n\t\u2022\tIs not a convicted sex offender.\r\n\r\n\tDuring the parole hearing, the Parole Board (\"Board\") shall determine if there is a reasonable probability the offender will not violate the law upon release. If the Board determines a reasonable probability exists, the offender shall be eligible for release upon a finding that the offender has a record of good conduct while incarcerated, demonstrated self-rehabilitation, developed a workable parole plane, and has a risk factor and mental health score determined appropriate by the Board.\r\n\r\n\tAny offender released under this act shall be subject to a minimum of five years of supervision by the Board.\r\n\r\n\tThis act is identical to SB 1681 (2026), SB 234 (2025), SB 341 (2025), SB 914 (2024), SB 1147 (2024), SB 147 (2023), and SB 714 (2022) and is similar to SB 1335 (2026), SB 438 (2025), SB 1218 (2024), SB 581 (2023), SB 995 (2022), HB 2134 (2022), HB 277 (2021), and HB 1078 (2019).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1226 - This act provides that an offender shall be eligible to receive a parole hearing after serving 30 years or more of his or her sentence if such offender:\r\n\t\u2022\tIs incarcerated in a correctional facility after being sentenced by a court;\r\n\t\u2022\tIs serving a sentence of life without parole for the offense of first or second degree murder prior to October 1, 1984;\r\n\t\u2022\tIs 60 years of age or older;\r\n\t\u2022\tHas no felony convictions prior to the conviction for which he or she is currently incarcerated; and \r\n\t\u2022\tIs not a convicted sex offender.\r\n\r\n\tDuring the parole hearing, the Parole Board (\"Board\") shall determine if there is a reasonable probability the offender will not violate the law upon release. If the Board determines a reasonable probability exists, the offender shall be eligible for release upon a finding that the offender has a record of good conduct while incarcerated, demonstrated self-rehabilitation, developed a workable parole plane, and has a risk factor and mental health score determined appropriate by the Board.\r\n\r\n\tAny offender released under this act shall be subject to a minimum of five years of supervision by the Board.\r\n\r\n\tThis act is identical to SB 1681 (2026), SB 234 (2025), SB 341 (2025), SB 914 (2024), SB 1147 (2024), SB 147 (2023), and SB 714 (2022) and is similar to SB 1335 (2026), SB 438 (2025), SB 1218 (2024), SB 581 (2023), SB 995 (2022), HB 2134 (2022), HB 277 (2021), and HB 1078 (2019).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to parole eligibility"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1226"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roberts, Steven",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Roberts, Steven\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5074S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1226.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=199",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5074S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1334",
+  "title": "SB 1334 - This act establishes the \"Vulnerable Child Compassion and Protection Act\", which prohibits any school official at a public school or charter school from encouraging a student under the age of eighteen years old to adopt a gender identity or sexual relationship, as such terms are defined in the act.  This prohibition shall not apply to certain course components of a school's curriculum. \r\n\r\n\tThe act also establishes provisions prohibiting school officials from withholding information regarding a student's gender identity from his or her parents.  A school official shall inform a student's parents within forty-eight hours if the student expresses confusion about his or her gender identity.  A school official shall obtain parental consent before addressing a student using a name other than the name provided during enrollment.  Finally, a school official shall obtain parental consent before using a pronoun that differs from a student's biological sex as stated on his or her birth certificate or other government record, as provided in the act. \r\n\r\n\tNo public school or charter school shall require a school official to address someone using a pronoun that does not match the person's biological sex if doing so would be contrary to the school official's religious or moral convictions.\r\n\r\n\tA school district or charter school shall determine a reasonable and fair penalty for any school official who knowingly violates any provision of this act.\r\n\r\n\tThis act is identical to SB 117 (2025), substantially similar to SB 868 (2024), and similar to SCS/SB 134 (2023) and provisions in SCS/SB 728 (2024) and HB 1739 (2024).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1334 - This act establishes the \"Vulnerable Child Compassion and Protection Act\", which prohibits any school official at a public school or charter school from encouraging a student under the age of eighteen years old to adopt a gender identity or sexual relationship, as such terms are defined in the act.  This prohibition shall not apply to certain course components of a school's curriculum. \r\n\r\n\tThe act also establishes provisions prohibiting school officials from withholding information regarding a student's gender identity from his or her parents.  A school official shall inform a student's parents within forty-eight hours if the student expresses confusion about his or her gender identity.  A school official shall obtain parental consent before addressing a student using a name other than the name provided during enrollment.  Finally, a school official shall obtain parental consent before using a pronoun that differs from a student's biological sex as stated on his or her birth certificate or other government record, as provided in the act. \r\n\r\n\tNo public school or charter school shall require a school official to address someone using a pronoun that does not match the person's biological sex if doing so would be contrary to the school official's religious or moral convictions.\r\n\r\n\tA school district or charter school shall determine a reasonable and fair penalty for any school official who knowingly violates any provision of this act.\r\n\r\n\tThis act is identical to SB 117 (2025), substantially similar to SB 868 (2024), and similar to SCS/SB 134 (2023) and provisions in SCS/SB 728 (2024) and HB 1739 (2024).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the Vulnerable Child Compassion and Protection Act prohibiting discussion of certain topics by school personnel"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1334"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Moon, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Moon, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5124S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1334.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=395",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5124S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:24Z"
+  }
+}

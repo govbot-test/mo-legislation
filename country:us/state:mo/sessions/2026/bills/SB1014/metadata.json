@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1014",
+  "title": "SB 1014 - Beginning in the 2027-28 school year and continuing in subsequent school years, this act modifies the \"Jason Flatt/Avery Reine Cantor Act\" by adding a requirement for school districts to provide at least two hours of suicide prevention training to all licensed educators.  For the 2028-29 school year and all subsequent school years, such training shall include risk and protective factors, warning signs, response procedures, and postvention support, as the term \"postvention\" is defined in the act.  The Department of Elementary and Secondary Education (DESE) shall include such information in its guidelines for training or professional development in youth suicide awareness and prevention.\r\n\r\n\tThe act repeals provisions requiring public schools and charter schools to print certain contact information on identification cards for pupils in grades 7-12.  By July 1, 2027, pupil identification cards shall include only the three-digit dialing code for the Suicide and Crisis Lifeline, 988.  Any unissued cards that include additional contact information shall continue to be issued until the supply of cards is depleted.\r\n\r\n\tFor the 2028-29 school year and all subsequent school years, each school district shall update its policy on youth suicide awareness and prevention training for school district employees to include risk and protective factors, warning signs, response procedures, and postvention support.  The corresponding model policy currently developed by DESE shall be updated accordingly. \r\n\r\n\tFinally, beginning in the 2027-28 school year and in each subsequent school year, the act requires each pupil in a public school to receive mental health awareness training at any time in grades 5-8.  Such instruction shall be included in the school district's existing health or physical education curriculum and shall be based on a program established by DESE. \r\n\r\n\tThis act is similar to SB 695 (2025) and provisions in HB 244 (2025) and HCS/HB 2471 (2024).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1014 - Beginning in the 2027-28 school year and continuing in subsequent school years, this act modifies the \"Jason Flatt/Avery Reine Cantor Act\" by adding a requirement for school districts to provide at least two hours of suicide prevention training to all licensed educators.  For the 2028-29 school year and all subsequent school years, such training shall include risk and protective factors, warning signs, response procedures, and postvention support, as the term \"postvention\" is defined in the act.  The Department of Elementary and Secondary Education (DESE) shall include such information in its guidelines for training or professional development in youth suicide awareness and prevention.\r\n\r\n\tThe act repeals provisions requiring public schools and charter schools to print certain contact information on identification cards for pupils in grades 7-12.  By July 1, 2027, pupil identification cards shall include only the three-digit dialing code for the Suicide and Crisis Lifeline, 988.  Any unissued cards that include additional contact information shall continue to be issued until the supply of cards is depleted.\r\n\r\n\tFor the 2028-29 school year and all subsequent school years, each school district shall update its policy on youth suicide awareness and prevention training for school district employees to include risk and protective factors, warning signs, response procedures, and postvention support.  The corresponding model policy currently developed by DESE shall be updated accordingly. \r\n\r\n\tFinally, beginning in the 2027-28 school year and in each subsequent school year, the act requires each pupil in a public school to receive mental health awareness training at any time in grades 5-8.  Such instruction shall be included in the school district's existing health or physical education curriculum and shall be based on a program established by DESE. \r\n\r\n\tThis act is similar to SB 695 (2025) and provisions in HB 244 (2025) and HCS/HB 2471 (2024).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies the \"Jason Flatt/Avery Reine Cantor Act\" and repeals and modifies provisions relating to mental health efforts in public schools"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1014"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nurrenbern, Maggie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nurrenbern, Maggie\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3854S.03I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1014.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=523",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3854S.03I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

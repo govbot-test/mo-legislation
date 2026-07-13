@@ -1,0 +1,120 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1608",
+  "title": "SB 1608 - For all tax years beginning on or after January 1, 2026, this act authorizes a taxpayer to claim a tax credit in an amount equal to 100% of contributions made to eligible entities. Eligible entities are defined as non-for-profit organizations that operate a youth police initiative in an urban area in this state. Youth police initiatives are defined as programs conducted by eligible entities for the purpose of engaging at-risk youth and local police officers in activities and conversation to build trust and break down stereotypes between youth and police.\r\n\r\n\tTax credits authorized by the act shall not be refundable, but may be carried forward for five tax years and may be transferred, sold, or assigned. The total amount of tax credits that may be authorized in a tax year shall not exceed $500,000.\r\n\r\n\tThe Department of Public Safety shall maintain a list of all eligible entities, and shall update such list at least annually. A taxpayer shall submit evidence of contributions to the Department.\r\n\r\n\tThis act shall sunset on August 28, 2032, unless reauthorized by the General Assembly.\r\n\r\n\tThis act is identical to SB 845 (2026) and is substantially similar to HCS#2/HBs 1882 & 3097 (2026).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1608 - For all tax years beginning on or after January 1, 2026, this act authorizes a taxpayer to claim a tax credit in an amount equal to 100% of contributions made to eligible entities. Eligible entities are defined as non-for-profit organizations that operate a youth police initiative in an urban area in this state. Youth police initiatives are defined as programs conducted by eligible entities for the purpose of engaging at-risk youth and local police officers in activities and conversation to build trust and break down stereotypes between youth and police.\r\n\r\n\tTax credits authorized by the act shall not be refundable, but may be carried forward for five tax years and may be transferred, sold, or assigned. The total amount of tax credits that may be authorized in a tax year shall not exceed $500,000.\r\n\r\n\tThe Department of Public Safety shall maintain a list of all eligible entities, and shall update such list at least annually. A taxpayer shall submit evidence of contributions to the Department.\r\n\r\n\tThis act shall sunset on August 28, 2032, unless reauthorized by the General Assembly.\r\n\r\n\tThis act is identical to SB 845 (2026) and is substantially similar to HCS#2/HBs 1882 & 3097 (2026).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Authorizes a tax credit for contributions to certain youth police initiatives"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1608"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S Economic and Workforce Development Committee",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Economic and Workforce Development Committee",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Economic and Workforce Development Committee",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Washington, Barbara",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Washington, Barbara\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6612S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1608.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=2589609",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6612S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

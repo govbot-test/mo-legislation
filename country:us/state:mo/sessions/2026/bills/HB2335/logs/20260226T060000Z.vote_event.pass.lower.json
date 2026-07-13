@@ -1,0 +1,23 @@
+{
+  "identifier": "",
+  "motion_text": "Reported Do Pass (H) - AYES: 12 NOES: 0 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-26T06:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "860d9bc2-754b-11f1-b24a-b6ae219d7a94",
+  "bill_action": null,
+  "bill_identifier": "HB 2335",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB2335&year=2026&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

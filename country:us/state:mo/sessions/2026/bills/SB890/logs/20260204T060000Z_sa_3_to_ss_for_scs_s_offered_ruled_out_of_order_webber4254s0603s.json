@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "SA 3 to SS for SCS S offered & ruled out of order (Webber)--(4254S06.03S)",
+    "occurred_at": "2026-02-04T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=597",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 890"
+}

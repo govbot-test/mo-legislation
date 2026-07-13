@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1298",
+  "title": "SB 1298 - This act repeals provisions of law relating to the human immunodeficiency virus (HIV), including, but not limited to, provisions relating to:\r\n\r\n\t\u00b7 Payment by the Department of Health and Senior Services for the costs of HIV testing for certain victims of crime (changed under this act to testing for sexually transmitted infections or diseases and limited to two rounds of testing);\r\n\r\n\t\u00b7 Those authorized to conduct HIV testing and disclosure of information relating to HIV testing and individual test results;\r\n\r\n\t\u00b7 HIV testing of prisoners by the Department of Corrections, HIV testing of persons participating in certain drug treatment programs by the Department of Mental Health or individuals in the Department's custody, and conducting HIV testing without the individual's right to refuse testing;\r\n\r\n\t\u00b7 Insurance coverage of persons who test positive for HIV or HIV-related conditions;\r\n\r\n\t\u00b7 Nuisance laws relating to persons who build, maintain, use, own, or lease any building or other place used for lewdness, assignation, or illegal purpose involving sexual or other contact through which HIV transmission can occur;\r\n\r\n\t\u00b7 Notice given by the Department of Health and Senior Services to schools on the identity of any child reported to have HIV or parents or guardians confirmed to have HIV;\r\n\r\n\t\u00b7 Rule promulgation authority for mandatory premarital HIV testing;\r\n\r\n\t\u00b7 Definitions of psychologically impacted real property; and\r\n\r\n\t\u00b7 Enhanced penalties for the offense of prostitution for persons knowing in advance that they were infected with HIV.\r\n\r\n\tAdditionally, this act modifies a provision of law that requires certain persons to undergo HIV testing prior to incarceration without the right to refuse. Under this act, such persons shall instead be screened for sexually transmitted diseases prior to incarceration, with the costs for juveniles tested to be paid for by the county in which the offense occurred.\r\n\r\n\tThis act modifies several provisions of law relating to infection control procedures by replacing HIV or HBV (hepatitis B virus) with \"serious infectious or communicable diseases\".\r\n\r\n\tFinally, this act modifies the practice of pharmacy to include the dispensing of HIV pre-exposure prophylaxis.\r\n\r\n\tThis act is identical to SB 609 (2025).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1298 - This act repeals provisions of law relating to the human immunodeficiency virus (HIV), including, but not limited to, provisions relating to:\r\n\r\n\t\u00b7 Payment by the Department of Health and Senior Services for the costs of HIV testing for certain victims of crime (changed under this act to testing for sexually transmitted infections or diseases and limited to two rounds of testing);\r\n\r\n\t\u00b7 Those authorized to conduct HIV testing and disclosure of information relating to HIV testing and individual test results;\r\n\r\n\t\u00b7 HIV testing of prisoners by the Department of Corrections, HIV testing of persons participating in certain drug treatment programs by the Department of Mental Health or individuals in the Department's custody, and conducting HIV testing without the individual's right to refuse testing;\r\n\r\n\t\u00b7 Insurance coverage of persons who test positive for HIV or HIV-related conditions;\r\n\r\n\t\u00b7 Nuisance laws relating to persons who build, maintain, use, own, or lease any building or other place used for lewdness, assignation, or illegal purpose involving sexual or other contact through which HIV transmission can occur;\r\n\r\n\t\u00b7 Notice given by the Department of Health and Senior Services to schools on the identity of any child reported to have HIV or parents or guardians confirmed to have HIV;\r\n\r\n\t\u00b7 Rule promulgation authority for mandatory premarital HIV testing;\r\n\r\n\t\u00b7 Definitions of psychologically impacted real property; and\r\n\r\n\t\u00b7 Enhanced penalties for the offense of prostitution for persons knowing in advance that they were infected with HIV.\r\n\r\n\tAdditionally, this act modifies a provision of law that requires certain persons to undergo HIV testing prior to incarceration without the right to refuse. Under this act, such persons shall instead be screened for sexually transmitted diseases prior to incarceration, with the costs for juveniles tested to be paid for by the county in which the offense occurred.\r\n\r\n\tThis act modifies several provisions of law relating to infection control procedures by replacing HIV or HBV (hepatitis B virus) with \"serious infectious or communicable diseases\".\r\n\r\n\tFinally, this act modifies the practice of pharmacy to include the dispensing of HIV pre-exposure prophylaxis.\r\n\r\n\tThis act is identical to SB 609 (2025).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to the human immunodeficiency virus"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1298"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lewis, Patty",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Lewis, Patty\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4587S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1298.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=579",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4587S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

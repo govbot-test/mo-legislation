@@ -1,0 +1,310 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 838",
+  "title": "SS/SCS/SB 838 - The act creates and modifies certain provisions relating to electric utilities.\r\n\r\nUTILITY COLOCATION (Section 227.241)\r\n\tThe State Highways and Transportation Commission and the Missouri Department of Transportation shall allow the installation, operation, and maintenance of electric transmission facilities within highway rights of way. The Commission and Department shall develop uniform criteria for colocation of transmission facilities within highway rights of ways. The duty of the Commission and Department shall include providing reasonable time lines and procedures for review and approval of colocation requests, ensuring safety of the public and infrastructure, avoiding duplication of corridors, and imposing reasonable conditions that shall not interfere with colocation.\r\n\r\n\tThis provision is identical to SB 1711 (2026) and HB 3456 (2026).\r\n\r\nENERGY PRODUCTION (Section 260.035)\r\n\tThe act removes nuclear energy from the type of energy the State Environmental Improvement and Energy Resources Authority may not purchase.\r\n\r\n\tThis provision is identical to a provision in HCS/HB 2807 (2026) and similar to a provision in HB 2657 (2026).\r\n\r\nRENEWABLE ENERGY STANDARD (Sections 393.1025 and 393.1030)\r\n\tThe act provides each kilowatt-hour of renewable energy generated and stored using an eligible battery energy storage system, as defined in the act, located in the state that becomes operational after December 31, 2026, shall count as an additional 0.25 kilowatt-hours, for a total of 1.50 kilowatt-hours for purposes of compliance.\r\n\r\n\tThe act repeals a provision relating to the renewable energy portfolio requirements applying to certain electric utilities.\r\n\r\n\tThe act modifies the definition of an \"accelerated renewable buyer\".\r\n\r\n\tAn electrical corporation shall not demand any charge for service based on the costs of construction work in progress for any nuclear power generating facility.\r\n\r\nSURCHARGES FOR NUCLEAR ENERGY (Section 393.1905)\r\n\tNo nuclear energy related cost may be recovered through any surcharge or any rate making mechanism outside a general rate proceeding.\r\n\r\nZERO EMISSION (Section 393.1910)\r\n\tThe Public Service Commission may authorize an electric utility to offer or participate in a zero emission credit program or tariff. A zero emission credit may exist for up to three years from the date of its creation, may only be used once, and may not be used to satisfy any similar non-federal requirement if one exists.\r\n\r\n\tThe Commission shall not increase the allowed return on equity for an electric utility solely because that utility is constructing a zero emission facility.\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SS/SCS/SB 838 - The act creates and modifies certain provisions relating to electric utilities.\r\n\r\nUTILITY COLOCATION (Section 227.241)\r\n\tThe State Highways and Transportation Commission and the Missouri Department of Transportation shall allow the installation, operation, and maintenance of electric transmission facilities within highway rights of way. The Commission and Department shall develop uniform criteria for colocation of transmission facilities within highway rights of ways. The duty of the Commission and Department shall include providing reasonable time lines and procedures for review and approval of colocation requests, ensuring safety of the public and infrastructure, avoiding duplication of corridors, and imposing reasonable conditions that shall not interfere with colocation.\r\n\r\n\tThis provision is identical to SB 1711 (2026) and HB 3456 (2026).\r\n\r\nENERGY PRODUCTION (Section 260.035)\r\n\tThe act removes nuclear energy from the type of energy the State Environmental Improvement and Energy Resources Authority may not purchase.\r\n\r\n\tThis provision is identical to a provision in HCS/HB 2807 (2026) and similar to a provision in HB 2657 (2026).\r\n\r\nRENEWABLE ENERGY STANDARD (Sections 393.1025 and 393.1030)\r\n\tThe act provides each kilowatt-hour of renewable energy generated and stored using an eligible battery energy storage system, as defined in the act, located in the state that becomes operational after December 31, 2026, shall count as an additional 0.25 kilowatt-hours, for a total of 1.50 kilowatt-hours for purposes of compliance.\r\n\r\n\tThe act repeals a provision relating to the renewable energy portfolio requirements applying to certain electric utilities.\r\n\r\n\tThe act modifies the definition of an \"accelerated renewable buyer\".\r\n\r\n\tAn electrical corporation shall not demand any charge for service based on the costs of construction work in progress for any nuclear power generating facility.\r\n\r\nSURCHARGES FOR NUCLEAR ENERGY (Section 393.1905)\r\n\tNo nuclear energy related cost may be recovered through any surcharge or any rate making mechanism outside a general rate proceeding.\r\n\r\nZERO EMISSION (Section 393.1910)\r\n\tThe Public Service Commission may authorize an electric utility to offer or participate in a zero emission credit program or tariff. A zero emission credit may exist for up to three years from the date of its creation, may only be used once, and may not be used to satisfy any similar non-federal requirement if one exists.\r\n\r\n\tThe Commission shall not increase the allowed return on equity for an electric utility solely because that utility is constructing a zero emission facility.\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies certain provisions relating to the means of energy production"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb838"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Informal Calendar S Bills for Third Reading",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-04-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Perfected",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "SS for SCS, as amended, S adopted",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "SA 3 to SS for SCS S offered & adopted (Nicola)--(4751S05.01S)",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "SA 2 to SS for SCS S offered & adopted (McCreery)--(4751S05.03S)",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "SA 1 to SS for SCS S offered & adopted (McCreery)--(4751S05.02S)",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "SS for SCS S offered (Cierpiot)--(4751S.05F)",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-03-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Reported from S Commerce, Consumer Protection, Energy & the Environment Committee w/SCS",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass S Commerce, Consumer Protection, Energy & the Environment Committee (4751S.03C)",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Cierpiot, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Cierpiot, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4751S.05P - Perfected",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB838.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4751S.03C - Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB838.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4751S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB838.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4/8/2026 - SS for SCS S offered (Cierpiot)--(4751S.05F)\r\n                    \r\n                        4/8/2026 - Adopted, as amended",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=385",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4/8/2026 - SA 1 to SS for SCS S offered & adopted (McCreery)--(4751S05.02S)\r\n                    \r\n                        4/8/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=388",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4/8/2026 - SA 2 to SS for SCS S offered & adopted (McCreery)--(4751S05.03S)\r\n                    \r\n                        4/8/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=389",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4/8/2026 - SA 3 to SS for SCS S offered & adopted (Nicola)--(4751S05.01S)\r\n                    \r\n                        4/8/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=392",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=274",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4751S.05P"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

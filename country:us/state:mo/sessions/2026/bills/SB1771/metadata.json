@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1771",
+  "title": "SB 1771 - This act creates provisions relating to the dissolution or disincorporation of special road districts. \r\n\r\n\tAs an alternative to the dissolution special road districts provided in current law, special road districts may be dissolved by petition of the board of commissioners, or other governing authority of such district, to the superior court of the county in which the board of commissioners is situated. The superior court shall enter an order setting the same for hearing and the petitioner shall give notice of such hearing. Such notice is described in the act. After the hearing, the court shall enter its order dissolving or refusing to dissolve said district. If the court finds that the district is solvent, the court shall order the sale of such assets in the manner provided by law for the sale of property on execution. If the court finds that the district is insolvent, the court shall determine the indebtedness of the district, the creditors thereof, and their claims. The court shall also set a date and place for a second hearing to order the sale of any district property to satisfy the debts of the district and order the dissolution or refusal to dissolve the district.\r\n\r\n\tSpecial road districts located in Cass County may be disincorporated when the district has not actively carried out any of the special purposes or functions for which it was formed within the preceding consecutive five-year period upon a resolution of any governmental unit calling for the disincorporation with the county commission. \r\n\r\n\tThe county commission shall hold public hearings to determine whether or not any services have been provided within a consecutive five year period and whether the best interests of all persons concerned will be served by the proposed dissolution or disincorporation of the special road district. \r\n\t\r\n\tIf the county commission finds that the special road district be dissolved, it shall order that such action be taken, specify the manner in which it is to be accomplished and supervise the liquidation of any assets and the satisfaction of any outstanding indebtedness. Any proceeds of the sale of assets, together with money on hand in the treasury of the special district, shall after payment of all costs and expenses and all outstanding indebtedness be paid to the county treasurer to be placed to the credit of the school district, or districts, in which such special road district is situated. If the proceeds of the sale, together with money on hand in the treasury of the special road district, are insufficient to retire any outstanding indebtedness, the county authority shall levy assessments in the manner provided by law against the property in the special road district in amounts sufficient to retire the indebtedness and pay the costs and expenses. \r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1771 - This act creates provisions relating to the dissolution or disincorporation of special road districts. \r\n\r\n\tAs an alternative to the dissolution special road districts provided in current law, special road districts may be dissolved by petition of the board of commissioners, or other governing authority of such district, to the superior court of the county in which the board of commissioners is situated. The superior court shall enter an order setting the same for hearing and the petitioner shall give notice of such hearing. Such notice is described in the act. After the hearing, the court shall enter its order dissolving or refusing to dissolve said district. If the court finds that the district is solvent, the court shall order the sale of such assets in the manner provided by law for the sale of property on execution. If the court finds that the district is insolvent, the court shall determine the indebtedness of the district, the creditors thereof, and their claims. The court shall also set a date and place for a second hearing to order the sale of any district property to satisfy the debts of the district and order the dissolution or refusal to dissolve the district.\r\n\r\n\tSpecial road districts located in Cass County may be disincorporated when the district has not actively carried out any of the special purposes or functions for which it was formed within the preceding consecutive five-year period upon a resolution of any governmental unit calling for the disincorporation with the county commission. \r\n\r\n\tThe county commission shall hold public hearings to determine whether or not any services have been provided within a consecutive five year period and whether the best interests of all persons concerned will be served by the proposed dissolution or disincorporation of the special road district. \r\n\t\r\n\tIf the county commission finds that the special road district be dissolved, it shall order that such action be taken, specify the manner in which it is to be accomplished and supervise the liquidation of any assets and the satisfaction of any outstanding indebtedness. Any proceeds of the sale of assets, together with money on hand in the treasury of the special district, shall after payment of all costs and expenses and all outstanding indebtedness be paid to the county treasurer to be placed to the credit of the school district, or districts, in which such special road district is situated. If the proceeds of the sale, together with money on hand in the treasury of the special road district, are insufficient to retire any outstanding indebtedness, the county authority shall levy assessments in the manner provided by law against the property in the special road district in amounts sufficient to retire the indebtedness and pay the costs and expenses. \r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions related to dissolution or disincorporation of special road districts"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1771"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brattin, Rick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brattin, Rick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7197S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1771.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6616213",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7197S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1779",
+  "title": "SB 1779 - Current law provides that retired members of the Public School Retirement System (\"PSRS\") and the Public Education Employee Retirement System (\"PEERS\") may receive yearly cost of living adjustments on monthly retirement allowances, but the total of the increases granted to a retired member or the beneficiary may not exceed 80% of a member's retirement allowance established at retirement or as previously adjusted. \r\n\r\n\tThis act provides that the limitation on the total of the increases granted to a retired member or the beneficiary shall be subject to annual increases approved by the Board of Trustees of PSRS/PEERS (\"Board\") every December 31st, except such increases to the limitation shall not exceed 2% and shall depend on the performance of the system's investments. If the system's investments earn 2% or greater returns in excess of the investment return rate adopted by the Board, then the percentage of retirement allowance for the total of increases granted shall be increased by 2%. The total increases granted to a retired member or beneficiary shall not exceed 80% of the retirement allowance established at retirement or as previously adjusted. \r\n\r\n\tIf a retired member or beneficiary has already reached the 80% cap, such retired member or beneficiary shall be granted a 2% cost of living adjustment for that year unless the system's investments fail to earn at least 2% of returns in excess of the investment return rate adopted by the Board, in which case the member shall not get a cost of living increase. This 2% cost of living increase shall not be cumulative. \r\n\r\n\tThis act is identical to HB 2095 (2026) and is similar to SB 709 (2025), HB 329 (2025), and SB 1421 (2024).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1779 - Current law provides that retired members of the Public School Retirement System (\"PSRS\") and the Public Education Employee Retirement System (\"PEERS\") may receive yearly cost of living adjustments on monthly retirement allowances, but the total of the increases granted to a retired member or the beneficiary may not exceed 80% of a member's retirement allowance established at retirement or as previously adjusted. \r\n\r\n\tThis act provides that the limitation on the total of the increases granted to a retired member or the beneficiary shall be subject to annual increases approved by the Board of Trustees of PSRS/PEERS (\"Board\") every December 31st, except such increases to the limitation shall not exceed 2% and shall depend on the performance of the system's investments. If the system's investments earn 2% or greater returns in excess of the investment return rate adopted by the Board, then the percentage of retirement allowance for the total of increases granted shall be increased by 2%. The total increases granted to a retired member or beneficiary shall not exceed 80% of the retirement allowance established at retirement or as previously adjusted. \r\n\r\n\tIf a retired member or beneficiary has already reached the 80% cap, such retired member or beneficiary shall be granted a 2% cost of living adjustment for that year unless the system's investments fail to earn at least 2% of returns in excess of the investment return rate adopted by the Board, in which case the member shall not get a cost of living increase. This 2% cost of living increase shall not be cumulative. \r\n\r\n\tThis act is identical to HB 2095 (2026) and is similar to SB 709 (2025), HB 329 (2025), and SB 1421 (2024).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies cost of living adjustments for members of the Public School Retirement System and the Public Education Employee Retirement System"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1779"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Henderson, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Henderson, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7387S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1779.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6616221",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7387S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

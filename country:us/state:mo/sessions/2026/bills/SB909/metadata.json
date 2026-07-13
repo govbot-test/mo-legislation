@@ -1,0 +1,141 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 909",
+  "title": "SCS/SB 909 - This act renames the \"Missouri Student Religious Liberties Act\" the \"Missouri Safeguarding Personal Expression at K-12 Schools (SPEAKS) Act\".  The act adds political and ideological expression to the current protections for public school students' religious expression.\r\n\r\n\tThe act additionally prohibits discrimination against student clubs on the basis of their religious, political, or ideological viewpoints or any requirement that the members of the club adhere to the club's sincerely held beliefs, comply with the club's conduct standards, or further the club's mission, as such mission is defined by the club.\r\n\r\n\tThis act shall not be construed to limit school districts' ability to restrict speech that is not protected by the First Amendment to the Constitution of the United States; speech that is so offensive that a student is effectively denied equal access to educational opportunities; or conduct that intentionally, materially, and substantially disrupts school operations or the expressive activity of another individual in a campus space exclusively reserved for such activity.\r\n\r\n\tAny person or student organization harmed by a violation of this act shall have a private cause of action against the school, as described in the act.  Any person or student organization aggrieved by a violation of this act may assert such violation as a defense or counterclaim in any disciplinary action or in any civil or administrative proceeding.  The state waives immunity and consents to be sued in federal court for claims arising under this act.\r\n\r\n\tThis act is identical to a provision in SCS/HCS/HB 2682 (2026).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SCS/SB 909 - This act renames the \"Missouri Student Religious Liberties Act\" the \"Missouri Safeguarding Personal Expression at K-12 Schools (SPEAKS) Act\".  The act adds political and ideological expression to the current protections for public school students' religious expression.\r\n\r\n\tThe act additionally prohibits discrimination against student clubs on the basis of their religious, political, or ideological viewpoints or any requirement that the members of the club adhere to the club's sincerely held beliefs, comply with the club's conduct standards, or further the club's mission, as such mission is defined by the club.\r\n\r\n\tThis act shall not be construed to limit school districts' ability to restrict speech that is not protected by the First Amendment to the Constitution of the United States; speech that is so offensive that a student is effectively denied equal access to educational opportunities; or conduct that intentionally, materially, and substantially disrupts school operations or the expressive activity of another individual in a campus space exclusively reserved for such activity.\r\n\r\n\tAny person or student organization harmed by a violation of this act shall have a private cause of action against the school, as described in the act.  Any person or student organization aggrieved by a violation of this act may assert such violation as a defense or counterclaim in any disciplinary action or in any civil or administrative proceeding.  The state waives immunity and consents to be sued in federal court for claims arising under this act.\r\n\r\n\tThis act is identical to a provision in SCS/HCS/HB 2682 (2026).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Renames the \"Missouri Student Religious Liberties Act\" the \"Missouri Safeguarding Personal Expression at K-12 Schools (SPEAKS) Act\" and creates provisions safeguarding students' political and ideological expression at public schools"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb909"
+    }
+  ],
+  "actions": [
+    {
+      "description": "SCS Voted Do Pass S Education Committee (4431S.03C)",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Education Committee",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hudson, Brad",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Hudson, Brad\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB909.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4431S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB909.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=288",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4431S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1057",
+  "title": "SB 1057 - This act amends Supreme Court Rule 33.01 relating to conditions of release from custody in criminal proceedings. Currently, when considering the least restrictive condition for release, the court shall first consider non-monetary conditions and may only consider monetary conditions if the non-monetary conditions alone will not secure the appearance of the defendant or the safety of the community or certain persons. After considering the defendant's ability to pay, a monetary condition fixed at more than is necessary to secure the appearance of the defendant at trial or the safety of the community or certain persons is impermissible.\r\n\r\n\tThis act repeals this provision and provides that the court shall have discretion to impose monetary or non-monetary conditions of release as the court determines appropriate under the individual circumstances of the defendant and the case. However, in making this determination, the court shall give substantial weight to:\r\n(1)\tThe defendant\u2019s prior criminal convictions or history of criminal activity;\r\n(2)\tAny prior failures to appear in court by the defendant;\r\n(3)\tThe nature and seriousness of the current criminal charge; and\r\n(4)\tAny known risk to the safety of the community or other person.\r\n\r\n\tThe court shall not be required to exhaust non-monetary conditions before setting monetary conditions if such conditions are necessary to reasonably assure the appearance of the defendant and protect the safety of the public or certain persons. The discretion of the court under this rule shall be presumed to be valid and shall not be disturbed upon review absent a clear abuse.\r\n\r\n\tThis act shall become effective on January 1, 2027.\t\r\n\r\n\tThis act is identical to HB 3481 (2026), and is similar to SB 1243 (2026).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1057 - This act amends Supreme Court Rule 33.01 relating to conditions of release from custody in criminal proceedings. Currently, when considering the least restrictive condition for release, the court shall first consider non-monetary conditions and may only consider monetary conditions if the non-monetary conditions alone will not secure the appearance of the defendant or the safety of the community or certain persons. After considering the defendant's ability to pay, a monetary condition fixed at more than is necessary to secure the appearance of the defendant at trial or the safety of the community or certain persons is impermissible.\r\n\r\n\tThis act repeals this provision and provides that the court shall have discretion to impose monetary or non-monetary conditions of release as the court determines appropriate under the individual circumstances of the defendant and the case. However, in making this determination, the court shall give substantial weight to:\r\n(1)\tThe defendant\u2019s prior criminal convictions or history of criminal activity;\r\n(2)\tAny prior failures to appear in court by the defendant;\r\n(3)\tThe nature and seriousness of the current criminal charge; and\r\n(4)\tAny known risk to the safety of the community or other person.\r\n\r\n\tThe court shall not be required to exhaust non-monetary conditions before setting monetary conditions if such conditions are necessary to reasonably assure the appearance of the defendant and protect the safety of the public or certain persons. The discretion of the court under this rule shall be presumed to be valid and shall not be disturbed upon review absent a clear abuse.\r\n\r\n\tThis act shall become effective on January 1, 2027.\t\r\n\r\n\tThis act is identical to HB 3481 (2026), and is similar to SB 1243 (2026).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies Supreme Court Rule 33.01 relating to conditions of release from custody in criminal proceedings"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1057"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Informal Calendar S Bills for Perfection",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Reported from S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5306S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1057.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=332",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5306S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

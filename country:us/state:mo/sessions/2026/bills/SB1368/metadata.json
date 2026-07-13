@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1368",
+  "title": "SB 1368 - The act creates new provisions relating to weather modification.\r\n\r\n\tThe act provides that no person or entity shall engage in weather modification in the state. If a person or entity commits a violation under the act, the person or entity shall be subject to certain penalties, as described in the act.\r\n\r\n\tAny individual may report violations of the act to the Department of Natural Resources. If the Department finds that a violation occurred, the Department shall ask the Attorney General to commence an action. If the court finds that a violation occurred, the court may grant relief, as described in the act.\r\n\r\n\tThe Department shall create a publicly accessible form online for the purpose of reporting instances of weather modification in the state. The Department shall establish a screening method of such reports and shall investigate every report for any violations.\r\n\r\n\tAll moneys collected from civil penalties shall be deposited into the Natural Resources Protection Fund.\r\n\r\n\tBeginning on or after January 1, 2027, all operators of airports in the state shall submit monthly reports to the Department detailing any physical presence of any aircraft, or the landing, takeoff, stopover, or refueling of the aircraft, on the premises of the airport if the aircraft is used for or has components or parts used for the purpose of weather modification.\r\n\r\n\tThe Department shall review the reports to determine whether any violations occurred. If any violations occurred, the Department shall ask the Attorney General to commence an action, as described in the act.\r\n\r\n\tThe Department shall submit such reports to the Department of Transportation on a quarterly basis. The Department of Transportation shall not expend any state funds to any airport project or program if the airport has any aircraft on its premises that is engaged in weather modification.\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1368 - The act creates new provisions relating to weather modification.\r\n\r\n\tThe act provides that no person or entity shall engage in weather modification in the state. If a person or entity commits a violation under the act, the person or entity shall be subject to certain penalties, as described in the act.\r\n\r\n\tAny individual may report violations of the act to the Department of Natural Resources. If the Department finds that a violation occurred, the Department shall ask the Attorney General to commence an action. If the court finds that a violation occurred, the court may grant relief, as described in the act.\r\n\r\n\tThe Department shall create a publicly accessible form online for the purpose of reporting instances of weather modification in the state. The Department shall establish a screening method of such reports and shall investigate every report for any violations.\r\n\r\n\tAll moneys collected from civil penalties shall be deposited into the Natural Resources Protection Fund.\r\n\r\n\tBeginning on or after January 1, 2027, all operators of airports in the state shall submit monthly reports to the Department detailing any physical presence of any aircraft, or the landing, takeoff, stopover, or refueling of the aircraft, on the premises of the airport if the aircraft is used for or has components or parts used for the purpose of weather modification.\r\n\r\n\tThe Department shall review the reports to determine whether any violations occurred. If any violations occurred, the Department shall ask the Attorney General to commence an action, as described in the act.\r\n\r\n\tThe Department shall submit such reports to the Department of Transportation on a quarterly basis. The Department of Transportation shall not expend any state funds to any airport project or program if the airport has any aircraft on its premises that is engaged in weather modification.\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to weather modification"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1368"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nicola, Joe",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nicola, Joe\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5337S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1368.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=171",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5337S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

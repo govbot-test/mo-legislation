@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 855",
+  "title": "SB 855 - Under this act, the State Board of Education shall convene a work group called the \"Humanity Education Curriculum Framework Work Group\" for purposes of developing a curriculum framework that teachers may use when teaching students in grades 6-12 about the dehumanization of marginalized groups in Missouri.  The act defines \"dehumanization\" as the violation of a person's human rights or bodily autonomy.  A \"marginalized group\" may include persons who have been subjected to dehumanization for reasons that may relate to their national origin, race, or sex.  Members of the work group shall include, but shall not be limited to, educators or other experts in the areas of history, human rights, or social science.  The Department of Elementary and Secondary Education (DESE) shall develop the curriculum framework in consultation with the work group. \r\n\r\n\tThe act outlines the topics that the curriculum framework shall address.  Such topics shall include, but shall not be limited to, a study of the dehumanization practices that have occurred in Missouri's history and the interventions that may be available to prevent such dehumanization practices in the future.  The curriculum framework shall also include the story of Celia, a victim of chattel slavery and sexual violence who was executed in Missouri in 1855 for defending herself against her owner, Robert Newsom.\r\n\r\n\tThe act describes certain marginalized groups that shall be included in the curriculum framework and awareness weeks or months with which the curriculum framework may be aligned. \r\n\r\n\tDESE shall conduct a pilot program to study the impact and success of the curriculum framework in consultation with the work group in up to 25 school districts or schools within a school district in the 2027-28 and 2028-29 school years.  All participating schools or districts shall be provided the curriculum framework and offered the opportunity to participate in the \"Celia Professional Development Program for Teachers\" that shall be developed by the work group and DESE.  Such program shall include instructional guidance and examples of curriculum resources that are age appropriate and consistent with the curriculum framework, as described in the act.  The program shall also include instructional guidance on class visits to historic sites in Missouri relating to the story of Celia's enslavement, abuse, and execution.  All schools or districts that participate in the pilot program shall provide a plan of professional development to such district's or school's teachers and may voluntarily participate in the Celia Professional Development Program for Teachers.\r\n\r\n\tUpon the completion of the first year of the pilot program, DESE shall evaluate the success and impact of the pilot program and shall report the results of such evaluation to the General Assembly, as specified in the act.  Beginning in the 2029-30 school year and in all subsequent school years, the curriculum framework and Celia Professional Development Program for Teachers shall be made available to all school districts and charter schools in the state.\r\n\r\n\tThis act is identical to SB 21 (2025) and substantially similar to SB 1446 (2024).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 855 - Under this act, the State Board of Education shall convene a work group called the \"Humanity Education Curriculum Framework Work Group\" for purposes of developing a curriculum framework that teachers may use when teaching students in grades 6-12 about the dehumanization of marginalized groups in Missouri.  The act defines \"dehumanization\" as the violation of a person's human rights or bodily autonomy.  A \"marginalized group\" may include persons who have been subjected to dehumanization for reasons that may relate to their national origin, race, or sex.  Members of the work group shall include, but shall not be limited to, educators or other experts in the areas of history, human rights, or social science.  The Department of Elementary and Secondary Education (DESE) shall develop the curriculum framework in consultation with the work group. \r\n\r\n\tThe act outlines the topics that the curriculum framework shall address.  Such topics shall include, but shall not be limited to, a study of the dehumanization practices that have occurred in Missouri's history and the interventions that may be available to prevent such dehumanization practices in the future.  The curriculum framework shall also include the story of Celia, a victim of chattel slavery and sexual violence who was executed in Missouri in 1855 for defending herself against her owner, Robert Newsom.\r\n\r\n\tThe act describes certain marginalized groups that shall be included in the curriculum framework and awareness weeks or months with which the curriculum framework may be aligned. \r\n\r\n\tDESE shall conduct a pilot program to study the impact and success of the curriculum framework in consultation with the work group in up to 25 school districts or schools within a school district in the 2027-28 and 2028-29 school years.  All participating schools or districts shall be provided the curriculum framework and offered the opportunity to participate in the \"Celia Professional Development Program for Teachers\" that shall be developed by the work group and DESE.  Such program shall include instructional guidance and examples of curriculum resources that are age appropriate and consistent with the curriculum framework, as described in the act.  The program shall also include instructional guidance on class visits to historic sites in Missouri relating to the story of Celia's enslavement, abuse, and execution.  All schools or districts that participate in the pilot program shall provide a plan of professional development to such district's or school's teachers and may voluntarily participate in the Celia Professional Development Program for Teachers.\r\n\r\n\tUpon the completion of the first year of the pilot program, DESE shall evaluate the success and impact of the pilot program and shall report the results of such evaluation to the General Assembly, as specified in the act.  Beginning in the 2029-30 school year and in all subsequent school years, the curriculum framework and Celia Professional Development Program for Teachers shall be made available to all school districts and charter schools in the state.\r\n\r\n\tThis act is identical to SB 21 (2025) and substantially similar to SB 1446 (2024).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Requires the State Board of Education to convene a work group to develop a curriculum framework of instruction on the dehumanization of marginalized groups"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb855"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Williams, Brian",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Williams, Brian\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5398S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB855.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=271",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5398S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

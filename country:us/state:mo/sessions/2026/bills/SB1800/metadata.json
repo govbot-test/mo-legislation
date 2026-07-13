@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1800",
+  "title": "SB 1800 - This act creates provisions relating to expressive activity at postsecondary educational institutions.  The act defines a \"postsecondary educational institution\" as including any approved Missouri public institution of postsecondary education under the Access Missouri Financial Assistance Program.\t\t\t\t\r\n\r\n\tEvery student of a postsecondary educational institution who receives state student financial aid shall be deemed by such receipt to have agreed to observe the rules and regulations promulgated by the governing authority of the postsecondary educational institution.  Subject to administrative review and hearing procedures described in the act, any student who receives state student financial aid in connection with his or her matriculation and who, while on the campus of the postsecondary educational institution, engages in materially and substantially disruptive conduct and is convicted of a crime or found by the institution to have violated any code of conduct as a result of such disruptive behavior shall be ineligible for state student financial aid for a period not to exceed the ensuing two academic years.\r\n\r\n\tEach postsecondary educational institution shall adopt a policy detailing students' rights and responsibilities regarding expressive activities at the institution.  The policy shall allow students to engage in expressive activities on campus, including by responding to the expressive activities of others, and to invite speakers to campus.  The policy shall prohibit using a device to amplify sound while engaging in expressive activities on campus during class hours.  The policy shall further prohibit, during the last two weeks of a semester or term, engaging in certain expressive activities described in the act, such as using a device to amplify sound or using a drum or other percussive equipment.  The policy shall also prohibit camping or erecting tents on campus; wearing a mask with the intent to obstruct law enforcement or intimidate others; lowering the institution's United States flag or Missouri state flag with the intent to raise the flag of another nation or a flag representing an organization or group of people; or engaging in expressive activities on campus between the hours of 10 p.m. and 8 a.m.  The policy shall establish disciplinary sanctions for students, student organizations, or employees who unduly interfere with the expressive activities of others on campus or violate an institution policy or state law.  The policy shall include a grievance procedure; require students to present proof of identity on request by a peace officer; be approved by a majority vote of the institution's governing board before final adoption; and be posted on the institution's website.\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1800 - This act creates provisions relating to expressive activity at postsecondary educational institutions.  The act defines a \"postsecondary educational institution\" as including any approved Missouri public institution of postsecondary education under the Access Missouri Financial Assistance Program.\t\t\t\t\r\n\r\n\tEvery student of a postsecondary educational institution who receives state student financial aid shall be deemed by such receipt to have agreed to observe the rules and regulations promulgated by the governing authority of the postsecondary educational institution.  Subject to administrative review and hearing procedures described in the act, any student who receives state student financial aid in connection with his or her matriculation and who, while on the campus of the postsecondary educational institution, engages in materially and substantially disruptive conduct and is convicted of a crime or found by the institution to have violated any code of conduct as a result of such disruptive behavior shall be ineligible for state student financial aid for a period not to exceed the ensuing two academic years.\r\n\r\n\tEach postsecondary educational institution shall adopt a policy detailing students' rights and responsibilities regarding expressive activities at the institution.  The policy shall allow students to engage in expressive activities on campus, including by responding to the expressive activities of others, and to invite speakers to campus.  The policy shall prohibit using a device to amplify sound while engaging in expressive activities on campus during class hours.  The policy shall further prohibit, during the last two weeks of a semester or term, engaging in certain expressive activities described in the act, such as using a device to amplify sound or using a drum or other percussive equipment.  The policy shall also prohibit camping or erecting tents on campus; wearing a mask with the intent to obstruct law enforcement or intimidate others; lowering the institution's United States flag or Missouri state flag with the intent to raise the flag of another nation or a flag representing an organization or group of people; or engaging in expressive activities on campus between the hours of 10 p.m. and 8 a.m.  The policy shall establish disciplinary sanctions for students, student organizations, or employees who unduly interfere with the expressive activities of others on campus or violate an institution policy or state law.  The policy shall include a grievance procedure; require students to present proof of identity on request by a peace officer; be approved by a majority vote of the institution's governing board before final adoption; and be posted on the institution's website.\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to expressive activity at postsecondary educational institutions"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1800"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7465S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1800.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6619197",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7465S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

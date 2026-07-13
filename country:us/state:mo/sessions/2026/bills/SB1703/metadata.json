@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1703",
+  "title": "SB 1703 - This act establishes the \"Student Screen-Time Standards Act\" and requires each school district and charter school to adopt a written policy governing screen time and the use of instructional technology for students in kindergarten through grade five.  The policy shall be designed to promote students' educational interests, prevent harmful effects of excessive screen time on child development, ensure that technology supports rather than supplants foundational learning, and restore evidence-based practices.  \r\n\r\n\tThe act outlines required components of the policy, including limits on student screen time, restrictions on the use of school-issued devices, and limits on student access to internet-connected instructional technology, including laptops, tablets, software platforms, and other similar devices.  The policy shall identify approved digital platforms, establish standards for student use of hands-on physical learning tools and traditional materials, outline procedures by which parents may obtain information regarding their child's screen time and technology use and limit such use, and describe the research and evidence upon which the policy is based.  In developing the policy, each school district or charter school shall consider and document research on best practices in literacy instruction, instructional technology, assessment, and the role of handwriting and cursive writing in promoting literacy.  \t\r\n\r\n\tEach elementary school shall notify parents and guardians annually of the adopted policy, provide parents available information regarding their child's login time and technology use upon request, and publish the policy on the school's website.  Each policy shall be periodically updated and shall incorporate recommendations from a model school board policy to be developed by the \"Framework on Classroom Use of Screens (FOCUS) Council\" established in the act.  The policy shall be implemented before the end of the 2027\u201328 school year and shall apply in all subsequent school years.\r\n\r\n\tThe Literacy Advisory Council established under current law shall provide advice regarding instruction and assessment of cursive writing and reading, and shall develop recommendations for a related model policy on cursive.  \r\n\r\n\tThe Commissioner of Education shall establish a \"Framework on Classroom Use of Screens (FOCUS) Council\" composed of the Commissioner as chair, with appointed members representing school boards and charter schools; elementary school principals who have completed state leadership training; teachers with expertise in reading, mathematics, and special education; parental and disability advocacy organizations; faculty from approved teacher preparation programs; a licensed pediatric mental health professional or board-certified behavior analyst; and a medical professional with expertise in child health and development.  The Department of Elementary and Secondary Education shall provide staff and resources for the council.  The council shall conduct a comprehensive survey and analysis of screen time and instructional technology use in public schools, and shall provide guidance on best practices and policies, as provided in the act.  By July 1, 2027, the council shall submit a report containing the council's recommendations and a model school board policy on screen time and instructional technology use to the State Board of Education, the Governor, and the Joint Committee on Education.  The report shall be updated at least every two years.\r\n\r\n\tThis act is similar to SCS/HCS/HBs 2230 & 2978 (2026) and to provisions in HCS/SB 1351 (2026).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1703 - This act establishes the \"Student Screen-Time Standards Act\" and requires each school district and charter school to adopt a written policy governing screen time and the use of instructional technology for students in kindergarten through grade five.  The policy shall be designed to promote students' educational interests, prevent harmful effects of excessive screen time on child development, ensure that technology supports rather than supplants foundational learning, and restore evidence-based practices.  \r\n\r\n\tThe act outlines required components of the policy, including limits on student screen time, restrictions on the use of school-issued devices, and limits on student access to internet-connected instructional technology, including laptops, tablets, software platforms, and other similar devices.  The policy shall identify approved digital platforms, establish standards for student use of hands-on physical learning tools and traditional materials, outline procedures by which parents may obtain information regarding their child's screen time and technology use and limit such use, and describe the research and evidence upon which the policy is based.  In developing the policy, each school district or charter school shall consider and document research on best practices in literacy instruction, instructional technology, assessment, and the role of handwriting and cursive writing in promoting literacy.  \t\r\n\r\n\tEach elementary school shall notify parents and guardians annually of the adopted policy, provide parents available information regarding their child's login time and technology use upon request, and publish the policy on the school's website.  Each policy shall be periodically updated and shall incorporate recommendations from a model school board policy to be developed by the \"Framework on Classroom Use of Screens (FOCUS) Council\" established in the act.  The policy shall be implemented before the end of the 2027\u201328 school year and shall apply in all subsequent school years.\r\n\r\n\tThe Literacy Advisory Council established under current law shall provide advice regarding instruction and assessment of cursive writing and reading, and shall develop recommendations for a related model policy on cursive.  \r\n\r\n\tThe Commissioner of Education shall establish a \"Framework on Classroom Use of Screens (FOCUS) Council\" composed of the Commissioner as chair, with appointed members representing school boards and charter schools; elementary school principals who have completed state leadership training; teachers with expertise in reading, mathematics, and special education; parental and disability advocacy organizations; faculty from approved teacher preparation programs; a licensed pediatric mental health professional or board-certified behavior analyst; and a medical professional with expertise in child health and development.  The Department of Elementary and Secondary Education shall provide staff and resources for the council.  The council shall conduct a comprehensive survey and analysis of screen time and instructional technology use in public schools, and shall provide guidance on best practices and policies, as provided in the act.  By July 1, 2027, the council shall submit a report containing the council's recommendations and a model school board policy on screen time and instructional technology use to the State Board of Education, the Governor, and the Joint Committee on Education.  The report shall be updated at least every two years.\r\n\r\n\tThis act is similar to SCS/HCS/HBs 2230 & 2978 (2026) and to provisions in HCS/SB 1351 (2026).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the \"Student Screen-Time Standards Act\" and the \"Framework on Classroom Use of Screens (FOCUS) Council\" regarding instructional methods in elementary schools"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1703"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Carter, Jill",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Carter, Jill\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7305S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1703.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6112613",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7305S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

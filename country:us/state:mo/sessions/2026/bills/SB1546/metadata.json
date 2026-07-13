@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1546",
+  "title": "SB 1546 - This act creates new provisions relating to financial institutions.\r\n\r\nThe act provides that it is an unlawful discriminatory practice to refuse to provide financial services, refrain from continuing to provide existing financial services, terminate existing financial services with, or otherwise discriminate in the provision of financial services to, a person or trade association solely because such person or trade association is engaged in the lawful commerce of firearms or ammunition products and is licensed pursuant to federal law or is a trade association. The Attorney General (AG) is given investigatory authority to investigate violations or potential violations of this provision. Any person or entity in violation of this provision may have a cause of action brought against them in the name of the state by the AG and may be subject to declaratory and injunctive relief as well as civil penalties of up to $10,000 per violation plus reasonable expenses, investigative costs, and attorney's fees.\r\n\r\nThe act also exempts any financial institution from civil liability under the laws of this state for any act or omission made when in compliance with or in good faith reliance on any applicable rule, regulation, or written guidance issued by a regulatory agency, as that term is defined in the act. This exemption is a bar to the action or proceeding, notwithstanding that after such act or omission, such rule, regulation, or written guidance is modified, rescinded, or is held to be invalid by a court. Moreover, this provision shall not bar any action or proceeding when the act or omission of the financial institution constituted fraudulent activity, intentional misconduct, wanton or willful misconduct, or gross negligence.\r\n\r\nThis act does not apply to the extent that any statute, regulation, or treaty of the United States preempts it. Furthermore, nothing in this act shall be construed to impair, limit, or affect the authority of the federal or any state government, and any regulatory agencies thereof, to bring any civil, criminal, or administrative enforcement action.\r\n\r\nProvisions of this act are substantially similar to HB 3107 (2026).\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1546 - This act creates new provisions relating to financial institutions.\r\n\r\nThe act provides that it is an unlawful discriminatory practice to refuse to provide financial services, refrain from continuing to provide existing financial services, terminate existing financial services with, or otherwise discriminate in the provision of financial services to, a person or trade association solely because such person or trade association is engaged in the lawful commerce of firearms or ammunition products and is licensed pursuant to federal law or is a trade association. The Attorney General (AG) is given investigatory authority to investigate violations or potential violations of this provision. Any person or entity in violation of this provision may have a cause of action brought against them in the name of the state by the AG and may be subject to declaratory and injunctive relief as well as civil penalties of up to $10,000 per violation plus reasonable expenses, investigative costs, and attorney's fees.\r\n\r\nThe act also exempts any financial institution from civil liability under the laws of this state for any act or omission made when in compliance with or in good faith reliance on any applicable rule, regulation, or written guidance issued by a regulatory agency, as that term is defined in the act. This exemption is a bar to the action or proceeding, notwithstanding that after such act or omission, such rule, regulation, or written guidance is modified, rescinded, or is held to be invalid by a court. Moreover, this provision shall not bar any action or proceeding when the act or omission of the financial institution constituted fraudulent activity, intentional misconduct, wanton or willful misconduct, or gross negligence.\r\n\r\nThis act does not apply to the extent that any statute, regulation, or treaty of the United States preempts it. Furthermore, nothing in this act shall be construed to impair, limit, or affect the authority of the federal or any state government, and any regulatory agencies thereof, to bring any civil, criminal, or administrative enforcement action.\r\n\r\nProvisions of this act are substantially similar to HB 3107 (2026).\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates new provisions relating to financial institutions"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1546"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Insurance and Banking Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Trent, Curtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Trent, Curtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6159S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1546.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=627696",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6159S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

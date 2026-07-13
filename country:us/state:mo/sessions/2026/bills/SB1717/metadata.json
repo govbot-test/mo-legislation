@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1717",
+  "title": "SB 1717 - Currently, the state is reimbursed for the salaries of family court commissioners appointed after August 28, 1993. There is an exception for the 11th (St. Charles County), 13th (Callaway and Boone Counties), and 31st (Greene County) Judicial Circuits,  which allows one family court commissioner to be compensated by the state without requiring reimbursement. This act applies the exception to the 7th Judicial Circuit, consisting of Clay County.\r\n\r\n\tThis act is identical to a provision in HCS/SB 945 (2026), in HCS/SB 1067 (2026), in HCS/HBs 2968, 2427 & 3086 (2026), HB 3387 (2026), and HB 3449 (2026).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1717 - Currently, the state is reimbursed for the salaries of family court commissioners appointed after August 28, 1993. There is an exception for the 11th (St. Charles County), 13th (Callaway and Boone Counties), and 31st (Greene County) Judicial Circuits,  which allows one family court commissioner to be compensated by the state without requiring reimbursement. This act applies the exception to the 7th Judicial Circuit, consisting of Clay County.\r\n\r\n\tThis act is identical to a provision in HCS/SB 945 (2026), in HCS/SB 1067 (2026), in HCS/HBs 2968, 2427 & 3086 (2026), HB 3387 (2026), and HB 3449 (2026).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Provides for the family court commissioner of the 7th Judicial Circuit to be compensated by the state without reimbursement"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1717"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nurrenbern, Maggie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nurrenbern, Maggie\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7374S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1717.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6455941",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7374S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

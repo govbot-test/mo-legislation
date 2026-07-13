@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1315",
+  "title": "SB 1315 - This act requires schools that receive state funding and are subject to the federal Protection of Pupil Rights Amendment (PPPRA), including charter schools, to notify a student's parent at least 24 hours before presenting a survey to the student.  The school must also disclose the full survey contents and obtain written parental consent if the survey asks any question relating to an item protected under the PPRA, including questions regarding political affiliations; mental or psychological problems, including substance abuse issues; sexual behavior or attitudes; illegal, antisocial, self-incriminating, or demeaning behavior; critical appraisals of family members; legally recognized privileged relationships; religious practices, affiliations, or beliefs; or income, except as required to determine eligibility for participation in a program or to receive financial assistance under such program.  A school may disclose the survey's contents by posting the survey on the school website on a page that is easily accessible to parents, provided that parents are individually notified of such posting.  \r\n\r\n\tThe Attorney General or the prosecuting or circuit attorney in the county in which a violation of this act occurs may bring a civil action, including an action for injunctive relief, against any school district or charter school, as well as any school official or paid or unpaid agent of a school, for any intentional or grossly negligent violation of the act, or for negligent supervision of an individual leading to a violation of the act.  The court shall impose a fine of $500 for each grossly negligent violation and $2000 for each violation that occurs intentionally or as the result of negligent supervision.\r\n\r\n\tA student's parent may bring a civil action against any school district or charter school, as well as any school official or paid or unpaid agent of a school, for any intentional or grossly negligent violation of the act that affects such parent's child, or for negligent supervision of an individual leading to a violation that affects such parent's child.  The court shall award to the parent $500 plus court costs and reasonable attorney's fees for each grossly negligent violation and $2,000 plus court costs and reasonable attorney's fees for each violation that occurs intentionally or as the result of negligent supervision.\r\n\r\n\tThis act is identical to SS/SB 223 (2025).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1315 - This act requires schools that receive state funding and are subject to the federal Protection of Pupil Rights Amendment (PPPRA), including charter schools, to notify a student's parent at least 24 hours before presenting a survey to the student.  The school must also disclose the full survey contents and obtain written parental consent if the survey asks any question relating to an item protected under the PPRA, including questions regarding political affiliations; mental or psychological problems, including substance abuse issues; sexual behavior or attitudes; illegal, antisocial, self-incriminating, or demeaning behavior; critical appraisals of family members; legally recognized privileged relationships; religious practices, affiliations, or beliefs; or income, except as required to determine eligibility for participation in a program or to receive financial assistance under such program.  A school may disclose the survey's contents by posting the survey on the school website on a page that is easily accessible to parents, provided that parents are individually notified of such posting.  \r\n\r\n\tThe Attorney General or the prosecuting or circuit attorney in the county in which a violation of this act occurs may bring a civil action, including an action for injunctive relief, against any school district or charter school, as well as any school official or paid or unpaid agent of a school, for any intentional or grossly negligent violation of the act, or for negligent supervision of an individual leading to a violation of the act.  The court shall impose a fine of $500 for each grossly negligent violation and $2000 for each violation that occurs intentionally or as the result of negligent supervision.\r\n\r\n\tA student's parent may bring a civil action against any school district or charter school, as well as any school official or paid or unpaid agent of a school, for any intentional or grossly negligent violation of the act that affects such parent's child, or for negligent supervision of an individual leading to a violation that affects such parent's child.  The court shall award to the parent $500 plus court costs and reasonable attorney's fees for each grossly negligent violation and $2,000 plus court costs and reasonable attorney's fees for each violation that occurs intentionally or as the result of negligent supervision.\r\n\r\n\tThis act is identical to SS/SB 223 (2025).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes provisions relating to student surveys"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1315"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S Government Efficiency Committee",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Government Efficiency Committee",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Government Efficiency Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Coleman, Mary Elizabeth",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Coleman, Mary Elizabeth\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3962S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1315.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=613",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3962S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1481",
+  "title": "SB 1481 - Current law imposes a prepaid wireless emergency telephone service charge equal to three percent of the retail transaction, with the first $15 of each transaction exempt from the charge. This act repeals the exemption for the first $15 of each transaction and, beginning January 1, 2027, increases the service charge to four percent.\r\n\r\n\tThe act also requires the Director of Revenue to require a seller to report the number of retail transactions as well as the total dollar amount of each transaction and the total amount of prepaid wireless emergency telephone service charges collected.\r\n\r\n\tCurrent law allows a seller to deduct and retain three percent of the service charges that are collected by the seller. Beginning January 1, 2027, this act increases such amount to four percent. If the Director of Revenue determines that a seller has not collected the required amount of services charges, the seller shall not be permitted to deduct and retain any amount of the services charges, nor shall the seller be permitted to deduct and retain any amount of sales taxes allowable under current law.\r\n\r\n\tThis act is substantially similar to HB 2767 (2026).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1481 - Current law imposes a prepaid wireless emergency telephone service charge equal to three percent of the retail transaction, with the first $15 of each transaction exempt from the charge. This act repeals the exemption for the first $15 of each transaction and, beginning January 1, 2027, increases the service charge to four percent.\r\n\r\n\tThe act also requires the Director of Revenue to require a seller to report the number of retail transactions as well as the total dollar amount of each transaction and the total amount of prepaid wireless emergency telephone service charges collected.\r\n\r\n\tCurrent law allows a seller to deduct and retain three percent of the service charges that are collected by the seller. Beginning January 1, 2027, this act increases such amount to four percent. If the Director of Revenue determines that a seller has not collected the required amount of services charges, the seller shall not be permitted to deduct and retain any amount of the services charges, nor shall the seller be permitted to deduct and retain any amount of sales taxes allowable under current law.\r\n\r\n\tThis act is substantially similar to HB 2767 (2026).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to wireless emergency telephone service charges"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1481"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Formal Calendar S Bills for Perfection",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Reported from S Economic and Workforce Development Committee",
+      "date": "2026-04-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Economic and Workforce Development Committee",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Economic and Workforce Development Committee",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Economic and Workforce Development Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-30T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Henderson, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Henderson, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6107S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1481.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=54389",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6107S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1672",
+  "title": "SB 1672 - This act defines the \"practice of medicine\" as the examination, evaluation, diagnosis, treatment, operation, prescription, recommendation, prevention, cure, dispensing, or surgery for any human injury, disease, pain, deformity, defect, wound, fracture, infirmity, ailment, or physical or mental condition. This act further defines the practice of medicine to include:\r\n(1)\tEvaluating a patient, rendering a medical opinion, or providing testimony for any civil or criminal action; \r\n(2)\tThe review, oversight, and rendering of health care decisions by a treating physician;\r\n(3)\tFor consulting physicians or specialists who receive referrals, the initial examination, evaluation, diagnosis, and determination of appropriate treatment, which shall not be delegated to any person other than to another consulting physician or specialist; \r\n(4)\tOffering to examine, evaluate, diagnose, treat, operate, prescribe, recommend, prevent, dispense, or perform surgery;\r\n(5)\tUsing certain designations as provided in the act indicating or implying that such person is licensed, willing, or able to practice the healing arts; or\r\n(6)\tOffering, conducting, enrolling, performing, or monitoring research involving human subjects unless approved by an institutional review board.\r\n\r\n\tNothing in this act shall prohibit a licensed professional from performing some or all of the activities that may fall within the practice of medicine if the licensed professional is acting within his or her scope of authority, if the physician remains actively involved in the practice of medicine for each patient, and if the physician remains the primary and responsible party, which shall not be delegated to any other person.\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1672 - This act defines the \"practice of medicine\" as the examination, evaluation, diagnosis, treatment, operation, prescription, recommendation, prevention, cure, dispensing, or surgery for any human injury, disease, pain, deformity, defect, wound, fracture, infirmity, ailment, or physical or mental condition. This act further defines the practice of medicine to include:\r\n(1)\tEvaluating a patient, rendering a medical opinion, or providing testimony for any civil or criminal action; \r\n(2)\tThe review, oversight, and rendering of health care decisions by a treating physician;\r\n(3)\tFor consulting physicians or specialists who receive referrals, the initial examination, evaluation, diagnosis, and determination of appropriate treatment, which shall not be delegated to any person other than to another consulting physician or specialist; \r\n(4)\tOffering to examine, evaluate, diagnose, treat, operate, prescribe, recommend, prevent, dispense, or perform surgery;\r\n(5)\tUsing certain designations as provided in the act indicating or implying that such person is licensed, willing, or able to practice the healing arts; or\r\n(6)\tOffering, conducting, enrolling, performing, or monitoring research involving human subjects unless approved by an institutional review board.\r\n\r\n\tNothing in this act shall prohibit a licensed professional from performing some or all of the activities that may fall within the practice of medicine if the licensed professional is acting within his or her scope of authority, if the physician remains actively involved in the practice of medicine for each patient, and if the physician remains the primary and responsible party, which shall not be delegated to any other person.\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes provisions relating to the practice of medicine"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1672"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Emerging Issues and Professional Registration Committee",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brown (16), Justin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brown (16), Justin\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7256S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1672.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=5229241",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7256S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

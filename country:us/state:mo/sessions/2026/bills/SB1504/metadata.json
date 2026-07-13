@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1504",
+  "title": "SB 1504 - This act sets the minimum allowable reimbursement rate to an out-of-network ambulance provider for services provided to enrollees and limits co-payment, coinsurance, deductibles, and other cost sharing amounts to the in-network payment amount for covered services. Ambulance providers are prohibited from billing enrollees any additional amounts for paid covered services. \r\n\r\n\tHealth carriers are required to remit payment for ambulance services directly to the ambulance provider rather than the enrollee within thirty days of receipt of a clean claim, as such term is defined in the act.\r\n\r\n\tUpon receipt of a claim that is not clean, health carriers are required to specify the reason for declining payment in whole or in part and the additional information necessary to determine if the claim is payable in whole or part.\r\n\r\n\tThis act is identical to HB 2597 (2026).\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1504 - This act sets the minimum allowable reimbursement rate to an out-of-network ambulance provider for services provided to enrollees and limits co-payment, coinsurance, deductibles, and other cost sharing amounts to the in-network payment amount for covered services. Ambulance providers are prohibited from billing enrollees any additional amounts for paid covered services. \r\n\r\n\tHealth carriers are required to remit payment for ambulance services directly to the ambulance provider rather than the enrollee within thirty days of receipt of a clean claim, as such term is defined in the act.\r\n\r\n\tUpon receipt of a claim that is not clean, health carriers are required to specify the reason for declining payment in whole or in part and the additional information necessary to determine if the claim is payable in whole or part.\r\n\r\n\tThis act is identical to HB 2597 (2026).\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies payments to ambulance providers"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1504"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Insurance and Banking Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2026-01-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Henderson, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Henderson, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6485S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1504.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=74581",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6485S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

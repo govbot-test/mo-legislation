@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1162",
+  "title": "SB 1162 - Current law authorizes counties to adopt an ordinance allowing for the payment of property taxes in installments. This act requires that counties do so. (Sections 139.052 and 139.053)\r\n\r\n\tThis act also requires that, prior to selling delinquent property for back taxes, a collector shall notify a taxpayer that the ability to pay delinquent taxes in installments is available to the taxpayer. (Section 140.120)\r\n\r\n\tFinally, current law authorizes a collector to sell delinquent property to satisfy delinquent taxes, interest, and penalties owed to the county. This act provides that a collector shall not commence such sale for a period of fifteen years following the date the property becomes delinquent. This provision shall not apply to delinquent property that is abandoned property, which is defined as property that is delinquent for three consecutive years and for which the collector is unable to contact the property owner. (Section 140.150)\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1162 - Current law authorizes counties to adopt an ordinance allowing for the payment of property taxes in installments. This act requires that counties do so. (Sections 139.052 and 139.053)\r\n\r\n\tThis act also requires that, prior to selling delinquent property for back taxes, a collector shall notify a taxpayer that the ability to pay delinquent taxes in installments is available to the taxpayer. (Section 140.120)\r\n\r\n\tFinally, current law authorizes a collector to sell delinquent property to satisfy delinquent taxes, interest, and penalties owed to the county. This act provides that a collector shall not commence such sale for a period of fifteen years following the date the property becomes delinquent. This provision shall not apply to delinquent property that is abandoned property, which is defined as property that is delinquent for three consecutive years and for which the collector is unable to contact the property owner. (Section 140.150)\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to property taxes"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1162"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Select Committee on Property Taxes and the State Tax Commission Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brattin, Rick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brattin, Rick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5565S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1162.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=491",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5565S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

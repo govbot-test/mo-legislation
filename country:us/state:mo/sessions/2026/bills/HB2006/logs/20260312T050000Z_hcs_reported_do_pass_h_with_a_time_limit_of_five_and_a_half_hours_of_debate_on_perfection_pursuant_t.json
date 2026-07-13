@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "HCS Reported Do Pass (H) - with a time limit of five and a half hours of debate on Perfection pursuant to Rule 24(4)(d) - AYES: 31 NOES: 0 PRESENT: 0",
+    "occurred_at": "2026-03-12T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.house.mo.gov/BillContent.aspx?bill=HB2006&year=2026&code=R&style=new",
+        "note": ""
+      },
+      {
+        "url": "https://house.mo.gov/billactions.aspx?bill=HB2006&year=2026&code=R",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 2006"
+}

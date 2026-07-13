@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1422",
+  "title": "SB 1422 - This act renames the \"Missouri Wine and Grape Board\" to the \"Missouri Wine, Grape, and Spirits Board\".\r\n\r\n\tThe act modifies the membership requirements and duties of the Board, as described in the act.\r\n\r\n\tThe act provides that moneys credited to both the Agriculture Business Development Fund and the Missouri Wine and Grape Fund shall be used for the employment of experts in the field of distillation as deemed necessary.\r\n\r\n\tBeginning August 28, 2026, all moneys collected by the Board shall be deposited into the Missouri Wine and Grape Fund.\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1422 - This act renames the \"Missouri Wine and Grape Board\" to the \"Missouri Wine, Grape, and Spirits Board\".\r\n\r\n\tThe act modifies the membership requirements and duties of the Board, as described in the act.\r\n\r\n\tThe act provides that moneys credited to both the Agriculture Business Development Fund and the Missouri Wine and Grape Fund shall be used for the employment of experts in the field of distillation as deemed necessary.\r\n\r\n\tBeginning August 28, 2026, all moneys collected by the Board shall be deposited into the Missouri Wine and Grape Fund.\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies certain provisions relating to the Missouri Wine, Grape, and Spirits Board"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1422"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5916S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1422.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=8215",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5916S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

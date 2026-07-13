@@ -1,0 +1,131 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1657",
+  "title": "SCS/SB 1657 - This act modifies provisions regarding the St. Louis Board of Police Commissioners.\r\n\t\r\n\tUnder current law the Board has the authority to pay additional compensation to sergeants and above provided that the funding is not paid from the general funds of either the city or the Board. This act allows for the payment of additional compensation to lieutenants and above if the Board determines such additional compensation is appropriate, and repeals the part of the provision to that prohibits the use of general funds.\r\n\r\n\tCurrently, the Board cannot transfer appropriated funds from one line item to another.  This act repeals this provision and provides that the Board has the authority to adopt and certify its budget. There shall be no transfer from one character classification of expenditure in the Board budget to another character classification without the approval of the Board.\r\n\r\n\tUnder current law, the Governor appoints a transition director to ensure an orderly transition of control of the St. Louis police force from the city to the Board of Police Commissioners. This act extends the implementation period from July 1, 2026, to July 1, 2027.\r\n\r\n\tUpon the assumption of control by the Board, this act provides that the Board, rather than the state, shall be responsible for any contractual obligations of the police department.\r\n\r\n\tThis act is similar to SB 1491 (2026), and HB 3066 (2026) .\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SCS/SB 1657 - This act modifies provisions regarding the St. Louis Board of Police Commissioners.\r\n\t\r\n\tUnder current law the Board has the authority to pay additional compensation to sergeants and above provided that the funding is not paid from the general funds of either the city or the Board. This act allows for the payment of additional compensation to lieutenants and above if the Board determines such additional compensation is appropriate, and repeals the part of the provision to that prohibits the use of general funds.\r\n\r\n\tCurrently, the Board cannot transfer appropriated funds from one line item to another.  This act repeals this provision and provides that the Board has the authority to adopt and certify its budget. There shall be no transfer from one character classification of expenditure in the Board budget to another character classification without the approval of the Board.\r\n\r\n\tUnder current law, the Governor appoints a transition director to ensure an orderly transition of control of the St. Louis police force from the city to the Board of Police Commissioners. This act extends the implementation period from July 1, 2026, to July 1, 2027.\r\n\r\n\tUpon the assumption of control by the Board, this act provides that the Board, rather than the state, shall be responsible for any contractual obligations of the police department.\r\n\r\n\tThis act is similar to SB 1491 (2026), and HB 3066 (2026) .\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to the Board of Police Commissioners"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1657"
+    }
+  ],
+  "actions": [
+    {
+      "description": "SCS Voted Do Pass S Transportation, Infrastructure and Public Safety Committee (7122S.03C)",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-03-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fitzwater, Travis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Fitzwater, Travis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB1657.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "7122S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1657.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=4209227",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7122S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SJR 75",
+  "title": "SJR 75 - This constitutional amendment, if approved by the voters, provides that the assessed valuation for any residential real property located in a subdivision located adjacent to a subdivision receiving a tax abatement shall not be increased for the duration of time that the adjacent subdivision receives such abatement.\r\n\r\n\tThis amendment is identical to SJR 12 (2025), SJR 65 (2024), SJR 36 (2023), SJR 42 (2022), SJR 17 (2021), and HJR 74 (2020).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SJR 75 - This constitutional amendment, if approved by the voters, provides that the assessed valuation for any residential real property located in a subdivision located adjacent to a subdivision receiving a tax abatement shall not be increased for the duration of time that the adjacent subdivision receives such abatement.\r\n\r\n\tThis amendment is identical to SJR 12 (2025), SJR 65 (2024), SJR 36 (2023), SJR 42 (2022), SJR 17 (2021), and HJR 74 (2020).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Places limits on increases of the assessment of certain properties"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sjr75"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Select Committee on Property Taxes and the State Tax Commission Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Washington, Barbara",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Washington, Barbara\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4341S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR75.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=668",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4341S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

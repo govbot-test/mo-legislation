@@ -1,0 +1,131 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1635",
+  "title": "SCS/SB 1635 - This act modifies provisions relating to state health plans.\r\n\r\n\tThe board of the Missouri consolidated health care plan (MCHCP) shall implement any new health care benefit mandate enacted by the General Assembly, including but not limited to, requirements for the provision of specific health care services, specific diseases, or for certain health care providers. \r\n\r\n\tNo later than July first of the year following the first full calendar year of coverage for a new health care benefit mandate and quarterly thereafter, the board of the MCHCP shall submit to the director of the Department of Commerce and Insurance a report as described in the act. \r\n\r\n\tNo later than March first of the year following the second full calendar year of the coverage for a new health benefit mandate, the director of the Department of Commerce and Insurance shall submit to the President Pro Tem of the Senate and the Speaker of the House of Representatives a final report outlining the impact of the new health care benefit mandate on the MCHCP.  \r\n\r\n\tAny new health care benefit mandate enacted after August 28, 2026 that requires a health carrier to provide coverage under a health benefit plan for specific health care services, specific diseases, or for certain health care providers shall only apply to the MCHCP. Coverage under MCHCP shall be effective for a period of thirty-six consecutive months and shall remain in effect until the General Assembly takes action or until the mandate sunsets in absence of legislative action.\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SCS/SB 1635 - This act modifies provisions relating to state health plans.\r\n\r\n\tThe board of the Missouri consolidated health care plan (MCHCP) shall implement any new health care benefit mandate enacted by the General Assembly, including but not limited to, requirements for the provision of specific health care services, specific diseases, or for certain health care providers. \r\n\r\n\tNo later than July first of the year following the first full calendar year of coverage for a new health care benefit mandate and quarterly thereafter, the board of the MCHCP shall submit to the director of the Department of Commerce and Insurance a report as described in the act. \r\n\r\n\tNo later than March first of the year following the second full calendar year of the coverage for a new health benefit mandate, the director of the Department of Commerce and Insurance shall submit to the President Pro Tem of the Senate and the Speaker of the House of Representatives a final report outlining the impact of the new health care benefit mandate on the MCHCP.  \r\n\r\n\tAny new health care benefit mandate enacted after August 28, 2026 that requires a health carrier to provide coverage under a health benefit plan for specific health care services, specific diseases, or for certain health care providers shall only apply to the MCHCP. Coverage under MCHCP shall be effective for a period of thirty-six consecutive months and shall remain in effect until the General Assembly takes action or until the mandate sunsets in absence of legislative action.\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to state health plans"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1635"
+    }
+  ],
+  "actions": [
+    {
+      "description": "SCS Voted Do Pass S Insurance and Banking Committee (7075S.02C)",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Insurance and Banking Committee",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Insurance and Banking Committee",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gregory (21), Kurtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Gregory (21), Kurtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB1635.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "7075S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1635.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=3539352",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7075S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

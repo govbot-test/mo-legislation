@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1418",
+  "title": "SB 1418 - This act provides that any official court record pertaining to a case in which a person is charged with a felony, class A misdemeanor, violation for driving under the influence of drugs or alcohol, offense that can be enhanced to a class A misdemeanor or higher for subsequent violations, sexual offense, and any ordinance violation shall not be made available to a member of the public through a statewide court automation system. However, the official record may be made available through any statewide court automation system to members of the public physically at the courthouse where the official court record is a record for that court. Additionally, such records shall be available in such automation system if the person accessing such record is court personnel, law enforcement agencies, judges, prosecutors, a defendant's attorney, or any other person needing access to such record if deemed necessary by the court.\r\n\r\n\tThis act is identical to SB 442 (2025), SB 1230 (2024), and SB 298 (2023) and is substantially similar to HB 2033 (2022), HB 146 (2021), and HCS/HB 1686 (2020), and is similar to HB 1221 (2019).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1418 - This act provides that any official court record pertaining to a case in which a person is charged with a felony, class A misdemeanor, violation for driving under the influence of drugs or alcohol, offense that can be enhanced to a class A misdemeanor or higher for subsequent violations, sexual offense, and any ordinance violation shall not be made available to a member of the public through a statewide court automation system. However, the official record may be made available through any statewide court automation system to members of the public physically at the courthouse where the official court record is a record for that court. Additionally, such records shall be available in such automation system if the person accessing such record is court personnel, law enforcement agencies, judges, prosecutors, a defendant's attorney, or any other person needing access to such record if deemed necessary by the court.\r\n\r\n\tThis act is identical to SB 442 (2025), SB 1230 (2024), and SB 298 (2023) and is substantially similar to HB 2033 (2022), HB 146 (2021), and HCS/HB 1686 (2020), and is similar to HB 1221 (2019).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Provides exemptions for records of certain criminal offenses from public access on statewide court automation systems"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1418"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Trent, Curtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Trent, Curtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5959S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1418.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6860",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5959S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1473",
+  "title": "SB 1473 - The act creates provisions relating to rebates by electrical corporations.\r\n\r\n\tUnder the act, within 90 days after August 28, 2026, an electrical corporation shall file an application with the Public Service Commission requesting approval of the corporation's tariff to provide a rebate to any customer-generator installing any energy storage system and, if applicable, a new solar electric system.  Specifics of the rebate are described in the act. \r\n\r\n\tThe Commission shall review rebate applications and make modifications, if necessary, that are consistent with the Commission's authority.  No later than 180 days after the electrical corporation files the application, the Commission shall hold a hearing and issue an order approving, or approving with modifications, the tariff. Eligibility requirements for a rebate are described in the act. \r\n\r\n\tAn electrical corporation's obligation to make rebate payments shall not exceed specific limitations described in the act. \r\n\r\n\tAfter the issuance of a rebate, an electrical corporation shall be permitted to recover the cost of all rebate payments through either base rates or a rate adjustment mechanism and shall also be permitted to defer and amortize the recovery of such costs, including interest at a short-term borrowing rate, as described in the act. \r\n\r\n\tThe act is identical to HB 1487 (2025) and substantially similar to HB 1731 (2026).\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1473 - The act creates provisions relating to rebates by electrical corporations.\r\n\r\n\tUnder the act, within 90 days after August 28, 2026, an electrical corporation shall file an application with the Public Service Commission requesting approval of the corporation's tariff to provide a rebate to any customer-generator installing any energy storage system and, if applicable, a new solar electric system.  Specifics of the rebate are described in the act. \r\n\r\n\tThe Commission shall review rebate applications and make modifications, if necessary, that are consistent with the Commission's authority.  No later than 180 days after the electrical corporation files the application, the Commission shall hold a hearing and issue an order approving, or approving with modifications, the tariff. Eligibility requirements for a rebate are described in the act. \r\n\r\n\tAn electrical corporation's obligation to make rebate payments shall not exceed specific limitations described in the act. \r\n\r\n\tAfter the issuance of a rebate, an electrical corporation shall be permitted to recover the cost of all rebate payments through either base rates or a rate adjustment mechanism and shall also be permitted to defer and amortize the recovery of such costs, including interest at a short-term borrowing rate, as described in the act. \r\n\r\n\tThe act is identical to HB 1487 (2025) and substantially similar to HB 1731 (2026).\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to rebates by electrical corporations"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1473"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Trent, Curtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Trent, Curtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5879S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1473.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=52369",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5879S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

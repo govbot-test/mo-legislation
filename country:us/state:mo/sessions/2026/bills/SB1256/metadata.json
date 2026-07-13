@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1256",
+  "title": "SB 1256 - This act modifies various provisions relating to the Uniform Commercial Code.\r\n\r\n\tThe act provides that state law, rather than the local law of a securities intermediary's jurisdiction, governs various aspects of the acquisition, rights, and duties of investment securities, as well as the perfection, the effect of perfection or nonperfection, and the priority of a security interest in a security entitlement or securities account. Provisions are repealed establishing the process for determining a securities intermediary's jurisdiction.\r\n\r\n\tThe act additionally repeals a provision establishing that a claim of creditors of a securities intermediary who have a security interest in a financial asset held by a securities intermediary has priority over claims of the securities intermediary's entitlement holders who have security entitlements with respect to that financial asset if the creditor has control over the financial asset.\r\n\r\n\tThe act additionally repeals a provision providing that if a clearing corporation does not have sufficient financial assets to satisfy both its obligations to entitlement holders who have security entitlements with respect to a financial asset and its obligation to a creditor of the clearing corporation who has a security interest in that financial asset, the claim of the creditor has priority over the claims of entitlement holders.\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1256 - This act modifies various provisions relating to the Uniform Commercial Code.\r\n\r\n\tThe act provides that state law, rather than the local law of a securities intermediary's jurisdiction, governs various aspects of the acquisition, rights, and duties of investment securities, as well as the perfection, the effect of perfection or nonperfection, and the priority of a security interest in a security entitlement or securities account. Provisions are repealed establishing the process for determining a securities intermediary's jurisdiction.\r\n\r\n\tThe act additionally repeals a provision establishing that a claim of creditors of a securities intermediary who have a security interest in a financial asset held by a securities intermediary has priority over claims of the securities intermediary's entitlement holders who have security entitlements with respect to that financial asset if the creditor has control over the financial asset.\r\n\r\n\tThe act additionally repeals a provision providing that if a clearing corporation does not have sufficient financial assets to satisfy both its obligations to entitlement holders who have security entitlements with respect to a financial asset and its obligation to a creditor of the clearing corporation who has a security interest in that financial asset, the claim of the creditor has priority over the claims of entitlement holders.\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to the Uniform Commercial Code"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1256"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Insurance and Banking Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nicola, Joe",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nicola, Joe\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3830S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1256.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=177",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3830S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

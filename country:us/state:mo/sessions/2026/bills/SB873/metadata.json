@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 873",
+  "title": "SB 873 - Current law allows a taxpayer to claim a tax credit for contributions made to shelters for victims of domestic violence or to rape crisis centers. For all tax years beginning on or after January 1, 2027, this act modifies such tax credit to also allow a taxpayer to claim a $1,000 tax credit if the taxpayer has converted abandoned property into an operational shelter for victims of domestic violence, and a $500 tax credit if the taxpayer has rented residential real estate to a victim of domestic violence.\r\n\r\n\tThis act is identical to HB 2345 (2026), SB 205 (2025), SB 437 (2023), and HB 2523 (2020), and is substantially similar to HB 279 (2025) and SB 795 (2024) and to a provision in SB 382 (2023).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 873 - Current law allows a taxpayer to claim a tax credit for contributions made to shelters for victims of domestic violence or to rape crisis centers. For all tax years beginning on or after January 1, 2027, this act modifies such tax credit to also allow a taxpayer to claim a $1,000 tax credit if the taxpayer has converted abandoned property into an operational shelter for victims of domestic violence, and a $500 tax credit if the taxpayer has rented residential real estate to a victim of domestic violence.\r\n\r\n\tThis act is identical to HB 2345 (2026), SB 205 (2025), SB 437 (2023), and HB 2523 (2020), and is substantially similar to HB 279 (2025) and SB 795 (2024) and to a provision in SB 382 (2023).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Authorizes a tax credit for providing housing to victims of domestic violence"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb873"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S Progress and Development Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Progress and Development Committee",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Progress and Development Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Washington, Barbara",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Washington, Barbara\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4348S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB873.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=634",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4348S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

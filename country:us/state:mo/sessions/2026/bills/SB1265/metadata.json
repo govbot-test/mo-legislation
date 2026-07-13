@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1265",
+  "title": "SB 1265 - This act modifies various provisions relating to illegal aliens.\r\n\r\nSANCTUARY CITIES (Section 67.307)\r\n\tThe act provides that any municipality that enacts or adopts a sanctuary policy shall be subject to a fine of $25,500 for each day on which the municipality has such sanctuary policy in effect.\r\n\r\nE-VERIFY (Section 285.530)\r\n\tCurrent law requires only public employers to enroll and actively participate in a federal work authorization program, while all other employers are permitted, but not required, to enroll and participate. This act requires all employers to enroll and actively participate in a federal work authorization program.\r\n\r\n\tThis provision is identical to a provision in SB 1038 (2026), a provision in SB 1070 (2026), SB 1373 (2024), substantially similar to provisions in SB 528 (2025) and HB 120 (2025), and similar to a provision in HB 1515 (2024), a provision in HCS/HB 2489 (2024), a provision in HB 2844 (2024), and a provision in HCS/HB 188 (2023).\r\n\r\nOFFENSE OF TRANSPORTATION, CONCEALMENT, OR INDUCEMENT OF ILLEGAL ALIENS (Section 577.675)\r\n\tThe act expands the offense of transportation of an illegal alien to include the concealment or inducement of an illegal alien. Any person is guilty of such an offense, punished as a class D felony, if he or she knowingly:\r\n\r\n\u2022 Conceals, harbors or shields or attempts to conceal, harbor or shield an illegal alien from detection in any place in this state, including any building or any means of transportation, if the person knows or recklessly disregards the fact that the alien has come to, has entered, or remains in the United States in violation of law; or\r\n\r\n\u2022 Encourages or induces an alien to come to or reside in this state.\r\n\r\nLOCAL ENFORCEMENT OF FEDERAL IMMIGRATION LAWS (Section 590.250)\r\n\tThe act allows any law enforcement officer or agency to enforce the provisions of federal immigration law that establish criminal penalties.\r\n\r\n\tThis act is identical to SB 114 (2025) and substantially similar to SB 1138 (2024), SB 1373 (2024), HB 2470 (2024), SB 130 (2023), and SB 1227 (2022).\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1265 - This act modifies various provisions relating to illegal aliens.\r\n\r\nSANCTUARY CITIES (Section 67.307)\r\n\tThe act provides that any municipality that enacts or adopts a sanctuary policy shall be subject to a fine of $25,500 for each day on which the municipality has such sanctuary policy in effect.\r\n\r\nE-VERIFY (Section 285.530)\r\n\tCurrent law requires only public employers to enroll and actively participate in a federal work authorization program, while all other employers are permitted, but not required, to enroll and participate. This act requires all employers to enroll and actively participate in a federal work authorization program.\r\n\r\n\tThis provision is identical to a provision in SB 1038 (2026), a provision in SB 1070 (2026), SB 1373 (2024), substantially similar to provisions in SB 528 (2025) and HB 120 (2025), and similar to a provision in HB 1515 (2024), a provision in HCS/HB 2489 (2024), a provision in HB 2844 (2024), and a provision in HCS/HB 188 (2023).\r\n\r\nOFFENSE OF TRANSPORTATION, CONCEALMENT, OR INDUCEMENT OF ILLEGAL ALIENS (Section 577.675)\r\n\tThe act expands the offense of transportation of an illegal alien to include the concealment or inducement of an illegal alien. Any person is guilty of such an offense, punished as a class D felony, if he or she knowingly:\r\n\r\n\u2022 Conceals, harbors or shields or attempts to conceal, harbor or shield an illegal alien from detection in any place in this state, including any building or any means of transportation, if the person knows or recklessly disregards the fact that the alien has come to, has entered, or remains in the United States in violation of law; or\r\n\r\n\u2022 Encourages or induces an alien to come to or reside in this state.\r\n\r\nLOCAL ENFORCEMENT OF FEDERAL IMMIGRATION LAWS (Section 590.250)\r\n\tThe act allows any law enforcement officer or agency to enforce the provisions of federal immigration law that establish criminal penalties.\r\n\r\n\tThis act is identical to SB 114 (2025) and substantially similar to SB 1138 (2024), SB 1373 (2024), HB 2470 (2024), SB 130 (2023), and SB 1227 (2022).\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates new provisions relating to illegal aliens"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1265"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brattin, Rick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brattin, Rick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5307S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1265.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=499",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5307S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

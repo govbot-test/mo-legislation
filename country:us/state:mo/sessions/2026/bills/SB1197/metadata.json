@@ -1,0 +1,141 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1197",
+  "title": "SCS/SB 1197 - This act establishes the \"Alexander Whalen Safe Highways Act\", requiring the Department of Transportation to implement wrong-way vehicle detection systems (WWVDSs), as defined in the act.  Implementation shall begin no later than March 1, 2027, and shall prioritize certain interchanges, as specified in the act.\r\n\r\n\tThe Department shall evaluate the feasibility and effectiveness of notification systems for other drivers and for emergency responders.  The Department shall produce annual reports on the implementation and effectiveness of WWVDSs.\r\n\r\n\tThis act is similar to SCS/SB 672 (2025) and is similar to HB 1387 (2025).\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SCS/SB 1197 - This act establishes the \"Alexander Whalen Safe Highways Act\", requiring the Department of Transportation to implement wrong-way vehicle detection systems (WWVDSs), as defined in the act.  Implementation shall begin no later than March 1, 2027, and shall prioritize certain interchanges, as specified in the act.\r\n\r\n\tThe Department shall evaluate the feasibility and effectiveness of notification systems for other drivers and for emergency responders.  The Department shall produce annual reports on the implementation and effectiveness of WWVDSs.\r\n\r\n\tThis act is similar to SCS/SB 672 (2025) and is similar to HB 1387 (2025).\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Enacts the \"Alexander Whalen Safe Highways Act\" pertaining to wrong-way vehicle detection systems"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1197"
+    }
+  ],
+  "actions": [
+    {
+      "description": "SCS Voted Do Pass S Transportation, Infrastructure and Public Safety Committee (4863S.02C)",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gregory (15), David",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Gregory (15), David\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB1197.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4863S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1197.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=455",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4863S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

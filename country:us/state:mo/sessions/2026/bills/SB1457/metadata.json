@@ -1,0 +1,128 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1457",
+  "title": "SB 1457 - This act establishes provisions relating to charitable organizations named as beneficiaries of property in an instrument other than a will or trust. For the purpose of obtaining the property or information regarding the property, a charitable organization named as a beneficiary may present an affidavit, as described in the act, accompanied by certain documentation relating to the charitable organization and decedent to the holder of the property or to any other person with information regarding the property. The holder of the property shall not request additional personal information from any individual who is an employee or a board member of the charitable organization. \r\n\r\n\tAdditionally, if the requirements of this act for the affidavit and accompanying documents are met, the charitable organization may have:\r\n\u2022\tThe decedent\u2019s property paid, delivered, or transferred; \r\n\u2022\tThe registered ownership on the books of the corporation changed by the transfer agent of a security to the charitable organization; or \r\n\u2022\tThe information requested delivered to the organization.\r\n\r\n\tThe property holder and any person who, in good faith and with no knowledge that the affidavit is incorrect, delivers the property or requested information shall not be liable to any person. The property holder may verify a charitable organization's authority, but such verification shall not exceed 30 days from the date of delivery of the affidavit. Any right or title acquired from the charitable organization is not invalid due to a misapplication by the charitable organization. A transaction or a lien created by a transaction entered into by the charitable organization and anyone acting in reliance on the affidavit shall be enforceable against the property the charitable organization has requested.\r\n\r\n\tIf the holder refuses to provide the property or information within 30 days of receiving the affidavit, the charitable organization may bring an action to recover the property or to receive information. Such action shall be brought within one year of the date of the act or failure to act. If the court finds that the holder acted unreasonably, the court may award damages, costs, attorney's fees, and a civil penalty in an amount between $500 and $10,000. \r\n\r\n\tThis act is substantially similar to HB 1924 (2026).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1457 - This act establishes provisions relating to charitable organizations named as beneficiaries of property in an instrument other than a will or trust. For the purpose of obtaining the property or information regarding the property, a charitable organization named as a beneficiary may present an affidavit, as described in the act, accompanied by certain documentation relating to the charitable organization and decedent to the holder of the property or to any other person with information regarding the property. The holder of the property shall not request additional personal information from any individual who is an employee or a board member of the charitable organization. \r\n\r\n\tAdditionally, if the requirements of this act for the affidavit and accompanying documents are met, the charitable organization may have:\r\n\u2022\tThe decedent\u2019s property paid, delivered, or transferred; \r\n\u2022\tThe registered ownership on the books of the corporation changed by the transfer agent of a security to the charitable organization; or \r\n\u2022\tThe information requested delivered to the organization.\r\n\r\n\tThe property holder and any person who, in good faith and with no knowledge that the affidavit is incorrect, delivers the property or requested information shall not be liable to any person. The property holder may verify a charitable organization's authority, but such verification shall not exceed 30 days from the date of delivery of the affidavit. Any right or title acquired from the charitable organization is not invalid due to a misapplication by the charitable organization. A transaction or a lien created by a transaction entered into by the charitable organization and anyone acting in reliance on the affidavit shall be enforceable against the property the charitable organization has requested.\r\n\r\n\tIf the holder refuses to provide the property or information within 30 days of receiving the affidavit, the charitable organization may bring an action to recover the property or to receive information. Such action shall be brought within one year of the date of the act or failure to act. If the court finds that the holder acted unreasonably, the court may award damages, costs, attorney's fees, and a civil penalty in an amount between $500 and $10,000. \r\n\r\n\tThis act is substantially similar to HB 1924 (2026).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes provisions relating to affidavits for charitable organizations named as beneficiaries of property in instruments other than a will or trust"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1457"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Conducted S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Hearing Cancelled S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6356S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1457.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=34630",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6356S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

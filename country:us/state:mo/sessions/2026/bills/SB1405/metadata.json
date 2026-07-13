@@ -1,0 +1,140 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1405",
+  "title": "SB 1405 - This act modifies the requirements for licensure as a speech pathologist or audiologist by providing for completion of a clinical fellowship under the direct supervision of a licensed speech-language pathologist in good standing, rather than under the direct supervision of a person licensed by the state of Missouri in the profession in which the applicant seeks to be licensed.\r\n\r\n\tThis act is identical to a provision in the perfected SS/SB 895 (2026), in SS/SB 1083 (2026), in HCS/HB 2372 (2026), in HCS/SS/SB 7 (2025), in the perfected SS/SB 61 (2025), in the perfected HCS/HB 268 (2025), SB 431 (2025), in the perfected HB 478 (2025), in HB 765 (2025), and in SCS/HB 834 (2025), and is substantially similar to a provision in HCS/SB 1019 (2026), in HCS/SB 1092 (2026), in HCS/SS#2/SB 1233 (2026), HCS/HB 2300 (2026) and SCS/HB 2591 (2026).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1405 - This act modifies the requirements for licensure as a speech pathologist or audiologist by providing for completion of a clinical fellowship under the direct supervision of a licensed speech-language pathologist in good standing, rather than under the direct supervision of a person licensed by the state of Missouri in the profession in which the applicant seeks to be licensed.\r\n\r\n\tThis act is identical to a provision in the perfected SS/SB 895 (2026), in SS/SB 1083 (2026), in HCS/HB 2372 (2026), in HCS/SS/SB 7 (2025), in the perfected SS/SB 61 (2025), in the perfected HCS/HB 268 (2025), SB 431 (2025), in the perfected HB 478 (2025), in HB 765 (2025), and in SCS/HB 834 (2025), and is substantially similar to a provision in HCS/SB 1019 (2026), in HCS/SB 1092 (2026), in HCS/SS#2/SB 1233 (2026), HCS/HB 2300 (2026) and SCS/HB 2591 (2026).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies the provision relating to clinical fellowships for licensure of speech pathologists and audiologists"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1405"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S Emerging Issues and Professional Registration Committee",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Emerging Issues and Professional Registration Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Hearing Cancelled S Emerging Issues and Professional Registration Committee",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Emerging Issues and Professional Registration Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "McCreery, Tracy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            McCreery, Tracy\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4847S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1405.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=699",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4847S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

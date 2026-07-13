@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SJR 77",
+  "title": "SJR 77 - This constitutional amendment, if approved by the voters, expands the current exemption from real property taxes for former prisoners of war with a total service-connected disability to all disabled veterans, as defined in the amendment, including surviving spouses of deceased disabled veterans.\r\n\r\n\tThis amendment is identical to SJR 88 (2026), SJR 94 (2026),  HCS/HJR 115 (2026), SCS/SJR 14 (2025), SS/SJR 46 (2025), and HJR 6 (2025), and is substantially similar to HJR 41 (2025), HJR 64 (2025), HJR 66 (2025), HJR 74 (2025), HJR 96 (2025), SJR 58 (2024), SJR 84 (2024), HCS/HJR 75 (2024), HJR 95 (2024), HJR 118 (2024), SJR 16 (2023), HCS/HJRs 7 & 11 (2023), HCS/HJR 52 (2023), HJR 57 (2023), SCS/SJR 40 (2022), HJR 72 (2022), HJR 73 (2022), HJR 86 (2022), HJR 89 (2022), HJR 115 (2022), HJR 119 (2022), HJR 140 (2022), HJR 3 (2021), HJR 32 (2021), HJR 63 (2021), SJR 23 (2018), SJR 34 (2018), HJR 63 (2018), and HJR 57 (2018).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SJR 77 - This constitutional amendment, if approved by the voters, expands the current exemption from real property taxes for former prisoners of war with a total service-connected disability to all disabled veterans, as defined in the amendment, including surviving spouses of deceased disabled veterans.\r\n\r\n\tThis amendment is identical to SJR 88 (2026), SJR 94 (2026),  HCS/HJR 115 (2026), SCS/SJR 14 (2025), SS/SJR 46 (2025), and HJR 6 (2025), and is substantially similar to HJR 41 (2025), HJR 64 (2025), HJR 66 (2025), HJR 74 (2025), HJR 96 (2025), SJR 58 (2024), SJR 84 (2024), HCS/HJR 75 (2024), HJR 95 (2024), HJR 118 (2024), SJR 16 (2023), HCS/HJRs 7 & 11 (2023), HCS/HJR 52 (2023), HJR 57 (2023), SCS/SJR 40 (2022), HJR 72 (2022), HJR 73 (2022), HJR 86 (2022), HJR 89 (2022), HJR 115 (2022), HJR 119 (2022), HJR 140 (2022), HJR 3 (2021), HJR 32 (2021), HJR 63 (2021), SJR 23 (2018), SJR 34 (2018), HJR 63 (2018), and HJR 57 (2018).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Authorizes a property tax exemption for disabled veterans"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sjr77"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Select Committee on Property Taxes and the State Tax Commission Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mosley, Angela",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Mosley, Angela\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3804S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR77.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=685",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3804S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

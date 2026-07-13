@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1116",
+  "title": "SB 1116 - The act establishes the \"Missouri Nuclear Energy Advancement Act\".\r\n\r\n\tThe act establishes the \"Missouri Nuclear Energy Advancement Act\".\r\n\r\n\tThe act provides that there shall be no prohibition on the construction or operation of nuclear electric generation facilities in the state, provided that all licensing requirements of the facilities have been satisfied and the state's emergency preparedness for nuclear electric generation is considered to be in good standing by the Missouri State Emergency Management Agency.\r\n\r\n\tUnder the act, the Governor shall establish the Missouri Advanced Nuclear Energy Office (\"Office\") within the Department of Natural Resources.  The Governor shall appoint the director of the Office.  The director shall not have any interests that substantially conflict with the director's duties as the head of the Office.  The duties of the office are described in the act. The duties of the Director are described in the act.\r\n\r\n\tThe Office shall administer the Missouri Advanced Nuclear Development Fund, established by the act.  The Fund shall provide grants to eligible nuclear energy projects in the state, as described in the act.  Specifics of the grants are described in the act.  A grant shall not exceed $100,000,000.\r\n\r\n\tFor projects involving the commission of an advanced nuclear reactor, the Office shall require that until the reactor is commissioned, the net proceeds of the grant recipient's sales of electricity from a natural gas electric generation facility shall be dedicated to funding the pre-commissioning costs of the reactor.\r\n\r\n\tAll information in grant applications shall be kept confidential and shall not be released to the public or in response to any record request. \r\n\r\n\tThe act is substantially similar to HB 2598 (2026).\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1116 - The act establishes the \"Missouri Nuclear Energy Advancement Act\".\r\n\r\n\tThe act establishes the \"Missouri Nuclear Energy Advancement Act\".\r\n\r\n\tThe act provides that there shall be no prohibition on the construction or operation of nuclear electric generation facilities in the state, provided that all licensing requirements of the facilities have been satisfied and the state's emergency preparedness for nuclear electric generation is considered to be in good standing by the Missouri State Emergency Management Agency.\r\n\r\n\tUnder the act, the Governor shall establish the Missouri Advanced Nuclear Energy Office (\"Office\") within the Department of Natural Resources.  The Governor shall appoint the director of the Office.  The director shall not have any interests that substantially conflict with the director's duties as the head of the Office.  The duties of the office are described in the act. The duties of the Director are described in the act.\r\n\r\n\tThe Office shall administer the Missouri Advanced Nuclear Development Fund, established by the act.  The Fund shall provide grants to eligible nuclear energy projects in the state, as described in the act.  Specifics of the grants are described in the act.  A grant shall not exceed $100,000,000.\r\n\r\n\tFor projects involving the commission of an advanced nuclear reactor, the Office shall require that until the reactor is commissioned, the net proceeds of the grant recipient's sales of electricity from a natural gas electric generation facility shall be dedicated to funding the pre-commissioning costs of the reactor.\r\n\r\n\tAll information in grant applications shall be kept confidential and shall not be released to the public or in response to any record request. \r\n\r\n\tThe act is substantially similar to HB 2598 (2026).\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to nuclear energy projects"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1116"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Conducted S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fitzwater, Travis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Fitzwater, Travis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5241S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1116.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=135",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5241S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

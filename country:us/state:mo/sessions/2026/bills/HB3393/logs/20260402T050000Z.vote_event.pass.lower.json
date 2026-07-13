@@ -1,0 +1,23 @@
+{
+  "identifier": "",
+  "motion_text": "HCS Reported Do Pass (H) - AYES: 12 NOES: 1 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-02T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "fd4d054a-754d-11f1-b24a-b6ae219d7a94",
+  "bill_action": null,
+  "bill_identifier": "HB 3393",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB3393&year=2026&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

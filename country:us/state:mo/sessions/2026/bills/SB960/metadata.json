@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 960",
+  "title": "SB 960 - The act repeals certain provisions and creates new provisions relating to the membership of the Clean Water Commission.\r\n\r\n\tUnder the act, each Commission member shall serve in a manner consistent with the provisions of Missouri Clean Water Law. The Commission shall be comprised of the following members:\r\n\r\n\t-\tOne member, instead of at least two as currently provided, shall be knowledgeable about agriculture;\r\n\t-\tOne member, instead of at least two as currently provided, shall be knowledgeable about the needs of industry or mining;\r\n\t-\tOne member shall be knowledgeable about the needs of publicly owned wastewater treatment works; and\r\n\t-\tFour members, instead of no more than four as currently provided, shall represent the public.\r\n\r\n\tAt the first meeting of the Commission and annually thereafter, instead of at yearly intervals as currently provided, the members shall select a chairman and a vice chairman.\r\n\r\n\tThe Governor shall not appoint any person who has a substantial interest in certain business entities if located in the state. The Commission shall establish rules specifying when members shall exempt themselves from participating in discussions and from voting on issues due to potential conflict of interest. Specifics relating to the resolution of a conflict of interest are described in the act.\r\n\r\n\tAny Commission member absent from four, instead of six as currently provided, consecutive regular commission meetings shall be deemed to have resigned and the vacancy shall be filled immediately.\r\n\r\n\tThe act is identical to HB 3295 (2026), SB 569 (2025), SB 1419 (2024) and HB 2853 (2024).\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 960 - The act repeals certain provisions and creates new provisions relating to the membership of the Clean Water Commission.\r\n\r\n\tUnder the act, each Commission member shall serve in a manner consistent with the provisions of Missouri Clean Water Law. The Commission shall be comprised of the following members:\r\n\r\n\t-\tOne member, instead of at least two as currently provided, shall be knowledgeable about agriculture;\r\n\t-\tOne member, instead of at least two as currently provided, shall be knowledgeable about the needs of industry or mining;\r\n\t-\tOne member shall be knowledgeable about the needs of publicly owned wastewater treatment works; and\r\n\t-\tFour members, instead of no more than four as currently provided, shall represent the public.\r\n\r\n\tAt the first meeting of the Commission and annually thereafter, instead of at yearly intervals as currently provided, the members shall select a chairman and a vice chairman.\r\n\r\n\tThe Governor shall not appoint any person who has a substantial interest in certain business entities if located in the state. The Commission shall establish rules specifying when members shall exempt themselves from participating in discussions and from voting on issues due to potential conflict of interest. Specifics relating to the resolution of a conflict of interest are described in the act.\r\n\r\n\tAny Commission member absent from four, instead of six as currently provided, consecutive regular commission meetings shall be deemed to have resigned and the vacancy shall be filled immediately.\r\n\r\n\tThe act is identical to HB 3295 (2026), SB 569 (2025), SB 1419 (2024) and HB 2853 (2024).\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Repeals and creates new provisions relating to the members of the Clean Water Commission"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb960"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Conducted S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roberts, Steven",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Roberts, Steven\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4773S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB960.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=188",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4773S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1406",
+  "title": "SB 1406 - This act establishes the \"Missouri Defense and Energy Independence Act\".\r\n\r\n\tFor all tax years beginning on or after January 1, 2027, this act authorizes a qualified company to claim a tax credit not to exceed $6 million for qualified conversion costs incurred by the qualified company for converting such company to produce chemicals, metals, gases, or rare earth minerals that will be used for projects designed to decrease or eliminate reliance on foreign-produced materials.\r\n\r\n\tTax credits authorized by the act shall be issued to a qualified company in four equal annual installments. Tax credits shall not be refundable or carried forward, and shall not be transferred, sold, or assigned.\r\n\r\n\tThis act also establishes the \"Grants for Independence from Foreign Influence Fund\", which shall consist of at least $10 million in appropriated moneys. The fund shall be used by the Department of Economic Development to provide grants to qualified companies in an amount not to exceed $500,000. Grant funds shall be used solely for qualified conversion costs incurred before the completion of the conversion of the qualified company.\r\n\r\n\tThis act shall sunset on August 28, 2032, unless reauthorized by the General Assembly.\r\n\r\n\tThis act is identical to SB 537 (2025) and HB 1511 (2025), and is substantially similar to SS/SB 1553 (2026), HB 3027 (2026), SB 1360 (2024), and HB 1834 (2024), and to a provision in HCS/HB 1935 (2024).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1406 - This act establishes the \"Missouri Defense and Energy Independence Act\".\r\n\r\n\tFor all tax years beginning on or after January 1, 2027, this act authorizes a qualified company to claim a tax credit not to exceed $6 million for qualified conversion costs incurred by the qualified company for converting such company to produce chemicals, metals, gases, or rare earth minerals that will be used for projects designed to decrease or eliminate reliance on foreign-produced materials.\r\n\r\n\tTax credits authorized by the act shall be issued to a qualified company in four equal annual installments. Tax credits shall not be refundable or carried forward, and shall not be transferred, sold, or assigned.\r\n\r\n\tThis act also establishes the \"Grants for Independence from Foreign Influence Fund\", which shall consist of at least $10 million in appropriated moneys. The fund shall be used by the Department of Economic Development to provide grants to qualified companies in an amount not to exceed $500,000. Grant funds shall be used solely for qualified conversion costs incurred before the completion of the conversion of the qualified company.\r\n\r\n\tThis act shall sunset on August 28, 2032, unless reauthorized by the General Assembly.\r\n\r\n\tThis act is identical to SB 537 (2025) and HB 1511 (2025), and is substantially similar to SS/SB 1553 (2026), HB 3027 (2026), SB 1360 (2024), and HB 1834 (2024), and to a provision in HCS/HB 1935 (2024).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the Missouri Defense and Energy Independence Act"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1406"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Cancelled S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Henderson, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Henderson, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5856S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1406.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=703",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5856S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

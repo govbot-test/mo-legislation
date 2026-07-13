@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1682",
+  "title": "SB 1682 - Under this act, any person who acquires, uses, produces, possesses, transfers, or administers psilocybin for the person's own therapeutic use shall not be subject to state or local criminal or civil penalties if the person is a veteran or first responder and is 21 years of age or older and suffers from a condition listed in the act.  The person shall be enrolled in a study regarding the use of psilocybin to treat such conditions and shall provide the Department of Mental Health with specified information. A facilitator shall be present during the administration of the psilocybin and the use of psilocybin shall be limited to no more than 150 milligrams of psilocybin analyte during any 12-month period.  A person who assists another in any of the acts permitted under this act and any laboratory testing psilocybin under this act shall not be subject to state or local criminal or civil penalties.\r\n\r\n\tSubject to appropriation, the Department shall provide grants totaling $2 million dollars for research on the use and efficacy of psilocybin for the treatment of conditions listed in the act.\r\n\r\n\tThe Department shall prepare annual reports for the Governor, Lieutenant Governor, and the General Assembly on the implementation and outcomes of psilocybin use under this act. \r\n\r\n\tNo state agency shall disclose to the federal government or any unauthorized third party the statewide list or any individual information of persons who meet the requirements of this act.\r\n\r\n\tAdditionally, this act modifies current law on the use of investigational drugs and devices for individuals with terminal illnesses to include individuals with life-threatening or severely debilitating conditions or illnesses.  Currently, investigational drugs shall not include Schedule I controlled substances.  This act repeals that prohibition.\r\n\r\n\tThis provision is substantially similar to SB 1454 (2026).\r\n\r\n\tFinally, this act requires the Department of Mental Health, in collaboration with a Missouri university hospital or contract research organizations conducting FDA-approved trials, to conduct a study on the efficacy of using alternative medicine and therapies, including, but not limited to, the use of psilocybin, for the treatment of veterans and first responders suffering post-traumatic stress disorder, major depressive disorder, substance use disorders, or who require end-of-life care, as described in the act.  Such study shall include a study of the use of psilocybin to treat such conditions, as well as a literature review and the submission of various reports.  No person participating in the study shall be subject to criminal or civil liability or sanction for participating, except in cases of gross negligence or willful misconduct.\r\n\r\n\tThis act is substantially similar to HB 1717 (2026) and similar to SCS/SB 90 (2025), SCS/SB 768 (2024), HCS/HB 1830 (2024), HB 1154 (2023), and SB 614 (2023).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1682 - Under this act, any person who acquires, uses, produces, possesses, transfers, or administers psilocybin for the person's own therapeutic use shall not be subject to state or local criminal or civil penalties if the person is a veteran or first responder and is 21 years of age or older and suffers from a condition listed in the act.  The person shall be enrolled in a study regarding the use of psilocybin to treat such conditions and shall provide the Department of Mental Health with specified information. A facilitator shall be present during the administration of the psilocybin and the use of psilocybin shall be limited to no more than 150 milligrams of psilocybin analyte during any 12-month period.  A person who assists another in any of the acts permitted under this act and any laboratory testing psilocybin under this act shall not be subject to state or local criminal or civil penalties.\r\n\r\n\tSubject to appropriation, the Department shall provide grants totaling $2 million dollars for research on the use and efficacy of psilocybin for the treatment of conditions listed in the act.\r\n\r\n\tThe Department shall prepare annual reports for the Governor, Lieutenant Governor, and the General Assembly on the implementation and outcomes of psilocybin use under this act. \r\n\r\n\tNo state agency shall disclose to the federal government or any unauthorized third party the statewide list or any individual information of persons who meet the requirements of this act.\r\n\r\n\tAdditionally, this act modifies current law on the use of investigational drugs and devices for individuals with terminal illnesses to include individuals with life-threatening or severely debilitating conditions or illnesses.  Currently, investigational drugs shall not include Schedule I controlled substances.  This act repeals that prohibition.\r\n\r\n\tThis provision is substantially similar to SB 1454 (2026).\r\n\r\n\tFinally, this act requires the Department of Mental Health, in collaboration with a Missouri university hospital or contract research organizations conducting FDA-approved trials, to conduct a study on the efficacy of using alternative medicine and therapies, including, but not limited to, the use of psilocybin, for the treatment of veterans and first responders suffering post-traumatic stress disorder, major depressive disorder, substance use disorders, or who require end-of-life care, as described in the act.  Such study shall include a study of the use of psilocybin to treat such conditions, as well as a literature review and the submission of various reports.  No person participating in the study shall be subject to criminal or civil liability or sanction for participating, except in cases of gross negligence or willful misconduct.\r\n\r\n\tThis act is substantially similar to HB 1717 (2026) and similar to SCS/SB 90 (2025), SCS/SB 768 (2024), HCS/HB 1830 (2024), HB 1154 (2023), and SB 614 (2023).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to alternative therapies and treatments, including psilocybin"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1682"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Emerging Issues and Professional Registration Committee",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "McCreery, Tracy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            McCreery, Tracy\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7223S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1682.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=5550731",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7223S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1257",
+  "title": "SB 1257 - This act specifies that children under the age of 2 years riding in motor vehicles shall be secured in rear-facing child passenger restraint systems; except that the child may be secured in a front-facing system once the child reaches the highest rear-facing weight or height established by the restraint system's manufacturer.\r\n\r\n\tThe act also modifies the height, weight, and age requirements to specify that children shall be secured by a regular vehicle safety belt once they reach at least 4 feet, 9 inches in height; 80 pounds in weight; or 8 years of age.\r\n\r\n\tThe act repeals a provision specifying that a person shall not be in violation of the child passenger restraint law if, when transporting children in the immediate family and there are more children than seating positions in the vehicle, the children who are unable to be restrained by an appropriate child safety restraint are seated in the area behind the front seat of the vehicle unless the vehicle is designed only for a front seating area.\r\n\r\n\tPenalties under the act are modified to specify that drivers transporting unsecured children who are under the age of 16 but not subject to a child restraint system or booster seat requirement shall be subject to the penalty specified in the act rather than the penalty for a safety belt violation.\r\n\r\n\tLastly, the act repeals a provision stating that charges under the act shall be dismissed or withdrawn if the driver provides evidence he or she has acquired a child passenger restraint system or booster seat.\r\n\r\n\tThis act is identical to SB 497 (2025), and similar to HB 2170 (2026), HB 2261 (2024), HB 1528 (2024), HB 731 (2023), and provisions in HCS/HB 443 (2023).\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1257 - This act specifies that children under the age of 2 years riding in motor vehicles shall be secured in rear-facing child passenger restraint systems; except that the child may be secured in a front-facing system once the child reaches the highest rear-facing weight or height established by the restraint system's manufacturer.\r\n\r\n\tThe act also modifies the height, weight, and age requirements to specify that children shall be secured by a regular vehicle safety belt once they reach at least 4 feet, 9 inches in height; 80 pounds in weight; or 8 years of age.\r\n\r\n\tThe act repeals a provision specifying that a person shall not be in violation of the child passenger restraint law if, when transporting children in the immediate family and there are more children than seating positions in the vehicle, the children who are unable to be restrained by an appropriate child safety restraint are seated in the area behind the front seat of the vehicle unless the vehicle is designed only for a front seating area.\r\n\r\n\tPenalties under the act are modified to specify that drivers transporting unsecured children who are under the age of 16 but not subject to a child restraint system or booster seat requirement shall be subject to the penalty specified in the act rather than the penalty for a safety belt violation.\r\n\r\n\tLastly, the act repeals a provision stating that charges under the act shall be dismissed or withdrawn if the driver provides evidence he or she has acquired a child passenger restraint system or booster seat.\r\n\r\n\tThis act is identical to SB 497 (2025), and similar to HB 2170 (2026), HB 2261 (2024), HB 1528 (2024), HB 731 (2023), and provisions in HCS/HB 443 (2023).\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to drivers' duty to secure child passengers"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1257"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nurrenbern, Maggie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nurrenbern, Maggie\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3852S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1257.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=534",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3852S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

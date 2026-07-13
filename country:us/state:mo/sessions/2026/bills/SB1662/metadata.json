@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1662",
+  "title": "SB 1662 - This act provides that current law relating to the distribution of sales tax proceeds in St. Louis County shall not apply to a tax for the purpose of funding early childhood educational services, and requires that such proceeds shall be deposited in the county's Early Childhood Education Fund, which is created by the act. (Section 67.547)\r\n\r\n\tThis act also requires the proceeds of any tax imposed for the purposes of improving the quality, affordability, and access to early childhood development programs for children aged five years and younger to be deposited into the county or city Early Childhood Education Fund. The administrative control and management of such funds shall be by the board of directors responsible for the administration of a city or county Community Children's Services Fund. \r\n\r\n\tThe board of directors shall use or disburse the funds in the Early Childhood Education Fund to provide and administer programs subsidizing the cost of providing early childhood education, prioritizing children in financial need.  Financial assistance may be used for early childhood education and child care provided by public, private, not-for-profit, and for-profit entities licensed, contracted to receive child care subsidies, or otherwise registered by the Missouri Department of Elementary and Secondary Education, including preschools, childcare centers, nursery schools, local education agencies, charter schools, Head Start and Early Head Start programs, informal childcare providers and independent and system-affiliated family child care homes, as described in the act. (Section 67.5420)\r\n\r\n\tThis act is substantially similar to HCS/HB 2379 (2026), HB 3149 (2026), and SB 20 (2025), and is similar to SB 1447 (2024) and HB 373 (2023).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1662 - This act provides that current law relating to the distribution of sales tax proceeds in St. Louis County shall not apply to a tax for the purpose of funding early childhood educational services, and requires that such proceeds shall be deposited in the county's Early Childhood Education Fund, which is created by the act. (Section 67.547)\r\n\r\n\tThis act also requires the proceeds of any tax imposed for the purposes of improving the quality, affordability, and access to early childhood development programs for children aged five years and younger to be deposited into the county or city Early Childhood Education Fund. The administrative control and management of such funds shall be by the board of directors responsible for the administration of a city or county Community Children's Services Fund. \r\n\r\n\tThe board of directors shall use or disburse the funds in the Early Childhood Education Fund to provide and administer programs subsidizing the cost of providing early childhood education, prioritizing children in financial need.  Financial assistance may be used for early childhood education and child care provided by public, private, not-for-profit, and for-profit entities licensed, contracted to receive child care subsidies, or otherwise registered by the Missouri Department of Elementary and Secondary Education, including preschools, childcare centers, nursery schools, local education agencies, charter schools, Head Start and Early Head Start programs, informal childcare providers and independent and system-affiliated family child care homes, as described in the act. (Section 67.5420)\r\n\r\n\tThis act is substantially similar to HCS/HB 2379 (2026), HB 3149 (2026), and SB 20 (2025), and is similar to SB 1447 (2024) and HB 373 (2023).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to early childhood education taxes"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1662"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "May, Karla",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            May, Karla\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7119S.03I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1662.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=4373497",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7119S.03I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

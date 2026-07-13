@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1181",
+  "title": "SB 1181 - This act modifies provisions relating to automobile theft.\r\n\r\nUNLAWFUL USE OF CERTAIN KEY DEVICES (Section 570.097)\r\n\tThis act provides that the manufacture, sale, attempted sale, transfer, or possession of a motor vehicle key programming or emulating device or a relay attack device, as such terms are defined in the act, shall be a class D felony. The act provides for exceptions for certain authorized users.\r\n\r\n\tAny authorized user shall report a lost or stolen device within forty-eight hours of becoming aware that the device was lost or stolen. Failure to comply with such reporting requirements shall be a class A misdemeanor.\r\n\r\n\tThis act is identical to HCS/HB 2902 (2026).\r\n\r\nMOTOR VEHICLE THEFT PREVENTION COMMISSION ACT (Sections 589.220 to 589.227)\r\n\tThis act establishes the \"Motor Vehicle Theft Prevention Commission Act\".\r\n\r\n\tThe act authorizes law enforcement agencies or other qualified applicants to apply for grants to assist in improving and supporting motor vehicle theft prevention programs, or programs for the enforcement of prosecution of motor vehicle theft crimes.\r\n\r\n\tThe program shall be overseen by the Motor Vehicle Theft Prevention Commission, which is established by the act. The Commission shall consist of twelve members, as described in the act. The term of office for each member of the Commission appointed by the Governor shall be four years. The Highway Patrol shall provide to the Commission all administration, management, and organization of the Commission's activities.\r\n\r\n\tThe Commission shall establish the grant program, promote statewide planning and coordination of the investigation and prosecution of motor vehicle crimes, provide support to local prosecutors, and provide support to multi-jurisdictional task forces, as described in the act.\r\n\r\n\tThe Commission may award grants for with a term of up to three years. Any grants awarded pursuant to the act by the Commission shall receive approval from the Director of the Department of Public Safety prior to any such allocation. Priority shall be given to applications representing multi-jurisdictional programs.\r\n\r\n\tOn or before December 1, 2027, any law enforcement agency or other qualified applicant that receives a grant pursuant to the act shall submit a report to the Commission concerning the implementation of the program funded by the grant.\r\n\r\n\tOn or before February 1, 2028, the Commission shall report to the General Assembly on the implementation of the programs receiving grants pursuant to the act, as described in the act.\r\n\r\n\tThese provisions shall sunset on August 28, 2032, unless reauthorized by the General Assembly. \r\n\r\n\tThis act is identical to HB 2902 (2026).\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1181 - This act modifies provisions relating to automobile theft.\r\n\r\nUNLAWFUL USE OF CERTAIN KEY DEVICES (Section 570.097)\r\n\tThis act provides that the manufacture, sale, attempted sale, transfer, or possession of a motor vehicle key programming or emulating device or a relay attack device, as such terms are defined in the act, shall be a class D felony. The act provides for exceptions for certain authorized users.\r\n\r\n\tAny authorized user shall report a lost or stolen device within forty-eight hours of becoming aware that the device was lost or stolen. Failure to comply with such reporting requirements shall be a class A misdemeanor.\r\n\r\n\tThis act is identical to HCS/HB 2902 (2026).\r\n\r\nMOTOR VEHICLE THEFT PREVENTION COMMISSION ACT (Sections 589.220 to 589.227)\r\n\tThis act establishes the \"Motor Vehicle Theft Prevention Commission Act\".\r\n\r\n\tThe act authorizes law enforcement agencies or other qualified applicants to apply for grants to assist in improving and supporting motor vehicle theft prevention programs, or programs for the enforcement of prosecution of motor vehicle theft crimes.\r\n\r\n\tThe program shall be overseen by the Motor Vehicle Theft Prevention Commission, which is established by the act. The Commission shall consist of twelve members, as described in the act. The term of office for each member of the Commission appointed by the Governor shall be four years. The Highway Patrol shall provide to the Commission all administration, management, and organization of the Commission's activities.\r\n\r\n\tThe Commission shall establish the grant program, promote statewide planning and coordination of the investigation and prosecution of motor vehicle crimes, provide support to local prosecutors, and provide support to multi-jurisdictional task forces, as described in the act.\r\n\r\n\tThe Commission may award grants for with a term of up to three years. Any grants awarded pursuant to the act by the Commission shall receive approval from the Director of the Department of Public Safety prior to any such allocation. Priority shall be given to applications representing multi-jurisdictional programs.\r\n\r\n\tOn or before December 1, 2027, any law enforcement agency or other qualified applicant that receives a grant pursuant to the act shall submit a report to the Commission concerning the implementation of the program funded by the grant.\r\n\r\n\tOn or before February 1, 2028, the Commission shall report to the General Assembly on the implementation of the programs receiving grants pursuant to the act, as described in the act.\r\n\r\n\tThese provisions shall sunset on August 28, 2032, unless reauthorized by the General Assembly. \r\n\r\n\tThis act is identical to HB 2902 (2026).\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to automobile theft"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1181"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Trent, Curtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Trent, Curtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4468S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1181.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=145",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4468S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

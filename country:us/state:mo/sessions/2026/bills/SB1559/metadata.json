@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1559",
+  "title": "SB 1559 - This act provides that the election to defer compensation by the employees of the state of Missouri shall be made at the beginning of the payroll period, rather than the month, for which the compensation is paid and contributions shall begin on the pay period beginning after such election.\r\n\r\n\tBeginning July 1, 2027, this act provides that the deferred compensation plan shall provide for automatic increases for certain employees participating or eligible to participate in the deferred compensation plan. The increase shall commence with the first payroll period following the employee's one year anniversary date of employment or re-employment with the state, whichever is later. The deferral amount shall increase annually by .5% until the amount reaches 10% of compensation or the limitation imposed under federal law, whichever is less. Employees who are automatically increased may elect to change the contribution rate in accordance with the terms of the plan.\r\n\r\n\tThis act is identical to a provision in SB 1054 (2026).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1559 - This act provides that the election to defer compensation by the employees of the state of Missouri shall be made at the beginning of the payroll period, rather than the month, for which the compensation is paid and contributions shall begin on the pay period beginning after such election.\r\n\r\n\tBeginning July 1, 2027, this act provides that the deferred compensation plan shall provide for automatic increases for certain employees participating or eligible to participate in the deferred compensation plan. The increase shall commence with the first payroll period following the employee's one year anniversary date of employment or re-employment with the state, whichever is later. The deferral amount shall increase annually by .5% until the amount reaches 10% of compensation or the limitation imposed under federal law, whichever is less. Employees who are automatically increased may elect to change the contribution rate in accordance with the terms of the plan.\r\n\r\n\tThis act is identical to a provision in SB 1054 (2026).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to deferred compensation for state employees"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1559"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Henderson, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Henderson, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6555S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1559.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=872604",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6555S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

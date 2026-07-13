@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1346",
+  "title": "SB 1346 - The act creates provisions relating to age verification on adult websites.\r\n\r\n\tUnder the act, a commercial entity that publishes or distributes material on its website, including a social media platform, more than 1/3 of which is sexual material harmful to minors, as defined in the act, shall use reasonable age verification methods to verify that an individual attempting to access the material is 18 years of age or older.\r\n\r\n\tA commercial entity or a third party that performs age verification shall not retain any identifying information of the individual.\r\n\r\n\tA commercial entity that is required to perform age verification under the act shall post certain notices on its website, as described in the act.\r\n\r\n\tThe act shall not apply to bona fide news or public interest broadcasts or other media and shall not affect the rights of a news-gathering organization.\r\n\r\n\tAn internet service provider or subsidiary, search engine, or cloud service shall not be held liable for violating provisions of the act solely for providing internet access to any content not under the provider\u2019s control.\r\n\r\n\tThe Attorney General shall enforce provisions of the act. If the Attorney General believes that a violation occurred and an action is in the public interest, the Attorney General may commence an action. If the court finds that a violation occurred, the court may grant relief, as described in the act.\r\n\r\n\tThe act is identical to SB 901 (2026), SB 1412 (2026), and similar to HCS/HBs 1839, 2921 & 3015 (2026).\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1346 - The act creates provisions relating to age verification on adult websites.\r\n\r\n\tUnder the act, a commercial entity that publishes or distributes material on its website, including a social media platform, more than 1/3 of which is sexual material harmful to minors, as defined in the act, shall use reasonable age verification methods to verify that an individual attempting to access the material is 18 years of age or older.\r\n\r\n\tA commercial entity or a third party that performs age verification shall not retain any identifying information of the individual.\r\n\r\n\tA commercial entity that is required to perform age verification under the act shall post certain notices on its website, as described in the act.\r\n\r\n\tThe act shall not apply to bona fide news or public interest broadcasts or other media and shall not affect the rights of a news-gathering organization.\r\n\r\n\tAn internet service provider or subsidiary, search engine, or cloud service shall not be held liable for violating provisions of the act solely for providing internet access to any content not under the provider\u2019s control.\r\n\r\n\tThe Attorney General shall enforce provisions of the act. If the Attorney General believes that a violation occurred and an action is in the public interest, the Attorney General may commence an action. If the court finds that a violation occurred, the court may grant relief, as described in the act.\r\n\r\n\tThe act is identical to SB 901 (2026), SB 1412 (2026), and similar to HCS/HBs 1839, 2921 & 3015 (2026).\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to age verification on adult websites"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1346"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Carter, Jill",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Carter, Jill\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5703S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1346.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=588",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5703S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

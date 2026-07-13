@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1664",
+  "title": "SB 1664 - This act establishes the \"Honest Billing Act\".  Under this act, each off-campus outpatient department of a health care facility, as defined in the act, shall apply for, obtain, and use a unique national provider identifier (NPI) on all claims filed after December 31, 2026, in this state for reimbursement or payment for health care services provided in that department.  No facility shall submit a claim for services to a health carrier or hold an enrollee liable for such services, unless those services are billed using a separate unique NPI for the department, as described in the act.  A facility that holds an enrollee liable for services billed in violation of this act shall be subject to Missouri Merchandising Practice Act enforcement by the Attorney General.  \r\n\r\n\tA facility applying for licensure or license renewal in this state shall demonstrate its compliance with the provisions of this act as a condition of licensure.  The Department of Health and Senior Services may impose specified penalties on any licensee for violating the provisions of this act.  The Department of Commerce and Insurance may refer any violation of this act to the Department of Health and Senior Services.\r\n\r\n\tThis act is substantially similar to HB 502 (2025).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1664 - This act establishes the \"Honest Billing Act\".  Under this act, each off-campus outpatient department of a health care facility, as defined in the act, shall apply for, obtain, and use a unique national provider identifier (NPI) on all claims filed after December 31, 2026, in this state for reimbursement or payment for health care services provided in that department.  No facility shall submit a claim for services to a health carrier or hold an enrollee liable for such services, unless those services are billed using a separate unique NPI for the department, as described in the act.  A facility that holds an enrollee liable for services billed in violation of this act shall be subject to Missouri Merchandising Practice Act enforcement by the Attorney General.  \r\n\r\n\tA facility applying for licensure or license renewal in this state shall demonstrate its compliance with the provisions of this act as a condition of licensure.  The Department of Health and Senior Services may impose specified penalties on any licensee for violating the provisions of this act.  The Department of Commerce and Insurance may refer any violation of this act to the Department of Health and Senior Services.\r\n\r\n\tThis act is substantially similar to HB 502 (2025).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates the \"Honest Billing Act\" regarding payment for health care services"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1664"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Insurance and Banking Committee",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Coleman, Mary Elizabeth",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Coleman, Mary Elizabeth\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6974S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1664.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=4514471",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6974S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

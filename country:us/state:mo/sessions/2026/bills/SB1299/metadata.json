@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1299",
+  "title": "SB 1299 - This act modifies provisions relating to traffic offenses.\r\n\r\nOPERATING IN A PASSING LANE\r\n\tThis act specifies a minimum penalty of $300 for operating a motor vehicle in a passing lane when not passing or overtaking another vehicle. (Section 304.015).\r\n\r\n\tThis provision is similar to SB 162 (2025).\r\n\r\nDRIVERS' DUTY NOT TO OBSTRUCT TRAFFIC\r\n\tThis act requires drivers on a two-lane roadway outside of an urban area to pull over if there are five or more vehicles immediately following it.  Violation of this provision shall be an infraction, and shall be punished by a fine of $100. (Section 304.151)\r\n\r\nGENERAL OPERATING REVENUE RECEIVED FROM CERTAIN OFFENSES\r\n\tCurrent law limits the percentage of political subdivisions' general operating revenue which may be received from municipal ordinance violations and minor traffic violations, and requires the excess to be sent to the Department of Revenue for distribution to the schools of the county.  This act exempts certain traffic offenses from this limit. (Section 479.359)\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1299 - This act modifies provisions relating to traffic offenses.\r\n\r\nOPERATING IN A PASSING LANE\r\n\tThis act specifies a minimum penalty of $300 for operating a motor vehicle in a passing lane when not passing or overtaking another vehicle. (Section 304.015).\r\n\r\n\tThis provision is similar to SB 162 (2025).\r\n\r\nDRIVERS' DUTY NOT TO OBSTRUCT TRAFFIC\r\n\tThis act requires drivers on a two-lane roadway outside of an urban area to pull over if there are five or more vehicles immediately following it.  Violation of this provision shall be an infraction, and shall be punished by a fine of $100. (Section 304.151)\r\n\r\nGENERAL OPERATING REVENUE RECEIVED FROM CERTAIN OFFENSES\r\n\tCurrent law limits the percentage of political subdivisions' general operating revenue which may be received from municipal ordinance violations and minor traffic violations, and requires the excess to be sent to the Department of Revenue for distribution to the schools of the county.  This act exempts certain traffic offenses from this limit. (Section 479.359)\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to traffic offenses"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1299"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brattin, Rick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brattin, Rick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5221S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1299.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=500",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5221S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

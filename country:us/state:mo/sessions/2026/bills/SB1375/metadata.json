@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1375",
+  "title": "SB 1375 - This act modifies and creates new provisions relating to socially and economically disadvantaged minority or women's business enterprises. Current law requires the Office of Administration to conduct a study to determine the availability of socially and economically disadvantaged small business concerns and minority business enterprises in the marketplace. This act requires such study to be completed by December 31, 2028.\r\n\r\n\tThis act also creates the Minority Business Enterprise and Women's Business Enterprise Oversight Review Committee. The Committee is charged with conducting a study, separate from the aforementioned study, before December 31, 2027, to ensure participation from socially and economically disadvantaged minority or women's business enterprises. The Committee is further charged with the following:\r\n\t\u2022\tCompiling a database of minority business enterprises and women's business enterprises that have participated, directly or indirectly, in contracts for supplies, services, and construction with any agency of this state, and making such database available to all agencies;\r\n\t\u2022\tMaking recommendations to agencies for implementation of a system to alert minority business enterprises and women's business enterprises of upcoming contracts for supplies, services, and construction;\r\n\t\u2022\tEstablishing requirements for parties to contracts with agencies for supplies, services, or construction that need subcontractors to notify potential subcontractors who are minority business enterprises and women's business enterprises of the party's need for a subcontractor; and\r\n\t\u2022\tProposing sanctions, which may be adopted by the Office of Administration, for parties failing to comply with any requirements established by the Committee.\r\n\r\n\tThese provisions sunset on August 28, 2032, unless otherwise reauthorized.\r\n\r\n\tThis act is identical to SB 446 (2025), SB 1196 (2024) and SB 562 (2023) and substantially similar to HB 2593 (2020).\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1375 - This act modifies and creates new provisions relating to socially and economically disadvantaged minority or women's business enterprises. Current law requires the Office of Administration to conduct a study to determine the availability of socially and economically disadvantaged small business concerns and minority business enterprises in the marketplace. This act requires such study to be completed by December 31, 2028.\r\n\r\n\tThis act also creates the Minority Business Enterprise and Women's Business Enterprise Oversight Review Committee. The Committee is charged with conducting a study, separate from the aforementioned study, before December 31, 2027, to ensure participation from socially and economically disadvantaged minority or women's business enterprises. The Committee is further charged with the following:\r\n\t\u2022\tCompiling a database of minority business enterprises and women's business enterprises that have participated, directly or indirectly, in contracts for supplies, services, and construction with any agency of this state, and making such database available to all agencies;\r\n\t\u2022\tMaking recommendations to agencies for implementation of a system to alert minority business enterprises and women's business enterprises of upcoming contracts for supplies, services, and construction;\r\n\t\u2022\tEstablishing requirements for parties to contracts with agencies for supplies, services, or construction that need subcontractors to notify potential subcontractors who are minority business enterprises and women's business enterprises of the party's need for a subcontractor; and\r\n\t\u2022\tProposing sanctions, which may be adopted by the Office of Administration, for parties failing to comply with any requirements established by the Committee.\r\n\r\n\tThese provisions sunset on August 28, 2032, unless otherwise reauthorized.\r\n\r\n\tThis act is identical to SB 446 (2025), SB 1196 (2024) and SB 562 (2023) and substantially similar to HB 2593 (2020).\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates new provisions relating to state contracts for minority and women's business enterprises"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1375"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Government Efficiency Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Washington, Barbara",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Washington, Barbara\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4250S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1375.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=664",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4250S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

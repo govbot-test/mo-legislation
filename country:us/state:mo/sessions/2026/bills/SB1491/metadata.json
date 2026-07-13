@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1491",
+  "title": "SB 1491 - This act modifies provisions regarding the St. Louis Board of Police Commissioners.  The act excludes litigation costs, including attorneys' fees for representation of the board or individual officers, settlements or judgments from the calculation of expenses for the maintenance of the police force.\r\n\r\n\tCurrently, the Board cannot transfer appropriated funds from one line item to another.  This act repeals this provision and provides that the Board has the authority to adopt and certify its budget. There shall be no transfer from one character classification of expenditure in the Board budget to another character classification without the approval of the Board.\r\n\r\n\tUnder current law, the Governor appoints a transition director to ensure an orderly transition of control of the St. Louis police force from the city to the Board of Police Commissioners. This act extends the implementation period from July 1, 2026, to July 1, 2027.\r\n\r\n\tUpon the assumption of control by the Board, this act provides that the Board, rather than the state, shall be responsible for any contractual obligations of the police department.  For any claim, lawsuit, or other action arising from events that occurred before the completion of the transfer, St. Louis City shall continue to provide legal representation and pay all costs, settlements, and judgments associated with such claims without reimbursement from the State Legal Expense Fund or any offset to the Board's minimum appropriation to fund the police force.\r\n\r\n\tCurrently, the State Legal Expense Fund is responsible for claims for boards of police commissioners on an equal share basis per claim up to a maximum of $2 million per fiscal year.  This act provides that it shall be a \"collective\" maximum of $2 million per fiscal year.\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1491 - This act modifies provisions regarding the St. Louis Board of Police Commissioners.  The act excludes litigation costs, including attorneys' fees for representation of the board or individual officers, settlements or judgments from the calculation of expenses for the maintenance of the police force.\r\n\r\n\tCurrently, the Board cannot transfer appropriated funds from one line item to another.  This act repeals this provision and provides that the Board has the authority to adopt and certify its budget. There shall be no transfer from one character classification of expenditure in the Board budget to another character classification without the approval of the Board.\r\n\r\n\tUnder current law, the Governor appoints a transition director to ensure an orderly transition of control of the St. Louis police force from the city to the Board of Police Commissioners. This act extends the implementation period from July 1, 2026, to July 1, 2027.\r\n\r\n\tUpon the assumption of control by the Board, this act provides that the Board, rather than the state, shall be responsible for any contractual obligations of the police department.  For any claim, lawsuit, or other action arising from events that occurred before the completion of the transfer, St. Louis City shall continue to provide legal representation and pay all costs, settlements, and judgments associated with such claims without reimbursement from the State Legal Expense Fund or any offset to the Board's minimum appropriation to fund the police force.\r\n\r\n\tCurrently, the State Legal Expense Fund is responsible for claims for boards of police commissioners on an equal share basis per claim up to a maximum of $2 million per fiscal year.  This act provides that it shall be a \"collective\" maximum of $2 million per fiscal year.\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Extends implementation period by one year, excludes litigation costs from maintenance of police force, and authorizes Board of Police Commissioners to adopt and certify its own budget"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1491"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-31T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6353S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1491.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=57456",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6353S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

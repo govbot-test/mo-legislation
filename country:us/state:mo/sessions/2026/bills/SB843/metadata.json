@@ -1,0 +1,141 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 843",
+  "title": "SCS/SB 843 - This act makes technical changes throughout state law relating to the sale of delinquent property to satisfy delinquent property taxes. (Multiple sections)\r\n\r\n\tCurrent law requires a parcel located in certain counties to have unpaid taxes for a period of at least two years prior to the county satisfying such delinquent taxes through judicial foreclosure rather than through sale at auction. This act repeals such two year requirement. (Section 140.010 and 141.230)\r\n\r\n\tCurrent law provides for the appointment of county land bank directors by various agencies. This act provides that the appointment of such directors shall be appointed by the county executive pursuant to the county charter. (Section 140.982)\r\n\r\n\tThis provision is substantially similar to SB 845 (2026).\r\n\r\n\tCurrent law requires a land bank agency to verify that a buyer is not the original owner or relative owner of the property. This act repeals such requirement. (Section 140.987)\r\n\r\n\tCurrent law allows a land bank agency to purchase a parcel of real property only for the purpose of adding to a parcel already owned by the land bank agency. This act repeals such provision. (Section 141.984)\r\n\r\n\tThis act is identical to SB 1556 (2026) and HB 2898 (2026), and to provisions in CCS/HCS/SS/SCS/SB 973 (2026), SS/SCS/SB 1001 (2026), and SCS/HB 3000 (2026).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SCS/SB 843 - This act makes technical changes throughout state law relating to the sale of delinquent property to satisfy delinquent property taxes. (Multiple sections)\r\n\r\n\tCurrent law requires a parcel located in certain counties to have unpaid taxes for a period of at least two years prior to the county satisfying such delinquent taxes through judicial foreclosure rather than through sale at auction. This act repeals such two year requirement. (Section 140.010 and 141.230)\r\n\r\n\tCurrent law provides for the appointment of county land bank directors by various agencies. This act provides that the appointment of such directors shall be appointed by the county executive pursuant to the county charter. (Section 140.982)\r\n\r\n\tThis provision is substantially similar to SB 845 (2026).\r\n\r\n\tCurrent law requires a land bank agency to verify that a buyer is not the original owner or relative owner of the property. This act repeals such requirement. (Section 140.987)\r\n\r\n\tCurrent law allows a land bank agency to purchase a parcel of real property only for the purpose of adding to a parcel already owned by the land bank agency. This act repeals such provision. (Section 141.984)\r\n\r\n\tThis act is identical to SB 1556 (2026) and HB 2898 (2026), and to provisions in CCS/HCS/SS/SCS/SB 973 (2026), SS/SCS/SB 1001 (2026), and SCS/HB 3000 (2026).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to unpaid taxes and fees"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb843"
+    }
+  ],
+  "actions": [
+    {
+      "description": "SCS Voted Do Pass S Local Government, Elections and Pensions Committee (5505S.02C)",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Local Government, Elections and Pensions Committee",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hough, Lincoln",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Hough, Lincoln\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB843.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "5505S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB843.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=278",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5505S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

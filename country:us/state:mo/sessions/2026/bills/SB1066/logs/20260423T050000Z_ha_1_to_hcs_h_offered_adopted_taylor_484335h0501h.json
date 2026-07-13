@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "HA 1 to HCS H offered & adopted (Taylor (48))--(4335H05.01H)",
+    "occurred_at": "2026-04-23T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=255",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1066"
+}

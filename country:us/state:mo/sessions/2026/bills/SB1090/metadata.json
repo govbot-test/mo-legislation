@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1090",
+  "title": "SB 1090 - Under this act, no charter school established on or after August 28, 2026, shall be eligible to operate in Missouri without the State Board of Education's issuance of a certificate of need for such charter school as provided in the act.  A certificate of need shall be required only for proposed charter schools that are not established as of August 28, 2026, and shall not be required for charter renewals or transfers of sponsorship.  The act shall not be construed to exempt charter schools from state laws governing charter contracts or any other applicable state or federal law or regulation.\r\n\r\n\tThe certificate of need application shall be a written certification, including supporting documentation, submitted by the governing board of the school district or the governing body of the city or county in which the proposed charter school would be operated, affirming that certain conditions apply to the school district in which the charter school would be operated.  The certificate of need application shall affirm that consumer demand for alternative educational options exceeds supply, and that the school district has sufficient economies of scale, as such term is defined in the act, to enable the charter school to succeed without detrimentally impacting the school district's ability to provide a free public education.  The certificate of need application shall also affirm that the charter school is likely to alleviate economic and racial inequities; improve students' academic achievement; reduce student-teacher ratios; improve efficiencies in education service delivery; reduce the number of schooling disruptions faced by children and families; and address other family priorities specified in the act. \r\n\r\n\tThe State Board of Education shall review each charter school certificate of need application and either approve or disapprove each application within 120 calendar days of receipt.  If the Board determines that the information provided in the application is factual and based on sound data and reasoning, the Board shall approve the application.  If the Board determines that the information provided in the application is not factual and based on sound data and reasoning, the Board shall disapprove the application and provide to the applicant written documentation of the reasons why the application was not approved.\r\n\r\n\tThis act is substantially similar to SB 177 (2025) and HB 1056 (2025), and is similar to HB 3122 (2026).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1090 - Under this act, no charter school established on or after August 28, 2026, shall be eligible to operate in Missouri without the State Board of Education's issuance of a certificate of need for such charter school as provided in the act.  A certificate of need shall be required only for proposed charter schools that are not established as of August 28, 2026, and shall not be required for charter renewals or transfers of sponsorship.  The act shall not be construed to exempt charter schools from state laws governing charter contracts or any other applicable state or federal law or regulation.\r\n\r\n\tThe certificate of need application shall be a written certification, including supporting documentation, submitted by the governing board of the school district or the governing body of the city or county in which the proposed charter school would be operated, affirming that certain conditions apply to the school district in which the charter school would be operated.  The certificate of need application shall affirm that consumer demand for alternative educational options exceeds supply, and that the school district has sufficient economies of scale, as such term is defined in the act, to enable the charter school to succeed without detrimentally impacting the school district's ability to provide a free public education.  The certificate of need application shall also affirm that the charter school is likely to alleviate economic and racial inequities; improve students' academic achievement; reduce student-teacher ratios; improve efficiencies in education service delivery; reduce the number of schooling disruptions faced by children and families; and address other family priorities specified in the act. \r\n\r\n\tThe State Board of Education shall review each charter school certificate of need application and either approve or disapprove each application within 120 calendar days of receipt.  If the Board determines that the information provided in the application is factual and based on sound data and reasoning, the Board shall approve the application.  If the Board determines that the information provided in the application is not factual and based on sound data and reasoning, the Board shall disapprove the application and provide to the applicant written documentation of the reasons why the application was not approved.\r\n\r\n\tThis act is substantially similar to SB 177 (2025) and HB 1056 (2025), and is similar to HB 3122 (2026).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Requires charter schools to obtain a certificate of need issued by the State Board of Education in order to be eligible to operate"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1090"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nurrenbern, Maggie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nurrenbern, Maggie\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3848S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1090.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=527",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3848S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

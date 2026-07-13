@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1022",
+  "title": "SB 1022 - The act modifies provisions relating to self-storage.\r\n\r\n\tThe act modifies the definitions of \"public sale\" and \"rental agreement\". \r\n\r\n\tThe act changes \"owner\" to \"operator\" of the self-service storage facility throughout the language of the act.\r\n\r\n\tUnder the act, an occupant may not use a self-service storage facility after the operator has delivered a written notice of termination or non-renewal of the rental agreement. The notice shall provide the occupant with no less than 14 days after delivery of the notice to remove all personal property from the self-service storage facility.\r\n\r\n\tPrior to removal of personal property, the operator may place reasonable restrictions on the occupant's use of the self-service storage facility, as described in the act.\r\n\r\n\tThe operator may dispose of any personal property remaining in the self-service storage facility after the date indicated in the written notice.\r\n\r\n\tThe act repeals a provision relating to the advertisement of the sale of personal property if the occupant is in default.\r\n\r\n\tNotices sent to the operator shall be sent to the self-service storage facility where the occupant's property is stored unless another address to send notices to the operator is specified in the rental agreement.\r\n\r\n\tThe act is identical to HB 2717 (2026).\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1022 - The act modifies provisions relating to self-storage.\r\n\r\n\tThe act modifies the definitions of \"public sale\" and \"rental agreement\". \r\n\r\n\tThe act changes \"owner\" to \"operator\" of the self-service storage facility throughout the language of the act.\r\n\r\n\tUnder the act, an occupant may not use a self-service storage facility after the operator has delivered a written notice of termination or non-renewal of the rental agreement. The notice shall provide the occupant with no less than 14 days after delivery of the notice to remove all personal property from the self-service storage facility.\r\n\r\n\tPrior to removal of personal property, the operator may place reasonable restrictions on the occupant's use of the self-service storage facility, as described in the act.\r\n\r\n\tThe operator may dispose of any personal property remaining in the self-service storage facility after the date indicated in the written notice.\r\n\r\n\tThe act repeals a provision relating to the advertisement of the sale of personal property if the occupant is in default.\r\n\r\n\tNotices sent to the operator shall be sent to the self-service storage facility where the occupant's property is stored unless another address to send notices to the operator is specified in the rental agreement.\r\n\r\n\tThe act is identical to HB 2717 (2026).\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to the use of self-storage facilities"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1022"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S Emerging Issues and Professional Registration Committee",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Emerging Issues and Professional Registration Committee",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Emerging Issues and Professional Registration Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brown (16), Justin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brown (16), Justin\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5247S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1022.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=268",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5247S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

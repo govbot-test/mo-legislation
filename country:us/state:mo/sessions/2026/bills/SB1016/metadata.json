@@ -1,0 +1,138 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1016",
+  "title": "SB 1016 - This act modifies provisions relating to the practice of advanced practice registered nursing. Specifically, prescription medications prescribed by advanced practice registered nurses (\"APRNs\") may include Schedule II stimulants for behavioral health patients.\r\n\r\n\tUnder current law, collaborative practice arrangements between physicians and registered professional nurses may delegate to an APRN the authority to administer, dispense, or prescribe certain controlled substances. This act provides that the section of law providing for such agreements shall not apply to APRNs, excluding certified registered nurse anesthetists (\"CRNAs\"), who have been in a collaborative practice arrangement for a cumulative 2000 documented hours with a collaborating physician and whose license is in good standing. APRNs applying for licensure by endorsement may demonstrate to the Missouri State Board of Nursing completion of such hours. Additionally, any such APRN shall not be required to enter into or remain in such arrangement to practice in this state.\r\n\r\n\tThis act also provides that an APRN's prescriptive authority shall include authority to prescribe, dispense, and administer controlled substances as provided in current law. Furthermore, the provision on prescriptive authority shall also apply to good-standing APRNs who have been in collaborative practice arrangements for a cumulative 2000 documented hours with collaborating physicians and who are no longer required to hold collaborative practice arrangements.\r\n\r\n\tThis act is identical to SB 979 (2026), provisions in SB 1719 (2026), HB 3040 (2026), SCS/SBs 144 & 179 (2025), contains provisions identical to SB 809 (2025), and is substantially similar to HB 1875 (2024).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1016 - This act modifies provisions relating to the practice of advanced practice registered nursing. Specifically, prescription medications prescribed by advanced practice registered nurses (\"APRNs\") may include Schedule II stimulants for behavioral health patients.\r\n\r\n\tUnder current law, collaborative practice arrangements between physicians and registered professional nurses may delegate to an APRN the authority to administer, dispense, or prescribe certain controlled substances. This act provides that the section of law providing for such agreements shall not apply to APRNs, excluding certified registered nurse anesthetists (\"CRNAs\"), who have been in a collaborative practice arrangement for a cumulative 2000 documented hours with a collaborating physician and whose license is in good standing. APRNs applying for licensure by endorsement may demonstrate to the Missouri State Board of Nursing completion of such hours. Additionally, any such APRN shall not be required to enter into or remain in such arrangement to practice in this state.\r\n\r\n\tThis act also provides that an APRN's prescriptive authority shall include authority to prescribe, dispense, and administer controlled substances as provided in current law. Furthermore, the provision on prescriptive authority shall also apply to good-standing APRNs who have been in collaborative practice arrangements for a cumulative 2000 documented hours with collaborating physicians and who are no longer required to hold collaborative practice arrangements.\r\n\r\n\tThis act is identical to SB 979 (2026), provisions in SB 1719 (2026), HB 3040 (2026), SCS/SBs 144 & 179 (2025), contains provisions identical to SB 809 (2025), and is substantially similar to HB 1875 (2024).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to advanced practice registered nurses"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1016"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Bill Combined w/SCS SBs 979 & 1016",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Emerging Issues and Professional Registration Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Hearing Cancelled S Emerging Issues and Professional Registration Committee",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Emerging Issues and Professional Registration Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lewis, Patty",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Lewis, Patty\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4987S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1016.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=562",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4987S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

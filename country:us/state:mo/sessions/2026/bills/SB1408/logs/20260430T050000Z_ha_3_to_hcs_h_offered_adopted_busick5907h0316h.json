@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "HA 3 to HCS H offered & adopted (Busick)--(5907H03.16H)",
+    "occurred_at": "2026-04-30T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=701",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1408"
+}

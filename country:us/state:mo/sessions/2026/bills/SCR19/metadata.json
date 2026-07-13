@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SCR 19",
+  "title": "SCR 19 - This concurrent resolution urges the U.S. Department of Health and Human Services to prevent discriminatory insurance practices and require insurance plans and pharmacy benefit managers to apply all patient-paid prescription drug expenditures, including those obtained through the new TrumpRx platform, toward patients' cost-sharing requirements.  Additionally, this concurrent resolution urges the Department of Social Services to assess the new GENEROUS Model for MO HealthNet participation.\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SCR 19 - This concurrent resolution urges the U.S. Department of Health and Human Services to prevent discriminatory insurance practices and require insurance plans and pharmacy benefit managers to apply all patient-paid prescription drug expenditures, including those obtained through the new TrumpRx platform, toward patients' cost-sharing requirements.  Additionally, this concurrent resolution urges the Department of Social Services to assess the new GENEROUS Model for MO HealthNet participation.\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Expresses support for TrumpRx and the GENEROUS Model"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-scr19"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S Offered",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6973S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SCR19.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=3535908",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6973S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

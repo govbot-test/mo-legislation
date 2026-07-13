@@ -1,0 +1,141 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1164",
+  "title": "SCS/SBs 1164 & 1476 - This act modifies provisions relating to adult cabaret performances.\r\n\r\nADULT CABARET PERFORMANCE DEFINITION (67.2540)\r\n\tThis act defines \"adult cabaret performance\" in regards to provisions relating to restrictions on sexually oriented businesses.\r\n\r\nSEXUALLY ORIENTED BILLBOARDS (226.531)\r\n\tThis act adds the definition of \"adult cabaret performance\" in regards to sexually oriented billboards. The definition of \"sexually oriented business\" is modified to include any business that offers an adult cabaret performance.\r\n\r\nCIVIL ACTIONS FOR ADULT CABARET PERFORMANCES (SECTION 537.048) \r\n\tThis act establishes a civil action brought by a resident of a city, town, or village where an adult cabaret performance is conducted against an adult cabaret performer whose adult cabaret performance contains actions or material that, proven by a preponderance of the evidence, appeal to a prurient interest in sex and occur on public property or in a location that could be viewed by a person under the age of 18. The court may award damages or injunctive relief as it deems appropriate, but no damages, except for nominal damages, shall be awarded in more than one action arising out of a single occurrence.\r\n\r\n\tThis provision is identical to a provision in SCS/SB 295 (2025) and in SCS/HCS/HB 1464 (2025).\r\n\r\nOFFENSE OF ENGAGING IN AN ADULT CABARET (SECTION 573.010 & 573.520)\r\n\tThis act creates the offense of engaging in an adult cabaret performance if such performance is on public property or in a location where the performance could be viewed by a person who is not an adult.\r\n\r\n\tSuch offense shall be a class A misdemeanor for the first offense and a class E felony for any subsequent offense. \r\n\r\n\tThese provisions are identical to provisions in SCS/SB 295 (2025), are substantially similar to provisions in SB 764 (2025) and in SCS/HCS/SB 1464 (2025), and are similar to provisions in HB 722 (2025), SB 949 (2024), in HB 1650 (2024), in HB 1849 (2024), in HB 2300 (2024), in HCS/HB 494 (2023), and SB 693 (2023).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SCS/SBs 1164 & 1476 - This act modifies provisions relating to adult cabaret performances.\r\n\r\nADULT CABARET PERFORMANCE DEFINITION (67.2540)\r\n\tThis act defines \"adult cabaret performance\" in regards to provisions relating to restrictions on sexually oriented businesses.\r\n\r\nSEXUALLY ORIENTED BILLBOARDS (226.531)\r\n\tThis act adds the definition of \"adult cabaret performance\" in regards to sexually oriented billboards. The definition of \"sexually oriented business\" is modified to include any business that offers an adult cabaret performance.\r\n\r\nCIVIL ACTIONS FOR ADULT CABARET PERFORMANCES (SECTION 537.048) \r\n\tThis act establishes a civil action brought by a resident of a city, town, or village where an adult cabaret performance is conducted against an adult cabaret performer whose adult cabaret performance contains actions or material that, proven by a preponderance of the evidence, appeal to a prurient interest in sex and occur on public property or in a location that could be viewed by a person under the age of 18. The court may award damages or injunctive relief as it deems appropriate, but no damages, except for nominal damages, shall be awarded in more than one action arising out of a single occurrence.\r\n\r\n\tThis provision is identical to a provision in SCS/SB 295 (2025) and in SCS/HCS/HB 1464 (2025).\r\n\r\nOFFENSE OF ENGAGING IN AN ADULT CABARET (SECTION 573.010 & 573.520)\r\n\tThis act creates the offense of engaging in an adult cabaret performance if such performance is on public property or in a location where the performance could be viewed by a person who is not an adult.\r\n\r\n\tSuch offense shall be a class A misdemeanor for the first offense and a class E felony for any subsequent offense. \r\n\r\n\tThese provisions are identical to provisions in SCS/SB 295 (2025), are substantially similar to provisions in SB 764 (2025) and in SCS/HCS/SB 1464 (2025), and are similar to provisions in HB 722 (2025), SB 949 (2024), in HB 1650 (2024), in HB 1849 (2024), in HB 2300 (2024), in HCS/HB 494 (2023), and SB 693 (2023).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes provisions relating to adult cabaret including civil liability for adult cabarets and the offense of engaging in an adult cabaret performance"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1164"
+    }
+  ],
+  "actions": [
+    {
+      "description": "SCS Voted Do Pass w/SCS SBs 1164 & 1476 Judiciary and Civil and Criminal Jurisprudence Committee (5210S.04C)",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brattin, Rick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brattin, Rick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB1164.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "5210S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1164.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=493",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5210S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

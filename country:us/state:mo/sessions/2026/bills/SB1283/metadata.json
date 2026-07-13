@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1283",
+  "title": "SB 1283 - This act provides that an operator, including employees or agents thereof, that sponsors, organizes, rents, or provides the opportunity to use any motocross vehicle by a participant of a motocross activity at a motocross facility shall not be liable for an injury to or the death of a participant resulting from the inherent risks of motocross activities. However, nothing in this act shall prevent or limit the liability if the operator:\r\n\t(1)\tIntentionally injures the participant;\r\n\t(2)\tCommits an act or omission that constitutes negligence and that negligence is the proximate cause of the injury or death of a participant;\r\n\t(3)\tProvides unsafe equipment or an unsafe motocross vehicle to a participant and knew or should have known that the furnished equipment or motocross vehicle was unsafe; or\r\n\t(4)\tFails to use that degree of care that an ordinarily careful and prudent person would use under the same or similar circumstances.\r\n\r\n\tAdditionally, a sign or written warning containing a notice, described in this act, shall be posted and maintained in a clearly visible location on or near areas where the motocross activities are conducted.\r\n\r\n\tThis act is identical to SB 626 (2025) and is similar to SB 1349 (2024).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1283 - This act provides that an operator, including employees or agents thereof, that sponsors, organizes, rents, or provides the opportunity to use any motocross vehicle by a participant of a motocross activity at a motocross facility shall not be liable for an injury to or the death of a participant resulting from the inherent risks of motocross activities. However, nothing in this act shall prevent or limit the liability if the operator:\r\n\t(1)\tIntentionally injures the participant;\r\n\t(2)\tCommits an act or omission that constitutes negligence and that negligence is the proximate cause of the injury or death of a participant;\r\n\t(3)\tProvides unsafe equipment or an unsafe motocross vehicle to a participant and knew or should have known that the furnished equipment or motocross vehicle was unsafe; or\r\n\t(4)\tFails to use that degree of care that an ordinarily careful and prudent person would use under the same or similar circumstances.\r\n\r\n\tAdditionally, a sign or written warning containing a notice, described in this act, shall be posted and maintained in a clearly visible location on or near areas where the motocross activities are conducted.\r\n\r\n\tThis act is identical to SB 626 (2025) and is similar to SB 1349 (2024).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes provisions relating to liability for inherent risks of motocross activities"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1283"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Carter, Jill",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Carter, Jill\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4667S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1283.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=236",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4667S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

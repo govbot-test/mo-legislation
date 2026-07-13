@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SJR 120",
+  "title": "SJR 120 - This constitutional amendment creates the \"Stop Socialism Act\".\r\n\r\n\tThis constitutional amendment, if approved by the voters, prohibits any county from receiving a proportion of total state general revenue appropriations, as defined in the amendment, in excess of the county's proportional contribution of total state income and state sales taxes received by the state for any given fiscal year. Total state general revenue appropriations shall be deemed to be allocated to a county if such moneys are directly appropriated to such county or to a political subdivision within such county, or are in any other way distributed through an agency of the state to any resident taxpayer of such county.\r\n\r\n\tIf in any given fiscal year a county receives less than its proportional share of total state general revenue appropriations, the difference shall be refunded to the residents of such county pro rata based on state income tax returns filed following the close of such fiscal year. \r\n\r\n\tThis amendment is identical to SJR 47 (2023).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SJR 120 - This constitutional amendment creates the \"Stop Socialism Act\".\r\n\r\n\tThis constitutional amendment, if approved by the voters, prohibits any county from receiving a proportion of total state general revenue appropriations, as defined in the amendment, in excess of the county's proportional contribution of total state income and state sales taxes received by the state for any given fiscal year. Total state general revenue appropriations shall be deemed to be allocated to a county if such moneys are directly appropriated to such county or to a political subdivision within such county, or are in any other way distributed through an agency of the state to any resident taxpayer of such county.\r\n\r\n\tIf in any given fiscal year a county receives less than its proportional share of total state general revenue appropriations, the difference shall be refunded to the residents of such county pro rata based on state income tax returns filed following the close of such fiscal year. \r\n\r\n\tThis amendment is identical to SJR 47 (2023).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the Stop Socialism Act"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sjr120"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Government Efficiency Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lewis, Patty",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Lewis, Patty\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5243S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR120.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6114298",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5243S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

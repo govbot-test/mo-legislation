@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1700",
+  "title": "SB 1700 - On or before July 1, 2028, this act requires each school district and charter school to install at least one \"master key box\", as such term is defined in current law, at each school.  Each master key box shall be installed at an appropriate location to permit law enforcement officers emergency access to each building and room on school grounds.  The school district or charter school shall determine the precise location of each master key box after consultation with local law enforcement agencies, and shall provide local law enforcement agencies with a key or access code that permits access to the contents of the master key box.\r\n\r\n\tEach master key box shall contain certain items specified in the act, such as keys to each building and room on school grounds and accurate maps labeling access points, locations of critical emergency response aids, and the areas around each building.\r\n\r\n\tThe contents of a master key box and the information contained therein shall not be a public record and shall not be made available for public examination.\r\n\r\n\tAn employee of a school district or charter school is immune from civil liability for damages arising out of the installation and use of master key boxes unless the employee acted with gross negligence or bad faith.\r\n\r\n\tThis act is identical to a provision in HCS/HB 3174 (2026).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1700 - On or before July 1, 2028, this act requires each school district and charter school to install at least one \"master key box\", as such term is defined in current law, at each school.  Each master key box shall be installed at an appropriate location to permit law enforcement officers emergency access to each building and room on school grounds.  The school district or charter school shall determine the precise location of each master key box after consultation with local law enforcement agencies, and shall provide local law enforcement agencies with a key or access code that permits access to the contents of the master key box.\r\n\r\n\tEach master key box shall contain certain items specified in the act, such as keys to each building and room on school grounds and accurate maps labeling access points, locations of critical emergency response aids, and the areas around each building.\r\n\r\n\tThe contents of a master key box and the information contained therein shall not be a public record and shall not be made available for public examination.\r\n\r\n\tAn employee of a school district or charter school is immune from civil liability for damages arising out of the installation and use of master key boxes unless the employee acted with gross negligence or bad faith.\r\n\r\n\tThis act is identical to a provision in HCS/HB 3174 (2026).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Requires school districts and charter schools to install master key boxes at public schools and charter schools on or before July 1, 2028"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1700"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Henderson, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Henderson, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7208S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1700.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6112610",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7208S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

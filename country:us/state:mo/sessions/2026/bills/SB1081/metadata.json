@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1081",
+  "title": "SB 1081 - Current law requires motor vehicle franchisors to compensate franchisees for the preparation, delivery, and warranty service required of the franchisee by the franchisor, with such compensation to be \"reasonable and adequate\". This act provides that such compensation shall be no less than the amount the retail customer pays for the same services with regard to rate and time. In the event that a schedule of compensation has not been agreed to for warranty repairs, or said schedule does not define time for an applicable warranty repair, the franchisor's schedule of compensation shall be used, multiplied by 1.4. \r\n\r\n\tFranchisors shall pay the franchisee the same effective labor rate that the franchisee receives for customer-pay repairs, including vehicle diagnostic times for all warranty repairs. Additionally, if a technician is required to communicate with a technical assistance center, engineering, or some other external franchisor source in order to provide a warranty repair, the franchisor shall pay for the time from start of communications until the communication is complete.\r\n\r\n\tA franchisee may submit a request for warranty labor rate increases no more than once per calendar year. Any claim made for additional compensation for warranty or recall repairs shall be approved or disapproved by the franchisor within twenty days. If a claim is neither approved nor disapproved within twenty days, the claim shall be deemed approved. An approved claim shall be paid within twenty days of approval.\r\n\r\n\tIf a franchisor imposes a recall or stop sale on any new vehicle in a franchisee's inventory that prevents the sale of the vehicle, the franchisor shall compensate the franchisee for any interest and storage until the vehicle is repaired and made ready for sale.\r\n\r\n\tFinally, current law provides that a franchisee shall not request a franchisor to approve a different labor or parts rate more than twice per calendar year. This act changes such provision to once per calendar year.\r\n\r\n\tThis act is substantially similar to HB 1914 (2026).\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1081 - Current law requires motor vehicle franchisors to compensate franchisees for the preparation, delivery, and warranty service required of the franchisee by the franchisor, with such compensation to be \"reasonable and adequate\". This act provides that such compensation shall be no less than the amount the retail customer pays for the same services with regard to rate and time. In the event that a schedule of compensation has not been agreed to for warranty repairs, or said schedule does not define time for an applicable warranty repair, the franchisor's schedule of compensation shall be used, multiplied by 1.4. \r\n\r\n\tFranchisors shall pay the franchisee the same effective labor rate that the franchisee receives for customer-pay repairs, including vehicle diagnostic times for all warranty repairs. Additionally, if a technician is required to communicate with a technical assistance center, engineering, or some other external franchisor source in order to provide a warranty repair, the franchisor shall pay for the time from start of communications until the communication is complete.\r\n\r\n\tA franchisee may submit a request for warranty labor rate increases no more than once per calendar year. Any claim made for additional compensation for warranty or recall repairs shall be approved or disapproved by the franchisor within twenty days. If a claim is neither approved nor disapproved within twenty days, the claim shall be deemed approved. An approved claim shall be paid within twenty days of approval.\r\n\r\n\tIf a franchisor imposes a recall or stop sale on any new vehicle in a franchisee's inventory that prevents the sale of the vehicle, the franchisor shall compensate the franchisee for any interest and storage until the vehicle is repaired and made ready for sale.\r\n\r\n\tFinally, current law provides that a franchisee shall not request a franchisor to approve a different labor or parts rate more than twice per calendar year. This act changes such provision to once per calendar year.\r\n\r\n\tThis act is substantially similar to HB 1914 (2026).\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to compensation made by motor vehicle franchisors to franchisees"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1081"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gregory (21), Kurtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Gregory (21), Kurtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5617S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1081.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=595",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5617S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

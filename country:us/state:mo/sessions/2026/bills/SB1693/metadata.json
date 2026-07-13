@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1693",
+  "title": "SB 1693 - This act provides that a person commits the offense of unlawful transfer of weapons if he or she knowingly sells, leases, loans, gives away, or delivers a firearm to any person who is on the Terrorist Screening Center's No Fly List or to any person who is a member of an international or domestic terrorist group. This offense shall be a class A misdemeanor.\r\n\r\n\tAdditionally, this act modifies the offense of unlawful possession of a firearm by adding a person who appears on the Terrorist Screening Center's No fly List and a person who is a member of an international or domestic terrorist group to people who are prohibited from possessing firearms. This offense shall be a class A misdemeanor.\r\n\r\n\tThis act is identical to SB 544 (2025), SB 1034 (2024), SB 142 (2023), SB 895 (2022), SB 186 (2021), and HB 1496 (2020).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1693 - This act provides that a person commits the offense of unlawful transfer of weapons if he or she knowingly sells, leases, loans, gives away, or delivers a firearm to any person who is on the Terrorist Screening Center's No Fly List or to any person who is a member of an international or domestic terrorist group. This offense shall be a class A misdemeanor.\r\n\r\n\tAdditionally, this act modifies the offense of unlawful possession of a firearm by adding a person who appears on the Terrorist Screening Center's No fly List and a person who is a member of an international or domestic terrorist group to people who are prohibited from possessing firearms. This offense shall be a class A misdemeanor.\r\n\r\n\tThis act is identical to SB 544 (2025), SB 1034 (2024), SB 142 (2023), SB 895 (2022), SB 186 (2021), and HB 1496 (2020).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to firearms"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1693"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lewis, Patty",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Lewis, Patty\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4569S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1693.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=5552597",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4569S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

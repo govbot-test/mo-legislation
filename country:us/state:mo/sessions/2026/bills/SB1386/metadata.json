@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1386",
+  "title": "SB 1386 - This act establishes the Uniform Interstate Depositions and Discovery Act, which provides procedures for out-of-state subpoenas for certain forms of discovery conducted in Missouri.\r\n\r\n\tTo request a subpoena in Missouri, a party shall submit a foreign subpoena to a clerk of the court in the county in which discovery is sought to be conducted. The clerk shall promptly issue a subpoena, which shall incorporate the terms used in the foreign subpoena and include contact information of the attorneys and any party not represented by an attorney in the proceeding to which the subpoena relates. A request for issuance of a subpoena pursuant to this act shall not constitute an appearance in Missouri courts.\r\n\r\n\tThe Missouri Supreme Court Rules of Civil Procedure and the laws of this state apply to subpoenas issued pursuant to this act and such subpoenas shall be served in compliance with such rules and laws. Additionally, an application for a protective order or to enforce, quash, or modify a subpoena issued by clerk of this state shall comply with such court rules and laws of this state. However, in applying and construing this act, consideration shall be given to the need to promote uniformity among the states.\r\n\r\n\tThese provisions shall apply to requests for discovery in cases pending on August 28, 2026.\r\n\r\n\tThis act is identical to provisions in HCS/SB 1067 (2026), in SB 1180 (2026), HB 1711 (2026), in HCS/HB 3116 (2026), in HCS/HB 83 (2025), HB 128 (2025), in SCS/HCS/HB 176 (2025), in HCS/SS/SB 221 (2025), in SB 352 (2025), SCS/SB 897 (2024), in SCS/HCS/HB 2064 & HCS#2/HB 1886 (2024), SB 394 (2023), and SB 1005 (2022) and is substantially similar to provisions in HB 1452 (2024), in CCS/HCS/SS/SCS/SB 72 (2023), HB 84 (2023), in SCS/HCS/HBs 994, 52 & 984 (2023), HB 1549 (2022), HB 347 (2021), and HB 2570 (2020).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1386 - This act establishes the Uniform Interstate Depositions and Discovery Act, which provides procedures for out-of-state subpoenas for certain forms of discovery conducted in Missouri.\r\n\r\n\tTo request a subpoena in Missouri, a party shall submit a foreign subpoena to a clerk of the court in the county in which discovery is sought to be conducted. The clerk shall promptly issue a subpoena, which shall incorporate the terms used in the foreign subpoena and include contact information of the attorneys and any party not represented by an attorney in the proceeding to which the subpoena relates. A request for issuance of a subpoena pursuant to this act shall not constitute an appearance in Missouri courts.\r\n\r\n\tThe Missouri Supreme Court Rules of Civil Procedure and the laws of this state apply to subpoenas issued pursuant to this act and such subpoenas shall be served in compliance with such rules and laws. Additionally, an application for a protective order or to enforce, quash, or modify a subpoena issued by clerk of this state shall comply with such court rules and laws of this state. However, in applying and construing this act, consideration shall be given to the need to promote uniformity among the states.\r\n\r\n\tThese provisions shall apply to requests for discovery in cases pending on August 28, 2026.\r\n\r\n\tThis act is identical to provisions in HCS/SB 1067 (2026), in SB 1180 (2026), HB 1711 (2026), in HCS/HB 3116 (2026), in HCS/HB 83 (2025), HB 128 (2025), in SCS/HCS/HB 176 (2025), in HCS/SS/SB 221 (2025), in SB 352 (2025), SCS/SB 897 (2024), in SCS/HCS/HB 2064 & HCS#2/HB 1886 (2024), SB 394 (2023), and SB 1005 (2022) and is substantially similar to provisions in HB 1452 (2024), in CCS/HCS/SS/SCS/SB 72 (2023), HB 84 (2023), in SCS/HCS/HBs 994, 52 & 984 (2023), HB 1549 (2022), HB 347 (2021), and HB 2570 (2020).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the Uniform Interstate Depositions and Discovery Act"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1386"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Trent, Curtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Trent, Curtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5661S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1386.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=438",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5661S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

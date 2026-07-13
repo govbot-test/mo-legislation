@@ -1,0 +1,552 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 953",
+  "title": "HCS/SB 953 - The act modifies provisions relating to environmental programs within the Department of Natural Resources.\r\n\r\nHYDRANT INSPECTION PROGRAM (Section 640.144)\r\n\tThe act makes technical changes to the provision relating to a hydrant inspection program.\r\n\r\n\tThis provision is identical to SB 1554 (2026), HB 2703 (2026), and a provision in SCS/HB 3000 (2026). \r\n\r\nTRANSFER OF MONEYS FROM CERTAIN FUNDS BY THE DEPARTMENT OF NATURAL RESOURCES (Sections 640.220 and 643.350)\r\n\tUnder the act, before June 30, 2027, any unexpended balance in the subaccounts of the Natural Resources Protection Fund exceeding the preceding biennium's collections shall revert to the General Revenue Fund at the end of each biennium.\r\n\r\n\tBeginning July 1, 2027, any unexpended balance in the subaccounts of the Natural Resources Protection Fund that exceeds the preceding biennium's collections shall not revert to the General Revenue Fund.\r\n\r\n\tBeginning July 1, 2027, and annually on July 1st of each succeeding year, the Commissioner of Administration shall use taxable sales reports to estimate the amount of state general revenue sales and use tax derived from electric power distribution in the immediately preceding calendar year and shall report such amount to the state treasurer. The state treasurer shall transfer certain amounts from the general revenue sales as described in the act.\r\n\r\n\tThe act repeals certain provisions relating to the transfer of funds from the Missouri Air Emission Reduction Fund.\r\n\r\n\tThese provisions are identical to provisions in SS/SB 1033 (2026), HB 3386 (2026), SB 120 (2025) and SB 1483 (2024).\r\n\r\nCLEAN WATER COMMISSION (644.021)\r\n\tThe act modifies membership requirements of the Clean Water Commission.\r\n\r\n\tThe act provides that at least one member of the Commission shall be knowledgeable concerning the needs of publicly owned waste water treatment works. \r\n\r\n\tThe act repeals a provision relating to the receipt of income during the previous two years by the members of the Commission. \r\n\r\n\tThe Commission shall establish rules specifying when members shall exempt themselves from participating in discussions and from voting on issues before the Commission due to a potential conflict of interest. A member shall exempt him or herself from participating in discussions and from voting on any issue before the Commission including, but not limited to, permitting and enforcement actions that directly involve an entity from which the Commissioner receives or has received within the previous two years a significant portion of his or her income.\r\n\r\n\tThese provisions are similar to SB 1009 (2026), HB 1885 (2026), and HCS/HB 488 (2025).\r\n\t\r\nREGULATION OF WATER CONTAMINANTS (Sections 644.051 and 644.059)\r\n\tThe act provides that it shall be unlawful for any person to operate, use or maintain any water contaminant unless the person holds an operating permit, subject to the exemptions that exempt agricultural storm water discharge from permitting requirements. (Section 644.051)\r\n\r\n\tAgricultural nonpoint sources and agricultural storm water discharges shall be exempt from certain permitting requirements under the Missouri Clean Water Law. Agricultural nonpoint sources and agricultural storm water discharges shall not be considered unlawful, subject to certain provisions under the act.\r\n\r\n\tAgricultural nonpoint sources and agricultural storm water discharges from irrigated agriculture shall include certain water and snow runoff, drainage, and infiltration, as described in current law. (Section 644.059)\r\n\r\n\tThese provisions are similar to SCS/SB 1427 (2026) and HCS/HB 3076 (2026).\r\n\r\nRIGHTS TO RETURN FLOWS (Section 644.083)\r\n\tUnder the act, a person who has contracted for the right to store water in a reservoir owned by the United States Army Corps of Engineers shall have exclusive rights to any return flows from the reservoir. The rights shall be subject to regulatory requirements imposed by the state and to the availability of unused storage capacity within the reservoir.\r\n\r\n\tThis provision is identical to a provision in SB 1397 (2026) and substantially similar to HB 2421 (2026).\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "HCS/SB 953 - The act modifies provisions relating to environmental programs within the Department of Natural Resources.\r\n\r\nHYDRANT INSPECTION PROGRAM (Section 640.144)\r\n\tThe act makes technical changes to the provision relating to a hydrant inspection program.\r\n\r\n\tThis provision is identical to SB 1554 (2026), HB 2703 (2026), and a provision in SCS/HB 3000 (2026). \r\n\r\nTRANSFER OF MONEYS FROM CERTAIN FUNDS BY THE DEPARTMENT OF NATURAL RESOURCES (Sections 640.220 and 643.350)\r\n\tUnder the act, before June 30, 2027, any unexpended balance in the subaccounts of the Natural Resources Protection Fund exceeding the preceding biennium's collections shall revert to the General Revenue Fund at the end of each biennium.\r\n\r\n\tBeginning July 1, 2027, any unexpended balance in the subaccounts of the Natural Resources Protection Fund that exceeds the preceding biennium's collections shall not revert to the General Revenue Fund.\r\n\r\n\tBeginning July 1, 2027, and annually on July 1st of each succeeding year, the Commissioner of Administration shall use taxable sales reports to estimate the amount of state general revenue sales and use tax derived from electric power distribution in the immediately preceding calendar year and shall report such amount to the state treasurer. The state treasurer shall transfer certain amounts from the general revenue sales as described in the act.\r\n\r\n\tThe act repeals certain provisions relating to the transfer of funds from the Missouri Air Emission Reduction Fund.\r\n\r\n\tThese provisions are identical to provisions in SS/SB 1033 (2026), HB 3386 (2026), SB 120 (2025) and SB 1483 (2024).\r\n\r\nCLEAN WATER COMMISSION (644.021)\r\n\tThe act modifies membership requirements of the Clean Water Commission.\r\n\r\n\tThe act provides that at least one member of the Commission shall be knowledgeable concerning the needs of publicly owned waste water treatment works. \r\n\r\n\tThe act repeals a provision relating to the receipt of income during the previous two years by the members of the Commission. \r\n\r\n\tThe Commission shall establish rules specifying when members shall exempt themselves from participating in discussions and from voting on issues before the Commission due to a potential conflict of interest. A member shall exempt him or herself from participating in discussions and from voting on any issue before the Commission including, but not limited to, permitting and enforcement actions that directly involve an entity from which the Commissioner receives or has received within the previous two years a significant portion of his or her income.\r\n\r\n\tThese provisions are similar to SB 1009 (2026), HB 1885 (2026), and HCS/HB 488 (2025).\r\n\t\r\nREGULATION OF WATER CONTAMINANTS (Sections 644.051 and 644.059)\r\n\tThe act provides that it shall be unlawful for any person to operate, use or maintain any water contaminant unless the person holds an operating permit, subject to the exemptions that exempt agricultural storm water discharge from permitting requirements. (Section 644.051)\r\n\r\n\tAgricultural nonpoint sources and agricultural storm water discharges shall be exempt from certain permitting requirements under the Missouri Clean Water Law. Agricultural nonpoint sources and agricultural storm water discharges shall not be considered unlawful, subject to certain provisions under the act.\r\n\r\n\tAgricultural nonpoint sources and agricultural storm water discharges from irrigated agriculture shall include certain water and snow runoff, drainage, and infiltration, as described in current law. (Section 644.059)\r\n\r\n\tThese provisions are similar to SCS/SB 1427 (2026) and HCS/HB 3076 (2026).\r\n\r\nRIGHTS TO RETURN FLOWS (Section 644.083)\r\n\tUnder the act, a person who has contracted for the right to store water in a reservoir owned by the United States Army Corps of Engineers shall have exclusive rights to any return flows from the reservoir. The rights shall be subject to regulatory requirements imposed by the state and to the availability of unused storage capacity within the reservoir.\r\n\r\n\tThis provision is identical to a provision in SB 1397 (2026) and substantially similar to HB 2421 (2026).\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to environmental programs within the Department of Natural Resources"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb953"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Delivered to Governor",
+      "date": "2026-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Signed by House Speaker",
+      "date": "2026-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Signed by Senate President Pro Tem",
+      "date": "2026-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Reported Duly Enrolled Rules, Joint Rules, Resolutions & Ethics Committee",
+      "date": "2026-05-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Truly Agreed To and Finally Passed",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S Third Read and Passed",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S concurs in  HCS, as amended",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "H Third Read and Passed",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "HCS, as amended, H adopted --(4505H.04C)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "HA 2, as amended, to HCS H adopted --(4505H04.04H)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "HA 1 to HA 2 to HCS H offered & adopted (Jobe)--(4505H04.20H)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "HA 2 to HCS H offered (Falkner)--(4505H04.04H)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "HA 1 to HCS H offered & adopted (Davidson)--(4505H04.17H)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass H Fiscal Review",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass H Fiscal Review",
+      "date": "2026-05-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Bill Placed on H Informal Calendar",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Referred H Fiscal Review Committee",
+      "date": "2026-05-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "HCS Reported Do Pass H Rules - Administrative",
+      "date": "2026-05-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass H Rules - Administrative",
+      "date": "2026-05-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "HCS Referred H Rules - Administrative",
+      "date": "2026-04-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "HCS Reported Do Pass H Conservation and Natural Resources",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "HCS Voted Do Pass H Conservation and Natural Resources",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted H Conservation and Natural Resources",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Referred H Conservation and Natural Resources",
+      "date": "2026-02-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "H Second Read",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "H First Read",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S Third Read and Passed",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Reported from S Fiscal Oversight Committee",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Fiscal Oversight Committee",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Referred S Fiscal Oversight Committee",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Perfected",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "SA 1 S offered & defeated (Roberts)--(4505S01.05S)",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Reported from S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bean, Jason",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Bean, Jason\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4505H.04T - Truly Agreed to and Finally Passed",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/tat/SB953.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4505H.04C - House Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/House/HCS-SB/SB0953.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4505S.01P - Perfected",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB953.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4505S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB953.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "2/17/2026 - SA 1 S offered & defeated (Roberts)--(4505S01.05S)\r\n                    \r\n                        2/17/2026 - Defeated",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=91",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=83",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4505H.04T"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

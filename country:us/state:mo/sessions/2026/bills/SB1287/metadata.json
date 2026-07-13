@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1287",
+  "title": "SB 1287 - Current law authorizes a taxpayer to deduct a maximum of the first $6,000 of any retirement allowance received from any privately funded sources if the taxpayer's Missouri adjusted gross income is less than $25,000 if filing single, $32,000 if filing married combined, or $16,000 if filing married separately. For all tax years beginning on or after January 1, 2027, this act increases such deduction to $12,000 and increases the income thresholds to $50,000, $64,000, and $32,600, respectively.\r\n\r\n\tThis act is identical to HCS/HBs 1762 & 2059 (2026), SB 620 (2025), HB 44 (2025), and HB 2657 (2024), and to a provision in HCS/SS/SB 898 (2024), and is substantially similar to HB 2205 (2026), HB 1423 (2024), SB 241 (2023), SB 448 (2023), SB 585 (2023), HB 156 (2023), HB 456 (2023), HB 662 (2023), HB 1206 (2023), SB 871 (2022), HB 2853 (2022), SB 157 (2021), SB 847 (2020), and HB 1725 (2020), and to provisions in HCS/SS#3/SCS/SB 131 (2023), SS/SB 190 (2023), HCS/SB 247 (2023), HS/HCS/HB 356 (2023), and SCS/HCS#2/HB 713 (2023).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1287 - Current law authorizes a taxpayer to deduct a maximum of the first $6,000 of any retirement allowance received from any privately funded sources if the taxpayer's Missouri adjusted gross income is less than $25,000 if filing single, $32,000 if filing married combined, or $16,000 if filing married separately. For all tax years beginning on or after January 1, 2027, this act increases such deduction to $12,000 and increases the income thresholds to $50,000, $64,000, and $32,600, respectively.\r\n\r\n\tThis act is identical to HCS/HBs 1762 & 2059 (2026), SB 620 (2025), HB 44 (2025), and HB 2657 (2024), and to a provision in HCS/SS/SB 898 (2024), and is substantially similar to HB 2205 (2026), HB 1423 (2024), SB 241 (2023), SB 448 (2023), SB 585 (2023), HB 156 (2023), HB 456 (2023), HB 662 (2023), HB 1206 (2023), SB 871 (2022), HB 2853 (2022), SB 157 (2021), SB 847 (2020), and HB 1725 (2020), and to provisions in HCS/SS#3/SCS/SB 131 (2023), SS/SB 190 (2023), HCS/SB 247 (2023), HS/HCS/HB 356 (2023), and SCS/HCS#2/HB 713 (2023).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to an income tax deduction for certain retirement benefits"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1287"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gregory (15), David",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Gregory (15), David\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5222S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1287.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=461",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5222S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

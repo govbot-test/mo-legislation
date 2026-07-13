@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "SCS Voted Do Pass (w/SCS SBs 835 & 1111) Insurance and Banking Committee (5285S.04C)",
+    "occurred_at": "2026-02-10T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=417",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 835"
+}

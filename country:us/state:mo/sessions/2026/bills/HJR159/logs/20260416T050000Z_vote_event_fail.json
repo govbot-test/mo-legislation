@@ -1,0 +1,23 @@
+{
+  "identifier": "",
+  "motion_text": "Third Read and Passed (H) - AYES: 101 NOES: 34 PRESENT: 12",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-16T05:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "8d1803d2-754e-11f1-b24a-b6ae219d7a94",
+  "bill_action": null,
+  "bill_identifier": "HJR 159",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HJR159&year=2026&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

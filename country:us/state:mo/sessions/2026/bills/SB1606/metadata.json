@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1606",
+  "title": "SB 1606 - This act requires health benefit plans that are delivered, issued for delivery, continued, or renewed in this state on or after January 1, 2027 to provide coverage for the treatment of obesity and severe obesity  for persons between the ages of two and twenty years old, and the diseases and ailments caused by obesity and severe obesity. \r\n\r\n\tHealth care services required by this act shall not be subject to any greater deductible or co-payment than any other health care service provided by the health benefit plan.\r\n\r\n\tProvisions of this act shall not apply to a supplemental insurance policy as determined by the director of the Department of Commerce and Insurance.\r\n\r\n\tThis act is substantially similar to HB 292 (2023). \r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1606 - This act requires health benefit plans that are delivered, issued for delivery, continued, or renewed in this state on or after January 1, 2027 to provide coverage for the treatment of obesity and severe obesity  for persons between the ages of two and twenty years old, and the diseases and ailments caused by obesity and severe obesity. \r\n\r\n\tHealth care services required by this act shall not be subject to any greater deductible or co-payment than any other health care service provided by the health benefit plan.\r\n\r\n\tProvisions of this act shall not apply to a supplemental insurance policy as determined by the director of the Department of Commerce and Insurance.\r\n\r\n\tThis act is substantially similar to HB 292 (2023). \r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to insurance coverage for treatment of obesity in certain persons"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1606"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Insurance and Banking Committee",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lewis, Patty",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Lewis, Patty\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6923S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1606.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=2589607",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6923S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

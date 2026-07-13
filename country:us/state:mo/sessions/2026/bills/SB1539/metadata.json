@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1539",
+  "title": "SB 1539 - This act establishes the Missouri Guaranteed Inclusive Voluntary Exceptional Service (MO GIVES) Program under the Department of the National Guard (Department). The MO GIVES Program allows members of the Missouri National Guard who choose to become living organ donors to receive living donor medical orders for purposes of remaining on paid status during the living donation period. The Department shall approve a member's participation if sufficient funds are available and the member:\r\n(1)\tIs under Troop Program Unit status or Individual Ready Reserve status;\r\n(2)\tIs in good standing with the Department;\r\n(3)\tEither is not eligible for living donor paid leave from the member's employer or elects not to use any such employer-based benefit available to the member;\r\n(4)\tSpecifies the type of donation; and\r\n(5)\tAgrees to undergo the procurement operation at a health care facility approved as a provider of continuing education points for transplant certification by the American Board for Transplant Certification.\r\n\r\n\tUpon approval of a member's application, the Department shall issue a living donor medical order, which shall:\r\n(1)\tGuarantee paid leave for the member for the living donation period, which shall not exceed 45 days unless an extension of time is deemed medically necessary by the primary surgical and medical recovery team;\r\n(2)\tExempt the member from any requirement to use accrued annual or medical leave for the guaranteed paid living donation period; and\r\n(3)\tProvide a per diem allowance and a basic allowance for housing during the guaranteed paid living donation period based on the member's rank, region, and dependent status.\r\n\r\n\tThis act also establishes the MO GIVES Fund, which consists of moneys used to fund the benefits provided under the MO GIVES Program.\r\n\r\n\tThis act is identical to HB 2664 (2026).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1539 - This act establishes the Missouri Guaranteed Inclusive Voluntary Exceptional Service (MO GIVES) Program under the Department of the National Guard (Department). The MO GIVES Program allows members of the Missouri National Guard who choose to become living organ donors to receive living donor medical orders for purposes of remaining on paid status during the living donation period. The Department shall approve a member's participation if sufficient funds are available and the member:\r\n(1)\tIs under Troop Program Unit status or Individual Ready Reserve status;\r\n(2)\tIs in good standing with the Department;\r\n(3)\tEither is not eligible for living donor paid leave from the member's employer or elects not to use any such employer-based benefit available to the member;\r\n(4)\tSpecifies the type of donation; and\r\n(5)\tAgrees to undergo the procurement operation at a health care facility approved as a provider of continuing education points for transplant certification by the American Board for Transplant Certification.\r\n\r\n\tUpon approval of a member's application, the Department shall issue a living donor medical order, which shall:\r\n(1)\tGuarantee paid leave for the member for the living donation period, which shall not exceed 45 days unless an extension of time is deemed medically necessary by the primary surgical and medical recovery team;\r\n(2)\tExempt the member from any requirement to use accrued annual or medical leave for the guaranteed paid living donation period; and\r\n(3)\tProvide a per diem allowance and a basic allowance for housing during the guaranteed paid living donation period based on the member's rank, region, and dependent status.\r\n\r\n\tThis act also establishes the MO GIVES Fund, which consists of moneys used to fund the benefits provided under the MO GIVES Program.\r\n\r\n\tThis act is identical to HB 2664 (2026).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the Missouri Guaranteed Inclusive Voluntary Exceptional Service (MO Gives) Program to provide living donor medical orders to certain members of the Missouri National Guard"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1539"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Conducted S Veterans and Military Affairs Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Veterans and Military Affairs Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roberts, Steven",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Roberts, Steven\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6659S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1539.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=626316",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6659S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

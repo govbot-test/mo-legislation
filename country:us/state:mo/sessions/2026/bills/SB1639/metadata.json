@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1639",
+  "title": "SB 1639 - This act modifies provisions relating to public contracts, specifically contracts entered into by the Division of Facilities Management, Design and Construction.\r\n\r\n\tCurrent law authorizes the Director of the Division of Facilities Management, Design and Construction to authorize state agencies to establish standing contracts for the purpose of accomplishing construction, renovation, maintenance and repair projects not exceeding $100,000, with job order contracts having a per project expenditure limit of $300,000. This act increases the contract cost limit for contracts to $250,000, with job order contracts having a per project expenditure limit of $750,000.\r\n\r\n\tThe act also permits the Division of Facilities Management, Design and Construction to enter into master agreements. Master agreements are defined as contracts for architecture, engineering or land surveying services that will be performed on an as-need basis for an indefinite quantity of projects over a defined period. Master agreements may be entered into as provided in the act, provided that the total dollar limitation for a given master agreement is $1,000,000, with each individual project under the agreement limited to $100,000. The period for each master agreement cannot exceed two years, including all renewal periods.\r\n\r\n\tThis act is identical to SB 827 (2025) and substantially similar to HCS/HB 2906 (2026), HB 2912 (2026), SB 789 (2025) and HB 167 (2025).\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1639 - This act modifies provisions relating to public contracts, specifically contracts entered into by the Division of Facilities Management, Design and Construction.\r\n\r\n\tCurrent law authorizes the Director of the Division of Facilities Management, Design and Construction to authorize state agencies to establish standing contracts for the purpose of accomplishing construction, renovation, maintenance and repair projects not exceeding $100,000, with job order contracts having a per project expenditure limit of $300,000. This act increases the contract cost limit for contracts to $250,000, with job order contracts having a per project expenditure limit of $750,000.\r\n\r\n\tThe act also permits the Division of Facilities Management, Design and Construction to enter into master agreements. Master agreements are defined as contracts for architecture, engineering or land surveying services that will be performed on an as-need basis for an indefinite quantity of projects over a defined period. Master agreements may be entered into as provided in the act, provided that the total dollar limitation for a given master agreement is $1,000,000, with each individual project under the agreement limited to $100,000. The period for each master agreement cannot exceed two years, including all renewal periods.\r\n\r\n\tThis act is identical to SB 827 (2025) and substantially similar to HCS/HB 2906 (2026), HB 2912 (2026), SB 789 (2025) and HB 167 (2025).\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to public contracts"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1639"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Emerging Issues and Professional Registration Committee",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bean, Jason",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Bean, Jason\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7067S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1639.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=3539356",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7067S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

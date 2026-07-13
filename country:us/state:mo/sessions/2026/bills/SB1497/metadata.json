@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1497",
+  "title": "SB 1497 - This act establishes an extreme risk order of protection, which allows a court to restrain or enjoin a respondent from possessing any firearm if a parent, teacher, or school administrator of the respondent or a law enforcement officer or agency proves by a preponderance of the evidence that an immediate and significant danger exists of the respondent causing personal injury to himself or herself or others.\r\n\r\n\tA court may immediately issue an ex parte order of protection for good cause shown and the court shall order the respondent to surrender all firearms as provided in the act.  If the respondent does not comply, then a law enforcement officer serving the order shall conduct a lawful search and seizure of any firearms of the respondent.  The court shall then hold a hearing within 15 days of the filing of the petition and, if the court issues a full extreme risk order of protection, the person subject to the order of protection shall surrender any firearms in his or her possession, control, or ownership as provided in the act. \r\n\r\n\tAdditionally, this act provides that a respondent to an extreme risk order of protection may file a petition to modify or rescind an order.  The petitioner may also renew the extreme risk order of protection for up to one year from the expiration of the preceding order. \r\n\r\n\tFinally, any violation of an ex parte or full extreme risk order of protection shall be a class A misdemeanor for the first violation and a class E felony for any subsequent violation. \r\n \r\n\tThis act is identical to SB 347 (2025) and SCS/SB 891 (2024), substantially similar to SB 329 (2023) and similar to SB 940 (2020), provisions in SB 42 (2019), SB 1101 (2018), and HB 2281 (2018).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1497 - This act establishes an extreme risk order of protection, which allows a court to restrain or enjoin a respondent from possessing any firearm if a parent, teacher, or school administrator of the respondent or a law enforcement officer or agency proves by a preponderance of the evidence that an immediate and significant danger exists of the respondent causing personal injury to himself or herself or others.\r\n\r\n\tA court may immediately issue an ex parte order of protection for good cause shown and the court shall order the respondent to surrender all firearms as provided in the act.  If the respondent does not comply, then a law enforcement officer serving the order shall conduct a lawful search and seizure of any firearms of the respondent.  The court shall then hold a hearing within 15 days of the filing of the petition and, if the court issues a full extreme risk order of protection, the person subject to the order of protection shall surrender any firearms in his or her possession, control, or ownership as provided in the act. \r\n\r\n\tAdditionally, this act provides that a respondent to an extreme risk order of protection may file a petition to modify or rescind an order.  The petitioner may also renew the extreme risk order of protection for up to one year from the expiration of the preceding order. \r\n\r\n\tFinally, any violation of an ex parte or full extreme risk order of protection shall be a class A misdemeanor for the first violation and a class E felony for any subsequent violation. \r\n \r\n\tThis act is identical to SB 347 (2025) and SCS/SB 891 (2024), substantially similar to SB 329 (2023) and similar to SB 940 (2020), provisions in SB 42 (2019), SB 1101 (2018), and HB 2281 (2018).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to extreme risk orders of protection"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1497"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2026-01-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mosley, Angela",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Mosley, Angela\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3375S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1497.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=74582",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3375S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

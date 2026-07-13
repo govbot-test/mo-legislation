@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1647",
+  "title": "SB 1647 - This act provides that the Board of Therapeutic Massage and the Board of Chiropractic Examiners can apply to the Administrative Hearing Commission (\"AHC\") for an emergency suspension or restriction of a license if the licensee is the subject of a pending criminal indictment, information, or other charge related to the duties and responsibilities of the licensed occupation, and there is reasonable cause to believe that the public health, safety, or welfare is at imminent risk of harm.\r\n\r\n\tWithin one business day of receiving the complaint, the AHC shall return a service packet, as described in the act, to the board, which shall then serve the licensee within twenty-four hours. Within five days of receipt of the complaint, the AHC shall conduct a review and, if the AHC determines there is reasonable cause for the board's complaint, the AHC shall enter an order of suspension or restriction. The order will be effective upon personal service or delivery of a copy at all of the licensee's addresses on file. The AHC shall then hold an evidentiary hearing on the record within forty-five days of the board's filing, or upon final adjudication of the criminal charges, to determine if the initial order entered by the AHC will continue in effect and whether a cause for discipline exists. If no cause for discipline is found, the AHC shall issue findings and terminate the order for suspension or restriction. If the AHC finds cause for discipline, the AHC shall issue findings and order the suspension or restriction to remain in effect until a disciplinary hearing before the board, which may impose discipline otherwise authorized by state law.\r\n\r\n\tFurthermore, this act provides that if the AHC does not grant an initial order, the board shall remove all reference to such emergency suspension or restriction from public records.\r\n\r\n\tThis act is identical to provisions in HCS/SS#2/SB 1233 (2026), HB 1623 (2026), in HCS/HB 2300 (2026), HB 58 (2025), provisions in the perfected HCS/HB 268 (2025), in the perfected HB 478 (2025), and in SCS/HB 834 (2025) and contains a provision similar to HB 1549 (2024), a provision in SCS/HCS/HB 2280 (2024), HCS/HB 175 (2023), and HB 1610 (2022).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1647 - This act provides that the Board of Therapeutic Massage and the Board of Chiropractic Examiners can apply to the Administrative Hearing Commission (\"AHC\") for an emergency suspension or restriction of a license if the licensee is the subject of a pending criminal indictment, information, or other charge related to the duties and responsibilities of the licensed occupation, and there is reasonable cause to believe that the public health, safety, or welfare is at imminent risk of harm.\r\n\r\n\tWithin one business day of receiving the complaint, the AHC shall return a service packet, as described in the act, to the board, which shall then serve the licensee within twenty-four hours. Within five days of receipt of the complaint, the AHC shall conduct a review and, if the AHC determines there is reasonable cause for the board's complaint, the AHC shall enter an order of suspension or restriction. The order will be effective upon personal service or delivery of a copy at all of the licensee's addresses on file. The AHC shall then hold an evidentiary hearing on the record within forty-five days of the board's filing, or upon final adjudication of the criminal charges, to determine if the initial order entered by the AHC will continue in effect and whether a cause for discipline exists. If no cause for discipline is found, the AHC shall issue findings and terminate the order for suspension or restriction. If the AHC finds cause for discipline, the AHC shall issue findings and order the suspension or restriction to remain in effect until a disciplinary hearing before the board, which may impose discipline otherwise authorized by state law.\r\n\r\n\tFurthermore, this act provides that if the AHC does not grant an initial order, the board shall remove all reference to such emergency suspension or restriction from public records.\r\n\r\n\tThis act is identical to provisions in HCS/SS#2/SB 1233 (2026), HB 1623 (2026), in HCS/HB 2300 (2026), HB 58 (2025), provisions in the perfected HCS/HB 268 (2025), in the perfected HB 478 (2025), and in SCS/HB 834 (2025) and contains a provision similar to HB 1549 (2024), a provision in SCS/HCS/HB 2280 (2024), HCS/HB 175 (2023), and HB 1610 (2022).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Provides for the Board of Therapeutic Massage and the Board of Chiropractic Examiners to apply to the Administrative Hearing Commission for emergency suspensions or restrictions of licenses"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1647"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Emerging Issues and Professional Registration Committee",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "McCreery, Tracy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            McCreery, Tracy\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5120S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1647.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=4064826",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5120S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

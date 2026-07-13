@@ -1,0 +1,141 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1084",
+  "title": "SCS/SB 1084 - Under current law, state funds for the East-West Gateway Coordinating Council and for the Mid-America Regional Council are not to exceed $65,000 and state funds for other regional planning commissions shall not exceed $25,000. This act changes the sums to $130,000 and $50,000. \r\n\r\n\tAdditionally, this act removes the regional planning commissions of Show-Me, Missouri Valley, Ozark Gateway, ABCD, and Lakes County and adds Harry S. Truman, MO-Kan, Pioneer Trails, and Southwest Mo. \r\n\r\n\tFinally, this act provides that beginning July 1, 2027, the maximum grant amount for each regional planning commission shall be adjusted with the consumer price index.\r\n\r\n\tThis act is identical to HB 2096 (2026), SB 387 (2025), SB 477 (2025), HB 826 (2025), HB 837 (2025), and HB 2151 (2024), and to a provision in SCS/HB 3000 (2026), SS/SB 240 (2025), SCS/HB 233 (2025), and SCS/HB 352 (2025), and is substantially similar to SB 939 (2024), SB 1112 (2024), and SB 634 (2023), and to a provision in HCS/HB 532 (2025), SCS/HCS/HB 1564 (2024), and HCS/SB 155 (2023).\r\nTRISTAN BENSON JR",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SCS/SB 1084 - Under current law, state funds for the East-West Gateway Coordinating Council and for the Mid-America Regional Council are not to exceed $65,000 and state funds for other regional planning commissions shall not exceed $25,000. This act changes the sums to $130,000 and $50,000. \r\n\r\n\tAdditionally, this act removes the regional planning commissions of Show-Me, Missouri Valley, Ozark Gateway, ABCD, and Lakes County and adds Harry S. Truman, MO-Kan, Pioneer Trails, and Southwest Mo. \r\n\r\n\tFinally, this act provides that beginning July 1, 2027, the maximum grant amount for each regional planning commission shall be adjusted with the consumer price index.\r\n\r\n\tThis act is identical to HB 2096 (2026), SB 387 (2025), SB 477 (2025), HB 826 (2025), HB 837 (2025), and HB 2151 (2024), and to a provision in SCS/HB 3000 (2026), SS/SB 240 (2025), SCS/HB 233 (2025), and SCS/HB 352 (2025), and is substantially similar to SB 939 (2024), SB 1112 (2024), and SB 634 (2023), and to a provision in HCS/HB 532 (2025), SCS/HCS/HB 1564 (2024), and HCS/SB 155 (2023).\r\nTRISTAN BENSON JR"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to state funds for regional planning commissions"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1084"
+    }
+  ],
+  "actions": [
+    {
+      "description": "SCS Voted Do Pass S Local Government, Elections and Pensions Committee (4602S.02C)",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Local Government, Elections and Pensions Committee",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Burger, Jamie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Burger, Jamie\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB1084.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4602S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1084.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=115",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4602S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

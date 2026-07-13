@@ -1,0 +1,120 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1581",
+  "title": "SB 1581 - This act establishes the \"Veterans Mental Health Innovation Act\".  Under this act, the Department of Health and Senior Services shall, subject to appropriation, award grants to conduct certified clinical drug development trials overseen by the U.S. Food and Drug Administration (FDA) on the use of ibogaine for the treatment of opioid use disorder, co-occurring substance use disorder, or any other neurological or mental health condition for which ibogaine demonstrates efficacy.  Grantees shall meet the eligibility requirements set forth in the act, including having signed an agreement with a consortium established by another state that has submitted specified applications and requests with the FDA.  \r\n\r\n\tThis act creates the \"Ibogaine Study Fund\" in the state treasury for the disbursement of grants under this act.  Selected grant applicants shall submit quarterly reports to the Department and the Department shall submit an annual report to the General Assembly on the progress of the trials.\r\n\r\n\tThis act also creates the \"Ibogaine Intellectual Property Fund\" for all revenue attributable to all intellectual property rights and other commercial rights that may arise from drug development clinical trials conducted by a multistate consortium under this act during the period for which the trials are funded and any following period of commercialization.  The moneys in the fund shall be used solely for programs that assist veterans or other at-risk populations in this state.\r\n\r\n\tIf ibogaine is approved by the FDA to treat a medical condition, only a licensed physician shall prescribe it for a patient and a licensed physician shall supervise its administration at a hospital or other licensed health care facility.\r\n\r\n\tThe Department shall begin accepting grant applications before November 1, 2026, but may delay implementation of some or all of the provisions of this act if the Department determines that a waiver or authorization from a federal agency is first necessary.\r\n\r\n\tThis act is identical to HB 2961 (2026).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1581 - This act establishes the \"Veterans Mental Health Innovation Act\".  Under this act, the Department of Health and Senior Services shall, subject to appropriation, award grants to conduct certified clinical drug development trials overseen by the U.S. Food and Drug Administration (FDA) on the use of ibogaine for the treatment of opioid use disorder, co-occurring substance use disorder, or any other neurological or mental health condition for which ibogaine demonstrates efficacy.  Grantees shall meet the eligibility requirements set forth in the act, including having signed an agreement with a consortium established by another state that has submitted specified applications and requests with the FDA.  \r\n\r\n\tThis act creates the \"Ibogaine Study Fund\" in the state treasury for the disbursement of grants under this act.  Selected grant applicants shall submit quarterly reports to the Department and the Department shall submit an annual report to the General Assembly on the progress of the trials.\r\n\r\n\tThis act also creates the \"Ibogaine Intellectual Property Fund\" for all revenue attributable to all intellectual property rights and other commercial rights that may arise from drug development clinical trials conducted by a multistate consortium under this act during the period for which the trials are funded and any following period of commercialization.  The moneys in the fund shall be used solely for programs that assist veterans or other at-risk populations in this state.\r\n\r\n\tIf ibogaine is approved by the FDA to treat a medical condition, only a licensed physician shall prescribe it for a patient and a licensed physician shall supervise its administration at a hospital or other licensed health care facility.\r\n\r\n\tThe Department shall begin accepting grant applications before November 1, 2026, but may delay implementation of some or all of the provisions of this act if the Department determines that a waiver or authorization from a federal agency is first necessary.\r\n\r\n\tThis act is identical to HB 2961 (2026).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the \"Veterans Mental Health Innovation Act\" relating to ibogaine treatment"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1581"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S Veterans and Military Affairs Committee",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Veterans and Military Affairs Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Veterans and Military Affairs Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-20T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bean, Jason",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Bean, Jason\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6783S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1581.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=1584516",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6783S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

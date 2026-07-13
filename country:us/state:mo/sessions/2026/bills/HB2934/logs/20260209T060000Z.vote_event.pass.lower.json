@@ -1,0 +1,23 @@
+{
+  "identifier": "",
+  "motion_text": "Reported Do Pass (H) - AYES: 10 NOES: 0 PRESENT: 2",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-09T06:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "eb70f076-754c-11f1-b24a-b6ae219d7a94",
+  "bill_action": null,
+  "bill_identifier": "HB 2934",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB2934&year=2026&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

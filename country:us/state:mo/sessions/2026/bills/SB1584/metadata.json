@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1584",
+  "title": "SB 1584 - The act creates new provisions relating to regulation of online content involving minors.\r\n\r\n\tUnder the act, a minor shall be considered engaged in the work of content creation under certain criteria, as described in the act, at any time during the previous twelve-month period.\r\n\r\n\tA minor who is thirteen years of age or older may produce, create, and publish his or her own content and shall be entitled to all compensation from such content.\r\n\r\n\tAny content creator whose content features a minor engaged in content creation shall maintain certain records, as described in the act, and shall retain such records until the minor reaches the age of twenty-one. The content creator shall provide notice to the minor of the existence of such records.\r\n\r\n\tA minor who is engaged in the work of content creation shall be compensated by the content creator. The content creator shall set aside gross earnings, as described in the act, on any content including but not limited, the likeness or name of the minor in a trust account to be preserved for the benefit of the minor upon the minor reaching eighteen years of age. Requirements of the trust account are described in the act.\r\n\r\n\tAfter August 28, 2026, any individual who was featured in a content creator's post on a social media platform as a minor may request that the content creator delete or edit the post to remove any content involving the minor. The content creator shall delete or edit the post if the information provided by the individual is uniquely identifiable.\r\n\r\n\tSocial media platforms shall provide an easily accessible mechanism through which the individual can submit a request for the removal of the content featuring the minor.\r\n\r\n\tSocial media platforms shall notify the content creator within a reasonable time period, but no longer than thirty days, after receiving a removal request. The content creator shall delete or edit the post from the social media platform within 72 hours after receiving notice from the social media platform.\r\n\r\n\tIf the content creator fails to delete or edit the post involving the minor within the specified time period, the social media platform shall take all reasonable steps to remove or edit the content involving the minor subject to certain exceptions as described in the act.\r\n\r\n\tIt shall be unlawful to financially benefit from intentionally or knowingly producing or distributing on social media any visual depiction of a minor with the intent to sexually gratify or elicit a sexual response, or any other restricted material involving a minor, subject to the exceptions described in the act.\r\n\r\n\tA social media platform shall develop and implement a strategy to help mitigate risks related to monetization of restricted material involving minors. Requirements of such strategy are described in the act.\r\n\r\n\tAny individual may report violations of the act to the Attorney General. If the Attorney General finds that provisions of the act have been violated, the Attorney General shall bring a civil action. Remedies are described in the act.  Nothing in the act shall preclude an individual from bringing a private civil action for any violations of the act.\r\n\r\n\tThe act is identical to HB 2733 (2026), substantially similar to HBs 1245, 832, & 706 (2025), and similar to SB 756 (2025).\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1584 - The act creates new provisions relating to regulation of online content involving minors.\r\n\r\n\tUnder the act, a minor shall be considered engaged in the work of content creation under certain criteria, as described in the act, at any time during the previous twelve-month period.\r\n\r\n\tA minor who is thirteen years of age or older may produce, create, and publish his or her own content and shall be entitled to all compensation from such content.\r\n\r\n\tAny content creator whose content features a minor engaged in content creation shall maintain certain records, as described in the act, and shall retain such records until the minor reaches the age of twenty-one. The content creator shall provide notice to the minor of the existence of such records.\r\n\r\n\tA minor who is engaged in the work of content creation shall be compensated by the content creator. The content creator shall set aside gross earnings, as described in the act, on any content including but not limited, the likeness or name of the minor in a trust account to be preserved for the benefit of the minor upon the minor reaching eighteen years of age. Requirements of the trust account are described in the act.\r\n\r\n\tAfter August 28, 2026, any individual who was featured in a content creator's post on a social media platform as a minor may request that the content creator delete or edit the post to remove any content involving the minor. The content creator shall delete or edit the post if the information provided by the individual is uniquely identifiable.\r\n\r\n\tSocial media platforms shall provide an easily accessible mechanism through which the individual can submit a request for the removal of the content featuring the minor.\r\n\r\n\tSocial media platforms shall notify the content creator within a reasonable time period, but no longer than thirty days, after receiving a removal request. The content creator shall delete or edit the post from the social media platform within 72 hours after receiving notice from the social media platform.\r\n\r\n\tIf the content creator fails to delete or edit the post involving the minor within the specified time period, the social media platform shall take all reasonable steps to remove or edit the content involving the minor subject to certain exceptions as described in the act.\r\n\r\n\tIt shall be unlawful to financially benefit from intentionally or knowingly producing or distributing on social media any visual depiction of a minor with the intent to sexually gratify or elicit a sexual response, or any other restricted material involving a minor, subject to the exceptions described in the act.\r\n\r\n\tA social media platform shall develop and implement a strategy to help mitigate risks related to monetization of restricted material involving minors. Requirements of such strategy are described in the act.\r\n\r\n\tAny individual may report violations of the act to the Attorney General. If the Attorney General finds that provisions of the act have been violated, the Attorney General shall bring a civil action. Remedies are described in the act.  Nothing in the act shall preclude an individual from bringing a private civil action for any violations of the act.\r\n\r\n\tThe act is identical to HB 2733 (2026), substantially similar to HBs 1245, 832, & 706 (2025), and similar to SB 756 (2025).\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to regulation of online content involving minors"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1584"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nurrenbern, Maggie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nurrenbern, Maggie\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6757S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1584.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=1838031",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6757S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

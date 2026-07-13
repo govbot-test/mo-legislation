@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1317",
+  "title": "SB 1317 - This act provides that a court may appoint the Division of Probation and Parole (\"Division\") as a forensic guardian to a person who is found by a court to be incapacitated and to:\r\n\t(1)\tHave a substantial criminal history of serious offenses;\r\n\t(2)\tBe under supervised or unsupervised probation and parole;\r\n\t(3)\tBe under a court order requiring or prohibiting a specific act;\r\n\t(4)\tBe required to register as a sex offender;\r\n\t(5)\tHave a likelihood of serious harm to himself, herself, or others or is likely to commit an offense or violate any term or condition of probation, parole, or court order;\r\n\t(6)\tHave a substance use disorder resulting in total or partial incapacity or a significant incapacitation from alcohol or drugs; or \r\n\t(7)\tHave significant interaction with law enforcement officers.\r\n\r\n\tThe Division shall have the same rights and duties as a public administrator appointed to serve as a guardian and shall operate in accordance with the powers and duties of guardians as currently provided in law. Additionally, the Division shall not be required to submit background checks of employees or consents to act to the court before the appointment of the Division as a guardian under this act. The Division shall be notified of the proceedings and shall receive a copy of the petition and any accompanying documents when it is being nominated or considered to serve as a guardian. During such proceedings, the Division shall have an opportunity to attend and be heard. \r\n\r\n\tA person under a forensic guardianship shall not be committed or incarcerated nor denied participation in or benefits from government or privately operated institutions, programs, or housing solely on the basis of being under a forensic guardian. \r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1317 - This act provides that a court may appoint the Division of Probation and Parole (\"Division\") as a forensic guardian to a person who is found by a court to be incapacitated and to:\r\n\t(1)\tHave a substantial criminal history of serious offenses;\r\n\t(2)\tBe under supervised or unsupervised probation and parole;\r\n\t(3)\tBe under a court order requiring or prohibiting a specific act;\r\n\t(4)\tBe required to register as a sex offender;\r\n\t(5)\tHave a likelihood of serious harm to himself, herself, or others or is likely to commit an offense or violate any term or condition of probation, parole, or court order;\r\n\t(6)\tHave a substance use disorder resulting in total or partial incapacity or a significant incapacitation from alcohol or drugs; or \r\n\t(7)\tHave significant interaction with law enforcement officers.\r\n\r\n\tThe Division shall have the same rights and duties as a public administrator appointed to serve as a guardian and shall operate in accordance with the powers and duties of guardians as currently provided in law. Additionally, the Division shall not be required to submit background checks of employees or consents to act to the court before the appointment of the Division as a guardian under this act. The Division shall be notified of the proceedings and shall receive a copy of the petition and any accompanying documents when it is being nominated or considered to serve as a guardian. During such proceedings, the Division shall have an opportunity to attend and be heard. \r\n\r\n\tA person under a forensic guardianship shall not be committed or incarcerated nor denied participation in or benefits from government or privately operated institutions, programs, or housing solely on the basis of being under a forensic guardian. \r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions regarding forensic guardianships"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1317"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Carter, Jill",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Carter, Jill\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3372S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1317.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=221",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3372S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

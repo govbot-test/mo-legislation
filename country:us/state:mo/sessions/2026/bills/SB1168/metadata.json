@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1168",
+  "title": "SB 1168 - This act modifies provisions relating to persons convicted of a crime. \r\n\r\nCERTIFICATES OF GOOD CHARACTER (Sections 314.205 to 314.214)\r\n\tThis act establishes certificates of exemplary conduct and good moral character to be issued by circuit courts to eligible individuals if the court finds that he or she meets certain criteria as specified in the act. \r\n\r\n\tThe issuing of a certificate shall not prevent any authorized parties from accessing or considering the recipient's conviction history. However, the issuing of a certificate shall remove all bars with respect to employment, housing, or occupational licenses.\r\n\r\n\tThis act also provides that an employer shall not be criminally or civilly liable for an act or omission of an employee who has been issued a certificate, unless the employer committed a willful or wanton act in hiring such employee. The Division of Professional Registration, and any other Missouri entity with the authority to issue or revoke a license, shall report to the General Assembly various statistics as specified in the act on November 30th of each year.\r\n\r\n\tThese provisions are identical to HB 3132 (2026), SB 302 (2025), SB 1097 (2024), SB 145 (2023), SB 1087 (2022), SB 496 (2017), SB 539 (2017), and HB 673 (2017).\r\n\r\nGOOD TIME CREDIT (Section 558.041)\r\n\tThis act provides that an offender shall, rather than may, receive credit in terms of days spent in confinement upon recommendation by the offender's institutional superintendent. The Department of Corrections shall specify the programs or activities for which credit may be earned and the criteria for offenders to participate as provided in the act. Finally, the offenders may petition the Department to receive credit for programs prior to August 28, 2026, as provided in the act. \r\n\r\n\tThis act is identical to SB 302 (2025), SB 1333 (2024), HB 2203 (2024), and a provision in the perfected HCS/HBs 119, 372, 382, 420, 550 & 693 (2023). \r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1168 - This act modifies provisions relating to persons convicted of a crime. \r\n\r\nCERTIFICATES OF GOOD CHARACTER (Sections 314.205 to 314.214)\r\n\tThis act establishes certificates of exemplary conduct and good moral character to be issued by circuit courts to eligible individuals if the court finds that he or she meets certain criteria as specified in the act. \r\n\r\n\tThe issuing of a certificate shall not prevent any authorized parties from accessing or considering the recipient's conviction history. However, the issuing of a certificate shall remove all bars with respect to employment, housing, or occupational licenses.\r\n\r\n\tThis act also provides that an employer shall not be criminally or civilly liable for an act or omission of an employee who has been issued a certificate, unless the employer committed a willful or wanton act in hiring such employee. The Division of Professional Registration, and any other Missouri entity with the authority to issue or revoke a license, shall report to the General Assembly various statistics as specified in the act on November 30th of each year.\r\n\r\n\tThese provisions are identical to HB 3132 (2026), SB 302 (2025), SB 1097 (2024), SB 145 (2023), SB 1087 (2022), SB 496 (2017), SB 539 (2017), and HB 673 (2017).\r\n\r\nGOOD TIME CREDIT (Section 558.041)\r\n\tThis act provides that an offender shall, rather than may, receive credit in terms of days spent in confinement upon recommendation by the offender's institutional superintendent. The Department of Corrections shall specify the programs or activities for which credit may be earned and the criteria for offenders to participate as provided in the act. Finally, the offenders may petition the Department to receive credit for programs prior to August 28, 2026, as provided in the act. \r\n\r\n\tThis act is identical to SB 302 (2025), SB 1333 (2024), HB 2203 (2024), and a provision in the perfected HCS/HBs 119, 372, 382, 420, 550 & 693 (2023). \r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to persons convicted of a crime"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1168"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roberts, Steven",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Roberts, Steven\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5072S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1168.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=196",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5072S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

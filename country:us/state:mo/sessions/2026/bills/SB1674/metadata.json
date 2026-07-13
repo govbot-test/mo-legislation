@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1674",
+  "title": "SB 1674 - Beginning January 1, 2027, this act requires the Governor to appoint a nonvoting student representative to the Coordinating Board for Higher Education.  The student representative shall serve a two-year term and shall attend all meetings and participate in all deliberations of the Coordinating Board.\r\n\r\n\tTo be eligible for the position of student representative, an individual shall be enrolled full-time at an educational institution that satisfies the definition of \"approved public institution\" established in current law, which includes public community colleges, state college and universities, and public technical colleges.  At the time of appointment, the student representative shall be a current or former student body president or a current or former student representative to the board of governors at an approved public institution.  A student representative who graduates after the first year of his or her term may continue to serve until the end of the term.  However, if a student representative ceases to be a full-time student for any other reason or fails to satisfy certain other requirements specified in the act, the position of student representative shall become vacant, and the Governor shall appoint a temporary replacement until a successor is appointed by the Governor by and with the advice and consent of the Senate.\r\n\r\n\tAppointments to the position of student representative shall be made in rotation from among the state's approved public institutions.  After a student representative is appointed from one institution, no individual from the same institution shall be eligible for the position until at least three subsequent appointments have been made and three years have passed.\r\n\r\n\tThe student representative shall be reimbursed for actual expenses incurred while attending meetings of the Coordinating Board for Higher Education and shall pay all fees due to the institution he or she attends when such fees are due.\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1674 - Beginning January 1, 2027, this act requires the Governor to appoint a nonvoting student representative to the Coordinating Board for Higher Education.  The student representative shall serve a two-year term and shall attend all meetings and participate in all deliberations of the Coordinating Board.\r\n\r\n\tTo be eligible for the position of student representative, an individual shall be enrolled full-time at an educational institution that satisfies the definition of \"approved public institution\" established in current law, which includes public community colleges, state college and universities, and public technical colleges.  At the time of appointment, the student representative shall be a current or former student body president or a current or former student representative to the board of governors at an approved public institution.  A student representative who graduates after the first year of his or her term may continue to serve until the end of the term.  However, if a student representative ceases to be a full-time student for any other reason or fails to satisfy certain other requirements specified in the act, the position of student representative shall become vacant, and the Governor shall appoint a temporary replacement until a successor is appointed by the Governor by and with the advice and consent of the Senate.\r\n\r\n\tAppointments to the position of student representative shall be made in rotation from among the state's approved public institutions.  After a student representative is appointed from one institution, no individual from the same institution shall be eligible for the position until at least three subsequent appointments have been made and three years have passed.\r\n\r\n\tThe student representative shall be reimbursed for actual expenses incurred while attending meetings of the Coordinating Board for Higher Education and shall pay all fees due to the institution he or she attends when such fees are due.\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Requires the Governor to appoint a student representative to the Coordinating Board for Higher Education"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1674"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Burger, Jamie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Burger, Jamie\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7212S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1674.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=5229243",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7212S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

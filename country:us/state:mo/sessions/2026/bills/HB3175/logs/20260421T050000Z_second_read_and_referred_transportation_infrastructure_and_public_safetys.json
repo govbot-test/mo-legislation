@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Second read and referred: Transportation, Infrastructure and Public Safety(S)",
+    "occurred_at": "2026-04-21T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.house.mo.gov/BillContent.aspx?bill=HB3175&year=2026&code=R&style=new",
+        "note": ""
+      },
+      {
+        "url": "https://house.mo.gov/billactions.aspx?bill=HB3175&year=2026&code=R",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 3175"
+}

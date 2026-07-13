@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1424",
+  "title": "SB 1424 - This act modifies provisions relating to credit unions. Current law provides that membership shares in a credit union shall have a par value of $25-100. This act changes the par value to $1-100.\r\n\r\n\tThe act additionally modifies provisions governing the conduct of board meetings of a credit union. Unless specifically prohibited by the bylaws, directors may participate in and act at any meeting of the board through the use of a telephone, video conference, or other electronic means. Participation by directors in a meeting may be in any combination of in person, telephone, or other electronic or virtual means provided that all directors participating can communicate simultaneously. Any action taken during such meeting shall have the same binding and legal effect as if conducted fully in person. Votes and other actions of the directors may be conducted by electronic means, including remote or online systems, provided that board approved procedures are established to verify the identity of voting directors and to ensure the integrity of the process.\r\n\r\n\tThis act is substantially similar to the truly agreed to HB 2586 (2026).\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1424 - This act modifies provisions relating to credit unions. Current law provides that membership shares in a credit union shall have a par value of $25-100. This act changes the par value to $1-100.\r\n\r\n\tThe act additionally modifies provisions governing the conduct of board meetings of a credit union. Unless specifically prohibited by the bylaws, directors may participate in and act at any meeting of the board through the use of a telephone, video conference, or other electronic means. Participation by directors in a meeting may be in any combination of in person, telephone, or other electronic or virtual means provided that all directors participating can communicate simultaneously. Any action taken during such meeting shall have the same binding and legal effect as if conducted fully in person. Votes and other actions of the directors may be conducted by electronic means, including remote or online systems, provided that board approved procedures are established to verify the identity of voting directors and to ensure the integrity of the process.\r\n\r\n\tThis act is substantially similar to the truly agreed to HB 2586 (2026).\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to credit unions"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1424"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Insurance and Banking Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Carter, Jill",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Carter, Jill\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6097S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1424.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=11074",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6097S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

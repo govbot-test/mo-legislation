@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1254",
+  "title": "SB 1254 - This act modifies and establishes various provisions relating to licensed medical professionals.\r\n\r\nTITLES OF PHYSICIANS (SECTION 334.071)\r\n\tThis act provides a list of titles and specialty designations that only licensed physicians may use.\r\n\r\n\tThis provision is identical to HB 1130 (2025).\r\n\r\nTHE PRACTICE OF OPTOMETRY (SECTIONS 336.010 to 336.300)\r\n\tCurrently, the practice of optometry includes the removal of superficial foreign bodies from the eye or adnexa, but does not include the use of injectable agents. Under this act, the practice of optometry shall include certain procedures detailed in the act and the use of pharmaceutical agents, including injectable agents other than vaccines, for the purpose of treatment of the eye and adnexa.\r\n\r\n\tAdditionally, this act provides that an optometrist shall be required to disclose, either verbally or by written communication, to every patient that:\r\n\t(1)\tThe optometrist is not a licensed physician;\r\n\t(2)\tThe patient has the option to seek care from a physician for treatments; and\r\n\t(3)\tThe patient has waived a referral to a physician.\r\n\t\r\n\tPrior to treatment, an optometrist shall be required to obtain informed written consent from a patient, which shall be retained for no less than seven years from the date the written consent was made, and which shall be made available upon request for review by the Board of Optometry and the State Board of Registration for the Healing Arts. Failure to obtain the consent of the patient prior to treatment may result in disciplinary action.\r\n\r\n\tFurthermore, this act provides for surgical comanagement, which is defined as the collaboration and sharing of responsibilities among ophthalmologists or optometrists with respect to the preoperative or postoperative care of an eye surgery patient. Surgical comanagement is permitted when the following are met:\r\n\t(1)\tThe patient has indicated a preference to have preoperative or postoperative care furnished by an eye care provider other than the operating physician or surgeon; or\r\n\t(2)\tThe distance from the patient's home to the operating physician or surgeon's office would result in an unreasonable hardship; or\r\n\t(3)\tExtenuating circumstances exist which prevent the patient from visiting the physician or surgeon's office for routine preoperative or postoperative care and such care can be provided by another qualified eye care provider; or \r\n\t(4)\tThe physician or surgeon chosen by the patient is not available to perform the operation and associated care within reasonable proximity to the patient's home; or\r\n\t(5)\tThe operating physician or surgeon will not be available to provide postoperative care after the surgery, provided that the absence of the operating physician or surgeon does not fall within rules pertaining to patient abandonment or improper itinerant surgery; and\r\n\t(6)\tThe patient chooses to have preoperative or postoperative care furnished by an eye care provider other than the operating physician or surgeon after being fully informed about the proposed comanagement arrangement.\r\n\r\n\tAll providers of a surgical comanagement shall be licensed or certified and qualified to perform such services received by the patient. Additionally, none of the comanaging eye care providers shall receive a percentage of the global surgical fee that exceeds the relative value of services provided to an eye surgery patient which are reasonable and necessary for such patient's care. If surgical intervention is required during the postoperative period for medically necessary reasons, an eye surgery patient shall be referred to the original provider or to another provider with comparable skills.\r\n\r\n\tEvery eye surgery patient shall sign a written notice about the surgical comanagement arrangement and shall be offered a statement acknowledging that the details, as outlined in the act, of the surgical comanagement arrangement have been fully explained to the eye surgery patient. The consent of the comanagement arrangement shall be documented in the patient's medical records maintained by each of the comanaging eye care providers. Furthermore, this act provides that the comanaging eye care providers shall establish protocols governing the manner in which care will be offered and provided to an eye surgery patient. \r\n\r\n\tPersons who engage in certain actions shall not receive the protection of the comanagement safe harbor, including fee splitting without providing commensurate medically necessary service, certain actions relating to the referral of care, and actions that are not in the best interest of care for a patient.\r\n\r\n\tThe State Board of Registration for the Healing Arts and the Board of Optometry shall be responsible for the enforcement of providers covered by this act and may promulgate rules to implement the provisions of this act.\r\n\r\n\tFinally, this act shall not be construed to infringe upon the right of any eye care provider to decide whether to participate in comanagement arrangements nor shall it be construed to limit civil liability of the eye care providers.\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1254 - This act modifies and establishes various provisions relating to licensed medical professionals.\r\n\r\nTITLES OF PHYSICIANS (SECTION 334.071)\r\n\tThis act provides a list of titles and specialty designations that only licensed physicians may use.\r\n\r\n\tThis provision is identical to HB 1130 (2025).\r\n\r\nTHE PRACTICE OF OPTOMETRY (SECTIONS 336.010 to 336.300)\r\n\tCurrently, the practice of optometry includes the removal of superficial foreign bodies from the eye or adnexa, but does not include the use of injectable agents. Under this act, the practice of optometry shall include certain procedures detailed in the act and the use of pharmaceutical agents, including injectable agents other than vaccines, for the purpose of treatment of the eye and adnexa.\r\n\r\n\tAdditionally, this act provides that an optometrist shall be required to disclose, either verbally or by written communication, to every patient that:\r\n\t(1)\tThe optometrist is not a licensed physician;\r\n\t(2)\tThe patient has the option to seek care from a physician for treatments; and\r\n\t(3)\tThe patient has waived a referral to a physician.\r\n\t\r\n\tPrior to treatment, an optometrist shall be required to obtain informed written consent from a patient, which shall be retained for no less than seven years from the date the written consent was made, and which shall be made available upon request for review by the Board of Optometry and the State Board of Registration for the Healing Arts. Failure to obtain the consent of the patient prior to treatment may result in disciplinary action.\r\n\r\n\tFurthermore, this act provides for surgical comanagement, which is defined as the collaboration and sharing of responsibilities among ophthalmologists or optometrists with respect to the preoperative or postoperative care of an eye surgery patient. Surgical comanagement is permitted when the following are met:\r\n\t(1)\tThe patient has indicated a preference to have preoperative or postoperative care furnished by an eye care provider other than the operating physician or surgeon; or\r\n\t(2)\tThe distance from the patient's home to the operating physician or surgeon's office would result in an unreasonable hardship; or\r\n\t(3)\tExtenuating circumstances exist which prevent the patient from visiting the physician or surgeon's office for routine preoperative or postoperative care and such care can be provided by another qualified eye care provider; or \r\n\t(4)\tThe physician or surgeon chosen by the patient is not available to perform the operation and associated care within reasonable proximity to the patient's home; or\r\n\t(5)\tThe operating physician or surgeon will not be available to provide postoperative care after the surgery, provided that the absence of the operating physician or surgeon does not fall within rules pertaining to patient abandonment or improper itinerant surgery; and\r\n\t(6)\tThe patient chooses to have preoperative or postoperative care furnished by an eye care provider other than the operating physician or surgeon after being fully informed about the proposed comanagement arrangement.\r\n\r\n\tAll providers of a surgical comanagement shall be licensed or certified and qualified to perform such services received by the patient. Additionally, none of the comanaging eye care providers shall receive a percentage of the global surgical fee that exceeds the relative value of services provided to an eye surgery patient which are reasonable and necessary for such patient's care. If surgical intervention is required during the postoperative period for medically necessary reasons, an eye surgery patient shall be referred to the original provider or to another provider with comparable skills.\r\n\r\n\tEvery eye surgery patient shall sign a written notice about the surgical comanagement arrangement and shall be offered a statement acknowledging that the details, as outlined in the act, of the surgical comanagement arrangement have been fully explained to the eye surgery patient. The consent of the comanagement arrangement shall be documented in the patient's medical records maintained by each of the comanaging eye care providers. Furthermore, this act provides that the comanaging eye care providers shall establish protocols governing the manner in which care will be offered and provided to an eye surgery patient. \r\n\r\n\tPersons who engage in certain actions shall not receive the protection of the comanagement safe harbor, including fee splitting without providing commensurate medically necessary service, certain actions relating to the referral of care, and actions that are not in the best interest of care for a patient.\r\n\r\n\tThe State Board of Registration for the Healing Arts and the Board of Optometry shall be responsible for the enforcement of providers covered by this act and may promulgate rules to implement the provisions of this act.\r\n\r\n\tFinally, this act shall not be construed to infringe upon the right of any eye care provider to decide whether to participate in comanagement arrangements nor shall it be construed to limit civil liability of the eye care providers.\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies and creates provisions regarding licensed medical professionals"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1254"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Emerging Issues and Professional Registration Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nicola, Joe",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nicola, Joe\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5488S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1254.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=475",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5488S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

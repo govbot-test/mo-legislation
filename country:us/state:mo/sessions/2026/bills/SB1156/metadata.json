@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1156",
+  "title": "SB 1156 - This act prohibits health benefit plans from imposing cost-sharing, as defined in the act, on an enrollee in excess of thirty dollars per thirty-day supply of a prescription insulin drug.\r\n\r\n\tThis act also requires health benefit plan enrollees' cost-sharing for prescription insulin drugs to be calculated at the point of sale, and based on a price that is reduced by an amount equal to at least 100% of all rebates received, or to be received, in connection with the dispensing or administration of the drug. Nothing in the act shall prohibit copayments not based on the price of a drug, provided that the copayment does not exceed the reduced price of the drug.\r\n\r\n\tThe act shall not require a health carrier or its agents to reveal information regarding the actual amount of rebates a carrier receives on a product, manufacturer, or pharmacy-specific basis. The act also provides confidentiality protections, as specified in the act, which the carriers shall follow as well as impose on any third party that performs health care or administrative services on behalf of the carrier and may receive or have access to rebate information.\r\n\r\n\tThis act applies to health benefit plans delivered, issued, continued, or renewed in the state on or after January 1, 2027.\r\n\r\n\tThis act is identical to HB 3117 (2026), SB 175 (2025), similar to provisions in HCS/HB 1195 (2025) and HB 186 (2025), identical to HB 2262 (2024), substantially similar to SB 1182 (2024), identical to SB 283 (2023), similar to SB 815 (2022), and contains provisions similar to SB 814 (2022).\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1156 - This act prohibits health benefit plans from imposing cost-sharing, as defined in the act, on an enrollee in excess of thirty dollars per thirty-day supply of a prescription insulin drug.\r\n\r\n\tThis act also requires health benefit plan enrollees' cost-sharing for prescription insulin drugs to be calculated at the point of sale, and based on a price that is reduced by an amount equal to at least 100% of all rebates received, or to be received, in connection with the dispensing or administration of the drug. Nothing in the act shall prohibit copayments not based on the price of a drug, provided that the copayment does not exceed the reduced price of the drug.\r\n\r\n\tThe act shall not require a health carrier or its agents to reveal information regarding the actual amount of rebates a carrier receives on a product, manufacturer, or pharmacy-specific basis. The act also provides confidentiality protections, as specified in the act, which the carriers shall follow as well as impose on any third party that performs health care or administrative services on behalf of the carrier and may receive or have access to rebate information.\r\n\r\n\tThis act applies to health benefit plans delivered, issued, continued, or renewed in the state on or after January 1, 2027.\r\n\r\n\tThis act is identical to HB 3117 (2026), SB 175 (2025), similar to provisions in HCS/HB 1195 (2025) and HB 186 (2025), identical to HB 2262 (2024), substantially similar to SB 1182 (2024), identical to SB 283 (2023), similar to SB 815 (2022), and contains provisions similar to SB 814 (2022).\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Enacts provisions relating to insurance coverage for prescription insulin drugs"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1156"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Insurance and Banking Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nurrenbern, Maggie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nurrenbern, Maggie\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3850S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1156.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=529",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3850S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

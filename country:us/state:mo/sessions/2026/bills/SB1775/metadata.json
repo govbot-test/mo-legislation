@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1775",
+  "title": "SB 1775 - This act requires hospitals to establish a workplace violence prevention committee or authorize an existing committee to develop a workplace violence prevention plan as described in the act. The workplace violence prevention plan shall be based on the practice setting, encourage health care professionals and employees of the facility to provide confidential information to the committee, adopt a definition of workplace violence, as described in the act, require annual training, prescribe a system for response to and investigation of incidents, address physical safety and security. The hospital shall annually review the plan.\r\n\r\n\tNo person shall discipline, discriminate against, or retaliate against another person who reports an incidence of workplace violence or advises a health care professional or employee of their right to report an incident of workplace violence.\r\n  \r\n\tThis provision is identical to HB 3401 (2026), and to a provision contained in SB 1719 (2026).\r\n\r\n\tA person shall be guilty of the offense of assault in the fourth degree if the person knowingly causes physical pain to a special victim, as defined in current law. A violation shall be a class A misdemeanor unless the person has previously been found guilty or pled guilty to an assault offense, in which case the violation shall be a class E felony. A violation committed by a person who has previously been found guilty or pled guilty to an assault offense on two or more occasions shall be guilty of a class D felony. Any such offender shall not be sentenced to a fine or be eligible for probation or parole until the person has served a minimum of six months or one year, as applicable.\r\n\r\n\tThis provision is identical to HB 2072 (2026), and to a provision contained in HS/HCS/HBs 3068 & 3049 (2026).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1775 - This act requires hospitals to establish a workplace violence prevention committee or authorize an existing committee to develop a workplace violence prevention plan as described in the act. The workplace violence prevention plan shall be based on the practice setting, encourage health care professionals and employees of the facility to provide confidential information to the committee, adopt a definition of workplace violence, as described in the act, require annual training, prescribe a system for response to and investigation of incidents, address physical safety and security. The hospital shall annually review the plan.\r\n\r\n\tNo person shall discipline, discriminate against, or retaliate against another person who reports an incidence of workplace violence or advises a health care professional or employee of their right to report an incident of workplace violence.\r\n  \r\n\tThis provision is identical to HB 3401 (2026), and to a provision contained in SB 1719 (2026).\r\n\r\n\tA person shall be guilty of the offense of assault in the fourth degree if the person knowingly causes physical pain to a special victim, as defined in current law. A violation shall be a class A misdemeanor unless the person has previously been found guilty or pled guilty to an assault offense, in which case the violation shall be a class E felony. A violation committed by a person who has previously been found guilty or pled guilty to an assault offense on two or more occasions shall be guilty of a class D felony. Any such offender shall not be sentenced to a fine or be eligible for probation or parole until the person has served a minimum of six months or one year, as applicable.\r\n\r\n\tThis provision is identical to HB 2072 (2026), and to a provision contained in HS/HCS/HBs 3068 & 3049 (2026).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes provisions relating to workplace violence in health care facilities and modifies provisions relating to assault in the fourth degree"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1775"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gregory (21), Kurtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Gregory (21), Kurtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7489S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1775.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6616217",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7489S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 867",
+  "title": "SB 867 - This act requires certain financial information regarding the Missouri Empowerment Scholarship Accounts Program (MOScholars) to be posted semi-annually on the Missouri Accountability Portal.\r\n\r\n\tSpecifically, the Portal shall include the following information:\r\n\t(1)  The full name of each parent of a student who receives a scholarship from each educational assistance organization;\r\n\t(2)  The total amount of money awarded to each parent's student; and\r\n\t(3)  The total amount of money remitted from each scholarship account to each qualified school.\r\n\r\n\tEducational assistance organizations shall supply the required information to the State Treasurer no later than July 1 and January 1 of each year.  The State Treasurer shall have 48 hours to deliver such information to the Office of Administration.\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 867 - This act requires certain financial information regarding the Missouri Empowerment Scholarship Accounts Program (MOScholars) to be posted semi-annually on the Missouri Accountability Portal.\r\n\r\n\tSpecifically, the Portal shall include the following information:\r\n\t(1)  The full name of each parent of a student who receives a scholarship from each educational assistance organization;\r\n\t(2)  The total amount of money awarded to each parent's student; and\r\n\t(3)  The total amount of money remitted from each scholarship account to each qualified school.\r\n\r\n\tEducational assistance organizations shall supply the required information to the State Treasurer no later than July 1 and January 1 of each year.  The State Treasurer shall have 48 hours to deliver such information to the Office of Administration.\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Requires certain financial information regarding the Missouri Empowerment Scholarship Accounts Program to be posted semi-annually on the Missouri Accountability Portal"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb867"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Beck, Doug",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Beck, Doug\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5201S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB867.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=89",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5201S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

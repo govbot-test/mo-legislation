@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 935",
+  "title": "SB 935 - This act modifies provisions relating to ballot measures.\r\n\r\n\tCurrent law requires that summary statements for ballot measures be sufficient and fair.  This act requires summary statements for initiative petitions to be complete, concise, clear, and accurate.  Furthermore, if a court finds that a summary statement is not complete, concise, clear, and accurate and that a complete, concise, clear, and accurate statement cannot possibly be written in 100 or less words due to a single subject violation, the court shall enjoin the measure from being circulated for further signatures or, in the event that the measure has been certified to be placed on the ballot, the court shall enjoin the secretary of state from certifying the measure and all other officers from printing the measure on the ballot.\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 935 - This act modifies provisions relating to ballot measures.\r\n\r\n\tCurrent law requires that summary statements for ballot measures be sufficient and fair.  This act requires summary statements for initiative petitions to be complete, concise, clear, and accurate.  Furthermore, if a court finds that a summary statement is not complete, concise, clear, and accurate and that a complete, concise, clear, and accurate statement cannot possibly be written in 100 or less words due to a single subject violation, the court shall enjoin the measure from being circulated for further signatures or, in the event that the measure has been certified to be placed on the ballot, the court shall enjoin the secretary of state from certifying the measure and all other officers from printing the measure on the ballot.\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to ballot measures"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb935"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Cancelled S Local Government, Elections and Pensions Committee",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Cierpiot, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Cierpiot, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3347S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB935.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=75",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3347S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

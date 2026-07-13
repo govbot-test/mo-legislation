@@ -1,0 +1,131 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1557",
+  "title": "SCS/SBs 1557 & 1054 - This act modifies provisions relating to retirement.\r\n\r\nTIER 2011 (Section 104.1091)\r\n\tCurrently, a vested former member or a former member who is not vested may request a refund of his or her contributions and interest from the Missouri State Employees' Retirement System (MOSERS) or the Missouri Department of Transportation and Highway Patrol Retirement System (MPERS). This act provides that for a former member who is not vested, the system shall refund such member's contributions and interest credited thereon if the total amount is $1,000 or less, or such other amount as may be permitted under federal law, provided that:\r\n\t(1)\tThe system and the State Treasurer are authorized to share information regarding the refund, which shall be open to public inspection as allowed under current law; and\r\n\t(2)\tThe system's procedures to locate such member from time to time shall be considered reasonable and necessary diligence consistent with good business practices and in compliance with federal law.\r\n\r\n\tThis provision is similar to HCS/SB 1572 (2026) and HB 2198 (2026).\r\n\r\nDEFERRED COMPENSATION (Section 105.915)\r\n\tThis act provides that the election to defer compensation by the employees of the state of Missouri shall be made at the beginning of the payroll period, rather than the month, for which the compensation is paid and contributions shall begin on the pay period beginning after such election.\r\n\r\n\tBeginning July 1, 2027, this act provides that the deferred compensation plan shall provide for automatic increases for certain employees participating or eligible to participate in the deferred compensation plan. The increase shall commence with the first payroll period following the employee's one-year anniversary date of employment or reemployment with the state, whichever is later. The deferral amount shall increase annually by .5% until the amount reaches 10% of compensation or the limitation imposed under federal law, whichever is less. Employees who are automatically increased may elect to change the contribution rate in accordance with the terms of the plan.\r\n\r\n\tThis provision is identical to a provision in SB 1559 (2026).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SCS/SBs 1557 & 1054 - This act modifies provisions relating to retirement.\r\n\r\nTIER 2011 (Section 104.1091)\r\n\tCurrently, a vested former member or a former member who is not vested may request a refund of his or her contributions and interest from the Missouri State Employees' Retirement System (MOSERS) or the Missouri Department of Transportation and Highway Patrol Retirement System (MPERS). This act provides that for a former member who is not vested, the system shall refund such member's contributions and interest credited thereon if the total amount is $1,000 or less, or such other amount as may be permitted under federal law, provided that:\r\n\t(1)\tThe system and the State Treasurer are authorized to share information regarding the refund, which shall be open to public inspection as allowed under current law; and\r\n\t(2)\tThe system's procedures to locate such member from time to time shall be considered reasonable and necessary diligence consistent with good business practices and in compliance with federal law.\r\n\r\n\tThis provision is similar to HCS/SB 1572 (2026) and HB 2198 (2026).\r\n\r\nDEFERRED COMPENSATION (Section 105.915)\r\n\tThis act provides that the election to defer compensation by the employees of the state of Missouri shall be made at the beginning of the payroll period, rather than the month, for which the compensation is paid and contributions shall begin on the pay period beginning after such election.\r\n\r\n\tBeginning July 1, 2027, this act provides that the deferred compensation plan shall provide for automatic increases for certain employees participating or eligible to participate in the deferred compensation plan. The increase shall commence with the first payroll period following the employee's one-year anniversary date of employment or reemployment with the state, whichever is later. The deferral amount shall increase annually by .5% until the amount reaches 10% of compensation or the limitation imposed under federal law, whichever is less. Employees who are automatically increased may elect to change the contribution rate in accordance with the terms of the plan.\r\n\r\n\tThis provision is identical to a provision in SB 1559 (2026).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to retirement, including Tier 2011 and deferred compensation"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1557"
+    }
+  ],
+  "actions": [
+    {
+      "description": "SCS Voted Do Pass w/SCS SBs 1557 & 1054 Local Government, Elections and Pensions Committee (6554S.03C)",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Local Government, Elections and Pensions Committee",
+      "date": "2026-03-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Henderson, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Henderson, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB1557.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "6554S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1557.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=872602",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6554S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

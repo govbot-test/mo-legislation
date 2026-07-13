@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1642",
+  "title": "SB 1642 - Currently, summer and day camps are considered exempt from licensing requirements.  This act requires summer and day camps in this state to be licensed by the Department of Elementary and Secondary Education and authorizes the Department to promulgate rules regarding supervision requirements and capacity limitations.\r\n\r\n\tUnder this act, the Department shall maintain a record of substantiated, signed parental complaints against licensed summer and day camps that are available to the public upon request.  \r\n\r\n\tThis act establishes the \"Heaven's 27 Camp Safety Act\".  A summer or day camp licensee shall submit a license renewal application to the Department of Elementary and Secondary Education no later than 30 days after the licensee alters the boundaries of the camp or completes any renovation to cabins on the premises that affect the number of beds in the cabin or alters the method of ingress or egress to the cabin.\r\n\r\n\tA summer or day camp operator shall have an emergency plan that addresses evacuation, emergency response, identification of and accounting for each camper, communication with emergency personnel and parents, and the designation of a camp emergency preparedness coordinator.  All camp operators shall operate a weather radio and an emergency warning system at each camp.  Each camp operator shall annually submit an emergency plan to the Department for approval, as described in the act.  The operator shall provide a copy of the emergency plan to specified emergency and law enforcement personnel, as well as parents and guardians of campers and prospective campers, including a notification to parents and guardians if the camp is located within a flood plain.  The Department shall store the emergency plans provided under this act and provide access to the plans to the state emergency management agency.\t\t\t\r\n\r\n\tWithin 48 hours of beginning each summer or day camp session, the operator shall conduct a mandatory safety orientation as described in the act.  The operator shall post the proper evacuation route described in the emergency plan in conspicuous places on the camp's premises.\r\n\r\n\tA camp that is not in compliance with the provisions of this act shall not be granted a license or have that license renewed and may have a current license suspended.  Licensed summer and day camps shall be subject to the same enforcement and inspection provisions of law that child care facilities are subject to under current law.\t\r\n\r\n\tThis act is substantially similar to HB 3142 (2026).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1642 - Currently, summer and day camps are considered exempt from licensing requirements.  This act requires summer and day camps in this state to be licensed by the Department of Elementary and Secondary Education and authorizes the Department to promulgate rules regarding supervision requirements and capacity limitations.\r\n\r\n\tUnder this act, the Department shall maintain a record of substantiated, signed parental complaints against licensed summer and day camps that are available to the public upon request.  \r\n\r\n\tThis act establishes the \"Heaven's 27 Camp Safety Act\".  A summer or day camp licensee shall submit a license renewal application to the Department of Elementary and Secondary Education no later than 30 days after the licensee alters the boundaries of the camp or completes any renovation to cabins on the premises that affect the number of beds in the cabin or alters the method of ingress or egress to the cabin.\r\n\r\n\tA summer or day camp operator shall have an emergency plan that addresses evacuation, emergency response, identification of and accounting for each camper, communication with emergency personnel and parents, and the designation of a camp emergency preparedness coordinator.  All camp operators shall operate a weather radio and an emergency warning system at each camp.  Each camp operator shall annually submit an emergency plan to the Department for approval, as described in the act.  The operator shall provide a copy of the emergency plan to specified emergency and law enforcement personnel, as well as parents and guardians of campers and prospective campers, including a notification to parents and guardians if the camp is located within a flood plain.  The Department shall store the emergency plans provided under this act and provide access to the plans to the state emergency management agency.\t\t\t\r\n\r\n\tWithin 48 hours of beginning each summer or day camp session, the operator shall conduct a mandatory safety orientation as described in the act.  The operator shall post the proper evacuation route described in the emergency plan in conspicuous places on the camp's premises.\r\n\r\n\tA camp that is not in compliance with the provisions of this act shall not be granted a license or have that license renewed and may have a current license suspended.  Licensed summer and day camps shall be subject to the same enforcement and inspection provisions of law that child care facilities are subject to under current law.\t\r\n\r\n\tThis act is substantially similar to HB 3142 (2026).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Requires summer and day camps to be licensed and to have an emergency plan in place"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1642"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7068S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1642.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=4064821",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7068S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

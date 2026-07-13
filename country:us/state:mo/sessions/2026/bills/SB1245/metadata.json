@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1245",
+  "title": "SB 1245 - This act creates new provisions establishing a preference in state contracts for certain military veteran-owned enterprise.\r\n\r\n\tSpecifically, in letting contracts for the performance of any job or service, all agencies, departments, institutions, and other entities of this state and of each political subdivision of this state shall give a three-point bonus preference to honorably discharged veteran-owned enterprises that are doing business as Missouri firms, corporations, or individuals or that maintain Missouri offices or places of business. The Commissioner of Administration is required to have a goal of letting at least 3% of all state contracts to honorably discharged veteran-owned enterprises, except as otherwise provided in the act.\r\n\r\n\tThis act is identical to a provision in the truly agreed to SS/SCS/HB 2593 (2026) and substantially similar to HB 1749 (2026) and HB 714 (2025).\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1245 - This act creates new provisions establishing a preference in state contracts for certain military veteran-owned enterprise.\r\n\r\n\tSpecifically, in letting contracts for the performance of any job or service, all agencies, departments, institutions, and other entities of this state and of each political subdivision of this state shall give a three-point bonus preference to honorably discharged veteran-owned enterprises that are doing business as Missouri firms, corporations, or individuals or that maintain Missouri offices or places of business. The Commissioner of Administration is required to have a goal of letting at least 3% of all state contracts to honorably discharged veteran-owned enterprises, except as otherwise provided in the act.\r\n\r\n\tThis act is identical to a provision in the truly agreed to SS/SCS/HB 2593 (2026) and substantially similar to HB 1749 (2026) and HB 714 (2025).\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates a preference for veterans in the awarding of public contracts"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1245"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S Veterans and Military Affairs Committee",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Veterans and Military Affairs Committee",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Veterans and Military Affairs Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brown (26), Ben",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brown (26), Ben\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5043S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1245.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=246",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5043S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

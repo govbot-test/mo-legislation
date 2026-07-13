@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1783",
+  "title": "SB 1783 - This act requires the Division of Probation and Parole to forward the terms and conditions of an offender's probation or parole to the Missouri State Highway Patrol within five business days of an offender's release from custody of the Department of Corrections and entry into supervision by the Division. The terms and conditions of an offender's probation or parole shall be recorded in the Missouri Uniform Law Enforcement System (MULES).\r\n\r\n\tThe act also allows a probation or parole officer or a law\r\nenforcement officer to arrest a probationer or parolee without a\r\nwarrant if a condition of the person's probation or parole is\r\nviolated in the presence of the arresting officer. The officer will have 24 hours following the arrest to notify the Board of Probation and Parole of the arrest. The probationer or parolee may be detained until they are brought before the court for a preliminary hearing on the violation. \r\n\r\n\tThis act is identical to HB 2859 (2024).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1783 - This act requires the Division of Probation and Parole to forward the terms and conditions of an offender's probation or parole to the Missouri State Highway Patrol within five business days of an offender's release from custody of the Department of Corrections and entry into supervision by the Division. The terms and conditions of an offender's probation or parole shall be recorded in the Missouri Uniform Law Enforcement System (MULES).\r\n\r\n\tThe act also allows a probation or parole officer or a law\r\nenforcement officer to arrest a probationer or parolee without a\r\nwarrant if a condition of the person's probation or parole is\r\nviolated in the presence of the arresting officer. The officer will have 24 hours following the arrest to notify the Board of Probation and Parole of the arrest. The probationer or parolee may be detained until they are brought before the court for a preliminary hearing on the violation. \r\n\r\n\tThis act is identical to HB 2859 (2024).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to probation and parole"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1783"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schnelting, Adam",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schnelting, Adam\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7360S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1783.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6616225",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7360S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

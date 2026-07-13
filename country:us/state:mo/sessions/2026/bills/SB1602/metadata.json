@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1602",
+  "title": "SB 1602 - This act specifies that the Board of Curators of the University of Missouri may acquire, manage, lease, purchase, sell, contract for, or otherwise acquire an interest in or participate in the ownership or operation of hospital, medical, or other health care facilities or providers.  The Board of Curators and any public or private entities or individuals with which the Board of Curators collaborates for these purposes shall be immunized from liability under all federal and state antitrust laws in the 25 counties specified in the act.\r\n\r\n\tThis act is similar to SB 1696 (2026) and HCS/HB 3170 (2026).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1602 - This act specifies that the Board of Curators of the University of Missouri may acquire, manage, lease, purchase, sell, contract for, or otherwise acquire an interest in or participate in the ownership or operation of hospital, medical, or other health care facilities or providers.  The Board of Curators and any public or private entities or individuals with which the Board of Curators collaborates for these purposes shall be immunized from liability under all federal and state antitrust laws in the 25 counties specified in the act.\r\n\r\n\tThis act is similar to SB 1696 (2026) and HCS/HB 3170 (2026).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Authorizes the Board of Curators of the University of Missouri to own or operate health care facilities"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1602"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Conducted S General Laws Committee",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gregory (21), Kurtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Gregory (21), Kurtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6856S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1602.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=2581468",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6856S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

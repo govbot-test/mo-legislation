@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1387",
+  "title": "SB 1387 - This act requires coroners and medical examiners, in cases of certain sudden and unexplained deaths involving individuals under 20 years of age, to include microscopic and toxicology studies and a review of the individual's medical and vaccination records in the autopsy.  Additionally, the coroner or medical examiner shall report such cases to the Sudden Unexpected Infant Death (SUID) and Sudden Death in the Young (SDY) Case Registry established by the Centers for Disease Control and Prevention and the National Institutes of Health.  Failure to do so shall result in the assessment of fines by the Department of Health and Senior Services, as described in the act, and, in the case of continued failures to report cases to the database, the Department shall report those coroners and medical examiners with a professional license to practice to their respective professional licensing boards for discipline.\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1387 - This act requires coroners and medical examiners, in cases of certain sudden and unexplained deaths involving individuals under 20 years of age, to include microscopic and toxicology studies and a review of the individual's medical and vaccination records in the autopsy.  Additionally, the coroner or medical examiner shall report such cases to the Sudden Unexpected Infant Death (SUID) and Sudden Death in the Young (SDY) Case Registry established by the Centers for Disease Control and Prevention and the National Institutes of Health.  Failure to do so shall result in the assessment of fines by the Department of Health and Senior Services, as described in the act, and, in the case of continued failures to report cases to the database, the Department shall report those coroners and medical examiners with a professional license to practice to their respective professional licensing boards for discipline.\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to autopsies"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1387"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5645S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1387.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=354",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5645S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

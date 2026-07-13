@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SJR 70",
+  "title": "SJR 70 - This constitutional amendment, if approved by the voters, provides that, beginning January 1, 2027, the assessed value of residential real property shall be the most recent assessment. For all subsequent reassessments of such residential real property, the assessed value shall not increase while the owner or owners continue to own such property. Residential real property that is purchased, newly constructed, or undergoes a change in ownership shall be reassessed at its true value in money as provided by law, after which the assessed value of such property shall not increase while the new owner or owners continue to own such property. \r\n\r\n\tThe assessed value of residential real property shall reflect the value added to the property as a result of new construction or improvements, as described in the act.\r\n\r\n\tThis amendment is identical to SJR 89 (2026), SJR 50 (2025) and SJR 54 (2025), is substantially similar to SJR 113 (2026), HJR 112 (2026), SJR 34 (2025), HCS/HJR 4 (2025), HJR 86 (2025), HJR 89 (2025), SJR 90 (2024), and HCS#2/HJR 78 (2024), and is similar to HJR 85 (2024), HJR 120 (2024), HJR 184 (2024).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SJR 70 - This constitutional amendment, if approved by the voters, provides that, beginning January 1, 2027, the assessed value of residential real property shall be the most recent assessment. For all subsequent reassessments of such residential real property, the assessed value shall not increase while the owner or owners continue to own such property. Residential real property that is purchased, newly constructed, or undergoes a change in ownership shall be reassessed at its true value in money as provided by law, after which the assessed value of such property shall not increase while the new owner or owners continue to own such property. \r\n\r\n\tThe assessed value of residential real property shall reflect the value added to the property as a result of new construction or improvements, as described in the act.\r\n\r\n\tThis amendment is identical to SJR 89 (2026), SJR 50 (2025) and SJR 54 (2025), is substantially similar to SJR 113 (2026), HJR 112 (2026), SJR 34 (2025), HCS/HJR 4 (2025), HJR 86 (2025), HJR 89 (2025), SJR 90 (2024), and HCS#2/HJR 78 (2024), and is similar to HJR 85 (2024), HJR 120 (2024), HJR 184 (2024).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to property tax assessments"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sjr70"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Economic and Workforce Development Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brattin, Rick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brattin, Rick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5187S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR70.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=513",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5187S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

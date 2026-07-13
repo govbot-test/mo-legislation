@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1192",
+  "title": "SB 1192 - This act prohibits agencies that accredit public institutions of higher education from considering diversity, equity, and inclusion (DEI) practices or procedures, as defined in the act, when making accreditation decisions.  Accrediting agencies are also prohibited from collecting information related to DEI or including any DEI-related requirements in their accreditation decisions.  Additionally, accrediting agencies shall implement policies ensuring that decision-makers involved in accreditation do not receive or consider information regarding DEI practices or procedures.\r\n\r\n\tCurrent or former students or employees of a public institution of higher education may bring a civil action against an accrediting agency for violations of this act.  If the court finds that the accrediting agency violated the act, the agency shall pay the prevailing party's reasonable attorney's fees, court costs, damages in an amount specified in the act, and civil penalties of up to $1,000 per student who attended the institution at the time when the violation occurred or, if no students attended the institution at the time when the violation occurred, up to $1,000 per student who attended the institution in the immediately preceding semester.\r\n\r\n\tViolations of this act are classified as unlawful discriminatory practices under Missouri human rights law and unfair practices under the Missouri Merchandising Practices Act.  The Attorney General is authorized to investigate and seek appropriate legal remedies for any violations to the full extent permitted by law.\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1192 - This act prohibits agencies that accredit public institutions of higher education from considering diversity, equity, and inclusion (DEI) practices or procedures, as defined in the act, when making accreditation decisions.  Accrediting agencies are also prohibited from collecting information related to DEI or including any DEI-related requirements in their accreditation decisions.  Additionally, accrediting agencies shall implement policies ensuring that decision-makers involved in accreditation do not receive or consider information regarding DEI practices or procedures.\r\n\r\n\tCurrent or former students or employees of a public institution of higher education may bring a civil action against an accrediting agency for violations of this act.  If the court finds that the accrediting agency violated the act, the agency shall pay the prevailing party's reasonable attorney's fees, court costs, damages in an amount specified in the act, and civil penalties of up to $1,000 per student who attended the institution at the time when the violation occurred or, if no students attended the institution at the time when the violation occurred, up to $1,000 per student who attended the institution in the immediately preceding semester.\r\n\r\n\tViolations of this act are classified as unlawful discriminatory practices under Missouri human rights law and unfair practices under the Missouri Merchandising Practices Act.  The Attorney General is authorized to investigate and seek appropriate legal remedies for any violations to the full extent permitted by law.\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Prohibits higher education accrediting agencies from considering diversity, equity, and inclusion practices"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1192"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Cancelled S Education Committee",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brown (26), Ben",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brown (26), Ben\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4636S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1192.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=253",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4636S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

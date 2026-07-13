@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1117",
+  "title": "SB 1117 - This act establishes \"The Taylor Swift Act\" which establishes a cause of action against a person who discloses a digital depiction, as defined in this act, of an individual who is under eighteen years of age or an intimate digital depiction, as defined in this act, of an individual and who knows or recklessly disregards the fact that the individual has not consented to such disclosure as provided in the act. The depicted individual may recover damages as described in the act along with injunctive relief. An action shall not be brought if the disclosure was made in good faith to or by a law enforcement officer in the course of reporting or investigating unlawful conduct or as part of a legal proceeding. Additionally, an action shall not be brought if the disclosure was a matter of legitimate public concern or interest or if the disclosure reasonably intended to assist the depicted individual.\r\n\r\n\tThis act provides that a person commits the offense of disclosure of a digital depiction if the person discloses, or threatens to disclose:\r\n(1)\tA digital depiction of an individual who is under eighteen years of age; or \r\n(2)\tAn intimate digital depiction with the intent to harass, annoy, threaten, alarm, or cause substantial harm to the finances or reputation of the depicted individual or with the actual knowledge that or reckless disregard for whether such disclosure or threat of disclosure will cause harm to the depicted individual. \r\n\r\n\tAny such person shall be guilty of a class E felony for the first offense or a class C felony for any second and subsequent offenses or if the actions could reasonably be expected to affect the conduct of governmental proceedings or facilitate violence.\r\n\r\n\tFurthermore, it shall not be a defense to civil or criminal actions brought pursuant to this act that there is a disclaimer stating that the digital depiction was unauthorized or that the depicted individual did not participate in the creation or development of the digital depiction. Lastly, a provider of an interactive computer service shall not be held civilly or criminally liable under this act for actions voluntarily taken in good faith to restrict access to or availability of digital depictions or actions taken to enable or make available to information content providers or other persons the technical means to restrict access to digital depictions.\r\n\r\n\tThis act is similar to HB 362 (2025), SB 411 (2025), SB 1424 (2024), HB 2573 (2024), and a provision in SB 1444 (2024).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1117 - This act establishes \"The Taylor Swift Act\" which establishes a cause of action against a person who discloses a digital depiction, as defined in this act, of an individual who is under eighteen years of age or an intimate digital depiction, as defined in this act, of an individual and who knows or recklessly disregards the fact that the individual has not consented to such disclosure as provided in the act. The depicted individual may recover damages as described in the act along with injunctive relief. An action shall not be brought if the disclosure was made in good faith to or by a law enforcement officer in the course of reporting or investigating unlawful conduct or as part of a legal proceeding. Additionally, an action shall not be brought if the disclosure was a matter of legitimate public concern or interest or if the disclosure reasonably intended to assist the depicted individual.\r\n\r\n\tThis act provides that a person commits the offense of disclosure of a digital depiction if the person discloses, or threatens to disclose:\r\n(1)\tA digital depiction of an individual who is under eighteen years of age; or \r\n(2)\tAn intimate digital depiction with the intent to harass, annoy, threaten, alarm, or cause substantial harm to the finances or reputation of the depicted individual or with the actual knowledge that or reckless disregard for whether such disclosure or threat of disclosure will cause harm to the depicted individual. \r\n\r\n\tAny such person shall be guilty of a class E felony for the first offense or a class C felony for any second and subsequent offenses or if the actions could reasonably be expected to affect the conduct of governmental proceedings or facilitate violence.\r\n\r\n\tFurthermore, it shall not be a defense to civil or criminal actions brought pursuant to this act that there is a disclaimer stating that the digital depiction was unauthorized or that the depicted individual did not participate in the creation or development of the digital depiction. Lastly, a provider of an interactive computer service shall not be held civilly or criminally liable under this act for actions voluntarily taken in good faith to restrict access to or availability of digital depictions or actions taken to enable or make available to information content providers or other persons the technical means to restrict access to digital depictions.\r\n\r\n\tThis act is similar to HB 362 (2025), SB 411 (2025), SB 1424 (2024), HB 2573 (2024), and a provision in SB 1444 (2024).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes provisions relating to the civil and criminal liability of disclosure of intimate digital depictions"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1117"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fitzwater, Travis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Fitzwater, Travis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4960S.03I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1117.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=136",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4960S.03I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

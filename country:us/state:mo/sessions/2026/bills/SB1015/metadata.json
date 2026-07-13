@@ -1,0 +1,329 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1015",
+  "title": "SS/SCS/SB 1015 - This act modifies notarization requirements for applications for detention for evaluation and treatment at a mental health facility.  Under this act, no notarization shall be required for the application or any affidavits, declarations, or other supporting documents filed under certain provisions of law, including when filed in court by an adult, when a peace officer takes a person into custody for detention at the facility for a period of 96 hours, when a person presents themselves at the facility and the health care provider completes the application, or if the person executing the application is an employee acting on behalf of a hospital.\r\n\r\n\tThis provision is identical to the perfected HB 1977 (2026) and provisions in SCS/HCS/HB 1259 (2025) and substantially similar to SB 1274 (2026) and SB 436 (2025).\r\n\r\n\tThis act establishes procedures for authorizing or continuing an individual's assisted outpatient treatment.  A petition in court for such treatment may be filed by individuals specified in the act.  A court may issue an order requiring the individual to participate in assisted outpatient treatment if the individual is at least 18 years of age, is suffering from a mental disorder, will not obtain treatment in the community voluntarily, and is unable to make an informed decision to see or comply with voluntary treatment.  Additional grounds for ordering treatment shall consider the necessity of treatment to prevent a deterioration in the individual's mental illness likely to result in harm to the individual or others or the individual's history of lack of compliance with treatment for the illness, as described in the act.\r\n\r\n\tThe act sets forth the procedures for the hearing process, including the option for a jury trial.  If the court or jury finds, by clear and convincing evidence, that the individual meets the criteria for assisted outpatient treatment and that an appropriate mental health program has agreed to accept the individual, the court shall issue an order requiring the individual to participate in treatment for a period not to exceed two years, unless extended by the court as described in the act.\r\n\r\n\tCurrent provisions of law exempting certain professionals from civil liability for investigating, detaining, transporting, conditionally releasing, or discharging a person shall apply to assisted outpatient treatment under this act.\r\n\r\n\tThe court shall assign a case manager from a certified community behavioral health clinic to each individual ordered to participate in assisted outpatient treatment.  The case manager and individual shall report to the court at least once every ninety days. \r\n\r\n\tIf a court determines that the individual is not complying with an order of assisted outpatient treatment, the court may order, without a hearing, that the individual be evaluated at a community mental health center, be hospitalized in a psychiatric hospital for a period of not more than ten days, and potentially be hospitalized for longer upon the recommendation of the community mental health center; provided such extended hospitalization does not exceed the duration of the order for assisted outpatient treatment or ninety days, whichever is less.  If the individual objects to such hospitalization, the court shall schedule a hearing as described in the act.\r\n\r\n\tBeginning December 1, 2028, the Office of State Courts Administrator shall submit an annual report to the General Assembly regarding certain statistics of individuals receiving treatment under this act and the impact of such treatment on hospitalization and incarceration rates.\r\n\r\n\tThese provisions are substantially similar to HB 1154 (2025).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SS/SCS/SB 1015 - This act modifies notarization requirements for applications for detention for evaluation and treatment at a mental health facility.  Under this act, no notarization shall be required for the application or any affidavits, declarations, or other supporting documents filed under certain provisions of law, including when filed in court by an adult, when a peace officer takes a person into custody for detention at the facility for a period of 96 hours, when a person presents themselves at the facility and the health care provider completes the application, or if the person executing the application is an employee acting on behalf of a hospital.\r\n\r\n\tThis provision is identical to the perfected HB 1977 (2026) and provisions in SCS/HCS/HB 1259 (2025) and substantially similar to SB 1274 (2026) and SB 436 (2025).\r\n\r\n\tThis act establishes procedures for authorizing or continuing an individual's assisted outpatient treatment.  A petition in court for such treatment may be filed by individuals specified in the act.  A court may issue an order requiring the individual to participate in assisted outpatient treatment if the individual is at least 18 years of age, is suffering from a mental disorder, will not obtain treatment in the community voluntarily, and is unable to make an informed decision to see or comply with voluntary treatment.  Additional grounds for ordering treatment shall consider the necessity of treatment to prevent a deterioration in the individual's mental illness likely to result in harm to the individual or others or the individual's history of lack of compliance with treatment for the illness, as described in the act.\r\n\r\n\tThe act sets forth the procedures for the hearing process, including the option for a jury trial.  If the court or jury finds, by clear and convincing evidence, that the individual meets the criteria for assisted outpatient treatment and that an appropriate mental health program has agreed to accept the individual, the court shall issue an order requiring the individual to participate in treatment for a period not to exceed two years, unless extended by the court as described in the act.\r\n\r\n\tCurrent provisions of law exempting certain professionals from civil liability for investigating, detaining, transporting, conditionally releasing, or discharging a person shall apply to assisted outpatient treatment under this act.\r\n\r\n\tThe court shall assign a case manager from a certified community behavioral health clinic to each individual ordered to participate in assisted outpatient treatment.  The case manager and individual shall report to the court at least once every ninety days. \r\n\r\n\tIf a court determines that the individual is not complying with an order of assisted outpatient treatment, the court may order, without a hearing, that the individual be evaluated at a community mental health center, be hospitalized in a psychiatric hospital for a period of not more than ten days, and potentially be hospitalized for longer upon the recommendation of the community mental health center; provided such extended hospitalization does not exceed the duration of the order for assisted outpatient treatment or ninety days, whichever is less.  If the individual objects to such hospitalization, the court shall schedule a hearing as described in the act.\r\n\r\n\tBeginning December 1, 2028, the Office of State Courts Administrator shall submit an annual report to the General Assembly regarding certain statistics of individuals receiving treatment under this act and the impact of such treatment on hospitalization and incarceration rates.\r\n\r\n\tThese provisions are substantially similar to HB 1154 (2025).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions for involuntary outpatient treatment"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1015"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Conducted H Health and Mental Health",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Referred H Health and Mental Health",
+      "date": "2026-04-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "H Second Read",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "H First Read",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S Third Read and Passed",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Reported from S Fiscal Oversight Committee",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Fiscal Oversight Committee",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Referred S Fiscal Oversight Committee",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Perfected",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "SS for SCS, as amended, S adopted",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "SA 1 to SS for SCS S offered & adopted (Trent)--(4051S03.01S)",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "SS for SCS S  offered (Nurrenbern)--(4051S.03F)",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Reported from S Judiciary and Civil and Criminal Jurisprudence Committee w/SCS",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass S Judiciary and Civil and Criminal Jurisprudence Committee (4051S.02C)",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nurrenbern, Maggie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nurrenbern, Maggie\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4051S.03P - Perfected",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB1015.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4051S.02C - Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB1015.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4051S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1015.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "3/24/2026 - SS for SCS S  offered (Nurrenbern)--(4051S.03F)\r\n                    \r\n                        3/24/2026 - Adopted, as amended",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=264",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "3/24/2026 - SA 1 to SS for SCS S offered & adopted (Trent)--(4051S03.01S)\r\n                    \r\n                        3/24/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=266",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=524",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4051S.03P"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

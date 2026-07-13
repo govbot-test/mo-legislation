@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SJR 76",
+  "title": "SJR 76 - This constitutional amendment, if approved by the voters, provides that civil actions relating to injuries or illnesses caused by rape or forcible sodomy, injuries or illnesses caused by childhood sexual abuse, or tortious conduct that causes a person to be a victim of rape, forcible sodomy, or childhood sexual abuse against the party committing the rape, forcible sodomy, childhood sexual abuse, or tortious conduct may be commenced at any time, including those actions that have been barred by the application of the existing statute of limitations at the time of this provision's enactment.\r\n\r\n\tThis amendment is identical to SJR 13 (2025) and is similar to SJR 88 (2024) and HJR 129 (2024).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SJR 76 - This constitutional amendment, if approved by the voters, provides that civil actions relating to injuries or illnesses caused by rape or forcible sodomy, injuries or illnesses caused by childhood sexual abuse, or tortious conduct that causes a person to be a victim of rape, forcible sodomy, or childhood sexual abuse against the party committing the rape, forcible sodomy, childhood sexual abuse, or tortious conduct may be commenced at any time, including those actions that have been barred by the application of the existing statute of limitations at the time of this provision's enactment.\r\n\r\n\tThis amendment is identical to SJR 13 (2025) and is similar to SJR 88 (2024) and HJR 129 (2024).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies the statutes of limitations for civil actions based on certain sexual offenses"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sjr76"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Cancelled S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Washington, Barbara",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Washington, Barbara\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4763S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR76.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=669",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4763S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

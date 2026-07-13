@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1798",
+  "title": "SB 1798 - This act modifies provisions relating to the operation of utility vehicles. \r\n\r\n\tCurrently, persons are prohibited from operating utility vehicles upon streets and highways unless pursuant to an exception described in current law. This act repeals this provision and allows persons with a valid operator or chauffeur's license to operate a utility vehicle, defined by current law, on streets and highways of this state where the posted speed limit is fifty-five miles per hour or less. Any person operating a utility vehicle on a street or highway shall maintain proof of financial responsibility in accordance with current law or maintain any other insurance policy providing equivalent liability coverage for a utility vehicle. \r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1798 - This act modifies provisions relating to the operation of utility vehicles. \r\n\r\n\tCurrently, persons are prohibited from operating utility vehicles upon streets and highways unless pursuant to an exception described in current law. This act repeals this provision and allows persons with a valid operator or chauffeur's license to operate a utility vehicle, defined by current law, on streets and highways of this state where the posted speed limit is fifty-five miles per hour or less. Any person operating a utility vehicle on a street or highway shall maintain proof of financial responsibility in accordance with current law or maintain any other insurance policy providing equivalent liability coverage for a utility vehicle. \r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to the operation of utility vehicles"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1798"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Trent, Curtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Trent, Curtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7268S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1798.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6618192",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7268S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

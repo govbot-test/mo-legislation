@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1378",
+  "title": "SB 1378 - This act authorizes school districts and charter schools to provide instruction in cursive writing to all students by the end of fifth grade and to ensure that each student passes a teacher-constructed test demonstrating competency in both reading and writing cursive.\r\n\r\n\tThis act is identical to SB 429 (2025) and a provision in SCS/HCS/HB 1569 (2024), and is similar to HB 1876 (2026), HB 2049 (2026), HCS/HBs 2115 & 1876 (2026), HB 2773 (2026), HB 346 (2025), HB 375 (2025), HB 906 (2025), HB 1237 (2025), SB 1462 (2024), HB 1502 (2024), HB 2094 (2024), HB 2852 (2024), SB 664 (2023), HB 232 (2023), HB 2073 (2022), SB 1071 (2020), HB 1262 (2020), HB 54 (2019), HB 2614 (2018), and a provision in HB 108 (2021).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1378 - This act authorizes school districts and charter schools to provide instruction in cursive writing to all students by the end of fifth grade and to ensure that each student passes a teacher-constructed test demonstrating competency in both reading and writing cursive.\r\n\r\n\tThis act is identical to SB 429 (2025) and a provision in SCS/HCS/HB 1569 (2024), and is similar to HB 1876 (2026), HB 2049 (2026), HCS/HBs 2115 & 1876 (2026), HB 2773 (2026), HB 346 (2025), HB 375 (2025), HB 906 (2025), HB 1237 (2025), SB 1462 (2024), HB 1502 (2024), HB 2094 (2024), HB 2852 (2024), SB 664 (2023), HB 232 (2023), HB 2073 (2022), SB 1071 (2020), HB 1262 (2020), HB 54 (2019), HB 2614 (2018), and a provision in HB 108 (2021).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Authorizes school districts and charter schools to provide instruction in cursive writing"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1378"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Trent, Curtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Trent, Curtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4694S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1378.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=156",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4694S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

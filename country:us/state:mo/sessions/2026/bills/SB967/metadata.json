@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 967",
+  "title": "SB 967 - This act establishes the Black History Education and Awareness Commission Act and creates a permanent state commission known as the Black History Education and Awareness Commission, which shall be housed in the Department of Elementary and Secondary Education (DESE).  The Commission shall promote implementation of education and awareness programs relating to the history, experiences, and achievements of black people in Missouri and across the country.  The Commission shall be composed of 13 members, with 10 members appointed by the Governor with the advice and consent of the Senate.  The act describes the members of the Commission, including the Commissioner of Education, the President of Harris-Stowe State University, and representatives of civil rights groups, racial justice organizations, and black professional organizations.  Certain members of the Commission shall serve three-year terms, with their terms staggered as provided in the act.\r\n\r\n\tThe act designates the first week in February as \"Black History Week\".  Instruction relating to Black History Week shall be taught to students in 6th grade and up during a week determined by each school district.  The act lists the topics that shall be covered in such instruction, such as chattel slavery in the United States, the Civil Rights Movement, and significant black people in American history.\r\n\r\n\tDESE shall develop a curriculum framework of instruction for studying black history based on the instructional topics specified in the act.  Beginning in the 2027-2028 school year, DESE shall conduct a pilot program to test the impact of the curriculum framework.  The pilot program shall include up to 25 school districts or schools within a district.  Participating districts and schools shall determine the minimum amount of instruction time that qualifies as a unit of instruction satisfying the requirements of the act and shall provide a plan of professional development for teachers.  Upon completion of the pilot program, DESE shall report the results to the General Assembly.  The curriculum framework shall be made available to all school districts beginning in the 2028-2029 school year, and all school districts shall participate in Black History Week by the 2029-2030 school year.\r\n\r\n\tThis act is identical to SB 132 (2025) and similar to SB 1432 (2024).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 967 - This act establishes the Black History Education and Awareness Commission Act and creates a permanent state commission known as the Black History Education and Awareness Commission, which shall be housed in the Department of Elementary and Secondary Education (DESE).  The Commission shall promote implementation of education and awareness programs relating to the history, experiences, and achievements of black people in Missouri and across the country.  The Commission shall be composed of 13 members, with 10 members appointed by the Governor with the advice and consent of the Senate.  The act describes the members of the Commission, including the Commissioner of Education, the President of Harris-Stowe State University, and representatives of civil rights groups, racial justice organizations, and black professional organizations.  Certain members of the Commission shall serve three-year terms, with their terms staggered as provided in the act.\r\n\r\n\tThe act designates the first week in February as \"Black History Week\".  Instruction relating to Black History Week shall be taught to students in 6th grade and up during a week determined by each school district.  The act lists the topics that shall be covered in such instruction, such as chattel slavery in the United States, the Civil Rights Movement, and significant black people in American history.\r\n\r\n\tDESE shall develop a curriculum framework of instruction for studying black history based on the instructional topics specified in the act.  Beginning in the 2027-2028 school year, DESE shall conduct a pilot program to test the impact of the curriculum framework.  The pilot program shall include up to 25 school districts or schools within a district.  Participating districts and schools shall determine the minimum amount of instruction time that qualifies as a unit of instruction satisfying the requirements of the act and shall provide a plan of professional development for teachers.  Upon completion of the pilot program, DESE shall report the results to the General Assembly.  The curriculum framework shall be made available to all school districts beginning in the 2028-2029 school year, and all school districts shall participate in Black History Week by the 2029-2030 school year.\r\n\r\n\tThis act is identical to SB 132 (2025) and similar to SB 1432 (2024).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the Black History Education and Awareness Act and designates the first week in February as Black History Week"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb967"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Conducted S Education Committee",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mosley, Angela",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Mosley, Angela\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3808S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB967.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=675",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3808S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

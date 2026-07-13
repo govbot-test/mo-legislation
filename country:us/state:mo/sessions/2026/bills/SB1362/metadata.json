@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1362",
+  "title": "SB 1362 - Currently, the manufacture, sale, or delivery of misbranded foods in Missouri, as described in statute, shall be prohibited.  This act modifies the description of misbranded foods to include: (1) products containing any bioengineered substance or natural flavoring, unless the product's labeling contains a website link or QR code identifying the bioengineered substance or specific natural flavoring; (2) edible coatings on fruits or vegetables, unless the label of such food or any display placed at the point of sale contains a disclosure of such coating or a website link or QR code containing the disclosure; (3) products containing, in whole or in part, cell-cultivated, lab-grown, or insect-based meat or meat alternatives, unless such product is clearly labeled on the front of the package as \"LAB-CREATED\" or \"INSECT-BASED\" or a comparable qualifier; and (4) products containing, in whole or in part, meat food products derived from an animal vaccinated with a mRNA-based vaccine, unless the product packaging states \"MRNA VACCINATED\".\r\n\r\n\tAdditionally, this act modifies the fine for the manufacture, sale, or delivery of misbranded foods, among other violations of certain provisions of food, drug, device, and cosmetic safety laws, from a fine of not more than one thousand dollars to a fine of one thousand dollars for each incident or for each prohibited product offered for sale in Missouri.\r\n\r\n\tThis act is identical to SB 319 (2025) and SB 1285 (2024) and substantially similar to provisions of SCS/SB 149 (2025).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1362 - Currently, the manufacture, sale, or delivery of misbranded foods in Missouri, as described in statute, shall be prohibited.  This act modifies the description of misbranded foods to include: (1) products containing any bioengineered substance or natural flavoring, unless the product's labeling contains a website link or QR code identifying the bioengineered substance or specific natural flavoring; (2) edible coatings on fruits or vegetables, unless the label of such food or any display placed at the point of sale contains a disclosure of such coating or a website link or QR code containing the disclosure; (3) products containing, in whole or in part, cell-cultivated, lab-grown, or insect-based meat or meat alternatives, unless such product is clearly labeled on the front of the package as \"LAB-CREATED\" or \"INSECT-BASED\" or a comparable qualifier; and (4) products containing, in whole or in part, meat food products derived from an animal vaccinated with a mRNA-based vaccine, unless the product packaging states \"MRNA VACCINATED\".\r\n\r\n\tAdditionally, this act modifies the fine for the manufacture, sale, or delivery of misbranded foods, among other violations of certain provisions of food, drug, device, and cosmetic safety laws, from a fine of not more than one thousand dollars to a fine of one thousand dollars for each incident or for each prohibited product offered for sale in Missouri.\r\n\r\n\tThis act is identical to SB 319 (2025) and SB 1285 (2024) and substantially similar to provisions of SCS/SB 149 (2025).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to food labeling"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1362"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4678S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1362.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=348",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4678S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

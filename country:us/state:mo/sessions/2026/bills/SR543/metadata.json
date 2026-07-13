@@ -1,0 +1,107 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SR 543",
+  "title": "SR 543 - This Senate resolution modifies Senate Rule 96 to provide that, no later than March 1, 2026, the Senate shall provide an audio and video feed of its proceedings on the website of the Senate.\r\n\r\nThis resolution is identical to SR 32 (2025).\r\nJIM ERTLE",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SR 543 - This Senate resolution modifies Senate Rule 96 to provide that, no later than March 1, 2026, the Senate shall provide an audio and video feed of its proceedings on the website of the Senate.\r\n\r\nThis resolution is identical to SR 32 (2025).\r\nJIM ERTLE"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies Senate Rule 96 to provide that, no later than March 1, 2026, the Senate shall provide an audio and video feed of its proceedings on the website of the Senate"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sr543"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Conducted S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Referred S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S Offered",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Moon, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Moon, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6692S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SR543.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=744880",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6692S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

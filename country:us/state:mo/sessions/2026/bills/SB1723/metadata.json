@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1723",
+  "title": "SB 1723 - Current law requires excursion gambling boats to pay an admission fee of $2 for each person embarking on the boat, with one dollar deposited in the Gaming Commission Fund and one dollar paid to the home dock city or county. This act increases the fee to $5, and requires one dollar to be remitted to the Missouri Department of Mental Health for services for people with developmental disabilities, as described in the act, and two dollars to be paid to the Veterans Commission Capital Improvement Trust Fund. (Section 313.820)\r\n\r\n\tAdditionally, current law imposes a tax of 21% on adjusted gross receipts received by excursion gambling boats from gambling games. This act increases such rate of tax to 34% and allows home dock cities and counties to enter into agreements to share revenue obtained from the excursion gambling boats' portion of adjusted gross receipts. (Section 313.822)\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1723 - Current law requires excursion gambling boats to pay an admission fee of $2 for each person embarking on the boat, with one dollar deposited in the Gaming Commission Fund and one dollar paid to the home dock city or county. This act increases the fee to $5, and requires one dollar to be remitted to the Missouri Department of Mental Health for services for people with developmental disabilities, as described in the act, and two dollars to be paid to the Veterans Commission Capital Improvement Trust Fund. (Section 313.820)\r\n\r\n\tAdditionally, current law imposes a tax of 21% on adjusted gross receipts received by excursion gambling boats from gambling games. This act increases such rate of tax to 34% and allows home dock cities and counties to enter into agreements to share revenue obtained from the excursion gambling boats' portion of adjusted gross receipts. (Section 313.822)\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to excursion gambling boats"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1723"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Select Committee on Gaming Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brown (16), Justin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brown (16), Justin\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7452S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1723.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6457862",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7452S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

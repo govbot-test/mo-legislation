@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1388",
+  "title": "SB 1388 - This act provides for the county prosecuting attorney system to be converted to a circuit court district attorney system. District attorneys shall be first elected for terms of four years during the 2028 general election in each judicial circuit for counties that elect to be part of the system. In the 2032 general election, district attorneys shall be elected for each judicial circuit. The district attorney shall be a resident of the judicial circuit for one year before being elected and shall receive the same annual salary as the circuit judge. District attorneys shall be included in the Prosecuting Attorneys and Circuit Attorneys' Retirement System and shall be treated as prosecuting attorneys for such purposes.\r\n\r\n\tDistrict attorneys shall prosecute all criminal actions for the counties. If a change of venue is granted, the district attorney shall continue to prosecute the case in the other venue. If a district attorney is unable to prosecute because of a conflict of interest, the presiding judge shall appoint another district attorney from an adjoining circuit to serve on that particular matter.\r\n\r\n\tThe district attorneys may appoint assistants, investigators, and clerical staff, and may set their salaries within the limits set by the county commissions. Such salaries shall be paid by the counties and the salary of the district attorney shall be paid by the state, except if a charter county chooses to provide the district attorney with additional compensation over the statutory amount, the county shall pay such amount.\r\n\r\n\tThe salaries, excluding that of the district attorney, and expenses of the district attorney offices shall be funded by the respective counties. However, the state shall provide increasing reimbursement of the costs over the course of several years. This act contains the schedule for reimbursement by the state to the counties, ranging from 5 or 10 percent in the first year of implementation of a district attorney and up to 50 percent in the fifth or tenth year depending on the circuit court. In circuits where more than one county contributes to the expenses, each county shall be reimbursed in the same proportion as the contribution.\r\n\r\n\tThis act requires the district attorney to be employed full-time and not practice law elsewhere. For counties without a charter form of government, the county commissions shall adopt, by majority vote, a resolution, which shall be given to the Secretary of State at least by November 7, 2027. For counties with a charter form of government, the governing body shall adopt a charter amendment to join the system and eliminate the office of prosecuting attorney.\r\n\r\n\tThe office of the county prosecuting attorney shall cease to exist upon the election and qualification of a district attorney for such county and circuit. However, county prosecuting attorneys may be retained by the district attorney.\r\n\r\n\tThis act is substantially similar to SB 742 (2025) and is similar to SB 79 (2015), SB 797 (2010), and SB 1256 (2004).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1388 - This act provides for the county prosecuting attorney system to be converted to a circuit court district attorney system. District attorneys shall be first elected for terms of four years during the 2028 general election in each judicial circuit for counties that elect to be part of the system. In the 2032 general election, district attorneys shall be elected for each judicial circuit. The district attorney shall be a resident of the judicial circuit for one year before being elected and shall receive the same annual salary as the circuit judge. District attorneys shall be included in the Prosecuting Attorneys and Circuit Attorneys' Retirement System and shall be treated as prosecuting attorneys for such purposes.\r\n\r\n\tDistrict attorneys shall prosecute all criminal actions for the counties. If a change of venue is granted, the district attorney shall continue to prosecute the case in the other venue. If a district attorney is unable to prosecute because of a conflict of interest, the presiding judge shall appoint another district attorney from an adjoining circuit to serve on that particular matter.\r\n\r\n\tThe district attorneys may appoint assistants, investigators, and clerical staff, and may set their salaries within the limits set by the county commissions. Such salaries shall be paid by the counties and the salary of the district attorney shall be paid by the state, except if a charter county chooses to provide the district attorney with additional compensation over the statutory amount, the county shall pay such amount.\r\n\r\n\tThe salaries, excluding that of the district attorney, and expenses of the district attorney offices shall be funded by the respective counties. However, the state shall provide increasing reimbursement of the costs over the course of several years. This act contains the schedule for reimbursement by the state to the counties, ranging from 5 or 10 percent in the first year of implementation of a district attorney and up to 50 percent in the fifth or tenth year depending on the circuit court. In circuits where more than one county contributes to the expenses, each county shall be reimbursed in the same proportion as the contribution.\r\n\r\n\tThis act requires the district attorney to be employed full-time and not practice law elsewhere. For counties without a charter form of government, the county commissions shall adopt, by majority vote, a resolution, which shall be given to the Secretary of State at least by November 7, 2027. For counties with a charter form of government, the governing body shall adopt a charter amendment to join the system and eliminate the office of prosecuting attorney.\r\n\r\n\tThe office of the county prosecuting attorney shall cease to exist upon the election and qualification of a district attorney for such county and circuit. However, county prosecuting attorneys may be retained by the district attorney.\r\n\r\n\tThis act is substantially similar to SB 742 (2025) and is similar to SB 79 (2015), SB 797 (2010), and SB 1256 (2004).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Provides for the county prosecuting attorney system to be converted to a circuit court district attorney system"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1388"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5764S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1388.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=553",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5764S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

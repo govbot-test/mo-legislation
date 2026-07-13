@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1719",
+  "title": "SB 1719 - Under this act, each health care facility covered under the act shall establish a workplace violence prevention committee to develop a workplace violence prevention plan.  A facility shall adopt and enforce a written workplace violence prevention plan to protect health care professionals and employees from violent behavior and threats of violent behavior occurring at the facility, as described in the act.  \r\n\r\n\tFollowing an incident of workplace violence, a facility shall offer immediate post-incident services.  No facility shall discourage a health care professional or employee from exercising the health care professional's or employee's right to contact or file a report with law enforcement regarding an incident of workplace violence.  No person shall discipline, discriminate against, or retaliate against another person who reports an incident of workplace violence or who advises a health care professional or employee of their right to report an incident.\r\n\r\n\tAny person who violates these provisions may be subject to licensure penalties.  A facility or health care professional participating in good faith in complying with these provisions and complying with a workplace violence prevention plan adopted under these provisions shall be immune from any civil or criminal liability which may otherwise be incurred or imposed.\r\n\r\n\tAdditionally, this act modifies provisions relating to the practice of advanced practice registered nursing.  Specifically, prescription medications prescribed by advanced practice registered nurses (\"APRNs\") may include Schedule II stimulants for behavioral health patients.\r\n\r\n\tUnder current law, collaborative practice arrangements between physicians and registered professional nurses may delegate to an APRN the authority to administer, dispense, or prescribe certain controlled substances.  This act provides that the section of law providing for such agreements shall not apply to APRNs, excluding certified registered nurse anesthetists (\"CRNAs\"), who have been in a collaborative practice arrangement for a cumulative 2000 documented hours with a collaborating physician and whose license is in good standing.  APRNs applying for licensure by endorsement may demonstrate to the Missouri State Board of Nursing completion of such hours.  Additionally, any such APRN shall not be required to enter into or remain in such arrangement to practice in this state.\r\n\r\n\tThis act also provides that an APRN's prescriptive authority shall include authority to prescribe, dispense, and administer controlled substances as provided in current law.  Furthermore, the provision on prescriptive authority shall also apply to good-standing APRNs who have been in collaborative practice arrangements for a cumulative 2000 documented hours with collaborating physicians and who are no longer required to hold collaborative practice arrangements.\r\n\r\n\tThese provisions are identical to SB 979 (2026), SCS/SBs 144 & 179 (2025), and provisions in SB 809 (2024) and substantially similar to HB 1875 (2024).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1719 - Under this act, each health care facility covered under the act shall establish a workplace violence prevention committee to develop a workplace violence prevention plan.  A facility shall adopt and enforce a written workplace violence prevention plan to protect health care professionals and employees from violent behavior and threats of violent behavior occurring at the facility, as described in the act.  \r\n\r\n\tFollowing an incident of workplace violence, a facility shall offer immediate post-incident services.  No facility shall discourage a health care professional or employee from exercising the health care professional's or employee's right to contact or file a report with law enforcement regarding an incident of workplace violence.  No person shall discipline, discriminate against, or retaliate against another person who reports an incident of workplace violence or who advises a health care professional or employee of their right to report an incident.\r\n\r\n\tAny person who violates these provisions may be subject to licensure penalties.  A facility or health care professional participating in good faith in complying with these provisions and complying with a workplace violence prevention plan adopted under these provisions shall be immune from any civil or criminal liability which may otherwise be incurred or imposed.\r\n\r\n\tAdditionally, this act modifies provisions relating to the practice of advanced practice registered nursing.  Specifically, prescription medications prescribed by advanced practice registered nurses (\"APRNs\") may include Schedule II stimulants for behavioral health patients.\r\n\r\n\tUnder current law, collaborative practice arrangements between physicians and registered professional nurses may delegate to an APRN the authority to administer, dispense, or prescribe certain controlled substances.  This act provides that the section of law providing for such agreements shall not apply to APRNs, excluding certified registered nurse anesthetists (\"CRNAs\"), who have been in a collaborative practice arrangement for a cumulative 2000 documented hours with a collaborating physician and whose license is in good standing.  APRNs applying for licensure by endorsement may demonstrate to the Missouri State Board of Nursing completion of such hours.  Additionally, any such APRN shall not be required to enter into or remain in such arrangement to practice in this state.\r\n\r\n\tThis act also provides that an APRN's prescriptive authority shall include authority to prescribe, dispense, and administer controlled substances as provided in current law.  Furthermore, the provision on prescriptive authority shall also apply to good-standing APRNs who have been in collaborative practice arrangements for a cumulative 2000 documented hours with collaborating physicians and who are no longer required to hold collaborative practice arrangements.\r\n\r\n\tThese provisions are identical to SB 979 (2026), SCS/SBs 144 & 179 (2025), and provisions in SB 809 (2024) and substantially similar to HB 1875 (2024).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes provisions relating to health care workplace violence and advanced practice registered nurses"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1719"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7340S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1719.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6457803",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7340S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

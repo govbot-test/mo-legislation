@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1364",
+  "title": "SB 1364 - Under this act, any nonprofit statewide association that facilitates interscholastic activities for secondary school students and that includes at least one public school district as a fee-paying member (defined as an \"activities association\") shall be overseen by a board of three directors appointed by the Governor, by and with the advice and consent of the Senate.  The term of office of each director shall be four years.  If the General Assembly is not in session when a position on the board of directors becomes vacant, the Governor shall make a temporary appointment.\r\n\r\n\tThe board of directors shall have final decision-making power with respect to all actions of an activities association.  Upon motion of any party, a matter may be transferred directly to the board at any time during the matter's pendency.  Further, the board of directors shall have authority to remove any employee or member of an activities association, with or without cause, at such time and in such manner as the board shall deem proper.\r\n\r\n\tThis act contains an emergency clause.\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1364 - Under this act, any nonprofit statewide association that facilitates interscholastic activities for secondary school students and that includes at least one public school district as a fee-paying member (defined as an \"activities association\") shall be overseen by a board of three directors appointed by the Governor, by and with the advice and consent of the Senate.  The term of office of each director shall be four years.  If the General Assembly is not in session when a position on the board of directors becomes vacant, the Governor shall make a temporary appointment.\r\n\r\n\tThe board of directors shall have final decision-making power with respect to all actions of an activities association.  Upon motion of any party, a matter may be transferred directly to the board at any time during the matter's pendency.  Further, the board of directors shall have authority to remove any employee or member of an activities association, with or without cause, at such time and in such manner as the board shall deem proper.\r\n\r\n\tThis act contains an emergency clause.\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Requires the Governor to appoint a board of directors to oversee any statewide activities association that facilitates interscholastic activities for secondary school students"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1364"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5502S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1364.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=350",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5502S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

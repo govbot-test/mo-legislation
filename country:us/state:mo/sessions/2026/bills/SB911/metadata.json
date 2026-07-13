@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 911",
+  "title": "SB 911 - Under this act, a child care facility or organization seeking to provide care for children may register with a qualified association, as described in the act, in place of obtaining a child care license.  The qualified association shall have been in place for a minimum of 20 years, shall publish and require compliance with the association's written policies and standards for the care of children and file copies of those standards with the Children's Division, and shall have a board of directors able to conduct oversight of member organizations.  Upon filing a registration application with the qualified association and meeting the association's requirements and the local or state fire, safety, health, sanitation, and personnel screening requirements, the facility or organization shall receive, at no charge, a certificate of registration from the association that shall be valid for 2 years.\r\n\r\n\tThe Division may place a child within a facility or organization registered under this act; provided, that such facility or organization supplies the Division with certain information regarding the foster children placed with the facility or organization and proof that the facility or organization is in compliance with all applicable regulations promulgated by the Division and minimum standards filed with the Division.\r\n\r\n\tThe parent, legal guardian, or agency having legal custody of a child and the facility or organization registered with the qualified association shall have a written contract for each child cared for by the facility or organization that sets forth the services provided by the facility or organization, the registration with and contact information of the qualified organization, the cost of the services, the disciplinary procedures, and authorization for consent to routine or emergency medical care of the child.\r\n\r\n\tThis act also establishes the \"Child Protection Board\" within the Department of Social Services to provide oversight of facilities and organizations registered with qualified associations and to report to the Department as needed.  The Board shall consist of 13 members, as described in the act.  The Board shall independently review any decision of the Children's Division in which a facility or organization could be aggrieved by a substantiated finding of child abuse or neglect by the Division and shall make recommendations to the Division; provided, that nothing in this provision shall be construed to deny the state the authority to investigate any allegations of a child abuse or neglect.  Additionally, the Division may deny, suspend, or revoke a facility or organization's registration with a qualified association if the facility or organization fails to comply with the standards established by the qualified association or the provisions of this act.  The facility or organization shall retain the right to appeal the Division's decision to the Administrative Hearing Commission for a final determination.\r\n\r\n\tAny facility or organization that applies for and receives a license under the state's licensing laws shall not be eligible to operate under the provisions of this act.\r\n\r\n\tAll personnel of registered facilities and organizations shall be subject to background checks and all registered facilities and organizations shall comply with state law in the event of an allegation of abuse or neglect.\r\n\r\n\tThis act is identical to SCS/SB 525 (2025) and similar to HCS/HB 2307 (2024) and SB 1387 (2024).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 911 - Under this act, a child care facility or organization seeking to provide care for children may register with a qualified association, as described in the act, in place of obtaining a child care license.  The qualified association shall have been in place for a minimum of 20 years, shall publish and require compliance with the association's written policies and standards for the care of children and file copies of those standards with the Children's Division, and shall have a board of directors able to conduct oversight of member organizations.  Upon filing a registration application with the qualified association and meeting the association's requirements and the local or state fire, safety, health, sanitation, and personnel screening requirements, the facility or organization shall receive, at no charge, a certificate of registration from the association that shall be valid for 2 years.\r\n\r\n\tThe Division may place a child within a facility or organization registered under this act; provided, that such facility or organization supplies the Division with certain information regarding the foster children placed with the facility or organization and proof that the facility or organization is in compliance with all applicable regulations promulgated by the Division and minimum standards filed with the Division.\r\n\r\n\tThe parent, legal guardian, or agency having legal custody of a child and the facility or organization registered with the qualified association shall have a written contract for each child cared for by the facility or organization that sets forth the services provided by the facility or organization, the registration with and contact information of the qualified organization, the cost of the services, the disciplinary procedures, and authorization for consent to routine or emergency medical care of the child.\r\n\r\n\tThis act also establishes the \"Child Protection Board\" within the Department of Social Services to provide oversight of facilities and organizations registered with qualified associations and to report to the Department as needed.  The Board shall consist of 13 members, as described in the act.  The Board shall independently review any decision of the Children's Division in which a facility or organization could be aggrieved by a substantiated finding of child abuse or neglect by the Division and shall make recommendations to the Division; provided, that nothing in this provision shall be construed to deny the state the authority to investigate any allegations of a child abuse or neglect.  Additionally, the Division may deny, suspend, or revoke a facility or organization's registration with a qualified association if the facility or organization fails to comply with the standards established by the qualified association or the provisions of this act.  The facility or organization shall retain the right to appeal the Division's decision to the Administrative Hearing Commission for a final determination.\r\n\r\n\tAny facility or organization that applies for and receives a license under the state's licensing laws shall not be eligible to operate under the provisions of this act.\r\n\r\n\tAll personnel of registered facilities and organizations shall be subject to background checks and all registered facilities and organizations shall comply with state law in the event of an allegation of abuse or neglect.\r\n\r\n\tThis act is identical to SCS/SB 525 (2025) and similar to HCS/HB 2307 (2024) and SB 1387 (2024).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes a registration process for certain children's homes"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb911"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schnelting, Adam",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schnelting, Adam\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4382S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB911.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=358",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4382S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

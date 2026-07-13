@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1785",
+  "title": "SB 1785 - This act requires that a bonding company or an agent executing a bond must collect fifty percent of the bonding fee prior to executing a bond if the defendant is charged with certain felony offenses. The bonding agent is also required to certify to the court that they have received the required percentage from the defendant when they file the bonding paperwork. If a bonding agent fails to provide the certification, they shall be guilty of a class A misdemeanor. If an agent falsifies documentation it shall be a class E felony. Additionally, if a bonding agent fails to provide the certification, or falsifies documentation, they shall be disqualified from writing bail bonds for a period of five years.\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1785 - This act requires that a bonding company or an agent executing a bond must collect fifty percent of the bonding fee prior to executing a bond if the defendant is charged with certain felony offenses. The bonding agent is also required to certify to the court that they have received the required percentage from the defendant when they file the bonding paperwork. If a bonding agent fails to provide the certification, they shall be guilty of a class A misdemeanor. If an agent falsifies documentation it shall be a class E felony. Additionally, if a bonding agent fails to provide the certification, or falsifies documentation, they shall be disqualified from writing bail bonds for a period of five years.\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Adds provisions relating to bonds for violent offenders"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1785"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hudson, Brad",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Hudson, Brad\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7492S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1785.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6618179",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7492S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

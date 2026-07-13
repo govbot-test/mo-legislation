@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1755",
+  "title": "SB 1755 - Agriculture, Natural Resources & Conservation\r\n\r\n.                            AGRICULTURE \r\n\r\n.                Governor                   Senate\r\n\r\nGR            $  21,066,802             $  14,916,802\r\nFEDERAL          12,677,920                12,677,920\r\nOTHER            33,825,085                39,825,085\r\n.              ____________              ____________\r\nTOTAL         $  67,569,807             $  67,419,807\r\n\r\n\r\n.                House                      Final\r\n\r\nGR            $                                      \r\nFEDERAL                    \r\nOTHER                      \r\n.              _____________             ____________\r\nTOTAL                      \r\n\r\n\r\n\r\n.                         NATURAL RESOURCES\r\n\r\n.                Governor                    Senate\r\n\r\nGR            $   60,609,855           $   60,264,954\r\nFEDERAL          202,484,030              202,484,030\r\nOTHER          2,103,044,070            2,103,044,070\r\n.              _____________            _____________\r\nTOTAL         $2,366,137,955           $2,365,793,054\r\n\r\n\r\n.                House                      Final\r\n\r\nGR            $                                    \r\nFEDERAL                    \r\nOTHER                      \r\n.              _____________            _____________\r\nTOTAL         $            \r\n\r\n\r\n\r\n.                           CONSERVATION\r\n\r\n.                Governor                   Senate\r\n\r\nGR            $           0            $           0\r\nFEDERAL                   0                        0\r\nOTHER           251,537,640              251,537,640\r\n.              ____________             ____________\r\nTOTAL         $ 251,537,640            $ 251,537,640\r\n\r\n\r\n.                House                      Final\r\n\r\nGR            $                                     \r\nFEDERAL                    \r\nOTHER                      \r\n.              _____________            ____________\r\nTOTAL         $            \r\nADAM KOENIGSFELD",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1755 - Agriculture, Natural Resources & Conservation\r\n\r\n.                            AGRICULTURE \r\n\r\n.                Governor                   Senate\r\n\r\nGR            $  21,066,802             $  14,916,802\r\nFEDERAL          12,677,920                12,677,920\r\nOTHER            33,825,085                39,825,085\r\n.              ____________              ____________\r\nTOTAL         $  67,569,807             $  67,419,807\r\n\r\n\r\n.                House                      Final\r\n\r\nGR            $                                      \r\nFEDERAL                    \r\nOTHER                      \r\n.              _____________             ____________\r\nTOTAL                      \r\n\r\n\r\n\r\n.                         NATURAL RESOURCES\r\n\r\n.                Governor                    Senate\r\n\r\nGR            $   60,609,855           $   60,264,954\r\nFEDERAL          202,484,030              202,484,030\r\nOTHER          2,103,044,070            2,103,044,070\r\n.              _____________            _____________\r\nTOTAL         $2,366,137,955           $2,365,793,054\r\n\r\n\r\n.                House                      Final\r\n\r\nGR            $                                    \r\nFEDERAL                    \r\nOTHER                      \r\n.              _____________            _____________\r\nTOTAL         $            \r\n\r\n\r\n\r\n.                           CONSERVATION\r\n\r\n.                Governor                   Senate\r\n\r\nGR            $           0            $           0\r\nFEDERAL                   0                        0\r\nOTHER           251,537,640              251,537,640\r\n.              ____________             ____________\r\nTOTAL         $ 251,537,640            $ 251,537,640\r\n\r\n\r\n.                House                      Final\r\n\r\nGR            $                                     \r\nFEDERAL                    \r\nOTHER                      \r\n.              _____________            ____________\r\nTOTAL         $            \r\nADAM KOENIGSFELD"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To appropriate money for the expenses, grants, refunds, and distributions of the Department of Agriculture, the Department of Natural Resources, and the Department of Conservation"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1755"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Appropriations Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hough, Lincoln",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Hough, Lincoln\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7435S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1755.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6479094",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7435S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

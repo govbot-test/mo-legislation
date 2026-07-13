@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1725",
+  "title": "SB 1725 - The act provides that the Department of Natural Resources shall promulgate rules regulating the manufacture, use, storage, and remediation of firefighting or fire-suppressing foam, as described in the act, to protect the environment and ensure safe and clean soil, water, and air in the state.\r\n\r\n\tA person that discharges or causes to be discharged firefighting or fire-suppressing foam into any water source or water supply, or onto land adjacent to such waters, shall report the discharge to the Department no later than 24 hours after the discharge.\r\n\r\n\tBeginning January 1, 2028, a person shall not manufacture, sell, or distribute in the state a firefighting or fire-suppressing foam except in certain circumstances as described in the act.\r\n\r\n\tA person who manufactures for sale or distribution a firefighting or fire-suppressing foam shall, upon request by the Department, provide the Department with a certificate of compliance certifying that the foam does not contain certain substances, as described in the act, or is excepted from the prohibitions under the act.\r\n\r\n\tSubject to certain exceptions under the act, before January 1, 2028, a person who manufactures firefighting or fire-suppressing foam shall be subject to certain requirements described in the act.\r\n\r\n\tThe act is identical to HB 2270 (2026). \r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1725 - The act provides that the Department of Natural Resources shall promulgate rules regulating the manufacture, use, storage, and remediation of firefighting or fire-suppressing foam, as described in the act, to protect the environment and ensure safe and clean soil, water, and air in the state.\r\n\r\n\tA person that discharges or causes to be discharged firefighting or fire-suppressing foam into any water source or water supply, or onto land adjacent to such waters, shall report the discharge to the Department no later than 24 hours after the discharge.\r\n\r\n\tBeginning January 1, 2028, a person shall not manufacture, sell, or distribute in the state a firefighting or fire-suppressing foam except in certain circumstances as described in the act.\r\n\r\n\tA person who manufactures for sale or distribution a firefighting or fire-suppressing foam shall, upon request by the Department, provide the Department with a certificate of compliance certifying that the foam does not contain certain substances, as described in the act, or is excepted from the prohibitions under the act.\r\n\r\n\tSubject to certain exceptions under the act, before January 1, 2028, a person who manufactures firefighting or fire-suppressing foam shall be subject to certain requirements described in the act.\r\n\r\n\tThe act is identical to HB 2270 (2026). \r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to foam fire suppressants"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1725"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Beck, Doug",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Beck, Doug\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7413S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1725.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6457864",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7413S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

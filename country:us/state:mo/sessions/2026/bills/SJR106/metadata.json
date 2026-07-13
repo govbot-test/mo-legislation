@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SJR 106",
+  "title": "SJR 106 - Current constitutional provisions place the Department of Transportation and the management of the state highway system under the control of the State Highways and Transportation Commission. This constitutional amendment, if approved by the voters, places such control under the Department of Transportation, which shall be lead by a director appointed by the Governor with the advice and consent of the Senate.\r\n\r\n\tThe amendment also provides that the Highways and Transportation Commission shall be an advisory body within the Department, provided that the General Assembly may at any time abolish the Commission. All duties and powers given to the Commission as of the effective date of the amendment shall be transferred to the Department.\r\n\r\n\tThe constitution also currently provides that the net proceeds of the motor fuel tax shall stand appropriated to the counties, municipalities, and the Commission. This amendment provides that the net proceeds allocable to the Commission shall be appropriated by the General Assembly to the Department.\r\n\r\n\tThis amendment is similar to SJR 2 (2025), HJR 32 (2025), HJR 45 (2025), and HJR 109 (2024).\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SJR 106 - Current constitutional provisions place the Department of Transportation and the management of the state highway system under the control of the State Highways and Transportation Commission. This constitutional amendment, if approved by the voters, places such control under the Department of Transportation, which shall be lead by a director appointed by the Governor with the advice and consent of the Senate.\r\n\r\n\tThe amendment also provides that the Highways and Transportation Commission shall be an advisory body within the Department, provided that the General Assembly may at any time abolish the Commission. All duties and powers given to the Commission as of the effective date of the amendment shall be transferred to the Department.\r\n\r\n\tThe constitution also currently provides that the net proceeds of the motor fuel tax shall stand appropriated to the counties, municipalities, and the Commission. This amendment provides that the net proceeds allocable to the Commission shall be appropriated by the General Assembly to the Department.\r\n\r\n\tThis amendment is similar to SJR 2 (2025), HJR 32 (2025), HJR 45 (2025), and HJR 109 (2024).\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Transfers authority over the state highway system to the Department of Transportation"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sjr106"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5932S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR106.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=8216",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5932S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

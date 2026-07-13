@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Senate Adopts Conference Committee Report (S) - AYES: 30 NOES: 2 PRESENT: 0",
+    "occurred_at": "2026-05-06T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.house.mo.gov/BillContent.aspx?bill=HB2006&year=2026&code=R&style=new",
+        "note": ""
+      },
+      {
+        "url": "https://house.mo.gov/billactions.aspx?bill=HB2006&year=2026&code=R",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 2006"
+}

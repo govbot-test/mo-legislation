@@ -1,0 +1,23 @@
+{
+  "identifier": "",
+  "motion_text": "Truly Agreed To and Finally Passed - AYES: 127 NOES: 17 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-15T05:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "ab0b9a50-754b-11f1-b24a-b6ae219d7a94",
+  "bill_action": null,
+  "bill_identifier": "HB 2397",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB2397&year=2026&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

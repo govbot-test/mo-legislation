@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1136",
+  "title": "SB 1136 - This act establishes provisions relating to the reconsideration of materials in a public library or public school library.  \r\n\r\n\tThe act defines \"digital library material\" as material including, but not limited to, digital audiobooks, electronic journals, electronic magazines, and other resources that are directly accessible through the public library or school library database, but excluding any online content that is available outside of the public library or school library database or platform.  The act defines \"library material\" as any resource in print or non-print format, including, but not limited to, books, magazines, microfiche, microfilm, slides, exhibits, and other materials that are found in a public library or school library.\r\n\r\n\tThe act defines \"reconsideration\" as a process in which library personnel, public schools, school districts, or library governing bodies review materials in a public library or school library due to a formal complaint filed by a member of the community.  The outcome of this reconsideration may include relocating or removing library materials or removing or restricting access to digital library materials.\r\n\r\n\tAll public libraries and public school libraries shall establish a policy outlining the process for reconsidering library materials and digital library materials based on a complaint from a member of the community.  Such a policy shall be made publicly available as provided in the act.\r\n\r\n\tA public library or school library shall respond to a reconsideration request by removing library materials from its permanent collection, relocating library materials within its collection, or removing or restricting access to digital library materials within its collection only if such materials have been reviewed in accordance with an established policy for the reconsideration of library materials and digital library materials that complies the requirements of the act.\r\n\r\n\tTo request reconsideration of library materials or digital library materials, the individual making the request shall sign an affidavit affirming that (a) the individual has read or consumed the entirety of the challenged material, and (b) the individual resides in the taxing district of the public library in which the request is made or the school district in which the request is made.\r\n\r\n\tEach public library or school library shall develop an appeals process for the reconsideration policy that outlines a process for appealing a decision made regarding the removal of library materials or digital library materials, as provided in the act. \r\n\r\n\tDigital library materials that undergo reconsideration shall be subject to removal or restricted access at the title, issue, and article level.  Any third party contracted to provide databases that contain or provide access to digital library materials shall have the ability to curate those materials using a mechanism that allows for the removal or restriction of access to challenged content without disrupting access to the remainder of digital library materials accessible in the public library or school library.  Curation of digital library materials shall not be applied at an individual user level, but rather at the library system or school district level.\r\n\r\n\tDigital library resources shall not track or monitor the access of library materials or digital library materials by individual users, especially minors, including any tracking or monitoring to personalize user experiences.\r\n\r\n\tAn employee or volunteer of a public library or school library shall not be subject to termination, demotion, discipline, retaliation, or any other penalty for refusing to remove library materials or digital library materials before such materials have been reviewed in accordance with a policy that complies with the provisions of this act.\r\n\r\n\tThis act is substantially similar to SB 159 (2025) and is similar to HCS/HB 3005 (2026) and HCS/HB 1146 (2025).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1136 - This act establishes provisions relating to the reconsideration of materials in a public library or public school library.  \r\n\r\n\tThe act defines \"digital library material\" as material including, but not limited to, digital audiobooks, electronic journals, electronic magazines, and other resources that are directly accessible through the public library or school library database, but excluding any online content that is available outside of the public library or school library database or platform.  The act defines \"library material\" as any resource in print or non-print format, including, but not limited to, books, magazines, microfiche, microfilm, slides, exhibits, and other materials that are found in a public library or school library.\r\n\r\n\tThe act defines \"reconsideration\" as a process in which library personnel, public schools, school districts, or library governing bodies review materials in a public library or school library due to a formal complaint filed by a member of the community.  The outcome of this reconsideration may include relocating or removing library materials or removing or restricting access to digital library materials.\r\n\r\n\tAll public libraries and public school libraries shall establish a policy outlining the process for reconsidering library materials and digital library materials based on a complaint from a member of the community.  Such a policy shall be made publicly available as provided in the act.\r\n\r\n\tA public library or school library shall respond to a reconsideration request by removing library materials from its permanent collection, relocating library materials within its collection, or removing or restricting access to digital library materials within its collection only if such materials have been reviewed in accordance with an established policy for the reconsideration of library materials and digital library materials that complies the requirements of the act.\r\n\r\n\tTo request reconsideration of library materials or digital library materials, the individual making the request shall sign an affidavit affirming that (a) the individual has read or consumed the entirety of the challenged material, and (b) the individual resides in the taxing district of the public library in which the request is made or the school district in which the request is made.\r\n\r\n\tEach public library or school library shall develop an appeals process for the reconsideration policy that outlines a process for appealing a decision made regarding the removal of library materials or digital library materials, as provided in the act. \r\n\r\n\tDigital library materials that undergo reconsideration shall be subject to removal or restricted access at the title, issue, and article level.  Any third party contracted to provide databases that contain or provide access to digital library materials shall have the ability to curate those materials using a mechanism that allows for the removal or restriction of access to challenged content without disrupting access to the remainder of digital library materials accessible in the public library or school library.  Curation of digital library materials shall not be applied at an individual user level, but rather at the library system or school district level.\r\n\r\n\tDigital library resources shall not track or monitor the access of library materials or digital library materials by individual users, especially minors, including any tracking or monitoring to personalize user experiences.\r\n\r\n\tAn employee or volunteer of a public library or school library shall not be subject to termination, demotion, discipline, retaliation, or any other penalty for refusing to remove library materials or digital library materials before such materials have been reviewed in accordance with a policy that complies with the provisions of this act.\r\n\r\n\tThis act is substantially similar to SB 159 (2025) and is similar to HCS/HB 3005 (2026) and HCS/HB 1146 (2025).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes provisions relating to the reconsideration of materials in a public library or public school library"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1136"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Henderson, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Henderson, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4735S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1136.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=403",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4735S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

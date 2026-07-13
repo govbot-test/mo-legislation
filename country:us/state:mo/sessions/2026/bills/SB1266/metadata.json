@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1266",
+  "title": "SB 1266 - The act establishes the \"Freedom to Farm Act\" which provides that the right of farmers and ranchers to engage in farming and ranching practices for sale or personal consumption shall be free from government intervention and that practices occurring within the state shall not be infringed upon by the federal government under the regulation of interstate commerce.\r\n\r\n\tAny government entity that restricts farming or ranching practices shall be held civilly liable to the farmer or rancher for injunctive and declaratory relief. \r\n\r\n\tNo government measure shall restrict the production, manufacturing, distribution, or sale of supplements intended for human application, absorption, or consumption, or be deemed to enforce a compulsory marketing quota, poundage quota, or similar policy restricting the production of farming or ranching. \r\n\r\n\tNo penalty as a result of a violation of any provision of law, order, ordinance, rule, regulation, policy, or similar measure regarding protection of the environment shall require the closure of a farming or ranching operation or restrict the consumption or sale of food products. \r\n\r\n\tExcept for licenses required by law before August 28, 2026, no license shall be required for an individual to operate or engage in farming or ranching. \r\n\r\n\tThe right to access and the ability to afford food products shall not be infringed upon by restrictions based on an individual's credit score, credit worthiness, credit standing, or credit capacity, or presentation of an identification card. \r\n\r\n\tAny farmer or rancher who sells food products of his or her farming or ranching operation that are fit for human consumption shall not be held civilly liable for injury or death arising from a condition of such food products if the farmer or rancher provides the following warning label: \"WARNING: CONSUME AT YOUR OWN RISK\". \r\n\r\n\tThe use of any form of environmental manipulation, as defined in the act, is prohibited in this state. This provision shall not prevent the use of pesticides on any farming or ranching operations. Any person using a form of environmental manipulation shall be held civilly liable for damages resulting from such use. \r\n\r\n\tThe act repeals the provision allowing the Governor to control the sale or distribution of food and feed during a state of emergency. \r\n\r\n\tThe Governor shall not have the authority to prevent farming or ranching, as described in the act.\r\n\r\n\tThe act repeals certain provisions regarding deeming certain agricultural operations as nuisances and provides that no agricultural operation or any of its appurtenances shall be deemed to be a nuisance, except for those agricultural operations or any of its appurtenances used for production of swine or swine products as described in the act, that unreasonably expand in violation of zoning laws or ordinances.\r\n\r\n\tThe act is identical to SB 297 (2025), SB 1318 (2024), and SB 84 (2023).\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1266 - The act establishes the \"Freedom to Farm Act\" which provides that the right of farmers and ranchers to engage in farming and ranching practices for sale or personal consumption shall be free from government intervention and that practices occurring within the state shall not be infringed upon by the federal government under the regulation of interstate commerce.\r\n\r\n\tAny government entity that restricts farming or ranching practices shall be held civilly liable to the farmer or rancher for injunctive and declaratory relief. \r\n\r\n\tNo government measure shall restrict the production, manufacturing, distribution, or sale of supplements intended for human application, absorption, or consumption, or be deemed to enforce a compulsory marketing quota, poundage quota, or similar policy restricting the production of farming or ranching. \r\n\r\n\tNo penalty as a result of a violation of any provision of law, order, ordinance, rule, regulation, policy, or similar measure regarding protection of the environment shall require the closure of a farming or ranching operation or restrict the consumption or sale of food products. \r\n\r\n\tExcept for licenses required by law before August 28, 2026, no license shall be required for an individual to operate or engage in farming or ranching. \r\n\r\n\tThe right to access and the ability to afford food products shall not be infringed upon by restrictions based on an individual's credit score, credit worthiness, credit standing, or credit capacity, or presentation of an identification card. \r\n\r\n\tAny farmer or rancher who sells food products of his or her farming or ranching operation that are fit for human consumption shall not be held civilly liable for injury or death arising from a condition of such food products if the farmer or rancher provides the following warning label: \"WARNING: CONSUME AT YOUR OWN RISK\". \r\n\r\n\tThe use of any form of environmental manipulation, as defined in the act, is prohibited in this state. This provision shall not prevent the use of pesticides on any farming or ranching operations. Any person using a form of environmental manipulation shall be held civilly liable for damages resulting from such use. \r\n\r\n\tThe act repeals the provision allowing the Governor to control the sale or distribution of food and feed during a state of emergency. \r\n\r\n\tThe Governor shall not have the authority to prevent farming or ranching, as described in the act.\r\n\r\n\tThe act repeals certain provisions regarding deeming certain agricultural operations as nuisances and provides that no agricultural operation or any of its appurtenances shall be deemed to be a nuisance, except for those agricultural operations or any of its appurtenances used for production of swine or swine products as described in the act, that unreasonably expand in violation of zoning laws or ordinances.\r\n\r\n\tThe act is identical to SB 297 (2025), SB 1318 (2024), and SB 84 (2023).\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the Freedom to Farm Act and modifies provisions relating to the Governor's emergency powers and agricultural operations as nuisances"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1266"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Moon, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Moon, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5664S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1266.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=390",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5664S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

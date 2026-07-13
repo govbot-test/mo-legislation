@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "SA 1 to SS for SCS S offered & adopted  (Webber)--(5285S05.03S)",
+    "occurred_at": "2026-02-18T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=417",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 835"
+}

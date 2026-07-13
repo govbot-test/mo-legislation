@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1131",
+  "title": "SB 1131 - This act modifies provisions relating to the duties of the State Tax Commission.\r\n\r\nASSESSMENT MAINTENANCE PLAN\r\n\tCurrent law requires assessors to prepare and submit a two-year assessment maintenance plan to the State Tax Commission, with the receipt of state reimbursements contingent on adherence to such plan. This act removes the adherence to the maintenance plan as a condition for receiving state reimbursement for the costs and expenses incurred in assessing property. (Sections 137.115 and 137.750)\r\n\r\nPOWERS OF THE STATE TAX COMMISSION\r\n\tCurrent law authorizes the State Tax Commission to raise or lower the assessed valuation of real or tangible personal property. This act provides that such power shall only extend to the raising or lowering of a parcel or item of real or personal property, and that the Commission shall not have the power to require an assessor to raise or lower the assessed valuation of an entire class or subclass of real or personal property. (Sections 138.380.1(1) and 138.410)\r\n\r\n\tThis act also provides that the Commission shall not utilize the standards promulgated by the International Association of Assessing Officers (IAAO) or any other international or domestic organization to carry out the powers and duties provided by law. (Section 138.380.2)\r\n\r\nSTATE TAX COMMISSION RATIO STUDIES\r\n\tCurrent law requires the State Tax Commission to equalize the valuation of each class and subclass of property among the respective counties. This act requires the Commission to utilize ratio studies to determine whether a class or subclass is valued below or above its true value. Such values shall be no less than 70% and no more than 100% of true market value, as described in the act. (Section 138.390)\r\n\r\nOFFICE OF STATE OMBUDSMAN FOR PROPERTY ASSESSMENT AND TAXATION\r\n\tCurrent law establishes the Office of State Ombudsman for Property Assessment and Taxation within the State Tax Commission. This act provides that if in any given fiscal year the annual appropriation made to the Commission by the General Assembly is insufficient to fund the Office of the State Ombudsman for Property Assessment and Taxation, the Commission shall determine the amount of the insufficiency and an equal portion of the state reimbursement made to each county assessment fund shall instead be deposited in the State Ombudsman for Property Tax Fund, which is created by the act, such that the amount deposited is equal to the amount of the insufficiency. (Section 138.435)\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1131 - This act modifies provisions relating to the duties of the State Tax Commission.\r\n\r\nASSESSMENT MAINTENANCE PLAN\r\n\tCurrent law requires assessors to prepare and submit a two-year assessment maintenance plan to the State Tax Commission, with the receipt of state reimbursements contingent on adherence to such plan. This act removes the adherence to the maintenance plan as a condition for receiving state reimbursement for the costs and expenses incurred in assessing property. (Sections 137.115 and 137.750)\r\n\r\nPOWERS OF THE STATE TAX COMMISSION\r\n\tCurrent law authorizes the State Tax Commission to raise or lower the assessed valuation of real or tangible personal property. This act provides that such power shall only extend to the raising or lowering of a parcel or item of real or personal property, and that the Commission shall not have the power to require an assessor to raise or lower the assessed valuation of an entire class or subclass of real or personal property. (Sections 138.380.1(1) and 138.410)\r\n\r\n\tThis act also provides that the Commission shall not utilize the standards promulgated by the International Association of Assessing Officers (IAAO) or any other international or domestic organization to carry out the powers and duties provided by law. (Section 138.380.2)\r\n\r\nSTATE TAX COMMISSION RATIO STUDIES\r\n\tCurrent law requires the State Tax Commission to equalize the valuation of each class and subclass of property among the respective counties. This act requires the Commission to utilize ratio studies to determine whether a class or subclass is valued below or above its true value. Such values shall be no less than 70% and no more than 100% of true market value, as described in the act. (Section 138.390)\r\n\r\nOFFICE OF STATE OMBUDSMAN FOR PROPERTY ASSESSMENT AND TAXATION\r\n\tCurrent law establishes the Office of State Ombudsman for Property Assessment and Taxation within the State Tax Commission. This act provides that if in any given fiscal year the annual appropriation made to the Commission by the General Assembly is insufficient to fund the Office of the State Ombudsman for Property Assessment and Taxation, the Commission shall determine the amount of the insufficiency and an equal portion of the state reimbursement made to each county assessment fund shall instead be deposited in the State Ombudsman for Property Tax Fund, which is created by the act, such that the amount deposited is equal to the amount of the insufficiency. (Section 138.435)\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to the State Tax Commission"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1131"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Select Committee on Property Taxes and the State Tax Commission Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brown (26), Ben",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brown (26), Ben\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5371S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1131.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=257",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5371S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

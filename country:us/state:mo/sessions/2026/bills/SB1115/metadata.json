@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1115",
+  "title": "SB 1115 - This act moves elections for street light maintenance district board members from the November general election to the April general municipal election.  The act modifies language to note that the election of new board members shall take place biennially, as is currently provided by law.  The act also provides that nominations shall be filed with the election authority, rather than that they may be filed with the secretary of the board. (Section 235.140.1)\r\n\r\n\tThe act further provides for the April election of board members for seats to which members were previously elected in November of 2022, 2024, and 2026. (Section 235.140.3)\r\n\r\n\tThis act is substantially similar to SB 208 (2025), SB 1045 (2024) and HB 2396 (2024), HCS/SS/SB 148 (2023), SB 797 (2022), and HB 1839 (2022).\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1115 - This act moves elections for street light maintenance district board members from the November general election to the April general municipal election.  The act modifies language to note that the election of new board members shall take place biennially, as is currently provided by law.  The act also provides that nominations shall be filed with the election authority, rather than that they may be filed with the secretary of the board. (Section 235.140.1)\r\n\r\n\tThe act further provides for the April election of board members for seats to which members were previously elected in November of 2022, 2024, and 2026. (Section 235.140.3)\r\n\r\n\tThis act is substantially similar to SB 208 (2025), SB 1045 (2024) and HB 2396 (2024), HCS/SS/SB 148 (2023), SB 797 (2022), and HB 1839 (2022).\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to street light maintenance districts"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1115"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mosley, Angela",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Mosley, Angela\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3815S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1115.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=681",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3815S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SJR 71",
+  "title": "SJR 71 - This constitutional amendment, if approved by the voters, prohibits abortions, except in cases of medical emergencies.  The amendment also prohibits the use of surgeries, hormones, or drugs to assist a child with a gender transition.\r\n\r\n\tThis amendment provides that the right to reproductive freedom shall not be construed to exempt any person, firm, or corporation from civil liability for medical malpractice, negligence, or wrongful death.\r\n\r\n\tThe General Assembly shall have the authority to enact laws to carry out these provisions.\r\n\r\n\tThis constitutional amendment is identical to SJR 9 (2025) and similar to the truly agreed to and finally passed HCS/HJR 73 (2025), SCS/SJR 33 (2025), SJR 5 (2025), SJR 17 (2025), SJR 23 (2025), SJR 25 (2025), SJR 27 (2025), SJR 28 (2025), SJR 29 (2025), and SJR 55 (2025).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SJR 71 - This constitutional amendment, if approved by the voters, prohibits abortions, except in cases of medical emergencies.  The amendment also prohibits the use of surgeries, hormones, or drugs to assist a child with a gender transition.\r\n\r\n\tThis amendment provides that the right to reproductive freedom shall not be construed to exempt any person, firm, or corporation from civil liability for medical malpractice, negligence, or wrongful death.\r\n\r\n\tThe General Assembly shall have the authority to enact laws to carry out these provisions.\r\n\r\n\tThis constitutional amendment is identical to SJR 9 (2025) and similar to the truly agreed to and finally passed HCS/HJR 73 (2025), SCS/SJR 33 (2025), SJR 5 (2025), SJR 17 (2025), SJR 23 (2025), SJR 25 (2025), SJR 27 (2025), SJR 28 (2025), SJR 29 (2025), and SJR 55 (2025).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes provisions relating to reproductive health care"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sjr71"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Emerging Issues and Professional Registration Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Moon, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Moon, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5668S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR71.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=396",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5668S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

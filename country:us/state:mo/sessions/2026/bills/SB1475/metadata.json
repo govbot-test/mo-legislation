@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1475",
+  "title": "SB 1475 - This act provides that no county or other political subdivision shall relinquish the authority to collect delinquent taxes or assessments to any other entity. (Section 137.085)\r\n\r\n\tCurrent law provides that a property is delinquent on January 1 following the tax due date, and that a county shall commence proceedings for the satisfaction of the lien within three years if proceeding with an administrative tax sale under chapter 140, or after a two year period of delinquency if proceeding with judicial foreclosure under chapter 141.  This act provides that a property shall not be subject to sale or judicial foreclosure until the expiration of a seven year period following delinquency unless the assessed value of the property is less than the lien amount. (Sections 140.160 and 141.260)\r\n\r\n\tCurrent law authorizes the Director of Revenue to contract with collection agencies for the collection of delinquent state taxes.  This act provides that neither the Director nor any other county official shall contract with a collection agency for the collection of delinquent property taxes. (Section 140.850)\r\n\r\n\tThis act contains an emergency clause.\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1475 - This act provides that no county or other political subdivision shall relinquish the authority to collect delinquent taxes or assessments to any other entity. (Section 137.085)\r\n\r\n\tCurrent law provides that a property is delinquent on January 1 following the tax due date, and that a county shall commence proceedings for the satisfaction of the lien within three years if proceeding with an administrative tax sale under chapter 140, or after a two year period of delinquency if proceeding with judicial foreclosure under chapter 141.  This act provides that a property shall not be subject to sale or judicial foreclosure until the expiration of a seven year period following delinquency unless the assessed value of the property is less than the lien amount. (Sections 140.160 and 141.260)\r\n\r\n\tCurrent law authorizes the Director of Revenue to contract with collection agencies for the collection of delinquent state taxes.  This act provides that neither the Director nor any other county official shall contract with a collection agency for the collection of delinquent property taxes. (Section 140.850)\r\n\r\n\tThis act contains an emergency clause.\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to delinquent property taxes"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1475"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Select Committee on Property Taxes and the State Tax Commission Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nicola, Joe",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nicola, Joe\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6248S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1475.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=52371",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6248S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

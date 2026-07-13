@@ -1,0 +1,141 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1396",
+  "title": "SCS/SB 1396 - The act repeals certain provisions and creates new provisions relating to discounts by electrical corporations.\r\n\r\n\tThe act repeals a provision relating to discount percentages and provides that when a new load is less than 75 megawatts, the discount percentage shall equal 35% and shall apply for five years, as described in the act.\r\n\r\n\tThe act repeals a provision relating to the variable cost to serve new load for purposes of a discount.\r\n\r\n\tAn applicant shall not be eligible for a discount for any new or expanded facility that is determined by an electrical corporation to be a nonqualifying facility, as defined in the act.\r\n\r\n\tThe act repeals a provision relating to the cents-per-kilowatt-hour realization and a provision relating to an application for a discounted rate.\r\n\r\n\tThe act is similar to HCS/HB 2248 (2026).\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SCS/SB 1396 - The act repeals certain provisions and creates new provisions relating to discounts by electrical corporations.\r\n\r\n\tThe act repeals a provision relating to discount percentages and provides that when a new load is less than 75 megawatts, the discount percentage shall equal 35% and shall apply for five years, as described in the act.\r\n\r\n\tThe act repeals a provision relating to the variable cost to serve new load for purposes of a discount.\r\n\r\n\tAn applicant shall not be eligible for a discount for any new or expanded facility that is determined by an electrical corporation to be a nonqualifying facility, as defined in the act.\r\n\r\n\tThe act repeals a provision relating to the cents-per-kilowatt-hour realization and a provision relating to an application for a discounted rate.\r\n\r\n\tThe act is similar to HCS/HB 2248 (2026).\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Repeals and creates new provisions relating to discounts by electrical corporations"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1396"
+    }
+  ],
+  "actions": [
+    {
+      "description": "SCS Voted Do Pass S Commerce, Consumer Protection, Energy & the Environment Committee (5853S.02C)",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Henderson, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Henderson, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB1396.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "5853S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1396.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=688",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5853S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

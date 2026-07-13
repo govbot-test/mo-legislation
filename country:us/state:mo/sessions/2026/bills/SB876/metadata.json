@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 876",
+  "title": "SB 876 - This act creates the \"Department of Transportation Fiber Network Expansion Act\", which provides that the Missouri Highways and Transportation Commission may enter into public-private partnerships with private broadband internet service providers to expand and develop the Department of Transportation's fiber network. The Commission shall prioritize expansion and development under the act in unserved areas and underserved areas, as defined by law.\r\n\r\n\tThe Commission shall use a competitive procurement process to form the public-private partnerships, including publishing notice as specified in the act. The Commission shall ensure that at least 25% of the workforce fulfilling the contracts awarded under this act belongs to a racial minority group. As part of a contract award under the act, the private partnering entity may use the excess fiber capacity to provide internet services, as long as the services provided meet the state minimum standard for broadband.\r\n\r\n\tThis act is identical to HB 2220 (2026), SB 307 (2025), SB 1323 (2024), HB 2388 (2024), SB 219 (2023), and HB 1037 (2023), similar to HB 1396 (2025) and provisions in HCS/HB 461 (2023), and identical to SB 1199 (2022) and HB 2908 (2022).\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 876 - This act creates the \"Department of Transportation Fiber Network Expansion Act\", which provides that the Missouri Highways and Transportation Commission may enter into public-private partnerships with private broadband internet service providers to expand and develop the Department of Transportation's fiber network. The Commission shall prioritize expansion and development under the act in unserved areas and underserved areas, as defined by law.\r\n\r\n\tThe Commission shall use a competitive procurement process to form the public-private partnerships, including publishing notice as specified in the act. The Commission shall ensure that at least 25% of the workforce fulfilling the contracts awarded under this act belongs to a racial minority group. As part of a contract award under the act, the private partnering entity may use the excess fiber capacity to provide internet services, as long as the services provided meet the state minimum standard for broadband.\r\n\r\n\tThis act is identical to HB 2220 (2026), SB 307 (2025), SB 1323 (2024), HB 2388 (2024), SB 219 (2023), and HB 1037 (2023), similar to HB 1396 (2025) and provisions in HCS/HB 461 (2023), and identical to SB 1199 (2022) and HB 2908 (2022).\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Enacts provisions relating to the Department of Transportation's fiber network"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb876"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Cancelled S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mosley, Angela",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Mosley, Angela\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3816S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB876.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=672",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3816S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

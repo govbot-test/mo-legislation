@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1519",
+  "title": "SB 1519 - This act establishes the Respiratory Care Interstate Compact (\"Compact\"), which allows for the interstate practice of respiratory therapy. The Compact sets forth the requirements to be met in order for a state to join and maintain membership in the Compact. Additionally, the Compact provides the requirements for a respiratory therapist to obtain and exercise the ability to practice in the remote participating states.\r\n\r\n\tThe compact privilege of a licensee shall be valid until the expiration or revocation of the home state license. The Compact further provides that a respiratory therapist with compact privilege shall function within the scope of practice of the remote participating state. Respiratory therapists shall also be subject to that remote state's regulatory authority, which has the authority to impose adverse action on licenses issued by that state. A member state may also participate with other member states in joint investigations of a licensee. Participating states shall report licensure data along with any adverse action and significant investigative information to the data system established in the Compact. \r\n\r\n\tAdditionally, the Compact creates the Respiratory Care Interstate Compact Commission (\"Commission\"), which is a joint government agency of member states with the power to administer and implement the Compact. Each participating state shall be entitled to one commissioner, who shall be selected by the state's licensing authority for respiratory therapists and shall be an administrator or staff member of such authority. The Commission shall meet at least once a year. Additionally, there shall be an Executive Committee, composed of nine members, to act on behalf of the Commission, including on day-to-day activities related to the administration of the Compact. The Commission may levy and collect an annual assessment from each member state and impose fees on licensees to whom it grants compact privileges to cover the costs of the operations and activities of the Commission and its staff. \r\n\r\n\tMember states and commissioners, officers, executive directors, employees, and agents of the Commission shall be immune from liability, both personally and in their official capacity, for any claim for damages arising out of any acts or omissions that occurred within the scope of the Commission's  employment, duties, or responsibilities, except for those damages caused by intentional or willful or wanton misconduct. The procurement of insurance by the Commission shall not limit such immunity. For any actions by or against the Commission, venue is proper in a court of competent jurisdiction where the principal office of the Commission is located.\r\n\r\n\tFurthermore, the Compact shall come into effect on the date in which the seventh state enacts the Compact into law. Any participating state may withdraw from the Compact by repealing the Compact, but such withdrawal shall not take effect until 180 days after the enactment of the repeal. If a state defaults in the performance of its obligations or responsibilities under the Compact or its rules, the Commission, after notifying state officials and upon a majority vote of the Commission, may terminate membership of the defaulting state. \r\n\r\n\tFinally, the Compact shall be binding upon participating states and shall supersede any conflict with state law.\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1519 - This act establishes the Respiratory Care Interstate Compact (\"Compact\"), which allows for the interstate practice of respiratory therapy. The Compact sets forth the requirements to be met in order for a state to join and maintain membership in the Compact. Additionally, the Compact provides the requirements for a respiratory therapist to obtain and exercise the ability to practice in the remote participating states.\r\n\r\n\tThe compact privilege of a licensee shall be valid until the expiration or revocation of the home state license. The Compact further provides that a respiratory therapist with compact privilege shall function within the scope of practice of the remote participating state. Respiratory therapists shall also be subject to that remote state's regulatory authority, which has the authority to impose adverse action on licenses issued by that state. A member state may also participate with other member states in joint investigations of a licensee. Participating states shall report licensure data along with any adverse action and significant investigative information to the data system established in the Compact. \r\n\r\n\tAdditionally, the Compact creates the Respiratory Care Interstate Compact Commission (\"Commission\"), which is a joint government agency of member states with the power to administer and implement the Compact. Each participating state shall be entitled to one commissioner, who shall be selected by the state's licensing authority for respiratory therapists and shall be an administrator or staff member of such authority. The Commission shall meet at least once a year. Additionally, there shall be an Executive Committee, composed of nine members, to act on behalf of the Commission, including on day-to-day activities related to the administration of the Compact. The Commission may levy and collect an annual assessment from each member state and impose fees on licensees to whom it grants compact privileges to cover the costs of the operations and activities of the Commission and its staff. \r\n\r\n\tMember states and commissioners, officers, executive directors, employees, and agents of the Commission shall be immune from liability, both personally and in their official capacity, for any claim for damages arising out of any acts or omissions that occurred within the scope of the Commission's  employment, duties, or responsibilities, except for those damages caused by intentional or willful or wanton misconduct. The procurement of insurance by the Commission shall not limit such immunity. For any actions by or against the Commission, venue is proper in a court of competent jurisdiction where the principal office of the Commission is located.\r\n\r\n\tFurthermore, the Compact shall come into effect on the date in which the seventh state enacts the Compact into law. Any participating state may withdraw from the Compact by repealing the Compact, but such withdrawal shall not take effect until 180 days after the enactment of the repeal. If a state defaults in the performance of its obligations or responsibilities under the Compact or its rules, the Commission, after notifying state officials and upon a majority vote of the Commission, may terminate membership of the defaulting state. \r\n\r\n\tFinally, the Compact shall be binding upon participating states and shall supersede any conflict with state law.\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the Respiratory Care Interstate Compact"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1519"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Conducted S Emerging Issues and Professional Registration Committee",
+      "date": "2026-04-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Emerging Issues and Professional Registration Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lewis, Patty",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Lewis, Patty\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5905S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1519.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=104726",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5905S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

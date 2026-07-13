@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SJR 115",
+  "title": "SJR 115 - This constitutional amendment, if approved by the voters, modifies provisions relating to taxation.\r\n\r\nINCOME TAX\r\n\tThis amendment provides that, if all revenue triggers established by the General Assembly for the elimination of the individual income tax are met such that the top rate of tax is reduced below 1.4%, then for any tax year beginning on or after the later of January 1, 2031, or January 1 of the year in which the top rate of tax is reduced below 1.4%, no individual income tax shall be imposed by the state, provided that this provision shall not apply to any earnings tax imposed by a political subdivision or to the income tax imposed on the income of trusts, estates, or fiduciaries thereof, corporations, partnerships, limited liability companies, or any other entity other than real persons.\r\n\r\nSALES AND USE TAX\r\n\tThis amendment authorizes the General Assembly to expand the sales and use tax base to include the ability to tax any goods and services. Beginning January 1, 2029, any county, city, town, or village imposing a sales or use tax at a rate greater than 1%, and any other political subdivision imposing a sales and use tax at a rate greater than 0.5% shall annually adjust one or more of several tax levies imposed by such political subdivision for the purpose of offsetting any additional revenue received from the expansion of the sales and use tax base. The levies that shall be adjusted are the sales and use tax rate, personal property tax levy, residential real property tax levy, or earnings tax rate. Notwithstanding such provision, no adjustment made pursuant to this provision shall result in a reduction in funding to the public schools within or serving such political subdivision.\r\n\r\n\tBeginning January 1, 2029, each constitutionally-imposed sales and use tax rate shall be adjusted in a manner provided by law in order to produce substantially the same amount of revenue as the median annual revenue that such tax produced for the three fiscal years ending prior to the preceding calendar year, as adjusted for inflation. The State Auditor shall determine any such adjustments.\r\n\r\n\tAny tax or revenue increase resulting from any general law enacted by the General Assembly for the purpose of eliminating the individual income tax, provided that such general law is enacted within three years of the effective date of this amendment, shall be exempt from Hancock limitations and from constitutional provisions relating to motor fuel tax.\r\n\r\n\tThe Director of Revenue may promulgate rules for the purpose of clarifying and prohibiting the circumvention of the expansion of the sales and use tax base, as well as to define any terms left undefined by general law.\r\n\r\n\tThis amendment is substantially similar to SS/SCS/HCS/HJRs 173 & 174 (2026).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SJR 115 - This constitutional amendment, if approved by the voters, modifies provisions relating to taxation.\r\n\r\nINCOME TAX\r\n\tThis amendment provides that, if all revenue triggers established by the General Assembly for the elimination of the individual income tax are met such that the top rate of tax is reduced below 1.4%, then for any tax year beginning on or after the later of January 1, 2031, or January 1 of the year in which the top rate of tax is reduced below 1.4%, no individual income tax shall be imposed by the state, provided that this provision shall not apply to any earnings tax imposed by a political subdivision or to the income tax imposed on the income of trusts, estates, or fiduciaries thereof, corporations, partnerships, limited liability companies, or any other entity other than real persons.\r\n\r\nSALES AND USE TAX\r\n\tThis amendment authorizes the General Assembly to expand the sales and use tax base to include the ability to tax any goods and services. Beginning January 1, 2029, any county, city, town, or village imposing a sales or use tax at a rate greater than 1%, and any other political subdivision imposing a sales and use tax at a rate greater than 0.5% shall annually adjust one or more of several tax levies imposed by such political subdivision for the purpose of offsetting any additional revenue received from the expansion of the sales and use tax base. The levies that shall be adjusted are the sales and use tax rate, personal property tax levy, residential real property tax levy, or earnings tax rate. Notwithstanding such provision, no adjustment made pursuant to this provision shall result in a reduction in funding to the public schools within or serving such political subdivision.\r\n\r\n\tBeginning January 1, 2029, each constitutionally-imposed sales and use tax rate shall be adjusted in a manner provided by law in order to produce substantially the same amount of revenue as the median annual revenue that such tax produced for the three fiscal years ending prior to the preceding calendar year, as adjusted for inflation. The State Auditor shall determine any such adjustments.\r\n\r\n\tAny tax or revenue increase resulting from any general law enacted by the General Assembly for the purpose of eliminating the individual income tax, provided that such general law is enacted within three years of the effective date of this amendment, shall be exempt from Hancock limitations and from constitutional provisions relating to motor fuel tax.\r\n\r\n\tThe Director of Revenue may promulgate rules for the purpose of clarifying and prohibiting the circumvention of the expansion of the sales and use tax base, as well as to define any terms left undefined by general law.\r\n\r\n\tThis amendment is substantially similar to SS/SCS/HCS/HJRs 173 & 174 (2026).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to taxation"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sjr115"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Economic and Workforce Development Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Trent, Curtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Trent, Curtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6750S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR115.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=1840970",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6750S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

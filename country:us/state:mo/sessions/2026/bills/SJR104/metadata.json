@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SJR 104",
+  "title": "SJR 104 - This constitutional amendment, if approved by the voters, modifies the powers of the State Treasurer. Specifically, the State Treasurer is permitted to invest certain state moneys in obligations of the United States government or any agency or instrumentality thereof maturing and becoming payable not more than seven years from the date of purchase, rather than five years as is the case currently.\r\n\r\n\tThe amendment additionally authorizes the State Treasurer to invest in:\t\u2022\tMunicipal securities possessing one of the five highest long term ratings or the highest short term rating issued by a nationally recognized rating agency and maturing and becoming payable not more than five years from the date of purchase; and\r\n\t\u2022\tOther reasonable and prudent financial instruments and securities as otherwise provided by law.\r\n\r\n\tThis constitutional amendment is identical to the truly agreed to HCS/HJR 35 (2021) and substantially similar to HJR 159 (2026).\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SJR 104 - This constitutional amendment, if approved by the voters, modifies the powers of the State Treasurer. Specifically, the State Treasurer is permitted to invest certain state moneys in obligations of the United States government or any agency or instrumentality thereof maturing and becoming payable not more than seven years from the date of purchase, rather than five years as is the case currently.\r\n\r\n\tThe amendment additionally authorizes the State Treasurer to invest in:\t\u2022\tMunicipal securities possessing one of the five highest long term ratings or the highest short term rating issued by a nationally recognized rating agency and maturing and becoming payable not more than five years from the date of purchase; and\r\n\t\u2022\tOther reasonable and prudent financial instruments and securities as otherwise provided by law.\r\n\r\n\tThis constitutional amendment is identical to the truly agreed to HCS/HJR 35 (2021) and substantially similar to HJR 159 (2026).\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies authority of the state treasurer"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sjr104"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Insurance and Banking Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Crawford, Sandy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Crawford, Sandy\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5559S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR104.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=2457",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5559S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

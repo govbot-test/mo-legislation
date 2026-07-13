@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1571",
+  "title": "SB 1571 - Under this act, the MO Healthnet program and health benefit plans shall include coverage for orthotic, prosthetic, and assistive devices, supplies, and services furnished under an order by a prescribing physician or licensed health care provider, including those customized to the enrollee's daily living needs and essential job-related activities, including wheelchairs.  This coverage shall include repair and replacement, which may be subject to prior authorization, and any denial of coverage shall contain specified language regarding enrollee rights, as described in the act.  \r\n\r\n\tMO Healthnet managed care plans and health benefit plans shall ensure access to medically necessary clinical care and to prosthetic, custom orthotic, and assistive devices and technology from at least two providers in the plan's provider network in this state or refer the participant to an out-of-network provider and fully reimburse the out-of-network provider at a mutually agreed-upon rate less participant cost sharing determined on an in-network basis.\r\n\r\n\tA health benefit plan may limit the benefits for, or alter the financial requirements for, out-of-network coverage of orthotic, prosthetic, and assistive devices, but the restrictions and requirements shall not be more restrictive than the out-of-network financial requirements that apply to other out-of-network coverage for basic health care services provided under the health benefit plan.  Coverage shall not be subject to any limitations for preexisting conditions.\r\n\r\n\tBefore October 1, 2027, each health carrier that issues a health benefit plan providing coverage required under this act shall report to the Director of the Department of Commerce and Insurance certain claims data regarding coverage under this act.  The Director shall aggregate the data and submit a report to the General Assembly before December 1, 2027.\r\n\r\n\tThe provisions of this act shall apply to a Medicare supplement policy.\r\n\r\n\tThis act is substantially similar to HB 2034 (2026).\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1571 - Under this act, the MO Healthnet program and health benefit plans shall include coverage for orthotic, prosthetic, and assistive devices, supplies, and services furnished under an order by a prescribing physician or licensed health care provider, including those customized to the enrollee's daily living needs and essential job-related activities, including wheelchairs.  This coverage shall include repair and replacement, which may be subject to prior authorization, and any denial of coverage shall contain specified language regarding enrollee rights, as described in the act.  \r\n\r\n\tMO Healthnet managed care plans and health benefit plans shall ensure access to medically necessary clinical care and to prosthetic, custom orthotic, and assistive devices and technology from at least two providers in the plan's provider network in this state or refer the participant to an out-of-network provider and fully reimburse the out-of-network provider at a mutually agreed-upon rate less participant cost sharing determined on an in-network basis.\r\n\r\n\tA health benefit plan may limit the benefits for, or alter the financial requirements for, out-of-network coverage of orthotic, prosthetic, and assistive devices, but the restrictions and requirements shall not be more restrictive than the out-of-network financial requirements that apply to other out-of-network coverage for basic health care services provided under the health benefit plan.  Coverage shall not be subject to any limitations for preexisting conditions.\r\n\r\n\tBefore October 1, 2027, each health carrier that issues a health benefit plan providing coverage required under this act shall report to the Director of the Department of Commerce and Insurance certain claims data regarding coverage under this act.  The Director shall aggregate the data and submit a report to the General Assembly before December 1, 2027.\r\n\r\n\tThe provisions of this act shall apply to a Medicare supplement policy.\r\n\r\n\tThis act is substantially similar to HB 2034 (2026).\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to insurance coverage of orthotic, prosthetic, and assistive devices"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1571"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-20T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lewis, Patty",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Lewis, Patty\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6296S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1571.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=1584506",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6296S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

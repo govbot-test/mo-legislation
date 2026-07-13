@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1051",
+  "title": "SB 1051 - This act requires all public schools, school districts, and public institutions of postsecondary education to treat discrimination motivated by antisemitism, as such term is defined in the act, in an identical manner to racially motivated discrimination.  Schools and institutions shall include antisemitism-related conduct and penalties in their codes of conduct for students, faculty, and employees, as provided in the act, and shall prohibit behaviors that disrupt normal educational activity or create fear or intimidation. \r\n\r\n\tCriticism of Israel comparable to that of other countries shall not be considered antisemitism.  The act shall not be construed to infringe on First Amendment rights or conflict with existing discrimination laws. \r\n\r\n\tThe act further provides that no public school or public institution of postsecondary education shall discriminate because of race, ethnicity, national origin, sex, disability, religion, or marital status in any program, admission, class, or service, including counseling and financial aid.  While specialized programs, such as programs for gifted or disabled students, are allowed, equal access shall otherwise be maintained.\r\n\r\n\tTo ensure compliance, each educational institution shall report incidents and complaints of antisemitism to the appropriate Title VI coordinator at either the Department of Elementary and Secondary Education (DESE) or the Department of Higher Education and Workforce Development (DHEWD).  If an educational institution fails to resolve issues within 30 days after being notified, the coordinator may escalate the matter to federal authorities.  An annual report of these activities shall be submitted to the General Assembly by July 1 each year. \r\n\r\n\tThis act is similar to SS/HB 2061 (2026), HB 2393 (2026),  HB 746 (2025), and provisions in HCS/SS/SB 38 (2025) and in HCS/HB 937 (2025).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1051 - This act requires all public schools, school districts, and public institutions of postsecondary education to treat discrimination motivated by antisemitism, as such term is defined in the act, in an identical manner to racially motivated discrimination.  Schools and institutions shall include antisemitism-related conduct and penalties in their codes of conduct for students, faculty, and employees, as provided in the act, and shall prohibit behaviors that disrupt normal educational activity or create fear or intimidation. \r\n\r\n\tCriticism of Israel comparable to that of other countries shall not be considered antisemitism.  The act shall not be construed to infringe on First Amendment rights or conflict with existing discrimination laws. \r\n\r\n\tThe act further provides that no public school or public institution of postsecondary education shall discriminate because of race, ethnicity, national origin, sex, disability, religion, or marital status in any program, admission, class, or service, including counseling and financial aid.  While specialized programs, such as programs for gifted or disabled students, are allowed, equal access shall otherwise be maintained.\r\n\r\n\tTo ensure compliance, each educational institution shall report incidents and complaints of antisemitism to the appropriate Title VI coordinator at either the Department of Elementary and Secondary Education (DESE) or the Department of Higher Education and Workforce Development (DHEWD).  If an educational institution fails to resolve issues within 30 days after being notified, the coordinator may escalate the matter to federal authorities.  An annual report of these activities shall be submitted to the General Assembly by July 1 each year. \r\n\r\n\tThis act is similar to SS/HB 2061 (2026), HB 2393 (2026),  HB 746 (2025), and provisions in HCS/SS/SB 38 (2025) and in HCS/HB 937 (2025).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to protections against discrimination in educational settings"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1051"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S Education Committee",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Education Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Trent, Curtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Trent, Curtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5611S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1051.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=281",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5611S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

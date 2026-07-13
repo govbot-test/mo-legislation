@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 886",
+  "title": "SB 886 - This act establishes the \"Keep Our Schools Safe Act\" and creates and modifies provisions relating to school safety.\r\n\r\n\tFor all tax years beginning on or after January 1, 2026, this act authorizes a tax credit for teachers, administrative personnel, and athletic coaches at public, private, and charter schools to purchase a firearm or pay for an eligible firearms safety course.  No taxpayer may claim a tax credit in excess of $150, and the total amount of tax credits allocated in any tax year shall not exceed $500,000.  The Department of Public Safety (DPS) shall establish criteria defining an eligible course and shall post such criteria, along with a list of eligible courses, on the DPS website, as well as submitting this information to the Department of Revenue.  (Section 135.1300)\t\r\n\r\n\tThe act creates the \"Keep Our Schools Safe Act\" relating to school protection officers and firearm safety training for students.  Currently, a school district may designate a teacher or school administrator a school protection officer. This act requires each public school, charter school, and private school to designate a school protection officer to be present at all times when children are on the school campus, as provided in the act.  In addition to teachers and administrators, a school may also designate a retired law enforcement officer or retired member of the Armed Forces of the United States to serve as a volunteer school protection officer.  A school protection officer shall carry a concealed firearm and a self-defense spray device.  Any volunteer school protection officer who violates provisions of law regarding concealed firearms and self-defense spray may be subject to removal from the building and dismissal as a volunteer.  Any teacher or administrator who violates such provisions may additionally be subject to employment termination proceedings.  Before an individual is designated a school protection officer, a school shall conduct a public hearing regarding such appointment, as provided in current law.\r\n\r\n\tEach school shall ensure that all students enrolled in prekindergarten through grade eight participate in a mandatory, annual Eddie Eagle Gunsafe training course on firearm safety provided by the National Rifle Association.  (Section 160.665)\r\n\r\n\tThis act similar to SB 399 (2023), HCS/HB 1961 (2020), and provisions in HCS/SS#2/SCS/SB 523 (2020), HCS/SS/SB 600 (2020), and in HCS/SB 774 (2020).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 886 - This act establishes the \"Keep Our Schools Safe Act\" and creates and modifies provisions relating to school safety.\r\n\r\n\tFor all tax years beginning on or after January 1, 2026, this act authorizes a tax credit for teachers, administrative personnel, and athletic coaches at public, private, and charter schools to purchase a firearm or pay for an eligible firearms safety course.  No taxpayer may claim a tax credit in excess of $150, and the total amount of tax credits allocated in any tax year shall not exceed $500,000.  The Department of Public Safety (DPS) shall establish criteria defining an eligible course and shall post such criteria, along with a list of eligible courses, on the DPS website, as well as submitting this information to the Department of Revenue.  (Section 135.1300)\t\r\n\r\n\tThe act creates the \"Keep Our Schools Safe Act\" relating to school protection officers and firearm safety training for students.  Currently, a school district may designate a teacher or school administrator a school protection officer. This act requires each public school, charter school, and private school to designate a school protection officer to be present at all times when children are on the school campus, as provided in the act.  In addition to teachers and administrators, a school may also designate a retired law enforcement officer or retired member of the Armed Forces of the United States to serve as a volunteer school protection officer.  A school protection officer shall carry a concealed firearm and a self-defense spray device.  Any volunteer school protection officer who violates provisions of law regarding concealed firearms and self-defense spray may be subject to removal from the building and dismissal as a volunteer.  Any teacher or administrator who violates such provisions may additionally be subject to employment termination proceedings.  Before an individual is designated a school protection officer, a school shall conduct a public hearing regarding such appointment, as provided in current law.\r\n\r\n\tEach school shall ensure that all students enrolled in prekindergarten through grade eight participate in a mandatory, annual Eddie Eagle Gunsafe training course on firearm safety provided by the National Rifle Association.  (Section 160.665)\r\n\r\n\tThis act similar to SB 399 (2023), HCS/HB 1961 (2020), and provisions in HCS/SS#2/SCS/SB 523 (2020), HCS/SS/SB 600 (2020), and in HCS/SB 774 (2020).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates the \"Keep Our Schools Safe Act\" regarding school safety"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb886"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Cancelled S Education Committee",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4449S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB886.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=324",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4449S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

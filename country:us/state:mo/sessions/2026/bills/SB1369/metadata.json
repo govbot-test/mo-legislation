@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1369",
+  "title": "SB 1369 - This act specifies that motorcycle operators may overtake and pass vehicles in the same lane occupied by the vehicle being overtaken, or between the lanes of two vehicles being overtaken, so long as the motorcycle is traveling at a speed of not more than 10 miles per hour over the speed of traffic and not more than 25 miles per hour total.\r\n\r\n\tAny motor vehicle operator intentionally impeding motorcycles from being operated as authorized in this act shall be guilty of an infraction.\r\n\r\n\tThe Highway Patrol may develop educational guidelines relating to lane filtering in a manner that would ensure the safety of the motorcycle operator and the occupants of surrounding vehicles.\r\n\r\n\tThis act is substantially similar to HB 705 (2025), HB 2032 (2024), and HB 1046 (2023).\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1369 - This act specifies that motorcycle operators may overtake and pass vehicles in the same lane occupied by the vehicle being overtaken, or between the lanes of two vehicles being overtaken, so long as the motorcycle is traveling at a speed of not more than 10 miles per hour over the speed of traffic and not more than 25 miles per hour total.\r\n\r\n\tAny motor vehicle operator intentionally impeding motorcycles from being operated as authorized in this act shall be guilty of an infraction.\r\n\r\n\tThe Highway Patrol may develop educational guidelines relating to lane filtering in a manner that would ensure the safety of the motorcycle operator and the occupants of surrounding vehicles.\r\n\r\n\tThis act is substantially similar to HB 705 (2025), HB 2032 (2024), and HB 1046 (2023).\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Enacts provisions relating to motorcycle operation"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1369"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nicola, Joe",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nicola, Joe\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3840S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1369.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=172",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3840S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

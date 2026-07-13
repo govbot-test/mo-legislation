@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 915",
+  "title": "SB 915 - This act establishes the \"Delivery Network Company Insurance Act\".\r\n\r\n\tThis act provides that a delivery network company (DNC) shall ensure that, during the delivery availability period and delivery service period, as such terms are defined in the act, primary motor vehicle insurance is in effect that recognizes that the operator of the motor vehicle is a DNC driver or does not exclude coverage for use of a personal vehicle to provide deliveries.\r\n\r\n\tDuring the delivery service period and delivery availability period, the DNC driver or company, or a combination of the two, shall maintain motor vehicle liability insurance coverage that insures the driver for liability to third parties of not less than $50,000 for damages arising out of bodily injury sustained by one person, $100,000 for damages arising out of bodily injury sustained by all persons, and $25,000 for all damages arising out of damage to or destruction of property in an accident.\r\n\r\n\tIf the insurance required by this act has lapsed or does not provide adequate coverage, the insurance coverage maintained by the DNC shall provide such coverage beginning with the first dollar of a claim, and shall provided that the insurer has the duty to defend the claim.\r\n\r\n\tIn the event of an accident, a DNC driver shall provide insurance coverage information directly to interested parties, insurers, and investigating law enforcement officers, and shall disclose to such persons whether the DNC driver was operating during the delivery availability period or delivery service period at the time of the accident.\r\n\r\n\tAn insurer providing coverage required by the act shall assume primary liability for a claim when a dispute exists as to when the delivery availability period or delivery service period began or ended, and when the DNC does not have available, did not retain, or fails to provide information required by the act.\r\n\r\n\tA DNC shall not be deemed to control, direct, or manage a personal vehicle or DNC driver who connects to the DNC's digital network unless agreed to by written contract.\r\n\r\n\tAn insurer may exclude coverage and deny the duty to defend or indemnify for a claim of injury or loss that occurs during the delivery availability period and delivery service period.\r\n\r\n\tThis act shall become effective on October 1, 2027.\r\n\r\n\tThis act is substantially similar to HB 1789 (2026).\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 915 - This act establishes the \"Delivery Network Company Insurance Act\".\r\n\r\n\tThis act provides that a delivery network company (DNC) shall ensure that, during the delivery availability period and delivery service period, as such terms are defined in the act, primary motor vehicle insurance is in effect that recognizes that the operator of the motor vehicle is a DNC driver or does not exclude coverage for use of a personal vehicle to provide deliveries.\r\n\r\n\tDuring the delivery service period and delivery availability period, the DNC driver or company, or a combination of the two, shall maintain motor vehicle liability insurance coverage that insures the driver for liability to third parties of not less than $50,000 for damages arising out of bodily injury sustained by one person, $100,000 for damages arising out of bodily injury sustained by all persons, and $25,000 for all damages arising out of damage to or destruction of property in an accident.\r\n\r\n\tIf the insurance required by this act has lapsed or does not provide adequate coverage, the insurance coverage maintained by the DNC shall provide such coverage beginning with the first dollar of a claim, and shall provided that the insurer has the duty to defend the claim.\r\n\r\n\tIn the event of an accident, a DNC driver shall provide insurance coverage information directly to interested parties, insurers, and investigating law enforcement officers, and shall disclose to such persons whether the DNC driver was operating during the delivery availability period or delivery service period at the time of the accident.\r\n\r\n\tAn insurer providing coverage required by the act shall assume primary liability for a claim when a dispute exists as to when the delivery availability period or delivery service period began or ended, and when the DNC does not have available, did not retain, or fails to provide information required by the act.\r\n\r\n\tA DNC shall not be deemed to control, direct, or manage a personal vehicle or DNC driver who connects to the DNC's digital network unless agreed to by written contract.\r\n\r\n\tAn insurer may exclude coverage and deny the duty to defend or indemnify for a claim of injury or loss that occurs during the delivery availability period and delivery service period.\r\n\r\n\tThis act shall become effective on October 1, 2027.\r\n\r\n\tThis act is substantially similar to HB 1789 (2026).\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to insurance coverage for certain delivery network companies"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb915"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Conducted S Insurance and Banking Committee",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Insurance and Banking Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gregory (21), Kurtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Gregory (21), Kurtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5614S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB915.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=543",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5614S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

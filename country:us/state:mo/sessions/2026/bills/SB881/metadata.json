@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 881",
+  "title": "SB 881 - This act provides that no foreign principal or an agent of a foreign principal, as defined in the act, shall engage in litigation funding in this state. Additionally, no foreign principal or agent shall invest in, finance, fund, or loan money to a Missouri litigation funder, as defined in the act. A person engaged in litigation funding may not become affiliated with or maintain an affiliation with a foreign principal or an agent thereof. Additionally, such person may not allow a foreign principal or agent to invest in, maintain an ownership interest in, or exercise any control over a litigation funding agreement or litigation funded through such an agreement. Any person who willfully and knowingly violates these provisions shall be guilty of a class E felony.\r\n\r\n\tThis act additionally provides that litigation funder shall have a fiduciary duty to a party in a civil action if it has provided litigation funding for that civil action and may not engage in any act, practice, or course of business that is inconsistent with such fiduciary duty. A litigation funder shall be jointly liable for any award or order imposing costs or monetary sanctions against a funded party or the attorney thereof arising from or relating to the funded civil action. \r\n\r\n\tFurthermore, a violation of this act shall be deemed an unlawful merchandising practice and subject to the penalties, remedies, and procedures under the Missouri Merchandising Practices Act. The Attorney General may institute a legal action to prohibit a person who violates this act from providing litigation funding in Missouri. A litigation funding agreement entered into in violation of this act shall be void and unenforceable.\r\n\r\n\tThis act is substantially similar to the perfected HB 3205 (2026).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 881 - This act provides that no foreign principal or an agent of a foreign principal, as defined in the act, shall engage in litigation funding in this state. Additionally, no foreign principal or agent shall invest in, finance, fund, or loan money to a Missouri litigation funder, as defined in the act. A person engaged in litigation funding may not become affiliated with or maintain an affiliation with a foreign principal or an agent thereof. Additionally, such person may not allow a foreign principal or agent to invest in, maintain an ownership interest in, or exercise any control over a litigation funding agreement or litigation funded through such an agreement. Any person who willfully and knowingly violates these provisions shall be guilty of a class E felony.\r\n\r\n\tThis act additionally provides that litigation funder shall have a fiduciary duty to a party in a civil action if it has provided litigation funding for that civil action and may not engage in any act, practice, or course of business that is inconsistent with such fiduciary duty. A litigation funder shall be jointly liable for any award or order imposing costs or monetary sanctions against a funded party or the attorney thereof arising from or relating to the funded civil action. \r\n\r\n\tFurthermore, a violation of this act shall be deemed an unlawful merchandising practice and subject to the penalties, remedies, and procedures under the Missouri Merchandising Practices Act. The Attorney General may institute a legal action to prohibit a person who violates this act from providing litigation funding in Missouri. A litigation funding agreement entered into in violation of this act shall be void and unenforceable.\r\n\r\n\tThis act is substantially similar to the perfected HB 3205 (2026).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes provisions relating to the funding of legal actions, including foreign funding and litigation funding agreements"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb881"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S General Laws Committee",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S General Laws Committee",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Trent, Curtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Trent, Curtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5808S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB881.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=539",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5808S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1587",
+  "title": "SB 1587 - Currently, Franklin County, located in the 20th Judicial District, has three associate circuit judges per the statutory formula. This act provides for an additional associate circuit judge for Franklin County to be appointed by the Governor until January 1, 2029, and elected thereafter.\r\n\r\n\tThis act is identical to a provision in SCS/HB 1625 (2026) and is substantially similar to a provision in HCS/SB 945 (2026), in HCS/SB 1067 (2206), HB 2386 (2026), and in HCS/HBs 2968, 2427 & 3086 (2026).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1587 - Currently, Franklin County, located in the 20th Judicial District, has three associate circuit judges per the statutory formula. This act provides for an additional associate circuit judge for Franklin County to be appointed by the Governor until January 1, 2029, and elected thereafter.\r\n\r\n\tThis act is identical to a provision in SCS/HB 1625 (2026) and is substantially similar to a provision in HCS/SB 945 (2026), in HCS/SB 1067 (2206), HB 2386 (2026), and in HCS/HBs 2968, 2427 & 3086 (2026).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Increases the number of associate circuit judges in Franklin County in the 20th Judicial District"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1587"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-03-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brown (26), Ben",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brown (26), Ben\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6755S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1587.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=1839003",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6755S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

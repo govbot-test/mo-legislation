@@ -1,0 +1,128 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1476",
+  "title": "SB 1476 - This act defines \"adult cabaret performance\" in regards to provisions relating to restrictions on sexually oriented businesses.  Additionally, this act creates the offense of engaging in an adult cabaret performance if such performance is on public property or in a location where the performance could be viewed by a person who is not an adult.  Such offense shall be a class A misdemeanor for the first offense and a class E felony for any subsequent offense. \r\n\r\n\tThis act is identical to SB 764 (2025), HB 722 (2025), HB 1650 (2024), HB 1849 (2024), HB 2300 (2024), and HCS/HBs 494 & 498 (2023), and contains provisions identical to SB 295 (2025), SB 949 (2024), and SB 693 (2023).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1476 - This act defines \"adult cabaret performance\" in regards to provisions relating to restrictions on sexually oriented businesses.  Additionally, this act creates the offense of engaging in an adult cabaret performance if such performance is on public property or in a location where the performance could be viewed by a person who is not an adult.  Such offense shall be a class A misdemeanor for the first offense and a class E felony for any subsequent offense. \r\n\r\n\tThis act is identical to SB 764 (2025), HB 722 (2025), HB 1650 (2024), HB 1849 (2024), HB 2300 (2024), and HCS/HBs 494 & 498 (2023), and contains provisions identical to SB 295 (2025), SB 949 (2024), and SB 693 (2023).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes provisions relating to adult cabaret performances, including the offense of engaging in an adult cabaret performance"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1476"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Bill Combined w/(SCS SBs 1164 & 1476)",
+      "date": "2026-04-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nicola, Joe",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nicola, Joe\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6066S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1476.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=52372",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6066S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

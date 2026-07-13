@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1565",
+  "title": "SB 1565 - Currently, for products liability claims, a defendant may plead and prove the fault of the plaintiff as an affirmative defense. This act provides that the defendant may plead and prove the fault of the plaintiff or any other person or entity as an affirmative defense in any products liability claim, including strict liability claims. Furthermore, any fault chargeable to any other person or entity, in addition to the plaintiff, shall diminish proportionately an award of compensatory damages but shall not bar recovery.\r\n\r\n\tThis act repeals the current limited circumstances of which fault of the plaintiff may consist of and provides that fault instead shall mean any actionable breach of legal duty or act or omission proximately causing or contributing to cause in any way the accident or harm for which recovery of damages is sought.\r\n\r\n\tFinally, this act provides that liability of each defendant in a products liability claim is several and is not joint. Thus, each defendant shall be liable only for the amount of damages allocated to that defendant in direct proportion to that defendant's percentage of fault. In assessing percentages of fault, the trier of fact shall consider the fault of all persons or entities who contributed to the accident or harm, regardless of whether such persons or entities were named as parties to the suit. The relative degree of fault of the plaintiff, defendants, and nonparties shall be determined and apportioned as a whole at one time by the trier of fact.\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1565 - Currently, for products liability claims, a defendant may plead and prove the fault of the plaintiff as an affirmative defense. This act provides that the defendant may plead and prove the fault of the plaintiff or any other person or entity as an affirmative defense in any products liability claim, including strict liability claims. Furthermore, any fault chargeable to any other person or entity, in addition to the plaintiff, shall diminish proportionately an award of compensatory damages but shall not bar recovery.\r\n\r\n\tThis act repeals the current limited circumstances of which fault of the plaintiff may consist of and provides that fault instead shall mean any actionable breach of legal duty or act or omission proximately causing or contributing to cause in any way the accident or harm for which recovery of damages is sought.\r\n\r\n\tFinally, this act provides that liability of each defendant in a products liability claim is several and is not joint. Thus, each defendant shall be liable only for the amount of damages allocated to that defendant in direct proportion to that defendant's percentage of fault. In assessing percentages of fault, the trier of fact shall consider the fault of all persons or entities who contributed to the accident or harm, regardless of whether such persons or entities were named as parties to the suit. The relative degree of fault of the plaintiff, defendants, and nonparties shall be determined and apportioned as a whole at one time by the trier of fact.\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to determinations of fault in products liability claims"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1565"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fitzwater, Travis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Fitzwater, Travis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6776S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1565.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=992592",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6776S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

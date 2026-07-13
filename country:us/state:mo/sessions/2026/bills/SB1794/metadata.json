@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1794",
+  "title": "SB 1794 - This act modifies several provisions relating to long-term care facilities.  Under current law, a certificate of need is not required for transfer of ownership of an existing and operational health facility in its entirety.  This act requires a certificate of need for any such transfer of an assisted living, intermediate care, residential, or skilled nursing facility.\r\n\r\n\tThis act modifies requirements for licensure of long-term care facilities by requiring applications to disclose all facility owners, trustees, and companies that provide the facility or operator with administrative, clinical, and financial services, including real estate investment trusts.\r\n\r\n\tFinally, this act requires assisted living facilities to maintain, on a 24-hour basis, registered nurses on site providing care for a specified amount of time per day, as well as certified nursing assistants providing care for a specified amount of time per day.  The facilities shall submit information to the Centers for Medicare and Medicaid Services (CMS) according to federal regulations.  The Department of Health and Senior Services may impose appropriate sanctions and penalties on a facility administrator who fails to meet the minimum staffing standards two quarters in a row.\r\n\r\n\tAn assisted living facility may be exempted from these minimum staffing requirements if a verifiable hardship exists, such as an insufficient workforce supply in the area, an inability to recruit and retain appropriate personnel, and documentation of the amount of financial resources that the facility expends on nurse staffing relative to revenue.  A facility that has been cited for insufficient staffing resulting in actual harm, as described in the act, in the prior twelve months or that has failed to submit required data to CMS shall not be eligible for an exemption under this provision.\r\n\r\n\tFinally, the assisted facility shall designate a registered professional nurse as the director of nursing on a full-time basis and designate a registered professional nurse to serve as a charge nurse for each nursing shift.\r\n\r\n\tThis act is identical to SB 733 (2025) and HB 789 (2025).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1794 - This act modifies several provisions relating to long-term care facilities.  Under current law, a certificate of need is not required for transfer of ownership of an existing and operational health facility in its entirety.  This act requires a certificate of need for any such transfer of an assisted living, intermediate care, residential, or skilled nursing facility.\r\n\r\n\tThis act modifies requirements for licensure of long-term care facilities by requiring applications to disclose all facility owners, trustees, and companies that provide the facility or operator with administrative, clinical, and financial services, including real estate investment trusts.\r\n\r\n\tFinally, this act requires assisted living facilities to maintain, on a 24-hour basis, registered nurses on site providing care for a specified amount of time per day, as well as certified nursing assistants providing care for a specified amount of time per day.  The facilities shall submit information to the Centers for Medicare and Medicaid Services (CMS) according to federal regulations.  The Department of Health and Senior Services may impose appropriate sanctions and penalties on a facility administrator who fails to meet the minimum staffing standards two quarters in a row.\r\n\r\n\tAn assisted living facility may be exempted from these minimum staffing requirements if a verifiable hardship exists, such as an insufficient workforce supply in the area, an inability to recruit and retain appropriate personnel, and documentation of the amount of financial resources that the facility expends on nurse staffing relative to revenue.  A facility that has been cited for insufficient staffing resulting in actual harm, as described in the act, in the prior twelve months or that has failed to submit required data to CMS shall not be eligible for an exemption under this provision.\r\n\r\n\tFinally, the assisted facility shall designate a registered professional nurse as the director of nursing on a full-time basis and designate a registered professional nurse to serve as a charge nurse for each nursing shift.\r\n\r\n\tThis act is identical to SB 733 (2025) and HB 789 (2025).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to long-term care facilities"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1794"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Webber, Stephen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Webber, Stephen\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7211S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1794.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6618188",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7211S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

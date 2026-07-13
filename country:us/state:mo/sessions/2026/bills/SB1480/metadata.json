@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1480",
+  "title": "SB 1480 - This act establishes the \"Missouri Sports Franchise Responsibility Act\".\r\n\r\n\tThis act provides that any lessee of a public facility that is leased for the lessee's exclusive or primary use may be liable for a proportionate share of the reasonable costs of demolition or substantial reconstruction of such public facility if, upon termination or expiration of the lease, the public facility is left in a condition that is not reasonably adaptable or usable for another lawful public or commercial use without demolition or substantial reconstruction. Liability shall apply only to the extent that the condition is attributable to the lessee's exclusive-use configuration of the public facility or to improvements installed, constructed, or financed by or on behalf of the lessee, including tenant-specific improvements financed in whole or in part with public funds.\r\n\r\n\tA lessee's liability, if any, shall be limited to a proportionate share of the reasonable and necessary costs of demolition or substantial reconstruction that are directly attributable to such exclusive-use configuration or lessee-installed improvements and shall not include costs attributable solely to general obsolescence, ordinary wear and tear, changes in market demand, or redevelopment decisions unrelated to the lessee's use of the public facility. A lessee's proportionate share of the reasonable and necessary costs of demolition or substantial reconstruction shall not exceed 1% of the reasonable and necessary costs of demolition or substantial reconstruction for each year the lessee has leased the public facility.\r\n\r\n\tUpon the request of a governing body, as defined in the act, the Department of Economic Development shall, based on substantial evidence and any independent expert analysis it deems necessary, determine whether the public facility is reasonably adaptable or usable without demolition or substantial reconstruction; identify whether the condition of the public facility is attributable to the lessee's exclusive-use configuration, lessee-installed improvements, or publicly funded lessee-specific improvements; determine reasonable costs attributable to the conditions; and allocate a proportional share of costs to the lessee.\r\n\r\n\tWithin thirty days of the Department's determination, a lessee may appeal such determination to the Administrative Hearing Commission, as described in the act.\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1480 - This act establishes the \"Missouri Sports Franchise Responsibility Act\".\r\n\r\n\tThis act provides that any lessee of a public facility that is leased for the lessee's exclusive or primary use may be liable for a proportionate share of the reasonable costs of demolition or substantial reconstruction of such public facility if, upon termination or expiration of the lease, the public facility is left in a condition that is not reasonably adaptable or usable for another lawful public or commercial use without demolition or substantial reconstruction. Liability shall apply only to the extent that the condition is attributable to the lessee's exclusive-use configuration of the public facility or to improvements installed, constructed, or financed by or on behalf of the lessee, including tenant-specific improvements financed in whole or in part with public funds.\r\n\r\n\tA lessee's liability, if any, shall be limited to a proportionate share of the reasonable and necessary costs of demolition or substantial reconstruction that are directly attributable to such exclusive-use configuration or lessee-installed improvements and shall not include costs attributable solely to general obsolescence, ordinary wear and tear, changes in market demand, or redevelopment decisions unrelated to the lessee's use of the public facility. A lessee's proportionate share of the reasonable and necessary costs of demolition or substantial reconstruction shall not exceed 1% of the reasonable and necessary costs of demolition or substantial reconstruction for each year the lessee has leased the public facility.\r\n\r\n\tUpon the request of a governing body, as defined in the act, the Department of Economic Development shall, based on substantial evidence and any independent expert analysis it deems necessary, determine whether the public facility is reasonably adaptable or usable without demolition or substantial reconstruction; identify whether the condition of the public facility is attributable to the lessee's exclusive-use configuration, lessee-installed improvements, or publicly funded lessee-specific improvements; determine reasonable costs attributable to the conditions; and allocate a proportional share of costs to the lessee.\r\n\r\n\tWithin thirty days of the Department's determination, a lessee may appeal such determination to the Administrative Hearing Commission, as described in the act.\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to public facilities"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1480"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-30T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brattin, Rick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brattin, Rick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6419S.03I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1480.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=54388",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6419S.03I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

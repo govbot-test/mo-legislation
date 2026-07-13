@@ -1,0 +1,23 @@
+{
+  "identifier": "",
+  "motion_text": "Truly Agreed To and Finally Passed - AYES: 30 NOES: 2 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-06T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "c85274cc-754a-11f1-b24a-b6ae219d7a94",
+  "bill_action": null,
+  "bill_identifier": "HB 2005",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB2005&year=2026&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

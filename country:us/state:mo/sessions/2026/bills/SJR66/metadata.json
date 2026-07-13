@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SJR 66",
+  "title": "SJR 66 - This constitutional amendment, if approved by the voters, provides that the amount by which the tax liability actually owed on real property may increase over the tax liability owed on such property during the previous year may be limited by law. Any limits authorized pursuant to this amendment may include limits on the actual tax liability owed or limits on increases made to the assessed value of such property.\r\n\r\n\tThis constitutional amendment is identical to SJR 62 (2025), is substantially similar to SJR 39 (2022), SJR 12 (2021), HJR 13 (2021), SCS/SJRs 48, 41, & 43 (2020), HJR 85 (2020), and HJR 123 (2020), and is similar to HJR 81 (2020) and HJR 88 (2020).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SJR 66 - This constitutional amendment, if approved by the voters, provides that the amount by which the tax liability actually owed on real property may increase over the tax liability owed on such property during the previous year may be limited by law. Any limits authorized pursuant to this amendment may include limits on the actual tax liability owed or limits on increases made to the assessed value of such property.\r\n\r\n\tThis constitutional amendment is identical to SJR 62 (2025), is substantially similar to SJR 39 (2022), SJR 12 (2021), HJR 13 (2021), SCS/SJRs 48, 41, & 43 (2020), HJR 85 (2020), and HJR 123 (2020), and is similar to HJR 81 (2020) and HJR 88 (2020).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to property taxes"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sjr66"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Select Committee on Property Taxes and the State Tax Commission Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Cierpiot, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Cierpiot, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3846S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR66.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=78",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3846S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 885",
+  "title": "SB 885 - This act modifies provisions relating to foreign ownership of agricultural land in Missouri.\r\n\r\n\tThis act modifies the definition of \"foreign business\" to include professional corporations, nonprofit corporations, limited liability companies, or the equivalent of any entity listed in the current law, in which a controlling interest is owned or organized under the laws of a foreign country, or both.\r\n\r\n\tCurrently, no more than 1% of the total agricultural acreage in the state shall be owned by a foreign entity.  \r\n\r\n\tUnder the act, beginning on the effective date of the act, no alien, foreign business, or a foreign government shall acquire agricultural land in the state. Any such foreign entity who acquired agricultural land in the state prior to the effective date of the act shall not transfer agricultural land to any other foreign entity on or after the effective date of the act.\r\n\r\n\tNo person may hold agricultural land as a fiduciary for a foreign government.\r\n\r\n\tA foreign entity that acquired agricultural land in violation of the provisions of the act remains in violation of the act for as long as the foreign entity holds an interest in the agricultural land.\r\n\r\n\tAfter the effective date of the act, all proposed transfers of any interest in agricultural land held by a foreign entity in the state shall be submitted to the Department of Agriculture at least 30 calendar days prior to such transfers being finalized to determine whether such transfers, or if land usage changes, are conveyed in accordance with the prohibition on foreign ownership of agricultural land in the state.  Such sale or transfer submitted for review to the Department shall be deemed a closed record until such sale is finalized.\r\n\r\n\tIf the Director of the Department of Agriculture finds that a foreign entity has acquired agricultural land after the effective date of the act, instead of pursuant to the provisions under current law, the Director shall report such violation to the Attorney General.\r\n\r\n\tThis act creates a definition of \"nonfarming\" with respect to the current provisions regarding foreign-owned agricultural land being used for nonfarming purposes.\r\n\r\n\tAdditionally, beginning on the effective date of this act, no foreign adversary, as defined in the act, shall own agricultural land in the state for nonfarming purposes, which includes research purposes.\r\n\r\n\tThis act has an emergency clause.\r\n\r\n\tThis act is similar to 1153 (2026), identical to SCS/SB 217 (2025), and similar to provisions in SB 250 (2025), HB 725 (2025), SB 806 (2024), provisions in SB 865 (2024), a provision in HCS/HB 1957 (2024), CCS/SS/SCS/HCS/HBs 903, 465, 430 & 499 (2023), SCS/SBs 332, 334, SB 541 & SB 144 (2023).\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 885 - This act modifies provisions relating to foreign ownership of agricultural land in Missouri.\r\n\r\n\tThis act modifies the definition of \"foreign business\" to include professional corporations, nonprofit corporations, limited liability companies, or the equivalent of any entity listed in the current law, in which a controlling interest is owned or organized under the laws of a foreign country, or both.\r\n\r\n\tCurrently, no more than 1% of the total agricultural acreage in the state shall be owned by a foreign entity.  \r\n\r\n\tUnder the act, beginning on the effective date of the act, no alien, foreign business, or a foreign government shall acquire agricultural land in the state. Any such foreign entity who acquired agricultural land in the state prior to the effective date of the act shall not transfer agricultural land to any other foreign entity on or after the effective date of the act.\r\n\r\n\tNo person may hold agricultural land as a fiduciary for a foreign government.\r\n\r\n\tA foreign entity that acquired agricultural land in violation of the provisions of the act remains in violation of the act for as long as the foreign entity holds an interest in the agricultural land.\r\n\r\n\tAfter the effective date of the act, all proposed transfers of any interest in agricultural land held by a foreign entity in the state shall be submitted to the Department of Agriculture at least 30 calendar days prior to such transfers being finalized to determine whether such transfers, or if land usage changes, are conveyed in accordance with the prohibition on foreign ownership of agricultural land in the state.  Such sale or transfer submitted for review to the Department shall be deemed a closed record until such sale is finalized.\r\n\r\n\tIf the Director of the Department of Agriculture finds that a foreign entity has acquired agricultural land after the effective date of the act, instead of pursuant to the provisions under current law, the Director shall report such violation to the Attorney General.\r\n\r\n\tThis act creates a definition of \"nonfarming\" with respect to the current provisions regarding foreign-owned agricultural land being used for nonfarming purposes.\r\n\r\n\tAdditionally, beginning on the effective date of this act, no foreign adversary, as defined in the act, shall own agricultural land in the state for nonfarming purposes, which includes research purposes.\r\n\r\n\tThis act has an emergency clause.\r\n\r\n\tThis act is similar to 1153 (2026), identical to SCS/SB 217 (2025), and similar to provisions in SB 250 (2025), HB 725 (2025), SB 806 (2024), provisions in SB 865 (2024), a provision in HCS/HB 1957 (2024), CCS/SS/SCS/HCS/HBs 903, 465, 430 & 499 (2023), SCS/SBs 332, 334, SB 541 & SB 144 (2023).\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to foreign ownership of agricultural land"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb885"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Black, Rusty",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Black, Rusty\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5526S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB885.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=373",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5526S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

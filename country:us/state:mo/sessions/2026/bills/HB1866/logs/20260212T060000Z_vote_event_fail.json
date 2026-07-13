@@ -1,0 +1,23 @@
+{
+  "identifier": "",
+  "motion_text": "Third Read and Passed (H) - AYES: 101 NOES: 36 PRESENT: 9",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-12T06:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "75fc123c-754a-11f1-b24a-b6ae219d7a94",
+  "bill_action": null,
+  "bill_identifier": "HB 1866",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB1866&year=2026&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

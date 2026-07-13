@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1360",
+  "title": "SB 1360 - This act establishes the \"Civil Liability for Employers Hiring Ex-Offenders Act\" which provides that a cause of action shall not be brought against an employer, general contractor, premises owner, or other third party for hiring an employee or independent contractor who has been convicted of an offense, excluding certain violent and sexual offenses listed in the act.\r\n\r\n\tIn an action for negligent hiring against an employer, general contractor, premises owner, or other third party for acts of an employee or independent contractor that is based on a theory of liability not covered by this act, the fact that the employee or independent contractor was convicted of a nonviolent, nonsexual offense before the employee or independent contractor's employment or contractual obligation with the employer, general contractor, premises owner, or other third party shall be inadmissible as evidence.\r\n\r\n\tThis act shall not preclude any existing cause of action for failure of an employer to provide adequate supervision of an employee or independent contractor, except that the conviction of a nonviolent, nonsexual offense may be admissible as evidence in such action if the employer:\r\n\t(1)\tKnew of the conviction or was grossly negligent in the failure to know of the conviction; and\r\n\t(2)\tThe conviction was directly related to the nature of the employee's or independent contractor's work and the conduct that gave rise to the alleged injury that is basis of the action.\r\n\r\n\tThe protections of this act provided to an employer, general contractor, premises owner, or third party do not apply in an action concerning:\r\n\t(1)\tThe misuse of funds or property of a person other than the employer, general contractor, premises owner, or third party by an employee or independent contractor, if, on the date the employee or independent contractor was hired, the employee or independent contractor had been convicted of an offense that includes fraud or the misuse of funds or property as an element, and it was foreseeable that the position for which the employee or independent contractor was hired would involve the discharge of a fiduciary responsibility in the management of the funds or property;\r\n\t(2)\tThe misappropriation of funds by an employee or independent contractor if the employee or independent contractor was hired as an attorney and, if on the date of hiring, the employee or independent contractor had been convicted of a crime that includes fraud or the misuse of funds or property as an element; or\r\n\t(3)\tA violent offense or an improper use of excessive force by an employee or independent contractor hired to serve as a law enforcement officer or security guard.\r\n\r\n\tThe provisions of this act shall not be interpreted as implying a cause of action exists for negligent hiring of an individual convicted of an offense in situations not covered by this section.\r\n\r\n\tThis act is identical to SB 443 (2025), SB 1110 (2024), and SB 352 (2023) and is similar to HB 1087 (2025), HB 1969 (2024), HCS/HB 2064 (2024), and HB 720 (2023).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1360 - This act establishes the \"Civil Liability for Employers Hiring Ex-Offenders Act\" which provides that a cause of action shall not be brought against an employer, general contractor, premises owner, or other third party for hiring an employee or independent contractor who has been convicted of an offense, excluding certain violent and sexual offenses listed in the act.\r\n\r\n\tIn an action for negligent hiring against an employer, general contractor, premises owner, or other third party for acts of an employee or independent contractor that is based on a theory of liability not covered by this act, the fact that the employee or independent contractor was convicted of a nonviolent, nonsexual offense before the employee or independent contractor's employment or contractual obligation with the employer, general contractor, premises owner, or other third party shall be inadmissible as evidence.\r\n\r\n\tThis act shall not preclude any existing cause of action for failure of an employer to provide adequate supervision of an employee or independent contractor, except that the conviction of a nonviolent, nonsexual offense may be admissible as evidence in such action if the employer:\r\n\t(1)\tKnew of the conviction or was grossly negligent in the failure to know of the conviction; and\r\n\t(2)\tThe conviction was directly related to the nature of the employee's or independent contractor's work and the conduct that gave rise to the alleged injury that is basis of the action.\r\n\r\n\tThe protections of this act provided to an employer, general contractor, premises owner, or third party do not apply in an action concerning:\r\n\t(1)\tThe misuse of funds or property of a person other than the employer, general contractor, premises owner, or third party by an employee or independent contractor, if, on the date the employee or independent contractor was hired, the employee or independent contractor had been convicted of an offense that includes fraud or the misuse of funds or property as an element, and it was foreseeable that the position for which the employee or independent contractor was hired would involve the discharge of a fiduciary responsibility in the management of the funds or property;\r\n\t(2)\tThe misappropriation of funds by an employee or independent contractor if the employee or independent contractor was hired as an attorney and, if on the date of hiring, the employee or independent contractor had been convicted of a crime that includes fraud or the misuse of funds or property as an element; or\r\n\t(3)\tA violent offense or an improper use of excessive force by an employee or independent contractor hired to serve as a law enforcement officer or security guard.\r\n\r\n\tThe provisions of this act shall not be interpreted as implying a cause of action exists for negligent hiring of an individual convicted of an offense in situations not covered by this section.\r\n\r\n\tThis act is identical to SB 443 (2025), SB 1110 (2024), and SB 352 (2023) and is similar to HB 1087 (2025), HB 1969 (2024), HCS/HB 2064 (2024), and HB 720 (2023).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the Civil Liability for Employers Hiring Ex-Offenders Act, which provides liability protections for employers hiring those convicted of certain offenses"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1360"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Trent, Curtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Trent, Curtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5003S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1360.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=153",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5003S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

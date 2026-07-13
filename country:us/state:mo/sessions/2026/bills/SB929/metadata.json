@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 929",
+  "title": "SB 929 - Under this act, current law requiring certain health benefit plans to provide coverage for contraceptives lasting up to 90 days, or 180 days for generic self-administered hormonal contraceptives, shall no longer be in effect after December 31, 2026.  Instead, certain health benefit plans issued or renewed on or after January 1, 2027, shall be required to cover a supply of self-administered hormonal contraceptives, including brand-name and generic contraceptives, intended to last up to one year.\r\n\r\n\tThis act is substantially similar to provisions in the truly agreed to and finally passed SS/SCS/HCS/HB 2372 (2026), the truly agreed to and finally passed CCS/SS/HCS/HB 2596 (2026), and HB 2370 (2026), and similar to a provision in SCS/SB 178 (2025), HCS/SS/SB 7 (2025), HCS/SB 94 (2025), the perfected HCS/HB 2413 (2024), SB 821 (2024), and SB 1321 (2024).\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 929 - Under this act, current law requiring certain health benefit plans to provide coverage for contraceptives lasting up to 90 days, or 180 days for generic self-administered hormonal contraceptives, shall no longer be in effect after December 31, 2026.  Instead, certain health benefit plans issued or renewed on or after January 1, 2027, shall be required to cover a supply of self-administered hormonal contraceptives, including brand-name and generic contraceptives, intended to last up to one year.\r\n\r\n\tThis act is substantially similar to provisions in the truly agreed to and finally passed SS/SCS/HCS/HB 2372 (2026), the truly agreed to and finally passed CCS/SS/HCS/HB 2596 (2026), and HB 2370 (2026), and similar to a provision in SCS/SB 178 (2025), HCS/SS/SB 7 (2025), HCS/SB 94 (2025), the perfected HCS/HB 2413 (2024), SB 821 (2024), and SB 1321 (2024).\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Enacts provisions relating to insurance coverage of self-administered hormonal contraceptives"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb929"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Insurance and Banking Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lewis, Patty",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Lewis, Patty\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4575S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB929.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=560",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4575S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

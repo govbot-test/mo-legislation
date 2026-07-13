@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1214",
+  "title": "SB 1214 - This act modifies provisions relating to unlawful possession of firearms.\r\n\r\nADULT AND CHILD PROTECTION ORDERS (Section 455.050 and 455.523)\r\n\tThis act provides that after a hearing for any full order of protection in which an order of protection is granted, the court shall also prohibit the respondent from knowingly possessing or purchasing any firearm while the order is in effect, inform the respondent either in writing or orally, and forward the order to the State Highway Patrol for enforcement.\r\n\r\n\tThese provisions are identical to provisions in SB 91 (2025), substantially similar to provisions in SB 328 (2025), similar to provisions in HB 904 (2025), and substantially similar to provisions in SB 913 (2024), SB 431 (2023), SB 59 (2023), SB 305 (2023), SB 894 (2022), HB 1655 (2022).\r\n\r\nRECORDS SENT TO STATE HIGHWAY PATROL (Sections 565.076 and 565.227)\r\n\tThis act provides that upon conviction for the offenses of domestic assault in the fourth degree and stalking in the second degree, the court shall forward the record of conviction to the State Highway Patrol. The State Highway Patrol shall update the offender's record in the National Instant Criminal Background Check System and also notify the Federal Bureau of Investigation within 24 hours.\r\n\r\n\tThese provisions are identical to provisions in SB 91 (2025), and substantially similar to provisions in SB 328 (2025), HB 904 (2025), SB 913 (2024), SB 431 (2023), SB 59 (2023), SB 305 (2023), SB 894 (2022), and HB 1655 (2022).\r\n\r\nUNLAWFUL POSSESSION OF A FIREARM (Section 571.070)\r\n\tThis act provides that a person commits the offense of unlawful possession of a firearm if the person knowingly possesses a firearm and has been convicted of a misdemeanor offense of domestic violence in Missouri or any other state or is subject to an order of protection that was issued after a hearing in which the person had actual notice and had the opportunity to participate in such hearing. This act also adds that it shall be a violation of this act if the person possesses an antique firearm and the person was convicted of a felony offense of domestic violence.\r\n\r\n\tThese provisions are identical to provisions in SB 91 (2025), and substantially similar to provisions in SB 328 (2025) and HB 904 (2025), SB 913 (2024), SB 431 (2023), SB 59 (2023), SB 305 (2023), SB 894 (2022), and HB 1655 (2022).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1214 - This act modifies provisions relating to unlawful possession of firearms.\r\n\r\nADULT AND CHILD PROTECTION ORDERS (Section 455.050 and 455.523)\r\n\tThis act provides that after a hearing for any full order of protection in which an order of protection is granted, the court shall also prohibit the respondent from knowingly possessing or purchasing any firearm while the order is in effect, inform the respondent either in writing or orally, and forward the order to the State Highway Patrol for enforcement.\r\n\r\n\tThese provisions are identical to provisions in SB 91 (2025), substantially similar to provisions in SB 328 (2025), similar to provisions in HB 904 (2025), and substantially similar to provisions in SB 913 (2024), SB 431 (2023), SB 59 (2023), SB 305 (2023), SB 894 (2022), HB 1655 (2022).\r\n\r\nRECORDS SENT TO STATE HIGHWAY PATROL (Sections 565.076 and 565.227)\r\n\tThis act provides that upon conviction for the offenses of domestic assault in the fourth degree and stalking in the second degree, the court shall forward the record of conviction to the State Highway Patrol. The State Highway Patrol shall update the offender's record in the National Instant Criminal Background Check System and also notify the Federal Bureau of Investigation within 24 hours.\r\n\r\n\tThese provisions are identical to provisions in SB 91 (2025), and substantially similar to provisions in SB 328 (2025), HB 904 (2025), SB 913 (2024), SB 431 (2023), SB 59 (2023), SB 305 (2023), SB 894 (2022), and HB 1655 (2022).\r\n\r\nUNLAWFUL POSSESSION OF A FIREARM (Section 571.070)\r\n\tThis act provides that a person commits the offense of unlawful possession of a firearm if the person knowingly possesses a firearm and has been convicted of a misdemeanor offense of domestic violence in Missouri or any other state or is subject to an order of protection that was issued after a hearing in which the person had actual notice and had the opportunity to participate in such hearing. This act also adds that it shall be a violation of this act if the person possesses an antique firearm and the person was convicted of a felony offense of domestic violence.\r\n\r\n\tThese provisions are identical to provisions in SB 91 (2025), and substantially similar to provisions in SB 328 (2025) and HB 904 (2025), SB 913 (2024), SB 431 (2023), SB 59 (2023), SB 305 (2023), SB 894 (2022), and HB 1655 (2022).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to unlawful possession of firearms"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1214"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nurrenbern, Maggie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nurrenbern, Maggie\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3849S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1214.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=531",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3849S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

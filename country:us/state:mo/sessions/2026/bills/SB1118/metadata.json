@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1118",
+  "title": "SB 1118 - This act modifies provisions relating to personal property assessments.\r\n\r\nPERSONAL PROPERTY NEW CONSTRUCTION\r\n\tFor the purposes of calculating the amount of assessed valuation of personal property, current law provides that the definition of new construction and improvements is the aggregate increase in valuation of personal property for the current year over that of the previous year.  This act provides that, beginning January 1, 2028, new construction and improvements shall not include increases in the aggregate assessed valuation of personal property. (Section 137.073)\r\n\r\n\tThis provision is substantially similar to SB 409 (2023) and HB 754 (2023).\r\n\r\nPERSONAL PROPERTY ASSESSMENT RATE\r\n\tCurrent law requires personal property to be assessed at 33.3% of its true value in money.  This act reduces such assessment rate to 30%. (Section 137.115.1)\r\n\r\n\tThis act is substantially similar to SB 264 (2025).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1118 - This act modifies provisions relating to personal property assessments.\r\n\r\nPERSONAL PROPERTY NEW CONSTRUCTION\r\n\tFor the purposes of calculating the amount of assessed valuation of personal property, current law provides that the definition of new construction and improvements is the aggregate increase in valuation of personal property for the current year over that of the previous year.  This act provides that, beginning January 1, 2028, new construction and improvements shall not include increases in the aggregate assessed valuation of personal property. (Section 137.073)\r\n\r\n\tThis provision is substantially similar to SB 409 (2023) and HB 754 (2023).\r\n\r\nPERSONAL PROPERTY ASSESSMENT RATE\r\n\tCurrent law requires personal property to be assessed at 33.3% of its true value in money.  This act reduces such assessment rate to 30%. (Section 137.115.1)\r\n\r\n\tThis act is substantially similar to SB 264 (2025).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to personal property assessments"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1118"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fitzwater, Travis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Fitzwater, Travis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4503S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1118.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=137",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4503S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

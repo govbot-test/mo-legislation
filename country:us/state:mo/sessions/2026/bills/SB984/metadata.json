@@ -1,0 +1,308 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 984",
+  "title": "SS/SCS/SBs 984 & 968 - This act modifies provisions relating to pharmacy benefit managers.\r\n\r\n\tThis act adds definitions for the terms \"audit\" and \"entity\" for the purposes of audits of licensed pharmacies. Current law requires a one week notice for any on-site audit. This act increases such notice to fourteen days and requires the notice to specify specific prescriptions to be audited. A pharmacy shall have the right to submit amended claims within thirty days of the discovery of an error. Audits shall be limited to forty unique  prescriptions, with a maximum of two hundred separately adjudicated claims, that are randomly selected, and the act provides that recoupment shall only occur following the correction of a claim, as described in the act. No audit shall occur during the first five business days, rather than the first three, of any month. An entity shall not perform more than two audits of a pharmacy in a calendar year, unless fraud is suspected. (Section 338.600)\r\n\r\n\tThis act modifies the definitions of \"health carrier\" and \"pharmacy benefits manager\" and adds definitions for \"contracted pharmacy\", \"pharmacy benefits manager affiliate\", for the purposes of regulating costs charged to covered persons for prescription drugs. Additionally, PBMs are prohibited from including a provision in a contract that requires payment for a prescription drug that exceeds the lesser of either the copayment amount or the amount the person would pay if they paid in cash. This act provides that the price shall also not exceed the contracted rate the pharmacy would be reimbursed for the drug. (Section 376.387)\r\n\r\n\tThis act modifies several definitions and adds new definitions for the purpose of regulating contracts between pharmacy benefits managers and pharmacies. The act also adds several provisions relating to contracts between PBMs and pharmacies, including providing plan sponsors with pharmacy claims data, submitting documentation of any benefit design that encourages or requires the use of affiliated pharmacies, and authorizing the Department of Commerce and Insurance to conduct audits of PBMs. (Section 376.387)\r\n\r\n\tThis act requires the Department of Commerce and Insurance to establish a critical access care pharmacy program to ensure the sustainability of critical access care pharmacies in the state. (Section 376.394)\r\n\r\n\tFinally, this act requires health benefit plans to comply with the federal H.R. 7148, the Consolidated Appropriations Act, by September 1, 2028. The Department of Commerce and Insurance have the authority to enforce this act. (Section 376.399)\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SS/SCS/SBs 984 & 968 - This act modifies provisions relating to pharmacy benefit managers.\r\n\r\n\tThis act adds definitions for the terms \"audit\" and \"entity\" for the purposes of audits of licensed pharmacies. Current law requires a one week notice for any on-site audit. This act increases such notice to fourteen days and requires the notice to specify specific prescriptions to be audited. A pharmacy shall have the right to submit amended claims within thirty days of the discovery of an error. Audits shall be limited to forty unique  prescriptions, with a maximum of two hundred separately adjudicated claims, that are randomly selected, and the act provides that recoupment shall only occur following the correction of a claim, as described in the act. No audit shall occur during the first five business days, rather than the first three, of any month. An entity shall not perform more than two audits of a pharmacy in a calendar year, unless fraud is suspected. (Section 338.600)\r\n\r\n\tThis act modifies the definitions of \"health carrier\" and \"pharmacy benefits manager\" and adds definitions for \"contracted pharmacy\", \"pharmacy benefits manager affiliate\", for the purposes of regulating costs charged to covered persons for prescription drugs. Additionally, PBMs are prohibited from including a provision in a contract that requires payment for a prescription drug that exceeds the lesser of either the copayment amount or the amount the person would pay if they paid in cash. This act provides that the price shall also not exceed the contracted rate the pharmacy would be reimbursed for the drug. (Section 376.387)\r\n\r\n\tThis act modifies several definitions and adds new definitions for the purpose of regulating contracts between pharmacy benefits managers and pharmacies. The act also adds several provisions relating to contracts between PBMs and pharmacies, including providing plan sponsors with pharmacy claims data, submitting documentation of any benefit design that encourages or requires the use of affiliated pharmacies, and authorizing the Department of Commerce and Insurance to conduct audits of PBMs. (Section 376.387)\r\n\r\n\tThis act requires the Department of Commerce and Insurance to establish a critical access care pharmacy program to ensure the sustainability of critical access care pharmacies in the state. (Section 376.394)\r\n\r\n\tFinally, this act requires health benefit plans to comply with the federal H.R. 7148, the Consolidated Appropriations Act, by September 1, 2028. The Department of Commerce and Insurance have the authority to enforce this act. (Section 376.399)\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to pharmacy benefit managers"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb984"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Informal Calendar S Bills for Perfection",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "SA 5 to SS for SCS S offered & adopted (Nurrenbern)--(5297S17.18S)",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "SA 4 to SS for SCS S offered & defeated (Gregory-15)--(5297S17.09S)",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "SA 3 to SS for SCS S offered & defeated (McCreery)--( 5297S17.05S)",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "SA 2 to SS for SCS S offered & adopted (Coleman)--(5297S17.20S)",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "SA 1 to SS for SCS S offered & defeated (Gregory-21)--(5297S17.08S)",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "SS for SCS S offered (Carter)--(5297S.17F)",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-04-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Reported from S Families, Seniors and Health Committee w/SCS",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass w/SCS SBs 984 & 968 Families, Seniors and Health Committee (5297S.07C)",
+      "date": "2026-03-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Families, Seniors and Health Committee",
+      "date": "2026-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Carter, Jill",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Carter, Jill\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5297S.07C - Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB984.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "5297S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB984.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4/20/2026 - SA 2 to SS for SCS S offered & adopted (Coleman)--(5297S17.20S)\r\n                    \r\n                        4/20/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=480",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4/20/2026 - SA 5 to SS for SCS S offered & adopted (Nurrenbern)--(5297S17.18S)\r\n                    \r\n                        4/20/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=486",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "4/20/2026 - SS for SCS S offered (Carter)--(5297S.17F)\r\n                    \r\n                        4/20/2026 - Offered",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=468",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4/20/2026 - SA 1 to SS for SCS S offered & defeated (Gregory-21)--(5297S17.08S)\r\n                    \r\n                        4/20/2026 - Defeated",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=475",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4/20/2026 - SA 3 to SS for SCS S offered & defeated (McCreery)--( 5297S17.05S)\r\n                    \r\n                        4/20/2026 - Defeated",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=481",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4/20/2026 - SA 4 to SS for SCS S offered & defeated (Gregory-15)--(5297S17.09S)\r\n                    \r\n                        4/20/2026 - Defeated",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=484",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=109",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5297S.07C"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

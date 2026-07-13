@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 861",
+  "title": "SB 861 - Under this act, and unless clearly and specifically stated otherwise, the term \"reproductive health care\", as used in the laws and regulations of this state, shall not be construed to include gender transition surgeries or the use of cross-sex hormones or puberty-blocking drugs for the purpose of gender transition for minor children or adults.\r\n\r\n\tThis provision is identical to SB 26 (2025), SB 1459 (2024), and HB 2830 (2024).\r\n\r\n\tCurrently, the prohibition on the prescription or administration of cross-sex hormones or puberty-blocking drugs for the purpose of a gender transition for persons under 18 years of age expires on August 28, 2027.  This act removes that expiration date.\r\n\r\n\tThis provision is identical to provisions in SB 26 (2025),  HCS#2/SS#2/SCS/SB 10 (2025), SB 249 (2025), SB 493 (2025), SB 1185 (2024), SB 726 (2024), and SB 776 (2024), substantially similar to SB 75 (2025), and similar to provisions in HCS/HBs 1520, 1519, 2355, and 2357 (2024).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 861 - Under this act, and unless clearly and specifically stated otherwise, the term \"reproductive health care\", as used in the laws and regulations of this state, shall not be construed to include gender transition surgeries or the use of cross-sex hormones or puberty-blocking drugs for the purpose of gender transition for minor children or adults.\r\n\r\n\tThis provision is identical to SB 26 (2025), SB 1459 (2024), and HB 2830 (2024).\r\n\r\n\tCurrently, the prohibition on the prescription or administration of cross-sex hormones or puberty-blocking drugs for the purpose of a gender transition for persons under 18 years of age expires on August 28, 2027.  This act removes that expiration date.\r\n\r\n\tThis provision is identical to provisions in SB 26 (2025),  HCS#2/SS#2/SCS/SB 10 (2025), SB 249 (2025), SB 493 (2025), SB 1185 (2024), SB 726 (2024), and SB 776 (2024), substantially similar to SB 75 (2025), and similar to provisions in HCS/HBs 1520, 1519, 2355, and 2357 (2024).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to gender transition"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb861"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S Families, Seniors and Health Committee",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Families, Seniors and Health Committee",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Moon, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Moon, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5129S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB861.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=380",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5129S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

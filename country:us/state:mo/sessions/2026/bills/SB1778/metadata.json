@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1778",
+  "title": "SB 1778 - This act establishes provisions relating to personal finance curriculum requirements for public school students.  \"Personal finance\" is defined as a course encompassing financial literacy and the current tools, resources, and disciplines necessary for success in the modern economy.  Instruction in financial literacy shall include certain topics specified in the act, such as earning income and understanding paychecks; budgeting and expense management; saving and long-term financial planning; banking and financial services; credit, loans, and interest; responsible credit card use; investing, retirement accounts, and compound interest; fraud prevention and financial safety; taxes and civic financial responsibilities; and the understanding of contracts and major purchases, including housing and automobiles.\r\n\r\n\tThe Department of Elementary and Secondary Education (DESE) shall convene a work group to develop and recommend academic performance standards for instruction in personal finance.  The work group shall include educators, a DESE representative, and up to two representatives from each of the following sectors: banking, entrepreneurship, nonprofit organizations focused on educating young professionals and entrepreneurs, investment, student loans, retirement planning, and insurance.  DESE shall determine the total membership of the work group, provided that not less than 25% of the members shall be educators who teach personal finance.\r\n\r\n\tThe State Board of Education shall adopt and implement academic performance standards relating to personal finance for the 2027\u201328 school year and all subsequent school years.  Such standards shall be reviewed every seven years to ensure they reflect current economic trends and best practices.  For the 2027\u201328 school year and all subsequent school years, each school district shall require every student, after completion of 9th grade, to complete one-half unit of credit in personal finance prior to receiving a high school diploma.  A school district may waive this requirement for a student transferring from outside Missouri upon receipt of documentation demonstrating the student's successful completion of a substantially similar course.  A school district may also permit a 9th grade student to complete the required credit upon the recommendation of a school counselor, as provided in the act.\r\n\r\n\tCertain provisions of state law relating to the development of academic performance standards shall not apply to this act.\r\n\r\n\tThis act is identical to HB 2867 (2026) and similar to HCS/HB 2303 (2026).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1778 - This act establishes provisions relating to personal finance curriculum requirements for public school students.  \"Personal finance\" is defined as a course encompassing financial literacy and the current tools, resources, and disciplines necessary for success in the modern economy.  Instruction in financial literacy shall include certain topics specified in the act, such as earning income and understanding paychecks; budgeting and expense management; saving and long-term financial planning; banking and financial services; credit, loans, and interest; responsible credit card use; investing, retirement accounts, and compound interest; fraud prevention and financial safety; taxes and civic financial responsibilities; and the understanding of contracts and major purchases, including housing and automobiles.\r\n\r\n\tThe Department of Elementary and Secondary Education (DESE) shall convene a work group to develop and recommend academic performance standards for instruction in personal finance.  The work group shall include educators, a DESE representative, and up to two representatives from each of the following sectors: banking, entrepreneurship, nonprofit organizations focused on educating young professionals and entrepreneurs, investment, student loans, retirement planning, and insurance.  DESE shall determine the total membership of the work group, provided that not less than 25% of the members shall be educators who teach personal finance.\r\n\r\n\tThe State Board of Education shall adopt and implement academic performance standards relating to personal finance for the 2027\u201328 school year and all subsequent school years.  Such standards shall be reviewed every seven years to ensure they reflect current economic trends and best practices.  For the 2027\u201328 school year and all subsequent school years, each school district shall require every student, after completion of 9th grade, to complete one-half unit of credit in personal finance prior to receiving a high school diploma.  A school district may waive this requirement for a student transferring from outside Missouri upon receipt of documentation demonstrating the student's successful completion of a substantially similar course.  A school district may also permit a 9th grade student to complete the required credit upon the recommendation of a school counselor, as provided in the act.\r\n\r\n\tCertain provisions of state law relating to the development of academic performance standards shall not apply to this act.\r\n\r\n\tThis act is identical to HB 2867 (2026) and similar to HCS/HB 2303 (2026).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes provisions relating to personal finance curriculum requirements for public school students"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1778"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mosley, Angela",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Mosley, Angela\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7357S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1778.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6616220",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7357S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

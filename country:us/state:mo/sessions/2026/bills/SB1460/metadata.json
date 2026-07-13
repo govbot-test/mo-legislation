@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1460",
+  "title": "SB 1460 - This act modifies provisions relating to towing.\r\n\r\nTOWING LIABILITY POLICY\r\n\tCurrent law requires motor vehicle liability policies to meet certain criteria. This act provides that any motor vehicle liability policy for a commercial motor vehicle with a gross vehicle rating of more than 26,000 pounds shall provide coverage for towing, winching, vehicle recovery, and emergency roadside labor in an amount of at least $100,000. (Section 303.190) \r\n\r\nRECOVERY OF TOWING COSTS\r\n\tCurrent law provides a mechanism for the owner of abandoned property that has been towed to file a petition in associate circuit court to determine if the abandoned property was wrongfully taken or withheld from its owner. This act applies such provision only to property for which the costs charged by the towing company do not exceed $15,000.\r\n\r\n\tFor towed abandoned property with a gross vehicle rating of more than 26,000 pounds and with costs charged by the towing company exceeding $15,000, the owner of such property may, within seven days after the receipt of notification from the towing company pursuant to current law, file a petition in a court of competent jurisdiction in the county where the abandoned property is stored if there is a dispute arising over costs charged by the towing company. The petition shall name the towing company among the defendants.\r\n\r\n\tUpon filing the petition, the property owner shall pay to the towing company fifty percent of all costs charged by the towing company as of the date of filing, and the remaining fifty percent of all costs shall be deposited with the court. If the court finds in favor of the towing company, the property owner shall pay the remainder of the costs to the towing company along with interest accrued from the date of filing.\r\n\r\n\tWithin five business days of depositing fifty percent of the costs charged by the towing company with the court, the property owner shall remove the truck, trailer, cargo, and any debris associated with such items from the premises of the towing company. Failure to remove such property shall result in the property owner forfeiting the moneys deposited with the court to the towing company. (Section 304.156)\r\n\r\n\tThis act is identical to HB 3447 (2026).\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1460 - This act modifies provisions relating to towing.\r\n\r\nTOWING LIABILITY POLICY\r\n\tCurrent law requires motor vehicle liability policies to meet certain criteria. This act provides that any motor vehicle liability policy for a commercial motor vehicle with a gross vehicle rating of more than 26,000 pounds shall provide coverage for towing, winching, vehicle recovery, and emergency roadside labor in an amount of at least $100,000. (Section 303.190) \r\n\r\nRECOVERY OF TOWING COSTS\r\n\tCurrent law provides a mechanism for the owner of abandoned property that has been towed to file a petition in associate circuit court to determine if the abandoned property was wrongfully taken or withheld from its owner. This act applies such provision only to property for which the costs charged by the towing company do not exceed $15,000.\r\n\r\n\tFor towed abandoned property with a gross vehicle rating of more than 26,000 pounds and with costs charged by the towing company exceeding $15,000, the owner of such property may, within seven days after the receipt of notification from the towing company pursuant to current law, file a petition in a court of competent jurisdiction in the county where the abandoned property is stored if there is a dispute arising over costs charged by the towing company. The petition shall name the towing company among the defendants.\r\n\r\n\tUpon filing the petition, the property owner shall pay to the towing company fifty percent of all costs charged by the towing company as of the date of filing, and the remaining fifty percent of all costs shall be deposited with the court. If the court finds in favor of the towing company, the property owner shall pay the remainder of the costs to the towing company along with interest accrued from the date of filing.\r\n\r\n\tWithin five business days of depositing fifty percent of the costs charged by the towing company with the court, the property owner shall remove the truck, trailer, cargo, and any debris associated with such items from the premises of the towing company. Failure to remove such property shall result in the property owner forfeiting the moneys deposited with the court to the towing company. (Section 304.156)\r\n\r\n\tThis act is identical to HB 3447 (2026).\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to towing"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1460"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schnelting, Adam",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schnelting, Adam\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5335S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1460.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=34628",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5335S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

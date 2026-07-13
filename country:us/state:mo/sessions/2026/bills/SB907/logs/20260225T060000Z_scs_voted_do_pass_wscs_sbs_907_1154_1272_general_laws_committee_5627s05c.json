@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "SCS Voted Do Pass w/SCS SBs 907, 1154 & 1272 General Laws Committee (5627S.05C)",
+    "occurred_at": "2026-02-25T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=286",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 907"
+}

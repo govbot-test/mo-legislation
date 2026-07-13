@@ -1,0 +1,168 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 856",
+  "title": "SB 856 - This act modifies provisions relating to the circuit court of Cole County, including its appellate district and venue for certain cases.\r\n\r\nAPPELLATE DISTRICT FOR COLE COUNTY (SECTION 477.050)\r\n\tThis act provides that Cole County shall be within the territorial jurisdiction of the Eastern District of the Missouri Court of Appeals, rather than within the Western District.\r\n\r\n\tThis provision is identical to a provision in HB 3054 (2026) and in SCS/HCS/HB 1259 (2025).\r\n\r\nVENUE FOR CONSTITUTIONAL CASES (SECTION 508.010)\r\n\tThis act provides that in all actions in which there is any count alleging a procedural defect in the enactment of a bill into law or the validity of a provision of the Missouri Constitution, a Missouri statute, or a Missouri regulation, the venue shall be in Cole County.\r\n\r\n\tThis provision is identical to a provision in HB 3054 (2026).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 856 - This act modifies provisions relating to the circuit court of Cole County, including its appellate district and venue for certain cases.\r\n\r\nAPPELLATE DISTRICT FOR COLE COUNTY (SECTION 477.050)\r\n\tThis act provides that Cole County shall be within the territorial jurisdiction of the Eastern District of the Missouri Court of Appeals, rather than within the Western District.\r\n\r\n\tThis provision is identical to a provision in HB 3054 (2026) and in SCS/HCS/HB 1259 (2025).\r\n\r\nVENUE FOR CONSTITUTIONAL CASES (SECTION 508.010)\r\n\tThis act provides that in all actions in which there is any count alleging a procedural defect in the enactment of a bill into law or the validity of a provision of the Missouri Constitution, a Missouri statute, or a Missouri regulation, the venue shall be in Cole County.\r\n\r\n\tThis provision is identical to a provision in HB 3054 (2026).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to the circuit court of Cole County, including its appellate district and venue for certain cases"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb856"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Informal Calendar S Bills for Perfection",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Reported from S General Laws Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S General Laws Committee",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S General Laws Committee",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brattin, Rick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brattin, Rick\\r\\n                                \"}",
+      "organization_id": null
+    },
+    {
+      "name": "Coleman, Mary Elizabeth",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Coleman, Mary Elizabeth\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4951S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB856.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=479",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4951S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

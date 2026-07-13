@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1436",
+  "title": "SB 1436 - The act provides that all covered buildings, as defined in the act, shall have at least one fuel gas alarm in each room containing a gas appliance in accordance with the fuel gas alarm manufacturer's instructions and safety standards, as described in the act.\r\n\r\n\tAll new covered buildings and covered buildings with major renovations within the last ten years shall include hardwired or battery-powered fuel gas alarms for enhanced safety. Single and multifamily dwellings shall have individual unit alarms installed in every room containing a gas appliance in accordance with safety standards, as described in the act.\r\n\r\n\tAll covered buildings shall comply with the requirements of the act on or before January 1, 2028. Compliance shall be verified during certificate of occupancy issuance for new buildings, rental license renewals, and fire safety inspections for existing buildings by the appropriate authority.\r\n\r\n\tA person who is not a licensed electrician may install a battery-powered or plug-in fuel gas alarm. Only a licensed electrician shall install a hardwired fuel gas alarm system.\r\n\r\n\tAfter January 1, 2027, any person who acquires a covered building shall install fuel gas alarms within 30 days of acquisition or occupancy, whichever is later, if such fuel gas alarms are not already present. A transfer of real property that includes a covered building shall include an affidavit of compliance, on a form provided by the Missouri Department of Public Safety, stating that fuel gas alarms are or will be installed, with the affidavit signed and dated by the buyer. Such fuel gas alarms shall be installed in accordance with the manufacturer's installation instructions and safety standards, as described in the act.\r\n\r\n\tThe act creates the \"State Fuel Gas Safety Assistance Fund\" consisting of moneys from gifts, donations, grants, and bequests from public or private sources. Moneys from the Fund shall be used by the Missouri Department of Public Safety for the purposes of providing free or subsidized fuel gas alarms to low-income households.\r\n\r\n\tThe Missouri Department of Public Safety shall enforce the provisions of the act. If the Department finds that a violation occurred, the Department shall ask the Attorney General to commence a civil action. If the court finds that a violation occurred, the court shall grant relief as described in the act.\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1436 - The act provides that all covered buildings, as defined in the act, shall have at least one fuel gas alarm in each room containing a gas appliance in accordance with the fuel gas alarm manufacturer's instructions and safety standards, as described in the act.\r\n\r\n\tAll new covered buildings and covered buildings with major renovations within the last ten years shall include hardwired or battery-powered fuel gas alarms for enhanced safety. Single and multifamily dwellings shall have individual unit alarms installed in every room containing a gas appliance in accordance with safety standards, as described in the act.\r\n\r\n\tAll covered buildings shall comply with the requirements of the act on or before January 1, 2028. Compliance shall be verified during certificate of occupancy issuance for new buildings, rental license renewals, and fire safety inspections for existing buildings by the appropriate authority.\r\n\r\n\tA person who is not a licensed electrician may install a battery-powered or plug-in fuel gas alarm. Only a licensed electrician shall install a hardwired fuel gas alarm system.\r\n\r\n\tAfter January 1, 2027, any person who acquires a covered building shall install fuel gas alarms within 30 days of acquisition or occupancy, whichever is later, if such fuel gas alarms are not already present. A transfer of real property that includes a covered building shall include an affidavit of compliance, on a form provided by the Missouri Department of Public Safety, stating that fuel gas alarms are or will be installed, with the affidavit signed and dated by the buyer. Such fuel gas alarms shall be installed in accordance with the manufacturer's installation instructions and safety standards, as described in the act.\r\n\r\n\tThe act creates the \"State Fuel Gas Safety Assistance Fund\" consisting of moneys from gifts, donations, grants, and bequests from public or private sources. Moneys from the Fund shall be used by the Missouri Department of Public Safety for the purposes of providing free or subsidized fuel gas alarms to low-income households.\r\n\r\n\tThe Missouri Department of Public Safety shall enforce the provisions of the act. If the Department finds that a violation occurred, the Department shall ask the Attorney General to commence a civil action. If the court finds that a violation occurred, the court shall grant relief as described in the act.\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to gas safety requirements in certain buildings"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1436"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mosley, Angela",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Mosley, Angela\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6214S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1436.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=19773",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6214S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

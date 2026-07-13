@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1314",
+  "title": "SB 1314 - Beginning with the 2026-27 school year, each parent or guardian of a child shall be afforded the opportunity at the time of school enrollment to direct that state aid for educating the child that would be used to educate the child at a school within the school district of residence shall be remitted to a qualified school, as defined in the act, of the parent or guardian's choice, if the parent or guardian chooses a school outside of the district of residence.  A parent or guardian may also choose to enroll their student at a different school within the school district of residence.\r\n\r\n\tThe State Treasurer shall create and provide to each school district a form for use by the parent or guardian at the time of enrollment to indicate the parent or guardian's choice as to the school their student will attend for that school year.  The school district shall transmit the form to the State Treasurer.  The school district shall also notify the Department of Elementary and Secondary Education.  \r\n\t\t\r\n\tUpon receipt of the form, the State Treasurer shall remit state aid that would have been remitted to the school district of residence to the school chosen by the parent or guardian if such school is outside of the school district of residence.  If the student enrolls in a school outside of the school district of residence, the student shall not be counted in the resident school district's weighted average daily attendance as a resident student.\r\n\r\n\tThe state aid remitted to the school of choice shall be the lesser of the state adequacy target for the student or the amount of tuition at the qualified school.\r\n\r\n\tThis act contains an emergency clause.\r\n\r\n\tThis act is identical to SB 572 (2025) and substantially similar to SCS/SB 81 (2023).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1314 - Beginning with the 2026-27 school year, each parent or guardian of a child shall be afforded the opportunity at the time of school enrollment to direct that state aid for educating the child that would be used to educate the child at a school within the school district of residence shall be remitted to a qualified school, as defined in the act, of the parent or guardian's choice, if the parent or guardian chooses a school outside of the district of residence.  A parent or guardian may also choose to enroll their student at a different school within the school district of residence.\r\n\r\n\tThe State Treasurer shall create and provide to each school district a form for use by the parent or guardian at the time of enrollment to indicate the parent or guardian's choice as to the school their student will attend for that school year.  The school district shall transmit the form to the State Treasurer.  The school district shall also notify the Department of Elementary and Secondary Education.  \r\n\t\t\r\n\tUpon receipt of the form, the State Treasurer shall remit state aid that would have been remitted to the school district of residence to the school chosen by the parent or guardian if such school is outside of the school district of residence.  If the student enrolls in a school outside of the school district of residence, the student shall not be counted in the resident school district's weighted average daily attendance as a resident student.\r\n\r\n\tThe state aid remitted to the school of choice shall be the lesser of the state adequacy target for the student or the amount of tuition at the qualified school.\r\n\r\n\tThis act contains an emergency clause.\r\n\r\n\tThis act is identical to SB 572 (2025) and substantially similar to SCS/SB 81 (2023).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Authorizes parents to choose the school that their children attend"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1314"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Coleman, Mary Elizabeth",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Coleman, Mary Elizabeth\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3964S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1314.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=612",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3964S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

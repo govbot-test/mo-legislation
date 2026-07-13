@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SR 640",
+  "title": "SR 640 - This resolution modifies Senate Rule 52 to require Senate bills with House amendments and conference committee substitutes to lie on the table for one day before being acted upon by the Senate.  The resolution further modifies Senate Rule 84 to provide that a motion for the previous question shall be admitted upon the written demand of 18, rather than 10, senators.\r\n\r\n\tThis resolution is similar to SR 567 (2026).\r\nJIM ERTLE",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SR 640 - This resolution modifies Senate Rule 52 to require Senate bills with House amendments and conference committee substitutes to lie on the table for one day before being acted upon by the Senate.  The resolution further modifies Senate Rule 84 to provide that a motion for the previous question shall be admitted upon the written demand of 18, rather than 10, senators.\r\n\r\n\tThis resolution is similar to SR 567 (2026).\r\nJIM ERTLE"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies Senate Rules 52 and 84 to require certain bills to lie on the table for one day before the Senate may take action on the bill and changes the threshold to submit a motion for the previous question"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sr640"
+    }
+  ],
+  "actions": [
+    {
+      "description": "S adopted",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S Offered",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "O'Laughlin, Cindy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            O'Laughlin, Cindy\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7011S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SR640.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=3103228",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7011S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

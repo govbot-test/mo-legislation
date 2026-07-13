@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1189",
+  "title": "SB 1189 - Currently, circuit judges of a judicial circuit may establish a place of juvenile detention for the counties within the circuit court. This act provides that a county commission or governing body of a county may provide for juvenile detention in coordination with all other counties within the same circuit court or with all counties of the same circuit court and all counties of an adjoining circuit court. The county commission or governing body shall approve an ordinance, order, or resolution authorizing a place of detention, shall approve an agreement as specified in this act between the counties, and shall notify the presiding circuit judge.\r\n\r\n\tThe operation and support of a juvenile detention facility authorized pursuant to this act shall be regulated in accordance with the rules and standards of the Supreme Court of Missouri under the governance of the circuit judge. If two or more counties of adjoining judicial circuits have authorized a place of detention, the circuit judges shall jointly govern the affairs of the place of detention. Furthermore, the counties authorizing a place of detention pursuant to this section may impose, by order, a sales tax up to one percent on all retail sales.\r\n\r\n\tThis act is identical to SB 809 (2025).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1189 - Currently, circuit judges of a judicial circuit may establish a place of juvenile detention for the counties within the circuit court. This act provides that a county commission or governing body of a county may provide for juvenile detention in coordination with all other counties within the same circuit court or with all counties of the same circuit court and all counties of an adjoining circuit court. The county commission or governing body shall approve an ordinance, order, or resolution authorizing a place of detention, shall approve an agreement as specified in this act between the counties, and shall notify the presiding circuit judge.\r\n\r\n\tThe operation and support of a juvenile detention facility authorized pursuant to this act shall be regulated in accordance with the rules and standards of the Supreme Court of Missouri under the governance of the circuit judge. If two or more counties of adjoining judicial circuits have authorized a place of detention, the circuit judges shall jointly govern the affairs of the place of detention. Furthermore, the counties authorizing a place of detention pursuant to this section may impose, by order, a sales tax up to one percent on all retail sales.\r\n\r\n\tThis act is identical to SB 809 (2025).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to juvenile detention centers"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1189"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Scheduled But Not Heard S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Carter, Jill",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Carter, Jill\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4668S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1189.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=102",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4668S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

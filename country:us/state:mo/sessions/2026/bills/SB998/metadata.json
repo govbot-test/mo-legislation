@@ -1,0 +1,171 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 998",
+  "title": "SCS/SB 998 - This act creates, repeals, and modifies provisions of the Missouri Empowerment Scholarship Accounts Program.\r\n\r\n\tThe act changes the definition of \"illegal alien\" to \"legal resident\" as set forth under federal law.  The act modifies the definition of \"qualified student\" by removing the requirement for a qualified student to have attended a public school during the previous 12 months, as well as removing requirements relating to students' kindergarten eligibility and siblings who participate in the program.  Such definition is further modified by adding dyslexia and disability diagnoses to requirements concerning individualized education plans.\r\n\r\n\tThis provision is similar to a provision in SS/HCS/HBs 2097 & 1905 (2026).  (Section 166.700)\r\n\r\n\tThe act provides that an organization representing a group of parents of qualified students may intervene on behalf of such parents as a defendant in any action in which any provision of state law, the Missouri Constitution, or a state regulation involving the program is at issue.  An organization that intervenes as provided in the act shall have the right to file such pleading necessary on behalf of such parents.  (Section 166.719)\r\n\r\n\tFinally, except as specifically provided in state law, the act prohibits the creation or enforcement of any rule, regulation, or other requirement that conditions a qualified school's participation in the program on accreditation or compliance with any other requirement.  Any rule, regulation, or other requirement that violates this provision is void and shall have no force or effect.  (Section 166.720)\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SCS/SB 998 - This act creates, repeals, and modifies provisions of the Missouri Empowerment Scholarship Accounts Program.\r\n\r\n\tThe act changes the definition of \"illegal alien\" to \"legal resident\" as set forth under federal law.  The act modifies the definition of \"qualified student\" by removing the requirement for a qualified student to have attended a public school during the previous 12 months, as well as removing requirements relating to students' kindergarten eligibility and siblings who participate in the program.  Such definition is further modified by adding dyslexia and disability diagnoses to requirements concerning individualized education plans.\r\n\r\n\tThis provision is similar to a provision in SS/HCS/HBs 2097 & 1905 (2026).  (Section 166.700)\r\n\r\n\tThe act provides that an organization representing a group of parents of qualified students may intervene on behalf of such parents as a defendant in any action in which any provision of state law, the Missouri Constitution, or a state regulation involving the program is at issue.  An organization that intervenes as provided in the act shall have the right to file such pleading necessary on behalf of such parents.  (Section 166.719)\r\n\r\n\tFinally, except as specifically provided in state law, the act prohibits the creation or enforcement of any rule, regulation, or other requirement that conditions a qualified school's participation in the program on accreditation or compliance with any other requirement.  Any rule, regulation, or other requirement that violates this provision is void and shall have no force or effect.  (Section 166.720)\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates, repeals, and modifies provisions relating to the Missouri Empowerment Scholarship Accounts Program"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb998"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Informal Calendar S Bills for Perfection",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Reported from S Education Committee w/SCS",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass S Education Committee (4362S.03C)",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Education Committee",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hudson, Brad",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Hudson, Brad\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4362S.03C - Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB998.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4362S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB998.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=289",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4362S.03C"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

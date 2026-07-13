@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "HA 2 to HA 26 H offered (Burton)--(5940S03.17X)",
+    "occurred_at": "2026-05-05T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=8214",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1421"
+}

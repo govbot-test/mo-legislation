@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1428",
+  "title": "SB 1428 - Beginning with the 2026-27 school or academic year, this act prohibits school districts, public schools, and certain institutions of higher education, as well as employees of such entities, from requiring any employee or student to receive a COVID-19 vaccine or gene therapy in order to be physically present at any events, premises, or facilities.  A vaccine shall not be required as a condition for employment or for acceptance as a student.  Testing for COVID-19 shall not be done without the written consent of the employee, the student, or, for a minor student, all parents or guardians.\r\n\r\n\tThe Department of Elementary and Secondary Education and the Department of Higher Education and Workforce Development are required to investigate any reported violations of the act.  A teacher who violates the act may be subject to the suspension or revocation of his or her certificate of license to teach.  A student, parent, or school employee may bring a civil action for injunctive relief or damages, or both, for any physical, mental, or emotional injuries caused by a school district's, public school's, or school employee's violation of the act.  A school district or institution of higher education that violates the act shall not be entitled to receive state aid or any other revenues of the state until the school district or institution comes into compliance with the act.  A student or employee of an institution of higher education may bring a civil action for injunctive relief or damages, or both, for any physical, mental, or emotional injuries caused by a violation of the act by an institution of higher education or an employee thereof.\r\n\r\n\tThis act is identical to SB 222 (2025) and similar to HB 1807 (2024), SB 159 (2023), HB 1347 (2023), HB 1475 (2022), and to provisions in HB 1130 (2023).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1428 - Beginning with the 2026-27 school or academic year, this act prohibits school districts, public schools, and certain institutions of higher education, as well as employees of such entities, from requiring any employee or student to receive a COVID-19 vaccine or gene therapy in order to be physically present at any events, premises, or facilities.  A vaccine shall not be required as a condition for employment or for acceptance as a student.  Testing for COVID-19 shall not be done without the written consent of the employee, the student, or, for a minor student, all parents or guardians.\r\n\r\n\tThe Department of Elementary and Secondary Education and the Department of Higher Education and Workforce Development are required to investigate any reported violations of the act.  A teacher who violates the act may be subject to the suspension or revocation of his or her certificate of license to teach.  A student, parent, or school employee may bring a civil action for injunctive relief or damages, or both, for any physical, mental, or emotional injuries caused by a school district's, public school's, or school employee's violation of the act.  A school district or institution of higher education that violates the act shall not be entitled to receive state aid or any other revenues of the state until the school district or institution comes into compliance with the act.  A student or employee of an institution of higher education may bring a civil action for injunctive relief or damages, or both, for any physical, mental, or emotional injuries caused by a violation of the act by an institution of higher education or an employee thereof.\r\n\r\n\tThis act is identical to SB 222 (2025) and similar to HB 1807 (2024), SB 159 (2023), HB 1347 (2023), HB 1475 (2022), and to provisions in HB 1130 (2023).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Prohibits educational institutions from mandating COVID-19 vaccines or gene therapy treatments"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1428"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gregory (21), Kurtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Gregory (21), Kurtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6049S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1428.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=10338",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6049S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1445",
+  "title": "SB 1445 - This act provides that a certified registered nurse anesthetist (\"CRNA\") may select, issue orders for, and administer certain controlled substances for and during the course of providing anesthesia care to a patient in a licensed facility pursuant to state law. This act shall not be construed as authorizing a CRNA to prescribe such controlled substances and a CRNA shall not be required to obtain a certificate of controlled substance prescriptive authority from the Board of Nursing in order to exercise this prescriptive authority.\r\n\r\n\tThis act is identical to SB 1247 (2026), SB 545 (2025), and SB 522 (2025), is substantially similar to a provision in HB 1981 (2026), in HB 831 (2025), and is similar to a provision in SB 910 (2024), HB 1561 (2024), and HB 1881 (2024).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1445 - This act provides that a certified registered nurse anesthetist (\"CRNA\") may select, issue orders for, and administer certain controlled substances for and during the course of providing anesthesia care to a patient in a licensed facility pursuant to state law. This act shall not be construed as authorizing a CRNA to prescribe such controlled substances and a CRNA shall not be required to obtain a certificate of controlled substance prescriptive authority from the Board of Nursing in order to exercise this prescriptive authority.\r\n\r\n\tThis act is identical to SB 1247 (2026), SB 545 (2025), and SB 522 (2025), is substantially similar to a provision in HB 1981 (2026), in HB 831 (2025), and is similar to a provision in SB 910 (2024), HB 1561 (2024), and HB 1881 (2024).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Provides that certified registered nurse anesthetists may select, issue orders for, and administer certain controlled substances"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1445"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Bill Combined w/SCS SBs 1247 & 1445",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Emerging Issues and Professional Registration Committee",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Hearing Cancelled S Emerging Issues and Professional Registration Committee",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Emerging Issues and Professional Registration Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lewis, Patty",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Lewis, Patty\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4989S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1445.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=19772",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4989S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

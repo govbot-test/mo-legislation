@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SJR 113",
+  "title": "SJR 113 - This constitutional amendment, if approved by the voters, provides that, beginning January 1, 2027, the assessed value of residential real property shall be the most recent assessment. For all reassessments of such residential real property, the assessed value shall not increase by more than the increase in the Consumer Price Index or by 4%, whichever is less, provided that the assessed value shall reflect the value added to the property as a result of new construction or improvements, as described in the act.\r\n\r\n\tThis amendment is identical to HJR 112 (2026), is substantially similar to SJR 70 (2026), SJR 89 (2026), SJR 34 (2025), SJR 50 (2025), SJR 54 (2025), HCS/HJR 4 (2025), HCS#2/HJR 78 (2024), HJR 86 (2025), HJR 89 (2025), and SJR 90 (2024), and is similar to HJR 85 (2024), HJR 120 (2024), HJR 184 (2024).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SJR 113 - This constitutional amendment, if approved by the voters, provides that, beginning January 1, 2027, the assessed value of residential real property shall be the most recent assessment. For all reassessments of such residential real property, the assessed value shall not increase by more than the increase in the Consumer Price Index or by 4%, whichever is less, provided that the assessed value shall reflect the value added to the property as a result of new construction or improvements, as described in the act.\r\n\r\n\tThis amendment is identical to HJR 112 (2026), is substantially similar to SJR 70 (2026), SJR 89 (2026), SJR 34 (2025), SJR 50 (2025), SJR 54 (2025), HCS/HJR 4 (2025), HCS#2/HJR 78 (2024), HJR 86 (2025), HJR 89 (2025), and SJR 90 (2024), and is similar to HJR 85 (2024), HJR 120 (2024), HJR 184 (2024).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to property tax assessments"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sjr113"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Select Committee on Property Taxes and the State Tax Commission Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nicola, Joe",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nicola, Joe\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6467S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR113.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=104728",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6467S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

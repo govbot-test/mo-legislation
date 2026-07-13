@@ -1,0 +1,141 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 978",
+  "title": "SCS/SB 978 - Beginning in the 2026-27 school year and continuing in subsequent school years, any instruction on human sexuality provided by a school district or charter school shall include a human growth and development discussion.  Such discussion shall include a video illustrating the development of vital organs in early fetal development, as well as a video illustrating the process of fertilization and every stage of human development inside the uterus throughout pregnancy until birth. \r\n\r\n\tAdditionally, each school district and charter school shall require instruction in human growth and development beginning no later than third grade.  Provisions of state law requiring the formation of a work group to develop academic standards shall not apply to this instruction.  The instruction shall include certain scientific facts and information listed in the act, including videos illustrating the development of vital organs in early fetal development and every stage of human development inside the uterus throughout pregnancy until birth.  The instruction shall teach that at conception, a new human being is formed, and abortion ends the life of an unborn child.  The medicinal emphasis on the heartbeat during gestation shall also be covered, along with the ability to hear an unborn child's heartbeat using a fetal heart rate device.  Placental development, brain waves, reflex responses, and sensory receptors are also required instructional topics.  The instruction shall teach that the predominant abortion method in Missouri is dilation and evacuation, which includes the dismemberment, disarticulation, and exsanguination of an unborn child, causing the unborn child's death.\t\t\t\r\n\r\n\tInstruction in human development shall be delivered in an age-appropriate manner.  Parents shall be notified of the contents of such instruction and shall be given the opportunity to remove their child from class during such instruction.\r\n\r\n\tThe Attorney General may bring a civil action for damages, injunctive relief, or both, against any person or entity who violates any provision of this act.\r\n\r\n\tThis act is similar to  HB 1701 (2026), HB 2581 (2026), and HB 2909 (2026).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SCS/SB 978 - Beginning in the 2026-27 school year and continuing in subsequent school years, any instruction on human sexuality provided by a school district or charter school shall include a human growth and development discussion.  Such discussion shall include a video illustrating the development of vital organs in early fetal development, as well as a video illustrating the process of fertilization and every stage of human development inside the uterus throughout pregnancy until birth. \r\n\r\n\tAdditionally, each school district and charter school shall require instruction in human growth and development beginning no later than third grade.  Provisions of state law requiring the formation of a work group to develop academic standards shall not apply to this instruction.  The instruction shall include certain scientific facts and information listed in the act, including videos illustrating the development of vital organs in early fetal development and every stage of human development inside the uterus throughout pregnancy until birth.  The instruction shall teach that at conception, a new human being is formed, and abortion ends the life of an unborn child.  The medicinal emphasis on the heartbeat during gestation shall also be covered, along with the ability to hear an unborn child's heartbeat using a fetal heart rate device.  Placental development, brain waves, reflex responses, and sensory receptors are also required instructional topics.  The instruction shall teach that the predominant abortion method in Missouri is dilation and evacuation, which includes the dismemberment, disarticulation, and exsanguination of an unborn child, causing the unborn child's death.\t\t\t\r\n\r\n\tInstruction in human development shall be delivered in an age-appropriate manner.  Parents shall be notified of the contents of such instruction and shall be given the opportunity to remove their child from class during such instruction.\r\n\r\n\tThe Attorney General may bring a civil action for damages, injunctive relief, or both, against any person or entity who violates any provision of this act.\r\n\r\n\tThis act is similar to  HB 1701 (2026), HB 2581 (2026), and HB 2909 (2026).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Requires school districts and charter schools to provide instruction on human growth and development"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb978"
+    }
+  ],
+  "actions": [
+    {
+      "description": "SCS Voted Do Pass S Education Committee (4958S.02C)",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Education Committee",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB978.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4958S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB978.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=328",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4958S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

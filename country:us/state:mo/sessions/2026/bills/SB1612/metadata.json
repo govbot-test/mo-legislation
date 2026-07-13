@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1612",
+  "title": "SB 1612 - This act creates the \"Success for Homeless and Foster Youth in Higher Education Act\" and requires all public institutions of higher education to designate a homeless and foster student liaison within the institution's financial aid office.  The liaison shall assist current and prospective students in applying for federal and state financial aid, as provided in the act.\r\n\r\n\tA public institution of higher education may grant resident status to a Missouri resident who is 19 years of age or under at the time of enrollment, regardless of how long the student has resided in the state, if the student is determined to have been homeless at any time during the two years immediately preceding such student's enrollment.\r\n\r\n\tA public institution of higher education that offers student housing may develop a plan to provide that homeless and foster students have access to housing resources as needed during and between academic terms.  The plan may grant such students first priority for housing placement and provide that they be placed in the institution's housing facility that remains open for occupation during the most days in a calendar year.\r\n\r\n\tThis act is similar to HCS/HB 2722 (2026).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1612 - This act creates the \"Success for Homeless and Foster Youth in Higher Education Act\" and requires all public institutions of higher education to designate a homeless and foster student liaison within the institution's financial aid office.  The liaison shall assist current and prospective students in applying for federal and state financial aid, as provided in the act.\r\n\r\n\tA public institution of higher education may grant resident status to a Missouri resident who is 19 years of age or under at the time of enrollment, regardless of how long the student has resided in the state, if the student is determined to have been homeless at any time during the two years immediately preceding such student's enrollment.\r\n\r\n\tA public institution of higher education that offers student housing may develop a plan to provide that homeless and foster students have access to housing resources as needed during and between academic terms.  The plan may grant such students first priority for housing placement and provide that they be placed in the institution's housing facility that remains open for occupation during the most days in a calendar year.\r\n\r\n\tThis act is similar to HCS/HB 2722 (2026).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates the \"Success for Homeless and Foster Youth in Higher Education Act\" requiring all public institutions of higher education to designate a homeless and foster student liaison within the institution's financial aid office"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1612"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Washington, Barbara",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Washington, Barbara\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5653S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1612.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=2591246",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5653S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1018",
+  "title": "SB 1018 - This act authorizes a person to waive such person's right to purchase a firearm by submitting a request to the Department of Public Safety. The Department shall verify a person's identity prior to accepting the voluntary waiver. While such waiver is in effect, no person shall sell or otherwise transfer a firearm to a person who voluntarily waived the right to purchase a firearm.\r\n\r\n\tA person with a voluntary waiver may designate one or more contact persons, who shall be contacted by the Department if the person attempts to purchase a firearm while the waiver is in effect or if the person revokes the waiver.\r\n\r\n\tAll forms and records related to a voluntary waiver shall be closed records and shall be destroyed upon the revocation of the waiver. Any voluntary waiver shall remain in effect for thirty days after the Department accepts the revocation of the waiver.\r\n\r\n\tThe submission of a voluntary waiver shall be made only by the person to whom the voluntary waiver shall apply. Any person that attempts to submit a voluntary waiver on behalf of another person shall be guilty of a class A misdemeanor.\r\n\r\n\tThis act is identical to HB 2492 (2026), and is similar to SB 96 (2025), HB 1205 (2025), SB 1327 (2024), and HB 1872 (2024).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1018 - This act authorizes a person to waive such person's right to purchase a firearm by submitting a request to the Department of Public Safety. The Department shall verify a person's identity prior to accepting the voluntary waiver. While such waiver is in effect, no person shall sell or otherwise transfer a firearm to a person who voluntarily waived the right to purchase a firearm.\r\n\r\n\tA person with a voluntary waiver may designate one or more contact persons, who shall be contacted by the Department if the person attempts to purchase a firearm while the waiver is in effect or if the person revokes the waiver.\r\n\r\n\tAll forms and records related to a voluntary waiver shall be closed records and shall be destroyed upon the revocation of the waiver. Any voluntary waiver shall remain in effect for thirty days after the Department accepts the revocation of the waiver.\r\n\r\n\tThe submission of a voluntary waiver shall be made only by the person to whom the voluntary waiver shall apply. Any person that attempts to submit a voluntary waiver on behalf of another person shall be guilty of a class A misdemeanor.\r\n\r\n\tThis act is identical to HB 2492 (2026), and is similar to SB 96 (2025), HB 1205 (2025), SB 1327 (2024), and HB 1872 (2024).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Authorizes a voluntary self-exclusion list for the purchase of firearms"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1018"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lewis, Patty",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Lewis, Patty\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5511S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1018.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=564",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5511S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

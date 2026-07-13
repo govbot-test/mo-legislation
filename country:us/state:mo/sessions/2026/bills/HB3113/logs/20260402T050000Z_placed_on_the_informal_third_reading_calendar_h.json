@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Placed on the Informal Third Reading Calendar (H)",
+    "occurred_at": "2026-04-02T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.house.mo.gov/BillContent.aspx?bill=HB3113&year=2026&code=R&style=new",
+        "note": ""
+      },
+      {
+        "url": "https://house.mo.gov/billactions.aspx?bill=HB3113&year=2026&code=R",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 3113"
+}

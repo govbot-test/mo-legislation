@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1711",
+  "title": "SB 1711 - This act modifies provisions relating to utility colocation along highway corridors. \r\n\r\n\tThe State Highways and Transportation Commission and the Missouri Department of Transportation shall allow the installation, operation, and maintenance of electric transmission facilities within highway rights of way. The Commission and Department shall develop uniform criteria for colocation of transmission facilities within highway rights of ways. The duty of the Commission and Department shall include providing reasonable time lines and procedures for review and approval of colocation requests, ensuring safety of the public and infrastructure, avoiding duplication of corridors, and imposing reasonable conditions that shall not interfere with colocation. \r\n\r\n\tThis act is identical to provisions in SB 838 (2026) and HB 3456 (2026).\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1711 - This act modifies provisions relating to utility colocation along highway corridors. \r\n\r\n\tThe State Highways and Transportation Commission and the Missouri Department of Transportation shall allow the installation, operation, and maintenance of electric transmission facilities within highway rights of way. The Commission and Department shall develop uniform criteria for colocation of transmission facilities within highway rights of ways. The duty of the Commission and Department shall include providing reasonable time lines and procedures for review and approval of colocation requests, ensuring safety of the public and infrastructure, avoiding duplication of corridors, and imposing reasonable conditions that shall not interfere with colocation. \r\n\r\n\tThis act is identical to provisions in SB 838 (2026) and HB 3456 (2026).\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions related to utility colocation along highway corridors"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1711"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "McCreery, Tracy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            McCreery, Tracy\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7152S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1711.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6114496",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7152S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

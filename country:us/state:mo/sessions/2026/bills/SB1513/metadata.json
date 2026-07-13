@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1513",
+  "title": "SB 1513 - Currently, in all tort actions, a defendant who bears less than fifty-one percent of the fault shall only be liable for the percentage of the judgment for which the defendant is determined to be responsible. However, when a defendant bears fifty-one percent or more of the fault, current law provides that the defendant is jointly and severally liable for the judgment amount. This act repeals such provisions and provides that each defendant is liable only for the amount of damages in direct proportion to that defendant's percentage of fault. Additionally, if a plaintiff is found to bear fifty-one or more of the percentage of fault, then that plaintiff shall not be entitled to recovery.\r\n\r\n\tThe trier of fact shall calculate the total amount of damages and the percentage of fault of all persons who contributed to a plaintiff's injury. The assessments and findings of fact regarding the fault of a nonparty shall only be used for the determination of the fault of the named parties and not as evidence of liability in any action.\r\n\r\n\tThis act is identical to SB 826 (2025) and is similar to SB 821 (2022), a provision in SB 1243 (2022), SB 381 (2021), HB 1310 (2021), SB 845 (2020), HB 2242 (2020), SB 678 (2018), in SCS/SB 1102 (2018), SB 383 (2017), SB 736 (2016), HB 2287 (2016), SB 140 (2015), in SCS/SB 589 (2014), SB 830 (2014), SB 846 (2014), SB 609 (2012), in HCS/HB 1298 & 1180 (2012), SB 211 (2011), and HB 364 (2011).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1513 - Currently, in all tort actions, a defendant who bears less than fifty-one percent of the fault shall only be liable for the percentage of the judgment for which the defendant is determined to be responsible. However, when a defendant bears fifty-one percent or more of the fault, current law provides that the defendant is jointly and severally liable for the judgment amount. This act repeals such provisions and provides that each defendant is liable only for the amount of damages in direct proportion to that defendant's percentage of fault. Additionally, if a plaintiff is found to bear fifty-one or more of the percentage of fault, then that plaintiff shall not be entitled to recovery.\r\n\r\n\tThe trier of fact shall calculate the total amount of damages and the percentage of fault of all persons who contributed to a plaintiff's injury. The assessments and findings of fact regarding the fault of a nonparty shall only be used for the determination of the fault of the named parties and not as evidence of liability in any action.\r\n\r\n\tThis act is identical to SB 826 (2025) and is similar to SB 821 (2022), a provision in SB 1243 (2022), SB 381 (2021), HB 1310 (2021), SB 845 (2020), HB 2242 (2020), SB 678 (2018), in SCS/SB 1102 (2018), SB 383 (2017), SB 736 (2016), HB 2287 (2016), SB 140 (2015), in SCS/SB 589 (2014), SB 830 (2014), SB 846 (2014), SB 609 (2012), in HCS/HB 1298 & 1180 (2012), SB 211 (2011), and HB 364 (2011).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to determinations of fault in tort actions"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1513"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gregory (21), Kurtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Gregory (21), Kurtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6260S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1513.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=103415",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6260S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

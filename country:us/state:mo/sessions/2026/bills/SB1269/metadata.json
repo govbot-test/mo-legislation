@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1269",
+  "title": "SB 1269 - This act modifies the offense of filing a false document to include those documents filed with a court, including court filings, and where such documents are frivolous, unenforceable under Missouri law, or are court filings lacking probable cause. Additionally, this act modifies the penalties from a class D felony to a class C felony for the first offense and increases the enhanced penalty for certain circumstances to a class B felony, instead of class C felony. \r\n\r\n\tThis act provides that any person who is named in or has a property interest affected by a potential false document may file a petition for a judicial review and the probable cause statement that delineates the basis for the belief that the filing or record is materially false, contains materially false information, is a forgery, is fraudulent, or is misleading.  \r\n\r\n\tIf the filing or record in question is a petition or other document filed in associate circuit court or circuit court or is a notice of lis pendens, lien notice, or another instrument related to such petition or document, then the petition and probable cause statement shall be in the form of a motion in the pending case.\r\n\r\n\tAdditionally, if personal service cannot be obtained on the person responsible for false document, then the court shall have jurisdiction to hear and rule on the validity of the document upon an affidavit of the petitioner showing that a good faith effort to serve or provide actual notice to such person was made. \r\n\r\n\tIf the petition is filed by a person who is not a certain type of public official or employee, the court may consider the petition as a civil case without prejudice to the right of the prosecuting or circuit attorney to pursue criminal charges. Upon a ruling of invalid, the court shall order restitution and if the record was not made in good faith, damages in an amount of not less than five hundred dollars and not more than three times the amount of actual damages.\r\n\r\n\tThis act is identical to HB 2201 (2026).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1269 - This act modifies the offense of filing a false document to include those documents filed with a court, including court filings, and where such documents are frivolous, unenforceable under Missouri law, or are court filings lacking probable cause. Additionally, this act modifies the penalties from a class D felony to a class C felony for the first offense and increases the enhanced penalty for certain circumstances to a class B felony, instead of class C felony. \r\n\r\n\tThis act provides that any person who is named in or has a property interest affected by a potential false document may file a petition for a judicial review and the probable cause statement that delineates the basis for the belief that the filing or record is materially false, contains materially false information, is a forgery, is fraudulent, or is misleading.  \r\n\r\n\tIf the filing or record in question is a petition or other document filed in associate circuit court or circuit court or is a notice of lis pendens, lien notice, or another instrument related to such petition or document, then the petition and probable cause statement shall be in the form of a motion in the pending case.\r\n\r\n\tAdditionally, if personal service cannot be obtained on the person responsible for false document, then the court shall have jurisdiction to hear and rule on the validity of the document upon an affidavit of the petitioner showing that a good faith effort to serve or provide actual notice to such person was made. \r\n\r\n\tIf the petition is filed by a person who is not a certain type of public official or employee, the court may consider the petition as a civil case without prejudice to the right of the prosecuting or circuit attorney to pursue criminal charges. Upon a ruling of invalid, the court shall order restitution and if the record was not made in good faith, damages in an amount of not less than five hundred dollars and not more than three times the amount of actual damages.\r\n\r\n\tThis act is identical to HB 2201 (2026).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to the filing of false documents"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1269"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Washington, Barbara",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Washington, Barbara\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4754S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1269.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=650",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4754S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1152",
+  "title": "SB 1152 - This act modifies provisions relating to municipal elections. This act is identical to SB 86 (2025).\r\n\r\nGENERAL MUNICIPAL ELECTION DAY\r\n\tUnder current law, elections to elect officers of political subdivisions and special districts are held on the first Tuesday after the first Monday in April each year. This act requires all municipal elections to be held on the first Tuesday after the first Monday in November each year if they are held for the purpose of electing officers of political subdivisions and special districts or to decide a ballot measure submitted solely to the qualified voters of a particular political subdivision or special district.\r\n\r\n\tThese provisions are identical to SB 150 (2021) and similar to provisions in SB 1185 (2026), HB 1613 (2026), HB 3013 (2026), HB 920 (2021), and SB 414 (2021).\r\n\r\nPARTISAN LOCAL ELECTIONS\r\n\tThis act also modifies provisions relating to the conduct of local elections. Current law provides that municipal offices are elected on a nonpartisan basis. This act requires all candidates for offices in cities, towns, villages, and townships to declare a political party affiliation when filing for office.\r\n\r\n\tThis provision is identical to a provision in SB 1329 (2026), SB 248 (2025), SB 202 (2023), HB 1203 (2023), and SB 1049 (2022) and similar to HB 1640 (2022) and SB 414 (2021).\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1152 - This act modifies provisions relating to municipal elections. This act is identical to SB 86 (2025).\r\n\r\nGENERAL MUNICIPAL ELECTION DAY\r\n\tUnder current law, elections to elect officers of political subdivisions and special districts are held on the first Tuesday after the first Monday in April each year. This act requires all municipal elections to be held on the first Tuesday after the first Monday in November each year if they are held for the purpose of electing officers of political subdivisions and special districts or to decide a ballot measure submitted solely to the qualified voters of a particular political subdivision or special district.\r\n\r\n\tThese provisions are identical to SB 150 (2021) and similar to provisions in SB 1185 (2026), HB 1613 (2026), HB 3013 (2026), HB 920 (2021), and SB 414 (2021).\r\n\r\nPARTISAN LOCAL ELECTIONS\r\n\tThis act also modifies provisions relating to the conduct of local elections. Current law provides that municipal offices are elected on a nonpartisan basis. This act requires all candidates for offices in cities, towns, villages, and townships to declare a political party affiliation when filing for office.\r\n\r\n\tThis provision is identical to a provision in SB 1329 (2026), SB 248 (2025), SB 202 (2023), HB 1203 (2023), and SB 1049 (2022) and similar to HB 1640 (2022) and SB 414 (2021).\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to municipal elections"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1152"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nicola, Joe",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nicola, Joe\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3829S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1152.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=175",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3829S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

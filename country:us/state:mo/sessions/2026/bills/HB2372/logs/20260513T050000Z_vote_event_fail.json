@@ -1,0 +1,23 @@
+{
+  "identifier": "",
+  "motion_text": "Third Read and Passed with Amendments (S) - SA 1, SA2, SA 3, SA 1 to SA 4, SA 4, as amended, SA 1 to SA 5, SA 5, as amended, & SA 6, adopted - AYES: 26 NOES: 5 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-13T05:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "9c214120-754b-11f1-b24a-b6ae219d7a94",
+  "bill_action": null,
+  "bill_identifier": "HB 2372",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB2372&year=2026&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

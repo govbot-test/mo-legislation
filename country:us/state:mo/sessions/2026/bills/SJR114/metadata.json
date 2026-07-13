@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SJR 114",
+  "title": "SJR 114 - Currently, judges of the Supreme Court of Missouri and of the Court of Appeals are selected by gubernatorial appointment following nominations from the Appellate Judicial Commission. This proposed constitutional amendment, if approved by the voters, would require the appointment by the Governor, with the advice and consent of the Senate, of all judges of the Supreme Court and of the Court of Appeals. Such judges shall be elected for terms of seven years, instead of twelve years. A judge with an existing term as of January 1, 2027, may continue to serve until the expiration of his or her term.\r\n\r\n\tThis amendment is substantially similar to SJR 14 (2021) and is similar to HCS/HJR 24 (2021) and HJR 43 (2021).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SJR 114 - Currently, judges of the Supreme Court of Missouri and of the Court of Appeals are selected by gubernatorial appointment following nominations from the Appellate Judicial Commission. This proposed constitutional amendment, if approved by the voters, would require the appointment by the Governor, with the advice and consent of the Senate, of all judges of the Supreme Court and of the Court of Appeals. Such judges shall be elected for terms of seven years, instead of twelve years. A judge with an existing term as of January 1, 2027, may continue to serve until the expiration of his or her term.\r\n\r\n\tThis amendment is substantially similar to SJR 14 (2021) and is similar to HCS/HJR 24 (2021) and HJR 43 (2021).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies the selection and terms of judges of the Supreme Court and of the Court of Appeals"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sjr114"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Fiscal Oversight Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-20T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hudson, Brad",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Hudson, Brad\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6827S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR114.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=1584502",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6827S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

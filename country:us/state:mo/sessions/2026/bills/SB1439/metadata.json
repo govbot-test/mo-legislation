@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1439",
+  "title": "SB 1439 - This act creates the \"Missouri Entrepreneurial Freedom Restoration Act\".  The act provides that the right to earn a living in the businesses, professions, occupations, and trades of life is a fundamental right.  State and local governments shall not burden a person's exercise of their right to earn a living. Governmental restrictions that burden the right to earn a living shall make the governmental body liable for legal and equitable relief.  Government restrictions that burden the right to earn a living do not violate this act if the governmental body can demonstrate by clear and convincing evidence that the burden is necessary to protect public health, safety, or welfare; the burden is the least restrictive means to achieve the law's stated purpose; and alternative mechanisms could not achieve the stated government interest without unnecessarily restricting entry into the occupation.\r\n\r\n\tA person whose right to earn a living has been burdened may seek declaratory, injunctive, or other equitable relief, as well as nominal damages.  A person intending to engage in a profession, but hindered by a governmental burden shall have standing to bring a claim without having to first apply for, obtain, or be denied the relevant occupational license or registration.  A prevailing plaintiff shall be awarded attorneys fees and costs.\r\n\r\n\tThe state of Missouri waives sovereign immunity as to nominal damages up to one dollar for each claim for any act by a government official that violates this act.\r\nJIM ERTLE",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1439 - This act creates the \"Missouri Entrepreneurial Freedom Restoration Act\".  The act provides that the right to earn a living in the businesses, professions, occupations, and trades of life is a fundamental right.  State and local governments shall not burden a person's exercise of their right to earn a living. Governmental restrictions that burden the right to earn a living shall make the governmental body liable for legal and equitable relief.  Government restrictions that burden the right to earn a living do not violate this act if the governmental body can demonstrate by clear and convincing evidence that the burden is necessary to protect public health, safety, or welfare; the burden is the least restrictive means to achieve the law's stated purpose; and alternative mechanisms could not achieve the stated government interest without unnecessarily restricting entry into the occupation.\r\n\r\n\tA person whose right to earn a living has been burdened may seek declaratory, injunctive, or other equitable relief, as well as nominal damages.  A person intending to engage in a profession, but hindered by a governmental burden shall have standing to bring a claim without having to first apply for, obtain, or be denied the relevant occupational license or registration.  A prevailing plaintiff shall be awarded attorneys fees and costs.\r\n\r\n\tThe state of Missouri waives sovereign immunity as to nominal damages up to one dollar for each claim for any act by a government official that violates this act.\r\nJIM ERTLE"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates the \"Missouri Entrepreneurial Freedom Restoration Act\""
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1439"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Government Efficiency Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5911S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1439.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=19781",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5911S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1357",
+  "title": "SB 1357 - Under current law, certain offenders may receive earned compliance credits to reduce their term of probation, parole, or conditional release. This act repeals those provisions and provides that the Division of Probation and Parole (\"Division\") shall file a notification of earned discharge from probation with the court for any defendant who has completed at least 24 months of the probation term and is compliant with the terms of supervision as ordered by the court and Division. The Division shall not file a notification of earned discharge for any defendant who has not paid restitution in full, is currently completing a term of probation for any class A or B felony, or is subject to lifetime supervision under the law.\r\n\r\n\tA prosecuting or circuit attorney may request a hearing within 30 days of the filing of a notification of earned discharge. If the state opposes the discharge, the prosecuting or circuit attorney shall argue the earned discharge is not appropriate and the defendant should continue to serve the probation term. Such hearing shall be held no later than 60 days after the filing of the notification.\r\n\r\n\tIf the court finds by a preponderance of the evidence that the earned discharge is not appropriate, the court shall order the probation term to be continued, may modify the conditions of the probation, and may order continued supervision by the Division or the court. If the court finds that the earned discharge is appropriate, the court shall order the defendant discharged from probation.\r\n\r\n\tIf the prosecuting or circuit attorney does not request a hearing, the court shall order the defendant discharged from probation within 60 days of the filing of the notification of earned discharge, but no earlier than 30 days from the filing of notification of earned discharge.\r\n\r\n\tThis act is identical to SB 432 (2025), SB 1195 (2024), SB 561 (2023), and to provisions in the perfected HB 196 (2023), SB 1130 (2022), and SCS/HB 2088, HB 1705 and HCS HB 1699 (2022) and is similar to SB 960 (2020).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1357 - Under current law, certain offenders may receive earned compliance credits to reduce their term of probation, parole, or conditional release. This act repeals those provisions and provides that the Division of Probation and Parole (\"Division\") shall file a notification of earned discharge from probation with the court for any defendant who has completed at least 24 months of the probation term and is compliant with the terms of supervision as ordered by the court and Division. The Division shall not file a notification of earned discharge for any defendant who has not paid restitution in full, is currently completing a term of probation for any class A or B felony, or is subject to lifetime supervision under the law.\r\n\r\n\tA prosecuting or circuit attorney may request a hearing within 30 days of the filing of a notification of earned discharge. If the state opposes the discharge, the prosecuting or circuit attorney shall argue the earned discharge is not appropriate and the defendant should continue to serve the probation term. Such hearing shall be held no later than 60 days after the filing of the notification.\r\n\r\n\tIf the court finds by a preponderance of the evidence that the earned discharge is not appropriate, the court shall order the probation term to be continued, may modify the conditions of the probation, and may order continued supervision by the Division or the court. If the court finds that the earned discharge is appropriate, the court shall order the defendant discharged from probation.\r\n\r\n\tIf the prosecuting or circuit attorney does not request a hearing, the court shall order the defendant discharged from probation within 60 days of the filing of the notification of earned discharge, but no earlier than 30 days from the filing of notification of earned discharge.\r\n\r\n\tThis act is identical to SB 432 (2025), SB 1195 (2024), SB 561 (2023), and to provisions in the perfected HB 196 (2023), SB 1130 (2022), and SCS/HB 2088, HB 1705 and HCS HB 1699 (2022) and is similar to SB 960 (2020).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to earned discharge from probation"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1357"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Washington, Barbara",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Washington, Barbara\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4757S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1357.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=660",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4757S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

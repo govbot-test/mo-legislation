@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "HA 1 to HCS H offered & adopted (Schmidt)--(5396H08.03H)",
+    "occurred_at": "2026-05-07T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=585",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1062"
+}

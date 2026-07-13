@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 900",
+  "title": "SB 900 - This act modifies provisions relating to assisted reproductive technology.\r\n\r\nDEFINITION OF UNBORN CHILD (Section 1.205)\r\n\tThis act modifies the definition of \"unborn child\" or \"unborn children\" to exclude human embryos created through assisted reproductive technology, including in vitro fertilization, prior to successful implantation in the uterus.\r\n\r\n\tThese provisions are identical to SB 605 (2025) and HB 3244 (2026), and substantially similar to SB 1486 (2024), and similar to HB 2845 (2024).\r\n\r\nDIAGNOSIS AND TREATMENT OF INFERTILITY (Section 376.1211)\r\n\tThis act requires certain health benefit plans providing pregnancy-related benefits to include coverage for the diagnosis and treatment of infertility, as described in the act.\r\n\r\n\tThese provisions contain an exception for health benefit plans issued by or to religious institutions or organizations.\r\n\r\n\tThese provisions are identical to HB 2724 (2026) and HB 3244 (2026), and substantially similar to HB 487 (2025).\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 900 - This act modifies provisions relating to assisted reproductive technology.\r\n\r\nDEFINITION OF UNBORN CHILD (Section 1.205)\r\n\tThis act modifies the definition of \"unborn child\" or \"unborn children\" to exclude human embryos created through assisted reproductive technology, including in vitro fertilization, prior to successful implantation in the uterus.\r\n\r\n\tThese provisions are identical to SB 605 (2025) and HB 3244 (2026), and substantially similar to SB 1486 (2024), and similar to HB 2845 (2024).\r\n\r\nDIAGNOSIS AND TREATMENT OF INFERTILITY (Section 376.1211)\r\n\tThis act requires certain health benefit plans providing pregnancy-related benefits to include coverage for the diagnosis and treatment of infertility, as described in the act.\r\n\r\n\tThese provisions contain an exception for health benefit plans issued by or to religious institutions or organizations.\r\n\r\n\tThese provisions are identical to HB 2724 (2026) and HB 3244 (2026), and substantially similar to HB 487 (2025).\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to assisted reproductive technology"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb900"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "McCreery, Tracy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            McCreery, Tracy\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4518S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB900.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=217",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4518S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

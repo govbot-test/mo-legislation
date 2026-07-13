@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1103",
+  "title": "SB 1103 - This act provides that a court shall have jurisdiction at the time of sentencing to enter a lifetime protection order restraining or enjoining the defendant from contacting the victim if the defendant has been found guilty of a dangerous felony.  The protection order shall be effective immediately and shall be served on the defendant at the time of sentencing.  Such order shall be valid for the defendant's lifetime unless:\r\n\r\n\t\u2022 The victim dies;\r\n\r\n\t\u2022 The conviction is dismissed, expunged, or overturned or the defendant has been pardoned; or\r\n\r\n\t\u2022 The victim submits a written request to terminate the order.\r\n\r\n\tIf an order of protection is granted, the order shall be issued to the victim and to the law enforcement agency in which the victim resides.  The sheriff shall enter all information into the Missouri Uniform Law Enforcement System (MULES) within 24 hours and MULES shall forward the information to the National Crime Information Center.\r\n\r\n\tThis act is identical to SB 197 (2025) and provisions in SB 143 (2025), SB 869 (2024), and a provision in SCS/HCS/HB 1659 (2024).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1103 - This act provides that a court shall have jurisdiction at the time of sentencing to enter a lifetime protection order restraining or enjoining the defendant from contacting the victim if the defendant has been found guilty of a dangerous felony.  The protection order shall be effective immediately and shall be served on the defendant at the time of sentencing.  Such order shall be valid for the defendant's lifetime unless:\r\n\r\n\t\u2022 The victim dies;\r\n\r\n\t\u2022 The conviction is dismissed, expunged, or overturned or the defendant has been pardoned; or\r\n\r\n\t\u2022 The victim submits a written request to terminate the order.\r\n\r\n\tIf an order of protection is granted, the order shall be issued to the victim and to the law enforcement agency in which the victim resides.  The sheriff shall enter all information into the Missouri Uniform Law Enforcement System (MULES) within 24 hours and MULES shall forward the information to the National Crime Information Center.\r\n\r\n\tThis act is identical to SB 197 (2025) and provisions in SB 143 (2025), SB 869 (2024), and a provision in SCS/HCS/HB 1659 (2024).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to lifetime protection orders"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1103"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Moon, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Moon, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5130S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1103.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=386",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5130S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

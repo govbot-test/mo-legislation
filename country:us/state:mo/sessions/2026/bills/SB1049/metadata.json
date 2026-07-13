@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1049",
+  "title": "SB 1049 - Under the act, the governing body of a political subdivision shall not procure, authorize, or approve a development agreement proposal relating to development of the political subdivision with an individual or government identified as a foreign adversary, as defined in the act. This provision shall not apply to certain foreign adversaries possessing interest in real property, as described in the act.\r\n\r\n\tCertain foreign governments or entities shall not purchase, hold or acquire title to real property in this state if such foreign government or entity is listed as a foreign adversary or a foreign business entity; headquartered in a country that is a foreign adversary; directly or indirectly held or controlled by a foreign adversary; owned the majority of stock or other ownership interest which is held or controlled by citizens of a foreign adversary; or controlled by or has the majority of stock or other ownership interest held or controlled by citizens of a foreign adversary.\r\n\r\n\tThis act shall not apply to a foreign adversary possessing real property interest if such foreign adversary is a duly registered business in good standing with the Secretary of State for seven years or longer prior to August 28, 2026, has been approved by the United States Committee of Foreign Investment as described in the act, and maintains an active national security agreement with the federal government.\r\n\r\n\tThis act is identical to SB 211 (2025), HB 897 (2025), SB 893 (2024), and substantially similar to SB 649 (2023).\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1049 - Under the act, the governing body of a political subdivision shall not procure, authorize, or approve a development agreement proposal relating to development of the political subdivision with an individual or government identified as a foreign adversary, as defined in the act. This provision shall not apply to certain foreign adversaries possessing interest in real property, as described in the act.\r\n\r\n\tCertain foreign governments or entities shall not purchase, hold or acquire title to real property in this state if such foreign government or entity is listed as a foreign adversary or a foreign business entity; headquartered in a country that is a foreign adversary; directly or indirectly held or controlled by a foreign adversary; owned the majority of stock or other ownership interest which is held or controlled by citizens of a foreign adversary; or controlled by or has the majority of stock or other ownership interest held or controlled by citizens of a foreign adversary.\r\n\r\n\tThis act shall not apply to a foreign adversary possessing real property interest if such foreign adversary is a duly registered business in good standing with the Secretary of State for seven years or longer prior to August 28, 2026, has been approved by the United States Committee of Foreign Investment as described in the act, and maintains an active national security agreement with the federal government.\r\n\r\n\tThis act is identical to SB 211 (2025), HB 897 (2025), SB 893 (2024), and substantially similar to SB 649 (2023).\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to foreign ownership of real estate"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1049"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fitzwater, Travis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Fitzwater, Travis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4487S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1049.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=134",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4487S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:24Z"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1091",
+  "title": "SB 1091 - For all tax years beginning on or after January 1, 2027, this act authorizes a taxpayer to claim a tax credit for each qualified child, defined as a dependent of the taxpayer for federal tax purposes who is under 18 years of age, did not provide more than half of the costs of his or her own support, and lived with the taxpayer for more than half of the taxpayer. In order to qualify for a tax credit, a taxpayer shall have a Missouri adjusted gross income of $75,000 or less if filing single, or $150,000 if filing combined.\r\n\r\n\tThe amount of the tax credit shall be equal to $7,200 for each qualified child under the age of seven, and $3,600 for each qualified child aged seven or older, provided that a taxpayer shall not claim more than six tax credits in a tax year. Tax credits shall not be carried forward or transferred, but are refundable.\r\n\r\n\tThe Department of Revenue shall establish a program for making monthly advance payments of the tax credit to taxpayers, as described in the act.\r\n\r\n\tThis act shall sunset on August 28, 2032, unless reauthorized by the General Assembly.\r\n\r\n\tThis act is identical to HB 813 (2025).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1091 - For all tax years beginning on or after January 1, 2027, this act authorizes a taxpayer to claim a tax credit for each qualified child, defined as a dependent of the taxpayer for federal tax purposes who is under 18 years of age, did not provide more than half of the costs of his or her own support, and lived with the taxpayer for more than half of the taxpayer. In order to qualify for a tax credit, a taxpayer shall have a Missouri adjusted gross income of $75,000 or less if filing single, or $150,000 if filing combined.\r\n\r\n\tThe amount of the tax credit shall be equal to $7,200 for each qualified child under the age of seven, and $3,600 for each qualified child aged seven or older, provided that a taxpayer shall not claim more than six tax credits in a tax year. Tax credits shall not be carried forward or transferred, but are refundable.\r\n\r\n\tThe Department of Revenue shall establish a program for making monthly advance payments of the tax credit to taxpayers, as described in the act.\r\n\r\n\tThis act shall sunset on August 28, 2032, unless reauthorized by the General Assembly.\r\n\r\n\tThis act is identical to HB 813 (2025).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Authorizes a child tax credit"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1091"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Cancelled S Economic and Workforce Development Committee",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Economic and Workforce Development Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lewis, Patty",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Lewis, Patty\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4832S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1091.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=565",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4832S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

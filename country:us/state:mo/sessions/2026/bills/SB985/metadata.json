@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 985",
+  "title": "SB 985 - This act modifies various provisions relating to the Secretary of State.\r\n\r\nTECHNOLOGY TRUST FUND (Various Sections)\r\nSeveral provisions in current law allow the Secretary of State (SOS) to collect an additional $5 fee on fees for filings relating to business organizations, commercial transactions, and trademarks, names, and private emblems to be credited to the state's technology trust fund. These provisions are set to expire on December 31, 2026. This act extends the expiration date to December 31, 2030.\r\n\r\n\tThis act is identical to the perfected HB 770 (2025) and similar to provisions in HCS/HB 2125 (2026), HCS/SS#2/SCS/SB 10 (2025), and SB 570 (2025).\r\n\r\nPRECINCT CODES (Sections 115.008 and 115.283)\r\nThe act requires the Secretary of State (SOS) to establish a unique identification coding system for all precincts in the state resulting in unique identification codes for each precinct in the state. Such system shall be based upon the Federal Information Processing Standards codes issued by the National Institute of Standards and Technology. Election authorities shall be responsible for implementing the unique identification coding system for all precincts within its jurisdiction in compliance with the format set out by the SOS. Additionally, all statements that are attached to an absentee ballot envelope shall contain the precinct code that corresponds to the voter's voting address.\r\n\r\n\tThis provision is identical to a provision in SB 362 (2025).\r\n\r\nVOTER REGISTRATION LIST PUBLISHED (Section 115.157)\r\nThe act requires the SOS to publish a voter registration list on the Secretary's website containing only the following information for each person registered to vote as of the 4th Wednesday prior to the election: unique voter identification numbers, voters' names, year of birth, addresses, townships or wards, and precincts. Such list shall be published not later than the 3rd Wednesday prior to the election.\r\n\r\n\tThis provision is identical to a provision in SB 362 (2025).\r\n\r\nDELIVERY OF VOTE ABSTRACTS TO SECRETARY OF STATE (Section 115.507)\r\nCurrent law requires verification boards to deliver to the Secretary of State the abstract of votes given in its jurisdiction by polling place or precinct for each primary and general election. This act requires the abstract to include both regular votes and absentee votes aggregated together and additionally requires reporting to be based solely by precinct.\r\n\r\n\tThis provision is identical to a provision in SB 362 (2025).\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 985 - This act modifies various provisions relating to the Secretary of State.\r\n\r\nTECHNOLOGY TRUST FUND (Various Sections)\r\nSeveral provisions in current law allow the Secretary of State (SOS) to collect an additional $5 fee on fees for filings relating to business organizations, commercial transactions, and trademarks, names, and private emblems to be credited to the state's technology trust fund. These provisions are set to expire on December 31, 2026. This act extends the expiration date to December 31, 2030.\r\n\r\n\tThis act is identical to the perfected HB 770 (2025) and similar to provisions in HCS/HB 2125 (2026), HCS/SS#2/SCS/SB 10 (2025), and SB 570 (2025).\r\n\r\nPRECINCT CODES (Sections 115.008 and 115.283)\r\nThe act requires the Secretary of State (SOS) to establish a unique identification coding system for all precincts in the state resulting in unique identification codes for each precinct in the state. Such system shall be based upon the Federal Information Processing Standards codes issued by the National Institute of Standards and Technology. Election authorities shall be responsible for implementing the unique identification coding system for all precincts within its jurisdiction in compliance with the format set out by the SOS. Additionally, all statements that are attached to an absentee ballot envelope shall contain the precinct code that corresponds to the voter's voting address.\r\n\r\n\tThis provision is identical to a provision in SB 362 (2025).\r\n\r\nVOTER REGISTRATION LIST PUBLISHED (Section 115.157)\r\nThe act requires the SOS to publish a voter registration list on the Secretary's website containing only the following information for each person registered to vote as of the 4th Wednesday prior to the election: unique voter identification numbers, voters' names, year of birth, addresses, townships or wards, and precincts. Such list shall be published not later than the 3rd Wednesday prior to the election.\r\n\r\n\tThis provision is identical to a provision in SB 362 (2025).\r\n\r\nDELIVERY OF VOTE ABSTRACTS TO SECRETARY OF STATE (Section 115.507)\r\nCurrent law requires verification boards to deliver to the Secretary of State the abstract of votes given in its jurisdiction by polling place or precinct for each primary and general election. This act requires the abstract to include both regular votes and absentee votes aggregated together and additionally requires reporting to be based solely by precinct.\r\n\r\n\tThis provision is identical to a provision in SB 362 (2025).\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relative to the Secretary of State"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb985"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Conducted S Local Government, Elections and Pensions Committee",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Carter, Jill",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Carter, Jill\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4160S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB985.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=231",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4160S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

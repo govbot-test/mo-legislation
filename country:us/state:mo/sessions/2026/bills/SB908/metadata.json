@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 908",
+  "title": "SB 908 - This act modifies provisions relating to firearms.\r\n\r\n\tUnder current law, no political subdivision can regulate the possession of firearms, except to prohibit the use of the open carrying of firearms.  This act repeals such exception. \r\n\r\n\tAdditionally, this act provides that any political subdivision that violates the provisions of this act shall be subject to a penalty of $50,000 per occurrence.  Any person injured by a violation of this act shall have standing to pursue an action for injunctive relief in the circuit court of the county in which the action allegedly occurred or in the circuit court of Cole County.  The court shall hold a hearing on the motion for a temporary restraining order and preliminary injunction within 30 days of service of the petition. \r\n\r\n\tThis provision is identical to SB 74 (2025).\r\n\r\n\tThis act lowers, from 19 to 18, the age at which a person may obtain a concealed carry permit, and makes a corresponding modification to a provision relating to the unlawful use of weapons.\r\n\r\n\tThese provisions are similar to SB 700 (2025).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 908 - This act modifies provisions relating to firearms.\r\n\r\n\tUnder current law, no political subdivision can regulate the possession of firearms, except to prohibit the use of the open carrying of firearms.  This act repeals such exception. \r\n\r\n\tAdditionally, this act provides that any political subdivision that violates the provisions of this act shall be subject to a penalty of $50,000 per occurrence.  Any person injured by a violation of this act shall have standing to pursue an action for injunctive relief in the circuit court of the county in which the action allegedly occurred or in the circuit court of Cole County.  The court shall hold a hearing on the motion for a temporary restraining order and preliminary injunction within 30 days of service of the petition. \r\n\r\n\tThis provision is identical to SB 74 (2025).\r\n\r\n\tThis act lowers, from 19 to 18, the age at which a person may obtain a concealed carry permit, and makes a corresponding modification to a provision relating to the unlawful use of weapons.\r\n\r\n\tThese provisions are similar to SB 700 (2025).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to firearms"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb908"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Conducted S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hudson, Brad",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Hudson, Brad\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5815S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB908.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=465",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5815S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1733",
+  "title": "SB 1733 - This act establishes \"Alyssa's Law\" and requires local educational agencies (LEAs) to implement wearable panic alert technology and critical incident response mapping.\r\n\r\n\tBeginning with the 2027-28 school year and continuing in all subsequent school years, each LEA shall provide each staff person with a wearable panic alert device.  The device shall allow for immediate contact with local emergency response agencies, shall be capable of initiating a campus-wide emergency notification, such as a lockdown, and shall include certain other features specified in the act.  Upon activation of an alert, the wearable panic alert system shall provide accurate location information at the room and floor level inside the facility and other areas that are part of the school grounds, such as parking lots and playgrounds.  Before the school year begins, all school building personnel shall receive training on the emergency protocols and appropriate use of the panic alert device.\r\n\r\n\tAdditionally, each LEA shall ensure, before the school year begins, that emergency response mapping is made available by the provider of the wearable panic alert device, at no cost to the LEA, to local first responder agencies.  Emergency response maps shall be compatible with security software used by the school, be oriented true north, be overlaid on school floor plans, contain site-specific labeling that matches the structure of school buildings, be capable of managing electronic asset tags, have the ability to provide real time updates to changes to the physical structure of buildings, and have ownership retained by the LEA, as provided in the act.\r\n\r\n\tAn LEA shall ensure all security data are accessible by a local law enforcement agency and coordinate with a local law enforcement agency to establish appropriate access protocols.  Any records relating directly to the physical security or fire safety of the school facility or revealing security or fire safety systems held by a local educational agency are confidential and exempt from public disclosure under the Missouri Sunshine Law.  Such records may, however, be disclosed to the owner or leaseholder of the school building; as required in furtherance of the LEA's official duties and responsibilities; to another agency in furtherance of that agency's official duties; or upon a showing of good cause before a court of competent jurisdiction.\r\n\r\n\tThis act is similar to a provision in HCS/HB 3174 (2026).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1733 - This act establishes \"Alyssa's Law\" and requires local educational agencies (LEAs) to implement wearable panic alert technology and critical incident response mapping.\r\n\r\n\tBeginning with the 2027-28 school year and continuing in all subsequent school years, each LEA shall provide each staff person with a wearable panic alert device.  The device shall allow for immediate contact with local emergency response agencies, shall be capable of initiating a campus-wide emergency notification, such as a lockdown, and shall include certain other features specified in the act.  Upon activation of an alert, the wearable panic alert system shall provide accurate location information at the room and floor level inside the facility and other areas that are part of the school grounds, such as parking lots and playgrounds.  Before the school year begins, all school building personnel shall receive training on the emergency protocols and appropriate use of the panic alert device.\r\n\r\n\tAdditionally, each LEA shall ensure, before the school year begins, that emergency response mapping is made available by the provider of the wearable panic alert device, at no cost to the LEA, to local first responder agencies.  Emergency response maps shall be compatible with security software used by the school, be oriented true north, be overlaid on school floor plans, contain site-specific labeling that matches the structure of school buildings, be capable of managing electronic asset tags, have the ability to provide real time updates to changes to the physical structure of buildings, and have ownership retained by the LEA, as provided in the act.\r\n\r\n\tAn LEA shall ensure all security data are accessible by a local law enforcement agency and coordinate with a local law enforcement agency to establish appropriate access protocols.  Any records relating directly to the physical security or fire safety of the school facility or revealing security or fire safety systems held by a local educational agency are confidential and exempt from public disclosure under the Missouri Sunshine Law.  Such records may, however, be disclosed to the owner or leaseholder of the school building; as required in furtherance of the LEA's official duties and responsibilities; to another agency in furtherance of that agency's official duties; or upon a showing of good cause before a court of competent jurisdiction.\r\n\r\n\tThis act is similar to a provision in HCS/HB 3174 (2026).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes \"Alyssa's Law\" and requires local educational agencies to implement wearable panic alert technology and critical incident response mapping"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1733"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gregory (15), David",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Gregory (15), David\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7375S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1733.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6457872",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7375S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

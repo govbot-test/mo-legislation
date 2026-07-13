@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1537",
+  "title": "SB 1537 - This act authorizes a tax credit for one hundred percent of the costs incurred by a taxpayer for enrolling the taxpayer's qualified youth in a qualified firearm safety course, as such terms are defined in the act. No tax credit shall exceed $100 per eligible youth per tax year. Tax credits authorized by the act shall be refundable, and shall not be transferred, sold, or assigned. \r\n\r\n\tA taxpayer shall submit documentation to the Department of Public Safety verifying completion of a course, as well as all incurred costs. The Department shall maintain a list of qualifying courses on its website.\r\n\r\n\tThis act shall sunset on December 31, 2032, unless reauthorized by the General Assembly.\r\n\r\n\tThis act is identical to SB 1434 (2026).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1537 - This act authorizes a tax credit for one hundred percent of the costs incurred by a taxpayer for enrolling the taxpayer's qualified youth in a qualified firearm safety course, as such terms are defined in the act. No tax credit shall exceed $100 per eligible youth per tax year. Tax credits authorized by the act shall be refundable, and shall not be transferred, sold, or assigned. \r\n\r\n\tA taxpayer shall submit documentation to the Department of Public Safety verifying completion of a course, as well as all incurred costs. The Department shall maintain a list of qualifying courses on its website.\r\n\r\n\tThis act shall sunset on December 31, 2032, unless reauthorized by the General Assembly.\r\n\r\n\tThis act is identical to SB 1434 (2026).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Authorizes a tax credit for certain firearm safety training courses"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1537"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gregory (15), David",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Gregory (15), David\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6290S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1537.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=626314",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6290S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

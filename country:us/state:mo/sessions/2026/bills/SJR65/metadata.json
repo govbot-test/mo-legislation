@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SJR 65",
+  "title": "SJR 65 - Under current law, an initiative petition proposing a constitutional amendment must contain a single subject and matters properly connected therewith. This constitutional amendment, if approved by the voters, would additionally stipulate that an initiative petition proposing a constitutional amendment contains a single subject only if it does not extend beyond one sole purpose and only contains additions or changes that are necessary to effectuate a single legislative change.\r\n\r\n\tThis provision is identical to SJR 56 (2024) and SJR 12 (2023).\r\n\r\n\tThe amendment additionally provides that each initiative petition that has been approved to be circulated for signature gathering shall have a summary statement of the measure prepared. The summary statement shall not exceed 100 words and shall be a complete, concise, clear, and accurate statement of the measure. If a court of competent jurisdiction finds that a summary statement is not a complete, concise, clear, and accurate statement of the measure and that a complete, concise, clear, and accurate statement cannot possibly be written in one hundred or less words, the court shall prohibit the measure from being circulated for further signatures or, in the event that the measure has been certified to be placed on the ballot, the court shall order the measure to be removed from the ballot.\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SJR 65 - Under current law, an initiative petition proposing a constitutional amendment must contain a single subject and matters properly connected therewith. This constitutional amendment, if approved by the voters, would additionally stipulate that an initiative petition proposing a constitutional amendment contains a single subject only if it does not extend beyond one sole purpose and only contains additions or changes that are necessary to effectuate a single legislative change.\r\n\r\n\tThis provision is identical to SJR 56 (2024) and SJR 12 (2023).\r\n\r\n\tThe amendment additionally provides that each initiative petition that has been approved to be circulated for signature gathering shall have a summary statement of the measure prepared. The summary statement shall not exceed 100 words and shall be a complete, concise, clear, and accurate statement of the measure. If a court of competent jurisdiction finds that a summary statement is not a complete, concise, clear, and accurate statement of the measure and that a complete, concise, clear, and accurate statement cannot possibly be written in one hundred or less words, the court shall prohibit the measure from being circulated for further signatures or, in the event that the measure has been certified to be placed on the ballot, the court shall order the measure to be removed from the ballot.\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to initiative petitions"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sjr65"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Cierpiot, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Cierpiot, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3842S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR65.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=77",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3842S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

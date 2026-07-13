@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1722",
+  "title": "SB 1722 - Under the act, when issuance or denial of an environmental permit is appealed, and the Administrative Hearing Commission does not issue a final decision within the timeframe described in the act, the Commission shall issue a decision affirming the issuance of the permit.\r\n\r\n\tIn any appeal filed by an adversely affected party challenging the issuance of a permit issued by the Department of Natural Resources to a different person, and the Commission affirms the issuance of such permit, when the person to whom the permit was issued is a party or intervenor to the appeal, the Commission shall award the permittee reasonable fees, damages, and expenses incurred in the civil action or agency proceeding, unless the court or agency finds that the position of the adversely affected party was substantially justified. The permittee may seek award of such reasonable fees, damages, and expenses in a manner provided in current law.\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1722 - Under the act, when issuance or denial of an environmental permit is appealed, and the Administrative Hearing Commission does not issue a final decision within the timeframe described in the act, the Commission shall issue a decision affirming the issuance of the permit.\r\n\r\n\tIn any appeal filed by an adversely affected party challenging the issuance of a permit issued by the Department of Natural Resources to a different person, and the Commission affirms the issuance of such permit, when the person to whom the permit was issued is a party or intervenor to the appeal, the Commission shall award the permittee reasonable fees, damages, and expenses incurred in the civil action or agency proceeding, unless the court or agency finds that the position of the adversely affected party was substantially justified. The permittee may seek award of such reasonable fees, damages, and expenses in a manner provided in current law.\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to environmental appeals"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1722"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gregory (21), Kurtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Gregory (21), Kurtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7425S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1722.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6457861",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7425S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Third Read and Passed with Amendments (H) - HPA 1, adopted - AYES: 86 NOES: 53 PRESENT: 4",
+    "occurred_at": "2026-02-23T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.house.mo.gov/BillContent.aspx?bill=HB2178&year=2026&code=R&style=new",
+        "note": ""
+      },
+      {
+        "url": "https://house.mo.gov/billactions.aspx?bill=HB2178&year=2026&code=R",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 2178"
+}

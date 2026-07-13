@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1271",
+  "title": "SB 1271 - Current law requires school districts to adopt a written policy regarding the provision of certain accommodations for lactating employees, teachers, and students.  This act requires charter schools, in addition to school districts, to adopt such a policy and provide such accommodations.  \r\n\r\n\tThe act specifies that each school building shall contain suitable accommodation in the form of a \"private and secure\" room designated for the exclusive use of women and \"lactating students\" that includes certain features established in current law, such as running water, a refrigerator for breast milk storage, and electrical outlets.\r\n\r\n\tAdditionally, a public school or charter school shall ensure that a lactating student is given a reasonable amount of time to accommodate the need to express breast milk, and a student shall not incur an academic penalty as a result of the use, during the school day, of the accommodations provided for under the act. \r\n\r\n\tThe Department of Elementary and Secondary Education shall develop a model policy that satisfies the provisions of the act before January 1, 2027.  School districts and charter schools shall adopt a written policy pursuant to the provisions of the act before July 1, 2027.\t\r\n\t\t\t\t\t\t\t\t\r\n\tThis act is similar to SB 343 (2025).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1271 - Current law requires school districts to adopt a written policy regarding the provision of certain accommodations for lactating employees, teachers, and students.  This act requires charter schools, in addition to school districts, to adopt such a policy and provide such accommodations.  \r\n\r\n\tThe act specifies that each school building shall contain suitable accommodation in the form of a \"private and secure\" room designated for the exclusive use of women and \"lactating students\" that includes certain features established in current law, such as running water, a refrigerator for breast milk storage, and electrical outlets.\r\n\r\n\tAdditionally, a public school or charter school shall ensure that a lactating student is given a reasonable amount of time to accommodate the need to express breast milk, and a student shall not incur an academic penalty as a result of the use, during the school day, of the accommodations provided for under the act. \r\n\r\n\tThe Department of Elementary and Secondary Education shall develop a model policy that satisfies the provisions of the act before January 1, 2027.  School districts and charter schools shall adopt a written policy pursuant to the provisions of the act before July 1, 2027.\t\r\n\t\t\t\t\t\t\t\t\r\n\tThis act is similar to SB 343 (2025).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates and modifies provisions relating to lactation accommodations in public schools and charter schools"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1271"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Washington, Barbara",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Washington, Barbara\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4336S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1271.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=652",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4336S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

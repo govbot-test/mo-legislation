@@ -1,0 +1,141 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1069",
+  "title": "SCS/SB 1069 - Currently, no person shall sell, dispense, or purchase, over a 12 month period, more than a total amount of 43.2 grams of certain meth precursors.  This act increases the amount to 61.2 grams.\r\n\r\n\tBeginning October 1, 2026, any manufacturer of a meth precursor drug that is sold in or into this state shall pay a monthly fee to the administrator of the real-time electronic pseudoephedrine tracking system, as described in the act.  The fee is set by the administrator.\r\n\r\n\tA manufacturer commits the offense of unlawful, sale, distribution, or purchase of over-the-counter methamphetamine precursor drugs if the manufacturer knowingly fails to pay the fees required by this act.\r\n\r\n\tThis act is substantially similar to provisions in SCS/SB 841 (2026), SB 726 (2025), HB 1036 (2025), provisions of HCS/SS/SB 7 (2025), SCS/SB 317 (2025), SCS/HCS/HB 943 (2025), SB 548 (2025), and SB 143 (2025).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SCS/SB 1069 - Currently, no person shall sell, dispense, or purchase, over a 12 month period, more than a total amount of 43.2 grams of certain meth precursors.  This act increases the amount to 61.2 grams.\r\n\r\n\tBeginning October 1, 2026, any manufacturer of a meth precursor drug that is sold in or into this state shall pay a monthly fee to the administrator of the real-time electronic pseudoephedrine tracking system, as described in the act.  The fee is set by the administrator.\r\n\r\n\tA manufacturer commits the offense of unlawful, sale, distribution, or purchase of over-the-counter methamphetamine precursor drugs if the manufacturer knowingly fails to pay the fees required by this act.\r\n\r\n\tThis act is substantially similar to provisions in SCS/SB 841 (2026), SB 726 (2025), HB 1036 (2025), provisions of HCS/SS/SB 7 (2025), SCS/SB 317 (2025), SCS/HCS/HB 943 (2025), SB 548 (2025), and SB 143 (2025).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Limits the sale or purchase of certain drugs"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1069"
+    }
+  ],
+  "actions": [
+    {
+      "description": "SCS Voted Do Pass S Families, Seniors and Health Committee (4496S.02C)",
+      "date": "2026-04-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Families, Seniors and Health Committee",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Henderson, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Henderson, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB1069.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4496S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1069.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=317",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4496S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

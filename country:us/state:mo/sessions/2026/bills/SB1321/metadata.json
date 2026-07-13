@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1321",
+  "title": "SB 1321 - This act creates the offense of improper entry by an alien. A person commits the offense of improper entry by an alien if the person enters this state at a time when they are unlawfully present in this country under federal law.\r\n\r\n\tThe offense of improper entry by an alien is punishable by a fine of $10,000 and shall be subject to an order of removal to a federal port of entry, as provided in the act. For all subsequent offenses, the offense is a class E felony, subject to a term of imprisonment of 1-7 years and a $10,000 fine and additionally shall be subject to an order of removal to a federal port of entry upon the completion of any prison term.\r\n\r\n\tAny person serving a term of imprisonment for violation of this act may petition the circuit court for an order of removal in lieu of serving out the term of imprisonment. Such a request shall be granted absent aggravating circumstances. Any person granted such a petition who thereafter returns to this state in violation of federal law shall be subject to completion of the unfinished term of imprisonment and may not apply for any further order of removal.\r\n\r\n\tThe act allows any law enforcement officer whose duty it is to enforce criminal laws to arrest or detain such person upon probable cause that a person who has violated this act.\r\n\r\n\tThis act is identical to SB 282 (2025) and SB 1333 (2024), substantially similar to a provision in SB 1372 (2024) and SB 1520 (2024) and similar to SB 1338 (2026).\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1321 - This act creates the offense of improper entry by an alien. A person commits the offense of improper entry by an alien if the person enters this state at a time when they are unlawfully present in this country under federal law.\r\n\r\n\tThe offense of improper entry by an alien is punishable by a fine of $10,000 and shall be subject to an order of removal to a federal port of entry, as provided in the act. For all subsequent offenses, the offense is a class E felony, subject to a term of imprisonment of 1-7 years and a $10,000 fine and additionally shall be subject to an order of removal to a federal port of entry upon the completion of any prison term.\r\n\r\n\tAny person serving a term of imprisonment for violation of this act may petition the circuit court for an order of removal in lieu of serving out the term of imprisonment. Such a request shall be granted absent aggravating circumstances. Any person granted such a petition who thereafter returns to this state in violation of federal law shall be subject to completion of the unfinished term of imprisonment and may not apply for any further order of removal.\r\n\r\n\tThe act allows any law enforcement officer whose duty it is to enforce criminal laws to arrest or detain such person upon probable cause that a person who has violated this act.\r\n\r\n\tThis act is identical to SB 282 (2025) and SB 1333 (2024), substantially similar to a provision in SB 1372 (2024) and SB 1520 (2024) and similar to SB 1338 (2026).\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates new provisions relating to illegal immigrants"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1321"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brown (26), Ben",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brown (26), Ben\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4281S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1321.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=259",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4281S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

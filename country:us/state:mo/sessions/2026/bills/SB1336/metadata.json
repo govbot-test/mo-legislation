@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1336",
+  "title": "SB 1336 - For all tax years beginning on or after January 1, 2027, this act authorizes a tax credit in the amount of $5,000 for a taxpayer that is a first-time home buyer purchasing an eligible blighted property, as described in the act. To be eligible, a taxpayer shall also enter into an agreement with the land clearance for redevelopment authority to use such property as a principal residence for at least two years following rehabilitation of the property, shall purchase the property within one year or contract for purchase within six months of applying for a tax credit, and shall meet certain income requirements as described in the act.\r\n\r\n\tThe tax credit authorized by this act shall not be refundable or transferable, but may be carried forward for five years.\r\n\r\n\tThis act shall sunset after six years unless reauthorized by the General Assembly.\r\n\r\n\tThis act is identical to SB 404 (2025), SB 425 (2023), SB 719 (2022), SB 84 (2021), and HB 1588 (2020), and is substantially similar to SB 970 (2024).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1336 - For all tax years beginning on or after January 1, 2027, this act authorizes a tax credit in the amount of $5,000 for a taxpayer that is a first-time home buyer purchasing an eligible blighted property, as described in the act. To be eligible, a taxpayer shall also enter into an agreement with the land clearance for redevelopment authority to use such property as a principal residence for at least two years following rehabilitation of the property, shall purchase the property within one year or contract for purchase within six months of applying for a tax credit, and shall meet certain income requirements as described in the act.\r\n\r\n\tThe tax credit authorized by this act shall not be refundable or transferable, but may be carried forward for five years.\r\n\r\n\tThis act shall sunset after six years unless reauthorized by the General Assembly.\r\n\r\n\tThis act is identical to SB 404 (2025), SB 425 (2023), SB 719 (2022), SB 84 (2021), and HB 1588 (2020), and is substantially similar to SB 970 (2024).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Authorizes a tax credit for the purchase of certain homes"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1336"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Economic and Workforce Development Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Washington, Barbara",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Washington, Barbara\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4342S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1336.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=657",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4342S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

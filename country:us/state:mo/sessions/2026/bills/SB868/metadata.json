@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 868",
+  "title": "SB 868 - This act creates the offense of unlawful possession of a firearm by a minor.  A person under the age of 18 commits such offense if he or she knowingly possesses a handgun or ammunition for a handgun.  This offense shall be a class A misdemeanor. \r\n\r\n\tThis act shall not apply to any of the following people with the prior written consent of his or her parent or guardian:\r\n\u2022\tA temporary transfer or possession of a handgun or ammunition by a person under the age of 18 in the course of employment, farming, target practice, hunting, or during a firearms safety course;\r\n\u2022\tA person under the age of 18 who is a member of the U.S. Armed Forces or National Guard;\r\n\u2022\tA transfer by inheritance of title of a handgun or ammunition to a person under the age of 18; and \r\n\u2022\tA person under the age of 18 who is using a handgun or ammunition in self-defense. \r\n\r\n\tAdditionally, this act provides that any firearm confiscated for the purposes of prosecution or investigation shall be returned to the owner if the firearm was used by a minor to commit an unlawful act and such minor was not the lawful owner of the firearm. \r\n\r\n\tThis act is identical to SB 922 (2026), SB 34 (2025), and SB 790 (2024), is substantially similar to HB 2631 (2026), HB 695 (2025), and SB 217 (2023), and is identical to a provision contained in SB 1793 (2026).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 868 - This act creates the offense of unlawful possession of a firearm by a minor.  A person under the age of 18 commits such offense if he or she knowingly possesses a handgun or ammunition for a handgun.  This offense shall be a class A misdemeanor. \r\n\r\n\tThis act shall not apply to any of the following people with the prior written consent of his or her parent or guardian:\r\n\u2022\tA temporary transfer or possession of a handgun or ammunition by a person under the age of 18 in the course of employment, farming, target practice, hunting, or during a firearms safety course;\r\n\u2022\tA person under the age of 18 who is a member of the U.S. Armed Forces or National Guard;\r\n\u2022\tA transfer by inheritance of title of a handgun or ammunition to a person under the age of 18; and \r\n\u2022\tA person under the age of 18 who is using a handgun or ammunition in self-defense. \r\n\r\n\tAdditionally, this act provides that any firearm confiscated for the purposes of prosecution or investigation shall be returned to the owner if the firearm was used by a minor to commit an unlawful act and such minor was not the lawful owner of the firearm. \r\n\r\n\tThis act is identical to SB 922 (2026), SB 34 (2025), and SB 790 (2024), is substantially similar to HB 2631 (2026), HB 695 (2025), and SB 217 (2023), and is identical to a provision contained in SB 1793 (2026).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates the offense of unlawful possession of a firearm by a minor"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb868"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roberts, Steven",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Roberts, Steven\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4786S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB868.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=184",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4786S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

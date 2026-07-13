@@ -1,0 +1,141 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 899",
+  "title": "SCS/SB 899 - This act requires animal control officers and animal humane investigators to be mandated reporters in cases of abuse and neglect of children, the elderly, and other vulnerable persons.  Additionally, animal control officers and animal humane investigators shall be required to receive one and one-half hours of training within the first 60 days of employment to recognize the signs of abuse or neglect in children, the elderly, and vulnerable persons.\r\n\r\n\tThis act creates a mandated reporting requirement for certain mental health, educational, protective services, and law enforcement personnel to report cases of animal abuse or neglect to a hotline established by the Missouri Animal Control Association (MACA).  MACA shall provide the report of abuse or neglect to any duly-authorized law enforcement official, county or municipal animal control officer, or animal cruelty investigator.  If the mandated reporter is an employee of an agency or political subdivision of the state and fails to make a report as required under this provision, the employer shall send a written notice to the employee noting the failure and providing a reminder of the requirements of reporting animal abuse or neglect.  Additionally, a mandated reporter who fails to make a report shall be subject to discipline by his or her professional licensing board, as well as a fine, as described in the act.\r\n\r\n\tFinally, protective services employees with direct contact with children, the elderly, and vulnerable persons shall be required to receive one and one-half hours of training within the first 60 days of employment to recognize the signs of abuse or neglect in animals.\r\n\r\n\tThis act is substantially similar to provisions in SB 65 (2025), HCS/SS/SB 66 (2025), SB 655 (2025), HB 1298 (2025), and HB 325 (2025) and similar to HB 2292 (2026), SB 995 (2024), SB 1259 (2024), SB 91 (2023), and SB 1182 (2022).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SCS/SB 899 - This act requires animal control officers and animal humane investigators to be mandated reporters in cases of abuse and neglect of children, the elderly, and other vulnerable persons.  Additionally, animal control officers and animal humane investigators shall be required to receive one and one-half hours of training within the first 60 days of employment to recognize the signs of abuse or neglect in children, the elderly, and vulnerable persons.\r\n\r\n\tThis act creates a mandated reporting requirement for certain mental health, educational, protective services, and law enforcement personnel to report cases of animal abuse or neglect to a hotline established by the Missouri Animal Control Association (MACA).  MACA shall provide the report of abuse or neglect to any duly-authorized law enforcement official, county or municipal animal control officer, or animal cruelty investigator.  If the mandated reporter is an employee of an agency or political subdivision of the state and fails to make a report as required under this provision, the employer shall send a written notice to the employee noting the failure and providing a reminder of the requirements of reporting animal abuse or neglect.  Additionally, a mandated reporter who fails to make a report shall be subject to discipline by his or her professional licensing board, as well as a fine, as described in the act.\r\n\r\n\tFinally, protective services employees with direct contact with children, the elderly, and vulnerable persons shall be required to receive one and one-half hours of training within the first 60 days of employment to recognize the signs of abuse or neglect in animals.\r\n\r\n\tThis act is substantially similar to provisions in SB 65 (2025), HCS/SS/SB 66 (2025), SB 655 (2025), HB 1298 (2025), and HB 325 (2025) and similar to HB 2292 (2026), SB 995 (2024), SB 1259 (2024), SB 91 (2023), and SB 1182 (2022).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to abuse and neglect reporting, including a requirement to report companion animal abuse"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb899"
+    }
+  ],
+  "actions": [
+    {
+      "description": "SCS Voted Do Pass S Families, Seniors and Health Committee (4274S.04C)",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Families, Seniors and Health Committee",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "McCreery, Tracy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            McCreery, Tracy\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB899.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4274S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB899.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=216",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4274S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

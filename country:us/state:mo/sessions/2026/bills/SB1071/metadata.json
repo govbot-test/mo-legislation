@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1071",
+  "title": "SB 1071 - This act modifies provisions of the Missouri Empowerment Scholarship Accounts Program. \r\n\r\n\tThe act modifies the definition of \"qualified student\" under the Program to include any resident of this state who is not an illegal alien and who is eligible to enroll in a public school or to receive early childhood special education services.  The act repeals requirements relating to students' individualized education plans or household income. \r\n\r\n\tThe act specifies that scholarship funds may be used to purchase technological devices such as calculators and personal computers, but not devices used primarily for noneducational purposes, such as televisions and telephones.  Additionally, scholarship funds may be used to purchase a commuter pass for a qualified student, rather than covering only mileage costs to and from a qualified school.\r\n\r\n\tProvisions relating to agreements with educational assistance organizations shall not be construed to require a qualified student (a) to withdraw from a public school before applying for a scholarship account if the student withdraws from the school before receiving any moneys in his or her scholarship account, or (b) to prevent a qualified student from applying for a scholarship account to be funded beginning in the following school year.\r\n\r\n\tFinally, the Missouri Empowerment Scholarship Accounts Program shall not be construed to expand the regulatory authority of the state, its officers, or any school district, with respect to the imposition of any additional requirements or restrictions on qualified schools, beyond those necessary to enforce the requirements of the Program.\r\n\r\n\tThis act is identical to SB 675 (2025).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1071 - This act modifies provisions of the Missouri Empowerment Scholarship Accounts Program. \r\n\r\n\tThe act modifies the definition of \"qualified student\" under the Program to include any resident of this state who is not an illegal alien and who is eligible to enroll in a public school or to receive early childhood special education services.  The act repeals requirements relating to students' individualized education plans or household income. \r\n\r\n\tThe act specifies that scholarship funds may be used to purchase technological devices such as calculators and personal computers, but not devices used primarily for noneducational purposes, such as televisions and telephones.  Additionally, scholarship funds may be used to purchase a commuter pass for a qualified student, rather than covering only mileage costs to and from a qualified school.\r\n\r\n\tProvisions relating to agreements with educational assistance organizations shall not be construed to require a qualified student (a) to withdraw from a public school before applying for a scholarship account if the student withdraws from the school before receiving any moneys in his or her scholarship account, or (b) to prevent a qualified student from applying for a scholarship account to be funded beginning in the following school year.\r\n\r\n\tFinally, the Missouri Empowerment Scholarship Accounts Program shall not be construed to expand the regulatory authority of the state, its officers, or any school district, with respect to the imposition of any additional requirements or restrictions on qualified schools, beyond those necessary to enforce the requirements of the Program.\r\n\r\n\tThis act is identical to SB 675 (2025).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to the Missouri Empowerment Scholarship Accounts Program"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1071"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gregory (15), David",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Gregory (15), David\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4861S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1071.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=450",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4861S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1046",
+  "title": "SB 1046 - Under this act, upon classification of a school district as unaccredited, the State Board of Education may suspend the governing or managing authority of the elected school board members of the unaccredited school district and take actions relating to special administrative boards as set forth in the act. \r\n\r\n\tCurrent law provides that a special administrative board for a school district shall have no fewer than five members.  Under this act, such board shall have seven members, four of whom shall be residents of the school district.  Each member of the board shall serve for three years, and the qualifications of the members are listed in the act.  The special administrative board shall meet at least once per month, and each member shall receive a salary of $500 a month.  Within 15 days after the vote to appoint a member to the special administrative board, if a member of the Missouri House of Representatives whose district includes the school district, in whole or in part, submits a request to the President Pro Tempore of the Senate, the appointment shall be subject to the advice and consent of the Senate.  The members of the school district's elected school board shall be ex-officio, non-voting members of the special administrative board. \r\n\r\n\tUpon failure of the school district to be classified as provisionally or fully accredited for at least two successive academic years, the State Board of Education shall require the special administrative board to establish a specific plan and timeline for achieving accreditation and shall require the special administrative board to satisfy certain other requirements, including the appointment of a new superintendent of the school district for a term of not more than three years. \r\n\r\n\tThe authority of the special administrative board shall expire at the end of the third full school year following its appointment, unless extended for not more than three school years by the State Board of Education.  Governance of the school district shall be returned to the elected school board upon the expiration of the authority of the special administrative board. \r\n\r\n\tThe act repeals a provision of law authorizing the State Board of Education to appoint additional members to any special administrative board and to set final terms of office for members of such board.  Not later than six full school years after the appointment of the special administrative board, on a date set by the State Board of Education, any district operating under the governance of a special administrative board shall return to local governance.\r\n\r\n\tThis act is identical to SB 306 (2025), is substantially similar to SB 1104 (2024), SB 272 (2023), SB 951 (2022), and HB 1774 (2022), and is similar to HB 2048 (2026), HB 387 (2025), HB 1646 (2024), and HB 63 (2023).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1046 - Under this act, upon classification of a school district as unaccredited, the State Board of Education may suspend the governing or managing authority of the elected school board members of the unaccredited school district and take actions relating to special administrative boards as set forth in the act. \r\n\r\n\tCurrent law provides that a special administrative board for a school district shall have no fewer than five members.  Under this act, such board shall have seven members, four of whom shall be residents of the school district.  Each member of the board shall serve for three years, and the qualifications of the members are listed in the act.  The special administrative board shall meet at least once per month, and each member shall receive a salary of $500 a month.  Within 15 days after the vote to appoint a member to the special administrative board, if a member of the Missouri House of Representatives whose district includes the school district, in whole or in part, submits a request to the President Pro Tempore of the Senate, the appointment shall be subject to the advice and consent of the Senate.  The members of the school district's elected school board shall be ex-officio, non-voting members of the special administrative board. \r\n\r\n\tUpon failure of the school district to be classified as provisionally or fully accredited for at least two successive academic years, the State Board of Education shall require the special administrative board to establish a specific plan and timeline for achieving accreditation and shall require the special administrative board to satisfy certain other requirements, including the appointment of a new superintendent of the school district for a term of not more than three years. \r\n\r\n\tThe authority of the special administrative board shall expire at the end of the third full school year following its appointment, unless extended for not more than three school years by the State Board of Education.  Governance of the school district shall be returned to the elected school board upon the expiration of the authority of the special administrative board. \r\n\r\n\tThe act repeals a provision of law authorizing the State Board of Education to appoint additional members to any special administrative board and to set final terms of office for members of such board.  Not later than six full school years after the appointment of the special administrative board, on a date set by the State Board of Education, any district operating under the governance of a special administrative board shall return to local governance.\r\n\r\n\tThis act is identical to SB 306 (2025), is substantially similar to SB 1104 (2024), SB 272 (2023), SB 951 (2022), and HB 1774 (2022), and is similar to HB 2048 (2026), HB 387 (2025), HB 1646 (2024), and HB 63 (2023).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to special administrative boards for unaccredited school districts"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1046"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mosley, Angela",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Mosley, Angela\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3810S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1046.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=677",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3810S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SCR 18",
+  "title": "SCR 18 - This Senate concurrent resolution establishes the \"State of Missouri Seal of Civic Recognition\" to recognize graduating high school seniors for their academic achievements and contributions to their communities.  Nominations for a Seal of Civic Recognition may be submitted to the Department of Elementary and Secondary Education (DESE) by entities specified in the resolution, such as veteran organizations and high schools.  To be eligible, a student shall satisfy certain criteria set forth in the resolution, including committing to at least one year of community or military service following graduation.  Bronze, Silver, and Gold levels of the Seal of Civic Recognition shall be awarded based on the number of years of civics-related academic instruction a student completes, as specified in the resolution.  \r\n\r\n\tA Seal of Civic Recognition shall be awarded by DESE and shall accompany the student's high school diploma.  A recipient of a Seal of Civic Recognition who also commits to military service after graduation shall additionally receive a \"Letter of Congratulations, Commendation, and State Gratitude\" signed by the Governor, the Speaker of the House of Representatives, and the Lieutenant Governor.\r\n\r\n\tThis resolution is substantially similar to HCR 31 (2026).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SCR 18 - This Senate concurrent resolution establishes the \"State of Missouri Seal of Civic Recognition\" to recognize graduating high school seniors for their academic achievements and contributions to their communities.  Nominations for a Seal of Civic Recognition may be submitted to the Department of Elementary and Secondary Education (DESE) by entities specified in the resolution, such as veteran organizations and high schools.  To be eligible, a student shall satisfy certain criteria set forth in the resolution, including committing to at least one year of community or military service following graduation.  Bronze, Silver, and Gold levels of the Seal of Civic Recognition shall be awarded based on the number of years of civics-related academic instruction a student completes, as specified in the resolution.  \r\n\r\n\tA Seal of Civic Recognition shall be awarded by DESE and shall accompany the student's high school diploma.  A recipient of a Seal of Civic Recognition who also commits to military service after graduation shall additionally receive a \"Letter of Congratulations, Commendation, and State Gratitude\" signed by the Governor, the Speaker of the House of Representatives, and the Lieutenant Governor.\r\n\r\n\tThis resolution is substantially similar to HCR 31 (2026).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the \"State of Missouri Seal of Civic Recognition\" to recognize graduating high school seniors for their academic achievements and contributions to their communities"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-scr18"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roberts, Steven",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Roberts, Steven\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6931S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SCR18.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=2581461",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6931S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

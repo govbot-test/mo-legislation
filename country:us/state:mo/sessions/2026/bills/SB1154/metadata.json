@@ -1,0 +1,128 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1154",
+  "title": "SB 1154 - This act creates the \"Act Against Abusive Website Access Litigation\". The Attorney General, on behalf of a class of residents of this state or any resident of this state who is subject to litigation that alleges any website access violation, may file a civil action against the party, attorney, or law firm that initiated such litigation for a determination as to whether such litigation alleging a website access violation is abusive litigation. A civil action alleging a website access claim is considered abusive only if the court, based on the totality of the circumstances, finds the primary purpose of the litigation was to obtain a monetary settlement unrelated to improving accessibility or enforcing accessibility rights. The act describes the factors to be considered in making this determination.\r\n\r\n\tA defendant who receives notice of an alleged website accessibility violation and in good faith takes substantial steps to correct the violation within 90 days shall have a rebuttable presumption that any subsequent litigation is not abusive. The presumption may be overcome by a showing that the defendant failed to complete reasonable corrective measures within 90 days or acted in bad faith.\r\n\r\n\tThe Attorney General may intervene or bring an action on behalf of Missouri residents that are targets of abusive website access litigation. The Attorney General may also issue guidance as to when litigation practices are deemed abusive, but such guidance shall not preclude legitimate accessibility enforcement actions.\r\n\r\n\tThe court may award attorney's fees to the party defending against the abusive litigation. The court may also award punitive damages or sanctions not to exceed three times the amount of attorney's fees awarded by the court.\r\n\r\n\tIf the U.S. Department of Justice issues standards concerning website accessibility under the federal Americans with Disabilities Act, the provisions of this act shall expire.\r\n\r\n\tThis act is substantially similar to HB 1694 (2026) and is similar to SB 907 (2026), SB 1272 (2026), HB 1674 (2026), HB 1755 (2026), HB 1780 (2026), HB 1842 (2026), HB 2056 (2026), HB 2150 (2026), and HB 2312 (2026).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1154 - This act creates the \"Act Against Abusive Website Access Litigation\". The Attorney General, on behalf of a class of residents of this state or any resident of this state who is subject to litigation that alleges any website access violation, may file a civil action against the party, attorney, or law firm that initiated such litigation for a determination as to whether such litigation alleging a website access violation is abusive litigation. A civil action alleging a website access claim is considered abusive only if the court, based on the totality of the circumstances, finds the primary purpose of the litigation was to obtain a monetary settlement unrelated to improving accessibility or enforcing accessibility rights. The act describes the factors to be considered in making this determination.\r\n\r\n\tA defendant who receives notice of an alleged website accessibility violation and in good faith takes substantial steps to correct the violation within 90 days shall have a rebuttable presumption that any subsequent litigation is not abusive. The presumption may be overcome by a showing that the defendant failed to complete reasonable corrective measures within 90 days or acted in bad faith.\r\n\r\n\tThe Attorney General may intervene or bring an action on behalf of Missouri residents that are targets of abusive website access litigation. The Attorney General may also issue guidance as to when litigation practices are deemed abusive, but such guidance shall not preclude legitimate accessibility enforcement actions.\r\n\r\n\tThe court may award attorney's fees to the party defending against the abusive litigation. The court may also award punitive damages or sanctions not to exceed three times the amount of attorney's fees awarded by the court.\r\n\r\n\tIf the U.S. Department of Justice issues standards concerning website accessibility under the federal Americans with Disabilities Act, the provisions of this act shall expire.\r\n\r\n\tThis act is substantially similar to HB 1694 (2026) and is similar to SB 907 (2026), SB 1272 (2026), HB 1674 (2026), HB 1755 (2026), HB 1780 (2026), HB 1842 (2026), HB 2056 (2026), HB 2150 (2026), and HB 2312 (2026).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the \"Act Against Abusive Website Access Litigation\" which establishes provisions relating to litigation alleging certain disability access violations"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1154"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Bill Combined w/SCS SBs 907, 1154 & 1272",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S General Laws Committee",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nicola, Joe",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nicola, Joe\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5684S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1154.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=517",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5684S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

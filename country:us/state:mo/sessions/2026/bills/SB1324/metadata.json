@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1324",
+  "title": "SB 1324 - The act creates the \"Missouri Artificial Intelligence Transparency and Accountability Act\". Provisions of the act shall become effective on January 1, 2027.\r\n\r\n\tUnder the act, any person or entity creating AI-generated content shall label the content as \"AI-generated\". Labeling requirements are described in the act.\r\n\r\n\tAny AI-generated content depicting a real individual shall include an additional disclaimer, as described in the act. Deployers, as defined in the act, shall verify the authenticity of the content before generating the content and shall obtain consent from the individual depicted in the content, except when the content is used for parody or satire.\r\n\r\n\tLabels and watermarks on any AI-generated content shall be accessible to individuals with disabilities pursuant to current laws and guidelines, as described in the act. Certain exceptions apply as described in the act.\r\n\r\n\tDevelopers and deployers shall maintain usage logs of all AI systems generating content distributed for public consumption. Requirements for the usage logs are described in the act. Any personal data of the usage logs shall be kept anonymous and protected under current laws, except when requested by law enforcement as described in the act. \r\n\r\n\tThe Attorney General shall enforce provisions of the act. Any person may report violations of the act to the Attorney General. If the Attorney General finds that a violation occurred, the Attorney General shall commence a civil action. The court may grant relief and civil penalties as described in the act.\r\n\r\n\tThe act shall not preclude an individual from bringing a private civil action for any violation of the act.\r\n\r\n\tIndividuals and entities that demonstrate good-faith compliance with the act may raise an affirmative defense to reduce civil penalties, provided they cure any violation within 30 days after receiving notice of the civil action.\r\n\r\n\tWithin 180 days after the effective date of the act, the Department of Commerce and Insurance may promulgate rules to enforce compliance with the act, as described in the act. The Department shall launch a public awareness campaign to educate Missouri residents about AI-generated content and the residents' rights under the act. The Department shall establish an AI Task Force, as described in the act. \r\n\r\n\tNothing in the act shall preempt any political subdivision from enacting stricter or more stringent ordinances, laws, or rules provided they do not conflict with provisions of the act.\r\n\r\n\tThe act has a severability clause.\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1324 - The act creates the \"Missouri Artificial Intelligence Transparency and Accountability Act\". Provisions of the act shall become effective on January 1, 2027.\r\n\r\n\tUnder the act, any person or entity creating AI-generated content shall label the content as \"AI-generated\". Labeling requirements are described in the act.\r\n\r\n\tAny AI-generated content depicting a real individual shall include an additional disclaimer, as described in the act. Deployers, as defined in the act, shall verify the authenticity of the content before generating the content and shall obtain consent from the individual depicted in the content, except when the content is used for parody or satire.\r\n\r\n\tLabels and watermarks on any AI-generated content shall be accessible to individuals with disabilities pursuant to current laws and guidelines, as described in the act. Certain exceptions apply as described in the act.\r\n\r\n\tDevelopers and deployers shall maintain usage logs of all AI systems generating content distributed for public consumption. Requirements for the usage logs are described in the act. Any personal data of the usage logs shall be kept anonymous and protected under current laws, except when requested by law enforcement as described in the act. \r\n\r\n\tThe Attorney General shall enforce provisions of the act. Any person may report violations of the act to the Attorney General. If the Attorney General finds that a violation occurred, the Attorney General shall commence a civil action. The court may grant relief and civil penalties as described in the act.\r\n\r\n\tThe act shall not preclude an individual from bringing a private civil action for any violation of the act.\r\n\r\n\tIndividuals and entities that demonstrate good-faith compliance with the act may raise an affirmative defense to reduce civil penalties, provided they cure any violation within 30 days after receiving notice of the civil action.\r\n\r\n\tWithin 180 days after the effective date of the act, the Department of Commerce and Insurance may promulgate rules to enforce compliance with the act, as described in the act. The Department shall launch a public awareness campaign to educate Missouri residents about AI-generated content and the residents' rights under the act. The Department shall establish an AI Task Force, as described in the act. \r\n\r\n\tNothing in the act shall preempt any political subdivision from enacting stricter or more stringent ordinances, laws, or rules provided they do not conflict with provisions of the act.\r\n\r\n\tThe act has a severability clause.\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates regulations of artificially generated online content using artificial intelligence"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1324"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S General Laws Committee",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S General Laws Committee",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hudson, Brad",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Hudson, Brad\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4424S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1324.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=307",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4424S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

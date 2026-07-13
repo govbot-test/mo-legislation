@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1754",
+  "title": "SB 1754 - Office of Administration\r\n\r\n\t\t\t\tOFFICE OF ADMINISTRATION\r\n\r\n.                Governor                    Senate\r\n\r\nGR            $  393,349,161             $  351,359,274\r\nFEDERAL          144,050,144                144,050,144\r\nOTHER            194,320,299                186,120,299\r\n.              _____________              _____________\r\nTOTAL         $  731,719,604             $  681,529,717\r\n\r\n\r\n.                House                      Final\r\n\r\nGR            $                                     \r\nFEDERAL                 \r\nOTHER                   \r\n.              _____________              _____________\r\nTOTAL         $           \r\n\r\n\r\n\t\t\t\t\tEMPLOYEE BENEFITS\r\n\r\n.                Governor                   Senate\r\n\r\nGR            $1,046,388,376            $1,088,281,376\r\nFEDERAL          349,665,859               354,422,859\r\nOTHER            355,137,528               355,137,528\r\n.              _____________             _____________\r\nTOTAL         $1,751,191,763            $1,797,841,763\r\n\r\n\r\n.                House                      Final\r\n\r\nGR            $                                       \r\nFEDERAL                 \r\nOTHER                    \r\n.              _____________             _____________\r\nTOTAL         $           \r\nADAM KOENIGSFELD",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1754 - Office of Administration\r\n\r\n\t\t\t\tOFFICE OF ADMINISTRATION\r\n\r\n.                Governor                    Senate\r\n\r\nGR            $  393,349,161             $  351,359,274\r\nFEDERAL          144,050,144                144,050,144\r\nOTHER            194,320,299                186,120,299\r\n.              _____________              _____________\r\nTOTAL         $  731,719,604             $  681,529,717\r\n\r\n\r\n.                House                      Final\r\n\r\nGR            $                                     \r\nFEDERAL                 \r\nOTHER                   \r\n.              _____________              _____________\r\nTOTAL         $           \r\n\r\n\r\n\t\t\t\t\tEMPLOYEE BENEFITS\r\n\r\n.                Governor                   Senate\r\n\r\nGR            $1,046,388,376            $1,088,281,376\r\nFEDERAL          349,665,859               354,422,859\r\nOTHER            355,137,528               355,137,528\r\n.              _____________             _____________\r\nTOTAL         $1,751,191,763            $1,797,841,763\r\n\r\n\r\n.                House                      Final\r\n\r\nGR            $                                       \r\nFEDERAL                 \r\nOTHER                    \r\n.              _____________             _____________\r\nTOTAL         $           \r\nADAM KOENIGSFELD"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To appropriate money for the expenses, grants, refunds, and distributions of the Office of Administration, the Department of Transportation, the Department of Conservation, the Department of Public Safety, and the Chief Executive's Office"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1754"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Appropriations Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hough, Lincoln",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Hough, Lincoln\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7434S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1754.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6479093",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7434S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

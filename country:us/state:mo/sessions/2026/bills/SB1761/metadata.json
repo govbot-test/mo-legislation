@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1761",
+  "title": "SB 1761 - Elected Officials, Judiciary, Public Defender & General Assembly\r\n\r\n.                           ELECTED OFFICIALS\r\n\r\n.                  Governor                 Senate\r\n\r\nGR               $182,820,228           $155,660,228\r\nFEDERAL            52,290,655             52,290,655\r\nOTHER             106,960,723            106,960,723\r\n.                 ___________            ___________\r\nTOTAL            $342,071,606           $314,911,606\r\n\r\n\r\n.                   House                   Final\r\n\r\nGR               $                                  \r\nFEDERAL                                             \r\nOTHER                                               \r\n.                 ___________            ___________\r\nTOTAL            $                                  \r\n\r\n\r\n.                             JUDICIARY\r\n\r\n.                  Governor                 Senate\r\n\r\nGR               $273,219,271            273,219,271\r\nFEDERAL            16,568,393             16,568,393\r\nOTHER              18,520,466             18,520,466\r\n.                 ___________            ___________\r\nTOTAL            $308,308,130            308,308,130\r\n\r\n\r\n.                   House                  Final\r\n\r\nGR               $                                  \r\nFEDERAL                                             \r\nOTHER                                               \r\n.                 ___________            ___________\r\nTOTAL            $          \r\n\r\n\r\n.                           PUBLIC DEFENDER\r\n\r\n.                  Governor                 Senate\r\n\r\nGR               $ 64,715,472          $ 64,715,472\r\nFEDERAL             1,125,245             1,125,245\r\nOTHER              28,017,958            28,017,958\r\n.                 ___________           ___________\r\nTOTAL            $ 93,858,675          $ 93,858,675\r\n\r\n\r\n.                  House                  Final\r\n\r\nGR                                                 \r\nFEDERAL\r\nOTHER\r\n.                ___________            ___________\r\nTOTAL\r\n\r\n\r\n.                           GENERAL ASSEMBLY \r\n\r\n.                  Governor                Senate\r\n\r\nGR               $ 50,047,403          $ 50,047,403\r\nFEDERAL                     0                     0\r\nOTHER                 395,400               395,400\r\n.                 ___________           ___________\r\nTOTAL            $ 50,442,803          $ 50,442,803\r\n\r\n\r\n.                     House               Final\r\n\r\nGR                                                 \r\nFEDERAL\r\nOTHER\r\n.                 ___________           ___________\r\nTOTAL\r\nADAM KOENIGSFELD",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1761 - Elected Officials, Judiciary, Public Defender & General Assembly\r\n\r\n.                           ELECTED OFFICIALS\r\n\r\n.                  Governor                 Senate\r\n\r\nGR               $182,820,228           $155,660,228\r\nFEDERAL            52,290,655             52,290,655\r\nOTHER             106,960,723            106,960,723\r\n.                 ___________            ___________\r\nTOTAL            $342,071,606           $314,911,606\r\n\r\n\r\n.                   House                   Final\r\n\r\nGR               $                                  \r\nFEDERAL                                             \r\nOTHER                                               \r\n.                 ___________            ___________\r\nTOTAL            $                                  \r\n\r\n\r\n.                             JUDICIARY\r\n\r\n.                  Governor                 Senate\r\n\r\nGR               $273,219,271            273,219,271\r\nFEDERAL            16,568,393             16,568,393\r\nOTHER              18,520,466             18,520,466\r\n.                 ___________            ___________\r\nTOTAL            $308,308,130            308,308,130\r\n\r\n\r\n.                   House                  Final\r\n\r\nGR               $                                  \r\nFEDERAL                                             \r\nOTHER                                               \r\n.                 ___________            ___________\r\nTOTAL            $          \r\n\r\n\r\n.                           PUBLIC DEFENDER\r\n\r\n.                  Governor                 Senate\r\n\r\nGR               $ 64,715,472          $ 64,715,472\r\nFEDERAL             1,125,245             1,125,245\r\nOTHER              28,017,958            28,017,958\r\n.                 ___________           ___________\r\nTOTAL            $ 93,858,675          $ 93,858,675\r\n\r\n\r\n.                  House                  Final\r\n\r\nGR                                                 \r\nFEDERAL\r\nOTHER\r\n.                ___________            ___________\r\nTOTAL\r\n\r\n\r\n.                           GENERAL ASSEMBLY \r\n\r\n.                  Governor                Senate\r\n\r\nGR               $ 50,047,403          $ 50,047,403\r\nFEDERAL                     0                     0\r\nOTHER                 395,400               395,400\r\n.                 ___________           ___________\r\nTOTAL            $ 50,442,803          $ 50,442,803\r\n\r\n\r\n.                     House               Final\r\n\r\nGR                                                 \r\nFEDERAL\r\nOTHER\r\n.                 ___________           ___________\r\nTOTAL\r\nADAM KOENIGSFELD"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To appropriate state funding for Elected Officials, the Office of Public Defender, the Judiciary, and the General Assembly"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1761"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Appropriations Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hough, Lincoln",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Hough, Lincoln\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7441S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1761.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6475227",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7441S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

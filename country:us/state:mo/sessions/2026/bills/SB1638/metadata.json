@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1638",
+  "title": "SB 1638 - This act prohibits any federal personnel performing immigration and customs enforcement operations from concealing his or her identity as federal personnel or wearing facial coverings that obscure or conceal the facial identity while performing their duties unless expressly authorized by this act. A facial covering does not include: a clear mask, a medical or surgical mask, air-purifying respirators, self-contained breathing apparatus, a motorcycle helmet worn by a person operating a vehicle that requires such helmet, or protective eyewear. This provision shall not apply to undercover operatives during an active operation, or to members of a Special Response Team.\r\n\r\n\tThis act imposes a fine upon any federal department or agency and any agents that, while acting in an official capacity, are found within one thousand feet of certain locations including but not limited to airports, courthouses, elementary or secondary school facilities, churches or places of religious worship and any hospital accessible by the public.\r\n\r\n\tUnder this act, each violation of this act imposes a fine upon the department or agency and the offending agents. The first violation imposes a one thousand dollar fine to each party. A second and subsequent violations imposes a two thousand five hundred dollar fine to each party.\r\n\r\n\tThis act contains provisions identical to those found in HB 2520 (2026).\r\nTRISTAN BENSON JR",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1638 - This act prohibits any federal personnel performing immigration and customs enforcement operations from concealing his or her identity as federal personnel or wearing facial coverings that obscure or conceal the facial identity while performing their duties unless expressly authorized by this act. A facial covering does not include: a clear mask, a medical or surgical mask, air-purifying respirators, self-contained breathing apparatus, a motorcycle helmet worn by a person operating a vehicle that requires such helmet, or protective eyewear. This provision shall not apply to undercover operatives during an active operation, or to members of a Special Response Team.\r\n\r\n\tThis act imposes a fine upon any federal department or agency and any agents that, while acting in an official capacity, are found within one thousand feet of certain locations including but not limited to airports, courthouses, elementary or secondary school facilities, churches or places of religious worship and any hospital accessible by the public.\r\n\r\n\tUnder this act, each violation of this act imposes a fine upon the department or agency and the offending agents. The first violation imposes a one thousand dollar fine to each party. A second and subsequent violations imposes a two thousand five hundred dollar fine to each party.\r\n\r\n\tThis act contains provisions identical to those found in HB 2520 (2026).\r\nTRISTAN BENSON JR"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Adds provisions relating to the actions of certain federal personnel"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1638"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lewis, Patty",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Lewis, Patty\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6789S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1638.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=3539355",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6789S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

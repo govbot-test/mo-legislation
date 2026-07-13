@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SR 542",
+  "title": "SR 542 - This Senate resolution modifies Senate Rule 50 to provide that the chair of each committee shall be authorized to report no more than three bills when the Senate is on the order of business of reports of standing committees.  The President Pro Tem of the Senate may receive additional bills from the chair at the discretion of the President Pro Tem.\r\n\r\nThis resolution is identical to SR 87 (2025) and SR 562 (2024).\r\nJIM ERTLE",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SR 542 - This Senate resolution modifies Senate Rule 50 to provide that the chair of each committee shall be authorized to report no more than three bills when the Senate is on the order of business of reports of standing committees.  The President Pro Tem of the Senate may receive additional bills from the chair at the discretion of the President Pro Tem.\r\n\r\nThis resolution is identical to SR 87 (2025) and SR 562 (2024).\r\nJIM ERTLE"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies Senate Rule 50 to allow each chair of a standing committee to report no more than three bills, with certain exceptions, when the Senate is on the order of business of reports of standing committees"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sr542"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S Offered",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Moon, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Moon, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6695S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SR542.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=744879",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6695S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

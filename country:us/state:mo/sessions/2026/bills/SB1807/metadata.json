@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1807",
+  "title": "SB 1807 - The act specifies that, starting January 1, 2031, the Office of State Courts Administrator (OSCA) and the Missouri State Highway Patrol must submit an annual report to the Joint Committee on the Justice System, the House Judiciary Committee, and the Senate Judiciary and Civil and Criminal Jurisprudence Committee. This report must include specified statistical information, including the number of eligible offenses identified, the number of records objected to for automatic expungement, and the number of expungement orders issued.\r\n\r\n\tCurrently, in a criminal prosecution for murder in the first degree, the court must instruct the jury that, in the event it cannot reach a consensus on punishment, the court may assess punishment, including death. This act repeals that provision and provides a procedure for when a jury cannot reach a unanimous decision on punishment.\r\n\r\n\tThis act also establishes an automatic record-clearing or expungement process for closing records pertaining to a \"clean slate eligible offense\", which is an offense not excluded from the eligibility for expungement. This process will be phased in and an individual can be granted more than one expungement under this act, subject to certain requirements.\r\n\r\n\tThis act also provides that, on a quarterly basis, the Highway Patrol must identify records that have become eligible in the last quarter and make these records accessible to the central repository and every prosecuting agency in the State within 100 days of the record becoming eligible for automated expungement. If a court finds, after a motion, a conviction was improperly or erroneously expunged under this provision, the court must reinstate the conviction.\r\n\r\n\tThe act provides that a credit bureau can report records of arrests, indictments pending trial, and convictions for no more than seven years from the date of final disposition. A credit bureau can no longer report these records if at any time after conviction, indictment, or arrest it is learned that a full pardon or expungement has been granted for the conviction.\r\n\r\n\tThis act creates in the State Treasury the \"Missouri Expungement Fund\", which is a fund dedicated to the creation, operation, and maintenance of the program. OSCA, the Department of Public Safety, and the Information Technology Services Division within the Office of Administration will expend money from the Fund, upon appropriation.\r\n\r\n\tThis act is identical to HB 2747 & 2047 (2026).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1807 - The act specifies that, starting January 1, 2031, the Office of State Courts Administrator (OSCA) and the Missouri State Highway Patrol must submit an annual report to the Joint Committee on the Justice System, the House Judiciary Committee, and the Senate Judiciary and Civil and Criminal Jurisprudence Committee. This report must include specified statistical information, including the number of eligible offenses identified, the number of records objected to for automatic expungement, and the number of expungement orders issued.\r\n\r\n\tCurrently, in a criminal prosecution for murder in the first degree, the court must instruct the jury that, in the event it cannot reach a consensus on punishment, the court may assess punishment, including death. This act repeals that provision and provides a procedure for when a jury cannot reach a unanimous decision on punishment.\r\n\r\n\tThis act also establishes an automatic record-clearing or expungement process for closing records pertaining to a \"clean slate eligible offense\", which is an offense not excluded from the eligibility for expungement. This process will be phased in and an individual can be granted more than one expungement under this act, subject to certain requirements.\r\n\r\n\tThis act also provides that, on a quarterly basis, the Highway Patrol must identify records that have become eligible in the last quarter and make these records accessible to the central repository and every prosecuting agency in the State within 100 days of the record becoming eligible for automated expungement. If a court finds, after a motion, a conviction was improperly or erroneously expunged under this provision, the court must reinstate the conviction.\r\n\r\n\tThe act provides that a credit bureau can report records of arrests, indictments pending trial, and convictions for no more than seven years from the date of final disposition. A credit bureau can no longer report these records if at any time after conviction, indictment, or arrest it is learned that a full pardon or expungement has been granted for the conviction.\r\n\r\n\tThis act creates in the State Treasury the \"Missouri Expungement Fund\", which is a fund dedicated to the creation, operation, and maintenance of the program. OSCA, the Department of Public Safety, and the Information Technology Services Division within the Office of Administration will expend money from the Fund, upon appropriation.\r\n\r\n\tThis act is identical to HB 2747 & 2047 (2026).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to automated expungement"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1807"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Washington, Barbara",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Washington, Barbara\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6620S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1807.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6626023",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6620S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

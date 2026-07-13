@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1125",
+  "title": "SB 1125 - This act requires a county recorder of deeds to provide notice to a property owner of record of a parcel of real property that a general warranty deed or quitclaim deed that affects the ownership of such parcel has been submitted for recording.\r\n\r\n\tThe recorder shall delay the recording of any such deed for at least five working days in order to provide time to notify property owners. If each property owner of record provides written confirmation that the deed is legitimate, the recorder may proceed with the recording. If each property owner of record notifies the recorder that the deed is fraudulent, the recorder shall delay the recording for a further two days to allow the owner of record to seek an order from a court of competent jurisdiction to prohibit the recording of the deed.\r\n\r\n\tThis act is identical to HB 323 (2025), and to a provision contained in HB 1943 (2026).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1125 - This act requires a county recorder of deeds to provide notice to a property owner of record of a parcel of real property that a general warranty deed or quitclaim deed that affects the ownership of such parcel has been submitted for recording.\r\n\r\n\tThe recorder shall delay the recording of any such deed for at least five working days in order to provide time to notify property owners. If each property owner of record provides written confirmation that the deed is legitimate, the recorder may proceed with the recording. If each property owner of record notifies the recorder that the deed is fraudulent, the recorder shall delay the recording for a further two days to allow the owner of record to seek an order from a court of competent jurisdiction to prohibit the recording of the deed.\r\n\r\n\tThis act is identical to HB 323 (2025), and to a provision contained in HB 1943 (2026).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the Real Property Fraud Prevention Act"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1125"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Select Committee on Property Taxes and the State Tax Commission Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Coleman, Mary Elizabeth",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Coleman, Mary Elizabeth\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4726S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1125.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=600",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4726S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

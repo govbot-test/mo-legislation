@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1666",
+  "title": "SB 1666 - The act establishes \"The Drinking Water Transparency and Accountability Act\".\r\n\r\n\tUnder the act, the Department of Natural Resources shall create a statewide system of accountability for community water systems and establish, by rule, a letter grade schedule to include community water system quality, performance, and sustainability based on the standards described in the act.\r\n\r\n\tThe Department shall promulgate rules for clear and appropriate explanation for each such standard and create a tiered structure of point deductions that utilizes violation metrics as described in the act. Community water systems shall be assigned a letter grade between \"A\" and \"F\".  The rules further include a provision prohibiting certain disclosures by the Department. The rules shall not deduct points for water outage or boil advisories.  For water corporations, the Department shall utilize data provided by the water corporation in its most recent general rate case within the past three years. The Department shall publish scores and letter grades earned by each community water system on its website on an annual basis, including rules by which a community water system can review and appeal the Department's scores prior to website publication. Requirements and penalties for each letter classification that a community water system receives from the Department are described in the act.\r\n\tFor any violation of the act, upon a petition from the Department, a court may appoint a receiver or fiscal administrator or to order a mandatory safe water purchase from another system as determined by the Department. The receiver's responsibilities are described in the act.\r\n\r\n\tThe Department shall publish the first letter grade under the act no later than January 1, 2028.\r\n\r\n\tA community water system receiving federal funds for the upgrade, repair, or replacement of the water system infrastructure shall submit to the Department a detailed plan describing how the federal funds will be used.\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1666 - The act establishes \"The Drinking Water Transparency and Accountability Act\".\r\n\r\n\tUnder the act, the Department of Natural Resources shall create a statewide system of accountability for community water systems and establish, by rule, a letter grade schedule to include community water system quality, performance, and sustainability based on the standards described in the act.\r\n\r\n\tThe Department shall promulgate rules for clear and appropriate explanation for each such standard and create a tiered structure of point deductions that utilizes violation metrics as described in the act. Community water systems shall be assigned a letter grade between \"A\" and \"F\".  The rules further include a provision prohibiting certain disclosures by the Department. The rules shall not deduct points for water outage or boil advisories.  For water corporations, the Department shall utilize data provided by the water corporation in its most recent general rate case within the past three years. The Department shall publish scores and letter grades earned by each community water system on its website on an annual basis, including rules by which a community water system can review and appeal the Department's scores prior to website publication. Requirements and penalties for each letter classification that a community water system receives from the Department are described in the act.\r\n\tFor any violation of the act, upon a petition from the Department, a court may appoint a receiver or fiscal administrator or to order a mandatory safe water purchase from another system as determined by the Department. The receiver's responsibilities are described in the act.\r\n\r\n\tThe Department shall publish the first letter grade under the act no later than January 1, 2028.\r\n\r\n\tA community water system receiving federal funds for the upgrade, repair, or replacement of the water system infrastructure shall submit to the Department a detailed plan describing how the federal funds will be used.\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to the regulation of community water systems"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1666"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Coleman, Mary Elizabeth",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Coleman, Mary Elizabeth\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7174S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1666.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=4514473",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7174S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

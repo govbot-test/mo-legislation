@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1260",
+  "title": "SB 1260 - This act changes \"epinephrine auto-injector\" to \"epinephrine delivery device\" throughout statute.\r\n\r\n\tThis act adds child care facilities to the definition of \"authorized entity\" in current law permitting such entities to stock a supply of epinephrine delivery devices for use in an emergency.\r\n\r\n\tFinally, this act establishes \"Elijah's Law\".  Before July 1, 2028, each licensed child care provider shall adopt a policy on allergy prevention and response with a focus on potentially deadly food-borne allergies, as specified in the act.  The Department of Elementary and Secondary Education shall develop a model policy or policies before July 1, 2027.\r\n\r\n\tThis act is substantially similar to provisions in HCS/SS/SB 7 (2025), HCS/SB 94 (2025), SB 783 (2025), SCS/HCS/HB 943 (2025), and HB 580 (2025).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1260 - This act changes \"epinephrine auto-injector\" to \"epinephrine delivery device\" throughout statute.\r\n\r\n\tThis act adds child care facilities to the definition of \"authorized entity\" in current law permitting such entities to stock a supply of epinephrine delivery devices for use in an emergency.\r\n\r\n\tFinally, this act establishes \"Elijah's Law\".  Before July 1, 2028, each licensed child care provider shall adopt a policy on allergy prevention and response with a focus on potentially deadly food-borne allergies, as specified in the act.  The Department of Elementary and Secondary Education shall develop a model policy or policies before July 1, 2027.\r\n\r\n\tThis act is substantially similar to provisions in HCS/SS/SB 7 (2025), HCS/SB 94 (2025), SB 783 (2025), SCS/HCS/HB 943 (2025), and HB 580 (2025).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Requires child care facilities to adopt allergy policies"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1260"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lewis, Patty",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Lewis, Patty\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4650S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1260.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=574",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4650S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

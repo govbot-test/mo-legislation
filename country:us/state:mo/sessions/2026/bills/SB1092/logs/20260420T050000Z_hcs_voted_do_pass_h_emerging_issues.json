@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "HCS Voted Do Pass H Emerging Issues",
+    "occurred_at": "2026-04-20T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=566",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1092"
+}

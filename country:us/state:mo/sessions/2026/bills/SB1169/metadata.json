@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1169",
+  "title": "SB 1169 - This act provides that a person shall be guilty of the offense of unlawful use of weapons if he or she carries openly or concealed on his or her person a firearm in the City of St. Louis. It shall be a class A misdemeanor for the first offense and a class E felony for any second or subsequent offenses. \r\n\r\nThe provisions of this act do not apply to:\r\n\u2022\tAny peace officers, members of the Armed Forces, and others as provided in the act;\r\n\u2022\tAny person transporting a firearm in a non-functioning state or unloaded state; and\r\n\u2022\tAny person who has a valid concealed carry permit. \r\n\r\nThis act is identical to SB 339 (2025), SB 1191 (2024), SB 65 (2023), SB 1016 (2022), and HB 1599 (2020).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1169 - This act provides that a person shall be guilty of the offense of unlawful use of weapons if he or she carries openly or concealed on his or her person a firearm in the City of St. Louis. It shall be a class A misdemeanor for the first offense and a class E felony for any second or subsequent offenses. \r\n\r\nThe provisions of this act do not apply to:\r\n\u2022\tAny peace officers, members of the Armed Forces, and others as provided in the act;\r\n\u2022\tAny person transporting a firearm in a non-functioning state or unloaded state; and\r\n\u2022\tAny person who has a valid concealed carry permit. \r\n\r\nThis act is identical to SB 339 (2025), SB 1191 (2024), SB 65 (2023), SB 1016 (2022), and HB 1599 (2020).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to the offense of unlawful use of weapons"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1169"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roberts, Steven",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Roberts, Steven\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4787S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1169.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=197",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4787S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

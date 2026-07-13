@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1185",
+  "title": "SB 1185 - This act moves the general municipal election day from the first Tuesday after the first Tuesday in April to the first Tuesday after the first Monday in November. Additionally, all bond and tax elections must be held on the first Tuesday after the first Monday in November of even-numbered years.\r\n\r\n\tThe act further modifies provisions for school board elections. Under current law, elections for school board members are held on either the general municipal election day or such day as is specified in the county charter, with terms of office ranging from three years to six years, depending on the district. This act requires all such elections to be held at the November general election and makes all such terms four years.\r\n\r\n\tThis act has a delayed effective date of January 1, 2027.\r\n\r\n\tThis act contains provisions identical to SB 485 (2025) and similar to the truly agreed to SS/SB 1002 (2026), SB 839 (2026), SB 1185 (2026), HB 1613 (2026), HB 1722 (2026), HB 3013 (2026), HB 539 (2025), HB 2536 (2024), SB 234 (2023), SB 740 (2022), HCS/HB 2306 (2022), SB 150 (2021), HB 920 (2021), SB 414 (2021), HB 361 (2019), and HCS/HB 1424 (2018). \r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1185 - This act moves the general municipal election day from the first Tuesday after the first Tuesday in April to the first Tuesday after the first Monday in November. Additionally, all bond and tax elections must be held on the first Tuesday after the first Monday in November of even-numbered years.\r\n\r\n\tThe act further modifies provisions for school board elections. Under current law, elections for school board members are held on either the general municipal election day or such day as is specified in the county charter, with terms of office ranging from three years to six years, depending on the district. This act requires all such elections to be held at the November general election and makes all such terms four years.\r\n\r\n\tThis act has a delayed effective date of January 1, 2027.\r\n\r\n\tThis act contains provisions identical to SB 485 (2025) and similar to the truly agreed to SS/SB 1002 (2026), SB 839 (2026), SB 1185 (2026), HB 1613 (2026), HB 1722 (2026), HB 3013 (2026), HB 539 (2025), HB 2536 (2024), SB 234 (2023), SB 740 (2022), HCS/HB 2306 (2022), SB 150 (2021), HB 920 (2021), SB 414 (2021), HB 361 (2019), and HCS/HB 1424 (2018). \r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Moves school board elections to the November general election"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1185"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4679S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1185.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=338",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4679S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

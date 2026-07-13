@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1199",
+  "title": "SB 1199 - This act prohibits any department, division, or other entity of the state, or any political subdivision from expending funds for intradepartmental programs, staffing, or other initiatives associated with \"diversity, equity, and inclusion\" or \"diversity, inclusion, and belonging\" or any other similar initiative, as described in the act. This act does not prohibit state departments from following anti-discrimination laws or complying with the federal Americans with Disabilities Act.\r\n\r\n\tThis provision is substantially similar to the perfected HB 742 (2025), SB 1031 (2026), and SB 1193 (2026).\r\n\r\nThe act also prohibits any oversight body, as that term is defined in the act, from requiring, as a condition of receiving an occupational license, any person to receive training or otherwise participate in any initiative associated with \u201cdiversity, equity, and inclusion\u201d or \u201cdiversity, inclusion, and belonging\u201d or any other initiative that promotes:\r\n\t\u2022\tThe preferential treatment of any individual or group of individuals based on race, color, religion, sex, gender, sexual orientation, ethnicity, national origin, or ancestry;\r\n\t\u2022\tThe concept that disparities between groups are solely the result of oppression;\r\n\t\u2022\tCollective guilt ideologies;\r\n\t\u2022\tIntersectional or divisive identity activism; or\r\n\t\u2022\tThe limiting of freedom of conscience, thought, or speech.\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1199 - This act prohibits any department, division, or other entity of the state, or any political subdivision from expending funds for intradepartmental programs, staffing, or other initiatives associated with \"diversity, equity, and inclusion\" or \"diversity, inclusion, and belonging\" or any other similar initiative, as described in the act. This act does not prohibit state departments from following anti-discrimination laws or complying with the federal Americans with Disabilities Act.\r\n\r\n\tThis provision is substantially similar to the perfected HB 742 (2025), SB 1031 (2026), and SB 1193 (2026).\r\n\r\nThe act also prohibits any oversight body, as that term is defined in the act, from requiring, as a condition of receiving an occupational license, any person to receive training or otherwise participate in any initiative associated with \u201cdiversity, equity, and inclusion\u201d or \u201cdiversity, inclusion, and belonging\u201d or any other initiative that promotes:\r\n\t\u2022\tThe preferential treatment of any individual or group of individuals based on race, color, religion, sex, gender, sexual orientation, ethnicity, national origin, or ancestry;\r\n\t\u2022\tThe concept that disparities between groups are solely the result of oppression;\r\n\t\u2022\tCollective guilt ideologies;\r\n\t\u2022\tIntersectional or divisive identity activism; or\r\n\t\u2022\tThe limiting of freedom of conscience, thought, or speech.\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Prohibits certain diversity initiatives in public bodies"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1199"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Government Efficiency Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gregory (15), David",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Gregory (15), David\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5092S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1199.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=457",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5092S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

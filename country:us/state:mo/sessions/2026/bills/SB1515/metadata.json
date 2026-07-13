@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1515",
+  "title": "SB 1515 - Under this act, referral agencies shall provide prospective residents documentation of the existence of any relationship or agreement between the agency and an independent living facility or a long-term care facility, if a fee has been received for the referral, and the right of the resident to terminate the agency's services, and the right to request not to be contacted by the agency in the future.  No facility shall pay the agency a fee until the facility receives documentation that the disclosures required under this act have been made to the resident and the resident becomes an occupant or is admitted to the facility.  The facility shall not sell or transfer the contact information of a prospective resident or the resident's legal representative to a third party without the written consent of the resident or the resident's legal representative.\r\n\r\n\tAn agency that violates this act shall be subject to a civil penalty of $500 per violation.  The Attorney General or a circuit or prosecuting attorney may bring a civil action on behalf of the state to seek the civil penalty or to enjoin continued violations by the agency.\r\n\r\n\tThis act is substantially similar to HB 2463 (2026) and similar to provisions in SCS/HCS/HB 943 (2025) and HB 390 (2025).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1515 - Under this act, referral agencies shall provide prospective residents documentation of the existence of any relationship or agreement between the agency and an independent living facility or a long-term care facility, if a fee has been received for the referral, and the right of the resident to terminate the agency's services, and the right to request not to be contacted by the agency in the future.  No facility shall pay the agency a fee until the facility receives documentation that the disclosures required under this act have been made to the resident and the resident becomes an occupant or is admitted to the facility.  The facility shall not sell or transfer the contact information of a prospective resident or the resident's legal representative to a third party without the written consent of the resident or the resident's legal representative.\r\n\r\n\tAn agency that violates this act shall be subject to a civil penalty of $500 per violation.  The Attorney General or a circuit or prosecuting attorney may bring a civil action on behalf of the state to seek the civil penalty or to enjoin continued violations by the agency.\r\n\r\n\tThis act is substantially similar to HB 2463 (2026) and similar to provisions in SCS/HCS/HB 943 (2025) and HB 390 (2025).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to referrals to facilities that offer care or services to residents"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1515"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gregory (21), Kurtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Gregory (21), Kurtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6507S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1515.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=103417",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6507S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

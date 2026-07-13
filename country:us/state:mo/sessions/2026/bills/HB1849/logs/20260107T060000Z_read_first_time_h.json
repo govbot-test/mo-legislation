@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Read First Time (H)",
+    "occurred_at": "2026-01-07T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.house.mo.gov/BillContent.aspx?bill=HB1849&year=2026&code=R&style=new",
+        "note": ""
+      },
+      {
+        "url": "https://house.mo.gov/billactions.aspx?bill=HB1849&year=2026&code=R",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1849"
+}

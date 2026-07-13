@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SJR 101",
+  "title": "SJR 101 - This constitutional amendment, if approved by the voters, establishes the \"Ed Emery Act\".\r\n\r\n\tThis amendment repeals state law relating to income and sales taxes and replaces it with rates as provided in the amendment. From January 1, 2029 to January 1, 2031, the individual income tax rate shall not exceed three percent.  Beginning January 1, 2031, the individual income tax shall be repealed.\r\n\r\n\tFrom January 1, 2029 to January 1, 2031, the state sales tax shall not exceed five percent except on food, which shall not exceed four percent.  Beginning January 1, 2031, the total of the state sales tax, conservation sales tax, and the parks and soils sales tax shall not exceed seven percent except on food, which shall not exceed five and one-half percent. The General Assembly may increase taxes or fees in the event of an emergency.\r\n\r\n\tAll sales tax revenue shall be deposited into the General Revenue Fund and appropriated by the General Assembly unless otherwise restricted by the constitution, except that a portion of the funds received shall be deposited into the School District Trust Fund.  The amount deposited in such fund shall not be less than the average annual amount deposited in the fund for fiscal years 2023-2027.\r\n\r\n\tThe sales tax shall be imposed on all retail sales of new tangible personal property and all taxable services.  All existing sales tax exemptions are repealed, other than those specifically listed in the amendment or those passed by a two-thirds majority of the General Assembly. The amendment requires all local sales tax rates to be recalculated to produce substantially the same amount of revenue as was produced on average for the five year period prior to January 1, 2029.\r\n\r\n\tBeginning January 1, 2031, the total of all sales taxes, including local taxes but excluding transportation development districts and community improvement districts, shall not exceed ten percent. Such rate may be exceeded if a local tax is approved by the voters or it is the temporary result of a recalculation of local taxes.\r\n\r\n\tThis amendment also creates a property tax relief credit equal to fifty percent of the increase in taxes on a homestead to be used on the taxpayer's current property tax bill.  To be eligible, the prior year's tax liability on the residence must have increased by more than five percent in a year of general reassessment or by more than two and one-half percent in a year without reassessment.  To qualify for the credit, a taxpayer shall be at least sixty-five years of age; have total household income of no more than $75,000, adjusted annually based on the consumer price index; and own a residence of no more than $400,000 in appraised value, adjusted annually based on the consumer price index.  Any taxpayer who claims this credit shall not also claim the Senior Citizen Property Tax Credit or any similar credit.\r\n\r\n\tThis amendment is identical to SJR 56 (2025), SJR 13 (2017), SJR 25 (2016), and SJR 11 (2015), and is similar to SJR 46 (2014), HJR 80 (2014), and HJR 25 (2013).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SJR 101 - This constitutional amendment, if approved by the voters, establishes the \"Ed Emery Act\".\r\n\r\n\tThis amendment repeals state law relating to income and sales taxes and replaces it with rates as provided in the amendment. From January 1, 2029 to January 1, 2031, the individual income tax rate shall not exceed three percent.  Beginning January 1, 2031, the individual income tax shall be repealed.\r\n\r\n\tFrom January 1, 2029 to January 1, 2031, the state sales tax shall not exceed five percent except on food, which shall not exceed four percent.  Beginning January 1, 2031, the total of the state sales tax, conservation sales tax, and the parks and soils sales tax shall not exceed seven percent except on food, which shall not exceed five and one-half percent. The General Assembly may increase taxes or fees in the event of an emergency.\r\n\r\n\tAll sales tax revenue shall be deposited into the General Revenue Fund and appropriated by the General Assembly unless otherwise restricted by the constitution, except that a portion of the funds received shall be deposited into the School District Trust Fund.  The amount deposited in such fund shall not be less than the average annual amount deposited in the fund for fiscal years 2023-2027.\r\n\r\n\tThe sales tax shall be imposed on all retail sales of new tangible personal property and all taxable services.  All existing sales tax exemptions are repealed, other than those specifically listed in the amendment or those passed by a two-thirds majority of the General Assembly. The amendment requires all local sales tax rates to be recalculated to produce substantially the same amount of revenue as was produced on average for the five year period prior to January 1, 2029.\r\n\r\n\tBeginning January 1, 2031, the total of all sales taxes, including local taxes but excluding transportation development districts and community improvement districts, shall not exceed ten percent. Such rate may be exceeded if a local tax is approved by the voters or it is the temporary result of a recalculation of local taxes.\r\n\r\n\tThis amendment also creates a property tax relief credit equal to fifty percent of the increase in taxes on a homestead to be used on the taxpayer's current property tax bill.  To be eligible, the prior year's tax liability on the residence must have increased by more than five percent in a year of general reassessment or by more than two and one-half percent in a year without reassessment.  To qualify for the credit, a taxpayer shall be at least sixty-five years of age; have total household income of no more than $75,000, adjusted annually based on the consumer price index; and own a residence of no more than $400,000 in appraised value, adjusted annually based on the consumer price index.  Any taxpayer who claims this credit shall not also claim the Senior Citizen Property Tax Credit or any similar credit.\r\n\r\n\tThis amendment is identical to SJR 56 (2025), SJR 13 (2017), SJR 25 (2016), and SJR 11 (2015), and is similar to SJR 46 (2014), HJR 80 (2014), and HJR 25 (2013).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to taxation"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sjr101"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Economic and Workforce Development Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Moon, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Moon, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5137S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR101.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=400",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5137S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

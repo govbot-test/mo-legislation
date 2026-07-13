@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1697",
+  "title": "SB 1697 - This act shall be known and may be cited as the \"Anti-Epstein Child Protection Act\".\r\n\r\n\tThis act provides that the death penalty may be sought for the offenses of statutory rape in the first degree and sexual trafficking of a child in the first degree. \r\n\r\n\tIf the death penalty is not waived by the state, the trial shall proceed in two stages before the same trier of fact.  In the first stage, the trier shall determine whether the defendant is guilty. In the second stage, if the trier found the defendant guilty of statutory rape in the first degree or sexual trafficking of a child in the first degree, the trier shall assess and determine the punishment. \r\n\r\n\tIf the trier finds by a preponderance of the evidence that the defendant is intellectually disabled, there is a mitigation of punishment, or the trier decides not to declare a punishment of death, then a punishment at life imprisonment without eligibility for parole shall be declared.  If the trier is a jury and it is unable to decide upon the punishment, the judge shall determine the punishment. \r\n\r\n\tThis act shall only apply to offenses committed on or after August 28, 2026. \r\n\r\n\tThis act is identical to SB 196 (2025) and SB 951 (2024).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1697 - This act shall be known and may be cited as the \"Anti-Epstein Child Protection Act\".\r\n\r\n\tThis act provides that the death penalty may be sought for the offenses of statutory rape in the first degree and sexual trafficking of a child in the first degree. \r\n\r\n\tIf the death penalty is not waived by the state, the trial shall proceed in two stages before the same trier of fact.  In the first stage, the trier shall determine whether the defendant is guilty. In the second stage, if the trier found the defendant guilty of statutory rape in the first degree or sexual trafficking of a child in the first degree, the trier shall assess and determine the punishment. \r\n\r\n\tIf the trier finds by a preponderance of the evidence that the defendant is intellectually disabled, there is a mitigation of punishment, or the trier decides not to declare a punishment of death, then a punishment at life imprisonment without eligibility for parole shall be declared.  If the trier is a jury and it is unable to decide upon the punishment, the judge shall determine the punishment. \r\n\r\n\tThis act shall only apply to offenses committed on or after August 28, 2026. \r\n\r\n\tThis act is identical to SB 196 (2025) and SB 951 (2024).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Enacts provisions related to the death penalty for sexual offenses involving a child"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1697"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7310S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1697.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6112607",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7310S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

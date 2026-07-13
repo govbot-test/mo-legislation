@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1753",
+  "title": "SB 1753 - Revenue & Transportation\r\n\r\n.                              REVENUE\r\n\r\n.                 Governor                     Senate\r\n\r\nGR             $   72,633,561             $   71,996,061\r\nFEDERAL               754,266                    754,266\r\nOTHER             843,110,651                843,110,651\r\n.               _____________              _____________\r\nTOTAL          $  916,498,478             $  915,860,978\r\n\r\n\r\n.                  House                        Final\r\n\r\nGR                                                      \r\nFEDERAL\r\nOTHER\r\n.               _____________              _____________\r\nTOTAL\r\n\r\n\r\n.                            TRANSPORTATION\r\n\r\n.                  Governor                     Senate\r\n\r\nGR             $  257,814,777             $  262,814,777\r\nFEDERAL           215,701,776                215,701,776\r\nOTHER           3,488,122,310              3,488,122,310\r\n.               _____________              _____________\r\nTOTAL          $3,961,638,863             $3,966,638,863\r\n\r\n\r\n.                  House                        Final\r\nGR                                                 \r\nFEDERAL\r\nOTHER\r\n.               _____________              _____________\r\nTOTAL\r\nADAM KOENIGSFELD",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1753 - Revenue & Transportation\r\n\r\n.                              REVENUE\r\n\r\n.                 Governor                     Senate\r\n\r\nGR             $   72,633,561             $   71,996,061\r\nFEDERAL               754,266                    754,266\r\nOTHER             843,110,651                843,110,651\r\n.               _____________              _____________\r\nTOTAL          $  916,498,478             $  915,860,978\r\n\r\n\r\n.                  House                        Final\r\n\r\nGR                                                      \r\nFEDERAL\r\nOTHER\r\n.               _____________              _____________\r\nTOTAL\r\n\r\n\r\n.                            TRANSPORTATION\r\n\r\n.                  Governor                     Senate\r\n\r\nGR             $  257,814,777             $  262,814,777\r\nFEDERAL           215,701,776                215,701,776\r\nOTHER           3,488,122,310              3,488,122,310\r\n.               _____________              _____________\r\nTOTAL          $3,961,638,863             $3,966,638,863\r\n\r\n\r\n.                  House                        Final\r\nGR                                                 \r\nFEDERAL\r\nOTHER\r\n.               _____________              _____________\r\nTOTAL\r\nADAM KOENIGSFELD"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To appropriate money for the expenses, grants, refunds, and distributions of the Department of Revenue and Department of Transportation"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1753"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Appropriations Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hough, Lincoln",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Hough, Lincoln\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7432S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1753.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6477162",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7432S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

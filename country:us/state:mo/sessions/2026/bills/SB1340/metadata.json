@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1340",
+  "title": "SB 1340 - Under this act, a health carrier, a pharmacy benefits manager, or an agent or affiliate of such, shall not discriminate against a covered entity, as defined in the act, including by reimbursing the covered entity for a quantity of a 340B drug in an amount less than it would pay similarly situated non-covered entities for such drugs, imposing different terms and conditions as compared to similarly situated entities, refusing to cover 340B drugs or discriminating in reimbursement for 340B drugs, and other situations described under this act.  The Director of the Department of Commerce and Insurance shall impose a civil penalty on any health carrier, pharmacy benefits manager, or agent or affiliate of such, that violates this provision, not to exceed $5,000 per violation per day.\r\n\r\n\tThis act is identical to HCS/SB 1019, provisions in the truly agreed to and finally passed 878 (2026), SB 841 (2026), provisions in the truly agreed to and finally passed SS/SCS/HCS/HB 2372 (2026), and SCS/HB 2146 (2026), and similar to a provision in SCS/HCS/HB 943 (2025) and HB 784 (2025).\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1340 - Under this act, a health carrier, a pharmacy benefits manager, or an agent or affiliate of such, shall not discriminate against a covered entity, as defined in the act, including by reimbursing the covered entity for a quantity of a 340B drug in an amount less than it would pay similarly situated non-covered entities for such drugs, imposing different terms and conditions as compared to similarly situated entities, refusing to cover 340B drugs or discriminating in reimbursement for 340B drugs, and other situations described under this act.  The Director of the Department of Commerce and Insurance shall impose a civil penalty on any health carrier, pharmacy benefits manager, or agent or affiliate of such, that violates this provision, not to exceed $5,000 per violation per day.\r\n\r\n\tThis act is identical to HCS/SB 1019, provisions in the truly agreed to and finally passed 878 (2026), SB 841 (2026), provisions in the truly agreed to and finally passed SS/SCS/HCS/HB 2372 (2026), and SCS/HB 2146 (2026), and similar to a provision in SCS/HCS/HB 943 (2025) and HB 784 (2025).\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to payments for prescription drugs, including 340B drugs"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1340"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Trent, Curtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Trent, Curtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5573S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1340.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=285",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5573S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

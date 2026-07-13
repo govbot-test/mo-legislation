@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 858",
+  "title": "SB 858 - This act amends the sections of law which were declared unconstitutional in United States v. Missouri.\r\n\r\n\tThis act creates the \"Second Amendment Preservation Act\", and lists various declarations of the Missouri General Assembly regarding the United States Constitution and the scope of the federal government's authority.  In addition, the act declares that federal supremacy does not apply to federal laws that restrict or prohibit the manufacture, ownership, and use of firearms, firearm accessories, or ammunition within the state because such laws exceed the scope of the federal government's authority.  Laws necessary for the regulation of the land and the United States Armed Forces are excluded from the types of federal firearms laws that exceed federal authority.  \r\n\r\n\tUnder this act, no public officer or state or local employee has the authority to enforce federal firearms laws against law abiding citizens.  However, state employees may accept aid from federal officials in an effort to enforce Missouri laws.  Sovereign immunity shall not be an affirmative defense under this act.\r\n\r\n\tAny political subdivision or law enforcement agency that employs a law enforcement officer who acts knowingly to deprive a Missouri citizen of certain rights or privileges ensured by the federal and state constitutions, or that knowingly employs a person who has acted under color of federal law to enforce or give material aid to enforce federal firearm laws, shall be subject to a civil penalty of $50,000 per employee hired by the law enforcement agency.  In such an action attorney's fees and costs may be awarded.\r\n\r\n\tAdditionally, a person shall have standing to pursue an action for injunctive relief in the circuit court of the county in which the action allegedly occurred or in the circuit court of Cole County.  The court shall hold a hearing on the motion for a temporary restraining order and preliminary injunction within 30 days of service of the petition.\r\n\r\n\tIt shall not be a violation of this act to provide aid to federal officials who are in pursuit of a suspect when there is a demonstrable criminal nexus with another state or county and the suspect is not a citizen of this state or is not present in this state.  It shall not be a violation of this act to aid a federal prosecution for felony crimes involving a weapons violation against a person or for felony crimes involving a weapons violation and a controlled substance violation if such violation is a class A or B felony.\r\n\r\n\tThe provisions of this act shall be applicable to offenses occurring on or after August 28, 2026.\r\n\r\n\tThis act contains a severability clause.\r\n\r\n\tThis act is identical to HCS/HB 1175 (2025), similar to SCS/SB 23 (2025) and the truly agreed to and finally passed SCS/HCS/HBs 85 & 310 (2021).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 858 - This act amends the sections of law which were declared unconstitutional in United States v. Missouri.\r\n\r\n\tThis act creates the \"Second Amendment Preservation Act\", and lists various declarations of the Missouri General Assembly regarding the United States Constitution and the scope of the federal government's authority.  In addition, the act declares that federal supremacy does not apply to federal laws that restrict or prohibit the manufacture, ownership, and use of firearms, firearm accessories, or ammunition within the state because such laws exceed the scope of the federal government's authority.  Laws necessary for the regulation of the land and the United States Armed Forces are excluded from the types of federal firearms laws that exceed federal authority.  \r\n\r\n\tUnder this act, no public officer or state or local employee has the authority to enforce federal firearms laws against law abiding citizens.  However, state employees may accept aid from federal officials in an effort to enforce Missouri laws.  Sovereign immunity shall not be an affirmative defense under this act.\r\n\r\n\tAny political subdivision or law enforcement agency that employs a law enforcement officer who acts knowingly to deprive a Missouri citizen of certain rights or privileges ensured by the federal and state constitutions, or that knowingly employs a person who has acted under color of federal law to enforce or give material aid to enforce federal firearm laws, shall be subject to a civil penalty of $50,000 per employee hired by the law enforcement agency.  In such an action attorney's fees and costs may be awarded.\r\n\r\n\tAdditionally, a person shall have standing to pursue an action for injunctive relief in the circuit court of the county in which the action allegedly occurred or in the circuit court of Cole County.  The court shall hold a hearing on the motion for a temporary restraining order and preliminary injunction within 30 days of service of the petition.\r\n\r\n\tIt shall not be a violation of this act to provide aid to federal officials who are in pursuit of a suspect when there is a demonstrable criminal nexus with another state or county and the suspect is not a citizen of this state or is not present in this state.  It shall not be a violation of this act to aid a federal prosecution for felony crimes involving a weapons violation against a person or for felony crimes involving a weapons violation and a controlled substance violation if such violation is a class A or B felony.\r\n\r\n\tThe provisions of this act shall be applicable to offenses occurring on or after August 28, 2026.\r\n\r\n\tThis act contains a severability clause.\r\n\r\n\tThis act is identical to HCS/HB 1175 (2025), similar to SCS/SB 23 (2025) and the truly agreed to and finally passed SCS/HCS/HBs 85 & 310 (2021).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to additional protections to bear arms"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb858"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-20T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brattin, Rick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brattin, Rick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5588S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB858.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=481",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5588S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1705",
+  "title": "SB 1705 - This act requires health benefit plans issued or renewed on or after January 1, 2026, to provide coverage for certain preventative health care services without cost-sharing. Such services shall be consistent with the recommendations and guidelines of the U.S. Preventative Services Task Force, the Advisory Committee on Immunization Practices of the Centers for Disease Control and Prevention, and the Health Resources and Services Administration, and related federal rules or guidance issued as of December 31, 2025.  The Director of the Department of Commerce and Insurance shall, by rule, adopt regulations to require health benefit plans to provide coverage for preventative health care services without cost-sharing requirements consistent with the recommendations and guidance of such entities issued after December 31, 2025.\r\n\r\n\tAdditionally, this act establishes the \"Health Insurance Preventative Health Care Services Advisory Committee\" within the Department, which shall consist of 5 members, three of whom will represent health care providers and two of whom will represent health carriers and health benefit plans.  The advisory committee shall meet at least once a year to consider any updates or modifications to the preventative health care services described in this act and shall submit a report of any recommendations to the Department, the General Assembly, and the Governor by November first each year.\r\n\r\n\tThis act is identical to HB 3452 (2026), and substantially similar to HB 3450 (2026).\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1705 - This act requires health benefit plans issued or renewed on or after January 1, 2026, to provide coverage for certain preventative health care services without cost-sharing. Such services shall be consistent with the recommendations and guidelines of the U.S. Preventative Services Task Force, the Advisory Committee on Immunization Practices of the Centers for Disease Control and Prevention, and the Health Resources and Services Administration, and related federal rules or guidance issued as of December 31, 2025.  The Director of the Department of Commerce and Insurance shall, by rule, adopt regulations to require health benefit plans to provide coverage for preventative health care services without cost-sharing requirements consistent with the recommendations and guidance of such entities issued after December 31, 2025.\r\n\r\n\tAdditionally, this act establishes the \"Health Insurance Preventative Health Care Services Advisory Committee\" within the Department, which shall consist of 5 members, three of whom will represent health care providers and two of whom will represent health carriers and health benefit plans.  The advisory committee shall meet at least once a year to consider any updates or modifications to the preventative health care services described in this act and shall submit a report of any recommendations to the Department, the General Assembly, and the Governor by November first each year.\r\n\r\n\tThis act is identical to HB 3452 (2026), and substantially similar to HB 3450 (2026).\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to insurance coverage of preventative healthcare services"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1705"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Insurance and Banking Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lewis, Patty",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Lewis, Patty\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6182S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1705.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6112615",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6182S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

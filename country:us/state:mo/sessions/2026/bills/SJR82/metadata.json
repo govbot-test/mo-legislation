@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SJR 82",
+  "title": "SJR 82 - This constitutional amendment, if adopted by the voters, modifies provisions relating to the General Assembly. This amendment is identical to SJR 19 (2025) and SJR 70 (2024).\r\n\r\n\tCurrent law provides that the House of Representatives shall consist of 163 members. This act reduces that number to 102 and additionally requires that all House districts shall be wholly contained within a single senate district and no more than three house districts shall be contained within any single senate district created pursuant to section 7 of this article. These changes would take effect beginning in 2033.\r\n\r\n\tThis constitutional amendment also modifies term limits for members of the General Assembly. Current law limits each person to no more than 8 years in each chamber of the General Assembly and 16 years total. This amendment would permit each person to serve up to 16 years total in the General Assembly, regardless of which chamber. This provision is identical to provisions in SJR 37 (2020) and SJR 29 (2018) and substantially similar to provisions in HJR 69 (2024), HJR 77 (2024), HJR 90 (2024), HJR 114 (2024), HJR 4 (2023), HCS/HJR 42 (2021), HJR 68 (2020), HJR 89 (2024), a provision in HJR 31 (2019), and HJR 50 (2018).\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SJR 82 - This constitutional amendment, if adopted by the voters, modifies provisions relating to the General Assembly. This amendment is identical to SJR 19 (2025) and SJR 70 (2024).\r\n\r\n\tCurrent law provides that the House of Representatives shall consist of 163 members. This act reduces that number to 102 and additionally requires that all House districts shall be wholly contained within a single senate district and no more than three house districts shall be contained within any single senate district created pursuant to section 7 of this article. These changes would take effect beginning in 2033.\r\n\r\n\tThis constitutional amendment also modifies term limits for members of the General Assembly. Current law limits each person to no more than 8 years in each chamber of the General Assembly and 16 years total. This amendment would permit each person to serve up to 16 years total in the General Assembly, regardless of which chamber. This provision is identical to provisions in SJR 37 (2020) and SJR 29 (2018) and substantially similar to provisions in HJR 69 (2024), HJR 77 (2024), HJR 90 (2024), HJR 114 (2024), HJR 4 (2023), HCS/HJR 42 (2021), HJR 68 (2020), HJR 89 (2024), a provision in HJR 31 (2019), and HJR 50 (2018).\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to the General Assembly"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sjr82"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fitzwater, Travis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Fitzwater, Travis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4494S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR82.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=125",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4494S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

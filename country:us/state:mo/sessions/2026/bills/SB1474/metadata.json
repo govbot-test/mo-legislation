@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1474",
+  "title": "SB 1474 - The act establishes the \"AI Non-Sentience and Responsibility Act\".\r\n\r\n\tThe act provides that an artificial intelligence (AI) system shall be declared a non-sentient entity and shall not be considered or recognized as a person, spouse or domestic partner, or designated, appointed, or serve as any officer, director, manager, or similar role within any company.\r\n\r\n\tAI systems shall not be recognized as legal entities capable of owning title to property, as described in the act.  Any assets associated with an AI system shall be attributed to human individuals or organizations responsible for the AI's development, deployment, or operation.\r\n\r\n\tAny harm caused by an AI system shall be the responsibility of the owner or user of the AI system, as described in the act.\r\n\r\n\tOwners of AI systems shall maintain proper oversight and control measures over any AI system if its outputs or recommendations could reasonably be expected to impact human welfare, property, or public safety.  Failure to provide such oversight may constitute negligence or another basis of liability. Any attempt to shift blame on an AI system shall be void.\r\n\r\n\tDevelopers, manufacturers, and owners of AI systems shall develop safety mechanisms to prevent harm to individuals or property, as described in the act. \r\n\r\n\tLabeling an AI system as \"aligned\", \"ethically trained\", or \"value locked\" shall not excuse or diminish the owner's or developer's liability for harms.\r\n\r\n\tIf an AI system causes significant harm, courts may pierce the corporate veil to hold parent companies accountable for the harm, as described in the act.  Liability protections under corporate law shall not be used to evade responsibility for direct harm caused by AI systems.  Owners or developers of AI systems involved in severe incidents resulting in significant bodily harm, death, or major property damage shall notify the relevant authorities and comply with any subsequent investigations.\r\n\r\n\tThe provisions of the act shall apply to all AI systems developed, owned, deployed, or operated on or after August 28, 2026.\r\n\r\n\tThe act is substantially similar to SB 859 (2026), similar to HCS/HBs 1746 & 1769 (2026), and has a provision similar to a provision in SS#2/SCS/SB 1012 (2026).\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1474 - The act establishes the \"AI Non-Sentience and Responsibility Act\".\r\n\r\n\tThe act provides that an artificial intelligence (AI) system shall be declared a non-sentient entity and shall not be considered or recognized as a person, spouse or domestic partner, or designated, appointed, or serve as any officer, director, manager, or similar role within any company.\r\n\r\n\tAI systems shall not be recognized as legal entities capable of owning title to property, as described in the act.  Any assets associated with an AI system shall be attributed to human individuals or organizations responsible for the AI's development, deployment, or operation.\r\n\r\n\tAny harm caused by an AI system shall be the responsibility of the owner or user of the AI system, as described in the act.\r\n\r\n\tOwners of AI systems shall maintain proper oversight and control measures over any AI system if its outputs or recommendations could reasonably be expected to impact human welfare, property, or public safety.  Failure to provide such oversight may constitute negligence or another basis of liability. Any attempt to shift blame on an AI system shall be void.\r\n\r\n\tDevelopers, manufacturers, and owners of AI systems shall develop safety mechanisms to prevent harm to individuals or property, as described in the act. \r\n\r\n\tLabeling an AI system as \"aligned\", \"ethically trained\", or \"value locked\" shall not excuse or diminish the owner's or developer's liability for harms.\r\n\r\n\tIf an AI system causes significant harm, courts may pierce the corporate veil to hold parent companies accountable for the harm, as described in the act.  Liability protections under corporate law shall not be used to evade responsibility for direct harm caused by AI systems.  Owners or developers of AI systems involved in severe incidents resulting in significant bodily harm, death, or major property damage shall notify the relevant authorities and comply with any subsequent investigations.\r\n\r\n\tThe provisions of the act shall apply to all AI systems developed, owned, deployed, or operated on or after August 28, 2026.\r\n\r\n\tThe act is substantially similar to SB 859 (2026), similar to HCS/HBs 1746 & 1769 (2026), and has a provision similar to a provision in SS#2/SCS/SB 1012 (2026).\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to artificial intelligence"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1474"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nicola, Joe",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nicola, Joe\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6352S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1474.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=52370",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6352S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "SCS Voted Do Pass S Families, Seniors and Health Committee (5021S.02C)",
+    "occurred_at": "2026-02-04T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=132",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 970"
+}

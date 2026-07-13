@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1124",
+  "title": "SB 1124 - This act creates new provisions that prohibit the transmission of money to unauthorized aliens within the state of Missouri by licensed money transmitters. Specifically, a licensee shall not initiate a foreign remittance transfer, as that term is defined in the act, unless the licensee has verified that the sender is not an unauthorized alien. A licensee shall pay a penalty equal to 25% of the United States dollar amount transferred, excluding any fees or charges imposed by the licensee, for any foreign remittance transfer initiated in violation of this act.\r\n\r\n\tThe act additionally requires licensees to maintain records of the documentation used to verify that the sender of a foreign remittance transfer is not an unauthorized alien and any penalties paid pursuant to this act, including the date and amount of each foreign remittance transfer and the name, date of birth, and address of each sender. The Division of Finance may at any time request, and the licensee shall provide, records of documentation used to verify that the sender of a foreign remittance transfer is not an unauthorized alien.\r\n\r\n\tProvisions are included establishing a complaint process for any person who has a good faith belief that a licensee is failing to comply with this act. Moreover, the act requires the Division to conduct random quarterly audits of licensees to ensure compliance with this act. This act contains a severability clause.\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1124 - This act creates new provisions that prohibit the transmission of money to unauthorized aliens within the state of Missouri by licensed money transmitters. Specifically, a licensee shall not initiate a foreign remittance transfer, as that term is defined in the act, unless the licensee has verified that the sender is not an unauthorized alien. A licensee shall pay a penalty equal to 25% of the United States dollar amount transferred, excluding any fees or charges imposed by the licensee, for any foreign remittance transfer initiated in violation of this act.\r\n\r\n\tThe act additionally requires licensees to maintain records of the documentation used to verify that the sender of a foreign remittance transfer is not an unauthorized alien and any penalties paid pursuant to this act, including the date and amount of each foreign remittance transfer and the name, date of birth, and address of each sender. The Division of Finance may at any time request, and the licensee shall provide, records of documentation used to verify that the sender of a foreign remittance transfer is not an unauthorized alien.\r\n\r\n\tProvisions are included establishing a complaint process for any person who has a good faith belief that a licensee is failing to comply with this act. Moreover, the act requires the Division to conduct random quarterly audits of licensees to ensure compliance with this act. This act contains a severability clause.\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates new provisions prohibiting the transmission of money to unauthorized aliens within the state of Missouri"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1124"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Insurance and Banking Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4962S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1124.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=335",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4962S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

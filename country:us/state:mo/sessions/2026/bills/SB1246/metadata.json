@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1246",
+  "title": "SB 1246 - This act modifies provisions relating to the use of self-defense. \r\n\r\nSELF DEFENSE AND PRESUMPTION OF REASONABLENESS (Section 563.031)\r\n\tUnder current law, the defendant has the burden to prove he or she reasonably believed physical or deadly force was necessary to protect him or herself or a third person. This act provides that there shall be a presumption of reasonableness that the defendant believed such force was necessary to defend him or herself or a third person.\r\n\r\n\tThis provision is identical to a provision in SB 1055 (2026), HB 2176 (2026), SB 363 (2025), HB 363 (2025), SB 771 (2024), SB 43 (2023), SB 666 (2022), and SB 1104 (2022) and is similar to a provision in SB 1345 (2026), SB 147 (2025) and in SB 1117 (2024). \r\n\r\nIMMUNITY FROM LIABILITY FOR SELF-DEFENSE (Section 563.085 and the Repeal of Section 563.016)\r\n\tThis act provides that a person who uses or threatens to use force in self-defense is immune from criminal prosecution and civil action for the use of such force, unless such force was used against a law enforcement officer who was acting in the performance of his or her official duties and the person reasonably knew or should have known that the person was a law enforcement officer.\r\n\r\n\tAdditionally, a law enforcement agency may use standard procedures for investigating the use or threatened use of force, but the agency may not arrest the person for using or threatening to use force unless the agency determines that there is probable cause that the force that was used or threatened was unlawful.\r\n\r\n\tThis act provides that the defendant can raise a claim of self-defense during a pre-trial hearing in either a criminal or civil case which shall shift the burden on the party seeking to overcome the immunity by proof of clear and convincing evidence.\r\n\r\n\tFinally, this act repeals provisions relating to civil remedies that are unaffected by criminal provisions of self-defense law. \r\n\r\n\tThese provisions are identical to provisions in SB 1055 (2026), SB 1345 (2026), SB 363 (2025), SB 147 (2025), SB 771 (2024), SB 1117 (2024), SB 43 (2023), SB 666 (2022), and SB 1104 (2022), and are similar to provisions in SB 2176 (2026), HB 363 (2025).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1246 - This act modifies provisions relating to the use of self-defense. \r\n\r\nSELF DEFENSE AND PRESUMPTION OF REASONABLENESS (Section 563.031)\r\n\tUnder current law, the defendant has the burden to prove he or she reasonably believed physical or deadly force was necessary to protect him or herself or a third person. This act provides that there shall be a presumption of reasonableness that the defendant believed such force was necessary to defend him or herself or a third person.\r\n\r\n\tThis provision is identical to a provision in SB 1055 (2026), HB 2176 (2026), SB 363 (2025), HB 363 (2025), SB 771 (2024), SB 43 (2023), SB 666 (2022), and SB 1104 (2022) and is similar to a provision in SB 1345 (2026), SB 147 (2025) and in SB 1117 (2024). \r\n\r\nIMMUNITY FROM LIABILITY FOR SELF-DEFENSE (Section 563.085 and the Repeal of Section 563.016)\r\n\tThis act provides that a person who uses or threatens to use force in self-defense is immune from criminal prosecution and civil action for the use of such force, unless such force was used against a law enforcement officer who was acting in the performance of his or her official duties and the person reasonably knew or should have known that the person was a law enforcement officer.\r\n\r\n\tAdditionally, a law enforcement agency may use standard procedures for investigating the use or threatened use of force, but the agency may not arrest the person for using or threatening to use force unless the agency determines that there is probable cause that the force that was used or threatened was unlawful.\r\n\r\n\tThis act provides that the defendant can raise a claim of self-defense during a pre-trial hearing in either a criminal or civil case which shall shift the burden on the party seeking to overcome the immunity by proof of clear and convincing evidence.\r\n\r\n\tFinally, this act repeals provisions relating to civil remedies that are unaffected by criminal provisions of self-defense law. \r\n\r\n\tThese provisions are identical to provisions in SB 1055 (2026), SB 1345 (2026), SB 363 (2025), SB 147 (2025), SB 771 (2024), SB 1117 (2024), SB 43 (2023), SB 666 (2022), and SB 1104 (2022), and are similar to provisions in SB 2176 (2026), HB 363 (2025).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to self-defense"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1246"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brown (26), Ben",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brown (26), Ben\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4728S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1246.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=265",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4728S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

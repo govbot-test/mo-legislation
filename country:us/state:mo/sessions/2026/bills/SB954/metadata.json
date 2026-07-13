@@ -1,0 +1,141 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 954",
+  "title": "SCS/SB 954 - Under the act, the authority of any electrical corporation to condemn property shall not extend to the construction of any structure or facility that uses wind or solar energy to generate or manufacture electricity.\r\n\r\n\tThe authority of any electrical corporation to condemn property shall extend to acquisition of rights needed to construct, operate, and maintain certain electrical infrastructure, described in the act, needed to collect and deliver solar or wind energy to the distribution or transmission grid.\r\n\r\n\tThis act is identical to a provision in SB 879 (2026), SB 199 (2025), a provision in SB 214 (2025), SB 1262 (2024), to a provision in SB 805 (2024), a provision in HB 1449 (2024), a provision in SCS/HCS/HB 1746 (2024), provisions in HB 1052 (2023) and substantially similar to HB 2169 (2026), a provision in HB 2478 (2026), a provision in HCS/HBs 2762, 2816 & 2402 (2026), a provision in HB 221 (2025), a provision in HCS#2/HBs 440 & 1160 (2025), HB 475 (2025), a provision in SB 139 (2025), HB 1750 (2024), and SB 577 (2023).\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SCS/SB 954 - Under the act, the authority of any electrical corporation to condemn property shall not extend to the construction of any structure or facility that uses wind or solar energy to generate or manufacture electricity.\r\n\r\n\tThe authority of any electrical corporation to condemn property shall extend to acquisition of rights needed to construct, operate, and maintain certain electrical infrastructure, described in the act, needed to collect and deliver solar or wind energy to the distribution or transmission grid.\r\n\r\n\tThis act is identical to a provision in SB 879 (2026), SB 199 (2025), a provision in SB 214 (2025), SB 1262 (2024), to a provision in SB 805 (2024), a provision in HB 1449 (2024), a provision in SCS/HCS/HB 1746 (2024), provisions in HB 1052 (2023) and substantially similar to HB 2169 (2026), a provision in HB 2478 (2026), a provision in HCS/HBs 2762, 2816 & 2402 (2026), a provision in HB 221 (2025), a provision in HCS#2/HBs 440 & 1160 (2025), HB 475 (2025), a provision in SB 139 (2025), HB 1750 (2024), and SB 577 (2023).\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to condemnation of land by certain utilities"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb954"
+    }
+  ],
+  "actions": [
+    {
+      "description": "SCS Voted Do Pass S Commerce, Consumer Protection, Energy & the Environment Committee (4506S.02C)",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bean, Jason",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Bean, Jason\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB954.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4506S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB954.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=82",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4506S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

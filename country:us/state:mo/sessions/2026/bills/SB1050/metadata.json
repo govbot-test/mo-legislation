@@ -1,0 +1,128 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1050",
+  "title": "SB 1050 - This act establishes new provisions governing the usage of autonomous vehicles.\r\n\r\nAny person may operate a fully autonomous vehicle on the public roads of this state without a human driver provided that the automated driving system is engaged and the vehicle meets the following conditions:\r\n\t\u2022\tIf a failure of the automated driving system occurs that renders that system unable to perform the entire dynamic driving task relevant to its intended operational design domain, the fully autonomous vehicle will achieve a minimal risk condition, as that term is defined in the act;\r\n\t\u2022\tThe fully autonomous vehicle is capable of operating in compliance with the applicable traffic and motor vehicle safety laws and regulations of this state when reasonable to do so, unless an exemption has been granted by the Department of Transportation; and\r\n\t\u2022\tWhen required by federal law, the vehicle bears the required manufacturer's certification label indicating that at the time of its manufacture it has been certified to be in compliance with all applicable federal motor vehicle safety standards, including reference to any exemption granted by the National Highway Traffic Safety Administration.\r\n\r\nBefore operating a fully autonomous vehicle on public roads in this state without a human driver, a person shall submit proof of financial responsibility satisfactory to the Department of Commerce and Insurance that the fully autonomous vehicle is covered by insurance or proof of self-insurance that satisfies state law. Furthermore, each fully autonomous vehicle shall be properly registered and titled in accordance with state law.\r\n\r\n\tAdditional provisions are included relating to the operation of commercial motor vehicles that are fully autonomous vehicles and on-demand autonomous vehicle networks.\r\n\r\n\tA fully autonomous vehicle that is designed to be operated exclusively by the automated driving system for all trips is not subject to motor vehicle equipment laws or regulations of this state that relate to or support motor vehicle operation by a \r\nhuman driver seated in the vehicle and are not relevant for an automated driving system.\r\n\r\n\tNo state agency, political subdivision, municipality, or local entity may prohibit the operation of fully autonomous vehicles, automated driving systems, or on-demand autonomous vehicle networks, or otherwise enact or keep in force rules or ordinances that would impose taxes, fees, or other requirements, including performance standards, specific to the operation of fully autonomous vehicles, automated driving systems, or on-demand autonomous vehicle networks in addition to the requirements of this act.\r\n\r\n\tThis act is similar to HCS/HBs 2069 & 2208 (2026).\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1050 - This act establishes new provisions governing the usage of autonomous vehicles.\r\n\r\nAny person may operate a fully autonomous vehicle on the public roads of this state without a human driver provided that the automated driving system is engaged and the vehicle meets the following conditions:\r\n\t\u2022\tIf a failure of the automated driving system occurs that renders that system unable to perform the entire dynamic driving task relevant to its intended operational design domain, the fully autonomous vehicle will achieve a minimal risk condition, as that term is defined in the act;\r\n\t\u2022\tThe fully autonomous vehicle is capable of operating in compliance with the applicable traffic and motor vehicle safety laws and regulations of this state when reasonable to do so, unless an exemption has been granted by the Department of Transportation; and\r\n\t\u2022\tWhen required by federal law, the vehicle bears the required manufacturer's certification label indicating that at the time of its manufacture it has been certified to be in compliance with all applicable federal motor vehicle safety standards, including reference to any exemption granted by the National Highway Traffic Safety Administration.\r\n\r\nBefore operating a fully autonomous vehicle on public roads in this state without a human driver, a person shall submit proof of financial responsibility satisfactory to the Department of Commerce and Insurance that the fully autonomous vehicle is covered by insurance or proof of self-insurance that satisfies state law. Furthermore, each fully autonomous vehicle shall be properly registered and titled in accordance with state law.\r\n\r\n\tAdditional provisions are included relating to the operation of commercial motor vehicles that are fully autonomous vehicles and on-demand autonomous vehicle networks.\r\n\r\n\tA fully autonomous vehicle that is designed to be operated exclusively by the automated driving system for all trips is not subject to motor vehicle equipment laws or regulations of this state that relate to or support motor vehicle operation by a \r\nhuman driver seated in the vehicle and are not relevant for an automated driving system.\r\n\r\n\tNo state agency, political subdivision, municipality, or local entity may prohibit the operation of fully autonomous vehicles, automated driving systems, or on-demand autonomous vehicle networks, or otherwise enact or keep in force rules or ordinances that would impose taxes, fees, or other requirements, including performance standards, specific to the operation of fully autonomous vehicles, automated driving systems, or on-demand autonomous vehicle networks in addition to the requirements of this act.\r\n\r\n\tThis act is similar to HCS/HBs 2069 & 2208 (2026).\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates new provisions governing autonomous vehicles"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1050"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Conducted S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Hearing Cancelled S (scomm) Committee",
+      "date": "2026-01-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fitzwater, Travis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Fitzwater, Travis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5578S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1050.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=277",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5578S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

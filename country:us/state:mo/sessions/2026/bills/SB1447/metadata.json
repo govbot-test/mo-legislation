@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1447",
+  "title": "SB 1447 - This act creates the \"Patients First Act\", which directs the Department of Commerce and Insurance to implement and enforce certain provisions of the federal Public Health Service Act.  Insurers shall not discriminate with respect to participation under the plan or coverage against any health care provider who is acting within the scope of that provider's license or certification under state law.\r\n\r\n\tHealth benefit plans shall not discriminate against health care providers based on the providers' licensure with respect to reimbursement or participation in any plan or insurance program.  All health care providers shall be reimbursed at the same rate for the same service as long as the service is within the provider's scope of practice.\r\n\r\n\tThe act shall not be construed as preventing a group health plan or a health insurance issuer from establishing varying reimbursement rates based on quality or performance measures.\r\n\r\n\tNothing in this act shall apply to licensed physicians.\r\n\r\n\tThis act is identical to HB 1894 (2026), substantially similar to SB 499 (2025), and similar to HCS/HB 530 (2025), HB 309 (2025), HB 2733 (2024), SB 558 (2023), and HB 935 (2023).\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1447 - This act creates the \"Patients First Act\", which directs the Department of Commerce and Insurance to implement and enforce certain provisions of the federal Public Health Service Act.  Insurers shall not discriminate with respect to participation under the plan or coverage against any health care provider who is acting within the scope of that provider's license or certification under state law.\r\n\r\n\tHealth benefit plans shall not discriminate against health care providers based on the providers' licensure with respect to reimbursement or participation in any plan or insurance program.  All health care providers shall be reimbursed at the same rate for the same service as long as the service is within the provider's scope of practice.\r\n\r\n\tThe act shall not be construed as preventing a group health plan or a health insurance issuer from establishing varying reimbursement rates based on quality or performance measures.\r\n\r\n\tNothing in this act shall apply to licensed physicians.\r\n\r\n\tThis act is identical to HB 1894 (2026), substantially similar to SB 499 (2025), and similar to HCS/HB 530 (2025), HB 309 (2025), HB 2733 (2024), SB 558 (2023), and HB 935 (2023).\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Enacts provisions relating to health care provider participation in health insurance plans"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1447"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Insurance and Banking Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5951S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1447.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=19782",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5951S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

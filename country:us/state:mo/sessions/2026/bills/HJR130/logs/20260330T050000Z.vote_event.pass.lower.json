@@ -1,0 +1,23 @@
+{
+  "identifier": "",
+  "motion_text": "Reported Do Pass (H) - AYES: 9 NOES: 0 PRESENT: 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-30T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "7bca9144-754e-11f1-b24a-b6ae219d7a94",
+  "bill_action": null,
+  "bill_identifier": "HJR 130",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HJR130&year=2026&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

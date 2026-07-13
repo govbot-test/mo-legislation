@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "SCS Voted Do Pass S Economic and Workforce Development Committee (6582S.04C)",
+    "occurred_at": "2026-04-15T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=627697",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1547"
+}

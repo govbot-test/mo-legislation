@@ -1,0 +1,151 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1127",
+  "title": "SCS/SB 1127 - This act requires the State Treasurer to submit an annual report to the General Assembly detailing each fund established in the state treasury from which a disbursement has not been made during the five year period ending on June thirtieth of such year, and whether or not any remaining moneys in such funds have been transferred to the General Revenue fund pursuant to current law. (Section 33.082)\r\n\r\n\tThis act also requires any remaining moneys in the following funds to be swept into the General Revenue Fund: 1) the Workers Memorial Fund (Section 8.900), 2) the State Document Preservation Fund (Section 109.005), 3) the MO HealthNet Fraud Prosecution Revolving Fund (Section 191.905), 4) the Coordinating Board for Early Childhood Fund (Section 210.102), 5) the Arrow Rock State Historic Site Endowment Fund (Section 253.092), 6) the Confederate Memorial Park Endowment Fund (Section 253.120), 7) the Missouri Dairy Industry Revitalization Fund (Section 261.275), 8) the Apple Merchandising Fund (Section 265.180), 9) the Agricultural Product Utilization and Business Development Loan Guarantee Fund (Section 348.409), and 10) the Manufactured Housing Consumer Recovery Fund (Section 700.041).\r\n\r\n\tThis act is identical to provisions in HCS/HB 3090 (2026) and is substantially similar to SB 722 (2025).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SCS/SB 1127 - This act requires the State Treasurer to submit an annual report to the General Assembly detailing each fund established in the state treasury from which a disbursement has not been made during the five year period ending on June thirtieth of such year, and whether or not any remaining moneys in such funds have been transferred to the General Revenue fund pursuant to current law. (Section 33.082)\r\n\r\n\tThis act also requires any remaining moneys in the following funds to be swept into the General Revenue Fund: 1) the Workers Memorial Fund (Section 8.900), 2) the State Document Preservation Fund (Section 109.005), 3) the MO HealthNet Fraud Prosecution Revolving Fund (Section 191.905), 4) the Coordinating Board for Early Childhood Fund (Section 210.102), 5) the Arrow Rock State Historic Site Endowment Fund (Section 253.092), 6) the Confederate Memorial Park Endowment Fund (Section 253.120), 7) the Missouri Dairy Industry Revitalization Fund (Section 261.275), 8) the Apple Merchandising Fund (Section 265.180), 9) the Agricultural Product Utilization and Business Development Loan Guarantee Fund (Section 348.409), and 10) the Manufactured Housing Consumer Recovery Fund (Section 700.041).\r\n\r\n\tThis act is identical to provisions in HCS/HB 3090 (2026) and is substantially similar to SB 722 (2025).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to funds in the state treasury"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1127"
+    }
+  ],
+  "actions": [
+    {
+      "description": "SCS Voted Do Pass S Government Efficiency Committee (4353S.03C)",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Government Efficiency Committee",
+      "date": "2026-02-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Hearing Cancelled S Government Efficiency Committee",
+      "date": "2026-01-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Government Efficiency Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Coleman, Mary Elizabeth",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Coleman, Mary Elizabeth\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB1127.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4353S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1127.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=602",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4353S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

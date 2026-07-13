@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1407",
+  "title": "SB 1407 - This act provides that the Division of Alcohol and Tobacco Control (Section 311.661) and the Missouri Gaming Commission (Sections 313.912 and 313.1000), respectively, may require applicants for certain licenses to submit fingerprints to the Missouri State Highway Patrol as part of such application process. Such licenses include, as defined in the act:\r\n\u2022\tAlcohol carrier or transportation license\r\n\u2022\tManufacturer-solicitor, domestic winery, or microbrewery license\r\n\u2022\tPrimary retail liquor license\r\n\u2022\tSolicitor license\r\n\u2022\tWholesalers license\r\n\u2022\tWine direct shipper license\r\n\u2022\tFantasy sports contest operator license\r\n\u2022\tSports wagering retail license\r\n\u2022\tSports wagering mobile license.\r\n\r\n\tThis act contains provisions identical to provisions contained in HCS/HB 3154 (2026).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1407 - This act provides that the Division of Alcohol and Tobacco Control (Section 311.661) and the Missouri Gaming Commission (Sections 313.912 and 313.1000), respectively, may require applicants for certain licenses to submit fingerprints to the Missouri State Highway Patrol as part of such application process. Such licenses include, as defined in the act:\r\n\u2022\tAlcohol carrier or transportation license\r\n\u2022\tManufacturer-solicitor, domestic winery, or microbrewery license\r\n\u2022\tPrimary retail liquor license\r\n\u2022\tSolicitor license\r\n\u2022\tWholesalers license\r\n\u2022\tWine direct shipper license\r\n\u2022\tFantasy sports contest operator license\r\n\u2022\tSports wagering retail license\r\n\u2022\tSports wagering mobile license.\r\n\r\n\tThis act contains provisions identical to provisions contained in HCS/HB 3154 (2026).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to background checks for certain license applications"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1407"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Burger, Jamie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Burger, Jamie\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5622S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1407.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=700",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5622S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

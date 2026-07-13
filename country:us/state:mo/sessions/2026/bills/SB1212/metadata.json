@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1212",
+  "title": "SB 1212 - Current law requires assessors to assess personal property at a rate of 33.3% of true value, and residential, agricultural, and all other real property at rates of 19%, 12%, and 32%, respectively. For all tax years beginning on or after January 1, 2027, this act requires the State Tax Commission to calculate the total assessed valuation for each subclass of real property, individually, and for personal property, in the aggregate. If such amount for a class or subclass exceeds such amount from the previous year for such class or subclass by more than the percent increase in inflation or five percent, whichever is less, the State Tax Commission shall adjust the assessment percentage for that class or subclass of property so that the total assessed value for that class or subclass does not exceed the amount from the previous year plus the allowable growth factor.\r\n\r\n\tThe calculations and adjustments to the assessment percentage required by the act shall be completed and submitted to each county assessor by no later than August 7 of each year. (Section 137.115)\r\n\r\n\tAdditionally, current law requires assessors to send the assessor's book to the county governing body by July 1 of each year. This act changes such date to June 1. Current law requires county clerks to forward an abstract of the assessment book to the State Tax Commission and to the governing body of each political subdivision by July 20 of each year. This act changes such date to June 20. (Section 137.245)\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1212 - Current law requires assessors to assess personal property at a rate of 33.3% of true value, and residential, agricultural, and all other real property at rates of 19%, 12%, and 32%, respectively. For all tax years beginning on or after January 1, 2027, this act requires the State Tax Commission to calculate the total assessed valuation for each subclass of real property, individually, and for personal property, in the aggregate. If such amount for a class or subclass exceeds such amount from the previous year for such class or subclass by more than the percent increase in inflation or five percent, whichever is less, the State Tax Commission shall adjust the assessment percentage for that class or subclass of property so that the total assessed value for that class or subclass does not exceed the amount from the previous year plus the allowable growth factor.\r\n\r\n\tThe calculations and adjustments to the assessment percentage required by the act shall be completed and submitted to each county assessor by no later than August 7 of each year. (Section 137.115)\r\n\r\n\tAdditionally, current law requires assessors to send the assessor's book to the county governing body by July 1 of each year. This act changes such date to June 1. Current law requires county clerks to forward an abstract of the assessment book to the State Tax Commission and to the governing body of each political subdivision by July 20 of each year. This act changes such date to June 20. (Section 137.245)\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to property assessments"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1212"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Select Committee on Property Taxes and the State Tax Commission Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nicola, Joe",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nicola, Joe\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5244S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1212.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=473",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5244S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 943",
+  "title": "SCS/SB 943 - This act applies certain current law provisions regarding nuisance actions to the City of Independence. \r\n\r\n\tThis act provides that, in addition to any other penalties or costs associated with the abatement of a nuisance, any person or entity that is not a resident of this state and who is an owner of property found to have a code or ordinance violation shall be subject to a civil fine of two thousand dollars per violation. Any property found to have a code or ordinance violation and that is structurally unsafe or poses a threat to persons or other property shall have such nuisance abated within one year of the code or ordinance violation. Any such property that is not abated within one year, and any property with unpaid civil fines within two years of the imposition of the fine shall be subject to sale by the taxing jurisdiction in which the property is located. The property shall be sold in an amount that will satisfy the costs incurred for abating the property as well as any outstanding civil fines. Such sale shall coincide with the sale of delinquent properties as provided in current law.\r\n\r\n\tThis act is identical to a provision contained in SS/SCS/SB 1001 (2026), SCS/SB 1468 (2026), and SCS/HB 3000 (2026).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SCS/SB 943 - This act applies certain current law provisions regarding nuisance actions to the City of Independence. \r\n\r\n\tThis act provides that, in addition to any other penalties or costs associated with the abatement of a nuisance, any person or entity that is not a resident of this state and who is an owner of property found to have a code or ordinance violation shall be subject to a civil fine of two thousand dollars per violation. Any property found to have a code or ordinance violation and that is structurally unsafe or poses a threat to persons or other property shall have such nuisance abated within one year of the code or ordinance violation. Any such property that is not abated within one year, and any property with unpaid civil fines within two years of the imposition of the fine shall be subject to sale by the taxing jurisdiction in which the property is located. The property shall be sold in an amount that will satisfy the costs incurred for abating the property as well as any outstanding civil fines. Such sale shall coincide with the sale of delinquent properties as provided in current law.\r\n\r\n\tThis act is identical to a provision contained in SS/SCS/SB 1001 (2026), SCS/SB 1468 (2026), and SCS/HB 3000 (2026).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to nuisance actions"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb943"
+    }
+  ],
+  "actions": [
+    {
+      "description": "SCS Voted Do Pass S Local Government, Elections and Pensions Committee (5022S.04C)",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Local Government, Elections and Pensions Committee",
+      "date": "2026-03-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "May, Karla",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            May, Karla\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB943.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "5022S.03I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB943.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=203",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5022S.03I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

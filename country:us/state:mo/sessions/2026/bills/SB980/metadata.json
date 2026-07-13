@@ -1,0 +1,140 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 980",
+  "title": "SB 980 - This act modifies the Tort Victims' Compensation Fund by providing that in addition to the current requirements, an uncompensated tort victim shall be a person who is a United States citizen or a lawful permanent resident or who holds a lawful visa issued by the United States Department of State. The Department of Labor and Industrial Relations shall verify eligibility requirements prior to the authorization of any payment from the Fund. \r\n\r\n\tAdditionally, this act provides that an administrative law judge may, as part of any award, determine and allow reasonable attorney's fees, but such fees shall not exceed 15% of the amount awarded to the claimant. No attorney shall ask for, contract for, or receive any sum larger than the amount allowed.\r\n\r\n\tThis act additionally modifies those injured victims eligible for payment from the Crime Victims' Compensation Fund. Eligible injured victims are persons who, at the time of application for compensation from the Crime Victims' Compensation Fund, are:\r\n(1)\tA United States citizen, a lawful permanent resident, or a person lawfully present under a valid visa issued by the United States Department of State; and\r\n(2)\tKilled or suffers personal physical injury in Missouri as a result of the commission or attempted commission of any crime by another person; a good-faith attempt to assist a person against whom a crime is being committed or attempted; or assisting a law enforcement officer in the apprehension of a person believed by the officer to have committed or attempted to commit a crime.\r\n\t\r\n\tThe Department of Public Safety shall verify eligibility requirements prior to the authorization of any payment from the Fund. \r\n\r\n\tThis act also modifies the amount of attorneys's fees that may be awarded from 15% to 10% of the amount subrogated to the Department of Public Safety from the claimant's legal proceeding related to the crime.  \r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 980 - This act modifies the Tort Victims' Compensation Fund by providing that in addition to the current requirements, an uncompensated tort victim shall be a person who is a United States citizen or a lawful permanent resident or who holds a lawful visa issued by the United States Department of State. The Department of Labor and Industrial Relations shall verify eligibility requirements prior to the authorization of any payment from the Fund. \r\n\r\n\tAdditionally, this act provides that an administrative law judge may, as part of any award, determine and allow reasonable attorney's fees, but such fees shall not exceed 15% of the amount awarded to the claimant. No attorney shall ask for, contract for, or receive any sum larger than the amount allowed.\r\n\r\n\tThis act additionally modifies those injured victims eligible for payment from the Crime Victims' Compensation Fund. Eligible injured victims are persons who, at the time of application for compensation from the Crime Victims' Compensation Fund, are:\r\n(1)\tA United States citizen, a lawful permanent resident, or a person lawfully present under a valid visa issued by the United States Department of State; and\r\n(2)\tKilled or suffers personal physical injury in Missouri as a result of the commission or attempted commission of any crime by another person; a good-faith attempt to assist a person against whom a crime is being committed or attempted; or assisting a law enforcement officer in the apprehension of a person believed by the officer to have committed or attempted to commit a crime.\r\n\t\r\n\tThe Department of Public Safety shall verify eligibility requirements prior to the authorization of any payment from the Fund. \r\n\r\n\tThis act also modifies the amount of attorneys's fees that may be awarded from 15% to 10% of the amount subrogated to the Department of Public Safety from the claimant's legal proceeding related to the crime.  \r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to state funds compensating certain injured persons"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb980"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S General Laws Committee",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S General Laws Committee",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Hearing Cancelled S General Laws Committee",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Coleman, Mary Elizabeth",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Coleman, Mary Elizabeth\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5680S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB980.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=624",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5680S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

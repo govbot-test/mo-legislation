@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1158",
+  "title": "SB 1158 - This act creates the \"Firearm Violence Prevention Act\", which establishes an extreme risk protection order to prevent a person who is found to pose an extreme risk to him or herself or others from possessing, controlling, or owning a firearm.\r\n\r\n\tThis act provides that a family or household member may file a petition with the court for a temporary extreme risk order of protection.  If the court finds by a preponderance of the evidence that the respondent poses a significant risk of causing personal injury to self or others by possessing a firearm, the court shall issue the temporary extreme risk order of protection as provided in the act.\r\n\r\n\tThe court shall next schedule a hearing within 7 days after the issuance of the temporary extreme risk order of protection to determine if a full extreme risk order of protection should be issued for a period of 182 days.  If the court finds by clear and convincing evidence that the respondent poses a significant risk of causing personal injury to self or others by possessing a firearm, the court shall issue the extreme risk order of protection as provided in the act.  The order may be renewed if the court finds the respondent continues to pose significant risk.\r\n\r\n\tAdditionally, a law enforcement officer or agency may also file a petition for an extreme risk order of protection.\r\n\r\n\tThis act also provides that the respondent may submit one written request for a hearing to terminate an extreme risk protection order.  The hearing shall occur no sooner than 14 days and no later than 28 days after the petitioner is served with a hearing request.  The court shall terminate the order if the respondent establishes by clear and convincing evidence that the respondent does not continue to pose a significant risk of personal injury to self or others.\r\n\r\n\tUpon the issuance of an extreme risk protection order, the court shall order the respondent to surrender all firearms as provided in the act.  The law enforcement officer or agency taking possession of the firearms shall issue a receipt identifying all firearms and any permit that is surrendered.  The court may issue a warrant to search and seize any firearm in possession of a person subject to a temporary or full extreme risk order of protection if probable cause exists the respondent failed to surrender all firearms.  By December 1, 2026, the POST Commission shall establish policies for the storage of any firearms surrendered pursuant to this act.  Once an extreme risk order of protection has expired, the law enforcement agency storing the firearm shall confirm the respondent is currently eligible to possess the firearm and return such firearm.\r\n\r\n\tThis act provides that the court clerk shall forward a copy of an extreme risk protection order to the Highway Patrol.  The order shall be entered into the National Instant Criminal Background Check System (NICS) and the Missouri Uniform Law Enforcement System (MULES).\r\n\r\n\tFinally, any person found in possession of a firearm in violation of an extreme risk order of protection shall be guilty of a class B misdemeanor.\r\n\r\n\tThis act is substantially similar to SB 463 (2025) and HB 1876 (2024).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1158 - This act creates the \"Firearm Violence Prevention Act\", which establishes an extreme risk protection order to prevent a person who is found to pose an extreme risk to him or herself or others from possessing, controlling, or owning a firearm.\r\n\r\n\tThis act provides that a family or household member may file a petition with the court for a temporary extreme risk order of protection.  If the court finds by a preponderance of the evidence that the respondent poses a significant risk of causing personal injury to self or others by possessing a firearm, the court shall issue the temporary extreme risk order of protection as provided in the act.\r\n\r\n\tThe court shall next schedule a hearing within 7 days after the issuance of the temporary extreme risk order of protection to determine if a full extreme risk order of protection should be issued for a period of 182 days.  If the court finds by clear and convincing evidence that the respondent poses a significant risk of causing personal injury to self or others by possessing a firearm, the court shall issue the extreme risk order of protection as provided in the act.  The order may be renewed if the court finds the respondent continues to pose significant risk.\r\n\r\n\tAdditionally, a law enforcement officer or agency may also file a petition for an extreme risk order of protection.\r\n\r\n\tThis act also provides that the respondent may submit one written request for a hearing to terminate an extreme risk protection order.  The hearing shall occur no sooner than 14 days and no later than 28 days after the petitioner is served with a hearing request.  The court shall terminate the order if the respondent establishes by clear and convincing evidence that the respondent does not continue to pose a significant risk of personal injury to self or others.\r\n\r\n\tUpon the issuance of an extreme risk protection order, the court shall order the respondent to surrender all firearms as provided in the act.  The law enforcement officer or agency taking possession of the firearms shall issue a receipt identifying all firearms and any permit that is surrendered.  The court may issue a warrant to search and seize any firearm in possession of a person subject to a temporary or full extreme risk order of protection if probable cause exists the respondent failed to surrender all firearms.  By December 1, 2026, the POST Commission shall establish policies for the storage of any firearms surrendered pursuant to this act.  Once an extreme risk order of protection has expired, the law enforcement agency storing the firearm shall confirm the respondent is currently eligible to possess the firearm and return such firearm.\r\n\r\n\tThis act provides that the court clerk shall forward a copy of an extreme risk protection order to the Highway Patrol.  The order shall be entered into the National Instant Criminal Background Check System (NICS) and the Missouri Uniform Law Enforcement System (MULES).\r\n\r\n\tFinally, any person found in possession of a firearm in violation of an extreme risk order of protection shall be guilty of a class B misdemeanor.\r\n\r\n\tThis act is substantially similar to SB 463 (2025) and HB 1876 (2024).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to an extreme risk order of protection"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1158"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lewis, Patty",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Lewis, Patty\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4591S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1158.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=568",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4591S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1640",
+  "title": "SB 1640 - The Board of Pharmacy shall have the authority to waive compliance with any Missouri rule or regulation for nonprofit pharmacies dispensing, shipping, or delivering prescription drugs into another state or United States territory that is experiencing a declared state disaster or emergency, provided that:\r\n(1)\tThe nonprofit pharmacy is a licensed pharmacy in good standing and is authorized to ship prescription drugs into such state or territory;\r\n(2)\tThe nonprofit pharmacy is responding to a declared state disaster or emergency;\r\n(3)\tThe nonprofit pharmacy complies with all emergency rules and regulations for pharmacies and nonprofit pharmacies established by the state or territory for the duration of the disaster period;\r\n(4)\tThe nonprofit pharmacy complies with all applicable federal laws and regulations; and\r\n(5)\tThe waiver applies only to prescription drugs dispensed, shipped, or delivered to residents or health care facilities located within the geographic area specified in the declared state disaster or emergency.\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1640 - The Board of Pharmacy shall have the authority to waive compliance with any Missouri rule or regulation for nonprofit pharmacies dispensing, shipping, or delivering prescription drugs into another state or United States territory that is experiencing a declared state disaster or emergency, provided that:\r\n(1)\tThe nonprofit pharmacy is a licensed pharmacy in good standing and is authorized to ship prescription drugs into such state or territory;\r\n(2)\tThe nonprofit pharmacy is responding to a declared state disaster or emergency;\r\n(3)\tThe nonprofit pharmacy complies with all emergency rules and regulations for pharmacies and nonprofit pharmacies established by the state or territory for the duration of the disaster period;\r\n(4)\tThe nonprofit pharmacy complies with all applicable federal laws and regulations; and\r\n(5)\tThe waiver applies only to prescription drugs dispensed, shipped, or delivered to residents or health care facilities located within the geographic area specified in the declared state disaster or emergency.\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Allows the Board of Pharmacy to waive compliance with any Missouri rule for certain nonprofit pharmacies during emergencies"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1640"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "McCreery, Tracy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            McCreery, Tracy\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6618S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1640.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=3539357",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6618S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

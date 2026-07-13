@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1139",
+  "title": "SB 1139 - This act reinstates the presidential preference primary election to be held on the second Tuesday in March of each year in which a presidential election is held.\r\n\r\n\tThis act is identical to SB 670 (2025) and substantially similar to HCS/HBs 2387 & 2480 (2026), HB 417 (2025), provisions in HCS/HBs 126 & 367 (2025), provisions in SCS/HCS/HB 507 (2025), provisions in SB 1480 (2024), SB 1120 (2024), HCS/HB 1525 (2024), HB 2618 (2024), HCS/HB 2895 (2024), SB 602 (2023), HB 267 (2023), HB 347 (2023), HB 738 (2023) and certain provisions in CCS/HS/HCS/SS#2/SCS/SB 96 (2023).\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1139 - This act reinstates the presidential preference primary election to be held on the second Tuesday in March of each year in which a presidential election is held.\r\n\r\n\tThis act is identical to SB 670 (2025) and substantially similar to HCS/HBs 2387 & 2480 (2026), HB 417 (2025), provisions in HCS/HBs 126 & 367 (2025), provisions in SCS/HCS/HB 507 (2025), provisions in SB 1480 (2024), SB 1120 (2024), HCS/HB 1525 (2024), HB 2618 (2024), HCS/HB 2895 (2024), SB 602 (2023), HB 267 (2023), HB 347 (2023), HB 738 (2023) and certain provisions in CCS/HS/HCS/SS#2/SCS/SB 96 (2023).\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Reinstates the Presidential Preference Primary Election"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1139"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gregory (15), David",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Gregory (15), David\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4860S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1139.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=454",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4860S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

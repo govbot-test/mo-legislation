@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1075",
+  "title": "SB 1075 - This act creates the \"Food is Medicine Act\".  Under this act, the Department of Social Services shall submit a waiver to the Centers for Medicare and Medicaid Services for a \"Food is Medicine\" program.  The program shall be designed to improve health outcomes for MO HealthNet participants with nutrition-related chronic diseases through nutrition services and to reduce the need for medical care for those participants.  Covered nutrition services may include case management, nutrition counseling, meals or pantry stocking, nutrition prescriptions, and grocery provisions.  When feasible, the MO HealthNet Division shall prioritize the inclusion of community-based organizations and local growers to support the purchase of locally grown food in nutrition prescriptions.\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1075 - This act creates the \"Food is Medicine Act\".  Under this act, the Department of Social Services shall submit a waiver to the Centers for Medicare and Medicaid Services for a \"Food is Medicine\" program.  The program shall be designed to improve health outcomes for MO HealthNet participants with nutrition-related chronic diseases through nutrition services and to reduce the need for medical care for those participants.  Covered nutrition services may include case management, nutrition counseling, meals or pantry stocking, nutrition prescriptions, and grocery provisions.  When feasible, the MO HealthNet Division shall prioritize the inclusion of community-based organizations and local growers to support the purchase of locally grown food in nutrition prescriptions.\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates the \"Food is Medicine Act\""
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1075"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Conducted S Families, Seniors and Health Committee",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hudson, Brad",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Hudson, Brad\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4239S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1075.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=294",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4239S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1774",
+  "title": "SB 1774 - This act prohibits a local government from adopting or enforcing any zoning ordinance or land use regulation that 1) bans either modular homes or qualified manufactured homes in residential zones where other single-family housing is permitted, 2) imposes requirements on modular homes or manufactured homes that are more restrictive than those imposed on site-built homes, 3) unreasonably limits the replacement of existing manufactured homes with new ones, 4) requires special permits or variances for modular homes or qualified manufactured homes that are not required for comparable site-built housing, or 5) requires a perimeter foundation system for a modular home or qualified manufactured home that is incompatible with the structural design of the home.\r\n\r\n\tThis act contains an emergency clause.\r\n\r\n\tThis act is identical to HB 3230 (2026).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1774 - This act prohibits a local government from adopting or enforcing any zoning ordinance or land use regulation that 1) bans either modular homes or qualified manufactured homes in residential zones where other single-family housing is permitted, 2) imposes requirements on modular homes or manufactured homes that are more restrictive than those imposed on site-built homes, 3) unreasonably limits the replacement of existing manufactured homes with new ones, 4) requires special permits or variances for modular homes or qualified manufactured homes that are not required for comparable site-built housing, or 5) requires a perimeter foundation system for a modular home or qualified manufactured home that is incompatible with the structural design of the home.\r\n\r\n\tThis act contains an emergency clause.\r\n\r\n\tThis act is identical to HB 3230 (2026).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to manufactured housing"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1774"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gregory (21), Kurtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Gregory (21), Kurtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7348S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1774.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6616216",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7348S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

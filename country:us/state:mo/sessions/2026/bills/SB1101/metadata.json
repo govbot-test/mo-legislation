@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1101",
+  "title": "SB 1101 - This act provides that funds from the Missouri Disaster Fund may be used for an emergency or the designation of a disaster area, as defined in the act, declared by the governor in his or her emergency declaration.\r\n\r\n\tThis act also requires that any emergency be limited to the least restrictive geographic area and in the least intrusive means possible.  This act limits emergencies proclaimed by the Governor to 10 days unless extended by resolution of the General Assembly for no more than 30 days. \r\n\r\n\tEmergencies may also be declared by a concurrent resolution of the General Assembly. Concurrent Resolutions to declare or extend an emergency must be passed by a 2/3 majority of the members of the General Assembly.\r\n\r\n\tThis act is identical to SB 770 (2025), SB 1226 (2024), SB 291 (2023), SB 844 (2022), SB 502 (2021), and SB 652 (2003).\r\nJIM ERTLE",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1101 - This act provides that funds from the Missouri Disaster Fund may be used for an emergency or the designation of a disaster area, as defined in the act, declared by the governor in his or her emergency declaration.\r\n\r\n\tThis act also requires that any emergency be limited to the least restrictive geographic area and in the least intrusive means possible.  This act limits emergencies proclaimed by the Governor to 10 days unless extended by resolution of the General Assembly for no more than 30 days. \r\n\r\n\tEmergencies may also be declared by a concurrent resolution of the General Assembly. Concurrent Resolutions to declare or extend an emergency must be passed by a 2/3 majority of the members of the General Assembly.\r\n\r\n\tThis act is identical to SB 770 (2025), SB 1226 (2024), SB 291 (2023), SB 844 (2022), SB 502 (2021), and SB 652 (2003).\r\nJIM ERTLE"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to emergency powers"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1101"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Moon, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Moon, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5695S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1101.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=405",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5695S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

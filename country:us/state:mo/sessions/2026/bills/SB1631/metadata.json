@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1631",
+  "title": "SB 1631 - This act creates a statewide mobile food vendor license for persons who dispense food or beverages from a mobile food unit for immediate service or consumption.  The Department of Health and Senior Services shall develop a written application for the license and a resource guide, develop regulations, conduct health inspections, and issue and renew mobile food vendor licenses, as described in the act.  There shall be 3 types of vendor classifications depending on the type of food or beverage being served.  The Department may work with local authorities, including public health authorities, to conduct inspections.\r\n\r\n\tNo person shall operate as a mobile food vendor in this state without a statewide mobile food vendor license issued by the Department.  A local authority shall not require a mobile food vendor holding a valid mobile food vendor license to obtain an additional local permit or license as a condition of operating a mobile food unit or otherwise adopt or enforce any ordinance, regulation, or rule that conflicts with the provisions of this act.  This act shall preempt any local ordinance, rule, or regulation relating to the licensing or permitting of mobile food vendors or the operation of mobile food units.\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1631 - This act creates a statewide mobile food vendor license for persons who dispense food or beverages from a mobile food unit for immediate service or consumption.  The Department of Health and Senior Services shall develop a written application for the license and a resource guide, develop regulations, conduct health inspections, and issue and renew mobile food vendor licenses, as described in the act.  There shall be 3 types of vendor classifications depending on the type of food or beverage being served.  The Department may work with local authorities, including public health authorities, to conduct inspections.\r\n\r\n\tNo person shall operate as a mobile food vendor in this state without a statewide mobile food vendor license issued by the Department.  A local authority shall not require a mobile food vendor holding a valid mobile food vendor license to obtain an additional local permit or license as a condition of operating a mobile food unit or otherwise adopt or enforce any ordinance, regulation, or rule that conflicts with the provisions of this act.  This act shall preempt any local ordinance, rule, or regulation relating to the licensing or permitting of mobile food vendors or the operation of mobile food units.\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes a statewide mobile food vendor license"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1631"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Emerging Issues and Professional Registration Committee",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Coleman, Mary Elizabeth",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Coleman, Mary Elizabeth\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6809S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1631.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=3537631",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6809S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

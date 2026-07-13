@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1035",
+  "title": "SB 1035 - This act prohibits employers from requiring employees to become or refrain from becoming a member of a labor organization or pay dues or other charges required of labor organization members as a condition of employment.\r\n\r\n\tAny person who violates or directs another to violate this act is guilty of a class C misdemeanor. Moreover, any person injured as a result of violation or threatened violation of this act is entitled to injunctive relief and certain other damages.\r\n\r\n\tProsecuting attorneys and the Attorney General are charged with investigating complaints.\r\n\r\n\tThe provisions of this act do not apply to any agreement between an employer and a labor organization entered into before the effective date of this act but shall apply to any such agreement upon its renewal or extension in any respect after the effective date of this act. Certain other exemptions apply as well.\r\n\r\n\tThis act only applies in counties where the governing body of the county has submitted a question to its qualified voters asking whether the county shall be subject to this act. If a majority of the votes are in favor of the question, the provisions of this act become effective in the county upon approval. The governing body is also permitted to submit a question to the voters on repealing an ordinance adopted pursuant to this act.\r\n\r\n\tAdditionally, the voters may submit a petition for the purpose of repealing an ordinance adopted pursuant to this act.\r\n\r\n\tThis act is identical to SB 121 (2025), SB 781 (2024), SB 54 (2023) and substantially similar to SB 706 (2022), SB 73 (2021), SB 118 (2021), HB 87 (2021), HB 505 (2021), and SB 240 (2019).\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1035 - This act prohibits employers from requiring employees to become or refrain from becoming a member of a labor organization or pay dues or other charges required of labor organization members as a condition of employment.\r\n\r\n\tAny person who violates or directs another to violate this act is guilty of a class C misdemeanor. Moreover, any person injured as a result of violation or threatened violation of this act is entitled to injunctive relief and certain other damages.\r\n\r\n\tProsecuting attorneys and the Attorney General are charged with investigating complaints.\r\n\r\n\tThe provisions of this act do not apply to any agreement between an employer and a labor organization entered into before the effective date of this act but shall apply to any such agreement upon its renewal or extension in any respect after the effective date of this act. Certain other exemptions apply as well.\r\n\r\n\tThis act only applies in counties where the governing body of the county has submitted a question to its qualified voters asking whether the county shall be subject to this act. If a majority of the votes are in favor of the question, the provisions of this act become effective in the county upon approval. The governing body is also permitted to submit a question to the voters on repealing an ordinance adopted pursuant to this act.\r\n\r\n\tAdditionally, the voters may submit a petition for the purpose of repealing an ordinance adopted pursuant to this act.\r\n\r\n\tThis act is identical to SB 121 (2025), SB 781 (2024), SB 54 (2023) and substantially similar to SB 706 (2022), SB 73 (2021), SB 118 (2021), HB 87 (2021), HB 505 (2021), and SB 240 (2019).\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates a county option to enact \"right-to-work\" laws"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1035"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Economic and Workforce Development Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bean, Jason",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Bean, Jason\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4493S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1035.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=81",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4493S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

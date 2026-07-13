@@ -1,0 +1,160 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 887",
+  "title": "SB 887 - This act establishes the \"Missouri Lyme Disease Eradication Act\".  First, Lyme disease is added to the list of diseases that must be reported to the Department of Health and Senior Services by health care providers, laboratories, and local health departments.  The Department shall compile an annual report on the incidence and prevalence of Lyme disease in Missouri, as described in the act.  The Department shall also collaborate with public four-year institutions of higher education to integrate Lyme disease surveillance data into existing tick-borne disease monitoring programs.  \r\n\r\n\tNext, this act creates the \"Lyme Research and Eradication Fund\" in the state treasury.  The Department shall use the moneys in the fund to distribute grants for the purposes of developing treatments, studying novel therapies, and researching eradication strategies.  Grants shall be prioritized as described in the act, with no less than 20% of funds utilized to support eradication efforts in rural counties.\r\n\r\n\tUnder this act, a health care provider shall not be subject to any discipline, suspension, or revocation of license or denial of a license renewal, solely for prescribing, administering, or dispensing treatments or therapies for Lyme disease or Post-Treatment Lyme Disease Syndrome (PTLDS), including extended antibiotic therapy or similar treatment deemed medically necessary.\r\n\r\n\tFinally, this act requires every health carrier or health benefit plan offering or issuing health benefit plans in the state on or after January 1, 2027, to provide coverage for diagnostic testing, treatment, and management of Lyme disease and PTLDS for insured persons who receive a diagnosis from a licensed health care provider, including testing, antibiotic therapy, supportive therapies, and holistic or herbal supplements and therapies.  Coverage shall be subject to the same deductibles, coinsurance, and out-of-pocket maximums as apply to other services covered under the plan for nonpreventative services.  The carrier or plan shall not deny or limit coverage for Lyme disease tests or treatments based solely on guidelines that deem extended antibiotic therapy to be experimental, impose step therapy or prior authorization requirements described in the act, or rescind coverage retroactively for related claims without evidence of fraud.  By July 1 each year, each carrier and plan shall report certain Lyme disease-related data to the Director of the Department of Commerce and Insurance, who shall share the data with the General Assembly and the Department of Health and Senior Services to inform research priorities.\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 887 - This act establishes the \"Missouri Lyme Disease Eradication Act\".  First, Lyme disease is added to the list of diseases that must be reported to the Department of Health and Senior Services by health care providers, laboratories, and local health departments.  The Department shall compile an annual report on the incidence and prevalence of Lyme disease in Missouri, as described in the act.  The Department shall also collaborate with public four-year institutions of higher education to integrate Lyme disease surveillance data into existing tick-borne disease monitoring programs.  \r\n\r\n\tNext, this act creates the \"Lyme Research and Eradication Fund\" in the state treasury.  The Department shall use the moneys in the fund to distribute grants for the purposes of developing treatments, studying novel therapies, and researching eradication strategies.  Grants shall be prioritized as described in the act, with no less than 20% of funds utilized to support eradication efforts in rural counties.\r\n\r\n\tUnder this act, a health care provider shall not be subject to any discipline, suspension, or revocation of license or denial of a license renewal, solely for prescribing, administering, or dispensing treatments or therapies for Lyme disease or Post-Treatment Lyme Disease Syndrome (PTLDS), including extended antibiotic therapy or similar treatment deemed medically necessary.\r\n\r\n\tFinally, this act requires every health carrier or health benefit plan offering or issuing health benefit plans in the state on or after January 1, 2027, to provide coverage for diagnostic testing, treatment, and management of Lyme disease and PTLDS for insured persons who receive a diagnosis from a licensed health care provider, including testing, antibiotic therapy, supportive therapies, and holistic or herbal supplements and therapies.  Coverage shall be subject to the same deductibles, coinsurance, and out-of-pocket maximums as apply to other services covered under the plan for nonpreventative services.  The carrier or plan shall not deny or limit coverage for Lyme disease tests or treatments based solely on guidelines that deem extended antibiotic therapy to be experimental, impose step therapy or prior authorization requirements described in the act, or rescind coverage retroactively for related claims without evidence of fraud.  By July 1 each year, each carrier and plan shall report certain Lyme disease-related data to the Director of the Department of Commerce and Insurance, who shall share the data with the General Assembly and the Department of Health and Senior Services to inform research priorities.\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the \"Missouri Lyme Disease Eradication Act\""
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb887"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Informal Calendar S Bills for Perfection",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Reported from S Families, Seniors and Health Committee",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Voted Do Pass S Families, Seniors and Health Committee",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Families, Seniors and Health Committee",
+      "date": "2026-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5289S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB887.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=325",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5289S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

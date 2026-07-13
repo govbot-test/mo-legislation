@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 912",
+  "title": "SB 912 - This act provides that a political subdivision shall approve or deny an application for a building permit within thirty days.  Failure to respond to the application within thirty days shall be deemed an approval.  If the application is approved, then no further requirements shall be imposed by the political subdivision.  If the application is denied, then the political subdivision must state, in writing, the reasons for the denial as described in the act.\r\n\r\n\tA political subdivision may deny an application as incomplete.  In such case, the political subdivision shall inform the applicant as to the reasons for the denial as incomplete and allow the applicant to resubmit the application during the subsequent ten day period.\r\n\r\n\tIf the applicant resubmits a request after receiving a written denial, the political subdivision shall not issue a subsequent denial that includes additional unrelated reasons for denial that were unspecified and not included in the denial of the initial request.  \r\n\r\n\tThe time limit provided in the act may be reset only if, within twenty days of receipt of the applicant's initial request, the political subdivision sends written notice to the applicant of the denial of the application as incomplete.\r\n\r\n\tThis act is identical to HCS/HB 1264 (2025).\r\nJIM ERTLE",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 912 - This act provides that a political subdivision shall approve or deny an application for a building permit within thirty days.  Failure to respond to the application within thirty days shall be deemed an approval.  If the application is approved, then no further requirements shall be imposed by the political subdivision.  If the application is denied, then the political subdivision must state, in writing, the reasons for the denial as described in the act.\r\n\r\n\tA political subdivision may deny an application as incomplete.  In such case, the political subdivision shall inform the applicant as to the reasons for the denial as incomplete and allow the applicant to resubmit the application during the subsequent ten day period.\r\n\r\n\tIf the applicant resubmits a request after receiving a written denial, the political subdivision shall not issue a subsequent denial that includes additional unrelated reasons for denial that were unspecified and not included in the denial of the initial request.  \r\n\r\n\tThe time limit provided in the act may be reset only if, within twenty days of receipt of the applicant's initial request, the political subdivision sends written notice to the applicant of the denial of the application as incomplete.\r\n\r\n\tThis act is identical to HCS/HB 1264 (2025).\r\nJIM ERTLE"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to local permitting applications"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb912"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schnelting, Adam",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schnelting, Adam\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5264S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB912.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=359",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5264S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

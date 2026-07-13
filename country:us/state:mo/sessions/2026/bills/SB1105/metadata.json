@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1105",
+  "title": "SB 1105 - This act establishes the \"Rural Workforce Housing Investment Act\", which is a grant program established in the Department of Economic Development for the purpose of supporting the development of workforce housing in rural communities.\r\n\r\n\tA nonprofit development organization, as defined in the act, may apply to the Department for approval for a workforce housing grant to establish a workforce housing investment fund. Grants shall be awarded on a competitive basis, and no more than one million dollars shall be awarded to any one nonprofit development organization over a two year period, and no more than two million dollars to any one nonprofit development organization for the period ending on June 30, 2029. Grants shall require matching funds in order to be awarded, as described in the act.\r\n\r\n\tIf a nonprofit development organization fails to engage in qualified activity within two years of receiving initial grant funding, such organization shall return the grant funds to the Department. If a nonprofit development organization fails to allocate any remaining grant funds to qualified activities within two years of the commencement of initial qualified activity, such organization shall return all unallocated grant funds.\r\n\r\n\tBeginning August 28, 2031, the Department shall transfer any remaining grant funds held by the Department to the Missouri Housing Trust Fund.\r\n\r\n\tAnnual reports shall be filed by all nonprofit development organizations and by the Department, as described in the act.\r\n\r\n\tThis act is identical to SB 656 (2025) and HB 245 (2025), and is substantially similar to HCS/HB 1716 (2026).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1105 - This act establishes the \"Rural Workforce Housing Investment Act\", which is a grant program established in the Department of Economic Development for the purpose of supporting the development of workforce housing in rural communities.\r\n\r\n\tA nonprofit development organization, as defined in the act, may apply to the Department for approval for a workforce housing grant to establish a workforce housing investment fund. Grants shall be awarded on a competitive basis, and no more than one million dollars shall be awarded to any one nonprofit development organization over a two year period, and no more than two million dollars to any one nonprofit development organization for the period ending on June 30, 2029. Grants shall require matching funds in order to be awarded, as described in the act.\r\n\r\n\tIf a nonprofit development organization fails to engage in qualified activity within two years of receiving initial grant funding, such organization shall return the grant funds to the Department. If a nonprofit development organization fails to allocate any remaining grant funds to qualified activities within two years of the commencement of initial qualified activity, such organization shall return all unallocated grant funds.\r\n\r\n\tBeginning August 28, 2031, the Department shall transfer any remaining grant funds held by the Department to the Missouri Housing Trust Fund.\r\n\r\n\tAnnual reports shall be filed by all nonprofit development organizations and by the Department, as described in the act.\r\n\r\n\tThis act is identical to SB 656 (2025) and HB 245 (2025), and is substantially similar to HCS/HB 1716 (2026).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the Rural Workforce Housing Investment Act"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1105"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Conducted S Economic and Workforce Development Committee",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Economic and Workforce Development Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bean, Jason",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Bean, Jason\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4491S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1105.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=84",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4491S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

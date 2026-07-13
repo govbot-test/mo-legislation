@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1159",
+  "title": "SB 1159 - This act provides that a person shall not sell or transfer a firearm unless the person is:\r\n\t\u2022\tA licensed firearms dealer;\r\n\t\u2022\tSelling or transferring to a licensed firearms dealer; or\r\n\t\u2022\tIf neither party is a licensed firearms dealer, the parties to the transaction complete the sale or transfer through a licensed firearms dealer, as provided in the act.\r\n\r\n\tIf a firearm is to be transferred through a trust, the transfer shall be completed through a firearms dealer. If the heir or devisee is prohibited from receiving the firearm, the heir or devisee may authorize the transfer to a specific individual or the dealer may be authorized to sell the firearm and have the proceeds given to the heir or devisee.\r\n\r\n\tThis act provides that neither the state nor any political subdivision shall require a firearms dealer to supply a list of transactions conducted.\r\n\r\n\tA firearms dealer shall not be required for transactions involving:\r\n\t\u2022\tLaw enforcement officers or corrections officers in the scope of their duty;\r\n\t\u2022\tU.S. Marshals, members of the Armed Forces, National Guard, or federal officials within the scope of their duties;\t\r\n\t\u2022\tGunsmiths performing service or repairs;\r\n\t\u2022\tPersons engaged in the business of transportation or storage, to the extent the receipt of the firearm is in the ordinary course of business; and\r\n\t\u2022\tPersons loaned a firearm by a relative.\r\n\r\n\tAny person violating any of the provisions relating to firearms dealers shall be guilty of a class B misdemeanor. A person guilty of such an offense shall be guilty of a separate offense for each and every day during any portion of which a violation of this provision is committed or continued.\r\n\r\n\tLaw enforcement agencies shall report any violation of this act to the Attorney General, who shall report to the Bureau of Alcohol, Tobacco, Firearms and Explosives within the United States Department of Justice.\r\n\r\n\tThis act is identical to SB 543 (2025), HB 356 (2025), and HB 1878 (2024), and similar to SB 731 (2022).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1159 - This act provides that a person shall not sell or transfer a firearm unless the person is:\r\n\t\u2022\tA licensed firearms dealer;\r\n\t\u2022\tSelling or transferring to a licensed firearms dealer; or\r\n\t\u2022\tIf neither party is a licensed firearms dealer, the parties to the transaction complete the sale or transfer through a licensed firearms dealer, as provided in the act.\r\n\r\n\tIf a firearm is to be transferred through a trust, the transfer shall be completed through a firearms dealer. If the heir or devisee is prohibited from receiving the firearm, the heir or devisee may authorize the transfer to a specific individual or the dealer may be authorized to sell the firearm and have the proceeds given to the heir or devisee.\r\n\r\n\tThis act provides that neither the state nor any political subdivision shall require a firearms dealer to supply a list of transactions conducted.\r\n\r\n\tA firearms dealer shall not be required for transactions involving:\r\n\t\u2022\tLaw enforcement officers or corrections officers in the scope of their duty;\r\n\t\u2022\tU.S. Marshals, members of the Armed Forces, National Guard, or federal officials within the scope of their duties;\t\r\n\t\u2022\tGunsmiths performing service or repairs;\r\n\t\u2022\tPersons engaged in the business of transportation or storage, to the extent the receipt of the firearm is in the ordinary course of business; and\r\n\t\u2022\tPersons loaned a firearm by a relative.\r\n\r\n\tAny person violating any of the provisions relating to firearms dealers shall be guilty of a class B misdemeanor. A person guilty of such an offense shall be guilty of a separate offense for each and every day during any portion of which a violation of this provision is committed or continued.\r\n\r\n\tLaw enforcement agencies shall report any violation of this act to the Attorney General, who shall report to the Bureau of Alcohol, Tobacco, Firearms and Explosives within the United States Department of Justice.\r\n\r\n\tThis act is identical to SB 543 (2025), HB 356 (2025), and HB 1878 (2024), and similar to SB 731 (2022).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to the sale and transfer of firearms"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1159"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lewis, Patty",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Lewis, Patty\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4568S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1159.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=569",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4568S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

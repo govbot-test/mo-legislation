@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1665",
+  "title": "SB 1665 - This act prohibits government agents, as such term is defined in the act, from entering a private residence without a warrant unless they have received permission from the owner or occupant, are responding to a life-threatening emergency, or are preventing the imminent destruction of evidence.\r\n\r\n\tWhere a government agent enters private land, such agent is required by this act to immediately notify the landowner or occupant if they are present. If equipped with a body-mounted camera, such camera must be activated and recording the entire time the agent is on the property. Such agent is also required to show the warrant to the owner or occupant if they are present. \r\n\r\n\tThis act prohibits a government agent from seizing any private property from a home or private land unless such agent has a warrant authorizing the seizure, or they entered due to exigent circumstances.  Any evidence obtained from a search or seizure in violation of this act is inadmissible in any court proceeding.  If a person is arrested pursuant to a search or seizure in violation of this act, such arrest is invalid. A person that has been subjected to a search or seizure that violates this act, may bring a civil action against the violating state agency.\r\nTRISTAN BENSON JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1665 - This act prohibits government agents, as such term is defined in the act, from entering a private residence without a warrant unless they have received permission from the owner or occupant, are responding to a life-threatening emergency, or are preventing the imminent destruction of evidence.\r\n\r\n\tWhere a government agent enters private land, such agent is required by this act to immediately notify the landowner or occupant if they are present. If equipped with a body-mounted camera, such camera must be activated and recording the entire time the agent is on the property. Such agent is also required to show the warrant to the owner or occupant if they are present. \r\n\r\n\tThis act prohibits a government agent from seizing any private property from a home or private land unless such agent has a warrant authorizing the seizure, or they entered due to exigent circumstances.  Any evidence obtained from a search or seizure in violation of this act is inadmissible in any court proceeding.  If a person is arrested pursuant to a search or seizure in violation of this act, such arrest is invalid. A person that has been subjected to a search or seizure that violates this act, may bring a civil action against the violating state agency.\r\nTRISTAN BENSON JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Prohibits warrantless searches of private residences by state employees, except under certain circumstances"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1665"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Coleman, Mary Elizabeth",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Coleman, Mary Elizabeth\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6833S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1665.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=4514472",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6833S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

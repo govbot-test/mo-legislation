@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1582",
+  "title": "SB 1582 - Under this act, the University of Missouri shall establish a governance board that reports to the General Assembly on research projects related to rare pediatric diseases.  The act defines a \"rare pediatric disease\" as a life-threatening or chronically debilitating condition affecting fewer than 200,000 individuals under the age of 18 in the United States.  \r\n\r\n\tThe governance board shall include representatives from University of Missouri health care and research facilities, a patient or family advocate, a nonprofit or industry partner, and appointees from the General Assembly, as specified in the act.  \r\n\r\n\tThe governance board shall submit an annual public report to the General Assembly by December 31 of each year from 2026 to 2029.  The report shall include information on research projects initiated and completed, key outcomes achieved, funds expended and leveraged, and any legislative recommendations. \r\n\r\n\tThe provisions of this act shall expire on June 30, 2030.\r\n\r\n\tThis act is identical to HB 2740 (2026).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1582 - Under this act, the University of Missouri shall establish a governance board that reports to the General Assembly on research projects related to rare pediatric diseases.  The act defines a \"rare pediatric disease\" as a life-threatening or chronically debilitating condition affecting fewer than 200,000 individuals under the age of 18 in the United States.  \r\n\r\n\tThe governance board shall include representatives from University of Missouri health care and research facilities, a patient or family advocate, a nonprofit or industry partner, and appointees from the General Assembly, as specified in the act.  \r\n\r\n\tThe governance board shall submit an annual public report to the General Assembly by December 31 of each year from 2026 to 2029.  The report shall include information on research projects initiated and completed, key outcomes achieved, funds expended and leveraged, and any legislative recommendations. \r\n\r\n\tThe provisions of this act shall expire on June 30, 2030.\r\n\r\n\tThis act is identical to HB 2740 (2026).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes a University of Missouri governance board for reporting on research related to rare pediatric diseases"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1582"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gregory (21), Kurtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Gregory (21), Kurtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6841S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1582.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=1838029",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6841S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

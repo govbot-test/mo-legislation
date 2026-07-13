@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1695",
+  "title": "SB 1695 - Current law provides that the interviews, memoranda, proceedings, findings, deliberations, reports, and minutes of peer review committees for health care professionals, or the existence of such, concerning the health care provided to any patient are privileged and shall not be subject to discovery nor admissible into evidence. This act modifies the provision to provide that the memoranda, findings, deliberations, and reports of peer review committees concerning the health care provided to any individual identifiable patient are privileged and may not be admissible into evidence. \r\n\r\n\tThis act repeals the provision prohibiting or requiring the disclosure of information acquired in connection with or in the course of a peer review committee from persons in attendance.  \r\n\r\n\tCurrently, information otherwise discoverable or admissible from original sources is not to be construed as immune merely because it was presented during peer review committee proceedings nor shall certain persons be prevented from testifying as to matters within his personal knowledge, but such witness cannot be questioned about testimony or other proceedings before any health care review committee or about opinions formed as a result of such committee hearings. This act instead provides that such information otherwise discoverable or admissible may not be construed as immune merely because it was presented, discovered, or considered during peer review committee proceedings nor shall certain persons be prevented from testifying as to matters in accordance with the rules of evidence, but such witness cannot be questioned about opinions formed solely as a result of such committee hearings.\r\n\r\n\tFurthermore, this act repeals the provision regarding the effect of disclosure of information from peer review committees to any person or entity on the confidentiality, discovery, or admissibility of such information.\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1695 - Current law provides that the interviews, memoranda, proceedings, findings, deliberations, reports, and minutes of peer review committees for health care professionals, or the existence of such, concerning the health care provided to any patient are privileged and shall not be subject to discovery nor admissible into evidence. This act modifies the provision to provide that the memoranda, findings, deliberations, and reports of peer review committees concerning the health care provided to any individual identifiable patient are privileged and may not be admissible into evidence. \r\n\r\n\tThis act repeals the provision prohibiting or requiring the disclosure of information acquired in connection with or in the course of a peer review committee from persons in attendance.  \r\n\r\n\tCurrently, information otherwise discoverable or admissible from original sources is not to be construed as immune merely because it was presented during peer review committee proceedings nor shall certain persons be prevented from testifying as to matters within his personal knowledge, but such witness cannot be questioned about testimony or other proceedings before any health care review committee or about opinions formed as a result of such committee hearings. This act instead provides that such information otherwise discoverable or admissible may not be construed as immune merely because it was presented, discovered, or considered during peer review committee proceedings nor shall certain persons be prevented from testifying as to matters in accordance with the rules of evidence, but such witness cannot be questioned about opinions formed solely as a result of such committee hearings.\r\n\r\n\tFurthermore, this act repeals the provision regarding the effect of disclosure of information from peer review committees to any person or entity on the confidentiality, discovery, or admissibility of such information.\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to the admissibility of evidence resulting from peer review committees for health care professionals"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1695"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Emerging Issues and Professional Registration Committee",
+      "date": "2026-04-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Webber, Stephen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Webber, Stephen\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6505S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1695.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=5552673",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6505S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SJR 90",
+  "title": "SJR 90 - This amendment modifies provisions relating to the State Tax Commission.\r\n\r\n\tCurrent constitutional provisions require the State Tax Commission to equalize assessments as between counties. This constitutional amendment, if approved by the voters, provides that the Commission shall not have the power to require a county to enter into any agreement or memorandum of understanding for the purpose of increasing or decreasing the assessed valuation of an entire class or subclass of property, or any of any portion thereof other than through an appeal of a decision made by a local board of equalization, and any reimbursements made to a county by the state for the purposes of assessing property shall not be made contingent on entering into any such agreement or memorandum of understanding. \r\n\r\n\tThe amendment also provides that the Commission shall not utilize the standards promulgated by the International Association of Assessing Officers (IAAO) or any other international or domestic organization to carry out the powers and duties provided by law.\r\n\r\n\tThis amendment provides that the assessed value of a class or subclass of real or personal property shall not be lower than seventy percent nor more than one hundred percent of the true value in money for such class or subclass, as determined by studies conducted by the Commission.\r\n\r\n\tFinally, this amendment establishes the Office of State Ombudsman for Property Assessment and Taxation within the State Tax Commission, and requires the General Assembly to annually provide for a sufficient appropriation to ensure taxpayers receive the assistance needed to comply with and navigate the property tax process.\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SJR 90 - This amendment modifies provisions relating to the State Tax Commission.\r\n\r\n\tCurrent constitutional provisions require the State Tax Commission to equalize assessments as between counties. This constitutional amendment, if approved by the voters, provides that the Commission shall not have the power to require a county to enter into any agreement or memorandum of understanding for the purpose of increasing or decreasing the assessed valuation of an entire class or subclass of property, or any of any portion thereof other than through an appeal of a decision made by a local board of equalization, and any reimbursements made to a county by the state for the purposes of assessing property shall not be made contingent on entering into any such agreement or memorandum of understanding. \r\n\r\n\tThe amendment also provides that the Commission shall not utilize the standards promulgated by the International Association of Assessing Officers (IAAO) or any other international or domestic organization to carry out the powers and duties provided by law.\r\n\r\n\tThis amendment provides that the assessed value of a class or subclass of real or personal property shall not be lower than seventy percent nor more than one hundred percent of the true value in money for such class or subclass, as determined by studies conducted by the Commission.\r\n\r\n\tFinally, this amendment establishes the Office of State Ombudsman for Property Assessment and Taxation within the State Tax Commission, and requires the General Assembly to annually provide for a sufficient appropriation to ensure taxpayers receive the assistance needed to comply with and navigate the property tax process.\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to the State Tax Commission"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sjr90"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Select Committee on Property Taxes and the State Tax Commission Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brown (26), Ben",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brown (26), Ben\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5384S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR90.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=267",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5384S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

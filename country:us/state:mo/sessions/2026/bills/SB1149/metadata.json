@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1149",
+  "title": "SB 1149 - This act establishes the Athletic Trainers Compact (\"Compact\"), which facilitates the interstate practice of athletic training and provides for athletic trainers licensed in a participating state the ability to practice in other participating states. The Compact sets forth the requirements to be met in order for a state to join and maintain membership in the Compact. Additionally, the Compact provides the requirements for an athletic trainer to obtain and exercise the ability to practice in the remote participating states.\r\n\r\n\tThe Compact further provides that an athletic trainer with compact privilege shall function within the scope of practice of the state in which the patient is located and the remote practicing state. The athletic trainers also shall be subject to that remote state's regulatory authority. Participating states shall report any adverse action and significant investigative information to the Compact Data System. An adverse action against an athletic trainer in any participating state shall result in deactivation of the compact privilege during the pendency of the action. An encumbered license in a member state shall not be entitled to compact privilege until the encumbrance has passed and has exceeded two years since any encumbrance or restriction.\r\n\r\n\tAdditionally, the Compact creates the Athletic Trainer Licensure Compact Commission (\"Commission\"), which is a joint government agency to administer and implement the Compact, and provides for its powers and duties. Each participating state shall be entitled to one delegate, who shall be selected within sixty days of the effective date, on the Commission. Additionally, there shall be an Executive Committee of the Commission to act on behalf of the Commission. \r\n\r\n\tFurthermore, the Compact shall come into effect on the date in which the seventh state enacts the Compact into law. Any participating state may withdraw from the Compact by repealing the Compact, but such withdrawal shall not take effect until 180 days after the enactment of the repeal. Finally, the Compact shall be binding upon participating states and shall supersede any conflict with state law.\r\n\r\n\tThis act is identical to a provision in SCS/HB 1961 (2026) and a provision in the truly agreed to and finally passed SS/HCS/HB 2974 (2026), and is substantially similar to provisions in HB 1844 (2026) and in HCS/HB 2300 (2026).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1149 - This act establishes the Athletic Trainers Compact (\"Compact\"), which facilitates the interstate practice of athletic training and provides for athletic trainers licensed in a participating state the ability to practice in other participating states. The Compact sets forth the requirements to be met in order for a state to join and maintain membership in the Compact. Additionally, the Compact provides the requirements for an athletic trainer to obtain and exercise the ability to practice in the remote participating states.\r\n\r\n\tThe Compact further provides that an athletic trainer with compact privilege shall function within the scope of practice of the state in which the patient is located and the remote practicing state. The athletic trainers also shall be subject to that remote state's regulatory authority. Participating states shall report any adverse action and significant investigative information to the Compact Data System. An adverse action against an athletic trainer in any participating state shall result in deactivation of the compact privilege during the pendency of the action. An encumbered license in a member state shall not be entitled to compact privilege until the encumbrance has passed and has exceeded two years since any encumbrance or restriction.\r\n\r\n\tAdditionally, the Compact creates the Athletic Trainer Licensure Compact Commission (\"Commission\"), which is a joint government agency to administer and implement the Compact, and provides for its powers and duties. Each participating state shall be entitled to one delegate, who shall be selected within sixty days of the effective date, on the Commission. Additionally, there shall be an Executive Committee of the Commission to act on behalf of the Commission. \r\n\r\n\tFurthermore, the Compact shall come into effect on the date in which the seventh state enacts the Compact into law. Any participating state may withdraw from the Compact by repealing the Compact, but such withdrawal shall not take effect until 180 days after the enactment of the repeal. Finally, the Compact shall be binding upon participating states and shall supersede any conflict with state law.\r\n\r\n\tThis act is identical to a provision in SCS/HB 1961 (2026) and a provision in the truly agreed to and finally passed SS/HCS/HB 2974 (2026), and is substantially similar to provisions in HB 1844 (2026) and in HCS/HB 2300 (2026).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the Athletic Trainers Compact"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1149"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S Emerging Issues and Professional Registration Committee",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Emerging Issues and Professional Registration Committee",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Emerging Issues and Professional Registration Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Burger, Jamie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Burger, Jamie\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3837S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1149.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=114",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3837S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

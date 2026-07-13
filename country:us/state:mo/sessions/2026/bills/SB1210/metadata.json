@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1210",
+  "title": "SB 1210 - The act creates the \"Lithium Battery Recycling and Safety Act\".\r\n\r\n\tUnder the act, any manufacturer or recycler of batteries in the state shall establish or join a representative organization, as defined in the act. The representative organization shall develop a plan for the establishment of a battery recycling program and submit it to the Director of the Department of Natural Resources for approval no less than every five years. Specifics of the plan are described in the act.\r\n\r\n\tThe Department shall enforce the representative organization's compliance with the plan pursuant to provisions of current law and establish enforcement procedures and penalties.\r\n\r\n\tAfter the battery recycling program is implemented, a manufacturer or recycler shall not manufacture or recycle batteries in the state unless the manufacturer or recycler participates in the battery recycling program.\r\n\r\n\tAfter the program is implemented, all batteries shall only be disposed into receptacles at collection sites approved by the program and shall not be disposed into household waste or recycle containers.\r\n\r\n\tThe act shall not prevent a manufacturer or recycler from offering a fee-based battery collection service or a battery mail back service independent of a battery recycling program, provided that the manufacturer or recycler complies with all applicable federal, state, and local laws.\r\n\r\n\tAny person may report violations of this act to the Department. If the Department finds that a manufacturer or recycler violated provisions of the act, the Department shall ask the Attorney General to commence a civil action. If the court finds that the manufacturer or recycler violated provisions of the act, the court may grant relief as described in the act.\r\n\r\n\tBy June 1, 2028, and by June 1st of each following year, a representative organization shall submit an annual report to the Department covering the preceding calendar year of the battery recycling program. Specifics of the report are described in the act. The report shall be posted on the Department's and the representative organization's website.\r\n\r\n\tThe act is similar to HB 2611 (2026) and SB 593 (2025).\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1210 - The act creates the \"Lithium Battery Recycling and Safety Act\".\r\n\r\n\tUnder the act, any manufacturer or recycler of batteries in the state shall establish or join a representative organization, as defined in the act. The representative organization shall develop a plan for the establishment of a battery recycling program and submit it to the Director of the Department of Natural Resources for approval no less than every five years. Specifics of the plan are described in the act.\r\n\r\n\tThe Department shall enforce the representative organization's compliance with the plan pursuant to provisions of current law and establish enforcement procedures and penalties.\r\n\r\n\tAfter the battery recycling program is implemented, a manufacturer or recycler shall not manufacture or recycle batteries in the state unless the manufacturer or recycler participates in the battery recycling program.\r\n\r\n\tAfter the program is implemented, all batteries shall only be disposed into receptacles at collection sites approved by the program and shall not be disposed into household waste or recycle containers.\r\n\r\n\tThe act shall not prevent a manufacturer or recycler from offering a fee-based battery collection service or a battery mail back service independent of a battery recycling program, provided that the manufacturer or recycler complies with all applicable federal, state, and local laws.\r\n\r\n\tAny person may report violations of this act to the Department. If the Department finds that a manufacturer or recycler violated provisions of the act, the Department shall ask the Attorney General to commence a civil action. If the court finds that the manufacturer or recycler violated provisions of the act, the court may grant relief as described in the act.\r\n\r\n\tBy June 1, 2028, and by June 1st of each following year, a representative organization shall submit an annual report to the Department covering the preceding calendar year of the battery recycling program. Specifics of the report are described in the act. The report shall be posted on the Department's and the representative organization's website.\r\n\r\n\tThe act is similar to HB 2611 (2026) and SB 593 (2025).\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to battery recycling"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1210"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Agriculture, Food Production and Outdoor Resources Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Burger, Jamie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Burger, Jamie\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3831S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1210.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=110",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3831S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

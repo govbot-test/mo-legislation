@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1284",
+  "title": "SB 1284 - Under the act, a petition for a dissolution of a public water supply district shall allege that an agreement for sale of the district's assets has been entered into by the board of directors contingent upon approval of the circuit court and voters.\r\n\r\n\tUnless the petitioners for the dissolution of the district prove that there is an agreement for sale of the district's assets entered into by the board of directors that would permit all debts and financial obligations of the district be paid in full upon dissolution and provide for the continuation of water supply to the inhabitants of the district, the petition shall be dismissed at the cost of the petitioners.\r\n\r\n\tIf the court finds in favor of the petitioners, the court shall enter a decree with a question to the voters of the district, as described in the act.\r\n\r\n\tAt their discretion, the board of directors may approve a change in the vote threshold to a majority of four-sevenths of the voters of the district voting on the proposition for dissolution. The court shall enter an order declaring the decree for dissolution to be final if the court found that the question for dissolution has been assented to by such vote. The act repeals the current voting requirement of a majority of two-thirds of the voters of the district voting on the proposition.\r\n\r\n\tThe act is similar to a provision in SS/HB 2397 (2026) and a provision in HCS/SS#2/SCS/SB 1023 (2026).\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1284 - Under the act, a petition for a dissolution of a public water supply district shall allege that an agreement for sale of the district's assets has been entered into by the board of directors contingent upon approval of the circuit court and voters.\r\n\r\n\tUnless the petitioners for the dissolution of the district prove that there is an agreement for sale of the district's assets entered into by the board of directors that would permit all debts and financial obligations of the district be paid in full upon dissolution and provide for the continuation of water supply to the inhabitants of the district, the petition shall be dismissed at the cost of the petitioners.\r\n\r\n\tIf the court finds in favor of the petitioners, the court shall enter a decree with a question to the voters of the district, as described in the act.\r\n\r\n\tAt their discretion, the board of directors may approve a change in the vote threshold to a majority of four-sevenths of the voters of the district voting on the proposition for dissolution. The court shall enter an order declaring the decree for dissolution to be final if the court found that the question for dissolution has been assented to by such vote. The act repeals the current voting requirement of a majority of two-thirds of the voters of the district voting on the proposition.\r\n\r\n\tThe act is similar to a provision in SS/HB 2397 (2026) and a provision in HCS/SS#2/SCS/SB 1023 (2026).\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies requirements for a dissolution of a public water supply district"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1284"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Hearing Cancelled S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-03-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brown (26), Ben",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brown (26), Ben\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4723S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1284.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=251",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4723S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

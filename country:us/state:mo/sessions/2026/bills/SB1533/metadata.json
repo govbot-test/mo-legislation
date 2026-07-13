@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1533",
+  "title": "SB 1533 - This act establishes the Interstate Dental and Dental Hygiene Licensure Compact (\"Compact\"), which facilitates the interstate practice of dentistry and dental hygiene and provides for dentists and dental hygienists licensed in a participating state to have expedited licensure portability in other participating states.\r\n\r\n\tThe Compact creates a joint government agency (\"Commission\") and provides for its powers and duties, including overseeing the administration of the Compact, issuing advisory opinions and training on the Compact, and enforce compliance with the Compact. Additionally, each state's dental board shall have two voting members on the Commission, with one member required to be a member of the Missouri Dental Board. States shall submit all actions and documents determined by the Commission to the Clearinghouse, which is described in the act as the clearinghouse and databank administered by the American Association of Dental Boards that houses adverse actions and denials of licensure from the state dental boards. Insurance companies and entities verifying documents for the purposes of licenses to dentists or dental hygienists may seek information from the Clearinghouse for public record documents.\r\n\r\n\tThe Compact sets forth the requirements for a dentist or dental hygienist to obtain and exercise the ability to practice in other participating states with the home state's dental board determining the eligibility of an application for a compact license privilege. The Compact further provides that a dentist or dental hygienist with compact privilege shall be subject to and comply with the laws and regulations of the participating state in which they seek to practice and shall be subject to that state's dental board. Appeals of a denial of a compact privilege application shall be filed with the home state within thirty days of the denial.\r\n\r\n\tAdditionally, a licensee shall notify the Commission within ten days of any adverse action taken against his or her license in a state that is not a member of the Compact. Home states may take adverse actions against a holder of a compact license privilege regardless of where the actions occurred and any participating state where the compact licensee holds a compact license privilege may investigate an allegation of a violation of the laws and rules of the practice of dentistry or dental hygiene in any other state where the licensee holds a compact license privilege. Participating states may also participate together in joint investigations of compact licensees.\r\n\r\n\tDental boards issuing a compact license privilege may also impose a fee for such privilege, except no fee shall be required for any active-duty military member or their spouse for up to one year after separation from the service.\r\n\r\n\tFurthermore, the Compact shall become active and binding upon the fifth state's enactment of the Compact. Any participating state may withdraw from the Compact by repealing the Compact, but the Compact shall remain in effect until six months after the date of withdrawal.\r\n\r\n\tThis act is identical to SB 109 (2025) and HB 1290 (2025).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1533 - This act establishes the Interstate Dental and Dental Hygiene Licensure Compact (\"Compact\"), which facilitates the interstate practice of dentistry and dental hygiene and provides for dentists and dental hygienists licensed in a participating state to have expedited licensure portability in other participating states.\r\n\r\n\tThe Compact creates a joint government agency (\"Commission\") and provides for its powers and duties, including overseeing the administration of the Compact, issuing advisory opinions and training on the Compact, and enforce compliance with the Compact. Additionally, each state's dental board shall have two voting members on the Commission, with one member required to be a member of the Missouri Dental Board. States shall submit all actions and documents determined by the Commission to the Clearinghouse, which is described in the act as the clearinghouse and databank administered by the American Association of Dental Boards that houses adverse actions and denials of licensure from the state dental boards. Insurance companies and entities verifying documents for the purposes of licenses to dentists or dental hygienists may seek information from the Clearinghouse for public record documents.\r\n\r\n\tThe Compact sets forth the requirements for a dentist or dental hygienist to obtain and exercise the ability to practice in other participating states with the home state's dental board determining the eligibility of an application for a compact license privilege. The Compact further provides that a dentist or dental hygienist with compact privilege shall be subject to and comply with the laws and regulations of the participating state in which they seek to practice and shall be subject to that state's dental board. Appeals of a denial of a compact privilege application shall be filed with the home state within thirty days of the denial.\r\n\r\n\tAdditionally, a licensee shall notify the Commission within ten days of any adverse action taken against his or her license in a state that is not a member of the Compact. Home states may take adverse actions against a holder of a compact license privilege regardless of where the actions occurred and any participating state where the compact licensee holds a compact license privilege may investigate an allegation of a violation of the laws and rules of the practice of dentistry or dental hygiene in any other state where the licensee holds a compact license privilege. Participating states may also participate together in joint investigations of compact licensees.\r\n\r\n\tDental boards issuing a compact license privilege may also impose a fee for such privilege, except no fee shall be required for any active-duty military member or their spouse for up to one year after separation from the service.\r\n\r\n\tFurthermore, the Compact shall become active and binding upon the fifth state's enactment of the Compact. Any participating state may withdraw from the Compact by repealing the Compact, but the Compact shall remain in effect until six months after the date of withdrawal.\r\n\r\n\tThis act is identical to SB 109 (2025) and HB 1290 (2025).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the Interstate Dental and Dental Hygiene Licensure Compact"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1533"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Emerging Issues and Professional Registration Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brown (16), Justin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brown (16), Justin\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6572S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1533.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=626310",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6572S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

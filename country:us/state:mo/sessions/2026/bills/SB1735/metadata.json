@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1735",
+  "title": "SB 1735 - This act creates the \"Lori Zena Baker Act\".  This act establishes the \"Sickle Cell Standing Committee\" as a subcomittee of the Missouri Genetic Advisory Committee within the Department of Health and Senior Services, with membership as specified in the act.  The Director of the Department of Health and Senior Services shall appoint the committee members.  The committee shall assess the impact of sickle cell disease on the state and make recommendations to the General Assembly and Governor regarding services and policies to address the state's needs, as described in the act.\r\n\r\n\tThis act is substantially similar to HB 1483 (2016).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1735 - This act creates the \"Lori Zena Baker Act\".  This act establishes the \"Sickle Cell Standing Committee\" as a subcomittee of the Missouri Genetic Advisory Committee within the Department of Health and Senior Services, with membership as specified in the act.  The Director of the Department of Health and Senior Services shall appoint the committee members.  The committee shall assess the impact of sickle cell disease on the state and make recommendations to the General Assembly and Governor regarding services and policies to address the state's needs, as described in the act.\r\n\r\n\tThis act is substantially similar to HB 1483 (2016).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the Sickle Cell Standing Committee"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1735"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Progress and Development Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Washington, Barbara",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Washington, Barbara\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7233S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1735.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6457874",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7233S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

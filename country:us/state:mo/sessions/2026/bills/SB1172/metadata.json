@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1172",
+  "title": "SB 1172 - This act establishes the \"Cronkite New Voices Act\", which provides that in both public high schools and public institutions of higher education, a student journalist, as defined in the act, has the right to exercise freedom of speech and of the press in school-sponsored media. \r\n\r\n\tIn school districts, the district and student-media advisors may regulate the number, length, frequency, and format of school-sponsored media.  School districts shall not engage in prior restraint of school-sponsored media except in the circumstances described in the act.\r\n\r\n\tStudent journalists shall be responsible for determining the content of school-sponsored media, while student-media advisors are responsible for teaching and encouraging expression and the standards of English and journalism.  No student-media advisor shall be subject to disciplinary actions described in the act for refusal to abridge or infringe upon freedom of expression.\r\n\r\n\tNo publication or other exercise of the rights provided under this act shall be deemed an expression of school or institutional policy.  No school district, institution of higher education, or employee of such entities shall be held liable in any civil or criminal action for any publication or other exercise of rights provided under this act, except to the extent that such an entity or person actively participated in conduct that is the subject of a civil or criminal action.  School districts and their employees may also be liable if they knew of such conduct and failed to take timely action to prevent or withdraw the publication or expression that is the subject of the action.  Student journalists who are not minors may be liable based on material for which they were responsible or involved.\r\n \r\n\tSchool districts shall adopt a written freedom of the press policy that includes reasonable provisions for the time, place, and manner of student expression.  The policy may also restrict speech that is offensive, threatening, or that fits other similar descriptions provided in the act.\r\n\r\n\tThis act is identical to SB 258 (2025), SB 1217 (2024), SB 440 (2023), SB 855 (2022), SB 434 (2021), HB 480 (2021), SB 923 (2020), HCS/HBs 743 & 673 (2019), and HB 1940 (2018); is substantially similar to HB 1668 (2022), HB 2317 (2020), and HCS/HB 576 (2019); and is similar to HCS/HB 2918 (2026).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1172 - This act establishes the \"Cronkite New Voices Act\", which provides that in both public high schools and public institutions of higher education, a student journalist, as defined in the act, has the right to exercise freedom of speech and of the press in school-sponsored media. \r\n\r\n\tIn school districts, the district and student-media advisors may regulate the number, length, frequency, and format of school-sponsored media.  School districts shall not engage in prior restraint of school-sponsored media except in the circumstances described in the act.\r\n\r\n\tStudent journalists shall be responsible for determining the content of school-sponsored media, while student-media advisors are responsible for teaching and encouraging expression and the standards of English and journalism.  No student-media advisor shall be subject to disciplinary actions described in the act for refusal to abridge or infringe upon freedom of expression.\r\n\r\n\tNo publication or other exercise of the rights provided under this act shall be deemed an expression of school or institutional policy.  No school district, institution of higher education, or employee of such entities shall be held liable in any civil or criminal action for any publication or other exercise of rights provided under this act, except to the extent that such an entity or person actively participated in conduct that is the subject of a civil or criminal action.  School districts and their employees may also be liable if they knew of such conduct and failed to take timely action to prevent or withdraw the publication or expression that is the subject of the action.  Student journalists who are not minors may be liable based on material for which they were responsible or involved.\r\n \r\n\tSchool districts shall adopt a written freedom of the press policy that includes reasonable provisions for the time, place, and manner of student expression.  The policy may also restrict speech that is offensive, threatening, or that fits other similar descriptions provided in the act.\r\n\r\n\tThis act is identical to SB 258 (2025), SB 1217 (2024), SB 440 (2023), SB 855 (2022), SB 434 (2021), HB 480 (2021), SB 923 (2020), HCS/HBs 743 & 673 (2019), and HB 1940 (2018); is substantially similar to HB 1668 (2022), HB 2317 (2020), and HCS/HB 576 (2019); and is similar to HCS/HB 2918 (2026).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the \"Cronkite New Voices Act\" to protect the freedom of press in school-sponsored media"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1172"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Washington, Barbara",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Washington, Barbara\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4327S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1172.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=645",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4327S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

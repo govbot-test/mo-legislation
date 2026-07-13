@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Perfected with Amendments (H) - HA 1, HA 2, HA 1 to HA 3, HA 2 to HA 3, HA 3, as amended, adopted",
+    "occurred_at": "2026-04-13T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.house.mo.gov/BillContent.aspx?bill=HB2436&year=2026&code=R&style=new",
+        "note": ""
+      },
+      {
+        "url": "https://house.mo.gov/billactions.aspx?bill=HB2436&year=2026&code=R",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 2436"
+}

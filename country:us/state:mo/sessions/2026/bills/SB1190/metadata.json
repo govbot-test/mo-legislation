@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1190",
+  "title": "SB 1190 - This act provides that in actions against health care providers where the act of neglect complained of is related to the provision of gender transition surgeries or gender transition services or the prescription or administration of cross-sex hormones or puberty-blocking drugs, the action shall be brought within 15 years from the date of discovery of the injury and of the causal relationship between the injury and actions of the health care provider.\r\n\r\n\tAdditionally, this act establishes a separate cause of action against health care providers for personal injury or death arising out of the rendering or failure to render health care services while in the course of performing a gender transition surgery or other gender transition services or in the course of prescribing or administering cross-sex hormones or puberty-blocking drugs. Any purported waiver of liability by an injured party shall be void and unenforceable.\r\n\r\n\tThe limitation on damages provided in current law for actions against health care providers shall not apply to actions covered by this act. Rather, a prevailing plaintiff may recover economic, noneconomic, and punitive damages, provided that any award shall include attorney's fees and court costs. Additionally, a prevailing plaintiff shall not recover less than $500,000 in the aggregate and the judgment against a defendant shall be in an amount of three times the amount of any economic, noneconomic, and punitive damages assessed.\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1190 - This act provides that in actions against health care providers where the act of neglect complained of is related to the provision of gender transition surgeries or gender transition services or the prescription or administration of cross-sex hormones or puberty-blocking drugs, the action shall be brought within 15 years from the date of discovery of the injury and of the causal relationship between the injury and actions of the health care provider.\r\n\r\n\tAdditionally, this act establishes a separate cause of action against health care providers for personal injury or death arising out of the rendering or failure to render health care services while in the course of performing a gender transition surgery or other gender transition services or in the course of prescribing or administering cross-sex hormones or puberty-blocking drugs. Any purported waiver of liability by an injured party shall be void and unenforceable.\r\n\r\n\tThe limitation on damages provided in current law for actions against health care providers shall not apply to actions covered by this act. Rather, a prevailing plaintiff may recover economic, noneconomic, and punitive damages, provided that any award shall include attorney's fees and court costs. Additionally, a prevailing plaintiff shall not recover less than $500,000 in the aggregate and the judgment against a defendant shall be in an amount of three times the amount of any economic, noneconomic, and punitive damages assessed.\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to medical malpractice actions against health care providers for gender transition services"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1190"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Carter, Jill",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Carter, Jill\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5445S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1190.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=586",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5445S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

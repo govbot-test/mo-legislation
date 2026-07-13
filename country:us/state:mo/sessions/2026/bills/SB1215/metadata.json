@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1215",
+  "title": "SB 1215 - This act authorizes the sentencing court to reduce a sentence of life without eligibility for probation or parole or reduce a sentence of 30 years or greater to a sentence of life with eligibility for probation or parole if the convicted person has served at least 30 years, was under 20 years of age at the time of the offense, made reasonable efforts towards rehabilitation, and has exhibited model citizen behavior.\r\n\r\n\tAny offender receiving such reduction shall be granted a hearing before the Parole Board. Furthermore, an offender receiving a reduction shall provide the Parole Board the following in order to be eligible for supervised release:\r\n(1)\tAt least 5 statements from current or former Department of Corrections employees attesting to the offender demonstration of institutional adaptability and conduct in the correctional center;\r\n(2)\tAt least 20 signed statements from residents of the community where the offender will reside upon release that commit to providing assistance with the offender's reentry; and \r\n(3)\tA safe and secure home plan.\r\n\r\n\tThis act is identical to HB 2663 (2026), SB 582 (2025), HB 1151 (2025) and is similar to HB 2127 (2024), HB 907 (2023), and contains a provision similar to HB 1799 (2022), HB 2232 (2022), HB 2254 (2020), HB 195 (2019), and HB 2072 (2018).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1215 - This act authorizes the sentencing court to reduce a sentence of life without eligibility for probation or parole or reduce a sentence of 30 years or greater to a sentence of life with eligibility for probation or parole if the convicted person has served at least 30 years, was under 20 years of age at the time of the offense, made reasonable efforts towards rehabilitation, and has exhibited model citizen behavior.\r\n\r\n\tAny offender receiving such reduction shall be granted a hearing before the Parole Board. Furthermore, an offender receiving a reduction shall provide the Parole Board the following in order to be eligible for supervised release:\r\n(1)\tAt least 5 statements from current or former Department of Corrections employees attesting to the offender demonstration of institutional adaptability and conduct in the correctional center;\r\n(2)\tAt least 20 signed statements from residents of the community where the offender will reside upon release that commit to providing assistance with the offender's reentry; and \r\n(3)\tA safe and secure home plan.\r\n\r\n\tThis act is identical to HB 2663 (2026), SB 582 (2025), HB 1151 (2025) and is similar to HB 2127 (2024), HB 907 (2023), and contains a provision similar to HB 1799 (2022), HB 2232 (2022), HB 2254 (2020), HB 195 (2019), and HB 2072 (2018).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes provisions relating to reduction of certain criminal sentences of imprisonment"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1215"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nurrenbern, Maggie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nurrenbern, Maggie\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3904S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1215.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=532",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3904S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

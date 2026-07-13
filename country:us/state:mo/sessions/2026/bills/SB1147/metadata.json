@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1147",
+  "title": "SB 1147 - This act provides that health benefit plans shall not impose greater cost-sharing requirements for certain treatment of behavioral or mental health conditions if a hospital is out-of-network, as provided in the act, and that the health carrier shall reimburse the out-of-network hospital for the treatment at the same rate as the hospital would be reimbursed by MO HealthNet or Medicare, whichever is greater.\r\n\r\n\tThe act also provides that maintaining inadequate behavioral and mental health provider networks, as described in the act, shall be an unlawful practice enforceable under the Missouri Merchandising Practices Act.\r\n\r\n\tThis act is substantially similar to SB 567 (2025) and similar to SB 550 (2025) and HB 1071 (2025).\r\nTAYLOR MIDDLETON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1147 - This act provides that health benefit plans shall not impose greater cost-sharing requirements for certain treatment of behavioral or mental health conditions if a hospital is out-of-network, as provided in the act, and that the health carrier shall reimburse the out-of-network hospital for the treatment at the same rate as the hospital would be reimbursed by MO HealthNet or Medicare, whichever is greater.\r\n\r\n\tThe act also provides that maintaining inadequate behavioral and mental health provider networks, as described in the act, shall be an unlawful practice enforceable under the Missouri Merchandising Practices Act.\r\n\r\n\tThis act is substantially similar to SB 567 (2025) and similar to SB 550 (2025) and HB 1071 (2025).\r\nTAYLOR MIDDLETON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Enacts provisions relating to insurance coverage for mental health treatments"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1147"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Insurance and Banking Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gregory (21), Kurtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Gregory (21), Kurtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5475S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1147.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=619",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5475S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

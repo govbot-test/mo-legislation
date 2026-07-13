@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1488",
+  "title": "SB 1488 - This act repeals the sections of law which were declared unconstitutional in United States v. Missouri, and replaces them with new sections.\r\n\t\r\n\tThis act creates the \"Second Amendment Preservation Act\", and list various declarations of the Missouri General Assembly regarding the right of citizens to bear arms.\r\n\r\n\tUnder this act, public officers and employees of the state or any political subdivision shall not knowingly violate a law-abiding citizen's legal rights regarding firearms.  This act shall not prevent any Missouri official from accepting or rendering aid to federal officials nor shall it prevent law enforcement from working on federal task forces.\r\n\r\n\tAny law enforcement officer who acts knowingly to deprive a law-abiding citizen of Missouri of certain constitutional rights to bear arms while acting under any state or federal law shall be investigated by the political subdivision or law enforcement agency that employs them.  A law enforcement officer that is investigated under this provision is subject to discipline up to and including termination of employment.\r\n\r\n\tWhere an individual has acted in violation of this act, the Attorney General or prosecuting attorney has standing to pursue an action for injunctive or other equitable relief in the circuit court of the county in which the action allegedly occurred.\r\n\r\n\tFinally, it shall not be a violation of this act to provide material aid to federal authorities in any case in which there is reasonable suspicion to believe that the suspect engaged in criminal conduct.\r\n\r\n\tThis act is similar to SB 955 (2026).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1488 - This act repeals the sections of law which were declared unconstitutional in United States v. Missouri, and replaces them with new sections.\r\n\t\r\n\tThis act creates the \"Second Amendment Preservation Act\", and list various declarations of the Missouri General Assembly regarding the right of citizens to bear arms.\r\n\r\n\tUnder this act, public officers and employees of the state or any political subdivision shall not knowingly violate a law-abiding citizen's legal rights regarding firearms.  This act shall not prevent any Missouri official from accepting or rendering aid to federal officials nor shall it prevent law enforcement from working on federal task forces.\r\n\r\n\tAny law enforcement officer who acts knowingly to deprive a law-abiding citizen of Missouri of certain constitutional rights to bear arms while acting under any state or federal law shall be investigated by the political subdivision or law enforcement agency that employs them.  A law enforcement officer that is investigated under this provision is subject to discipline up to and including termination of employment.\r\n\r\n\tWhere an individual has acted in violation of this act, the Attorney General or prosecuting attorney has standing to pursue an action for injunctive or other equitable relief in the circuit court of the county in which the action allegedly occurred.\r\n\r\n\tFinally, it shall not be a violation of this act to provide material aid to federal authorities in any case in which there is reasonable suspicion to believe that the suspect engaged in criminal conduct.\r\n\r\n\tThis act is similar to SB 955 (2026).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions regarding the right to own firearms"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1488"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Transportation, Infrastructure and Public Safety Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-31T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gregory (21), Kurtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Gregory (21), Kurtis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6203S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1488.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=57458",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6203S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

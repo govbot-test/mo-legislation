@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1710",
+  "title": "SB 1710 - Under this act, no public high school shall begin mandated instruction for students earlier than 8:30 a.m.  This requirement shall be in effect at all school districts statewide beginning with the earliest of the commencement of the 2027-28 school year or the expiration of the school district's existing collective bargaining agreement establishing school day start times.  A school district experiencing significant hardship as a result of this requirement may apply for a waiver from the Department of Elementary and Secondary Education (DESE), and DESE shall establish a form that districts may use for this purpose.  School districts may coordinate with DESE for assistance with redesigning bus routes or adjusting school schedules to implement the later start time.\r\n\r\n\tThe act establishes the \"Missouri Sleep and Education Advisory Task Force\" within DESE.  The act lists the members of the task force and describes their manner of appointment by individuals including the Commissioner of Education, the Director of the Department of Health and Senior Services, the Governor, the President Pro Tem of the Senate, the Senate Minority Floor Leader, the Speaker of the House of Representatives, and the House Minority Floor Leader.  Members of the task force shall serve terms of four years and may be reappointed. \r\n\r\n\tThe task force shall collect feedback from among the task force membership and education stakeholders across the state regarding best practices for school start times, taking into account impacts of a later start time on student health, school operations and finances, and the local community.  Additionally, the task force shall collect data from school districts across the state on changes in student attendance, tardiness, grades, and disciplinary outcomes before and after the implementation of provisions of the act requiring high schools to begin mandated instruction no earlier than 8:30 a.m.  Based on this data, the task force may recommend changes to state law and regulations as needed.  On or before December thirty-first of each year, the task force shall submit a report on its findings and recommendations to the Governor, President Pro Tempore of the Senate, Speaker of the House of Representatives, the Joint Committee on Education, the State Board of Education, and the State Board of Health and Senior Services.\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1710 - Under this act, no public high school shall begin mandated instruction for students earlier than 8:30 a.m.  This requirement shall be in effect at all school districts statewide beginning with the earliest of the commencement of the 2027-28 school year or the expiration of the school district's existing collective bargaining agreement establishing school day start times.  A school district experiencing significant hardship as a result of this requirement may apply for a waiver from the Department of Elementary and Secondary Education (DESE), and DESE shall establish a form that districts may use for this purpose.  School districts may coordinate with DESE for assistance with redesigning bus routes or adjusting school schedules to implement the later start time.\r\n\r\n\tThe act establishes the \"Missouri Sleep and Education Advisory Task Force\" within DESE.  The act lists the members of the task force and describes their manner of appointment by individuals including the Commissioner of Education, the Director of the Department of Health and Senior Services, the Governor, the President Pro Tem of the Senate, the Senate Minority Floor Leader, the Speaker of the House of Representatives, and the House Minority Floor Leader.  Members of the task force shall serve terms of four years and may be reappointed. \r\n\r\n\tThe task force shall collect feedback from among the task force membership and education stakeholders across the state regarding best practices for school start times, taking into account impacts of a later start time on student health, school operations and finances, and the local community.  Additionally, the task force shall collect data from school districts across the state on changes in student attendance, tardiness, grades, and disciplinary outcomes before and after the implementation of provisions of the act requiring high schools to begin mandated instruction no earlier than 8:30 a.m.  Based on this data, the task force may recommend changes to state law and regulations as needed.  On or before December thirty-first of each year, the task force shall submit a report on its findings and recommendations to the Governor, President Pro Tempore of the Senate, Speaker of the House of Representatives, the Joint Committee on Education, the State Board of Education, and the State Board of Health and Senior Services.\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Requires public high schools to begin mandated instruction no earlier than 8:30 a.m. and establishes the \"Missouri Sleep and Education Advisory Task Force\""
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1710"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "McCreery, Tracy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            McCreery, Tracy\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6463S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1710.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6114495",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6463S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

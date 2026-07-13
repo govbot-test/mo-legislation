@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Public Hearing Scheduled (S) - Wednesday, April 8, 2026, 8:15 a.m., Senate Lounge - 3rd Floor",
+    "occurred_at": "2026-04-02T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.house.mo.gov/BillContent.aspx?bill=HB1977&year=2026&code=R&style=new",
+        "note": ""
+      },
+      {
+        "url": "https://house.mo.gov/billactions.aspx?bill=HB1977&year=2026&code=R",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1977"
+}

@@ -1,0 +1,255 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1065",
+  "title": "SS/SCS/SB 1065 - The act modifies and creates new provisions relating to utility facility relocation.\r\n\r\n\tThe State Road Fund shall be used for reimbursing for certain utility relocation costs, as described in the act.\r\n\r\n\tThe Department of Transportation shall reimburse non-rate-regulated providers for any labor costs associated with facility relocation that are required due to road maintenance, construction, or other right-of-way work activity. Notification requirements by the Department and response requirements by the non-rate-regulated provider are described in the act.\r\n\r\n\tThe Department of Transportation shall reimburse a non-rate-regulated provider for the provider's labor costs for the facility relocation not to exceed specific amounts described in the act. This provision shall expire on July 1, 2031. \r\n\r\n\tA non-rate-regulated provider shall provide invoices to the Department for the provider's labor costs for the fiscal year in which such work occurs. Payment of the invoices is described in the act. If a provider's total labor costs exceed the specified amounts under the act, such payments shall be prorated.\r\n\r\n\tThe Department shall be required to publicly disclose on an annual basis no later than July 31st a list of facility reimbursement invoices received, as described in the act.\r\n\r\n\tThe act shall not require the Department to reimburse a non-rate-regulated provider for the removal or relocation of facilities placed in the public right-of-way in violation of state law or local permitting requirements.\r\n\r\n\tUnder the act, subject to certain exceptions, the removal and relocation of utility facilities as a result of construction projects required by the Highways and Transportation Commission shall be made at the expense of the owners unless otherwise provided by the Commission. Currently, if the owner fails to relocate the utility facilities, the cost of relocating the utility facilities shall be collected from the owner. Under the act, the cost of relocating the utility facilities shall be the responsibility of the Commission or the owner.\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SS/SCS/SB 1065 - The act modifies and creates new provisions relating to utility facility relocation.\r\n\r\n\tThe State Road Fund shall be used for reimbursing for certain utility relocation costs, as described in the act.\r\n\r\n\tThe Department of Transportation shall reimburse non-rate-regulated providers for any labor costs associated with facility relocation that are required due to road maintenance, construction, or other right-of-way work activity. Notification requirements by the Department and response requirements by the non-rate-regulated provider are described in the act.\r\n\r\n\tThe Department of Transportation shall reimburse a non-rate-regulated provider for the provider's labor costs for the facility relocation not to exceed specific amounts described in the act. This provision shall expire on July 1, 2031. \r\n\r\n\tA non-rate-regulated provider shall provide invoices to the Department for the provider's labor costs for the fiscal year in which such work occurs. Payment of the invoices is described in the act. If a provider's total labor costs exceed the specified amounts under the act, such payments shall be prorated.\r\n\r\n\tThe Department shall be required to publicly disclose on an annual basis no later than July 31st a list of facility reimbursement invoices received, as described in the act.\r\n\r\n\tThe act shall not require the Department to reimburse a non-rate-regulated provider for the removal or relocation of facilities placed in the public right-of-way in violation of state law or local permitting requirements.\r\n\r\n\tUnder the act, subject to certain exceptions, the removal and relocation of utility facilities as a result of construction projects required by the Highways and Transportation Commission shall be made at the expense of the owners unless otherwise provided by the Commission. Currently, if the owner fails to relocate the utility facilities, the cost of relocating the utility facilities shall be collected from the owner. Under the act, the cost of relocating the utility facilities shall be the responsibility of the Commission or the owner.\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to utility facility relocation"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1065"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Informal Calendar S Bills for Perfection",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "SA 2 to SS for SCS S offered & adopted (Brown-26)--(4816S12.02S)",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "SA 1 to SS for SCS S offered & adopted (McCreery)--(4816S12.01S)",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "SS for SCS S offered (Brown-26)--(4816S.12F)",
+      "date": "2026-04-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Bill Placed on Informal Calendar",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Reported from S Commerce, Consumer Protection, Energy & the Environment Committee w/SCS",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass S Commerce, Consumer Protection, Energy & the Environment Committee (4816S.02C)",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-02-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Hearing Cancelled S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Commerce, Consumer Protection, Energy & the Environment Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brown (26), Ben",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brown (26), Ben\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4816S.02C - Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB1065.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4816S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1065.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4/20/2026 - SA 1 to SS for SCS S offered & adopted (McCreery)--(4816S12.01S)\r\n                    \r\n                        4/20/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=492",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "4/20/2026 - SA 2 to SS for SCS S offered & adopted (Brown-26)--(4816S12.02S)\r\n                    \r\n                        4/20/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=494",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "4/20/2026 - SS for SCS S offered (Brown-26)--(4816S.12F)\r\n                    \r\n                        4/20/2026 - Offered",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=489",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=250",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4816S.02C"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

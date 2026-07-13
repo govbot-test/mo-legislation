@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1508",
+  "title": "SB 1508 - Currently, during the time that the General Assembly is in session, there is an automatic stay of any administrative or court proceeding where a member of the General Assembly is a necessary witness. This act provides that the automatic stay shall apply instead when the member is subpoenaed as a witness.\r\n\r\n\tIn addition to those exceptions provided by current law, stays for members of the General Assembly shall not apply to proceedings in which a member has been subpoenaed as a witness where the court or tribunal quashes the subpoena for good cause shown by any party to the proceeding nor shall it apply to proceedings in which a member has been ordered to serve as a juror but the order requiring the member to serve as a juror is set aside.\r\n\r\n\tCurrent law provides that it is a sufficient cause for a continuance of any civil or criminal cases or administrative proceeding if it shall appear to the court that any party, attorney, solicitor, or counsel is a member of the General Assembly and in actual attendance of an out-of-session hearing, special session, or veto session and that the attendance of such person is necessary to a fair and proper trial or other proceeding in such suit. This act modifies this provision and provides that it shall be a sufficient cause for such continuance if any individual subpoenaed as a witness, any individual ordered to serve as a juror, any party applying for a continuance, or any attorney, solicitor, or counsel of such party is a member of the General Assembly and in or scheduled to be in actual attendance of an out-of-session hearing, special session, or veto session.\r\n\r\n\tThis act is identical to SB 380 (2025), SB 1198 (2024), SB 320 (2023), and SB 1198 (2022) and is similar to SB 269 (2021).\r\nKATIE O'BRIEN",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1508 - Currently, during the time that the General Assembly is in session, there is an automatic stay of any administrative or court proceeding where a member of the General Assembly is a necessary witness. This act provides that the automatic stay shall apply instead when the member is subpoenaed as a witness.\r\n\r\n\tIn addition to those exceptions provided by current law, stays for members of the General Assembly shall not apply to proceedings in which a member has been subpoenaed as a witness where the court or tribunal quashes the subpoena for good cause shown by any party to the proceeding nor shall it apply to proceedings in which a member has been ordered to serve as a juror but the order requiring the member to serve as a juror is set aside.\r\n\r\n\tCurrent law provides that it is a sufficient cause for a continuance of any civil or criminal cases or administrative proceeding if it shall appear to the court that any party, attorney, solicitor, or counsel is a member of the General Assembly and in actual attendance of an out-of-session hearing, special session, or veto session and that the attendance of such person is necessary to a fair and proper trial or other proceeding in such suit. This act modifies this provision and provides that it shall be a sufficient cause for such continuance if any individual subpoenaed as a witness, any individual ordered to serve as a juror, any party applying for a continuance, or any attorney, solicitor, or counsel of such party is a member of the General Assembly and in or scheduled to be in actual attendance of an out-of-session hearing, special session, or veto session.\r\n\r\n\tThis act is identical to SB 380 (2025), SB 1198 (2024), SB 320 (2023), and SB 1198 (2022) and is similar to SB 269 (2021).\r\nKATIE O'BRIEN"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to automatic stays of court and administrative proceedings for members of the General Assembly"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1508"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2026-01-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mosley, Angela",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Mosley, Angela\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3370S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1508.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=74586",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3370S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

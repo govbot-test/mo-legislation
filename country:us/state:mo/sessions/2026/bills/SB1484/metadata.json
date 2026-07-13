@@ -1,0 +1,141 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1484",
+  "title": "SCS/SB 1484 - This act modifies provisions relating to public contracts.\r\n\r\n\tCurrent law allows the Commissioner of Administration to contract directly with other governmental entities for the purchase of supplies. This act additionally allows the Commissioner to contract with nonprofit entities for the purchase of supplies.\r\n\r\n\tCurrent law provides procedures for how a political subdivision may enter into a contract for a design-build project. This act establishes procedures for political subdivisions to enter into progressive design-build contracts. A progressive design-build project is one in which the design, construction, alteration, addition, remodeling, or improvement of any buildings or facilities is under one, progressive contract with a political subdivision, including civil works projects, such as roads, streets, bridges, utilities, airport runways and taxiways, storm drainage and flood control projects, or transit projects and noncivil works projects, such as buildings, site improvements, and other structures, habitable or not, commonly designed by architects. \r\n\r\n\tProgressive design-build projects are subject to many of the same requirements as are currently applicable to design-build projects except that it is a two-step process rather than a three-step process. Phase I shall consist of the solicitation and evaluation of qualifications of design-builders. Phase II shall consist of the solicitation and evaluation of proposals describing the design-builder's approach to design development, pre-construction services and construction of the project. The political subdivision shall have discretion to disqualify any design-builder who, in the political subdivision's opinion, lacks the minimum qualifications required to perform the work.\r\n\r\n\tThe provisions of this act relating to progressive design-build projects expire on August 28, 2036.\r\n\r\n\tThis act is substantially similar to the truly agreed to SCS/HCS/HB 2474 (2026), HB 2899 (2026), and certain provisions in SCS/HB 3000 (2026).\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SCS/SB 1484 - This act modifies provisions relating to public contracts.\r\n\r\n\tCurrent law allows the Commissioner of Administration to contract directly with other governmental entities for the purchase of supplies. This act additionally allows the Commissioner to contract with nonprofit entities for the purchase of supplies.\r\n\r\n\tCurrent law provides procedures for how a political subdivision may enter into a contract for a design-build project. This act establishes procedures for political subdivisions to enter into progressive design-build contracts. A progressive design-build project is one in which the design, construction, alteration, addition, remodeling, or improvement of any buildings or facilities is under one, progressive contract with a political subdivision, including civil works projects, such as roads, streets, bridges, utilities, airport runways and taxiways, storm drainage and flood control projects, or transit projects and noncivil works projects, such as buildings, site improvements, and other structures, habitable or not, commonly designed by architects. \r\n\r\n\tProgressive design-build projects are subject to many of the same requirements as are currently applicable to design-build projects except that it is a two-step process rather than a three-step process. Phase I shall consist of the solicitation and evaluation of qualifications of design-builders. Phase II shall consist of the solicitation and evaluation of proposals describing the design-builder's approach to design development, pre-construction services and construction of the project. The political subdivision shall have discretion to disqualify any design-builder who, in the political subdivision's opinion, lacks the minimum qualifications required to perform the work.\r\n\r\n\tThe provisions of this act relating to progressive design-build projects expire on August 28, 2036.\r\n\r\n\tThis act is substantially similar to the truly agreed to SCS/HCS/HB 2474 (2026), HB 2899 (2026), and certain provisions in SCS/HB 3000 (2026).\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates new provisions relating to progressive design-build contracts"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1484"
+    }
+  ],
+  "actions": [
+    {
+      "description": "SCS Voted Do Pass S Government Efficiency Committee (5910S.04C)",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Government Efficiency Committee",
+      "date": "2026-03-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Government Efficiency Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-30T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Henderson, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Henderson, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB1484.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "5910S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1484.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=54392",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5910S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

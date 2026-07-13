@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1278",
+  "title": "SB 1278 - This act provides that no public school, private school, public charter school, public school district, or public or private institution of postsecondary education shall be a member of any statewide athletic activities association or national intercollegiate athletics organization that allows students to take performance enhancing drugs.  Any public school, private school, public charter school, public school district, or public or private institution of postsecondary education that violates this act shall not receive any state aid or other revenues from the state.  The parent or guardian of any student, or any student who is over eighteen years old, who is deprived of an athletic opportunity as a result of a violation of the act shall have a cause of action for injunctive or other equitable relief as described in the act.  \r\n\r\n\tThis act is identical to SB 55 (2025) and similar to SB 1440 (2024).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1278 - This act provides that no public school, private school, public charter school, public school district, or public or private institution of postsecondary education shall be a member of any statewide athletic activities association or national intercollegiate athletics organization that allows students to take performance enhancing drugs.  Any public school, private school, public charter school, public school district, or public or private institution of postsecondary education that violates this act shall not receive any state aid or other revenues from the state.  The parent or guardian of any student, or any student who is over eighteen years old, who is deprived of an athletic opportunity as a result of a violation of the act shall have a cause of action for injunctive or other equitable relief as described in the act.  \r\n\r\n\tThis act is identical to SB 55 (2025) and similar to SB 1440 (2024).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Prohibits elementary and secondary schools and institutions of postsecondary education from being members of athletic organizations that allow students to use performance enhancing drugs"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1278"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Coleman, Mary Elizabeth",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Coleman, Mary Elizabeth\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3963S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1278.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=609",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "3963S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

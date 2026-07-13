@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1600",
+  "title": "SB 1600 - Beginning in the 2027-28 school year, this act requires school districts to conduct universal screenings of all students at least once before 3rd grade for the purpose of identifying gifted students.  These screenings shall use valid, reliable, and current testing methods; provide a body of evidence from at least two distinct areas such as general mental ability, academic achievement, creativity, reasoning, problem solving, or various forms of referral; and be reviewed by personnel trained in gifted education or assessment.  A child's failure to satisfy the gifted criteria of a single assessment shall not preclude further evaluation or consideration.\r\n\r\n\tAdditionally, beginning in the 2026-27 school year, each school district shall adopt a board-approved policy that establishes procedures for universal screening of students for gifted program selection and that notifies parents of the screening process annually.  A school district's criteria for identifying gifted students shall be guided by recommendations from the Advisory Council on the Education of Gifted and Talented Children established in current law.\r\n\r\n\tThis act is identical to SB 1628 (2026) and HCS/HB 1757 (2026), and is similar to HB 2704 (2026).\r\nOLIVIA SHANNON",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1600 - Beginning in the 2027-28 school year, this act requires school districts to conduct universal screenings of all students at least once before 3rd grade for the purpose of identifying gifted students.  These screenings shall use valid, reliable, and current testing methods; provide a body of evidence from at least two distinct areas such as general mental ability, academic achievement, creativity, reasoning, problem solving, or various forms of referral; and be reviewed by personnel trained in gifted education or assessment.  A child's failure to satisfy the gifted criteria of a single assessment shall not preclude further evaluation or consideration.\r\n\r\n\tAdditionally, beginning in the 2026-27 school year, each school district shall adopt a board-approved policy that establishes procedures for universal screening of students for gifted program selection and that notifies parents of the screening process annually.  A school district's criteria for identifying gifted students shall be guided by recommendations from the Advisory Council on the Education of Gifted and Talented Children established in current law.\r\n\r\n\tThis act is identical to SB 1628 (2026) and HCS/HB 1757 (2026), and is similar to HB 2704 (2026).\r\nOLIVIA SHANNON"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Requires school districts to screen all students at least once before third grade for the purpose of identifying gifted students"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1600"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Education Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nurrenbern, Maggie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nurrenbern, Maggie\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6926S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1600.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=2581466",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6926S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

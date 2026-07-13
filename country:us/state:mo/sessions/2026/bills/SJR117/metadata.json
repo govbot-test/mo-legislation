@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SJR 117",
+  "title": "SJR 117 - This constitutional amendment, if approved by the voters, establishes the \"Taxpayer Protection Act\".\r\n\r\n\tThis constitutional amendment requires nonrecall petitions and referred measures to be held on a general election, a municipal election, or on the first Tuesday after the first Monday in November of odd-numbered years. The amendment authorizes districts to consolidate ballot issues and allows voters to approve delays up to four years in voting on ballot issues, provided that district actions taking during the delay shall not extend beyond that period.\r\n\r\n\tThe amendment requires a district to mail notice to each active registered elector with specific titles, as described in the amendment. Such notices shall include a summary both for and against the proposal.\r\n\r\n\tIn addition to existing constitutional requirements for voter approval of new or increased taxes, this amendment requires voter approval for any new tax, tax rate increase, mill levy above the prior year rate, valuation for assessment ratio increase for a property class, extension of an expiring tax, or a tax policy change directly causing a net tax revenue gain to any district. Voter approval shall also be required for the creation of any multiple fiscal year direct or indirect debt or other financial obligation whatsoever without adequate present cash reserves pledged irrevocably and held for payments in all future fiscal years.\r\n\r\n\tThe amendment requires each district to reserve a portion of its fiscal year spending to be used only for declared emergencies, as described in the amendment.\r\n\r\n\tThe amendment places a limit on the percentage change in state appropriations equal to inflation plus the percentage change in state population in the prior calendar year, adjusted for any revenue changes approved by voters. The amendment also places a limit on the annual percentage change in a local district fiscal year spending equal to inflation plus local growth.\r\n\r\n\tIf revenue from sources not excluded from fiscal year spending exceeds the limits in dollars for that fiscal year, the excess shall be refunded in the next fiscal year unless voters approve a revenue change as an offset. Initial district bases shall be current fiscal year spending and property tax collected for tax year 2025. Qualification or disqualification as an enterprise, as defined in the amendment, shall change district bases and future year limits. Future creation of district bonded debt shall increase, and retiring or refinancing district bonded debt shall lower, fiscal year spending and property tax revenue by the annual debt service so funded. Debt service changes, reductions, refunds, and voter-approved revenue changes are dollar amounts that are exceptions to any district base.\r\n\r\n\tThe amendment prohibits new or increased transfer tax rates on real property. The amendment also prohibits any new state real property tax or local income tax.\r\n\r\n\tThe amendment authorizes districts to enact cumulative uniform exemptions and credits to reduce or end business personal property taxes.\r\n\r\n\tThe amendment requires real estate sales prices for past or future sales by a lender or government to be kept as public records.\r\n\r\n\tThe amendment allows a local district to reduce or end its subsidy to any program delegated to it by the General Assembly for administration. For current programs, the state may require 90 days notice and that the adjustment occur in a maximum of three equal annual installments.\r\n\r\n\tThis amendment is substantially similar to HCS/HJR 169 (2026).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SJR 117 - This constitutional amendment, if approved by the voters, establishes the \"Taxpayer Protection Act\".\r\n\r\n\tThis constitutional amendment requires nonrecall petitions and referred measures to be held on a general election, a municipal election, or on the first Tuesday after the first Monday in November of odd-numbered years. The amendment authorizes districts to consolidate ballot issues and allows voters to approve delays up to four years in voting on ballot issues, provided that district actions taking during the delay shall not extend beyond that period.\r\n\r\n\tThe amendment requires a district to mail notice to each active registered elector with specific titles, as described in the amendment. Such notices shall include a summary both for and against the proposal.\r\n\r\n\tIn addition to existing constitutional requirements for voter approval of new or increased taxes, this amendment requires voter approval for any new tax, tax rate increase, mill levy above the prior year rate, valuation for assessment ratio increase for a property class, extension of an expiring tax, or a tax policy change directly causing a net tax revenue gain to any district. Voter approval shall also be required for the creation of any multiple fiscal year direct or indirect debt or other financial obligation whatsoever without adequate present cash reserves pledged irrevocably and held for payments in all future fiscal years.\r\n\r\n\tThe amendment requires each district to reserve a portion of its fiscal year spending to be used only for declared emergencies, as described in the amendment.\r\n\r\n\tThe amendment places a limit on the percentage change in state appropriations equal to inflation plus the percentage change in state population in the prior calendar year, adjusted for any revenue changes approved by voters. The amendment also places a limit on the annual percentage change in a local district fiscal year spending equal to inflation plus local growth.\r\n\r\n\tIf revenue from sources not excluded from fiscal year spending exceeds the limits in dollars for that fiscal year, the excess shall be refunded in the next fiscal year unless voters approve a revenue change as an offset. Initial district bases shall be current fiscal year spending and property tax collected for tax year 2025. Qualification or disqualification as an enterprise, as defined in the amendment, shall change district bases and future year limits. Future creation of district bonded debt shall increase, and retiring or refinancing district bonded debt shall lower, fiscal year spending and property tax revenue by the annual debt service so funded. Debt service changes, reductions, refunds, and voter-approved revenue changes are dollar amounts that are exceptions to any district base.\r\n\r\n\tThe amendment prohibits new or increased transfer tax rates on real property. The amendment also prohibits any new state real property tax or local income tax.\r\n\r\n\tThe amendment authorizes districts to enact cumulative uniform exemptions and credits to reduce or end business personal property taxes.\r\n\r\n\tThe amendment requires real estate sales prices for past or future sales by a lender or government to be kept as public records.\r\n\r\n\tThe amendment allows a local district to reduce or end its subsidy to any program delegated to it by the General Assembly for administration. For current programs, the state may require 90 days notice and that the adjustment occur in a maximum of three equal annual installments.\r\n\r\n\tThis amendment is substantially similar to HCS/HJR 169 (2026).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to state revenue"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sjr117"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Economic and Workforce Development Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brown (26), Ben",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Brown (26), Ben\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6873S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR117.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=2589606",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6873S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

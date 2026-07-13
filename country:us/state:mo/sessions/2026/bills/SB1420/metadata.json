@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1420",
+  "title": "SB 1420 - This act modifies provisions relating to mail sent by state entities.\r\n\r\n\tThe act requires the executive director of the Missouri Ethics Commission to notify the candidate or treasurer of a campaign committee by any means, rather than just registered mail, if the committee has failed to file any campaign finance report required by Missouri law.\r\n\r\n\tThe act modifies the notice due to taxpayers in the case of a tax deficiency by requiring a notice of deficiency to be mailed by regular first class mail, rather than certified or registered mail as required by current law, to the taxpayer at his last known address or delivered electronically at the taxpayer's request.\r\n\r\n\tPursuant to current law, any notice served on an applicant or recipient of a blind pension shall be sent by certified mail. This act repeals the requirement that the mail be sent certified, except in the case of notices of adverse actions being taken against the applicant or recipient.\r\n\r\n\tThis act is identical to provisions in the truly agreed to SCS/HB 2180 (2026) and substantially similar to SB 666 (2025), HB 520 (2025), SB 1134 (2024), HB 2585 (2024), HCS/SS/SB 378 (2023), HB 79 (2023), and the perfected HB 510 (2023).\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1420 - This act modifies provisions relating to mail sent by state entities.\r\n\r\n\tThe act requires the executive director of the Missouri Ethics Commission to notify the candidate or treasurer of a campaign committee by any means, rather than just registered mail, if the committee has failed to file any campaign finance report required by Missouri law.\r\n\r\n\tThe act modifies the notice due to taxpayers in the case of a tax deficiency by requiring a notice of deficiency to be mailed by regular first class mail, rather than certified or registered mail as required by current law, to the taxpayer at his last known address or delivered electronically at the taxpayer's request.\r\n\r\n\tPursuant to current law, any notice served on an applicant or recipient of a blind pension shall be sent by certified mail. This act repeals the requirement that the mail be sent certified, except in the case of notices of adverse actions being taken against the applicant or recipient.\r\n\r\n\tThis act is identical to provisions in the truly agreed to SCS/HB 2180 (2026) and substantially similar to SB 666 (2025), HB 520 (2025), SB 1134 (2024), HB 2585 (2024), HCS/SS/SB 378 (2023), HB 79 (2023), and the perfected HB 510 (2023).\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to mail sent by state entities"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1420"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Government Efficiency Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bernskoetter, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Bernskoetter, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6061S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1420.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=8217",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6061S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

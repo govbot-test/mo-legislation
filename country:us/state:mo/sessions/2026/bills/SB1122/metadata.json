@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1122",
+  "title": "SB 1122 - This act modifies various provisions relating to elections.\r\n\r\nPUBLIC HOLIDAY (Section 9.001)\r\nThe act makes the general election a public holiday.\r\n\r\nINTERNET CONNECTIVITY - ELECTION EQUIPMENT (Section 115.013)\r\nThe act modifies the definitions applicable to election equipment to provide that equipment is not capable of connecting to the internet through Bluetooth or any other wireless technology.\r\n\r\nVOTER REGISTRATION - DOCUMENTARY PROOF OF CITIZENSHIP (Various Sections)\r\nThis act requires documentary proof of United States citizenship, as that term is defined in the act, in order to register to vote, provided that persons already registered to vote and those seeking to transfer voter registration within the state are not required to provide such proof.\r\n\r\n\tAdditionally, all information required to be provided on a voter registration form shall be personally provided by the person seeking to register.\r\n\r\n\tThese provisions are identical to certain provisions in SCS/SB 62 (2025) and similar to SCS/SB 986 (2026).\r\n\r\nLIVESTREAM OF BALLOT COUNTING (Sections 115.449 and 115.477)\r\nThe counting of ballots is required to be recorded and streamed on the website of the respective election authority.\r\n\r\nAUTOMATIC RECOUNTS (Section 115.601)\r\nThe act requires an automatic recount in any election decided by fewer than 500 votes.\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1122 - This act modifies various provisions relating to elections.\r\n\r\nPUBLIC HOLIDAY (Section 9.001)\r\nThe act makes the general election a public holiday.\r\n\r\nINTERNET CONNECTIVITY - ELECTION EQUIPMENT (Section 115.013)\r\nThe act modifies the definitions applicable to election equipment to provide that equipment is not capable of connecting to the internet through Bluetooth or any other wireless technology.\r\n\r\nVOTER REGISTRATION - DOCUMENTARY PROOF OF CITIZENSHIP (Various Sections)\r\nThis act requires documentary proof of United States citizenship, as that term is defined in the act, in order to register to vote, provided that persons already registered to vote and those seeking to transfer voter registration within the state are not required to provide such proof.\r\n\r\n\tAdditionally, all information required to be provided on a voter registration form shall be personally provided by the person seeking to register.\r\n\r\n\tThese provisions are identical to certain provisions in SCS/SB 62 (2025) and similar to SCS/SB 986 (2026).\r\n\r\nLIVESTREAM OF BALLOT COUNTING (Sections 115.449 and 115.477)\r\nThe counting of ballots is required to be recorded and streamed on the website of the respective election authority.\r\n\r\nAUTOMATIC RECOUNTS (Section 115.601)\r\nThe act requires an automatic recount in any election decided by fewer than 500 votes.\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to elections"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1122"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schroer, Nick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schroer, Nick\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4211S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1122.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=333",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4211S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1431",
+  "title": "SB 1431 - This act establishes the \"Missouri Building Codes Act\".\r\n\r\n\tNew facilities constructed for the state shall comply with standards established under the act, and a state agency requiring building inspections shall comply with the same standards of inspection required under the act.\r\n\r\n\tThe act specifies provisions for political subdivisions adopting existing building codes by reference, and enacting local amendments to the state code, as provided in the act.\r\n\r\n\tThere is established within the Department of Commerce and Insurance the \"Missouri Building Codes Commission\", with membership and duties as laid out in the act, including the establishment of advisory committees. The Commission shall establish fees for the issuance and renewal of certain permits, and shall charge an additional fee, to be collected by political subdivisions for the permits. The act establishes a fund into which the state fees, any grants, and appropriations by the General Assembly shall be deposited for uses specified in the act.\r\n\r\n\tMissouri building codes other than the fire code shall be administered by the State Codes Manager. The state fire code shall be administered by the State Fire Marshal. The Missouri Building Codes Commission shall hold public hearings as part of adopting or amending codes in the manner described in the act.\r\n\r\n\tThe act further describes enforcement authority of the State Codes Manager, State Fire Marshal, and authorities having jurisdiction as such term is defined in the act. Agricultural buildings shall be exempt from building codes adopted under the act.\r\n\r\n\tA jurisdiction adopting the Missouri Building Codes that also requires residential reoccupancy inspections when there is a change in ownership, tenants, or occupants shall use a residential reoccupancy checklist established under the guidance of the Missouri Building Codes Commission as provided in the act.\r\n\r\n\tThis act is substantially similar to HB 3466 (2026) and SB 743 (2025) and similar to HB 2870 (2024).\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1431 - This act establishes the \"Missouri Building Codes Act\".\r\n\r\n\tNew facilities constructed for the state shall comply with standards established under the act, and a state agency requiring building inspections shall comply with the same standards of inspection required under the act.\r\n\r\n\tThe act specifies provisions for political subdivisions adopting existing building codes by reference, and enacting local amendments to the state code, as provided in the act.\r\n\r\n\tThere is established within the Department of Commerce and Insurance the \"Missouri Building Codes Commission\", with membership and duties as laid out in the act, including the establishment of advisory committees. The Commission shall establish fees for the issuance and renewal of certain permits, and shall charge an additional fee, to be collected by political subdivisions for the permits. The act establishes a fund into which the state fees, any grants, and appropriations by the General Assembly shall be deposited for uses specified in the act.\r\n\r\n\tMissouri building codes other than the fire code shall be administered by the State Codes Manager. The state fire code shall be administered by the State Fire Marshal. The Missouri Building Codes Commission shall hold public hearings as part of adopting or amending codes in the manner described in the act.\r\n\r\n\tThe act further describes enforcement authority of the State Codes Manager, State Fire Marshal, and authorities having jurisdiction as such term is defined in the act. Agricultural buildings shall be exempt from building codes adopted under the act.\r\n\r\n\tA jurisdiction adopting the Missouri Building Codes that also requires residential reoccupancy inspections when there is a change in ownership, tenants, or occupants shall use a residential reoccupancy checklist established under the guidance of the Missouri Building Codes Commission as provided in the act.\r\n\r\n\tThis act is substantially similar to HB 3466 (2026) and SB 743 (2025) and similar to HB 2870 (2024).\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes the \"Missouri Building Codes Act\""
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1431"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Henderson, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Henderson, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5985S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1431.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=19768",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5985S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

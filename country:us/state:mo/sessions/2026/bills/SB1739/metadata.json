@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1739",
+  "title": "SB 1739 - The act provides that a person shall not contact a property owner more than once per a calendar year with an unsolicited offer to buy the owner's real property. The unsolicited offer to buy real property shall include any communication, including a phone call, text message, email, mail, or fax.\r\n\r\n\tWhen a person contacts a property owner with an unsolicited offer to buy the owner's real property, before making the offer, the person shall provide the property owner with the person's legal name, address, phone number, and an email address.\r\n\r\n\tCommunication between a person and a property owner shall not be considered an unsolicited offer to buy real property if such communication is part of an ongoing negotiation to buy real property, until the owner states that he or she does not wish to continue the negotiations, or, if the negotiations are occurring through text messages, the owner writes that he or she does not wish to continue negotiations.\r\n\r\n\tThe Attorney General shall enforce the provisions of the act. Violations of the act may be reported to the Attorney General. Within 20 days of receiving a report for any violations of the act, the Attorney General shall send a written notice to the property owner that the Attorney General is conducting an investigation as to whether a violation occurred. After the investigation is completed, the Attorney General shall send a second written notice to the property owner describing the findings of the investigation. The second written notice shall also include information describing how the property owner may be placed on the no-call list.\r\n\r\n\tIf the Attorney General believes that a violation occurred, the Attorney General shall commence a civil action. If the court finds that a violation occurred, the court may grant relief as described in the act. A civil penalty shall not exceed $2,000 per violation.\r\nJULIA SHEVELEVA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1739 - The act provides that a person shall not contact a property owner more than once per a calendar year with an unsolicited offer to buy the owner's real property. The unsolicited offer to buy real property shall include any communication, including a phone call, text message, email, mail, or fax.\r\n\r\n\tWhen a person contacts a property owner with an unsolicited offer to buy the owner's real property, before making the offer, the person shall provide the property owner with the person's legal name, address, phone number, and an email address.\r\n\r\n\tCommunication between a person and a property owner shall not be considered an unsolicited offer to buy real property if such communication is part of an ongoing negotiation to buy real property, until the owner states that he or she does not wish to continue the negotiations, or, if the negotiations are occurring through text messages, the owner writes that he or she does not wish to continue negotiations.\r\n\r\n\tThe Attorney General shall enforce the provisions of the act. Violations of the act may be reported to the Attorney General. Within 20 days of receiving a report for any violations of the act, the Attorney General shall send a written notice to the property owner that the Attorney General is conducting an investigation as to whether a violation occurred. After the investigation is completed, the Attorney General shall send a second written notice to the property owner describing the findings of the investigation. The second written notice shall also include information describing how the property owner may be placed on the no-call list.\r\n\r\n\tIf the Attorney General believes that a violation occurred, the Attorney General shall commence a civil action. If the court finds that a violation occurred, the court may grant relief as described in the act. A civil penalty shall not exceed $2,000 per violation.\r\nJULIA SHEVELEVA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to solicitations to buy real property"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1739"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Washington, Barbara",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Washington, Barbara\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6253S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1739.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6457878",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6253S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1223",
+  "title": "SB 1223 - This act requires any product to be conspicuously labeled \"Potential Gene Therapy Product\" if the product has been created to act as, or otherwise exposed to processes resulting in the product acting as, a gene therapy or that could impact, alter, or introduce genetic material or a genetic change into the user or individuals exposed to the product, unless the product is reasonably known to be a gene therapy product, in which case the product shall be labeled \"Gene Therapy Product\".\r\n\r\n\tUpon the written request of a Missouri resident, any entity producing, selling, or distributing a product in this state with the capacity to infect an individual with a disease or expose an individual to genetically modified material shall provide information to the resident on the ways in which individuals who did not directly obtain or use the product may be exposed to the product or a component of the product.  These provisions apply as well to any governmental agency, product manufacturer, or organization with an interest in the production, sale, or distribution of such product, as described in the act.  All entities subject to disclosure requirements under this provision shall provide the requested information within at least 21 days after receipt of the request.\r\n\r\n\tFinally, any entity that makes a product available in Missouri that could infect, transmit to, or otherwise be absorbed in any individual in any way that could act as a medical intervention, vaccine, drug, or genetic modification shall obtain fully informed consent from all potential exposed individuals prior to such exposure.\r\n\r\n\tThis act is identical to SB 252 (2025), SB 1186 (2024), and HB 1169 (2023).\r\nSARAH HASKINS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1223 - This act requires any product to be conspicuously labeled \"Potential Gene Therapy Product\" if the product has been created to act as, or otherwise exposed to processes resulting in the product acting as, a gene therapy or that could impact, alter, or introduce genetic material or a genetic change into the user or individuals exposed to the product, unless the product is reasonably known to be a gene therapy product, in which case the product shall be labeled \"Gene Therapy Product\".\r\n\r\n\tUpon the written request of a Missouri resident, any entity producing, selling, or distributing a product in this state with the capacity to infect an individual with a disease or expose an individual to genetically modified material shall provide information to the resident on the ways in which individuals who did not directly obtain or use the product may be exposed to the product or a component of the product.  These provisions apply as well to any governmental agency, product manufacturer, or organization with an interest in the production, sale, or distribution of such product, as described in the act.  All entities subject to disclosure requirements under this provision shall provide the requested information within at least 21 days after receipt of the request.\r\n\r\n\tFinally, any entity that makes a product available in Missouri that could infect, transmit to, or otherwise be absorbed in any individual in any way that could act as a medical intervention, vaccine, drug, or genetic modification shall obtain fully informed consent from all potential exposed individuals prior to such exposure.\r\n\r\n\tThis act is identical to SB 252 (2025), SB 1186 (2024), and HB 1169 (2023).\r\nSARAH HASKINS"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Requires disclosure for certain products produced, sold, or distributed in Missouri"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1223"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Families, Seniors and Health Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Moon, Mike",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Moon, Mike\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5673S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1223.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=389",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5673S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1036",
+  "title": "SB 1036 - This act modifies the Missouri Works program by modifying several definitions. The definition of \"average wage\" is modified by dividing aggregate new payroll by the aggregate actual hours worked for new jobs multiplied by 2,080. A definition is added for \"gross wages\" and \"taxable wages\". The definition of \"new payroll\" is modified to include amounts paid by a qualified company for health insurance premiums if such qualified company pays 100% of the health insurance premiums of its full-time employees. The definition of \"notice of intent\" is modified to require such notice to be accompanied by an affidavit attesting to the estimated number of new jobs, position types, and new payroll. Multiple definitions are modified to change \"payroll\" and \"wages\" to \"gross payroll\" and \"gross wages\". (Section 620.2005)\r\n\r\n\tIn the event that the average wage for all new jobs created fails to meet the average wage requirement, this act allows a qualified company to retain withholding tax for the minimum number of required jobs. The Department may choose which new jobs to include in the minimum number to be averaged that will meet or exceed the average wage requirement.\r\n\r\n\tCurrent law bases the amount of tax credits to be authorized for a qualified company on a percentage of new payroll. This act changes the base for such tax credits to a percentage of new taxable wages.\r\n\r\n\tCurrent law requires the Department of Economic Development to consider certain factors when determining the amount of tax credits to award to a qualified company. This act requires the Department to also consider whether the qualified company participates in a pre-apprenticeship program approved by the Missouri Department of Higher Education and Workforce Development and the location of the headquarters of any contractor used by the qualified company, with preference given to contractors that are selected through an open bidding process that are headquartered in Missouri and for whom at least 85% of the workforce used for any work performed by the contractor for a qualified company reside within fifty miles of the site of such work. (Section 620.2010)\r\n\r\n\tThis act is identical to SB 32 (2025), HB 1319 (2025), SB 785 (2024), and HB 2894 (2024).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1036 - This act modifies the Missouri Works program by modifying several definitions. The definition of \"average wage\" is modified by dividing aggregate new payroll by the aggregate actual hours worked for new jobs multiplied by 2,080. A definition is added for \"gross wages\" and \"taxable wages\". The definition of \"new payroll\" is modified to include amounts paid by a qualified company for health insurance premiums if such qualified company pays 100% of the health insurance premiums of its full-time employees. The definition of \"notice of intent\" is modified to require such notice to be accompanied by an affidavit attesting to the estimated number of new jobs, position types, and new payroll. Multiple definitions are modified to change \"payroll\" and \"wages\" to \"gross payroll\" and \"gross wages\". (Section 620.2005)\r\n\r\n\tIn the event that the average wage for all new jobs created fails to meet the average wage requirement, this act allows a qualified company to retain withholding tax for the minimum number of required jobs. The Department may choose which new jobs to include in the minimum number to be averaged that will meet or exceed the average wage requirement.\r\n\r\n\tCurrent law bases the amount of tax credits to be authorized for a qualified company on a percentage of new payroll. This act changes the base for such tax credits to a percentage of new taxable wages.\r\n\r\n\tCurrent law requires the Department of Economic Development to consider certain factors when determining the amount of tax credits to award to a qualified company. This act requires the Department to also consider whether the qualified company participates in a pre-apprenticeship program approved by the Missouri Department of Higher Education and Workforce Development and the location of the headquarters of any contractor used by the qualified company, with preference given to contractors that are selected through an open bidding process that are headquartered in Missouri and for whom at least 85% of the workforce used for any work performed by the contractor for a qualified company reside within fifty miles of the site of such work. (Section 620.2010)\r\n\r\n\tThis act is identical to SB 32 (2025), HB 1319 (2025), SB 785 (2024), and HB 2894 (2024).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies the Missouri Works program"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1036"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Government Efficiency Committee",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Beck, Doug",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Beck, Doug\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4320S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1036.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=92",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4320S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

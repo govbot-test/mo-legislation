@@ -1,0 +1,141 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 854",
+  "title": "SCS/SBs 854 & 1494 - Under the provisions of this act, the administration of criminal justice includes the discretion to disclose closed mobile video recordings. Such discretion belongs to the agency that created the video.\r\n\r\n\tCurrently, under no circumstances shall a fee paid by an agency for a request exceed fifteen dollars. Under this act, such fee shall not exceed twenty dollars.\r\n\r\n\tThis act specifies that, starting January 1, 2031, the Office of State Courts Administrator (OSCA) and the Missouri State Highway patrol must submit an annual report to the Joint Committee on the Justice System, the House Judiciary Committee, and the Senate Judiciary and Civil and Criminal Jurisprudence Committee. This report must include specified statistical information, including the number of clean slate eligible offenses identified, the number of records objected to for state initiated expungement, and the number of expungement orders issued. \r\n\r\n\tUnder current law, in a criminal prosecution for murder in the first degree, the court must instruct the jury that, in the event it cannot agree on punishment, the court may assess punishment, including death. This act repeals that provision.\r\n\r\n\tThis act establishes an state initiated expungement process for closing records pertaining to certain offenses. This process will be phased in and an individual can be granted more than one expungement under this bill, subject to specified parameters and expectations. This bill also provides that, on a quarterly basis, the Highway Patrol must identify records that have become eligible in the last quarter and make these records accessible to the central repository and every prosecuting agency in the State within 100 days of the record becoming eligible for state initiated expungement. If a court finds, after a motion, a conviction was improperly or erroneously expunged under this provision, the court must reinstate the conviction.\r\n\r\n\tUnder this act, a credit bureau can report records of arrests, indictments pending trial, and convictions for no more than seven years from the date of final disposition. If at any time after arrest, indictment, or conviction, it is learned that a full pardon or expungement has been made for that offense, a credit bureau can no longer report these records.\r\n\r\n\tFinally, this act creates the \"Missouri Expungement Fund\", this fund shall be used for the creation, operation, and maintenance of the program. The Department of Public Safety, OSCA, and the Information Technology Services Division of the Office of Administration shall expend moneys from the fund upon appropriation. \r\n\r\n\tThis bill is similar to SB 1494 (2026) and HCS#2/HB 953 (2025).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SCS/SBs 854 & 1494 - Under the provisions of this act, the administration of criminal justice includes the discretion to disclose closed mobile video recordings. Such discretion belongs to the agency that created the video.\r\n\r\n\tCurrently, under no circumstances shall a fee paid by an agency for a request exceed fifteen dollars. Under this act, such fee shall not exceed twenty dollars.\r\n\r\n\tThis act specifies that, starting January 1, 2031, the Office of State Courts Administrator (OSCA) and the Missouri State Highway patrol must submit an annual report to the Joint Committee on the Justice System, the House Judiciary Committee, and the Senate Judiciary and Civil and Criminal Jurisprudence Committee. This report must include specified statistical information, including the number of clean slate eligible offenses identified, the number of records objected to for state initiated expungement, and the number of expungement orders issued. \r\n\r\n\tUnder current law, in a criminal prosecution for murder in the first degree, the court must instruct the jury that, in the event it cannot agree on punishment, the court may assess punishment, including death. This act repeals that provision.\r\n\r\n\tThis act establishes an state initiated expungement process for closing records pertaining to certain offenses. This process will be phased in and an individual can be granted more than one expungement under this bill, subject to specified parameters and expectations. This bill also provides that, on a quarterly basis, the Highway Patrol must identify records that have become eligible in the last quarter and make these records accessible to the central repository and every prosecuting agency in the State within 100 days of the record becoming eligible for state initiated expungement. If a court finds, after a motion, a conviction was improperly or erroneously expunged under this provision, the court must reinstate the conviction.\r\n\r\n\tUnder this act, a credit bureau can report records of arrests, indictments pending trial, and convictions for no more than seven years from the date of final disposition. If at any time after arrest, indictment, or conviction, it is learned that a full pardon or expungement has been made for that offense, a credit bureau can no longer report these records.\r\n\r\n\tFinally, this act creates the \"Missouri Expungement Fund\", this fund shall be used for the creation, operation, and maintenance of the program. The Department of Public Safety, OSCA, and the Information Technology Services Division of the Office of Administration shall expend moneys from the fund upon appropriation. \r\n\r\n\tThis bill is similar to SB 1494 (2026) and HCS#2/HB 953 (2025).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creates provisions relating to expungement"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb854"
+    }
+  ],
+  "actions": [
+    {
+      "description": "SCS Voted Do Pass (w/SCS SBs 854 & 1494) Judiciary and Civil and Criminal Jurisprudence Committee (5600S.03C)",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Williams, Brian",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Williams, Brian\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Senate Committee Substitute - Committee Version",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB854.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "5600S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB854.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=270",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5600S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

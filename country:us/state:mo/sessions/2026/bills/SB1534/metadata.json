@@ -1,0 +1,302 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1534",
+  "title": "SS/SCS/SB 1534 - This act modifies provisions relating to the exclusion of certain transactions from sales tax.\r\n\r\nCREDIT CARD PROCESSING FEES\r\n\tThis act excludes credit card and debit card processing fees from the definition of \"gross receipts\" for the purpose of imposing sales taxes. Such processing fees shall not exceed three percent of the purchase price or the merchant discount fee, whichever is less. Any business that charges a processing fee that is excluded from gross receipts shall provide notice to a purchaser of such charges, as described in the act. (Section 144.010)\r\n\r\n\tThis provision is substantially similar to a provision in SCS/HB 1707 (2026).\r\n\r\nFOOD SALES TAX EXEMPTION\r\n\tCurrent law taxes retail sales of food, as defined in current law, at a rate of one percent. This act provides that retail sales of food shall be exempt from state sales taxes. (Section 144.014)\r\n\r\n\tThis provision is identical to SB 688 (2025), SB 734 (2025), and SCS/SB 161 (2023), and to a provision in SB 57 (2025) and SCS/HCS/HB 154 (2023), and is substantially similar to SB 1656 (2026), HB 2079 (2026), HB 2253 (2026), HB 2568 (2026), SB 659 (2025), HB 345 (2025), HB 432 (2025), HB 872 (2025), HB 1587 (2025), HB 1418 (2024), HB 1464 (2024), HB 2174 (2024), HB 260 (2023), HB 452 (2023), HB 591 (2023), HB 896 (2023), HCS#2/HB 1992 (2022), HB 1817 (2022), and HB 2530 (2022), and to a provision in HB 1029 (2025), HB 2815 (2024), HB 2887 (2024), HB 377 (2023), HCS/HBs 876, 771, 676 & 551 (2023), HB 1136 (2023), HB 1779 (2022), and HB 2249 (2022).\r\n\r\n\tThe act also provides that, of the 4% state sales tax rate, the revenue derived from a rate of 0.2% shall be deposited in the School District Trust Fund. (Section 144.020)\r\n\r\n\tThese provisions are identical to SCS/SBs 1017 & 1239 (2026).\r\nJOSH NORBERG",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SS/SCS/SB 1534 - This act modifies provisions relating to the exclusion of certain transactions from sales tax.\r\n\r\nCREDIT CARD PROCESSING FEES\r\n\tThis act excludes credit card and debit card processing fees from the definition of \"gross receipts\" for the purpose of imposing sales taxes. Such processing fees shall not exceed three percent of the purchase price or the merchant discount fee, whichever is less. Any business that charges a processing fee that is excluded from gross receipts shall provide notice to a purchaser of such charges, as described in the act. (Section 144.010)\r\n\r\n\tThis provision is substantially similar to a provision in SCS/HB 1707 (2026).\r\n\r\nFOOD SALES TAX EXEMPTION\r\n\tCurrent law taxes retail sales of food, as defined in current law, at a rate of one percent. This act provides that retail sales of food shall be exempt from state sales taxes. (Section 144.014)\r\n\r\n\tThis provision is identical to SB 688 (2025), SB 734 (2025), and SCS/SB 161 (2023), and to a provision in SB 57 (2025) and SCS/HCS/HB 154 (2023), and is substantially similar to SB 1656 (2026), HB 2079 (2026), HB 2253 (2026), HB 2568 (2026), SB 659 (2025), HB 345 (2025), HB 432 (2025), HB 872 (2025), HB 1587 (2025), HB 1418 (2024), HB 1464 (2024), HB 2174 (2024), HB 260 (2023), HB 452 (2023), HB 591 (2023), HB 896 (2023), HCS#2/HB 1992 (2022), HB 1817 (2022), and HB 2530 (2022), and to a provision in HB 1029 (2025), HB 2815 (2024), HB 2887 (2024), HB 377 (2023), HCS/HBs 876, 771, 676 & 551 (2023), HB 1136 (2023), HB 1779 (2022), and HB 2249 (2022).\r\n\r\n\tThe act also provides that, of the 4% state sales tax rate, the revenue derived from a rate of 0.2% shall be deposited in the School District Trust Fund. (Section 144.020)\r\n\r\n\tThese provisions are identical to SCS/SBs 1017 & 1239 (2026).\r\nJOSH NORBERG"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to the exclusion of certain transactions from sales tax"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1534"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Formal Calendar S Bills for Third Reading",
+      "date": "2026-05-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "Hearing Cancelled S Fiscal Oversight Committee",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "Referred S Fiscal Oversight Committee",
+      "date": "2026-03-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "Reported Truly Perfected S Rules, Joint Rules, Resolutions and Ethics Committee",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "Perfected",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "SS for SCS, as amended, S adopted",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "SA 3 to SS for SCS S offered & adopted  (Washington)--(6578S03.02S)",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "SA 2 to SS for SCS S offered & adopted  (Washington)--(6578S03.03S)",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "SA 1 to SS for SCS S offered & adopted  (Lewis)--(6578S03.01S)",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "SS for SCS S offered (Nicola)--(6578S.03F)",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "Reported from S Economic and Workforce Development Committee w/SCS",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "SCS Voted Do Pass S Economic and Workforce Development Committee (6578S.02C)",
+      "date": "2026-03-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Economic and Workforce Development Committee",
+      "date": "2026-02-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Economic and Workforce Development Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:24Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nicola, Joe",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Nicola, Joe\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6578S.03P - Perfected",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/perf/SB1534.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "6578S.02C - Senate Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB1534.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "6578S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1534.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "3/25/2026 - SS for SCS S offered (Nicola)--(6578S.03F)\r\n                    \r\n                        3/25/2026 - Adopted, as amended",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=301",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "3/25/2026 - SA 1 to SS for SCS S offered & adopted  (Lewis)--(6578S03.01S)\r\n                    \r\n                        3/25/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=304",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "3/25/2026 - SA 2 to SS for SCS S offered & adopted  (Washington)--(6578S03.03S)\r\n                    \r\n                        3/25/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=305",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "3/25/2026 - SA 3 to SS for SCS S offered & adopted  (Washington)--(6578S03.02S)\r\n                    \r\n                        3/25/2026 - Adopted",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?handler=AmendmentPdf&year=2026&amendmentId=306",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=626311",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6578S.03P"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:24Z"
+  }
+}

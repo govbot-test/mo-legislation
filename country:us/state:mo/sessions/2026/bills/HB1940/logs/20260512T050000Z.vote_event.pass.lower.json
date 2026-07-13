@@ -1,0 +1,23 @@
+{
+  "identifier": "",
+  "motion_text": "Truly Agreed To and Finally Passed - AYES: 142 NOES: 1 PRESENT: 2",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-12T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "a222e96c-754a-11f1-b24a-b6ae219d7a94",
+  "bill_action": null,
+  "bill_identifier": "HB 1940",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB1940&year=2026&code=R",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

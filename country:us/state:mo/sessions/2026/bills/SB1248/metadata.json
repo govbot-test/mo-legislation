@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1248",
+  "title": "SB 1248 - This act creates new provisions prohibiting the acquisition and ownership of real property by certain foreign interests.\r\n\r\n\tThe following entities or individuals are prohibited from purchasing or otherwise acquiring an interest in real property in the state of Missouri:\r\n\t\u2022\tA governmental entity of a designated country, as that term is defined in the act;\r\n\t\u2022\tA company or organization, as those terms are defined in the act, that is: Headquartered in a designated country; Directly or indirectly held or controlled by the government of a designated country; Owned by or the majority of stock or other ownership interest of which is held or controlled by individuals described in bullet point number 4 below; or Designated by the governor pursuant to this act;\r\n\t\u2022\tA company or organization that is owned by or the majority of stock or other ownership interest of which is held or controlled by a company or organization described above in bullet point 2; or\r\n\t\u2022\tAn individual who is: a) domiciled in a designated country, except as otherwise provided in the act; b) a citizen of a designated country who is domiciled outside of the United States in another country, in the manner described in the act; c) a citizen of a designated country who is unlawfully present in the United States; d) a citizen of a country other than the United States and is acting as an agent or on behalf of a designated country; or e) a member of the ruling political party or any subdivision of the ruling political party in a designated country.\r\n\r\n\tThe act creates provisions enabling the Attorney General (AG) to examine purchases and acquisitions of interests in real property to determine, make investigations, and take legal action necessary to ensure compliance with this act.\r\n\r\n\tIf a court finds that the real property subject to an action brought pursuant to this act was purchased or an interest in the real property was otherwise acquired in violation of this act, the court shall:\r\n\t\u2022\tEnter an order that states the court's finding; orders the divestment of interest in the real property; and Appoints a receiver to: Divest the individual's or entity's interest in the real property through sale, termination of a leasehold, or other disposition of the interest; and manage and control the real property pending the sale or other disposition of the interest in the real property; and\r\n\t\u2022\tRefer the matter to the appropriate prosecuting attorney for criminal prosecution of any appropriate criminal offense in connection with the transaction.\r\n\r\n\tThe act creates the offense of unlawful purchase of real property by an alien. A person commits the offense of unlawful purchase of real property by an alien if the person is an individual subject to this act who intentionally or knowingly purchases or otherwise acquires an interest in real property in this state in violation of this act. The offense of unlawful purchase of real property by an alien is a class E felony.\r\n\r\n\tThe AG may bring an action in the name of the state against a company, organization, or other entity that violates this act.\r\nA company, organization, or other entity that a court determines in an action to have violated this act is liable to the state for a civil penalty equal to the greater of $250,000 or 50% of the market value of the interest in real property that is the subject of the violation.\r\nSCOTT SVAGERA",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1248 - This act creates new provisions prohibiting the acquisition and ownership of real property by certain foreign interests.\r\n\r\n\tThe following entities or individuals are prohibited from purchasing or otherwise acquiring an interest in real property in the state of Missouri:\r\n\t\u2022\tA governmental entity of a designated country, as that term is defined in the act;\r\n\t\u2022\tA company or organization, as those terms are defined in the act, that is: Headquartered in a designated country; Directly or indirectly held or controlled by the government of a designated country; Owned by or the majority of stock or other ownership interest of which is held or controlled by individuals described in bullet point number 4 below; or Designated by the governor pursuant to this act;\r\n\t\u2022\tA company or organization that is owned by or the majority of stock or other ownership interest of which is held or controlled by a company or organization described above in bullet point 2; or\r\n\t\u2022\tAn individual who is: a) domiciled in a designated country, except as otherwise provided in the act; b) a citizen of a designated country who is domiciled outside of the United States in another country, in the manner described in the act; c) a citizen of a designated country who is unlawfully present in the United States; d) a citizen of a country other than the United States and is acting as an agent or on behalf of a designated country; or e) a member of the ruling political party or any subdivision of the ruling political party in a designated country.\r\n\r\n\tThe act creates provisions enabling the Attorney General (AG) to examine purchases and acquisitions of interests in real property to determine, make investigations, and take legal action necessary to ensure compliance with this act.\r\n\r\n\tIf a court finds that the real property subject to an action brought pursuant to this act was purchased or an interest in the real property was otherwise acquired in violation of this act, the court shall:\r\n\t\u2022\tEnter an order that states the court's finding; orders the divestment of interest in the real property; and Appoints a receiver to: Divest the individual's or entity's interest in the real property through sale, termination of a leasehold, or other disposition of the interest; and manage and control the real property pending the sale or other disposition of the interest in the real property; and\r\n\t\u2022\tRefer the matter to the appropriate prosecuting attorney for criminal prosecution of any appropriate criminal offense in connection with the transaction.\r\n\r\n\tThe act creates the offense of unlawful purchase of real property by an alien. A person commits the offense of unlawful purchase of real property by an alien if the person is an individual subject to this act who intentionally or knowingly purchases or otherwise acquires an interest in real property in this state in violation of this act. The offense of unlawful purchase of real property by an alien is a class E felony.\r\n\r\n\tThe AG may bring an action in the name of the state against a company, organization, or other entity that violates this act.\r\nA company, organization, or other entity that a court determines in an action to have violated this act is liable to the state for a civil penalty equal to the greater of $250,000 or 50% of the market value of the interest in real property that is the subject of the violation.\r\nSCOTT SVAGERA"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions with respect to acquisition of real property by foreign interests"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1248"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S General Laws Committee",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:23Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gregory (15), David",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Gregory (15), David\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "5077S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1248.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=458",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "5077S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:23Z"
+  }
+}

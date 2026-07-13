@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 969",
+  "title": "SB 969 - This act modifies provisions relating to public safety.\r\n\r\nSEXUAL OFFENDERS WITHIN SCHOOL PROPERTIES (Section 566.149)\r\n\tThis act provides that any person required to register as a tier III sexual offender who is a parent, legal guardian, or custodian of a student shall not be present in any school building, any real property that comprises a school, or any place where a school-related activity is taking place.\r\n\r\n\tThis provision is identical to a provision in SB 134 (2025).\r\n\r\nRIGHTS OF VICTIMS OF CRIMES (Section 595.209)\r\n\tThis act provides that victims of certain crimes under the age of 19 years old shall have the right to appear by video during any deposition or hearing in lieu of appearing in person.\r\n\r\n\tThis provision is identical to a provision in SB 134 (2025).\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 969 - This act modifies provisions relating to public safety.\r\n\r\nSEXUAL OFFENDERS WITHIN SCHOOL PROPERTIES (Section 566.149)\r\n\tThis act provides that any person required to register as a tier III sexual offender who is a parent, legal guardian, or custodian of a student shall not be present in any school building, any real property that comprises a school, or any place where a school-related activity is taking place.\r\n\r\n\tThis provision is identical to a provision in SB 134 (2025).\r\n\r\nRIGHTS OF VICTIMS OF CRIMES (Section 595.209)\r\n\tThis act provides that victims of certain crimes under the age of 19 years old shall have the right to appear by video during any deposition or hearing in lieu of appearing in person.\r\n\r\n\tThis provision is identical to a provision in SB 134 (2025).\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to public safety"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb969"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Voted Do Pass S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Hearing Conducted S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fitzwater, Travis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Fitzwater, Travis\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "4959S.01I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB969.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=131",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "4959S.01I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}

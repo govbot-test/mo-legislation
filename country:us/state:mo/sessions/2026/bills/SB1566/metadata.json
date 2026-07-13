@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1566",
+  "title": "SB 1566 - This act requires prosecuting attorneys to make certain disclosures about the use of informants in a criminal case. Under the provisions of this act, a prosecuting attorney must disclose the identity of the informant and the substance of the testimony.\r\n\r\n\tThis act requires that all phone and in person communication by law enforcement or prosecution personnel with informants be audio or video recorded and shared with the defense. In addition, all written communication with the informant must be shared.\r\n\r\n\tUnder this act, the court shall conduct a pretrial hearing to determine the reliability and admissibility of the informant's testimony upon the motion of the defendant. This act provides certain factors for the court to use when making its determination, including: the extent to which the statement is confirmed; the specificity of the alleged statement; the informant's general character and criminal record; whether the informant has given reliable information to authorities in the past; and the presence or absence of any relationship between the  accused and the informant.\r\n\r\n\tThis act provides that the court shall exclude the informant's testimony if the prosecuting attorney fails to prove the reliability of such testimony by a preponderance of the evidence.\r\n\tThis act requires that the court provide jury instructions to assess the informant's testimony with greater scrutiny and relay details of any facts the jury should consider such as criminal history and any benefits offered or expected in exchange for the testimony.\r\n\r\n\tUnder the provisions of this act, a prosecuting attorney's failure to provide the required disclosures regarding the use of an informant shall be considered a due process violation. In a case where the prosecuting attorney has made such violation, the defendant is entitled to a new trial or vacation of the conviction, as well as the right to seek compensation in a civil action from non-immune persons relating to the wrongful conviction.\r\n\r\n\tThis act provides that if it is determined that an informant made false testimony at a trial, the prosecuting attorney where the trial occurred can charge and prosecute the informant with perjury.\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1566 - This act requires prosecuting attorneys to make certain disclosures about the use of informants in a criminal case. Under the provisions of this act, a prosecuting attorney must disclose the identity of the informant and the substance of the testimony.\r\n\r\n\tThis act requires that all phone and in person communication by law enforcement or prosecution personnel with informants be audio or video recorded and shared with the defense. In addition, all written communication with the informant must be shared.\r\n\r\n\tUnder this act, the court shall conduct a pretrial hearing to determine the reliability and admissibility of the informant's testimony upon the motion of the defendant. This act provides certain factors for the court to use when making its determination, including: the extent to which the statement is confirmed; the specificity of the alleged statement; the informant's general character and criminal record; whether the informant has given reliable information to authorities in the past; and the presence or absence of any relationship between the  accused and the informant.\r\n\r\n\tThis act provides that the court shall exclude the informant's testimony if the prosecuting attorney fails to prove the reliability of such testimony by a preponderance of the evidence.\r\n\tThis act requires that the court provide jury instructions to assess the informant's testimony with greater scrutiny and relay details of any facts the jury should consider such as criminal history and any benefits offered or expected in exchange for the testimony.\r\n\r\n\tUnder the provisions of this act, a prosecuting attorney's failure to provide the required disclosures regarding the use of an informant shall be considered a due process violation. In a case where the prosecuting attorney has made such violation, the defendant is entitled to a new trial or vacation of the conviction, as well as the right to seek compensation in a civil action from non-immune persons relating to the wrongful conviction.\r\n\r\n\tThis act provides that if it is determined that an informant made false testimony at a trial, the prosecuting attorney where the trial occurred can charge and prosecute the informant with perjury.\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Modifies provisions relating to criminal informants"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1566"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:21Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Burger, Jamie",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Burger, Jamie\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "6434S.02I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1566.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=992593",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "6434S.02I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:21Z"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Second Read and Referred S Emerging Issues and Professional Registration Committee",
+    "occurred_at": "2026-01-15T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=629",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1059"
+}

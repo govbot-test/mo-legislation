@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 1782",
+  "title": "SB 1782 - This act establishes \"Justin's Law\". The Director of the Department of Public Safety shall establish the Illicit Narcotics Canine Committee (INCC). The primary purpose of the INCC is to review applicants and award funds for illicit narcotics canine programs. This committee shall also create a list of approved kennels that programs can choose from when purchasing a canine. The INCC shall consist of nine members that shall be appointed by the Director.\r\n\r\n\tThis act authorizes police or county sheriff departments to establish an illicit narcotics canine program within the department. A program established under this provision must use law enforcement dogs that have been trained to detect illicit narcotics. In addition, all law enforcement canine and handler teams must be accredited by certain entities. Further, all canine and handler teams shall train for at least sixteen hours per month with criteria established by the INCC. This act requires that each program submit statistics no less than quarterly into Packtrack or a similar record management software system.\r\n\r\n\tThis act establishes the Illicit Narcotics Canine Fund which is administered by the Department of Public Safety. Under this act, the General Assembly shall appropriate five hundred thousand dollars to this fund every year. Police or county sheriff departments that establish or operate an illicit narcotics canine program may apply for a grant of no more than thirty five thousand dollars. These grants can be used to cover the cost of certain law enforcement canine-related expenses, except for the purchase of vehicles and salaries.\r\nTRISTAN BENSON, JR.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "abstract",
+      "abstract": "SB 1782 - This act establishes \"Justin's Law\". The Director of the Department of Public Safety shall establish the Illicit Narcotics Canine Committee (INCC). The primary purpose of the INCC is to review applicants and award funds for illicit narcotics canine programs. This committee shall also create a list of approved kennels that programs can choose from when purchasing a canine. The INCC shall consist of nine members that shall be appointed by the Director.\r\n\r\n\tThis act authorizes police or county sheriff departments to establish an illicit narcotics canine program within the department. A program established under this provision must use law enforcement dogs that have been trained to detect illicit narcotics. In addition, all law enforcement canine and handler teams must be accredited by certain entities. Further, all canine and handler teams shall train for at least sixteen hours per month with criteria established by the INCC. This act requires that each program submit statistics no less than quarterly into Packtrack or a similar record management software system.\r\n\r\n\tThis act establishes the Illicit Narcotics Canine Fund which is administered by the Department of Public Safety. Under this act, the General Assembly shall appropriate five hundred thousand dollars to this fund every year. Police or county sheriff departments that establish or operate an illicit narcotics canine program may apply for a grant of no more than thirty five thousand dollars. These grants can be used to cover the cost of certain law enforcement canine-related expenses, except for the purchase of vehicles and salaries.\r\nTRISTAN BENSON, JR."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Establishes \"Justin's Law\", authorizes law enforcement agencies to use canines to detect illicit narcotics"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mo-2026-sb1782"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "date": "2026-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    },
+    {
+      "description": "S First Read",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:05:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schnelting, Adam",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"\\r\\n                                            Schnelting, Adam\\r\\n                                \"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "7198S.03I - Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1782.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&billid=6616224",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "MO_BILL_LR": "7198S.03I"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mo/government",
+    "name": "Missouri",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mo"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:22Z"
+  }
+}
