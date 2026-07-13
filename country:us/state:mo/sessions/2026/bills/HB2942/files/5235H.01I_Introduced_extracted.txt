@@ -1,0 +1,292 @@
+Title: HOUSE BILL NO. 2942
+Official Title: HOUSE BILL NO. 2942
+Number of Sections: 3
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE JONES (12).
+5235H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To repeal section 160.066, RSMo, and to enact in lieu thereof one new section relating to
+public school finances.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+
+Section 2:
+Section A. Section 160.066, RSMo, is repealed and one new section enacted in lieu
+2 thereof, to be known as section 160.066, to read as follows:
+
+Section 3:
+160.066. 1. (1) By September 1, 2019, each public school district and each charter
+2 school shall develop, maintain, and make publicly available, at a minimum, a searchable
+3 expenditure and revenue document or database detailing actual income, expenditures, and
+4 disbursements for the current calendar or fiscal year on its district or school website, which
+5 may be in the format of a searchable PDF, document, or spreadsheet.
+6 (2) For the 2027-28 school year and all subsequent school years, the database
+7 required under subdivision (1) of this subsection shall include at least the following data
+8 related to expenditures in an open-structured data format that may be downloaded by
+9 the user and that allows the user to systematically sort, search, and access all such data:
+10 (a) The name and principal location or address of the school district or charter
+11 school receiving moneys, except that information concerning a payment to an employee
+12 of the school district or charter school shall identify the individual employee by name
+13 and business address or location only;
+14 (b) A complete list of every administrative position with the following:
+15 a. The job title, full job description, and primary duties of each administrative
+16 position;
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+HB 2942 2
+17 b. The total compensation for each employee in an administrative position with
+18 the following:
+19 (i) Base salary;
+20 (ii) Stipends;
+21 (iii) Bonuses; and
+22 (iv) Benefits value; and
+23 c. The business office location of each employee in an administrative position;
+24 (c) a. Each active contract with a vendor, consultant, nonprofit entity, or outside
+25 organization with the following:
+26 (i) The contract amount, duration, renewal terms, and purpose;
+27 (ii) A plain-language description of what the vendor or contractor actually does;
+28 and
+29 (iii) A statement identifying how the purchased service benefits student learning
+30 outcomes;
+31 b. Any contract related to social services; social-emotional learning; behavioral
+32 health; diversity, equity, and inclusion; or other noninstructional programs shall
+33 include:
+34 (i) Measurable performance metrics;
+35 (ii) An annual evaluation report; and
+36 (iii) The total cost per student served; and
+37 c. All expenditures for noninstructional programs shall include:
+38 (i) The purpose of the program;
+39 (ii) Measurable outcomes;
+40 (iii) The total annual cost;
+41 (iv) The cost per participating student; and
+42 (v) The source of funding for each program;
+43 (d) The range of the salaries of active teachers employed by the school district or
+44 charter school, listed from the lowest to the highest salary paid, and a listing of the
+45 salaries of active teachers in one-thousand-dollar increments with each increment
+46 containing the number of teachers paid a salary within that increment;
+47 (e) The amount of expended moneys;
+48 (f) The funding source of the expended moneys;
+49 (g) The date of the expenditure;
+50 (h) The name of the budget program, activity, or category supporting the
+51 expenditure;
+52 (i) A description of the purpose for the expenditure; and
+53 (j) To the extent possible, a unique identifier for each expenditure.
+HB 2942 3
+54 (3) (a) For the 2027-28 school year and all subsequent school years, each school
+55 district and charter school shall annually publish a one-page budget summary that is
+56 prominently identified on the school district's or charter school's website home page.
+57 (b) Such one-page budget summary shall be distributed at every public meeting
+58 of the district's school board and of the charter school's governing board at which
+59 school finance is discussed.
+60 (c) The one-page budget summary shall include per-pupil expenditures for the
+61 current budget year and actual expenditures for the two preceding school years and
+62 shall include spending from all funding sources net of transfers.
+63 (d) Per-pupil expenditures shall be calculated based on full-time equivalent
+64 (FTE) enrollment and itemized as follows:
+65 a. Instruction;
+66 b. Student support;
+67 c. Instructional staff support;
+68 d. Administration;
+69 e. Operation and maintenance;
+70 f. Transportation;
+71 g. Food service;
+72 h. All other current spending;
+73 i. Capital outlay;
+74 j. Debt service; and
+75 k. Total expenditures, which is the sum of amounts listed in subparagraphs a. to
+76 j. of this subdivision.
+77 (4) (a) Each school district and charter school shall annually publish a list of all
+78 unencumbered carryover cash balances for each fund maintained.
+79 (b) The unencumbered carryover cash balance report shall be prominently
+80 identified on the school district's or charter school's website home page and provided to
+81 each member of the district's school board and the charter school's governing board
+82 within forty-five days after the close of the budget year.
+83 (5) If the public school district or charter school does not provide the aforementioned
+84 detailed financial and budgetary information on its website, then a direct link to the
+85 department of elementary and secondary education's website, which has detailed financial and
+86 budgetary information about the public school district or charter school including, but not
+87 limited to, the data described in subdivisions (2) to (4) of this subsection, shall be
+88 provided on the district's website.
+89 (6) The site shall contain only information that is a public record or that is not
+90 confidential or otherwise protected from public disclosure under state or federal law.
+HB 2942 4
+91 2. The public school district or charter school shall, to the extent practicable, update
+92 the financial data contained on the site no less frequently than every [quarter] month and
+93 provide the data in [a structured] an open-structured, machine-readableformat. The public
+94 school district or charter school shall archive the financial data, which shall remain accessible
+95 and searchable, for a minimum of ten years.
+96 3. By January 1, 2019, the department of elementary and secondary education shall
+97 create a template for voluntary use by school districts needing assistance with the online
+98 posting of the information specified in subsection 1 of this section. The template may include
+99 both the type of electronic file posted as well as the information to be included in the posting.
+100 The department may take into consideration any existing templates or reports developed by
+101 the department for purposes of financial reporting. In the event that a school district or
+102 charter school does not maintain a website, this information shall be accessible through the
+103 department.
+104 4. Nothing in this section shall direct or require a school district or charter school to
+105 post online any personal information relating to payroll including, but not limited to, payroll
+106 deductions, payroll contributions, or any other information that is confidential or otherwise
+107 protected from public disclosure under state or federal law.
+108 5. A school district's or charter school's failure to comply with a requirement of
+109 this section shall result in the following:
+110 (1) Mandatory notification to the department of elementary and secondary
+111 education;
+112 (2) Required corrective action; and
+113 (3) Withholding of administrative funds if noncompliance continues for more
+114 than one hundred eighty days.
+✔
+[DELETED:  B N 2IJ St ( Bs s d m a m p a a a m a sedm( Frrt0()T1s2o3a4()A5a.T6p—M i e]
+[DELETED: 7b.T8t9()B0()S1()B2()B3c.T4()a.E5o6()T7()A8a9()A0o1b.A2h d e a i o o n p s3i4()M5()A6()T7c.A8()T9()M0()T1()T2()T3()T4c5s o a t i o i w e i6c7()T8()T9()T0()T n o t b p a o c s t1e2()A3()T ]
+[DELETED: 4( ( F5d6p7( S8o t d s b a o t c s g b a w9s0( T1c2s3( P e s b c b o f e4(5a I6b S7c I8d A9e0f T1g F2h A3i C4j D5k T6j7( ( E8u9( T u c c b r s b p0i1e2w3( I4d f a b i o i w t a d l t t5d6b7l t t d d i s ( t ( o t s s b8p9( T s s c o i t i a p r o t i n0c ]
+[DELETED: 12 T2tha3pef T4s5a63 B7c t f v u b s d n a w t o8p T9b0T1t d f p o f r I t e t a s d o2c3d44 N5p6d7p85.A9t0()M n t t d o e a s1e2()R3()W4t ]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+HOUSE BILL NO. 2942
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE JONES (12).
+5235H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To repeal section 160.066, RSMo, and to enact in lieu thereof one new section relating to
+public school finances.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Section 160.066, RSMo, is repealed and one new section enacted in lieu
+2 thereof, to be known as section 160.066, to read as follows:
+160.066. 1. (1) By September 1, 2019, each public school district and each charter
+2 school shall develop, maintain, and make publicly available, at a minimum, a searchable
+3 expenditure and revenue document or database detailing actual income, expenditures, and
+4 disbursements for the current calendar or fiscal year on its district or school website, which
+5 may be in the format of a searchable PDF, document, or spreadsheet.
+6 (2) For the 2027-28 school year and all subsequent school years, the database
+7 required under subdivision (1) of this subsection shall include at least the following data
+8 related to expenditures in an open-structured data format that may be downloaded by
+9 the user and that allows the user to systematically sort, search, and access all such data:
+10 (a) The name and principal location or address of the school district or charter
+11 school receiving moneys, except that information concerning a payment to an employee
+12 of the school district or charter school shall identify the individual employee by name
+13 and business address or location only;
+14 (b) A complete list of every administrative position with the following:
+15 a. The job title, full job description, and primary duties of each administrative
+16 position;
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 2942 2
+17 b. The total compensation for each employee in an administrative position with
+18 the following:
+19 (i) Base salary;
+20 (ii) Stipends;
+21 (iii) Bonuses; and
+22 (iv) Benefits value; and
+23 c. The business office location of each employee in an administrative position;
+24 (c) a. Each active contract with a vendor, consultant, nonprofit entity, or outside
+25 organization with the following:
+26 (i) The contract amount, duration, renewal terms, and purpose;
+27 (ii) A plain-language description of what the vendor or contractor actually does;
+28 and
+29 (iii) A statement identifying how the purchased service benefits student learning
+30 outcomes;
+31 b. Any contract related to social services; social-emotional learning; behavioral
+32 health; diversity, equity, and inclusion; or other noninstructional programs shall
+33 include:
+34 (i) Measurable performance metrics;
+35 (ii) An annual evaluation report; and
+36 (iii) The total cost per student served; and
+37 c. All expenditures for noninstructional programs shall include:
+38 (i) The purpose of the program;
+39 (ii) Measurable outcomes;
+40 (iii) The total annual cost;
+41 (iv) The cost per participating student; and
+42 (v) The source of funding for each program;
+43 (d) The range of the salaries of active teachers employed by the school district or
+44 charter school, listed from the lowest to the highest salary paid, and a listing of the
+45 salaries of active teachers in one-thousand-dollar increments with each increment
+46 containing the number of teachers paid a salary within that increment;
+47 (e) The amount of expended moneys;
+48 (f) The funding source of the expended moneys;
+49 (g) The date of the expenditure;
+50 (h) The name of the budget program, activity, or category supporting the
+51 expenditure;
+52 (i) A description of the purpose for the expenditure; and
+53 (j) To the extent possible, a unique identifier for each expenditure.
+
+HB 2942 3
+54 (3) (a) For the 2027-28 school year and all subsequent school years, each school
+55 district and charter school shall annually publish a one-page budget summary that is
+56 prominently identified on the school district's or charter school's website home page.
+57 (b) Such one-page budget summary shall be distributed at every public meeting
+58 of the district's school board and of the charter school's governing board at which
+59 school finance is discussed.
+60 (c) The one-page budget summary shall include per-pupil expenditures for the
+61 current budget year and actual expenditures for the two preceding school years and
+62 shall include spending from all funding sources net of transfers.
+63 (d) Per-pupil expenditures shall be calculated based on full-time equivalent
+64 (FTE) enrollment and itemized as follows:
+65 a. Instruction;
+66 b. Student support;
+67 c. Instructional staff support;
+68 d. Administration;
+69 e. Operation and maintenance;
+70 f. Transportation;
+71 g. Food service;
+72 h. All other current spending;
+73 i. Capital outlay;
+74 j. Debt service; and
+75 k. Total expenditures, which is the sum of amounts listed in subparagraphs a. to
+76 j. of this subdivision.
+77 (4) (a) Each school district and charter school shall annually publish a list of all
+78 unencumbered carryover cash balances for each fund maintained.
+79 (b) The unencumbered carryover cash balance report shall be prominently
+80 identified on the school district's or charter school's website home page and provided to
+81 each member of the district's school board and the charter school's governing board
+82 within forty-five days after the close of the budget year.
+83 (5) If the public school district or charter school does not provide the aforementioned
+84 detailed financial and budgetary information on its website, then a direct link to the
+85 department of elementary and secondary education's website, which has detailed financial and
+86 budgetary information about the public school district or charter school including, but not
+87 limited to, the data described in subdivisions (2) to (4) of this subsection, shall be
+88 provided on the district's website.
+89 (6) The site shall contain only information that is a public record or that is not
+90 confidential or otherwise protected from public disclosure under state or federal law.
+
+HB 2942 4
+91 2. The public school district or charter school shall, to the extent practicable, update
+92 the financial data contained on the site no less frequently than every [quarter] month and
+93 provide the data in [a structured] an open-structured, machine-readableformat. The public
+94 school district or charter school shall archive the financial data, which shall remain accessible
+95 and searchable, for a minimum of ten years.
+96 3. By January 1, 2019, the department of elementary and secondary education shall
+97 create a template for voluntary use by school districts needing assistance with the online
+98 posting of the information specified in subsection 1 of this section. The template may include
+99 both the type of electronic file posted as well as the information to be included in the posting.
+100 The department may take into consideration any existing templates or reports developed by
+101 the department for purposes of financial reporting. In the event that a school district or
+102 charter school does not maintain a website, this information shall be accessible through the
+103 department.
+104 4. Nothing in this section shall direct or require a school district or charter school to
+105 post online any personal information relating to payroll including, but not limited to, payroll
+106 deductions, payroll contributions, or any other information that is confidential or otherwise
+107 protected from public disclosure under state or federal law.
+108 5. A school district's or charter school's failure to comply with a requirement of
+109 this section shall result in the following:
+110 (1) Mandatory notification to the department of elementary and secondary
+111 education;
+112 (2) Required corrective action; and
+113 (3) Withholding of administrative funds if noncompliance continues for more
+114 than one hundred eighty days.
+✔
+
+[DELETED:  B N 2IJ St ( Bs s d m a m p a a a m a sedm( Frrt0()T1s2o3a4()A5a.T6p—M i e]
+[DELETED: 7b.T8t9()B0()S1()B2()B3c.T4()a.E5o6()T7()A8a9()A0o1b.A2h d e a i o o n p s3i4()M5()A6()T7c.A8()T9()M0()T1()T2()T3()T4c5s o a t i o i w e i6c7()T8()T9()T0()T n o t b p a o c s t1e2()A3()T ]
+[DELETED: 4( ( F5d6p7( S8o t d s b a o t c s g b a w9s0( T1c2s3( P e s b c b o f e4(5a I6b S7c I8d A9e0f T1g F2h A3i C4j D5k T6j7( ( E8u9( T u c c b r s b p0i1e2w3( I4d f a b i o i w t a d l t t5d6b7l t t d d i s ( t ( o t s s b8p9( T s s c o i t i a p r o t i n0c ]
+[DELETED: 12 T2tha3pef T4s5a63 B7c t f v u b s d n a w t o8p T9b0T1t d f p o f r I t e t a s d o2c3d44 N5p6d7p85.A9t0()M n t t d o e a s1e2()R3()W4t ]

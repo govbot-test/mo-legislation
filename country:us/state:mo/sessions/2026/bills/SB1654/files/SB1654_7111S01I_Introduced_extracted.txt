@@ -1,0 +1,845 @@
+Title: SENATE BILL NO. 1654
+Official Title: SENATE BILL NO. 1654
+Number of Sections: 1
+Source: versions - 7111S.01I - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR WEBBER.
+7111S.01I KRISTINA MARTIN, Secretary
+AN ACT
+To amend chapter 290, RSMo, by adding thereto eight new sections relating to work performance
+standards for employees of certain warehouse distribution centers, with penalty
+provisions.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Chapter 290, RSMo, is amended by adding thereto
+2 eight new sections, to be known as sections 290.160, 290.161,
+3 290.162, 290.163, 290.164, 290.165, 290.166, and 290.167, to
+4 read as follows:
+1 290.160. As used in sections 290.161 to 290.167,
+2 unless the context indicates otherwise, the following terms
+3 mean:
+4 (1) "Artificial intelligence", a machine-based system
+5 that can, for a given set of human-defined objectives, make
+6 predictions, recommendations, or decisions influencing real
+7 or virtual environments. Artificial intelligence systems
+8 use machine and human-based inputs to:
+9 (a) Perceive real and virtual environments;
+10 (b) Abstract such perceptions into models through
+11 analysis in an automated manner; and
+12 (c) Use model inference to formulate options for
+13 information or action;
+14 (2) "Designated employee representative", any
+15 representative designated by an employee, including an
+SB 1654 2
+16 employee representative that has a collective bargaining
+17 relationship with the covered employer of the covered
+18 employee. A designated employee representative shall not
+19 include a worker's employer;
+20 (3) "Employee", an individual who is employed at a
+21 warehouse distribution center and who is not exempt from the
+22 minimum wage and overtime requirements of the Fair Labor
+23 Standards Act of 1938, as amended from time to time.
+24 "Employee" does not include a driver or courier traveling to
+25 or from a warehouse distribution center;
+26 (4) "Employer", an individual, corporation,
+27 partnership, limited partnership, limited liability
+28 partnership, limited liability company, business trust,
+29 estate, trust, association, joint venture, agency,
+30 instrumentality, or any other legal or commercial entity,
+31 whether domestic or foreign, that directly or indirectly, or
+32 through an agent or any other person, including through the
+33 services of a third-party employer, temporary services,
+34 staffing agency, independent contractor or any similar
+35 entity, at any time in the prior twelve months, employs or
+36 exercises control over the wages, hours, or working
+37 conditions of fifty or more employees at a single warehouse
+38 distribution center in the state or one thousand or more
+39 employees at one or more warehouse distribution centers in
+40 the state;
+41 (5) "Warehouse distribution center", an establishment
+42 as defined by any of the following North American Industry
+43 Classification System Codes, however such establishment is
+44 denominated: (A) 493110 for General Warehousing and Storage;
+45 (B) 423 for Merchant Wholesalers, Durable Goods; (C) 424 for
+46 Merchant Wholesalers, Nondurable Goods; (D) 454110 for
+SB 1654 3
+47 Electronic Shopping and Mail-Order Houses; or (E) 492110 for
+48 Couriers and Express Delivery Services;
+49 (6) "Work performance standard", an expectation set by
+50 an employer for an employee;
+51 (7) "Work speed data", information an employer
+52 collects, stores, analyzes, or interprets relating to an
+53 individual employee's work performance, including, but not
+54 limited to, quantities of tasks performed, quantities of
+55 items or materials handled or produced, rates or speeds of
+56 tasks performed, measurements or metrics of employee
+57 performance, and time categorized as performing tasks or not
+58 performing tasks. "Work speed data" does not include wage
+59 statements or data an employer collects, stores, analyzes,
+60 or interprets that does not relate to the work performance,
+61 except for any content of such records that includes work
+62 speed data.
+1 290.161. 1. Upon hiring an employee, an employer
+2 shall provide to such employee a written description of each
+3 work performance standard to which such employee is subject,
+4 including any potential adverse employment action that may
+5 result from a failure to satisfy such work performance
+6 standard. Such written description shall be provided to an
+7 employer's current employees not later than October 1, 2026.
+8 2. Whenever an employer makes a change to an existing
+9 work performance standard for an employee, the employer
+10 shall:
+11 (1) Notify the employee of such change as soon as
+12 possible, either verbally or in writing, and prior to the
+13 effective date of such new standard;
+14 (2) Provide the employee with a written description of
+15 the new work performance standard to which such employee is
+SB 1654 4
+16 subject not later than two business days after the change is
+17 made; and
+18 (3) Any written description required pursuant to this
+19 section shall be provided directly to an employee by a human
+20 manager during such employee's work hours.
+21 3. An employer shall not impose any work performance
+22 standard that:
+23 (1) Interferes with an employee's use of the bathroom
+24 facilities, including reasonable travel time to and from the
+25 bathroom facilities;
+26 (2) Sets a performance standard that measures an
+27 employee's total output over an increment of time that is
+28 shorter than such employee's work day;
+29 (3) Requires an employee to work for three or more
+30 consecutive hours without a period of at least ten
+31 consecutive minutes for a rest break, given at some time
+32 after the first hour of work and before the last hour;
+33 (4) Requires employees to work more than forty hours
+34 in a seven-day period or ten hours in a twenty-four hour
+35 period, unless the employee agrees in writing or in a
+36 similar format and is paid a one hundred fifty dollar
+37 premium in addition to their wages and any overtime premium
+38 pay required under state or federal law;
+39 (5) Requires employees to work consecutive shifts with
+40 less than twelve hours of time elapsing between the shifts,
+41 unless the employee agrees in writing or in a similar format
+42 and is paid a one hundred fifty dollar premium in addition
+43 to their wages; or
+44 (6) Require an employee to perform duties outside of
+45 the scope of such employee's regular job duties for more
+46 than three hours a week.
+SB 1654 5
+47 4. An employer shall not take an adverse employment
+48 action against an employee for failure to meet a work
+49 performance standard that:
+50 (1) Violates subsection 3 of this section;
+51 (2) Was not described to the employee in accordance
+52 with subsection 2 of this section;
+53 (3) Is based solely on ranking the performance of the
+54 employee in relation to the performance of another employee
+55 or in relation to the past performance of that employee;
+56 (4) Is based on continuously measuring, recording, or
+57 tallying increments of time within a defined time period
+58 during which an employee is or is not doing a particular
+59 activity; or
+60 (5) Is based primarily on work speed data collected
+61 through automated electronic monitoring.
+62 5. An employee may request to speak in person with a
+63 human manager during such employee's work hours. An
+64 employer shall assign a human manager authorized to make
+65 decisions related to discipline to respond not later than
+66 thirty minutes after such a request. An employee may not
+67 make more than one request per every two hours under this
+68 section.
+69 6. An employer shall not discipline or terminate an
+70 employee based on failure to meet a performance standard
+71 unless it has provided prior written notice of such action.
+72 Such notice shall include the following:
+73 (1) A plain language description of the reasons for
+74 the discipline or termination;
+75 (2) The effective date of the discipline or
+76 termination; and
+77 (3) Any and all records relied upon to substantiate
+78 the discipline or termination.
+SB 1654 6
+79 7. In the case of a termination based on failure to
+80 meet a work performance standard, the employer shall notify
+81 the employee of the termination of their employment at least
+82 fourteen days before such termination becomes effective, as
+83 well as upon the effective date of termination. The time
+84 period between a first warning or discipline and termination
+85 shall be not less than thirty days, and the employer may not
+86 rely on a warning or discipline issued more than one year in
+87 the past to justify a termination.
+1 290.162. 1. (1) Each employer shall establish,
+2 maintain, and preserve contemporaneous, true, and accurate
+3 records of the following:
+4 (a) Each individual employee's work performance
+5 records;
+6 (b) The aggregated work performance records for
+7 similar employees at the same warehouse distribution center;
+8 (c) The work performance standard provided to each
+9 employee pursuant to section 290.161; and
+10 (d) The written notice provided to a terminated
+11 employee pursuant to subsection 8 of section 290.161.
+12 (2) The records required by this subsection shall be
+13 maintained for a period of three years. Nothing in this
+14 section shall require an employer to establish, maintain,
+15 and preserve the records required pursuant to this section
+16 if such employer does not assign or require work performance
+17 standards or collect, store, analyze, or interpret work
+18 performance data.
+19 2. An employee, or a designated employee
+20 representative of such employee, may request from such
+21 employee's employer:
+22 (1) A written description of the work performance
+23 standard the employee is subject to;
+SB 1654 7
+24 (2) A copy of the employee's personal work speed data
+25 for the prior ninety days;
+26 (3) A copy of aggregated work speed data for similar
+27 employees at the same warehouse distribution center for the
+28 prior ninety days; and
+29 (4) Any notices of discipline issued to such employee
+30 in the prior year.
+31 3. (1) A former employee, or a designated employee
+32 representative of such employee, may request from a former
+33 employer:
+34 (a) A written description of each work performance
+35 standard the employee was subject to for the ninety days
+36 prior to the employee's separation from employment with such
+37 employer;
+38 (b) A copy of the employee's personal work speed data
+39 for the ninety days prior to such employee's separation from
+40 employment with such employer;
+41 (c) A copy of aggregated work speed data for similar
+42 employees at the same warehouse distribution center for the
+43 ninety days prior to such employee's separation from
+44 employment with such employer; and
+45 (d) Any notices of discipline issued to such former
+46 employee in the calendar year prior to the termination.
+47 (2) A former employee may only make one request under
+48 this section.
+49 4. An employer shall provide a written copy of any
+50 records requested pursuant to this section not later than
+51 five calendar days after receipt of such request. Such
+52 written copy shall be provided:
+53 (1) In both English and the primary language of the
+54 employee requesting such records; and
+SB 1654 8
+55 (2) (a) For a current employee, directly to the
+56 employee requesting such records by a manager during such
+57 employee's work hours; or
+58 (b) For a former employee, either at a mutually
+59 convenient time or via a mutually convenient delivery method.
+1 290.163. 1. An employer shall not commence a
+2 reduction of force resulting in an employment loss at a
+3 single site of employment during any thirty day period for
+4 fifty or more employees unless such employer has offered a
+5 new employment position to each employee who may reasonably
+6 be expected to experience an employment loss as a
+7 consequence of such a reduction in force. Such a position
+8 shall be:
+9 (1) Comparable with regard to wages, hours, benefits,
+10 working conditions, and job duties;
+11 (2) Within a reasonable commuting distance from the
+12 affected site of employment; and
+13 (3) Offered in writing at least thirty days prior to
+14 the commencement of such a reduction in force.
+15 2. If an employer discharges an employee, the employer
+16 shall pay the employee two weeks of severance pay plus an
+17 additional day of severance pay for each two months that the
+18 employee has worked for the employer. One week of severance
+19 pay shall be calculated based on the employee's average
+20 weekly earnings including overtime pay received during the
+21 employee's most recent twelve months of employment, or
+22 received during the duration of the employee's employment if
+23 the duration of the employment has been less than twelve
+24 months. A day of severance pay shall be equal to one week
+25 of severance pay divided by five.
+SB 1654 9
+1 290.164. 1. An employer shall not discharge or in any
+2 way retaliate, discriminate, or take any adverse action
+3 against any employee or former employee for:
+4 (1) Making a request pursuant to section 290.161 or
+5 290.162;
+6 (2) Declining to work more than forty hours in a week,
+7 more than ten hours in a day, or consecutive shifts with
+8 less than twelve hours between the shifts; or
+9 (3) Filing a civil action pursuant to section 290.165.
+10 2. If an employer discharges or in any way retaliates,
+11 discriminates, or takes any adverse action against any
+12 employee or former employee within ninety days after such
+13 employee engages in or attempts to engage in the activities
+14 described in subsection 1 of this section, there shall be a
+15 rebuttable presumption that such adverse action is in
+16 violation of this section. Such presumption may be rebutted
+17 by clear and convincing evidence that the:
+18 (1) Adverse action was taken for other permissible
+19 reasons; and
+20 (2) Employee engaging or attempting to engage in the
+21 activities described in subsection 1 of this section was not
+22 a motivating factor in the employer taking such adverse
+23 action.
+1 290.165. 1. (1) An employee aggrieved by a violation
+2 of sections 290.161 to 290.164, or the attorney general on
+3 behalf of an employee aggrieved by a violation of sections
+4 290.161 to 290.164, may bring a civil action in circuit
+5 court or any other court of competent jurisdiction to
+6 recover damages, civil penalties, and such equitable and
+7 injunctive relief as the court deems appropriate. An
+8 employer who violates the provisions of sections 290.161 to
+9 290.164 shall be liable to a plaintiff for statutory damages
+SB 1654 10
+10 of not less than five thousand dollars nor more than seven
+11 thousand five hundred dollars per violation in addition to
+12 economic damages. A court shall have discretion to
+13 determine the amount in light of the severity of the
+14 violation and any history of prior violations. A
+15 complainant who prevails in such a civil action shall be
+16 awarded reasonable attorney's fees and costs to be taxed by
+17 the court. An employer who violates a provision of section
+18 290.161 to 290.164 may be assessed a civil penalty by the
+19 court of:
+20 (a) One thousand dollars for a first violation;
+21 (b) Two thousand dollars for a second violation; or
+22 (c) Three thousand dollars for a third or subsequent
+23 violations.
+24 (2) An employer who fails to pay in full required
+25 severance pay shall be liable for payment of the required
+26 severance pay, plus an additional two times the unpaid
+27 amount as liquidated damages.
+28 2. The director of the department of labor and
+29 industrial relations shall monitor the injury rates of
+30 employees working in warehouse distribution centers in the
+31 state. If an employer is found to have an annual injury
+32 rate at or over one and one-half times the average annual
+33 injury rate for the relevant North American Industry
+34 Classification System Codes, based on data reported to the
+35 federal Occupational and Safety and Health Administration,
+36 the director of the department of labor and industrial
+37 relations shall determine whether an investigation
+38 concerning potential violations of sections 290.161 to
+39 290.164 is appropriate.
+1 290.166. 1. Not more than thirty days after the last
+2 day of each quarter, an employer shall, with respect to the
+SB 1654 11
+3 preceding quarter, disclose to the director of the
+4 department of labor and industrial relations any artificial
+5 intelligence-related job impact experienced by the entity in
+6 the state of Missouri, including:
+7 (1) The number of individuals laid off by the employer
+8 in the state of Missouri during the quarter that are
+9 substantially due to the replacement or automation by
+10 artificial intelligence of the functions performed by such
+11 individuals;
+12 (2) The number of individuals hired by the employer in
+13 the state of Missouri during the quarter that are
+14 substantially due to the incorporation of artificial
+15 intelligence;
+16 (3) The number of positions at the employer's
+17 establishments in the state of Missouri that were occupied
+18 at any point during the prior quarter for which the employer
+19 has decided not to fill based on a reason that is
+20 substantially due to the replacement or automation by
+21 artificial intelligence of the functions of such positions;
+22 (4) The number of individuals in the state of Missouri
+23 whom the employer is retraining, or assisting in retraining,
+24 based on a reason that is substantially due to artificial
+25 intelligence; and
+26 (5) Any other information related to artificial
+27 intelligence-related job impacts, as determined appropriate
+28 by the director at the department of labor and industrial
+29 relations.
+30 2. With respect to each artificial intelligence-
+31 related job impact disclosure under section 290.166, the
+32 employer shall provide in such disclosure the corresponding
+33 North American Industry Classification System Codes.
+SB 1654 12
+34 3. The director of the department of labor and
+35 industrial relations shall impose civil monetary penalties
+36 on an employer in violation of this section as follows. For
+37 each violation, a penalty of five hundred dollars shall be
+38 imposed. In the case of willful or repeated violations, an
+39 additional amount of not less than one thousand dollars and
+40 not more than three thousand dollars shall be imposed.
+41 4. The director of the department of labor and
+42 industrial relations shall:
+43 (1) For each quarter, prepare a report summarizing the
+44 data from disclosures submitted under subsection 1 of this
+45 section during the quarter; and for the quarter ending on
+46 December thirty-first, summarizing such data for the
+47 calendar year;
+48 (2) For every other quarter, prepare a report
+49 analyzing the net impact of the data contained in the report
+50 under subdivision (1) of this subsection for such quarter
+51 and for the preceding quarter, and any other relevant data
+52 available to the director of the department of labor and
+53 industrial relations with respect to artificial intelligence-
+54 related job impacts; and
+55 (3) Not more than sixty days after the last day of
+56 each quarter publish each report prepared for the quarter
+57 under subdivision (1) of this subsection and, as applicable,
+58 subdivision (2) of this subsection, and the data underlying
+59 such reports on the website of the department of labor and
+60 industrial relations; and submit each such report to the
+61 speaker of the house of representatives and the president
+62 pro tempore of the senate.
+1 290.167. Effective July 1, 2027, and each subsequent
+2 July first after that, the director of the department of
+3 labor and industrial relations shall increase all of the
+SB 1654 13
+4 dollar amounts specified in sections 290.161 to 290.166 in
+5 proportion to the increase, if any, during the most recent
+6 twelve month period for which data is available when the
+7 increase is announced, in the consumer price index for all
+8 urban wage earners and clerical workers on a national and
+9 seasonally unadjusted basis (CPI-W), or a successor index,
+10 as calculated by the United States Department of Labor or a
+11 successor agency. Such increases shall be announced by
+12 April 1, 2027, and by April first of subsequent years.
+✓
+[DELETED:  K f e o c w d c w p 2 2 2 2 a 2 t.A  )"   .A  )P)A )U )"  ]
+[DELETED: S  .A )"     )"              )"      ]
+[DELETED: S )" )"       ."    .1.U       .S .W  )N  )P  ]
+[DELETED: S )A  .A )I  )S  )R   )R     )R    )R  ]
+[DELETED: S.A   )V)W )I  )I   )I .A .A   .A  .A   )A )T )A ]
+[DELETED: S.I    .T    .1.()E      )E )T )T )T )T .N     .A  )A ]
+[DELETED: S)A )A  )A .()A    )A   )A  )A   )A )A .A  .S )I ]
+[DELETED: S)()F    )F .1.A        .S )C )W )O .I   .O      .A ]
+[DELETED: S.1.A    )M )D   )F.I      .S )A )E   .1.()A          .A   ]
+[DELETED: S  .A  .A   .A   )O )T)T )A   .T   .I        .1.N    ]
+[DELETED: S   )T    )T   )T     )T   )A   .W   ]
+[DELETED: S.T  .F  .I  .T )F    )F      )N       .E   ]
+[DELETED: S       .S ]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+SENATE BILL NO. 1654
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR WEBBER.
+7111S.01I KRISTINA MARTIN, Secretary
+AN ACT
+To amend chapter 290, RSMo, by adding thereto eight new sections relating to work performance
+standards for employees of certain warehouse distribution centers, with penalty
+provisions.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Chapter 290, RSMo, is amended by adding thereto
+2 eight new sections, to be known as sections 290.160, 290.161,
+3 290.162, 290.163, 290.164, 290.165, 290.166, and 290.167, to
+4 read as follows:
+1 290.160. As used in sections 290.161 to 290.167,
+2 unless the context indicates otherwise, the following terms
+3 mean:
+4 (1) "Artificial intelligence", a machine-based system
+5 that can, for a given set of human-defined objectives, make
+6 predictions, recommendations, or decisions influencing real
+7 or virtual environments. Artificial intelligence systems
+8 use machine and human-based inputs to:
+9 (a) Perceive real and virtual environments;
+10 (b) Abstract such perceptions into models through
+11 analysis in an automated manner; and
+12 (c) Use model inference to formulate options for
+13 information or action;
+14 (2) "Designated employee representative", any
+15 representative designated by an employee, including an
+
+SB 1654 2
+16 employee representative that has a collective bargaining
+17 relationship with the covered employer of the covered
+18 employee. A designated employee representative shall not
+19 include a worker's employer;
+20 (3) "Employee", an individual who is employed at a
+21 warehouse distribution center and who is not exempt from the
+22 minimum wage and overtime requirements of the Fair Labor
+23 Standards Act of 1938, as amended from time to time.
+24 "Employee" does not include a driver or courier traveling to
+25 or from a warehouse distribution center;
+26 (4) "Employer", an individual, corporation,
+27 partnership, limited partnership, limited liability
+28 partnership, limited liability company, business trust,
+29 estate, trust, association, joint venture, agency,
+30 instrumentality, or any other legal or commercial entity,
+31 whether domestic or foreign, that directly or indirectly, or
+32 through an agent or any other person, including through the
+33 services of a third-party employer, temporary services,
+34 staffing agency, independent contractor or any similar
+35 entity, at any time in the prior twelve months, employs or
+36 exercises control over the wages, hours, or working
+37 conditions of fifty or more employees at a single warehouse
+38 distribution center in the state or one thousand or more
+39 employees at one or more warehouse distribution centers in
+40 the state;
+41 (5) "Warehouse distribution center", an establishment
+42 as defined by any of the following North American Industry
+43 Classification System Codes, however such establishment is
+44 denominated: (A) 493110 for General Warehousing and Storage;
+45 (B) 423 for Merchant Wholesalers, Durable Goods; (C) 424 for
+46 Merchant Wholesalers, Nondurable Goods; (D) 454110 for
+
+SB 1654 3
+47 Electronic Shopping and Mail-Order Houses; or (E) 492110 for
+48 Couriers and Express Delivery Services;
+49 (6) "Work performance standard", an expectation set by
+50 an employer for an employee;
+51 (7) "Work speed data", information an employer
+52 collects, stores, analyzes, or interprets relating to an
+53 individual employee's work performance, including, but not
+54 limited to, quantities of tasks performed, quantities of
+55 items or materials handled or produced, rates or speeds of
+56 tasks performed, measurements or metrics of employee
+57 performance, and time categorized as performing tasks or not
+58 performing tasks. "Work speed data" does not include wage
+59 statements or data an employer collects, stores, analyzes,
+60 or interprets that does not relate to the work performance,
+61 except for any content of such records that includes work
+62 speed data.
+1 290.161. 1. Upon hiring an employee, an employer
+2 shall provide to such employee a written description of each
+3 work performance standard to which such employee is subject,
+4 including any potential adverse employment action that may
+5 result from a failure to satisfy such work performance
+6 standard. Such written description shall be provided to an
+7 employer's current employees not later than October 1, 2026.
+8 2. Whenever an employer makes a change to an existing
+9 work performance standard for an employee, the employer
+10 shall:
+11 (1) Notify the employee of such change as soon as
+12 possible, either verbally or in writing, and prior to the
+13 effective date of such new standard;
+14 (2) Provide the employee with a written description of
+15 the new work performance standard to which such employee is
+
+SB 1654 4
+16 subject not later than two business days after the change is
+17 made; and
+18 (3) Any written description required pursuant to this
+19 section shall be provided directly to an employee by a human
+20 manager during such employee's work hours.
+21 3. An employer shall not impose any work performance
+22 standard that:
+23 (1) Interferes with an employee's use of the bathroom
+24 facilities, including reasonable travel time to and from the
+25 bathroom facilities;
+26 (2) Sets a performance standard that measures an
+27 employee's total output over an increment of time that is
+28 shorter than such employee's work day;
+29 (3) Requires an employee to work for three or more
+30 consecutive hours without a period of at least ten
+31 consecutive minutes for a rest break, given at some time
+32 after the first hour of work and before the last hour;
+33 (4) Requires employees to work more than forty hours
+34 in a seven-day period or ten hours in a twenty-four hour
+35 period, unless the employee agrees in writing or in a
+36 similar format and is paid a one hundred fifty dollar
+37 premium in addition to their wages and any overtime premium
+38 pay required under state or federal law;
+39 (5) Requires employees to work consecutive shifts with
+40 less than twelve hours of time elapsing between the shifts,
+41 unless the employee agrees in writing or in a similar format
+42 and is paid a one hundred fifty dollar premium in addition
+43 to their wages; or
+44 (6) Require an employee to perform duties outside of
+45 the scope of such employee's regular job duties for more
+46 than three hours a week.
+
+SB 1654 5
+47 4. An employer shall not take an adverse employment
+48 action against an employee for failure to meet a work
+49 performance standard that:
+50 (1) Violates subsection 3 of this section;
+51 (2) Was not described to the employee in accordance
+52 with subsection 2 of this section;
+53 (3) Is based solely on ranking the performance of the
+54 employee in relation to the performance of another employee
+55 or in relation to the past performance of that employee;
+56 (4) Is based on continuously measuring, recording, or
+57 tallying increments of time within a defined time period
+58 during which an employee is or is not doing a particular
+59 activity; or
+60 (5) Is based primarily on work speed data collected
+61 through automated electronic monitoring.
+62 5. An employee may request to speak in person with a
+63 human manager during such employee's work hours. An
+64 employer shall assign a human manager authorized to make
+65 decisions related to discipline to respond not later than
+66 thirty minutes after such a request. An employee may not
+67 make more than one request per every two hours under this
+68 section.
+69 6. An employer shall not discipline or terminate an
+70 employee based on failure to meet a performance standard
+71 unless it has provided prior written notice of such action.
+72 Such notice shall include the following:
+73 (1) A plain language description of the reasons for
+74 the discipline or termination;
+75 (2) The effective date of the discipline or
+76 termination; and
+77 (3) Any and all records relied upon to substantiate
+78 the discipline or termination.
+
+SB 1654 6
+79 7. In the case of a termination based on failure to
+80 meet a work performance standard, the employer shall notify
+81 the employee of the termination of their employment at least
+82 fourteen days before such termination becomes effective, as
+83 well as upon the effective date of termination. The time
+84 period between a first warning or discipline and termination
+85 shall be not less than thirty days, and the employer may not
+86 rely on a warning or discipline issued more than one year in
+87 the past to justify a termination.
+1 290.162. 1. (1) Each employer shall establish,
+2 maintain, and preserve contemporaneous, true, and accurate
+3 records of the following:
+4 (a) Each individual employee's work performance
+5 records;
+6 (b) The aggregated work performance records for
+7 similar employees at the same warehouse distribution center;
+8 (c) The work performance standard provided to each
+9 employee pursuant to section 290.161; and
+10 (d) The written notice provided to a terminated
+11 employee pursuant to subsection 8 of section 290.161.
+12 (2) The records required by this subsection shall be
+13 maintained for a period of three years. Nothing in this
+14 section shall require an employer to establish, maintain,
+15 and preserve the records required pursuant to this section
+16 if such employer does not assign or require work performance
+17 standards or collect, store, analyze, or interpret work
+18 performance data.
+19 2. An employee, or a designated employee
+20 representative of such employee, may request from such
+21 employee's employer:
+22 (1) A written description of the work performance
+23 standard the employee is subject to;
+
+SB 1654 7
+24 (2) A copy of the employee's personal work speed data
+25 for the prior ninety days;
+26 (3) A copy of aggregated work speed data for similar
+27 employees at the same warehouse distribution center for the
+28 prior ninety days; and
+29 (4) Any notices of discipline issued to such employee
+30 in the prior year.
+31 3. (1) A former employee, or a designated employee
+32 representative of such employee, may request from a former
+33 employer:
+34 (a) A written description of each work performance
+35 standard the employee was subject to for the ninety days
+36 prior to the employee's separation from employment with such
+37 employer;
+38 (b) A copy of the employee's personal work speed data
+39 for the ninety days prior to such employee's separation from
+40 employment with such employer;
+41 (c) A copy of aggregated work speed data for similar
+42 employees at the same warehouse distribution center for the
+43 ninety days prior to such employee's separation from
+44 employment with such employer; and
+45 (d) Any notices of discipline issued to such former
+46 employee in the calendar year prior to the termination.
+47 (2) A former employee may only make one request under
+48 this section.
+49 4. An employer shall provide a written copy of any
+50 records requested pursuant to this section not later than
+51 five calendar days after receipt of such request. Such
+52 written copy shall be provided:
+53 (1) In both English and the primary language of the
+54 employee requesting such records; and
+
+SB 1654 8
+55 (2) (a) For a current employee, directly to the
+56 employee requesting such records by a manager during such
+57 employee's work hours; or
+58 (b) For a former employee, either at a mutually
+59 convenient time or via a mutually convenient delivery method.
+1 290.163. 1. An employer shall not commence a
+2 reduction of force resulting in an employment loss at a
+3 single site of employment during any thirty day period for
+4 fifty or more employees unless such employer has offered a
+5 new employment position to each employee who may reasonably
+6 be expected to experience an employment loss as a
+7 consequence of such a reduction in force. Such a position
+8 shall be:
+9 (1) Comparable with regard to wages, hours, benefits,
+10 working conditions, and job duties;
+11 (2) Within a reasonable commuting distance from the
+12 affected site of employment; and
+13 (3) Offered in writing at least thirty days prior to
+14 the commencement of such a reduction in force.
+15 2. If an employer discharges an employee, the employer
+16 shall pay the employee two weeks of severance pay plus an
+17 additional day of severance pay for each two months that the
+18 employee has worked for the employer. One week of severance
+19 pay shall be calculated based on the employee's average
+20 weekly earnings including overtime pay received during the
+21 employee's most recent twelve months of employment, or
+22 received during the duration of the employee's employment if
+23 the duration of the employment has been less than twelve
+24 months. A day of severance pay shall be equal to one week
+25 of severance pay divided by five.
+
+SB 1654 9
+1 290.164. 1. An employer shall not discharge or in any
+2 way retaliate, discriminate, or take any adverse action
+3 against any employee or former employee for:
+4 (1) Making a request pursuant to section 290.161 or
+5 290.162;
+6 (2) Declining to work more than forty hours in a week,
+7 more than ten hours in a day, or consecutive shifts with
+8 less than twelve hours between the shifts; or
+9 (3) Filing a civil action pursuant to section 290.165.
+10 2. If an employer discharges or in any way retaliates,
+11 discriminates, or takes any adverse action against any
+12 employee or former employee within ninety days after such
+13 employee engages in or attempts to engage in the activities
+14 described in subsection 1 of this section, there shall be a
+15 rebuttable presumption that such adverse action is in
+16 violation of this section. Such presumption may be rebutted
+17 by clear and convincing evidence that the:
+18 (1) Adverse action was taken for other permissible
+19 reasons; and
+20 (2) Employee engaging or attempting to engage in the
+21 activities described in subsection 1 of this section was not
+22 a motivating factor in the employer taking such adverse
+23 action.
+1 290.165. 1. (1) An employee aggrieved by a violation
+2 of sections 290.161 to 290.164, or the attorney general on
+3 behalf of an employee aggrieved by a violation of sections
+4 290.161 to 290.164, may bring a civil action in circuit
+5 court or any other court of competent jurisdiction to
+6 recover damages, civil penalties, and such equitable and
+7 injunctive relief as the court deems appropriate. An
+8 employer who violates the provisions of sections 290.161 to
+9 290.164 shall be liable to a plaintiff for statutory damages
+
+SB 1654 10
+10 of not less than five thousand dollars nor more than seven
+11 thousand five hundred dollars per violation in addition to
+12 economic damages. A court shall have discretion to
+13 determine the amount in light of the severity of the
+14 violation and any history of prior violations. A
+15 complainant who prevails in such a civil action shall be
+16 awarded reasonable attorney's fees and costs to be taxed by
+17 the court. An employer who violates a provision of section
+18 290.161 to 290.164 may be assessed a civil penalty by the
+19 court of:
+20 (a) One thousand dollars for a first violation;
+21 (b) Two thousand dollars for a second violation; or
+22 (c) Three thousand dollars for a third or subsequent
+23 violations.
+24 (2) An employer who fails to pay in full required
+25 severance pay shall be liable for payment of the required
+26 severance pay, plus an additional two times the unpaid
+27 amount as liquidated damages.
+28 2. The director of the department of labor and
+29 industrial relations shall monitor the injury rates of
+30 employees working in warehouse distribution centers in the
+31 state. If an employer is found to have an annual injury
+32 rate at or over one and one-half times the average annual
+33 injury rate for the relevant North American Industry
+34 Classification System Codes, based on data reported to the
+35 federal Occupational and Safety and Health Administration,
+36 the director of the department of labor and industrial
+37 relations shall determine whether an investigation
+38 concerning potential violations of sections 290.161 to
+39 290.164 is appropriate.
+1 290.166. 1. Not more than thirty days after the last
+2 day of each quarter, an employer shall, with respect to the
+
+SB 1654 11
+3 preceding quarter, disclose to the director of the
+4 department of labor and industrial relations any artificial
+5 intelligence-related job impact experienced by the entity in
+6 the state of Missouri, including:
+7 (1) The number of individuals laid off by the employer
+8 in the state of Missouri during the quarter that are
+9 substantially due to the replacement or automation by
+10 artificial intelligence of the functions performed by such
+11 individuals;
+12 (2) The number of individuals hired by the employer in
+13 the state of Missouri during the quarter that are
+14 substantially due to the incorporation of artificial
+15 intelligence;
+16 (3) The number of positions at the employer's
+17 establishments in the state of Missouri that were occupied
+18 at any point during the prior quarter for which the employer
+19 has decided not to fill based on a reason that is
+20 substantially due to the replacement or automation by
+21 artificial intelligence of the functions of such positions;
+22 (4) The number of individuals in the state of Missouri
+23 whom the employer is retraining, or assisting in retraining,
+24 based on a reason that is substantially due to artificial
+25 intelligence; and
+26 (5) Any other information related to artificial
+27 intelligence-related job impacts, as determined appropriate
+28 by the director at the department of labor and industrial
+29 relations.
+30 2. With respect to each artificial intelligence-
+31 related job impact disclosure under section 290.166, the
+32 employer shall provide in such disclosure the corresponding
+33 North American Industry Classification System Codes.
+
+SB 1654 12
+34 3. The director of the department of labor and
+35 industrial relations shall impose civil monetary penalties
+36 on an employer in violation of this section as follows. For
+37 each violation, a penalty of five hundred dollars shall be
+38 imposed. In the case of willful or repeated violations, an
+39 additional amount of not less than one thousand dollars and
+40 not more than three thousand dollars shall be imposed.
+41 4. The director of the department of labor and
+42 industrial relations shall:
+43 (1) For each quarter, prepare a report summarizing the
+44 data from disclosures submitted under subsection 1 of this
+45 section during the quarter; and for the quarter ending on
+46 December thirty-first, summarizing such data for the
+47 calendar year;
+48 (2) For every other quarter, prepare a report
+49 analyzing the net impact of the data contained in the report
+50 under subdivision (1) of this subsection for such quarter
+51 and for the preceding quarter, and any other relevant data
+52 available to the director of the department of labor and
+53 industrial relations with respect to artificial intelligence-
+54 related job impacts; and
+55 (3) Not more than sixty days after the last day of
+56 each quarter publish each report prepared for the quarter
+57 under subdivision (1) of this subsection and, as applicable,
+58 subdivision (2) of this subsection, and the data underlying
+59 such reports on the website of the department of labor and
+60 industrial relations; and submit each such report to the
+61 speaker of the house of representatives and the president
+62 pro tempore of the senate.
+1 290.167. Effective July 1, 2027, and each subsequent
+2 July first after that, the director of the department of
+3 labor and industrial relations shall increase all of the
+
+SB 1654 13
+4 dollar amounts specified in sections 290.161 to 290.166 in
+5 proportion to the increase, if any, during the most recent
+6 twelve month period for which data is available when the
+7 increase is announced, in the consumer price index for all
+8 urban wage earners and clerical workers on a national and
+9 seasonally unadjusted basis (CPI-W), or a successor index,
+10 as calculated by the United States Department of Labor or a
+11 successor agency. Such increases shall be announced by
+12 April 1, 2027, and by April first of subsequent years.
+✓
+
+[DELETED:  K f e o c w d c w p 2 2 2 2 a 2 t.A  )"   .A  )P)A )U )"  ]
+[DELETED: S  .A )"     )"              )"      ]
+[DELETED: S )" )"       ."    .1.U       .S .W  )N  )P  ]
+[DELETED: S )A  .A )I  )S  )R   )R     )R    )R  ]
+[DELETED: S.A   )V)W )I  )I   )I .A .A   .A  .A   )A )T )A ]
+[DELETED: S.I    .T    .1.()E      )E )T )T )T )T .N     .A  )A ]
+[DELETED: S)A )A  )A .()A    )A   )A  )A   )A )A .A  .S )I ]
+[DELETED: S)()F    )F .1.A        .S )C )W )O .I   .O      .A ]
+[DELETED: S.1.A    )M )D   )F.I      .S )A )E   .1.()A          .A   ]
+[DELETED: S  .A  .A   .A   )O )T)T )A   .T   .I        .1.N    ]
+[DELETED: S   )T    )T   )T     )T   )A   .W   ]
+[DELETED: S.T  .F  .I  .T )F    )F      )N       .E   ]
+[DELETED: S       .S ]

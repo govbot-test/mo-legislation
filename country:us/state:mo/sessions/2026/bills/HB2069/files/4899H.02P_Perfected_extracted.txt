@@ -1,0 +1,432 @@
+Title: HOUSE BILL NOS. 2069 & 2208
+Official Title: HOUSE BILL NOS. 2069 & 2208
+Number of Sections: 10
+Source: versions - Perfected
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+[PERFECTED]
+HOUSE COMMITTEE SUBSTITUTE FOR
+103RD GENERAL ASSEMBLY
+4899H.02P JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapter 304, RSMo, by adding thereto eight new sections relating to autonomous
+vehicles.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+
+Section 2:
+Section A. Chapter 304, RSMo, is amended by adding thereto eight new sections, to
+2 be known as sections 304.920, 304.923, 304.926, 304.927, 304.928, 304.929, 304.931, and
+3 304.932, to read as follows:
+
+Section 3:
+304.920. As used in sections 304.920 to 304.932, the following terms mean:
+2 (1) "Automated driving system", the hardware and software that are collectively
+3 capable of performing the entire dynamic driving task on a sustained basis, regardless
+4 of whether it is limited to a specific operational design domain;
+5 (2) "Dynamic driving task", all of the real-time operational and tactical
+6 functions required to operate a vehicle in on-road traffic, excluding the strategic
+7 functions such as trip scheduling and selection of destinations and way points, and
+8 including, but not limited to:
+9 (a) Lateral vehicle motion control via steering;
+10 (b) Longitudinal motion control via acceleration and deceleration;
+11 (c) Monitoring the driving environment via object and event detection,
+12 recognition, classification, and response preparation;
+13 (d) Object and event response execution;
+14 (e) Maneuver planning; and
+15 (f) Enhancing conspicuity via lighting, signaling, and gesturing;
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+HCS HBs 2069 & 2208 2
+16 (3) "Dynamic driving task fallback", the response by the person or human
+17 driver to either perform the dynamic driving task or achieve a minimal risk condition
+18 after occurrence of a dynamic driving task performance-relevant system failure or
+19 failures or upon operational design domain exit, or the response by an automated
+20 driving system to achieve minimal risk condition, given the same circumstances;
+21 (4) "Fully autonomous vehicle", a motor vehicle equipped with an automated
+22 driving system designed to function without a human driver as a level 4 or level 5 system
+23 under SAE J3016B;
+24 (5) "Human driver", a natural person in the vehicle with a valid license to
+25 operate a motor vehicle who controls all or part of the dynamic driving task;
+26 (6) "Minimal risk condition", a condition to which a person, human driver, or an
+27 automated driving system may bring a vehicle after performing the dynamic driving
+28 task fallback in order to reduce the risk of a crash when a given trip cannot or should
+29 not be completed;
+30 (7) "On-demand autonomous vehicle network", a transportation service
+31 network that uses a software application or other digital means to dispatch or
+32 otherwise enable the prearrangement of transportation with fully autonomous vehicles
+33 for purposes of transporting passengers or goods, including for-hire transportation and
+34 transportation of passengers or goods for compensation;
+35 (8) "Operational design domain", operating conditions under which a given
+36 automated driving system is specifically designed to function including, but not limited
+37 to, environmental, geographical, and time-of-day restrictions, or the requisite presence
+38 or absence of certain traffic or roadway characteristics;
+39 (9) "Person", a natural person, corporation, business trust, estate, trust,
+40 partnership, limited liability company, association, joint venture, governmental agency,
+41 public corporation, or any other legal or commercial entity;
+42 (10) "Request to intervene", notification by an automated driving system to a
+43 human driver that the human driver should promptly begin or resume performance of
+44 part or all of the dynamic driving task;
+45 (11) "SAE J3016B", the "Taxonomy and Definitions for Terms Related to
+46 Driving Automation Systems for On-Road Motor Vehicles", published by SAE
+47 International in April 2021.
+
+Section 4:
+304.923. 1. A person may operate a fully autonomous vehicle on the public roads
+2 of this state without a human driver, provided that the automated driving system is
+3 engaged and the vehicle meets the following conditions:
+HCS HBs 2069 & 2208 3
+4 (1) If a failure of the automated driving system occurs that renders the system
+5 unable to perform the entire dynamic driving task relevant to its intended operational
+6 design domain, the fully autonomous vehicle will achieve a minimal risk condition;
+7 (2) The fully autonomous vehicle is capable of operating in compliance with the
+8 applicable traffic and motor vehicle safety laws and regulations of this state when
+9 reasonable to do so, including, but not limited to, safely negotiating railroad crossings,
+10 unless an exemption has been granted by the department of public safety. The
+11 department of public safety shall consult with any railroad company operating in this
+12 state when considering an exemption under this section that affects the operation of a
+13 fully autonomous vehicle at railroad crossings. Any exemption that is granted shall
+14 comply with the most recently published edition of the federal highway administration's
+15 manual on uniform traffic control devices and any regulations promulgated by the
+16 federal motor carrier safety administration;
+17 (3) When required by federal law, the vehicle bears the required manufacturer's
+18 certification label indicating that at the time of its manufacture it has been certified to
+19 be in compliance with all applicable Federal Motor Vehicle Safety Standards, including
+20 reference to any exemption granted by the National Highway Traffic Safety
+21 Administration.
+22 2. Prior to operating a fully autonomous vehicle on the public roads of this state
+23 without a human driver, a person shall submit a law enforcement interaction plan to the
+24 department of public safety that describes:
+25 (1) How to communicate with a fleet support specialist who is available during
+26 the times the vehicle is in operation;
+27 (2) How to safely remove the fully autonomous vehicle from the roadway and
+28 steps to safely tow the vehicle;
+29 (3) How to recognize whether the fully autonomous is in autonomous mode; and
+30 (4) Any additional information the manufacturer or owner deems necessary
+31 regarding hazardous conditions or public safety risks associated with the operation of
+32 the fully autonomous vehicle.
+33 3. A natural person who is not physically situated in the driver's seat of a fully
+34 autonomous vehicle and who provides real-time operational and tactical function
+35 performance data related to the dynamic driving task fallback, including, but not
+36 limited to, real-time braking, steering, acceleration, and transmission shifting, shall be
+37 physically present in the United States of America and maintain a validly issued driver's
+38 license from a state, territory, or possession of the United States of America.
+
+Section 5:
+304.926. 1. When an automated driving system installed on a motor vehicle is
+2 engaged:
+HCS HBs 2069 & 2208 4
+3 (1) The automated driving system is considered the driver or operator, for the
+4 purpose of assessing compliance with applicable traffic or motor vehicle laws and shall
+5 be deemed to satisfy electronically all physical acts required by a driver or operator of
+6 the vehicle; and
+7 (2) The automated driving system is considered to be licensed to operate the
+8 vehicle.
+9 2. Before operating a fully autonomous vehicle on public roads in this state
+10 without a human driver, a person shall submit to the department of revenue proof of
+11 financial responsibility, as defined in section 303.020, for the vehicle.
+12 3. In the event of a crash:
+13 (1) The fully autonomous vehicle shall remain on the scene of the crash when
+14 required under section 303.040, consistent with its capability under section 304.923; and
+15 (2) The owner of the fully autonomous vehicle, or a person on behalf of the
+16 vehicle owner, shall report any crashes or collisions consistent with section 303.040.
+
+Section 6:
+304.927. An on-demand autonomous vehicle network shall be permitted to
+2 operate pursuant to state laws governing the operation of transportation network
+3 companies, taxis, or any other ground transportation for-hire of passengers, with the
+4 exception that any provision of this chapter that reasonably applies only to a human
+5 driver would not apply to the operation of fully autonomous vehicles with the automated
+6 driving system engaged on an on-demand autonomous vehicle network.
+
+Section 7:
+304.928. 1. A fully autonomous vehicle shall be properly registered in
+2 accordance with chapter 301. If a fully autonomous vehicle is registered in this state, the
+3 vehicle shall be identified on the registration as a fully autonomous vehicle.
+4 2. A fully autonomous vehicle shall be properly titled in accordance with chapter
+5 301. If a fully autonomous vehicle is titled in this state, the vehicle shall be identified on
+6 the title as a fully autonomous vehicle.
+7 3. Any corporation or other business entity subject to the provisions of this
+8 section shall be subject to personal jurisdiction of the courts of this state consistent with
+9 section 506.500.
+
+Section 8:
+304.929. 1. A person may operate a motor vehicle equipped with an automated
+2 driving system capable of performing the entire dynamic driving task if:
+3 (1) Such automated driving system will issue a request to intervene whenever the
+4 automated driving system is not capable of performing the entire dynamic driving task
+5 with the expectation that the person will respond appropriately to such a request; and
+6 (2) The automated driving system is capable of being operated in compliance
+7 with applicable law when reasonable to do so unless an exemption has been granted by
+8 the department of public safety.
+HCS HBs 2069 & 2208 5
+9 2. Nothing in sections 304.920 to 304.932 prohibits or restricts a human driver
+10 from operating a fully autonomous vehicle equipped with controls that allow for the
+11 human driver to control all or part of the dynamic driving task.
+12 3. (1) The owner of a fully autonomous vehicle shall be responsible for any civil
+13 liability resulting from the acts or omissions of the automated driving system;
+14 (2) When an automated driving system is engaged in the operation of a motor
+15 vehicle and performing the dynamic driving task, the automated driving system shall be
+16 deemed a driver for purposes of determining compliance with traffic laws and for civil
+17 liability arising from the operation of the motor vehicle;
+18 (3) For the purposes of any civil action alleging negligence arising out of the
+19 operation of a motor vehicle while an automated driving system was engaged, the
+20 automated driving system shall be evaluated under the careful and prudent person
+21 standard applicable to drivers of motor vehicles under section 304.012;
+22 (4) The performance of an automated driving system shall be measured on
+23 whether the automated driving system operated the vehicle in a manner consistent with
+24 a careful and prudent driver under the same or similar circumstances;
+25 (5) Nothing in this subsection shall be construed to confer legal personhood upon
+26 an automated driving system. The provisions of this subsection solely establish the
+27 standard of care applicable to the operation of the vehicle when the automated driving
+28 system is engaged.
+
+Section 9:
+304.931. A fully autonomous vehicle that is designed to be operated exclusively
+2 by the automated driving system for all trips is not subject to motor vehicle equipment
+3 laws or regulations of this state that:
+4 (1) Relate to or support motor vehicle operation by a human driver seated in the
+5 vehicle; and
+6 (2) Are not relevant to an automated driving system.
+
+Section 10:
+304.932. 1. Unless otherwise provided in this chapter and notwithstanding any
+2 other provision of law to the contrary, fully autonomous vehicles and automated driving
+3 systems are governed exclusively by sections 304.920 to 304.932. The director of the
+4 department of public safety may promulgate rules necessary to implement these
+5 sections. The department shall be the sole agency that may implement the provisions of
+6 these sections, except as provided in sections 304.926 to 304.928. Any rule or portion of
+7 a rule, as that term is defined in section 536.010 that is created under the authority
+8 delegated in this section shall become effective only if it complies with and is subject to
+9 all of the provisions of chapter 536 and, if applicable, section 536.028. This section and
+10 chapter 536 are nonseverable and if any of the powers vested with the general assembly
+11 pursuant to chapter 536 to review, to delay the effective date, or to disapprove and annul
+HCS HBs 2069 & 2208 6
+12 a rule are subsequently held unconstitutional, then the grant of rulemaking authority
+13 and any rule proposed or adopted after August 28, 2026, shall be invalid and void.
+14 2. No state agency, political subdivision, municipality, or local entity shall
+15 prohibit the operation of fully autonomous vehicles, automated driving systems, or on-
+16 demand autonomous vehicle networks, or otherwise enact or keep in force rules or
+17 ordinances that would impose taxes, fees, or other requirements, including performance
+18 standards, specific to the operation of fully autonomous vehicles, automated driving
+19 systems, or on-demand autonomous vehicle networks in addition to the requirements of
+20 sections 304.920 to 304.932.
+✔
+[DELETED:  B N 2 & 2PJ Cb3.A( "co( " d t a o t r o a tf r t o a v i o t e t sf s a t s a s o d a w p ai( L0(1( M t d e v o a e d2r3( O4( M5( E—M i e]
+[DELETED: 6( " d t f t r b t p o h7d8a o o a d d t p s f o9f o u o d d e o t r b a a0d1( "2d3u4( " d a n p i t v w a v l t5o6( "7a8t9n0( " a v n a t s1n t u a s a o o d m t d o2o3f4t5( " d d o c u w a g6a7t8o9( " a n p c b t e t0p1p2( "3h4p5( " J t " a D f T R t6D A S f O M V p b S7I.1 Ao t se ]
+[DELETED: ( Iud( Ta t a m v s l a r o t s wr0u a e h b g b t d o p s T1d2s3f v c A t i4c5m o u t c d a a r p b t6f7( W8c9b0r t a e g b t N H T S1A22 P3w4d5( H6t7( H8s9( H0( A a i t m o o d n1r2t33 A4a v a w p r o a t f5p d r t t d d t f i b n6l7p8l.1 We ]
+[DELETED: ( Tpbt( Tv2 B o a f a v o p r i t s0w1f23 I3( T4r5( T f a v a o b o t6v.A o a v n s b p to p t s l g t o o t ncedd.1 A f a v s b p r ia Iv2 A3 It3 A c o o b e s t t p o tss.1 Ad( Saw(wt ]
+[DELETED: 2 N0f1h23 ( T3l4( W5v6d7l8( F9o o a m v w a a d s w e t0a d s s b e u t c a p p1s2( T p o a a d s s b m o3w4a5( N6a a d s T p o t s s e t7s8s.Abl( Rv( A.1 Uos Td o p s m p r n t i ts Tt Aada T0c1p ]
+[DELETED: 2a3a42 N s a p s m o l e s5p6d a v n o o e o k i f r o7o8s s t t o o f a v a d9s0s ]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+[PERFECTED]
+HOUSE COMMITTEE SUBSTITUTE FOR
+HOUSE BILL NOS. 2069 & 2208
+103RD GENERAL ASSEMBLY
+4899H.02P JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapter 304, RSMo, by adding thereto eight new sections relating to autonomous
+vehicles.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Chapter 304, RSMo, is amended by adding thereto eight new sections, to
+2 be known as sections 304.920, 304.923, 304.926, 304.927, 304.928, 304.929, 304.931, and
+3 304.932, to read as follows:
+304.920. As used in sections 304.920 to 304.932, the following terms mean:
+2 (1) "Automated driving system", the hardware and software that are collectively
+3 capable of performing the entire dynamic driving task on a sustained basis, regardless
+4 of whether it is limited to a specific operational design domain;
+5 (2) "Dynamic driving task", all of the real-time operational and tactical
+6 functions required to operate a vehicle in on-road traffic, excluding the strategic
+7 functions such as trip scheduling and selection of destinations and way points, and
+8 including, but not limited to:
+9 (a) Lateral vehicle motion control via steering;
+10 (b) Longitudinal motion control via acceleration and deceleration;
+11 (c) Monitoring the driving environment via object and event detection,
+12 recognition, classification, and response preparation;
+13 (d) Object and event response execution;
+14 (e) Maneuver planning; and
+15 (f) Enhancing conspicuity via lighting, signaling, and gesturing;
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HCS HBs 2069 & 2208 2
+16 (3) "Dynamic driving task fallback", the response by the person or human
+17 driver to either perform the dynamic driving task or achieve a minimal risk condition
+18 after occurrence of a dynamic driving task performance-relevant system failure or
+19 failures or upon operational design domain exit, or the response by an automated
+20 driving system to achieve minimal risk condition, given the same circumstances;
+21 (4) "Fully autonomous vehicle", a motor vehicle equipped with an automated
+22 driving system designed to function without a human driver as a level 4 or level 5 system
+23 under SAE J3016B;
+24 (5) "Human driver", a natural person in the vehicle with a valid license to
+25 operate a motor vehicle who controls all or part of the dynamic driving task;
+26 (6) "Minimal risk condition", a condition to which a person, human driver, or an
+27 automated driving system may bring a vehicle after performing the dynamic driving
+28 task fallback in order to reduce the risk of a crash when a given trip cannot or should
+29 not be completed;
+30 (7) "On-demand autonomous vehicle network", a transportation service
+31 network that uses a software application or other digital means to dispatch or
+32 otherwise enable the prearrangement of transportation with fully autonomous vehicles
+33 for purposes of transporting passengers or goods, including for-hire transportation and
+34 transportation of passengers or goods for compensation;
+35 (8) "Operational design domain", operating conditions under which a given
+36 automated driving system is specifically designed to function including, but not limited
+37 to, environmental, geographical, and time-of-day restrictions, or the requisite presence
+38 or absence of certain traffic or roadway characteristics;
+39 (9) "Person", a natural person, corporation, business trust, estate, trust,
+40 partnership, limited liability company, association, joint venture, governmental agency,
+41 public corporation, or any other legal or commercial entity;
+42 (10) "Request to intervene", notification by an automated driving system to a
+43 human driver that the human driver should promptly begin or resume performance of
+44 part or all of the dynamic driving task;
+45 (11) "SAE J3016B", the "Taxonomy and Definitions for Terms Related to
+46 Driving Automation Systems for On-Road Motor Vehicles", published by SAE
+47 International in April 2021.
+304.923. 1. A person may operate a fully autonomous vehicle on the public roads
+2 of this state without a human driver, provided that the automated driving system is
+3 engaged and the vehicle meets the following conditions:
+
+HCS HBs 2069 & 2208 3
+4 (1) If a failure of the automated driving system occurs that renders the system
+5 unable to perform the entire dynamic driving task relevant to its intended operational
+6 design domain, the fully autonomous vehicle will achieve a minimal risk condition;
+7 (2) The fully autonomous vehicle is capable of operating in compliance with the
+8 applicable traffic and motor vehicle safety laws and regulations of this state when
+9 reasonable to do so, including, but not limited to, safely negotiating railroad crossings,
+10 unless an exemption has been granted by the department of public safety. The
+11 department of public safety shall consult with any railroad company operating in this
+12 state when considering an exemption under this section that affects the operation of a
+13 fully autonomous vehicle at railroad crossings. Any exemption that is granted shall
+14 comply with the most recently published edition of the federal highway administration's
+15 manual on uniform traffic control devices and any regulations promulgated by the
+16 federal motor carrier safety administration;
+17 (3) When required by federal law, the vehicle bears the required manufacturer's
+18 certification label indicating that at the time of its manufacture it has been certified to
+19 be in compliance with all applicable Federal Motor Vehicle Safety Standards, including
+20 reference to any exemption granted by the National Highway Traffic Safety
+21 Administration.
+22 2. Prior to operating a fully autonomous vehicle on the public roads of this state
+23 without a human driver, a person shall submit a law enforcement interaction plan to the
+24 department of public safety that describes:
+25 (1) How to communicate with a fleet support specialist who is available during
+26 the times the vehicle is in operation;
+27 (2) How to safely remove the fully autonomous vehicle from the roadway and
+28 steps to safely tow the vehicle;
+29 (3) How to recognize whether the fully autonomous is in autonomous mode; and
+30 (4) Any additional information the manufacturer or owner deems necessary
+31 regarding hazardous conditions or public safety risks associated with the operation of
+32 the fully autonomous vehicle.
+33 3. A natural person who is not physically situated in the driver's seat of a fully
+34 autonomous vehicle and who provides real-time operational and tactical function
+35 performance data related to the dynamic driving task fallback, including, but not
+36 limited to, real-time braking, steering, acceleration, and transmission shifting, shall be
+37 physically present in the United States of America and maintain a validly issued driver's
+38 license from a state, territory, or possession of the United States of America.
+304.926. 1. When an automated driving system installed on a motor vehicle is
+2 engaged:
+
+HCS HBs 2069 & 2208 4
+3 (1) The automated driving system is considered the driver or operator, for the
+4 purpose of assessing compliance with applicable traffic or motor vehicle laws and shall
+5 be deemed to satisfy electronically all physical acts required by a driver or operator of
+6 the vehicle; and
+7 (2) The automated driving system is considered to be licensed to operate the
+8 vehicle.
+9 2. Before operating a fully autonomous vehicle on public roads in this state
+10 without a human driver, a person shall submit to the department of revenue proof of
+11 financial responsibility, as defined in section 303.020, for the vehicle.
+12 3. In the event of a crash:
+13 (1) The fully autonomous vehicle shall remain on the scene of the crash when
+14 required under section 303.040, consistent with its capability under section 304.923; and
+15 (2) The owner of the fully autonomous vehicle, or a person on behalf of the
+16 vehicle owner, shall report any crashes or collisions consistent with section 303.040.
+304.927. An on-demand autonomous vehicle network shall be permitted to
+2 operate pursuant to state laws governing the operation of transportation network
+3 companies, taxis, or any other ground transportation for-hire of passengers, with the
+4 exception that any provision of this chapter that reasonably applies only to a human
+5 driver would not apply to the operation of fully autonomous vehicles with the automated
+6 driving system engaged on an on-demand autonomous vehicle network.
+304.928. 1. A fully autonomous vehicle shall be properly registered in
+2 accordance with chapter 301. If a fully autonomous vehicle is registered in this state, the
+3 vehicle shall be identified on the registration as a fully autonomous vehicle.
+4 2. A fully autonomous vehicle shall be properly titled in accordance with chapter
+5 301. If a fully autonomous vehicle is titled in this state, the vehicle shall be identified on
+6 the title as a fully autonomous vehicle.
+7 3. Any corporation or other business entity subject to the provisions of this
+8 section shall be subject to personal jurisdiction of the courts of this state consistent with
+9 section 506.500.
+304.929. 1. A person may operate a motor vehicle equipped with an automated
+2 driving system capable of performing the entire dynamic driving task if:
+3 (1) Such automated driving system will issue a request to intervene whenever the
+4 automated driving system is not capable of performing the entire dynamic driving task
+5 with the expectation that the person will respond appropriately to such a request; and
+6 (2) The automated driving system is capable of being operated in compliance
+7 with applicable law when reasonable to do so unless an exemption has been granted by
+8 the department of public safety.
+
+HCS HBs 2069 & 2208 5
+9 2. Nothing in sections 304.920 to 304.932 prohibits or restricts a human driver
+10 from operating a fully autonomous vehicle equipped with controls that allow for the
+11 human driver to control all or part of the dynamic driving task.
+12 3. (1) The owner of a fully autonomous vehicle shall be responsible for any civil
+13 liability resulting from the acts or omissions of the automated driving system;
+14 (2) When an automated driving system is engaged in the operation of a motor
+15 vehicle and performing the dynamic driving task, the automated driving system shall be
+16 deemed a driver for purposes of determining compliance with traffic laws and for civil
+17 liability arising from the operation of the motor vehicle;
+18 (3) For the purposes of any civil action alleging negligence arising out of the
+19 operation of a motor vehicle while an automated driving system was engaged, the
+20 automated driving system shall be evaluated under the careful and prudent person
+21 standard applicable to drivers of motor vehicles under section 304.012;
+22 (4) The performance of an automated driving system shall be measured on
+23 whether the automated driving system operated the vehicle in a manner consistent with
+24 a careful and prudent driver under the same or similar circumstances;
+25 (5) Nothing in this subsection shall be construed to confer legal personhood upon
+26 an automated driving system. The provisions of this subsection solely establish the
+27 standard of care applicable to the operation of the vehicle when the automated driving
+28 system is engaged.
+304.931. A fully autonomous vehicle that is designed to be operated exclusively
+2 by the automated driving system for all trips is not subject to motor vehicle equipment
+3 laws or regulations of this state that:
+4 (1) Relate to or support motor vehicle operation by a human driver seated in the
+5 vehicle; and
+6 (2) Are not relevant to an automated driving system.
+304.932. 1. Unless otherwise provided in this chapter and notwithstanding any
+2 other provision of law to the contrary, fully autonomous vehicles and automated driving
+3 systems are governed exclusively by sections 304.920 to 304.932. The director of the
+4 department of public safety may promulgate rules necessary to implement these
+5 sections. The department shall be the sole agency that may implement the provisions of
+6 these sections, except as provided in sections 304.926 to 304.928. Any rule or portion of
+7 a rule, as that term is defined in section 536.010 that is created under the authority
+8 delegated in this section shall become effective only if it complies with and is subject to
+9 all of the provisions of chapter 536 and, if applicable, section 536.028. This section and
+10 chapter 536 are nonseverable and if any of the powers vested with the general assembly
+11 pursuant to chapter 536 to review, to delay the effective date, or to disapprove and annul
+
+HCS HBs 2069 & 2208 6
+12 a rule are subsequently held unconstitutional, then the grant of rulemaking authority
+13 and any rule proposed or adopted after August 28, 2026, shall be invalid and void.
+14 2. No state agency, political subdivision, municipality, or local entity shall
+15 prohibit the operation of fully autonomous vehicles, automated driving systems, or on-
+16 demand autonomous vehicle networks, or otherwise enact or keep in force rules or
+17 ordinances that would impose taxes, fees, or other requirements, including performance
+18 standards, specific to the operation of fully autonomous vehicles, automated driving
+19 systems, or on-demand autonomous vehicle networks in addition to the requirements of
+20 sections 304.920 to 304.932.
+✔
+
+[DELETED:  B N 2 & 2PJ Cb3.A( "co( " d t a o t r o a tf r t o a v i o t e t sf s a t s a s o d a w p ai( L0(1( M t d e v o a e d2r3( O4( M5( E—M i e]
+[DELETED: 6( " d t f t r b t p o h7d8a o o a d d t p s f o9f o u o d d e o t r b a a0d1( "2d3u4( " d a n p i t v w a v l t5o6( "7a8t9n0( " a v n a t s1n t u a s a o o d m t d o2o3f4t5( " d d o c u w a g6a7t8o9( " a n p c b t e t0p1p2( "3h4p5( " J t " a D f T R t6D A S f O M V p b S7I.1 Ao t se ]
+[DELETED: ( Iud( Ta t a m v s l a r o t s wr0u a e h b g b t d o p s T1d2s3f v c A t i4c5m o u t c d a a r p b t6f7( W8c9b0r t a e g b t N H T S1A22 P3w4d5( H6t7( H8s9( H0( A a i t m o o d n1r2t33 A4a v a w p r o a t f5p d r t t d d t f i b n6l7p8l.1 We ]
+[DELETED: ( Tpbt( Tv2 B o a f a v o p r i t s0w1f23 I3( T4r5( T f a v a o b o t6v.A o a v n s b p to p t s l g t o o t ncedd.1 A f a v s b p r ia Iv2 A3 It3 A c o o b e s t t p o tss.1 Ad( Saw(wt ]
+[DELETED: 2 N0f1h23 ( T3l4( W5v6d7l8( F9o o a m v w a a d s w e t0a d s s b e u t c a p p1s2( T p o a a d s s b m o3w4a5( N6a a d s T p o t s s e t7s8s.Abl( Rv( A.1 Uos Td o p s m p r n t i ts Tt Aada T0c1p ]
+[DELETED: 2a3a42 N s a p s m o l e s5p6d a v n o o e o k i f r o7o8s s t t o o f a v a d9s0s ]

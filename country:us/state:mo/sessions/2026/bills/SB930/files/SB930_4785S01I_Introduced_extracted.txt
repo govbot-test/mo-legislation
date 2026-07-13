@@ -1,0 +1,169 @@
+Title: SENATE BILL NO. 930
+Official Title: SENATE BILL NO. 930
+Number of Sections: 1
+Source: versions - 4785S.01I - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SECOND REGULAR SESSION
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR LEWIS.
+4785S.01I KRISTINA MARTIN, Secretary
+AN ACT
+To amend chapter 376, RSMo, by adding thereto one new section relating to anesthesia services.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Chapter 376, RSMo, is amended by adding thereto
+2 one new section, to be known as section 376.1245, to read as
+3 follows:
+1 376.1245. 1. As used in this section, the following
+2 terms mean:
+3 (1) "Anesthesia time", the period during which an
+4 anesthesia practitioner is present with the patient,
+5 starting when the anesthesia practitioner begins to prepare
+6 the patient for anesthesia services in the operating room or
+7 an equivalent area and ending when the anesthesia
+8 practitioner is no longer furnishing anesthesia services to
+9 the patient because the patient may be placed safely under
+10 postoperative or postanesthesia care. The term "anesthesia
+11 time" includes, if counted by the anesthesia practitioner,
+12 blocks of time around an interruption in anesthesia time
+13 provided the anesthesia practitioner is furnishing
+14 continuous anesthesia care within the time periods around
+15 the interruption;
+16 (2) "Anesthesia time units", time units recognized
+17 with appropriate time intervals that do not exceed fifteen
+18 minutes in length for each interval and that, taken
+SB 930 2
+19 together, represent the total anesthesia time for a
+20 particular anesthesia service;
+21 (3) "Excepted benefit plan", the same meaning given to
+22 the term in section 376.998;
+23 (4) "Health benefit plan", the same meaning given to
+24 the term in section 376.1350. The term "health benefit
+25 plan" shall also include the Missouri consolidated health
+26 care plan established under chapter 103;
+27 (5) "Health carrier", the same meaning given to the
+28 term in section 376.1350;
+29 (6) "Payment of anesthesia services", an amount paid
+30 for anesthesia services:
+31 (a) Determined by using prevailing medical coding and
+32 billing standards in the professional medical billing
+33 community, such as the Current Procedural Terminology code
+34 book published by the American Medical Association, the
+35 Medicare Claims Processing Manual, or guidance from
+36 nationally recognized anesthesia organizations; and
+37 (b) Calculated as the product obtained by multiplying
+38 the following together:
+39 a. The sum of the base units for the appropriate
+40 medical code plus anesthesia time units and modifying units;
+41 and
+42 b. An anesthesia conversion factor that is defined in
+43 the individual contract between the health carrier or health
+44 benefit plan and the anesthesia practitioner or group.
+45 2. No health carrier or health benefit plan shall
+46 establish, implement, or enforce any policy, practice, or
+47 procedure that imposes a time limit for the payment of
+48 anesthesia services provided during a medical or surgical
+49 procedure.
+SB 930 3
+50 3. No health carrier or health benefit plan shall
+51 establish, implement, or enforce any policy, practice, or
+52 procedure that restricts or excludes all anesthesia time in
+53 calculating the payment of anesthesia services.
+54 4. Excepted benefit plans shall be subject to the
+55 requirements of this section.
+56 5. The provisions of this section shall apply to
+57 health carriers that offer or issue health benefit plans
+58 that are delivered, issued for delivery, continued, or
+59 renewed in this state on or after August 28, 2026.
+✓
+[DELETED:  K.1.A   )"       .T     )"   ]
+[DELETED: S )" )" .T  )" )" )D     )C .T  .A  .N    ]
+[DELETED: S.N   .E .T   ]
+
+
+================================================================================
+
+Raw Text:
+SECOND REGULAR SESSION
+SENATE BILL NO. 930
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR LEWIS.
+4785S.01I KRISTINA MARTIN, Secretary
+AN ACT
+To amend chapter 376, RSMo, by adding thereto one new section relating to anesthesia services.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Chapter 376, RSMo, is amended by adding thereto
+2 one new section, to be known as section 376.1245, to read as
+3 follows:
+1 376.1245. 1. As used in this section, the following
+2 terms mean:
+3 (1) "Anesthesia time", the period during which an
+4 anesthesia practitioner is present with the patient,
+5 starting when the anesthesia practitioner begins to prepare
+6 the patient for anesthesia services in the operating room or
+7 an equivalent area and ending when the anesthesia
+8 practitioner is no longer furnishing anesthesia services to
+9 the patient because the patient may be placed safely under
+10 postoperative or postanesthesia care. The term "anesthesia
+11 time" includes, if counted by the anesthesia practitioner,
+12 blocks of time around an interruption in anesthesia time
+13 provided the anesthesia practitioner is furnishing
+14 continuous anesthesia care within the time periods around
+15 the interruption;
+16 (2) "Anesthesia time units", time units recognized
+17 with appropriate time intervals that do not exceed fifteen
+18 minutes in length for each interval and that, taken
+
+SB 930 2
+19 together, represent the total anesthesia time for a
+20 particular anesthesia service;
+21 (3) "Excepted benefit plan", the same meaning given to
+22 the term in section 376.998;
+23 (4) "Health benefit plan", the same meaning given to
+24 the term in section 376.1350. The term "health benefit
+25 plan" shall also include the Missouri consolidated health
+26 care plan established under chapter 103;
+27 (5) "Health carrier", the same meaning given to the
+28 term in section 376.1350;
+29 (6) "Payment of anesthesia services", an amount paid
+30 for anesthesia services:
+31 (a) Determined by using prevailing medical coding and
+32 billing standards in the professional medical billing
+33 community, such as the Current Procedural Terminology code
+34 book published by the American Medical Association, the
+35 Medicare Claims Processing Manual, or guidance from
+36 nationally recognized anesthesia organizations; and
+37 (b) Calculated as the product obtained by multiplying
+38 the following together:
+39 a. The sum of the base units for the appropriate
+40 medical code plus anesthesia time units and modifying units;
+41 and
+42 b. An anesthesia conversion factor that is defined in
+43 the individual contract between the health carrier or health
+44 benefit plan and the anesthesia practitioner or group.
+45 2. No health carrier or health benefit plan shall
+46 establish, implement, or enforce any policy, practice, or
+47 procedure that imposes a time limit for the payment of
+48 anesthesia services provided during a medical or surgical
+49 procedure.
+
+SB 930 3
+50 3. No health carrier or health benefit plan shall
+51 establish, implement, or enforce any policy, practice, or
+52 procedure that restricts or excludes all anesthesia time in
+53 calculating the payment of anesthesia services.
+54 4. Excepted benefit plans shall be subject to the
+55 requirements of this section.
+56 5. The provisions of this section shall apply to
+57 health carriers that offer or issue health benefit plans
+58 that are delivered, issued for delivery, continued, or
+59 renewed in this state on or after August 28, 2026.
+✓
+
+[DELETED:  K.1.A   )"       .T     )"   ]
+[DELETED: S )" )" .T  )" )" )D     )C .T  .A  .N    ]
+[DELETED: S.N   .E .T   ]
