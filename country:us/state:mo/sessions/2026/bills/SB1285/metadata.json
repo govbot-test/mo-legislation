@@ -24,43 +24,7 @@
       "identifier": "ocd-bill-mo-2026-sb1285"
     }
   ],
-  "actions": [
-    {
-      "description": "Second Read and Referred S Economic and Workforce Development Committee",
-      "date": "2026-01-27T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2",
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-13T06:05:23Z"
-      }
-    },
-    {
-      "description": "S First Read",
-      "date": "2026-01-07T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-13T06:05:23Z"
-      }
-    },
-    {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-13T06:05:23Z"
-      }
-    }
-  ],
+  "actions": [],
   "sponsorships": [
     {
       "name": "Brown (26), Ben",
@@ -103,7 +67,7 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:23Z",
+    "logs_latest_update": "2026-07-15T13:29:40Z",
     "text_extraction_latest_update": "2026-07-13T09:24:39.594515Z"
   }
 }

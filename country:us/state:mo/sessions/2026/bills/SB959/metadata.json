@@ -26,6 +26,18 @@
   ],
   "actions": [
     {
+      "description": "Signed by Governor",
+      "date": "2026-07-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:29:40Z"
+      }
+    },
+    {
       "description": "Delivered to Governor",
       "date": "2026-05-28T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"executive\"}",
@@ -392,7 +404,7 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:23Z",
+    "logs_latest_update": "2026-07-15T13:29:40Z",
     "text_extraction_latest_update": "2026-07-13T11:11:23.960070Z"
   }
 }
