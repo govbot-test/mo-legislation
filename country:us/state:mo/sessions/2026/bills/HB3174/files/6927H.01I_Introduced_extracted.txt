@@ -1,0 +1,127 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+SECOND REGULAR SESSION
+HOUSE BILL NO. 3174
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE JUSTUS.
+6927H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapter 160, RSMo, by adding thereto one new section relating to emergency
+responses in schools.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Chapter 160, RSMo, is amended by adding thereto one new section, to be
+2 known as section 160.073, to read as follows:
+160.073. 1. (1) Subject to appropriations, beginning in the 2027-28 school year
+2 and for each subsequent school year, each school district or charter school shall
+3 implement a wearable panic alert system capable of connecting diverse emergency
+4 services technologies to ensure real-time coordination between multiple emergency
+5 response agencies. Such system, which may be known as "Alyssa's Law", shall integrate
+6 with local public safety answering point infrastructure to transmit 911 calls and mobile
+7 activations.
+8 (2) A school district or charter school shall provide each school employee with a
+9 wearable panic alert device that allows the school employee to communicate with others
+10 inside the school building and immediately contact local emergency response agencies.
+11 (3) The wearable panic alert system shall be capable of initiating an emergency
+12 notification throughout the school district or charter school. Notifications shall include:
+13 (a) Automated visual strobes whose colors map to the emergency protocol;
+14 (b) An automated, direct connection to the intercom or public announcement
+15 infrastructure in place that maps to the emergency protocol; and
+16 (c) An automated computer display takeover message that maps to the
+17 emergency protocol.
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 3174 2
+18 (4) Upon activation of an alert through the panic alert system, the wearable
+19 panic alert device shall provide accurate location information at the room and floor
+20 level inside the school building and to other specific areas, including parking lots,
+21 playgrounds, and athletic fields, that are part of the school grounds.
+22 (5) A school district or charter school shall ensure, before the school year begins,
+23 all school employees receive training on the emergency protocols and appropriate use of
+24 the wearable panic alert device described in this subsection.
+25 2. (1) A school district or charter school shall ensure, before the school year
+26 begins, that emergency response mapping is made available by a panic alert system
+27 provider to local law enforcement agencies, in an electronic or digital format, to assist
+28 such agencies in responding to emergencies at schools at no cost to the school district or
+29 charter school. Emergency response maps shall:
+30 (a) Be compatible with security software platforms in use by the specific school
+31 for which the data is provided without requiring local law enforcement agencies or
+32 school districts or charter schools to purchase additional software or requiring the
+33 integration of third-party software to view the data;
+34 (b) Be oriented true north;
+35 (c) Be overlaid on school floor plans;
+36 (d) Contain site-specific labels:
+37 a. That match the structure of each school building, including room labels,
+38 hallway names, external door or stairwell numbers, and locations of critical utility
+39 feeds; and
+40 b. Of emergency equipment, such as automated external defibrillators, trauma
+41 kits, and naloxone kits;
+42 (e) Be capable of creating and managing electronic asset tags that allow the
+43 school district or charter school to know the unique identifier of the wearable panic
+44 alert device, including:
+45 a. The serial number of each device;
+46 b. The date of last inspection of each device;
+47 c. The battery replacement date of each device;
+48 d. The expiration date of each device; and
+49 e. Other information pertinent to the appropriate operation of the asset; and
+50 (f) Include data that has the ability to provide real-time updates by school
+51 building with role-based logins to such maps, where changes are automatically
+52 disseminated to emergency responders and 9-1-1 mapping applications using existing
+53 data standards in order to ensure the most up-to-date information. Updates shall
+
+HB 3174 3
+54 include changes to the physical structure of the school building, such as walls, doors,
+55 and mobile classrooms, along with changes to the asset tags.
+56 (2) Ownership of emergency response mapping data shall be retained by the
+57 school district or charter school with full rights to copy, display, distribute, transmit,
+58 and adapt for all lawful purposes, including sharing data with governmental or private
+59 entities that are providing or supporting emergency services.
+60 (3) A school district or charter school shall:
+61 (a) Ensure all security data, including cameras, maps, and access control, within
+62 a school building is accessible by a local law enforcement agency; and
+63 (b) Coordinate with the local law enforcement agency to establish appropriate
+64 access protocols.
+65 (4) Any records, information, photographs, audio and visual presentations,
+66 schematic diagrams, surveys, recommendations, or consultations, or portions thereof,
+67 relating directly to the physical security or fire safety of a school building or revealing
+68 security or fire safety systems held by any emergency response agency is confidential
+69 and exempt from chapter 610.
+70 (5) Information made confidential and exempt under subdivision (4) of this
+71 subsection may be disclosed:
+72 (a) To the property owner or leaseholder;
+73 (b) In furtherance of the official duties and responsibilities of the agency holding
+74 the information;
+75 (c) To another local, state, or federal agency in furtherance of that agency's
+76 official duties and responsibilities; or
+77 (d) Upon a showing of good cause before a court of competent jurisdiction.
+78 3. (1) There is hereby created in the state treasury the "Panic Alert System
+79 Fund", which shall consist of any appropriations to the fund and any gifts,
+80 contributions, grants, or bequests received from private or other sources. The state
+81 treasurer shall be custodian of the fund. In accordance with sections 30.170 and 30.180,
+82 the state treasurer may approve disbursements. The fund shall be a dedicated fund and,
+83 upon appropriation, moneys in this fund shall be used solely for the administration of
+84 this section.
+85 (2) Notwithstanding the provisions of section 33.080 to the contrary, any moneys
+86 remaining in the fund at the end of the biennium shall not revert to the credit of the
+87 general revenue fund.
+88 (3) The state treasurer shall invest moneys in the fund in the same manner as
+89 other funds are invested. Any interest and moneys earned on such investments shall be
+90 credited to the fund.
+
+HB 3174 4
+91 4. The state board of education may adopt rules to implement this section as are
+92 necessary to protect the health and safety of students and educators. Any rule or
+93 portion of a rule, as that term is defined in section 536.010, that is created under the
+94 authority delegated in this section shall become effective only if it complies with and is
+95 subject to all of the provisions of chapter 536 and, if applicable, section 536.028. This
+96 section and chapter 536 are nonseverable and if any of the powers vested with the
+97 general assembly pursuant to chapter 536 to review, to delay the effective date, or to
+98 disapprove and annul a rule are subsequently held unconstitutional, then the grant of
+99 rulemaking authority and any rule proposed or adopted after the effective date of this
+100 section shall be invalid and void.
+✔

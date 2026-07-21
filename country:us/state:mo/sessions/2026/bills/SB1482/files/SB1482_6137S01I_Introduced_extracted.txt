@@ -1,0 +1,1589 @@
+Title: 
+Official Title: 
+Source: versions - 6137S.01I - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SECOND REGULAR SESSION
+SENATE BILL NO. 1482
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR HENDERSON.
+6137S.01I KRISTINA MARTIN, Secretary
+AN ACT
+To repeal sections 192.2200, 192.2400, 192.2475, 192.2490, 192.2495, 192.2500, 198.006,
+198.070, and 208.912, RSMo, and to enact in lieu thereof twelve new sections relating
+to abuse and neglect of certain persons, with penalty provisions.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Sections 192.2200, 192.2400, 192.2475,
+2 192.2490, 192.2495, 192.2500, 198.006, 198.070, and 208.912,
+3 RSMo, are repealed and twelve new sections enacted in lieu
+4 thereof, to be known as sections 192.2200, 192.2256, 192.2257,
+5 192.2400, 192.2475, 192.2490, 192.2495, 192.2500, 197.550,
+6 198.006, 198.070, and 208.912, to read as follows:
+1 192.2200. As used in sections 192.2200 to [192.2260]
+2 192.2275, unless the context clearly indicates otherwise,
+3 the following terms mean:
+4 (1) "Abuse", the infliction of physical, sexual, or
+5 emotional injury or harm, including financial exploitation
+6 by any person, firm, or corporation;
+7 (2) "Adult", an individual over the age of eighteen;
+8 (3) "Adult day care program", a group program designed
+9 to provide care and supervision to meet the needs of
+10 functionally impaired adults for periods of less than twenty-
+11 four hours but more than two hours per day in a place other
+12 than the adult's own home;
+13 (4) "Adult day care provider", the person,
+14 corporation, partnership, association or organization
+EXPLANATION-Matter enclosed in bold-faced brackets [thus] in this bill is not enacted
+and is intended to be omitted in the law.
+
+SB 1482 2
+15 legally responsible for the overall operation of the adult
+16 day care program;
+17 (5) "Department", the department of health and senior
+18 services;
+19 (6) "Financial exploitation", when a person knowingly
+20 obtains control over the property of a participant with the
+21 intent to deprive the participant of the use, benefit, or
+22 possession of his or her property, thereby benefitting the
+23 offender or detrimentally affecting the participant by means
+24 of:
+25 (a) Deceit;
+26 (b) Coercion;
+27 (c) Creating or confirming another person's impression
+28 that is false and that the offender does not believe to be
+29 true;
+30 (d) Failing to correct a false impression that the
+31 offender previously has created or confirmed;
+32 (e) Preventing another person from acquiring
+33 information pertinent to the disposition of the property
+34 involved;
+35 (f) Selling or otherwise transferring or encumbering
+36 property, or failing to disclose a lien, adverse claim, or
+37 other legal impediment to the enjoyment of the property,
+38 whether such impediment is or is not valid or is or is not a
+39 matter of official record;
+40 (g) Promising performance that the offender does not
+41 intend to perform or knows will not be performed. Failure
+42 to perform on its own shall not be sufficient evidence to
+43 prove that the offender did not intend to perform; or
+44 (h) Undue influence, which means the use of influence
+45 by someone who exercises authority over a participant in
+46 order to take unfair advantage of that person's vulnerable
+
+SB 1482 3
+47 state of mind, neediness, pain, or agony. Undue influence
+48 includes, but is not limited to, the improper or fraudulent
+49 use of a power of attorney, guardianship, conservatorship,
+50 or other fiduciary authority;
+51 (7) "Functionally impaired adult", an adult who by
+52 reason of age or infirmity requires care and supervision;
+53 [(7)] (8) "License", the document issued by the
+54 department in accordance with the provisions of sections
+55 192.2200 to [192.2260] 192.2275 to an adult day care program
+56 which authorizes the adult day care provider to operate the
+57 program in accordance with the provisions of sections
+58 192.2200 to [192.2260] 192.2275 and the applicable rules
+59 promulgated pursuant thereto;
+60 (9) "Neglect", the failure to provide, by those
+61 responsible for the care, custody, and control of a
+62 participant in an adult day care program, the services that
+63 are reasonable and necessary to maintain the physical and
+64 mental health of the participant, when such failure presents
+65 either an imminent danger to the health, safety, or welfare
+66 of the participant or a substantial probability that death
+67 or serious physical harm would result;
+68 [(8)] (10) "Operator", any person licensed or required
+69 to be licensed under the provisions of sections 192.2200 to
+70 [192.2260] 192.2275 in order to establish, conduct, or
+71 maintain an adult day care program;
+72 [(9)] (11) "Participant", a functionally impaired
+73 adult who is enrolled in an adult day care program;
+74 [(10)] (12) "Person", any individual, firm,
+75 corporation, partnership, association, agency, or an
+76 incorporated or unincorporated organization regardless of
+77 the name used;
+
+SB 1482 4
+78 [(11)] (13) "Related", any of the following by blood,
+79 marriage or adoption: parent, child, grandchild, brother,
+80 sister, half-brother, half-sister, stepparent, uncle, aunt,
+81 niece, nephew, or first cousin;
+82 [(12)] (14) "Staff participant ratio", the number of
+83 adult care staff required by the department in relation to
+84 the number of adults being cared for by such staff;
+85 [(13)] (15) "Substantial noncompliance", any violation
+86 of a class I or class II standard or twenty or more
+87 violations of class III standards.
+1 192.2256. 1. When any advanced emergency medical
+2 technician; adult day care worker; bank personnel;
+3 chiropractor; Christian Science practitioner; coroner;
+4 dentist; embalmer; emergency medical technician; employee of
+5 the departments of social services, mental health, or health
+6 and senior services; employee of a local area agency on
+7 aging or an organized area agency on aging program;
+8 firefighter; first responder, as defined in section
+9 192.2405; funeral director; home health agency or home
+10 health agency employee; hospital and clinic personnel
+11 engaged in examination, care, or treatment of persons; in-
+12 home services owner, provider, operator, or employee; law
+13 enforcement officer; long-term care facility administrator
+14 or employee; medical examiner; medical resident or intern;
+15 mental health professional; minister; nurse; nurse
+16 practitioner; optometrist; other health practitioner;
+17 paramedic; peace officer; pharmacist; physical therapist;
+18 physician; physician's assistant; podiatrist; probation or
+19 parole officer; psychologist; social worker; or other person
+20 with the care of a person sixty years of age or older or an
+21 eligible adult, as defined in section 192.2400, has
+22 reasonable cause to believe that a participant of an adult
+
+SB 1482 5
+23 day care program has been abused or neglected, he or she
+24 shall immediately report or cause a report to be made to the
+25 department.
+26 2. The report shall contain the name and address of
+27 the adult day care program, the name of the participant,
+28 information regarding the nature of the abuse or neglect,
+29 the name of the complainant, and any other information that
+30 may be helpful in an investigation.
+31 3. Any person required in subsection 1 of this section
+32 to report or cause a report to be made to the department who
+33 knowingly fails to make a report within a reasonable time
+34 after the act of abuse or neglect as required in this
+35 section is guilty of a class A misdemeanor.
+36 4. In addition to the penalties imposed by this
+37 section, any adult day care operator who knowingly conceals
+38 any act of abuse or neglect resulting in death or serious
+39 physical injury, as defined in section 556.061, is guilty of
+40 a class E felony.
+41 5. In addition to those persons required to report
+42 pursuant to subsection 1 of this section, any other person
+43 having reasonable cause to believe that a participant has
+44 been abused or neglected may report such information to the
+45 department.
+46 6. Upon receipt of a report, the department shall
+47 initiate an investigation within twenty-four hours and, as
+48 soon as possible during the course of the investigation,
+49 shall notify the participant's next of kin or responsible
+50 party of the report and the investigation and further notify
+51 them whether the report was substantiated or
+52 unsubstantiated, unless such person is the alleged
+53 perpetrator of the abuse or neglect. As provided in section
+54 192.2425, substantiated reports of elder abuse shall be
+
+SB 1482 6
+55 promptly reported by the department to the appropriate law
+56 enforcement agency and prosecutor.
+57 7. Reports, including investigation records, shall be
+58 confidential, as provided under section 192.2500.
+59 8. Anyone, except any person who has abused or
+60 neglected a participant in an adult day care program, who
+61 makes a report under this section or who testifies in any
+62 administrative or judicial proceeding arising from the
+63 report shall be immune from any civil or criminal liability
+64 for making such a report or for testifying except for
+65 liability for perjury, unless such person acted negligently,
+66 recklessly, in bad faith, or with malicious purpose. It is
+67 an offense under section 565.189 for any person to knowingly
+68 file a false report of elder abuse or neglect.
+69 9. Within five working days after a report required to
+70 be made under this section is received, the person making
+71 the report shall be notified in writing of its receipt and
+72 of the initiation of the investigation.
+73 10. No person who directs or exercises any authority
+74 in an adult day care program shall evict, harass, dismiss,
+75 or retaliate against a participant or employee because such
+76 participant or employee or any member of such participant's
+77 or employee's family has made a report of any violation or
+78 suspected violation of laws, ordinances, or regulations
+79 applying to the adult day care program that the participant,
+80 the participant's family, or an employee has reasonable
+81 cause to believe has been committed or has occurred.
+82 Through the existing department information and referral
+83 telephone contact line, participants, their families, and
+84 employees of an adult day care program shall be able to
+85 obtain information about their rights, protections, and
+
+SB 1482 7
+86 options in cases of harassment, dismissal, or retaliation
+87 due to a report being made under this section.
+88 11. Any person who abuses or neglects a participant of
+89 an adult day care program is subject to criminal prosecution
+90 under section 565.184.
+91 12. The department shall maintain the employee
+92 disqualification list and place on the employee
+93 disqualification list the names of any persons who are or
+94 have been employed in any adult day care program and who
+95 have been finally determined by the department under section
+96 192.2490 to have knowingly or recklessly abused or neglected
+97 a participant. A person acts "knowingly" with respect to
+98 the person's conduct when a reasonable person should be
+99 aware of the result caused by his or her conduct. A person
+100 acts "recklessly" when the person consciously disregards a
+101 substantial and unjustifiable risk that the person's conduct
+102 will result in serious physical injury and such disregard
+103 constitutes a gross deviation from the standard of care that
+104 a reasonable person would exercise in the situation.
+105 13. The timely self-reporting of incidents to the
+106 central registry by an adult day care program shall continue
+107 to be investigated in accordance with department policy, and
+108 shall not be counted or reported by the department as a hot-
+109 line call but rather a self-reported incident. If the self-
+110 reported incident results in a regulatory violation, such
+111 incident shall be reported as a substantiated report.
+1 192.2257. 1. Any person having reasonable cause to
+2 believe that a misappropriation of a participant of an adult
+3 day care program's property or funds has occurred shall
+4 report such information to the department.
+5 2. For each report the department shall attempt to
+6 obtain the names and addresses of the adult day care
+
+SB 1482 8
+7 program, the employee of the adult day care program, the
+8 participant of the adult day care program, information
+9 regarding the nature of the misappropriation, the name of
+10 the complainant, and any other information that may be
+11 helpful in an investigation.
+12 3. Any adult day care program or adult day care
+13 program employee who puts to his or her own use or the use
+14 of the adult day care program or otherwise diverts from the
+15 adult day care program participant's use any personal
+16 property or funds of the adult day care program participant
+17 is guilty of a class A misdemeanor.
+18 4. Upon receipt of a report, the department shall
+19 initiate an investigation and report information gained from
+20 such investigation to appropriate law enforcement
+21 authorities.
+22 5. If the investigation indicates probable
+23 misappropriation of property or funds of an adult day care
+24 program participant, the investigator shall refer the
+25 complaint together with the investigator's report to the
+26 department director or the director's designee for
+27 appropriate action.
+28 6. Reports, including investigation records, shall be
+29 confidential, as provided under section 192.2500.
+30 7. Anyone, except any person participating in or
+31 benefitting from the misappropriation of funds, who makes a
+32 report under this section or who testifies in any
+33 administrative or judicial proceeding arising from the
+34 report shall be immune from any civil or criminal liability
+35 for making such a report or for testifying except for
+36 liability for perjury, unless such person acted negligently,
+37 recklessly, in bad faith, or with malicious purpose.
+
+SB 1482 9
+38 8. Within five working days after a report required to
+39 be made under this section is received, the person making
+40 the report shall be notified in writing of its receipt and
+41 of the initiation of the investigation.
+42 9. No person who directs or exercises any authority in
+43 an adult day care program shall harass, dismiss, or
+44 retaliate against an adult day care program participant or
+45 employee because he or she or any member of his or her
+46 family has made a report of any violation or suspected
+47 violation of laws, ordinances, or regulations applying to
+48 the adult day care program or any adult day care program
+49 employee that he or she has reasonable cause to believe has
+50 been committed or has occurred.
+51 10. The department shall maintain the employee
+52 disqualification list and place on the employee
+53 disqualification list the names of any persons who are or
+54 have been employed by an adult day care program and who have
+55 been finally determined by the department under section
+56 192.2490 to have misappropriated any property or funds of an
+57 adult day care program participant and who came to be known
+58 to the person, directly or indirectly, while employed by an
+59 adult day care program.
+1 192.2400. As used in sections 192.2400 to 192.2505,
+2 the following terms mean:
+3 (1) "Abuse", the infliction of physical, sexual, or
+4 emotional injury or harm, including financial exploitation
+5 by any person, firm, or corporation and bullying;
+6 (2) "Bullying", intimidation or harassment that causes
+7 a reasonable person to fear for his or her physical safety
+8 or property and may consist of physical actions including
+9 gestures; cyberbullying; oral, electronic, or written
+
+SB 1482 10
+10 communication; and any threat of retaliation for reporting
+11 of such acts;
+12 (3) "Court", the circuit court;
+13 (4) "Department", the department of health and senior
+14 services;
+15 (5) "Director", director of the department of health
+16 and senior services or his or her designees;
+17 (6) "Financial exploitation", when a person knowingly
+18 obtains control over the property of an eligible adult with
+19 the intent to deprive the eligible adult of the use,
+20 benefit, or possession of his or her property, thereby
+21 benefitting the offender or detrimentally affecting the
+22 eligible adult by:
+23 (a) Deceit;
+24 (b) Coercion;
+25 (c) Creating or confirming another person's impression
+26 that is false and that the offender does not believe to be
+27 true;
+28 (d) Failing to correct a false impression that the
+29 offender previously has created or confirmed;
+30 (e) Preventing another person from acquiring
+31 information pertinent to the disposition of the property
+32 involved;
+33 (f) Selling or otherwise transferring or encumbering
+34 property or failing to disclose a lien, adverse claim, or
+35 other legal impediment to the enjoyment of the property,
+36 whether such impediment is or is not valid or is or is not a
+37 matter of official record;
+38 (g) Promising performance that the offender does not
+39 intend to perform or knows will not be performed. Failure
+40 to perform on its own shall not be sufficient evidence to
+41 prove that the offender did not intend to perform; or
+
+SB 1482 11
+42 (h) Undue influence, which means the use of influence
+43 by someone who exercises authority over an eligible adult in
+44 order to take unfair advantage of that person's vulnerable
+45 state of mind, neediness, pain, or agony. Undue influence
+46 includes, but is not limited to, the improper or fraudulent
+47 use of a power of attorney, guardianship, conservatorship,
+48 or other fiduciary authority;
+49 (7) "Eligible adult", a person sixty years of age or
+50 older who is unable to protect his or her own interests or
+51 adequately perform or obtain services which are necessary to
+52 meet his or her essential human needs or an adult with a
+53 disability, as defined in section 192.2005, between the ages
+54 of eighteen and fifty-nine who is unable to protect his or
+55 her own interests or adequately perform or obtain services
+56 which are necessary to meet his or her essential human needs;
+57 [(7)] (8) "Home health agency", the same meaning as
+58 such term is defined in section 197.400;
+59 [(8)] (9) "Home health agency employee", a person
+60 employed by a home health agency;
+61 [(9)] (10) "Home health patient", an eligible adult
+62 who is receiving services through any home health agency;
+63 [(10)] (11) "In-home services client", an eligible
+64 adult who is receiving services in his or her private
+65 residence through any in-home services provider agency;
+66 [(11)] (12) "In-home services employee", a person
+67 employed by an in-home services provider agency;
+68 [(12)] (13) "In-home services provider agency", a
+69 business entity under contract with the department or with a
+70 Medicaid participation agreement, which employs persons to
+71 deliver any kind of services provided for eligible adults in
+72 their private homes;
+
+SB 1482 12
+73 [(13)] (14) "Least restrictive environment", a
+74 physical setting where protective services for the eligible
+75 adult and accommodation is provided in a manner no more
+76 restrictive of an individual's personal liberty and no more
+77 intrusive than necessary to achieve care and treatment
+78 objectives;
+79 [(14)] (15) "Likelihood of serious physical harm", one
+80 or more of the following:
+81 (a) A substantial risk that physical harm to an
+82 eligible adult will occur because of his or her failure or
+83 inability to provide for his or her essential human needs as
+84 evidenced by acts or behavior which has caused such harm or
+85 which gives another person probable cause to believe that
+86 the eligible adult will sustain such harm;
+87 (b) A substantial risk that physical harm will be
+88 inflicted by an eligible adult upon himself or herself, as
+89 evidenced by recent credible threats, acts, or behavior
+90 which has caused such harm or which places another person in
+91 reasonable fear that the eligible adult will sustain such
+92 harm;
+93 (c) A substantial risk that physical harm will be
+94 inflicted by another upon an eligible adult as evidenced by
+95 recent acts or behavior which has caused such harm or which
+96 gives another person probable cause to believe the eligible
+97 adult will sustain such harm;
+98 (d) A substantial risk that further physical harm will
+99 occur to an eligible adult who has suffered physical injury,
+100 neglect, sexual or emotional abuse, or other maltreatment or
+101 wasting of his or her financial resources by another person;
+102 [(15)] (16) "Neglect", the failure to provide services
+103 to an eligible adult by any person, firm or corporation with
+104 a legal or contractual duty to do so, when such failure
+
+SB 1482 13
+105 presents either an imminent danger to the health, safety, or
+106 welfare of the client or a substantial probability that
+107 death or serious physical harm would result;
+108 [(16)] (17) "Protective services", services provided
+109 by the state or other governmental or private organizations
+110 or individuals which are necessary for the eligible adult to
+111 meet his or her essential human needs.
+1 192.2475. 1. When any advanced emergency medical
+2 technician; adult day care worker; bank personnel;
+3 chiropractor; Christian Science practitioner; coroner;
+4 dentist; embalmer; emergency medical technician; employee of
+5 the departments of social services, mental health, or health
+6 and senior services; employee of a local area agency on
+7 aging or an organized area agency on aging program;
+8 firefighter; first responder, as defined in section
+9 192.2405; funeral director; home health agency or home
+10 health agency employee; hospital and clinic personnel
+11 engaged in examination, care, or treatment of persons; in-
+12 home services owner, provider, operator, or employee; law
+13 enforcement officer; long-term care facility administrator
+14 or employee; medical examiner; medical resident or intern;
+15 mental health professional; minister; nurse; nurse
+16 practitioner; paramedic; optometrist; other health
+17 practitioner; peace officer; pharmacist; physical therapist;
+18 physician; physician's assistant; podiatrist; probation or
+19 parole officer; psychologist; or social worker has
+20 reasonable cause to believe that an in-home services client
+21 has been abused or neglected, as a result of in-home
+22 services, he or she shall immediately report or cause a
+23 report to be made to the department. If the report is made
+24 by a physician of the in-home services client, the
+
+SB 1482 14
+25 department shall maintain contact with the physician
+26 regarding the progress of the investigation.
+27 2. Any person required in subsection 1 of this section
+28 to report or cause a report to be made to the department who
+29 fails to do so within a reasonable time after the act of
+30 abuse or neglect is guilty of a class A misdemeanor.
+31 3. The report shall contain the names and addresses of
+32 the in-home services provider agency, the in-home services
+33 employee, the in-home services client, the home health
+34 agency, the home health agency employee, information
+35 regarding the nature of the abuse or neglect, the name of
+36 the complainant, and any other information which might be
+37 helpful in an investigation.
+38 4. In addition to those persons required to report
+39 under subsection 1 of this section, any other person having
+40 reasonable cause to believe that an in-home services client
+41 or home health patient has been abused or neglected by an in-
+42 home services employee or home health agency employee may
+43 report such information to the department.
+44 5. If the investigation indicates possible abuse or
+45 neglect of an in-home services client or home health
+46 patient, the investigator shall refer the complaint together
+47 with his or her report to the department director or his or
+48 her designee for appropriate action. If, during the
+49 investigation or at its completion, the department has
+50 reasonable cause to believe that immediate action is
+51 necessary to protect the in-home services client or home
+52 health patient from abuse or neglect, the department or the
+53 local prosecuting attorney may, or the attorney general upon
+54 request of the department shall, file a petition for
+55 temporary care and protection of the in-home services client
+56 or home health patient in a circuit court of competent
+
+SB 1482 15
+57 jurisdiction. The circuit court in which the petition is
+58 filed shall have equitable jurisdiction to issue an ex parte
+59 order granting the department authority for the temporary
+60 care and protection of the in-home services client or home
+61 health patient, for a period not to exceed thirty days.
+62 6. Reports, including investigation records, shall be
+63 confidential, as provided under section 192.2500.
+64 7. Anyone, except any person who has abused or
+65 neglected an in-home services client or home health patient,
+66 who makes a report pursuant to this section or who testifies
+67 in any administrative or judicial proceeding arising from
+68 the report shall be immune from any civil or criminal
+69 liability for making such a report or for testifying except
+70 for liability for perjury, unless such person acted
+71 negligently, recklessly, in bad faith, or with malicious
+72 purpose.
+73 8. Within five working days after a report required to
+74 be made under this section is received, the person making
+75 the report shall be notified in writing of its receipt and
+76 of the initiation of the investigation.
+77 9. No person who directs or exercises any authority in
+78 an in-home services provider agency or home health agency
+79 shall harass, dismiss or retaliate against an in-home
+80 services client or home health patient, or an in-home
+81 services employee or a home health agency employee because
+82 he or she or any member of his or her family has made a
+83 report of any violation or suspected violation of laws,
+84 standards or regulations applying to the in-home services
+85 provider agency or home health agency or any in-home
+86 services employee or home health agency employee which he or
+87 she has reasonable cause to believe has been committed or
+88 has occurred.
+
+SB 1482 16
+89 10. Any person who abuses or neglects an in-home
+90 services client or home health patient is subject to
+91 criminal prosecution under section 565.184. If such person
+92 is an in-home services employee and has been found guilty by
+93 a court, and if the supervising in-home services provider
+94 willfully and knowingly failed to report known abuse by such
+95 employee to the department, the supervising in-home services
+96 provider may be subject to administrative penalties of one
+97 thousand dollars per violation to be collected by the
+98 department and the money received therefor shall be paid to
+99 the director of revenue and deposited in the state treasury
+100 to the credit of the general revenue fund. Any in-home
+101 services provider which has had administrative penalties
+102 imposed by the department or which has had its contract
+103 terminated may seek an administrative review of the
+104 department's action pursuant to chapter 621. Any decision
+105 of the administrative hearing commission may be appealed to
+106 the circuit court in the county where the violation occurred
+107 for a trial de novo. For purposes of this subsection, the
+108 term "violation" means a determination of guilt by a court.
+109 11. The department shall establish a quality assurance
+110 and supervision process for clients that requires an in-home
+111 services provider agency to conduct random visits to verify
+112 compliance with program standards and verify the accuracy of
+113 records kept by an in-home services employee.
+114 12. The department shall maintain the employee
+115 disqualification list and place on the employee
+116 disqualification list the names of any persons who have been
+117 finally determined by the department, pursuant to section
+118 192.2490, to have recklessly, knowingly or purposely abused
+119 or neglected an in-home services client or home health
+120 patient while employed by an in-home services provider
+
+SB 1482 17
+121 agency or home health agency. For purposes of this section
+122 only, "knowingly" and "recklessly" shall have the meanings
+123 that are ascribed to them in this section. A person acts
+124 "knowingly" with respect to the person's conduct when a
+125 reasonable person should be aware of the result caused by
+126 his or her conduct. A person acts "recklessly" when the
+127 person consciously disregards a substantial and
+128 unjustifiable risk that the person's conduct will result in
+129 serious physical injury and such disregard constitutes a
+130 gross deviation from the standard of care that a reasonable
+131 person would exercise in the situation.
+132 13. At the time a client has been assessed to
+133 determine the level of care as required by rule and is
+134 eligible for in-home services, the department shall conduct
+135 a safe at home evaluation to determine the client's
+136 physical, mental, and environmental capacity. The
+137 department shall develop the safe at home evaluation tool by
+138 rule in accordance with chapter 536. The purpose of the
+139 safe at home evaluation is to assure that each client has
+140 the appropriate level of services and professionals involved
+141 in the client's care. The plan of service or care for each
+142 in-home services client shall be authorized by a nurse. The
+143 department may authorize the licensed in-home services
+144 nurse, in lieu of the department nurse, to conduct the
+145 assessment of the client's condition and to establish a plan
+146 of services or care. The department may use the expertise,
+147 services, or programs of other departments and agencies on a
+148 case-by-case basis to establish the plan of service or
+149 care. The department may, as indicated by the safe at home
+150 evaluation, refer any client to a mental health
+151 professional, as defined in 9 CSR 30- 4.030, for evaluation
+152 and treatment as necessary.
+
+SB 1482 18
+153 14. Authorized nurse visits shall occur at least twice
+154 annually to assess the client and the client's plan of
+155 services. The provider nurse shall report the results of
+156 his or her visits to the client's case manager. If the
+157 provider nurse believes that the plan of service requires
+158 alteration, the department shall be notified and the
+159 department shall make a client evaluation. All authorized
+160 nurse visits shall be reimbursed to the in-home services
+161 provider. All authorized nurse visits shall be reimbursed
+162 outside of the nursing home cap for in-home services clients
+163 whose services have reached one hundred percent of the
+164 average statewide charge for care and treatment in an
+165 intermediate care facility, provided that the services have
+166 been preauthorized by the department.
+167 15. All in-home services clients shall be advised of
+168 their rights by the department or the department's designee
+169 at the initial evaluation. The rights shall include, but
+170 not be limited to, the right to call the department for any
+171 reason, including dissatisfaction with the provider or
+172 services. The department may contract for services relating
+173 to receiving such complaints. The department shall
+174 establish a process to receive such nonabuse and neglect
+175 calls other than the elder abuse and neglect hotline.
+176 16. Subject to appropriations, all nurse visits
+177 authorized in sections 192.2400 to 192.2475 shall be
+178 reimbursed to the in-home services provider agency.
+1 192.2490. 1. After an investigation and a
+2 determination has been made to place a person's name on the
+3 employee disqualification list, that person shall be
+4 notified in writing mailed to his or her last known address
+5 that:
+
+SB 1482 19
+6 (1) An allegation has been made against the person,
+7 the substance of the allegation and that an investigation
+8 has been conducted which tends to substantiate the
+9 allegation;
+10 (2) The person's name will be included in the employee
+11 disqualification list of the department;
+12 (3) The consequences of being so listed including the
+13 length of time to be listed; and
+14 (4) The person's rights and the procedure to challenge
+15 the allegation.
+16 2. If no reply has been received within thirty days of
+17 mailing the notice, the department may include the name of
+18 such person on its list. The length of time the person's
+19 name shall appear on the employee disqualification list
+20 shall be determined by the director or the director's
+21 designee, based upon the criteria contained in subsection 9
+22 of this section.
+23 3. If the person so notified wishes to challenge the
+24 allegation, such person may file an application for a
+25 hearing with the department. The department shall grant the
+26 application within thirty days after receipt by the
+27 department and set the matter for hearing, or the department
+28 shall notify the applicant that, after review, the
+29 allegation has been held to be unfounded and the applicant's
+30 name will not be listed.
+31 4. If a person's name is included on the employee
+32 disqualification list without the department providing
+33 notice as required under subsection 1 of this section, such
+34 person may file a request with the department for removal of
+35 the name or for a hearing. Within thirty days after receipt
+36 of the request, the department shall either remove the name
+37 from the list or grant a hearing and set a date therefor.
+
+SB 1482 20
+38 5. [Any hearing shall] The director of the department
+39 or the director's designee shall conduct any hearing by
+40 telephone or electronic means, unless the person submits a
+41 written request for the hearing to be conducted in the
+42 county of the person's residence [by the director of the
+43 department or the director's designee]. The provisions of
+44 chapter 536 for a contested case except those provisions or
+45 amendments which are in conflict with this section shall
+46 apply to and govern the proceedings contained in this
+47 section and the rights and duties of the parties involved.
+48 The person appealing such an action shall be entitled to
+49 present evidence, pursuant to the provisions of chapter 536,
+50 relevant to the allegations.
+51 6. Upon the record made at the hearing, the director
+52 of the department or the director's designee shall determine
+53 all questions presented and shall determine whether the
+54 person shall be listed on the employee disqualification
+55 list. The director of the department or the director's
+56 designee shall clearly state the reasons for his or her
+57 decision and shall include a statement of findings of fact
+58 and conclusions of law pertinent to the questions in issue.
+59 7. A person aggrieved by the decision following the
+60 hearing shall be informed of his or her right to seek
+61 judicial review as provided under chapter 536. If the
+62 person fails to appeal the director's findings, those
+63 findings shall constitute a final determination that the
+64 person shall be placed on the employee disqualification list.
+65 8. A decision by the director shall be inadmissible in
+66 any civil action brought against a facility or the in-home
+67 services provider agency and arising out of the facts and
+68 circumstances which brought about the employment
+69 disqualification proceeding, unless the civil action is
+
+SB 1482 21
+70 brought against the facility or the in-home services
+71 provider agency by the department of health and senior
+72 services or one of its divisions.
+73 9. The length of time the person's name shall appear
+74 on the employee disqualification list shall be determined by
+75 the director of the department of health and senior services
+76 or the director's designee, based upon the following:
+77 (1) Whether the person acted recklessly or knowingly,
+78 as defined in chapter 562;
+79 (2) The degree of the physical, sexual, or emotional
+80 injury or harm; or the degree of the imminent danger to the
+81 health, safety or welfare of a resident or in-home services
+82 client;
+83 (3) The degree of misappropriation of the property or
+84 funds, or falsification of any documents for service
+85 delivery of an in-home services client;
+86 (4) Whether the person has previously been listed on
+87 the employee disqualification list;
+88 (5) Any mitigating circumstances;
+89 (6) Any aggravating circumstances; and
+90 (7) Whether alternative sanctions resulting in
+91 conditions of continued employment are appropriate in lieu
+92 of placing a person's name on the employee disqualification
+93 list. Such conditions of employment may include, but are
+94 not limited to, additional training and employee
+95 counseling. Conditional employment shall terminate upon the
+96 expiration of the designated length of time and the person's
+97 submitting documentation which fulfills the department of
+98 health and senior services' requirements.
+99 10. The removal of any person's name from the list
+100 under this section shall not prevent the director from
+
+SB 1482 22
+101 keeping records of all acts finally determined to have
+102 occurred under this section.
+103 11. The department shall provide the list maintained
+104 pursuant to this section to other state departments upon
+105 request and to any person, corporation, organization, or
+106 association who:
+107 (1) Is licensed as an operator under chapter 198;
+108 (2) Provides in-home services under contract with the
+109 department of social services or its divisions;
+110 (3) Employs health care providers as defined in
+111 section 376.1350 for temporary or intermittent placement in
+112 health care facilities;
+113 (4) Is approved by the department to issue
+114 certificates for nursing assistants training;
+115 (5) Is an entity licensed under chapter 197;
+116 (6) Is a recognized school of nursing, medicine, or
+117 other health profession for the purpose of determining
+118 whether students scheduled to participate in clinical
+119 rotations with entities described in subdivision (1), (2),
+120 or (5) of this subsection are included in the employee
+121 disqualification list; or
+122 (7) Is a consumer reporting agency regulated by the
+123 federal Fair Credit Reporting Act that conducts employee
+124 background checks on behalf of entities listed in this
+125 subsection. Such a consumer reporting agency shall conduct
+126 the employee disqualification list check only upon the
+127 initiative or request of an entity described in this
+128 subsection when the entity is fulfilling its duties required
+129 under this section.
+130 The information shall be disclosed only to the requesting
+131 entity. The department shall inform any person listed above
+
+SB 1482 23
+132 who inquires of the department whether or not a particular
+133 name is on the list. The department may require that the
+134 request be made in writing or by electronic means. No
+135 person, corporation, organization, or association who is
+136 entitled to access the employee disqualification list may
+137 disclose the information to any person, corporation,
+138 organization, or association who is not entitled to access
+139 the list. Any person, corporation, organization, or
+140 association who is entitled to access the employee
+141 disqualification list who discloses the information to any
+142 person, corporation, organization, or association who is not
+143 entitled to access the list shall be guilty of an infraction.
+144 12. No person, corporation, organization, or
+145 association who received the employee disqualification list
+146 under subdivisions (1) to (7) of subsection 11 of this
+147 section shall knowingly employ any person who is on the
+148 employee disqualification list. Any person, corporation,
+149 organization, or association who received the employee
+150 disqualification list under subdivisions (1) to (7) of
+151 subsection 11 of this section, or any person responsible for
+152 providing health care service, who declines to employ or
+153 terminates a person whose name is listed in this section
+154 shall be immune from suit by that person or anyone else
+155 acting for or in behalf of that person for the failure to
+156 employ or for the termination of the person whose name is
+157 listed on the employee disqualification list.
+158 13. Any employer or vendor as defined or described in
+159 sections 197.250, 197.400, 198.006, 208.900, or 192.2400
+160 required to deny employment to an applicant or to discharge
+161 an employee, provisional or otherwise, as a result of
+162 information obtained through any portion of the background
+163 screening and employment eligibility determination process
+
+SB 1482 24
+164 under section 210.903, or subsequent, periodic screenings,
+165 shall not be liable in any action brought by the applicant
+166 or employee relating to discharge where the employer is
+167 required by law to terminate the employee, provisional or
+168 otherwise, and shall not be charged for unemployment
+169 insurance benefits based on wages paid to the employee for
+170 work prior to the date of discharge, pursuant to section
+171 288.100, if the employer terminated the employee because the
+172 employee:
+173 (1) Has been found guilty, pled guilty or nolo
+174 contendere in this state or any other state of a crime as
+175 listed in subsection 6 of section 192.2495;
+176 (2) Was placed on the employee disqualification list
+177 under this section after the date of hire;
+178 (3) Was placed on the employee disqualification
+179 registry maintained by the department of mental health after
+180 the date of hire;
+181 (4) Has a disqualifying finding under this section,
+182 section 192.2495, or is on any of the background check lists
+183 in the family care safety registry under sections 210.900 to
+184 210.936; or
+185 (5) Was denied a good cause waiver as provided for in
+186 subsection 10 of section 192.2495.
+187 14. Any person who has been listed on the employee
+188 disqualification list may request that the director of the
+189 department or the director's designee remove his or her name
+190 from the employee disqualification list. The request shall
+191 be written and may not be made more than once every twelve
+192 months. The request will be granted by the director of the
+193 department or the director's designee upon a clear showing,
+194 by written submission only, that the person will not commit
+195 additional acts of abuse, neglect, misappropriation of the
+
+SB 1482 25
+196 property or funds, or the falsification of any documents of
+197 service delivery to an in-home services client. The
+198 director of the department or the director's designee may
+199 make conditional the removal of a person's name from the
+200 list on any terms that the director of the department or the
+201 director's designee deems appropriate, and failure to comply
+202 with such terms may result in the person's name being
+203 relisted. The [director's] determination of whether to
+204 remove the person's name from the list is not subject to
+205 appeal.
+1 192.2495. 1. For the purposes of this section, the
+2 term "provider" means any person, corporation or association
+3 who:
+4 (1) Is licensed as an operator pursuant to chapter 198;
+5 (2) Provides in-home services under contract with the
+6 department of social services or its divisions;
+7 (3) Employs health care providers as defined in
+8 section 376.1350 for temporary or intermittent placement in
+9 health care facilities;
+10 (4) Is an entity licensed pursuant to chapter 197;
+11 (5) Is a public or private facility, day program,
+12 residential facility or specialized service operated, funded
+13 or licensed by the department of mental health; or
+14 (6) Is a licensed adult day care provider.
+15 2. For the purpose of this section "patient or
+16 resident" has the same meaning as such term is defined in
+17 section 43.539.
+18 3. Prior to allowing any person who has been hired as
+19 a full-time, part-time or temporary position to have contact
+20 with any patient or resident the provider shall, or in the
+21 case of temporary employees hired through or contracted for
+
+SB 1482 26
+22 an employment agency, the employment agency shall prior to
+23 sending a temporary employee to a provider:
+24 (1) Request a criminal background check as provided in
+25 section 43.540. Completion of an inquiry to the highway
+26 patrol for criminal records that are available for
+27 disclosure to a provider for the purpose of conducting an
+28 employee criminal records background check shall be deemed
+29 to fulfill the provider's duty to conduct employee criminal
+30 background checks pursuant to this section; except that,
+31 completing the inquiries pursuant to this subsection shall
+32 not be construed to exempt a provider from further inquiry
+33 pursuant to common law requirements governing due
+34 diligence. If an applicant has not resided in this state
+35 for five consecutive years prior to the date of his or her
+36 application for employment, the provider shall request a
+37 nationwide check for the purpose of determining if the
+38 applicant has a prior criminal history in other states. The
+39 fingerprint cards and any required fees shall be sent to the
+40 highway patrol's central repository. The fingerprints shall
+41 be used for searching the state repository of criminal
+42 history information. If no identification is made,
+43 fingerprints shall be forwarded to the Federal Bureau of
+44 Investigation for the searching of the federal criminal
+45 history files. The patrol shall notify the submitting state
+46 agency of any criminal history information or lack of
+47 criminal history information discovered on the individual.
+48 The provisions relating to applicants for employment who
+49 have not resided in this state for five consecutive years
+50 shall apply only to persons who have no employment history
+51 with a licensed Missouri facility during that five-year
+52 period. Notwithstanding the provisions of section 610.120,
+53 all records related to any criminal history information
+
+SB 1482 27
+54 discovered shall be accessible and available to the provider
+55 making the record request; and
+56 (2) Make an inquiry to the department of health and
+57 senior services whether the person is listed on the employee
+58 disqualification list as provided in section 192.2490.
+59 4. When the provider requests a criminal background
+60 check pursuant to section 43.540, the requesting entity may
+61 require that the applicant reimburse the provider for the
+62 cost of such record check. When a provider requests a
+63 nationwide criminal background check pursuant to subdivision
+64 (1) of subsection 3 of this section, the total cost to the
+65 provider of any background check required pursuant to this
+66 section shall not exceed five dollars which shall be paid to
+67 the state. State funding and the obligation of a provider
+68 to obtain a nationwide criminal background check shall be
+69 subject to the availability of appropriations.
+70 5. An applicant for a position to have contact with
+71 patients or residents of a provider shall:
+72 (1) Sign a consent form as required by section 43.540
+73 so the provider may request a criminal records review;
+74 (2) Disclose the applicant's criminal history. For
+75 the purposes of this subdivision "criminal history" includes
+76 any conviction or a plea of guilty to a misdemeanor or
+77 felony charge and shall include any suspended imposition of
+78 sentence, any suspended execution of sentence or any period
+79 of probation or parole;
+80 (3) Disclose if the applicant is listed on the
+81 employee disqualification list as provided in section
+82 192.2490; and
+83 (4) Disclose if the applicant is listed on any of the
+84 background checks in the family care safety registry
+85 established under section 210.903. A provider not otherwise
+
+SB 1482 28
+86 prohibited from employing an individual listed on such
+87 background checks may deny employment to an individual
+88 listed on any of the background checks in such registry.
+89 6. An applicant who knowingly fails to disclose his or
+90 her criminal history as required in subsection 5 of this
+91 section is guilty of a class A misdemeanor. A provider is
+92 guilty of a class A misdemeanor if the provider knowingly
+93 hires or retains a person to have contact with patients or
+94 residents and the person has been found guilty in this state
+95 or any other state or has been found guilty of a crime,
+96 which if committed in Missouri would be a class A or B
+97 felony violation of chapter 565, 566 or [569] 579, or any
+98 violation of subsection 3 of section 198.070 or sections
+99 565.184, 566.115, 566.116, or [section] 568.020.
+100 7. Any in-home services provider agency or home health
+101 agency shall be guilty of a class A misdemeanor if such
+102 agency knowingly employs a person to provide in-home
+103 services or home health services to any in-home services
+104 client or home health patient and such person either refuses
+105 to register with the family care safety registry or if such
+106 person:
+107 (1) Has any of the disqualifying factors listed in
+108 subsection 6 of this section;
+109 (2) Has been found guilty of or pleaded guilty or nolo
+110 contendere to any felony offense under chapter 195 or 579;
+111 (3) Has been found guilty of or pleaded guilty or nolo
+112 contendere to any felony offense under section 568.045,
+113 568.050, 568.060, 568.175, 570.023, 570.025, 570.030,
+114 570.040 as it existed prior to January 1, 2017, 570.090,
+115 570.145, 570.223, 575.230, or 576.080;
+116 (4) Has been found guilty of or pleaded guilty or nolo
+117 contendere to a violation of section 577.010 or 577.012 and
+
+SB 1482 29
+118 who is alleged and found by the court to be an aggravated or
+119 chronic offender under section 577.023;
+120 (5) Has been found guilty of or pleaded guilty or nolo
+121 contendere to any offense requiring registration under
+122 section [589.400] 589.414;
+123 (6) Is listed on the department of health and senior
+124 services employee disqualification list under section
+125 192.2490;
+126 (7) Is listed on the department of mental health
+127 employee disqualification registry under section 630.170; or
+128 (8) Has a finding on the child abuse and neglect
+129 registry under sections 210.109 to 210.183.
+130 8. The highway patrol shall examine whether protocols
+131 can be developed to allow a provider to request a statewide
+132 fingerprint criminal records review check through local law
+133 enforcement agencies.
+134 9. A provider may use a private investigatory agency
+135 rather than the highway patrol to do a criminal history
+136 records review check, and alternatively, the applicant pays
+137 the private investigatory agency such fees as the provider
+138 and such agency shall agree.
+139 10. Except for the hiring restriction based on the
+140 department of health and senior services employee
+141 disqualification list established pursuant to section
+142 192.2490, the department of health and senior services shall
+143 promulgate rules and regulations to waive the hiring
+144 restrictions pursuant to this section for good cause. For
+145 purposes of this section, "good cause" means the department
+146 has made a determination by examining the employee's prior
+147 work history and other relevant factors that such employee
+148 does not present a risk to the health or safety of residents.
+
+SB 1482 30
+1 192.2500. 1. Reports, including investigation
+2 records, confidential under [section] sections 192.2256,
+3 192.2257, 192.2475 to 192.2490, 197.550, 198.070, 198.090,
+4 208.912, 208.915, and [sections 192.2475 to 192.2490] any
+5 other record or report related to the inclusion of an
+6 individual on the employee disqualification list shall not
+7 be deemed a public record and shall not be subject to the
+8 provisions of section 109.180 or chapter 610. The name of
+9 the complainant or any person mentioned in the reports shall
+10 not be disclosed unless:
+11 (1) The complainant, resident, participant, patient,
+12 or the in-home services client mentioned agrees to
+13 disclosure of his or her name;
+14 (2) The department determines that disclosure is
+15 necessary in order to prevent further abuse, neglect,
+16 misappropriation of property or funds, or falsification of
+17 any documents verifying service delivery to an in-home
+18 services client;
+19 (3) Release of a name is required for conformance with
+20 a lawful subpoena;
+21 (4) Release of a name is required in connection with a
+22 review by the administrative hearing commission in
+23 accordance with section 198.039;
+24 (5) The department determines that release of a name
+25 is appropriate when forwarding a report of findings of an
+26 investigation to a licensing authority; or
+27 (6) Release of a name is requested for the purpose of
+28 licensure under chapter 210.
+29 2. The department shall, upon request, provide to the
+30 division of employment security within the department of
+31 labor and industrial relations copies of the investigative
+
+SB 1482 31
+32 reports that led to an employee being placed on the
+33 disqualification list.
+1 197.550. 1. Any person having reasonable cause to
+2 believe that a misappropriation of a patient's property or
+3 funds has occurred shall report such information to the
+4 department.
+5 2. For each report the department shall attempt to
+6 obtain the names and addresses of the facility or provider,
+7 the employee of the facility or provider, the patient of the
+8 facility or provider, information regarding the nature of
+9 the misappropriation, the name of the complainant, and any
+10 other information that may be helpful in an investigation.
+11 3. Any facility or provider licensed under this
+12 chapter or facility employee who puts to his or her own use
+13 or the use of the facility or provider or otherwise diverts
+14 from the patient's use any personal property or funds of the
+15 patient is guilty of a class A misdemeanor.
+16 4. Upon receipt of a report, the department shall
+17 initiate an investigation and report information gained from
+18 such investigation to appropriate law enforcement
+19 authorities.
+20 5. If the investigation indicates probable
+21 misappropriation of property or funds of a patient, the
+22 investigator shall refer the complaint together with the
+23 investigator's report to the department director or the
+24 director's designee for appropriate action.
+25 6. Reports, including investigation records, shall be
+26 confidential, as provided under section 192.2500.
+27 7. Anyone, except any person participating in or
+28 benefitting from the misappropriation of funds, who makes a
+29 report under this section or who testifies in any
+30 administrative or judicial proceeding arising from the
+
+SB 1482 32
+31 report shall be immune from any civil or criminal liability
+32 for making such a report or for testifying except for
+33 liability for perjury, unless such person acted negligently,
+34 recklessly, in bad faith, or with malicious purpose.
+35 8. Within five working days after a report required to
+36 be made under this section is received, the person making
+37 the report shall be notified in writing of its receipt and
+38 of the initiation of the investigation.
+39 9. No person who directs or exercises any authority in
+40 a facility or provider licensed under this chapter shall
+41 harass, dismiss, or retaliate against a patient or employee
+42 because he or she or any member of his or her family has
+43 made a report of any violation or suspected violation of
+44 laws, ordinances, or regulations applying to the facility,
+45 provider, or any employee which he or she has reasonable
+46 cause to believe has been committed or has occurred.
+47 10. The department shall maintain the employee
+48 disqualification list and place on the employee
+49 disqualification list the names of any persons who are or
+50 have been employed by a facility or provider licensed under
+51 this chapter and who have been finally determined by the
+52 department under section 192.2490 to have misappropriated
+53 any property or funds of a patient and who came to be known
+54 to the person, directly, or indirectly, while employed by
+55 the facility or provider.
+1 198.006. As used in sections 198.003 to 198.186,
+2 unless the context clearly indicates otherwise, the
+3 following terms mean:
+4 (1) "Abuse", the infliction of physical, sexual, or
+5 emotional injury or harm, including financial exploitation
+6 by any person, firm, or corporation;
+
+SB 1482 33
+7 (2) "Activities of daily living" or "ADL", one or more
+8 of the following activities of daily living:
+9 (a) Eating;
+10 (b) Dressing;
+11 (c) Bathing;
+12 (d) Toileting;
+13 (e) Transferring; and
+14 (f) Walking;
+15 (3) "Administrator", the person who is in general
+16 administrative charge of a facility;
+17 (4) "Affiliate":
+18 (a) With respect to a partnership, each partner
+19 thereof;
+20 (b) With respect to a limited partnership, the general
+21 partner and each limited partner with an interest of five
+22 percent or more in the limited partnership;
+23 (c) With respect to a corporation, each person who
+24 owns, holds or has the power to vote five percent or more of
+25 any class of securities issued by the corporation, and each
+26 officer and director;
+27 (d) With respect to a natural person, any parent,
+28 child, sibling, or spouse of that person;
+29 (5) "Appropriately trained and qualified individual",
+30 an individual who is licensed or registered with the state
+31 of Missouri in a health care-related field or an individual
+32 with a degree in a health care-related field or an
+33 individual with a degree in a health care, social services,
+34 or human services field or an individual licensed under
+35 chapter 344 and who has received facility orientation
+36 training under 19 CSR 30-86.047, and dementia training under
+37 section 192.2000 and twenty-four hours of additional
+38 training, approved by the department, consisting of
+
+SB 1482 34
+39 definition and assessment of activities of daily living,
+40 assessment of cognitive ability, service planning, and
+41 interview skills;
+42 (6) "Assisted living facility", any premises, other
+43 than a residential care facility, intermediate care
+44 facility, or skilled nursing facility, that is utilized by
+45 its owner, operator, or manager to provide twenty-four-hour
+46 care and services and protective oversight to three or more
+47 residents who are provided with shelter, board, and who may
+48 need and are provided with the following:
+49 (a) Assistance with any activities of daily living and
+50 any instrumental activities of daily living;
+51 (b) Storage, distribution, or administration of
+52 medications; and
+53 (c) Supervision of health care under the direction of
+54 a licensed physician, provided that such services are
+55 consistent with a social model of care;
+56 Such term shall not include a facility where all of the
+57 residents are related within the fourth degree of
+58 consanguinity or affinity to the owner, operator, or manager
+59 of the facility;
+60 (7) "Community-based assessment", documented basic
+61 information and analysis provided by appropriately trained
+62 and qualified individuals describing an individual's
+63 abilities and needs in activities of daily living,
+64 instrumental activities of daily living, vision/hearing,
+65 nutrition, social participation and support, and cognitive
+66 functioning using an assessment tool approved by the
+67 department of health and senior services that is designed
+68 for community-based services and that is not the nursing
+69 home minimum data set;
+
+SB 1482 35
+70 (8) "Dementia", a general term for the loss of
+71 thinking, remembering, and reasoning so severe that it
+72 interferes with an individual's daily functioning, and may
+73 cause symptoms that include changes in personality, mood,
+74 and behavior;
+75 (9) "Department", the Missouri department of health
+76 and senior services;
+77 (10) "Emergency", a situation, physical condition or
+78 one or more practices, methods or operations which presents
+79 imminent danger of death or serious physical or mental harm
+80 to residents of a facility;
+81 (11) "Facility", any residential care facility,
+82 assisted living facility, intermediate care facility, or
+83 skilled nursing facility;
+84 (12) "Financial exploitation", when a person knowingly
+85 obtains control over the property of a resident with the
+86 intent to deprive the resident of the use, benefit, or
+87 possession of his or her property, thereby benefitting the
+88 offender or detrimentally affecting the resident by:
+89 (a) Deceit;
+90 (b) Coercion;
+91 (c) Creating or confirming another person's impression
+92 that is false and that the offender does not believe to be
+93 true;
+94 (d) Failing to correct a false impression that the
+95 offender previously has created or confirmed;
+96 (e) Preventing another person from acquiring
+97 information pertinent to the disposition of the property
+98 involved;
+99 (f) Selling or otherwise transferring or encumbering
+100 property, or failing to disclose a lien, adverse claim, or
+101 other legal impediment to the enjoyment of the property,
+
+SB 1482 36
+102 whether such impediment is or is not valid or is or is not a
+103 matter of official record;
+104 (g) Promising performance that the offender does not
+105 intend to perform or knows will not be performed. Failure
+106 to perform on its own shall not be sufficient evidence to
+107 prove that the offender did not intend to perform; or
+108 (h) Undue influence, which means the use of influence
+109 by someone who exercises authority over a resident in order
+110 to take unfair advantage of that person's vulnerable state
+111 of mind, neediness, pain, or agony. Undue influence
+112 includes, but is not limited to, the improper or fraudulent
+113 use of a power of attorney, guardianship, conservatorship,
+114 or other fiduciary authority;
+115 (13) "Health care provider", any person providing
+116 health care services or goods to residents and who receives
+117 funds in payment for such goods or services under Medicaid;
+118 [(13)] (14) "Instrumental activities of daily living",
+119 or "IADL", one or more of the following activities:
+120 (a) Preparing meals;
+121 (b) Shopping for personal items;
+122 (c) Medication management;
+123 (d) Managing money;
+124 (e) Using the telephone;
+125 (f) Housework; and
+126 (g) Transportation ability;
+127 [(14)] (15) "Intermediate care facility", any
+128 premises, other than a residential care facility, assisted
+129 living facility, or skilled nursing facility, which is
+130 utilized by its owner, operator, or manager to provide
+131 twenty-four-hour accommodation, board, personal care, and
+132 basic health and nursing care services under the daily
+133 supervision of a licensed nurse and under the direction of a
+
+SB 1482 37
+134 licensed physician to three or more residents dependent for
+135 care and supervision and who are not related within the
+136 fourth degree of consanguinity or affinity to the owner,
+137 operator or manager of the facility;
+138 [(15)] (16) "Manager", any person other than the
+139 administrator of a facility who contracts or otherwise
+140 agrees with an owner or operator to supervise the general
+141 operation of a facility, providing such services as hiring
+142 and training personnel, purchasing supplies, keeping
+143 financial records, and making reports;
+144 [(16)] (17) "Medicaid", medical assistance under
+145 section 208.151, et seq., in compliance with Title XIX,
+146 Public Law 89-97, 1965 amendments to the Social Security Act
+147 (42 U.S.C. Section 301, et seq.), as amended;
+148 [(17)] (18) "Neglect", the failure to provide, by
+149 those responsible for the care, custody, and control of a
+150 resident in a facility, the services which are reasonable
+151 and necessary to maintain the physical and mental health of
+152 the resident, when such failure presents either an imminent
+153 danger to the health, safety or welfare of the resident or a
+154 substantial probability that death or serious physical harm
+155 would result;
+156 [(18)] (19) "Operator", any person licensed or
+157 required to be licensed under the provisions of sections
+158 198.003 to 198.096 in order to establish, conduct or
+159 maintain a facility;
+160 [(19)] (20) "Owner", any person who owns an interest
+161 of five percent or more in:
+162 (a) The land on which any facility is located;
+163 (b) The structure or structures in which any facility
+164 is located;
+
+SB 1482 38
+165 (c) Any mortgage, contract for deed, or other
+166 obligation secured in whole or in part by the land or
+167 structure in or on which a facility is located; or
+168 (d) Any lease or sublease of the land or structure in
+169 or on which a facility is located.
+170 Owner does not include a holder of a debenture or bond
+171 purchased at public issue nor does it include any regulated
+172 lender unless the entity or person directly or through a
+173 subsidiary operates a facility;
+174 [(20)] (21) "Protective oversight", an awareness
+175 twenty-four hours a day of the location of a resident, the
+176 ability to intervene on behalf of the resident, the
+177 supervision of nutrition, medication, or actual provisions
+178 of care, and the responsibility for the welfare of the
+179 resident, except where the resident is on voluntary leave;
+180 [(21)] (22) "Resident", a person who by reason of
+181 aging, illness, disease, or physical or mental infirmity
+182 receives or requires care and services furnished by a
+183 facility and who resides or boards in or is otherwise kept,
+184 cared for, treated or accommodated in such facility for a
+185 period exceeding twenty-four consecutive hours;
+186 [(22)] (23) "Residential care facility", any premises,
+187 other than an assisted living facility, intermediate care
+188 facility, or skilled nursing facility, which is utilized by
+189 its owner, operator or manager to provide twenty-four-hour
+190 care to three or more residents, who are not related within
+191 the fourth degree of consanguinity or affinity to the owner,
+192 operator, or manager of the facility and who need or are
+193 provided with shelter, board, and with protective oversight,
+194 which may include storage and distribution or administration
+195 of medications and care during short-term illness or
+
+SB 1482 39
+196 recuperation, except that, for purposes of receiving
+197 supplemental welfare assistance payments under section
+198 208.030, only any residential care facility licensed as a
+199 residential care facility II immediately prior to August 28,
+200 2006, and that continues to meet such licensure requirements
+201 for a residential care facility II licensed immediately
+202 prior to August 28, 2006, shall continue to receive after
+203 August 28, 2006, the payment amount allocated immediately
+204 prior to August 28, 2006, for a residential care facility II
+205 under section 208.030;
+206 [(23)] (24) "Skilled nursing facility", any premises,
+207 other than a residential care facility, an assisted living
+208 facility, or an intermediate care facility, which is
+209 utilized by its owner, operator or manager to provide for
+210 twenty-four-hour accommodation, board and skilled nursing
+211 care and treatment services to at least three residents who
+212 are not related within the fourth degree of consanguinity or
+213 affinity to the owner, operator or manager of the facility.
+214 Skilled nursing care and treatment services are those
+215 services commonly performed by or under the supervision of a
+216 registered professional nurse for individuals requiring
+217 twenty-four-hours-a-day care by licensed nursing personnel
+218 including acts of observation, care and counsel of the aged,
+219 ill, injured or infirm, the administration of medications
+220 and treatments as prescribed by a licensed physician or
+221 dentist, and other nursing functions requiring substantial
+222 specialized judgment and skill;
+223 [(24)] (25) "Social model of care", long-term care
+224 services based on the abilities, desires, and functional
+225 needs of the individual delivered in a setting that is more
+226 home-like than institutional and promotes the dignity,
+227 individuality, privacy, independence, and autonomy of the
+
+SB 1482 40
+228 individual. Any facility licensed as a residential care
+229 facility II prior to August 28, 2006, shall qualify as being
+230 more home-like than institutional with respect to
+231 construction and physical plant standards;
+232 [(25)] (26) "Vendor", any person selling goods or
+233 services to a health care provider;
+234 [(26)] (27) "Voluntary leave", an off-premise leave
+235 initiated by:
+236 (a) A resident that has not been declared mentally
+237 incompetent or incapacitated by a court; or
+238 (b) A legal guardian of a resident that has been
+239 declared mentally incompetent or incapacitated by a court.
+1 198.070. 1. When any advanced emergency medical
+2 technician; adult day care worker; bank personnel;
+3 chiropractor; Christian Science practitioner; coroner;
+4 dentist; embalmer; emergency medical technician; employee of
+5 the departments of social services, mental health, or health
+6 and senior services; employee of a local area agency on
+7 aging or an organized area agency on aging program;
+8 firefighter; first responder, as defined in section
+9 192.2405; funeral director; home health agency or home
+10 health agency employee; hospital and clinic personnel
+11 engaged in examination, care, or treatment of persons; in-
+12 home services owner, provider, operator, or employee; law
+13 enforcement officer; long-term care facility administrator
+14 or employee; medical examiner; medical resident or intern;
+15 mental health professional; minister; nurse; nurse
+16 practitioner; optometrist; other health practitioner;
+17 paramedic; peace officer; pharmacist; physical therapist;
+18 physician; physician's assistant; podiatrist; probation or
+19 parole officer; psychologist; social worker; or other person
+20 with the care of a person sixty years of age or older or an
+
+SB 1482 41
+21 eligible adult, as defined in section 192.2400, has
+22 reasonable cause to believe that a resident of a facility
+23 has been abused or neglected, he or she shall immediately
+24 report or cause a report to be made to the department.
+25 2. (1) The report shall contain the name and address
+26 of the facility, the name of the resident, information
+27 regarding the nature of the abuse or neglect, the name of
+28 the complainant, and any other information which might be
+29 helpful in an investigation.
+30 (2) In the event of suspected sexual assault of the
+31 resident, in addition to the report to be made to the
+32 department, a report shall be made to the appropriate local
+33 law enforcement agency in accordance with federal law under
+34 the provisions of 42 U.S.C. Section 1320b-25.
+35 3. Any person required in subsection 1 of this section
+36 to report or cause a report to be made to the department who
+37 knowingly fails to make a report within a reasonable time
+38 after the act of abuse or neglect as required in this
+39 subsection is guilty of a class A misdemeanor.
+40 4. In addition to the penalties imposed by this
+41 section, any administrator who knowingly conceals any act of
+42 abuse or neglect resulting in death or serious physical
+43 injury, as defined in section 556.061, is guilty of a class
+44 E felony.
+45 5. In addition to those persons required to report
+46 pursuant to subsection 1 of this section, any other person
+47 having reasonable cause to believe that a resident has been
+48 abused or neglected may report such information to the
+49 department.
+50 6. Upon receipt of a report, the department shall
+51 initiate an investigation within twenty-four hours and, as
+52 soon as possible during the course of the investigation,
+
+SB 1482 42
+53 shall notify the resident's next of kin or responsible party
+54 of the report and the investigation and further notify them
+55 whether the report was substantiated or unsubstantiated
+56 unless such person is the alleged perpetrator of the abuse
+57 or neglect. As provided in section 192.2425, substantiated
+58 reports of elder abuse shall be promptly reported by the
+59 department to the appropriate law enforcement agency and
+60 prosecutor.
+61 7. If the investigation indicates possible abuse or
+62 neglect of a resident, the investigator shall refer the
+63 complaint together with the investigator's report to the
+64 department director or the director's designee for
+65 appropriate action. If, during the investigation or at its
+66 completion, the department has reasonable cause to believe
+67 that immediate removal is necessary to protect the resident
+68 from abuse or neglect, the department or the local
+69 prosecuting attorney may, or the attorney general upon
+70 request of the department shall, file a petition for
+71 temporary care and protection of the resident in a circuit
+72 court of competent jurisdiction. The circuit court in which
+73 the petition is filed shall have equitable jurisdiction to
+74 issue an ex parte order granting the department authority
+75 for the temporary care and protection of the resident, for a
+76 period not to exceed thirty days.
+77 8. Reports, including investigation records, shall be
+78 confidential, as provided pursuant to section 192.2500.
+79 9. Anyone, except any person who has abused or
+80 neglected a resident in a facility, who makes a report
+81 pursuant to this section or who testifies in any
+82 administrative or judicial proceeding arising from the
+83 report shall be immune from any civil or criminal liability
+84 for making such a report or for testifying except for
+
+SB 1482 43
+85 liability for perjury, unless such person acted negligently,
+86 recklessly, in bad faith or with malicious purpose. It is a
+87 crime under section 565.189 for any person to knowingly file
+88 a false report of elder abuse or neglect.
+89 10. Within five working days after a report required
+90 to be made pursuant to this section is received, the person
+91 making the report shall be notified in writing of its
+92 receipt and of the initiation of the investigation.
+93 11. No person who directs or exercises any authority
+94 in a facility shall evict, harass, dismiss or retaliate
+95 against a resident or employee because such resident or
+96 employee or any member of such resident's or employee's
+97 family has made a report of any violation or suspected
+98 violation of laws, ordinances or regulations applying to the
+99 facility which the resident, the resident's family or an
+100 employee has reasonable cause to believe has been committed
+101 or has occurred. Through the existing department
+102 information and referral telephone contact line, residents,
+103 their families and employees of a facility shall be able to
+104 obtain information about their rights, protections and
+105 options in cases of eviction, harassment, dismissal or
+106 retaliation due to a report being made pursuant to this
+107 section.
+108 12. Any person who abuses or neglects a resident of a
+109 facility is subject to criminal prosecution under section
+110 565.184.
+111 13. The department shall maintain the employee
+112 disqualification list and place on the employee
+113 disqualification list the names of any persons who are or
+114 have been employed in any facility and who have been finally
+115 determined by the department pursuant to section 192.2490 to
+116 have knowingly or recklessly abused or neglected a
+
+SB 1482 44
+117 resident. For purposes of this section only, "knowingly"
+118 and "recklessly" shall have the meanings that are ascribed
+119 to them in this section. A person acts "knowingly" with
+120 respect to the person's conduct when a reasonable person
+121 should be aware of the result caused by his or her conduct.
+122 A person acts "recklessly" when the person consciously
+123 disregards a substantial and unjustifiable risk that the
+124 person's conduct will result in serious physical injury and
+125 such disregard constitutes a gross deviation from the
+126 standard of care that a reasonable person would exercise in
+127 the situation.
+128 14. The timely self-reporting of incidents to the
+129 central registry by a facility shall continue to be
+130 investigated in accordance with department policy, and shall
+131 not be counted or reported by the department as a hot-line
+132 call but rather a self-reported incident. If the self-
+133 reported incident results in a regulatory violation, such
+134 incident shall be reported as a substantiated report.
+1 208.912. 1. When any advanced emergency medical
+2 technician; adult day care worker; bank personnel;
+3 chiropractor[,]; Christian Science practitioner[,];
+4 coroner[,]; dentist[,]; embalmer[,]; emergency medical
+5 technician; employee of the departments of social services,
+6 mental health, or health and senior services; employee of a
+7 local area agency on aging or an organized area agency on
+8 aging program; firefighter; first responder, as defined in
+9 section 192.2405; funeral director; home health agency or
+10 home health agency employee; hospital and clinic personnel
+11 engaged in examination, care, or treatment of persons; in-
+12 home services owner, provider, operator, or employee; law
+13 enforcement officer; long-term care facility administrator
+14 or employee; medical examiner; medical resident or intern;
+
+SB 1482 45
+15 mental health professional; minister; nurse; nurse
+16 practitioner; optometrist; other health practitioner;
+17 paramedic; peace officer; pharmacist; physical therapist;
+18 physician; physician's assistant; podiatrist; probation or
+19 parole officer; psychologist; vendor as defined in section
+20 208.900; personal care attendant; or social worker has
+21 reasonable cause to believe that a consumer has been abused
+22 or neglected as defined in section 192.2400 as a result of
+23 the delivery of or failure to deliver personal care
+24 assistance services, he or she shall immediately report or
+25 cause a report to be made to the department. If the report
+26 is made by a physician of the consumer, the department shall
+27 maintain contact with the physician regarding the progress
+28 of the investigation.
+29 2. When a report of deteriorating physical condition
+30 resulting in possible abuse or neglect of a consumer is
+31 received by the department, the department's case manager
+32 and the department nurse shall be notified. The case
+33 manager shall investigate and immediately report the results
+34 of the investigation to the department nurse.
+35 3. If requested, local area agencies on aging shall
+36 provide volunteer training to those persons listed in
+37 subsection 1 of this section regarding the detection and
+38 reporting of abuse and neglect under this section.
+39 4. Any person required in subsection 1 of this section
+40 to report or cause a report to be made to the department who
+41 fails to do so within a reasonable time after the act of
+42 abuse or neglect is guilty of a class A misdemeanor.
+43 5. The report shall contain the names and addresses of
+44 the vendor, the personal care attendant, and the consumer,
+45 and information regarding the nature of the abuse or
+
+SB 1482 46
+46 neglect, the name of the complainant, and any other
+47 information which might be helpful in an investigation.
+48 6. In addition to those persons required to report
+49 under subsection 1 of this section, any other person having
+50 reasonable cause to believe that a consumer has been abused
+51 or neglected by a personal care attendant may report such
+52 information to the department.
+53 7. If the investigation indicates possible abuse or
+54 neglect of a consumer, the investigator shall refer the
+55 complaint together with his or her report to the department
+56 director or his or her designee for appropriate action. If,
+57 during the investigation or at its completion, the
+58 department has reasonable cause to believe that immediate
+59 action is necessary to protect the consumer from abuse or
+60 neglect, the department or the local prosecuting attorney
+61 may, or the attorney general upon request of the department
+62 shall, file a petition for temporary care and protection of
+63 the consumer in a circuit court of competent jurisdiction.
+64 The circuit court in which the petition is filed shall have
+65 equitable jurisdiction to issue an ex parte order granting
+66 the department authority for the temporary care and
+67 protection of the consumer, for a period not to exceed
+68 thirty days.
+69 8. Reports, including investigation reports, shall be
+70 confidential, as provided under section 192.2500.
+71 9. Anyone, except any person who has abused or
+72 neglected a consumer, who makes a report pursuant to this
+73 section or who testifies in any administrative or judicial
+74 proceeding arising from the report shall be immune from any
+75 civil or criminal liability for making such a report or for
+76 testifying, except for liability for perjury, unless such
+
+SB 1482 47
+77 person acted negligently, recklessly, in bad faith, or with
+78 malicious purpose.
+79 10. Within five working days after a report required
+80 to be made under this section is received, the person making
+81 the report shall be notified of its receipt and of the
+82 initiation of the investigation.
+83 11. No person who directs or exercises any authority
+84 as a vendor, and no personal care attendant, shall harass,
+85 dismiss or retaliate against a consumer because he or she or
+86 any member of his or her family has made a report of any
+87 violation or suspected violation of laws, standards or
+88 regulations applying to the vendor or personal care
+89 attendant which he or she has reasonable cause to believe
+90 has been committed or has occurred.
+91 12. The department shall place on the employee
+92 disqualification list established in section 192.2490 the
+93 names of any persons who have been finally determined by the
+94 department to have recklessly, knowingly or purposely abused
+95 or neglected a consumer while employed by a vendor, or
+96 employed by a consumer as a personal care attendant.
+97 13. The department shall provide the list maintained
+98 pursuant to section 192.2490 to vendors as defined in
+99 section 208.900.
+100 14. Any person, corporation or association who
+101 received the employee disqualification list under subsection
+102 13 of this section, or any person responsible for providing
+103 health care service, who declines to employ or terminates a
+104 person whose name is listed in this section shall be immune
+105 from suit by that person or anyone else acting for or in
+106 behalf of that person for the failure to employ or for the
+
+SB 1482 48
+107 termination of the person whose name is listed on the
+108 employee disqualification list.
+✓

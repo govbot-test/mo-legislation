@@ -1,0 +1,743 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+SECOND REGULAR SESSION
+[CORRECTED]
+HOUSE BILL NO. 3206
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE ROBERTS.
+6297H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To repeal sections 149.011, 149.035, 149.160, 149.190, 407.924, 407.925, 407.926, 407.927,
+407.928, 407.929, 407.931, and 407.934, RSMo, and to enact in lieu thereof seventeen
+new sections relating to certain tobacco products, with penalty provisions.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Sections 149.011, 149.035, 149.160, 149.190, 407.924, 407.925, 407.926,
+2 407.927, 407.928, 407.929, 407.931, and 407.934, RSMo, are repealed and seventeen new
+3 sections enacted in lieu thereof, to be known as sections 149.011, 149.035, 149.036, 149.037,
+4 149.038, 149.039, 149.160, 149.190, 407.924, 407.925, 407.926, 407.927, 407.928, 407.929,
+5 407.930, 407.931, and 407.934, to read as follows:
+149.011. As used in this chapter, unless the context requires otherwise, the following
+2 terms mean:
+3 (1) "Alternative nicotine product", any noncombustible product containing
+4 nicotine or a nicotine analogue that is intended for human consumption, whether
+5 chewed, absorbed, dissolved, or ingested by any other means. "Alternative nicotine
+6 product" does not include any vapor product, tobacco product, or any product
+7 regulated as a drug or device by the United States Food and Drug Administration under
+8 Chapter V of the Food, Drug, and Cosmetic Act;
+9 (2) "Cigar", any roll for smoking, except cigarettes, made chiefly of tobacco or any
+10 substitute therefor;
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 3206 2
+11 [(2)] (3) "Cigarette", an item manufactured of tobacco or any substitute therefor,
+12 wrapped in paper or any substitute therefor, weighing not to exceed three pounds per one
+13 thousand cigarettes and which is commonly classified, labeled or advertised as a cigarette;
+14 [(3)] (4) "Common carrier", any person, association, company, or corporation
+15 engaged in the business of operating, for public use, an agency for the transportation of
+16 persons or property within the state;
+17 (5) "Department", the department of revenue;
+18 [(4)] (6) "Director", the director of Missouri department of revenue;
+19 [(5)] (7) "First sale within the state", the first sale of a tobacco product, alternative
+20 nicotine product, or vapor product by a manufacturer, wholesaler, distributor, retailer, or
+21 other person to a retailer or otherperson who intends to sell such [tobacco] products at retail
+22 or to a person at retail within the state of Missouri;
+23 [(6)] (8) "Manufacturer", any person engaged in the manufacture or production of
+24 cigarettes, tobacco products, alternative nicotine products, or vapor products;
+25 [(7)] (9) "Manufacturer's invoice price", the original net invoice price for which a
+26 manufacturer sells a tobacco product, alternative nicotine product, or vapor product to a
+27 distributor, wholesaler, retailer, or first seller in the state as shown by the manufacturer's
+28 original invoice;
+29 [(8)] (10) "Meter machine", a type of device manufactured for the use of printing or
+30 imprinting an inked impression indicating that the cigarette tax has been paid on an individual
+31 package of cigarettes;
+32 (11) "Nicotine analogue":
+33 (a) a. A substance, the chemical structure of which is substantially similar to the
+34 chemical structure of nicotine; or
+35 b. A substance that has, purports to have, or is represented to have an effect on
+36 the central nervous system that is similar to or greater than the nicotine's effect on the
+37 central nervous system;
+38 (b) Factors relevant to determining whether a substance is a nicotine analogue
+39 include, but are not limited to, the marketing, advertising, and labeling of the substance
+40 and whether the substance has been manufactured, formulated, sold, distributed, or
+41 marketed with the intent to avoid the provisions of this subdivision and other applicable
+42 provisions of law;
+43 [(9)] (12) "Package of cigarettes", a container of any type composition in which is
+44 normally contained twenty individual cigarettes, except as in special instances when the
+45 number may be more or less than twenty;
+46 [(10)] (13) "Person", any individual, corporation, firm, partnership, incorporated or
+47 unincorporated association, or any other legal or commercial entity;
+
+HB 3206 3
+48 [(11)] (14) "Retailer", any person who sells to a consumer or to any person for any
+49 purpose other than resale;
+50 [(12)] (15) "Sale" in this instance is defined to be and declared to include sales,
+51 barters, exchanges and every other manner, method and form of transferring the ownership of
+52 personal property from one person to another. "Sale" also means the possession of cigarettes
+53 [or], tobacco products, alternative nicotine products, or vapor products by any person
+54 other than a manufacturer, wholesaler, distributor, or retailer and shall be prima facie
+55 evidence of possession for consumption;
+56 [(13)] (16) "Smokeless tobacco", chewing tobacco, including, but not limited to,
+57 twist, moist plug, loose leaf and firm plug, and all types of snuff, including, but not limited to,
+58 moist and dry;
+59 [(14)] (17) "Stamped cigarettes", an individual package, containing twenty individual
+60 cigarettes, more or less, on which appears or is affixed or imprinted thereon a Missouri state
+61 cigarette tax stamp or Missouri state meter machine impression;
+62 [(15)] (18) "Tax stamp", an item manufactured of a paper product or substitute thereof
+63 on which is printed, imprinted, or engraved lettering, numerals or symbols indicating that the
+64 cigarette tax has been paid on each individual package of cigarettes;
+65 [(16)] (19) "Tobacco product", cigarettes, cigarette papers, clove cigarettes, cigars,
+66 smokeless tobacco, smoking tobacco, or other form of tobacco products or products made
+67 with tobacco substitute containing nicotine;
+68 [(17)] (20) "Unstamped cigarettes", an individual package containing cigarettes on
+69 which does not appear a Missouri state cigarette tax stamp or Missouri state meter machine
+70 impression;
+71 (21) "Vapor product", any noncombustible product containing nicotine or a
+72 nicotine analogue that employs a heating element, power source, electronic circuit, or
+73 other electronic, chemical, or mechanical means, regardless of shape or size, that can be
+74 used to produce vapor from nicotine in a solution or other form. "Vapor product"
+75 includes any electronic cigarette, electronic cigar, electronic cigarillo, electronic pipe, or
+76 similar product or device and any vapor cartridge or other container of nicotine in a
+77 solution or other form that is intended to be used with or in an electronic cigarette,
+78 electronic cigar, electronic cigarillo, electronic pipe, or similar product or device.
+79 "Vapor product" also includes any device classified by the United States Food and Drug
+80 Administration as an electronic nicotine delivery system. "Vapor product" does not
+81 include any alternative nicotine product or tobacco product;
+82 [(18)] (22) "Wholesaler", any person, firm or corporation organized and existing, or
+83 doing business, primarily to sell cigarettes, alternative nicotine products, vapor products,
+84 or tobacco products to, and render service to, retailers in the territory the person, firm or
+
+HB 3206 4
+85 corporation chooses to serve; that purchases cigarettes, alternative nicotine products, vapor
+86 products, or tobacco products directly from the manufacturer; that carries at all times at his
+87 or her or its principal place of business a representative stock of cigarettes, alternative
+88 nicotine products, vapor products, or tobacco products for sale; and that comes into the
+89 possession of cigarettes, alternative nicotine products, vapor products,or tobacco products
+90 for the purpose of selling them to other wholesalers, distributors, retailers, or to persons
+91 outside or within the state who might resell or retail the cigarettes, alternative nicotine
+92 products, vapor products, or tobacco products to consumers. This shall include any
+93 manufacturer, distributor, importer, jobber, broker, agent, or other person, whether or not
+94 enumerated in this chapter, who so sells or so distributes cigarettes, alternative nicotine
+95 products, vapor products, or tobacco products.
+149.035. 1. Every wholesaler of cigarettes, alternative nicotine products, vapor
+2 products, or tobacco products in this state, as a condition of carrying on such business, shall
+3 annually, on or before February fifteenth of each year, secure from the director a written
+4 license, and shall pay therefor an annual fee of one hundred dollars for the twelve-month
+5 period beginning February fifteenth of each year. The license, application for which may be
+6 made on forms prescribed and furnished by the director, shall be kept on public display in the
+7 wholesaler's place of business at all times. The license shall not be assignable or transferable.
+8 The director shall refuse a license to any wholesaler of cigarettes, alternative nicotine
+9 products, vapor products, or tobacco products from another state if that wholesaler's state
+10 refuses to license wholesalers of cigarettes, alternative nicotine products, vapor products,
+11 or tobacco products from Missouri.
+12 2. Every person making a first sale of tobacco products, alternative nicotine
+13 products, or vapor products in the state of Missouri who does not have a wholesaler license
+14 as required by this section shall make application for a tobacco products wholesaler license
+15 on forms prescribed by the director of revenue. Such person shall, as a condition of acquiring
+16 such license, file an instrument which may be a cash or surety bond, letter of credit, or other
+17 instrument approved by the director which shall be in the amount of three times the average
+18 tax liability, estimated in the case of a new applicant. At such time as the director of revenue
+19 shall deem the amount of a bond insufficient to cover the liability, he may require the bond to
+20 be adjusted to the level satisfactory to the director which shall cover the amount of such
+21 liability. Minimum bond shall be five hundred dollars. A tobacco products wholesaler
+22 license shall not be used as a substitute or in place of a cigarette wholesale license.
+23 3. At such time as the director shall have reason to believe that any person has
+24 violated any provisions of this chapter or any rules and regulations issued pursuant to such
+25 provisions, the director shall refuse to issue or shall revoke or suspend any license issued
+
+HB 3206 5
+26 hereunder for such a period of time not to exceed one year. The person involved may seek
+27 review of the decision of the director of revenue by the administrative hearing commission.
+149.036. Every manufacturer of cigarettes, alternative nicotine products, vapor
+2 products, or tobacco products sold at retail or to a consumer in this state, whether
+3 directly or through an importer, wholesaler, distributor, retailer, or similar intermediary
+4 or intermediaries, shall annually, on or before February fifteenth of each year, secure
+5 from the director a written tobacco products manufacturer license and pay an annual
+6 fee of one thousand dollars for the twelve-month period beginning February fifteenth of
+7 each year. The license shall not be assignable or transferable. Manufacturers of vapor
+8 products shall be issued a license only if they also satisfy the requirements of sections
+9 149.037 to 149.038.
+149.037. 1. Every vapor product manufacturer who sells or offers to sell vapor
+2 products to a consumer in this state, whether directly or through an importer,
+3 wholesaler, distributor, retailer, or similar intermediary or intermediaries, shall obtain a
+4 vapor product manufacturer license from the director. The license shall be valid for one
+5 year and shall be renewed annually.
+6 2. Every application for a vapor product manufacturer license shall be made
+7 upon a form prescribed, prepared, and furnished by the director and shall be
+8 accompanied by a certification signed under penalty of perjury that includes the
+9 following:
+10 (1) The name and address of the applicant or, if the applicant is a firm,
+11 partnership, limited liability company, or association, the name and address of each of
+12 its members or, if the applicant is a corporation, the name and address of each of its
+13 officers and the address of its principal place of business;
+14 (2) The location of the principal place of the applicant seeking a license;
+15 (3) Either:
+16 (a) A copy of the Prevent All Cigarette Trafficking (PACT) Act Registration
+17 Form (ATF Form 5070.1) as submitted by the applicant to the Bureau of Alcohol,
+18 Tobacco, Firearms and Explosives of the United States Department of Justice and an
+19 attestation that the applicant is in compliance with, and will continue to comply with, all
+20 applicable requirements of 15 U.S.C. Sections 375 and 376; or
+21 (b) A statement explaining why the PACT Act is not applicable to the applicant
+22 and its products;
+23 (4) An attestation that the applicant will comply with all applicable laws of this
+24 state and of the applicant's principal place of business;
+25 (5) A list of each type or model of vapor product of the manufacturer that is sold
+26 in this state, including for each product:
+
+HB 3206 6
+27 (a) The product name, product category, nicotine content (volume of nicotine by
+28 weight), and total volume; and
+29 (b) A description, if a formal authorization, approval, or order from United
+30 States Food and Drug Administration under Section 387e(j) or 387j of the Food, Drug,
+31 and Cosmetic Act (21 U.S.C. Section 301 et seq.), as amended, has been sought and, if so,
+32 the status of any request for that authorization, approval, or order;
+33 (6) An attestation that the applicant's products and all components or parts of
+34 such products sold in this state were imported into the United States in conformity with
+35 all United States Customs and Border Protection requirements, whether or not such
+36 importation was accomplished by the manufacturer or another entity. In addition, the
+37 manufacturer shall obtain and submit copies of all Customs and Border Protection
+38 entry forms submitted in the prior six months on which the products, or any
+39 components or parts of the products, were declared;
+40 (7) For an applicant with a principal place of business outside the United States,
+41 a declaration, on a form prescribed by the department, from each of its importers into
+42 the United States of any of its brands to be sold in this state, that the importer accepts
+43 joint and several liability with the applicant for all liability imposed in accordance with
+44 this chapter, including any fees, costs, attorney's fees, and penalties imposed;
+45 (8) A list of any warning letters issued by the United States Food and Drug
+46 Administration in the last five calendar years that identified any vapor products
+47 manufactured by the applicant as being adulterated or misbranded under federal law
+48 and a description of how and when each warning letter was resolved;
+49 (9) Records reflecting the youth-access prevention policies the applicant has
+50 implemented with respect to distributors and retailers that sell its vapor products in the
+51 state; and
+52 (10) Such other information as the director may require.
+53 3. The applicant shall pay a nonrefundable fee of one hundred dollars for each
+54 type or model of vapor product that is included on the list of products in the certification
+55 form.
+56 4. A vapor product manufacturer shall not cause to be sold at retail in this state
+57 or to a consumer in this state any type or model of vapor product not included in the
+58 product list provided with the certification without first:
+59 (1) Filing an amended certification form in a form and manner prescribed by the
+60 department; and
+61 (2) Paying the appropriate fee required under this section.
+62 5. Each vapor product manufacturer who obtains a license under this chapter
+63 shall submit to the director:
+
+HB 3206 7
+64 (1) Within thirty days of any changes to its product list submitted with its
+65 certification, a notice of such changes; and
+66 (2) Every six months, an attestation confirming that the information submitted
+67 in its license application remains accurate and all copies of Customs and Border Patrol
+68 Form 7501 submitted in the prior six months.
+69 6. Submission of a false certification shall constitute an unfair trade practice
+70 under the provisions of sections 375.930 to 375.948. Nothing in this section shall be
+71 construed to create or imply a private cause of action for a violation of sections 376.2050
+72 to 376.2053. The director may notify appropriate federal and state agencies regarding
+73 false information submitted on a certification form.
+74 7. Fees collected under the provisions of this section shall be used by the director
+75 for the administration and enforcement of this chapter.
+76 8. A person who obtains a license under this chapter has established minimum
+77 contacts with the state and consents to the exercise of personal jurisdiction over the
+78 person in the courts of this state in any matter or issue arising under this chapter or
+79 related to the sale of vapor products.
+80 9. The director shall maintain and make publicly available on the director’s
+81 official website a list of all vapor products included in the product lists submitted by
+82 licensed vapor product manufacturers with their certification forms. The director also
+83 shall maintain a list of all licensed entities, including information regarding violations
+84 and licenses that have been revoked or suspended.
+85 10. Beginning September 1, 2026, vapor products not included in the list shall
+86 not be sold for retail sale or to a consumer in this state, either directly or through an
+87 importer, distributor, wholesaler, retailer, or similar intermediary or intermediaries.
+149.038. 1. Any nonresident manufacturer of vapor products that has not
+2 registered to do business in the state as a foreign corporation or business entity shall, as
+3 a condition precedent to receiving a license, appoint and continually engage without
+4 interruption the services of an agent in this state to act as agent for the service of process
+5 on whom all process, and any action or proceeding against it concerning or arising out
+6 of the enforcement of this chapter, may be served in any manner authorized by law.
+7 Such service shall constitute legal and valid service of process on the manufacturer. The
+8 manufacturer shall provide the name, address, telephone number, and proof of the
+9 appointment and availability of such agent to the department.
+10 2. The manufacturer shall provide notice to the department thirty calendar days
+11 prior to termination of the authority of an agent and shall further provide proof to the
+12 satisfaction of the department of the appointment of a new agent no less than five
+13 calendar days prior to the termination of an existing agent appointment. In the event an
+
+HB 3206 8
+14 agent terminates an agency appointment, the manufacturer shall notify the department
+15 of the termination within five calendar days and shall include proof to the satisfaction of
+16 the department of the appointment of a new agent.
+17 3. Any nonresident or foreign manufacturer of vapor products that has not
+18 registered to do business in the state as a foreign corporation or business entity shall, as
+19 a condition precedent to receiving a license, submit to the director a surety bond or
+20 other cash security payable to the state in the amount of twenty-five thousand dollars.
+21 The bond shall be posted by a corporate surety located within the United States.
+22 4. The bond described under subsection 3 of this section shall be conditioned on
+23 the performance by the manufacturer of all requirements and obligations imposed by
+24 this chapter. A surety on a manufacturer's bond shall be liable up to the amount of the
+25 bond, and the state may execute on such surety bond for the payment of fines and
+26 penalties imposed on the manufacturer under this section and for the costs of seizure
+27 and destruction of products sold in violation of this chapter. If the state executes on the
+28 surety bond, it may require the manufacturer to provide an additional bond as a
+29 condition precedent for retaining the vapor product manufacturer license.
+30 5. A surety on a bond furnished by a manufacturer as provided in this section
+31 shall be released and discharged from liability to the state accruing on the bond after
+32 expiration of sixty days from the date upon which such surety lodges with the director a
+33 written request to be released and discharged. This provision shall not operate to
+34 relieve, release, or discharge the surety from liability already accrued or which shall
+35 accrue before the expiration of the sixty-day period. The director shall, upon receiving
+36 any such request, notify the manufacturer who furnished the bond. Unless the
+37 manufacturer, on or before the expiration of the sixty-day period, files with the director
+38 a new bond, with the surety approved by and acceptable to the director, the director
+39 shall revoke the manufacturer's vapor product manufacturer license.
+149.039. 1. Wholesalers and retailers shall purchase cigarettes, alternative
+2 nicotine products, vapor products, and tobacco products only from a manufacturer or
+3 wholesaler who has obtained a valid tobacco product manufacturer or wholesaler
+4 license from the director.
+5 2. Retailers shall purchase cigarettes, alternative nicotine products, vapor
+6 products, or tobacco products only from a wholesaler or manufacturer who has
+7 obtained a license from the director. Manufacturers and wholesalers shall sell
+8 cigarettes, alternative nicotine products, vapor products, and tobacco products only to a
+9 wholesaler or retailer who has obtained the applicable valid license or licenses from the
+10 director under the provisions of this chapter and chapter 407.
+
+HB 3206 9
+11 3. Before selling cigarettes, alternative nicotine products, vapor products, or
+12 tobacco products to a wholesaler or retailer, a manufacturer or wholesaler shall confirm
+13 the purchaser has obtained the applicable valid license or licenses from the director
+14 under the provisions of this chapter and chapter 407. Before purchasing cigarettes,
+15 alternative nicotine products, vapor products, or tobacco products from a manufacturer
+16 or wholesaler, a licensee shall confirm the seller has obtained the applicable valid license
+17 or licenses from the director.
+18 4. Notwithstanding any other provision of law, cigarettes, alternative nicotine
+19 products, vapor products, or tobacco products sold by a person or entity that lacks the
+20 required license are contraband. The director may seize and destroy or dispose of such
+21 products. The cost of such seizure and destruction or disposal shall be borne by the
+22 person from whom the products are confiscated.
+149.160. 1. A tax is levied upon the first sale of tobacco products, other than
+2 cigarettes, within the state. The tax on tobacco products shall be at the rate of ten percent of
+3 the manufacturer's invoice price before discounts and deals, and shall be paid by the person
+4 making the first sale within the state. Licensed persons making first sales within the state
+5 shall be allowed approved credit for returned merchandise provided the tax was paid on the
+6 returned merchandise and the purchaser was given a refund or credit. Such licensed person
+7 shall take such approved credit on the return for the month in which the purchaser was given
+8 the refund or credit. For all tax years beginning on or after January 1, 2027, for the
+9 purposes of the application of the tax imposed under this section, the term "tobacco
+10 products" shall include alternative nicotine products and vapor products.
+11 2. The tax shall not apply to tobacco products when the first sale within the state has
+12 occurred on such tobacco products prior to October 1, 1993.
+13 3. Amounts generated by the tax levied in this section shall be deposited in the health
+14 initiatives fund created by section 191.831.
+15 4. When the general assembly appropriates an amount equal to twenty-five percent of
+16 the net federal reimbursement allowance to the health initiatives fund, this section shall
+17 expire. As used in this section, "net federal reimbursement allowance" shall mean that
+18 amount of the federal reimbursement allowance in excess of the amount of state matching
+19 funds necessary for the state to make payments required by subsection 1 of section 208.471
+20 or, if the payments exceed the amount so required, the actual payments made for the purposes
+21 specified in subsection 1 of section 208.471.
+149.190. 1. If the director is not satisfied that the report filed or the amount of tax
+2 paid is accurate, he may, after investigating and upon finding such inaccuracy, make an
+3 assessment of tax due based upon such investigation. The director shall give written notice
+
+HB 3206 10
+4 by registered or certified mail to the person of the assessment, addressed to the person at his
+5 last known address.
+6 2. If a person fails to file any return required by section 149.170, the director shall
+7 make an estimate, based upon information available to him, for the period for which the
+8 person failed to file the return and, upon the basis of the estimate, shall assess the tax due
+9 from such person. The director shall give to the person written notice of the assessment by
+10 registered or certified mail to the person's last known address.
+11 3. Any person responsible for the tax imposed in section 149.160 who fails to pay
+12 such tax within the time and manner required by law, shall pay, as part of the tax imposed, a
+13 penalty equal to twenty-five percent of the tax liability, and the tax shall bear interest at the
+14 rate established in section 32.065.
+15 4. Any person not possessing a valid tobacco products manufacturer or wholesaler
+16 license, a valid tobacco retail license as required under section 407.934 if applicable, or
+17 any other license required by the department, and who is selling tobacco products,
+18 alternative nicotine products, or vapor products at retail within the state, [when] or any
+19 person who possesses such valid license or licenses and is selling such products at retail
+20 within the state but such [tobacco] products have not been purchased from a licensed
+21 wholesaler or manufacturer, shall be subject to all applicable provisions of subsections 1 to
+22 3 of this section. Such person shall also be assessed an additional penalty equal to one
+23 hundred percent of the tax owed.
+24 5. Any person[, other than a licensed wholesaler,] making sales of tobacco products to
+25 unlicensed retailers or wholesalers in the state shall be subject to all applicable provisions of
+26 subsections 1 to 3 of this section. Such person shall also be assessed an additional penalty
+27 equal to one hundred percent of the tax owed.
+407.924. 1. The division of [liquor] alcohol and tobacco control within the
+2 department of public safety shall implement and enforce the provisions of sections [407.925]
+3 407.924 to 407.934.
+4 2. Beginning January 1, 2003, the division of [liquor] alcohol and tobacco control
+5 shall submit an annual report to the general assembly on the effectiveness of sections
+6 [407.925] 407.924 to 407.934 in reducing tobacco product, alternative nicotine product,
+7 and vapor product possession or use by minors and the enforcement activities by the
+8 division for violations of sections [407.925] 407.924 to 407.934.
+407.925. As used in sections [407.925] 407.924 to 407.934, the following terms
+2 mean:
+3 (1) "Alternative nicotine product", any noncombustible product containing nicotine
+4 or a nicotine analogue that is intended for human consumption, whether chewed, absorbed,
+5 dissolved, or ingested by any other means. Alternative nicotine product does not include any
+
+HB 3206 11
+6 vapor product, tobacco product, or any product regulated as a drug or device by the United
+7 States Food and Drug Administration under Chapter V of the Food, Drug, and Cosmetic Act;
+8 (2) "Center of youth activities", any playground, school or other facility, when such
+9 facility is being used primarily by persons under the age of eighteen for recreational,
+10 educational or other purposes;
+11 (3) "Distribute", a conveyance to the public by sale, barter, gift or sample;
+12 (4) "Division", the division of alcohol and tobacco control;
+13 (5) "Minor", a person under the age of eighteen;
+14 [(5)] (6) "Municipality", the city, village or town within which tobacco products,
+15 alternative nicotine products or vapor products are sold or distributed or, in the case of
+16 tobacco products, alternative nicotine products or vapor products that are not sold or
+17 distributed within a city, village or town, the county in which they are sold or distributed;
+18 (7) "Nicotine analogue":
+19 (a) a. A substance, the chemical structure of which is substantially similar to the
+20 chemical structure of nicotine; or
+21 b. A substance that has, purports to have, or is represented to have an effect on
+22 the central nervous system that is similar to or greater than the nicotine's effect on the
+23 central nervous system;
+24 (b) Factors relevant to determining whether a substance is a nicotine analogue
+25 include, but are not limited to, the marketing, advertising, and labeling of the substance
+26 and whether the substance has been manufactured, formulated, sold, distributed, or
+27 marketed with the intent to avoid the provisions of this subdivision and other applicable
+28 provisions of law;
+29 [(6)] (8) "Person", an individual, partnership, copartnership, firm, company, public or
+30 private corporation, association, joint stock company, trust, estate, political subdivision or any
+31 agency, board, department or bureau of the state or federal government, or any other legal
+32 entity which is recognized by law as the subject of rights and duties;
+33 [(7)] (9) "Proof of age", a driver's license or other generally accepted means of
+34 identification that contains a picture of the individual and appears on its face to be valid;
+35 [(8)] (10) "Rolling papers", paper designed, manufactured, marketed, or sold for use
+36 primarily as a wrapping or enclosure for tobacco, which enables a person to roll loose tobacco
+37 into a smokable cigarette;
+38 [(9)] (11) "Sample", a tobacco product, alternative nicotine product, or vapor product
+39 distributed to members of the general public at no cost or at nominal cost for product
+40 promotional purposes;
+41 [(10)] (12) "Sampling", the distribution to members of the general public of tobacco
+42 product, alternative nicotine product or vapor product samples;
+
+HB 3206 12
+43 [(11)] (13) "Tobacco products", any substance [containing tobacco leaf,] made or
+44 derived from tobacco or nicotine that is intended for human consumption including, but
+45 not limited to, cigarettes, cigars, pipe tobacco, snuff, chewing tobacco, or dipping tobacco but
+46 does not include alternative nicotine products, or vapor products;
+47 [(12)] (14) "Vapor product", any noncombustible product containing nicotine that
+48 employs a heating element, power source, electronic circuit, or other electronic, chemical, or
+49 mechanical means, regardless of shape or size, that can be used to produce vapor from
+50 nicotine or a nicotine analogue in a solution or other form. Vapor product includes any
+51 electronic cigarette, electronic cigar, electronic cigarillo, electronic pipe, or similar product or
+52 device and any vapor cartridge or other container of nicotine in a solution or other form that is
+53 intended to be used with or in an electronic cigarette, electronic cigar, electronic cigarillo,
+54 electronic pipe, or similar product or device. "Vapor product" also includes any device
+55 classified by the United States Food and Drug Administration as an electronic nicotine
+56 delivery system. Vapor product does not include any alternative nicotine product or tobacco
+57 product;
+58 [(13)] (15) "Vending machine", any mechanical electric or electronic, self-service
+59 device which, upon insertion of money, tokens or any other form of payment, dispenses
+60 tobacco products, alternative nicotine products, or vapor products.
+407.926. 1. Any person or entity who sells tobacco products, alternative nicotine
+2 products, or vapor products shall deny the sale of such [tobacco] products to any person who
+3 is less than eighteen years of age.
+4 2. Any person or entity who sells or distributes tobacco products, alternative nicotine
+5 products, or vapor products by mail or through the internet in this state in violation of
+6 subsection 1 of this section shall be assessed a fine of two hundred fifty dollars for the first
+7 violation and five hundred dollars for each subsequent violation.
+8 3. Alternative nicotine products and vapor products shall only be sold to persons
+9 eighteen years of age or older, shall be subject to local and state sales tax and licensing
+10 requirements, [but shall not be otherwise] and shall be taxed [or] and regulated as tobacco
+11 products.
+12 4. (1) Any nicotine liquid container that is sold at retail in this state shall satisfy the
+13 child-resistant effectiveness standards set forth in 16 CFR 1700.15(b) as in effect on August
+14 28, 2015, when tested in accordance with the method described in 16 CFR 1700.20 as in
+15 effect on August 28, 2015.
+16 (2) For the purposes of this subsection, "nicotine liquid container" shall mean a bottle
+17 or other container of liquid or other substance containing nicotine if the liquid or substance is
+18 sold, marketed, or intended for use in a vapor product. A "nicotine liquid container" shall not
+19 include a liquid or other substance containing nicotine or nicotine analogue in a cartridge
+
+HB 3206 13
+20 that is sold, marketed, or intended for use in a vapor product, provided that such cartridge is
+21 prefilled and sealed by the manufacturer and not intended to be opened by the consumer.
+22 (3) Any person who engages in retail sales of liquid nicotine containers in this state in
+23 violation of this subsection shall be assessed a fine of two hundred fifty dollars for the first
+24 violation and five hundred dollars for each subsequent violation.
+25 (4) The department of health and senior services may adopt rules necessary to carry
+26 out the provisions of this subsection. Any rule or portion of a rule, as that term is defined in
+27 section 536.010, that is created under the authority delegated in this section shall become
+28 effective only if it complies with and is subject to all of the provisions of chapter 536 and, if
+29 applicable, section 536.028. This section and chapter 536 are nonseverable and if any of the
+30 powers vested with the general assembly under chapter 536 to review, to delay the effective
+31 date, or to disapprove and annul a rule are subsequently held unconstitutional, then the grant
+32 of rulemaking authority and any rule proposed or adopted after August 28, 2015, shall be
+33 invalid and void.
+34 (5) The provisions of this subsection and any rules adopted hereunder shall be null,
+35 void, and of no force and effect upon the effective date of the final regulations issued by the
+36 federal Food and Drug Administration or from any other federal agency if such regulations
+37 mandate child-resistant effectiveness standards for nicotine liquid containers.
+407.927. The owner of an establishment at which tobacco products, alternative
+2 nicotine products, vapor products, or rolling papers are sold at retail or through vending
+3 machines shall cause to be prominently displayed in a conspicuous place at every display
+4 from which tobacco products, alternative nicotine products, or vapor products are sold and on
+5 every vending machine where [tobacco] such products are purchased a sign that shall:
+6 (1) Contain in red lettering at least one-half inch high on a white background the
+7 following: "It is a violation of state law for cigarettes, other tobacco products, alternative
+8 nicotine products, or vapor products to be sold or otherwise provided to any person under the
+9 age of eighteen or for such person to purchase, attempt to purchase or possess cigarettes, other
+10 tobacco products, alternative nicotine products, or vapor products."; and
+11 (2) Include a depiction of a pack of cigarettes at least two inches high defaced by a
+12 red diagonal diameter of a surrounding red circle, and the words "Under 18".
+407.928. No person or entity shall sell individual packs of cigarettes, tobacco
+2 products, alternative nicotine products, vapor products, or smokeless tobacco products
+3 unless such packs or products satisfy one of the following conditions prior to the time of
+4 sale:
+5 (1) It is sold through a vending machine; or
+6 (2) It is displayed behind the check-out counter or it is within the unobstructed line of
+7 sight of the sales clerk or store attendant from the checkout counter.
+
+HB 3206 14
+407.929. 1. A person or entity selling tobacco products, alternative nicotine products,
+2 or vapor products or rolling papers or distributing tobacco product, alternative nicotine
+3 product, or vapor product samples shall require proof of age from a prospective purchaser or
+4 recipient if an ordinary person would conclude on the basis of appearance that such
+5 prospective purchaser or recipient may be under the age of eighteen.
+6 2. The operator's or chauffeur's license issued pursuant to the provisions of section
+7 302.177, or the operator's or chauffeur's license issued pursuant to the laws of any state or
+8 possession of the United States to residents of those states or possessions, or an identification
+9 card as provided for in section 302.181, or the identification card issued by any uniformed
+10 service of the United States, or a valid passport shall be presented by the holder thereof upon
+11 request of any agent of the division [of liquor control] or any owner or employee of an
+12 establishment that sells tobacco products, alternative nicotine products, or vapor products,
+13 for the purpose of aiding the registrant, agent, or employee to determine whether or not the
+14 person is at least eighteen years of age when such person desires to purchase or possess
+15 tobacco products, alternative nicotine products, or vapor products procured from a registrant.
+16 Upon such presentation, the owner or employee of the establishment shall compare the
+17 photograph and physical characteristics noted on the license, identification card or passport
+18 with the physical characteristics of the person presenting the license, identification card, or
+19 passport.
+20 3. Any person who shall, without authorization from the department of revenue,
+21 reproduce, alter, modify, or misrepresent any chauffeur's license, motor vehicle operator's
+22 license, or identification card shall be deemed guilty of a misdemeanor and upon conviction
+23 shall be subject to a fine of not more than one thousand dollars, and confinement for not more
+24 than one year, or by both such fine and imprisonment.
+25 4. Reasonable reliance on proof of age or on the appearance of the purchaser or
+26 recipient shall be a defense to any action for a violation of subsections 1, 2 and 3 of section
+27 407.931. No person shall be liable for more than one violation of subsections 2 and 3 of
+28 section 407.931 on any single day.
+407.930. 1. For the purposes of this section, "tobacco substitute" means any
+2 alternative nicotine products or vapor products that have not been approved by the
+3 United States Food and Drug Administration for tobacco cessation or other medical
+4 purposes.
+5 2. No person shall market, advertise, sell, or cause to be sold a tobacco substitute
+6 if the product's container, packaging, or advertising:
+7 (1) Depicts a cartoon-like fictional character that mimics a character primarily
+8 aimed at entertaining minors;
+
+HB 3206 15
+9 (2) Imitates or mimics trademarks or trade dress of products that are or have
+10 been primarily marketed to minors;
+11 (3) Includes a symbol that is primarily used to market products to minors;
+12 (4) Includes an image of a celebrity; or
+13 (5) Is designed to disguise the fact that it is a tobacco substitute.
+14 3. No person shall market, advertise, sell, or cause to be sold a tobacco substitute
+15 that has entertainment features, such as the ability to play games, play music or other
+16 audio, display photos or video, or any similar electronic entertainment features.
+17 4. No person shall market, advertise, sell, or cause to be sold a tobacco substitute
+18 that contains, is mixed with, or is marketed as containing or being mixed with any
+19 cannabinoids, alcohol, kratom, kava, mushrooms containing psilocybin or psilocin,
+20 tianeptine, or any derivatives of those substances.
+407.931. 1. It shall be unlawful for any person to sell, provide or distribute tobacco
+2 products, alternative nicotine products, or vapor products to persons under eighteen years of
+3 age.
+4 2. All vending machines that dispense tobacco products, alternative nicotine products,
+5 or vapor products shall be located within the unobstructed line of sight and under the direct
+6 supervision of an adult responsible for preventing persons less than eighteen years of age
+7 from purchasing any tobacco product, alternative nicotine product, or vapor product from
+8 such machine or shall be equipped with a lock-out device to prevent the machines from being
+9 operated until the person responsible for monitoring sales from the machines disables the
+10 lock. Such locking device shall be of a design that prevents it from being left in an unlocked
+11 condition and which will allow only a single sale when activated. A locking device shall not
+12 be required on machines that are located in areas where persons less than eighteen years of
+13 age are not permitted or prohibited by law. An owner of an establishment whose vending
+14 machine is not in compliance with the provisions of this subsection shall be subject to the
+15 penalties contained in subsection 5 of this section. A determination of noncompliance may be
+16 made by a local law enforcement agency or the division [of liquor control]. Nothing in this
+17 section shall apply to a vending machine if located in a factory, private club or other location
+18 not generally accessible to the general public.
+19 3. No person or entity shall sell, provide or distribute any tobacco product, alternative
+20 nicotine product, or vapor product or rolling papers to any minor, or sell any individual
+21 cigarettes to any person in this state. This subsection shall not apply to the distribution by
+22 family members on property that is not open to the public.
+23 4. Any person including, but not limited to, a sales clerk, owner or operator who
+24 violates subsection 1, 2 or 3 of this section or section 407.927 shall be penalized as follows:
+25 (1) For the first offense, twenty-five dollars;
+
+HB 3206 16
+26 (2) For the second offense, one hundred dollars;
+27 (3) For a third and subsequent offense, two hundred fifty dollars.
+28 5. Any owner of the establishment where tobacco products, alternative nicotine
+29 products, or vapor products are available for sale who violates subsection 3 of this section, in
+30 addition to the penalties established in subsection 4 of this section, shall be penalized in the
+31 following manner:
+32 (1) For the first violation per location within two years, a reprimand shall be issued by
+33 the division [of liquor control];
+34 (2) For the second violation per location within two years, the division [of liquor
+35 control] shall issue a citation prohibiting the outlet from selling tobacco products, alternative
+36 nicotine products, or vapor products for a twenty-four-hour period;
+37 (3) For the third violation per location within two years, the division [of liquor
+38 control] shall issue a citation prohibiting the outlet from selling tobacco products, alternative
+39 nicotine products, or vapor products for a forty-eight-hour period;
+40 (4) For the fourth and any subsequent violations per location within two years, the
+41 division [of liquor control] shall issue a citation prohibiting the outlet from selling tobacco
+42 products, alternative nicotine products, or vapor products for a five-day period.
+43 6. Any owner of the establishment where tobacco products, alternative nicotine
+44 products, or vapor products are available for sale who violates subsection 3 of this section
+45 shall not be penalized pursuant to this section if such person documents the following:
+46 (1) An in-house or other tobacco compliance employee training program was in place
+47 to provide the employee with information on the state and federal regulations regarding sales
+48 of tobacco products, alternative nicotine products, or vapor products to minors. Such training
+49 program must be attended by all employees who sell tobacco products, alternative nicotine
+50 products, or vapor products to the general public;
+51 (2) A signed statement by the employee stating that the employee has been trained
+52 and understands the state laws and federal regulations regarding the sale of tobacco products,
+53 alternative nicotine products, or vapor products to minors; and
+54 (3) Such in-house or other tobacco compliance training meets the minimum training
+55 criteria, which shall not exceed a total of ninety minutes in length, established by the division
+56 [of liquor control].
+57 7. The exemption in subsection 6 of this section shall not apply to any person who is
+58 considered the general owner or operator of the outlet where tobacco products, alternative
+59 nicotine products, or vapor products are available for sale if:
+60 (1) Four or more violations per location of subsection 3 of this section occur within a
+61 one-year period; or
+
+HB 3206 17
+62 (2) Such person knowingly violates or knowingly allows his or her employees to
+63 violate subsection 3 of this section.
+64 8. If a sale is made by an employee of the owner of an establishment in violation of
+65 sections [407.925] 407.924 to 407.934, the employee shall be guilty of an offense established
+66 in subsections 1, 2 and 3 of this section. If a vending machine is in violation of section
+67 407.927, the owner of the establishment shall be guilty of an offense established in
+68 subsections 3 and 4 of this section. If a sample is distributed by an employee of a company
+69 conducting the sampling, such employee shall be guilty of an offense established in
+70 subsections 3 and 4 of this section.
+71 9. A person cited for selling, providing or distributing any tobacco product,
+72 alternative nicotine product, or vapor product to any individual less than eighteen years of age
+73 in violation of subsection 1, 2 or 3 of this section shall conclusively be presumed to have
+74 reasonably relied on proof of age of the purchaser or recipient, and such person shall not be
+75 found guilty of such violation if such person raises and proves as an affirmative defense that
+76 such individual presented a driver's license or other government-issued photo identification
+77 purporting to establish that such individual was eighteen years of age or older.
+78 10. Any person adversely affected by this section may file an appeal with the
+79 administrative hearing commission which shall be adjudicated pursuant to the procedures
+80 established in chapter 621.
+407.934. 1. No person shall sell, provide, or distribute cigarettes, tobacco products,
+2 alternative nicotine products, or vapor products unless the person has a retail sales tax license
+3 and a tobacco retail license.
+4 2. (1) The department of revenue shall permit persons to designate through the
+5 internet or by including a place on all sales tax license applications for the applicant to
+6 designate himself or herself as a seller of cigarettes, tobacco products, alternative nicotine
+7 products, or vapor products and to provide a list of all locations where the applicant sells such
+8 products.
+9 (2) All persons selling, providing, or distributing tobacco products, alternative
+10 nicotine products, or vapor products shall also apply to the department of revenue for a
+11 tobacco retail license. The department of revenue also shall make available through the
+12 internet the application for the tobacco retail license. A separate license is required for
+13 each retail location where the applicant sells such products. A license shall be valid for
+14 twelve months and shall be renewed annually. The fee for a license is two hundred
+15 dollars per year.
+16 (3) Retailers that sell tobacco products, alternative nicotine products, or vapor
+17 products shall be subject to an initial inspection within ninety days of receiving a
+18 tobacco retail license. Thereafter, retailers shall be subject to, at minimum, two
+
+HB 3206 18
+19 unannounced inspections. The division shall seize any products not in compliance with
+20 this chapter or chapter 149, and the retailer shall be subject to a follow-up inspection
+21 within thirty days following a violation.
+22 (4) The department of revenue may deny an application and refuse to issue or
+23 renew a license, or may suspend or revoke a license issued to any person if it determines
+24 that the licensee or the principals or managers at the licensable location of the applicant
+25 or licensee have been found guilty of any fraud or misrepresentation in any connection;
+26 convicted of robbery, extortion, burglary, larceny, embezzlement, fraudulent
+27 conversion, gambling, perjury, bribery, treason, tax evasion, or racketeering; or
+28 convicted of a felony within the last five years. The department of revenue may deny an
+29 application and refuse to issue or renew a license if there is a reasonable basis to
+30 determine the application is filed by a person as subterfuge for a different party of
+31 interest whose license has previously been denied, canceled, or revoked for cause or a
+32 violation under this chapter, chapter 149, or other applicable provision of law.
+33 (5) The department of revenue and the division of alcohol and tobacco control
+34 may promulgate all necessary rules and regulations for the administration of this
+35 subsection.
+36 3. On or before July first of each year, the department of revenue shall make available
+37 to the division [of liquor control] and the department of mental health a complete list of every
+38 establishment which sells cigarettes, other tobacco products, alternative nicotine products, or
+39 vapor products in this state.
+40 4. The division [of liquor control] shall have the authority to inspect stores and
+41 tobacco outlets for compliance with all laws related to access of tobacco products, alternative
+42 nicotine products, or vapor products to minors. The division may employ a person seventeen
+43 years of age, with parental consent, to attempt to purchase tobacco for the purpose of
+44 inspection or enforcement of tobacco laws.
+45 5. The supervisor of the division [of liquor control] shall not use minors to enforce the
+46 provisions of this chapter unless the supervisor promulgates rules that establish standards for
+47 the use of minors. The supervisor shall establish mandatory guidelines for the use of minors
+48 in investigations by a state, county, municipal or other local law enforcement authority which
+49 shall be followed by such authority and which shall, at a minimum, provide for the following:
+50 (1) The minor shall be seventeen years of age;
+51 (2) The minor shall have a youthful appearance, and the minor, if a male, shall not
+52 have facial hair or a receding hairline and if a female, shall not wear excessive makeup or
+53 excessive jewelry;
+
+HB 3206 19
+54 (3) The state, county, municipal or other local law enforcement agency shall obtain
+55 the consent of the minor's parent or legal guardian before the use of such minor on a form
+56 approved by the supervisor;
+57 (4) The state, county, municipal or other local law enforcement agency shall make a
+58 photocopy of the minor's valid identification showing the minor's correct date of birth;
+59 (5) Any attempt by such minor to purchase tobacco products, alternative nicotine
+60 products, or vapor products shall be videotaped or audiotaped with equipment sufficient to
+61 record all statements made by the minor and the seller of the [tobacco] product;
+62 (6) The minor shall carry his or her own identification showing the minor's correct
+63 date of birth and shall, upon request, produce such identification to the seller of the tobacco
+64 product, alternative nicotine product, or vapor product;
+65 (7) The minor shall answer truthfully any questions about his or her age and shall not
+66 remain silent when asked questions regarding his or her age;
+67 (8) The minor shall not lie to the seller of the tobacco product, alternative nicotine
+68 product, or vapor product to induce a sale of [tobacco] such products;
+69 (9) The minor shall not be employed by the state, county, municipal or other local law
+70 enforcement agency on an incentive or quota basis;
+71 (10) The state, county, municipal or other local law enforcement agency shall, within
+72 forty-eight hours, contact or take all reasonable steps to contact the owner or manager of the
+73 establishment if a violation occurs;
+74 (11) The state, county, municipal or other local law enforcement agency shall
+75 maintain records of each visit to an establishment where a minor is used by the state, county,
+76 municipal or other local law enforcement agency for a period of at least one year following
+77 the incident, regardless of whether a violation occurs at each visit, and such records shall, at a
+78 minimum, include the following information:
+79 (a) The signed consent form of the minor's parent or legal guardian;
+80 (b) A Polaroid photograph of the minor;
+81 (c) A photocopy of the minor's valid identification, showing the minor's correct date
+82 of birth;
+83 (d) An information sheet completed by the minor on a form approved by the
+84 supervisor; and
+85 (e) The name of each establishment visited by the minor, and the date and time of
+86 each visit.
+87 6. If the state, county, municipal or other local law enforcement authority uses minors
+88 in investigations or in enforcing or determining violations of this chapter or any local
+89 ordinance and does not comply with the mandatory guidelines established by the supervisor
+90 of [liquor] alcohol and tobacco control in subsection 5 of this section, the supervisor of
+
+HB 3206 20
+91 [liquor] alcohol and tobacco control shall not take any disciplinary action against the
+92 establishment or seller pursuant to this chapter based on an alleged violation discovered when
+93 using a minor and shall not cooperate in any way with the state, county, municipal or other
+94 local law enforcement authority in prosecuting any alleged violation discovered when using a
+95 minor.
+96 7. Any commissioned law enforcement officer in the state may inspect the
+97 tobacco products, alternative nicotine products, or vapor products offered for sale by a
+98 retailer and shall seize any products not in compliance with the terms of this chapter or
+99 chapter 149. The cost of such seizure and destruction or disposal shall be borne by the
+100 person from whom the products are confiscated.
+✔

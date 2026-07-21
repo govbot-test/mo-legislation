@@ -1,0 +1,2014 @@
+Title: 
+Official Title: 
+Source: versions - 6512S.01I - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SECOND REGULAR SESSION
+SENATE BILL NO. 1543
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR CRAWFORD.
+6512S.01I KRISTINA MARTIN, Secretary
+AN ACT
+To repeal sections 33.080 and 375.991, RSMo, and to enact in lieu thereof twenty-six new sections
+relating to homeowner's insurance, with penalty provisions.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1
+Section A. Sections 33.080 and 375.991, RSMo, are repealed
+2
+and twenty-six new sections enacted in lieu thereof, to be known
+3
+as sections 33.080, 375.991, 379.162, 379.163, 379.3000,
+4
+379.3005, 379.3010, 379.3015, 379.3020, 379.3025, 379.3030,
+5
+379.3035, 379.3040, 379.3042, 379.3045, 379.3050, 379.3055,
+6
+379.3100, 379.3105, 379.3110, 379.3115, 379.3120, 379.3125,
+7
+379.3130, 379.3135, and 379.3140, to read as follows:
+1
+33.080. 1. All fees, funds and moneys from whatsoever
+2
+source recei v ed b y any department, board, bureau,
+3
+commission, institution, official or agency of the state
+4
+government by virtue of any law or rule or regulation made
+5
+in accordance with any law, excluding all funds received and
+6
+disbursed by the state on behalf of counties and cities,
+7
+towns and villages shall, by the official authorized to
+8
+receive same, and at stated intervals of not more than
+9
+thirty days, be placed in the state treasury to the credit
+10
+of the particular purpose or fund for which collected, and
+11
+shall be subject to appropriation by the general assembly
+12
+for the particular purpose or fund for which collected
+13
+during the biennium in which collected and appropriated.
+EXPLANATION-Matter enclosed in bold-faced brackets [thus] in this bill is not enacted
+and is intended to be omitted in the law.
+
+SB 1543 2
+14
+The unexpended balance remaining in all such funds (except
+15
+such unexpended balance as may remain in any fund
+16
+authorized, collected and expended by virtue of the
+17
+provisions of the constitution of this state) shall at the
+18
+end of the biennium and after all warrants on same have been
+19
+discharged and the appropriation thereof has lapsed, be
+20
+transferred and placed to the credit of the general revenue
+21
+fund of the state by the state treasurer. Any official or
+22
+any person who shall willfully fail to co m ply with any of
+23
+the provisions of this section, and any person who shall
+24
+willfully violate any provision hereof, shall be deemed
+25
+guilty of a misdemeanor; provided, that all such money
+26
+received by the curators of the University of Missouri
+27
+except those funds required by law or by instrument granting
+28
+the same to be paid into the seminary fund of the state, is
+29
+excepted herefrom, and in the case of other state
+30
+educational institutions there is excepted herefrom, gifts
+31
+or trust funds from whatever source; appropriations; gifts
+32
+or grants from the federal government, private organizations
+33
+and individuals; funds for or from student activities; farm
+34
+or housing activities; and other funds from which the whole
+35
+or some part thereof may be liable to be repaid to the
+36
+person contributing the same; and hospital fees. All of the
+37
+above excepted funds shall be reported in detail quarterly
+38
+to the governor and biennially to the general assembly.
+39
+2. Notwithstanding any provision of law to the
+40
+contrar y concerning the transfer of funds, [ten] twelve
+41
+million dollars shall be transferred from the insurance
+42
+dedicated fund established under section 374.150, and placed
+43
+to the credit of the [rebuild damaged infrastructure]
+44
+Missouri's stronger homes fund created in section [33.295]
+45
+379.3115 on [July 1, 2013] July 1, 2027 and amounts as
+
+SB 1543 3
+46
+specified under section 379.1115 on an annual basis
+47
+commencing July 1, 2028 and ending on July 30, 2037.
+1
+375.991. 1. As used in sections 375.991 to 375.994,
+2
+the term "sta t eme n t" means any communication, notice
+3
+statement, proof of loss, bill of lading, receipt for
+4
+payment, invoice, account, estimate of damages, bills for
+5
+services, diagnosis, prescription, hospital or doctor
+6
+records, x-rays, test results or other evidence of loss,
+7
+injury or expense.
+8
+2. For the purposes of sections 375.991 to 375.994, a
+9
+person c ommits a "fraudulent insurance act" if such person
+10
+knowingly presents, causes to be presented, or prepares with
+11
+knowledge or belief that it will be presented, to or by an
+12
+insurer, purported insurer, broker, or any agent thereof,
+13
+any oral or written statement including computer generated
+14
+documents as part of, or in support of, an application for
+15
+the issuance of, or the rating of, an insurance policy for
+16
+commercial or personal insurance, or a claim for payment or
+17
+other benefit pursuant to an insurance policy for commercial
+18
+or personal insurance, which such person knows to contain
+19
+materially false information concerning any fact material
+20
+thereto or if such person conceals, for the purpose of
+21
+misleading another, information concerning any fact material
+22
+thereto.
+23
+3. A "fraudulent insurance act" shall also include but
+24
+not be l imited to knowingly filing false insurance claims
+25
+with an insurer, health services corporation, or health
+26
+maintenance organization by engaging in any one or more of
+27
+the following false billing practices:
+28
+(1) "Unbundling", an insurance claim by claiming a
+29
+number o f medical procedures were performed instead of a
+30
+single comprehensive procedure;
+
+SB 1543 4
+31
+(2) "Upcoding", an insurance claim by claiming that a
+32
+more ser i ous or extensive procedure was performed than was
+33
+actually performed;
+34
+(3) "Exploding", an insurance claim by claiming a
+35
+series o f tests was performed on a single sample of blood,
+36
+urine, or other bodily fluid, when actually the series of
+37
+tests was part of one battery of tests; [or]
+38
+(4) "Duplicating", a medical, hospital or
+39
+rehabili t ative insurance claim made by a health care
+40
+provider by resubmitting the claim through another health
+41
+care provider in which the original health care provider has
+42
+an ownership interest; or
+43
+(5) "Inflating", the intentional overstatement of the
+44
+reasonab l e cost of goods or services or exaggeration of the
+45
+extent of damage, injury, or loss by an insured, contractor,
+46
+health care provider, or other service provider to increase
+47
+the amount of an insurance claim payment or to offset the
+48
+amount of the deductible the insured would otherwise be
+49
+responsible for under the terms of the policy.
+50
+Nothing in sections 375.991 to 375.994 shall prohibit health
+51
+care providers from making good faith efforts to ensure that
+52
+claims for reimbursement are coded to reflect the proper
+53
+diagnosis and treatment.
+54
+4. If, by its own inquiries or as a result of
+55
+complai n ts, the department of commerce and insurance has
+56
+reason to believe that a person has engaged in, or is
+57
+engaging in, any fraudulent insurance act or has violated
+58
+any provision of chapters 375 to 385, it may administer
+59
+oaths and affirmations, serve subpoenas ordering the
+60
+attendance of witnesses or proffering of matter, [and]
+61
+collect evidence, and issue an order to cease and desist, or
+
+SB 1543 5
+62
+issue a curative or summary order as set forth under section
+63
+374.046. The director may refer such evidence as is
+64
+availabl e concerning violations of this chapter to the
+65
+proper prosecuting attorney or circuit attorney who may,
+66
+with or without such reference, initiate the appropriate
+67
+criminal proceedings.
+68
+5. If the matter that the department of commerce and
+69
+insuran c e seeks to obtain by request is located outside the
+70
+state, the person so requested may make it available to the
+71
+department or its representative to examine the matter at
+72
+the place where it is located. The department may designate
+73
+representatives, including off i cials of the state in which
+74
+the matter is located, to inspect the matter on its behalf,
+75
+and it may respond to similar requests from officials of
+76
+other states.
+77
+6. A fraudulent insurance act for a first offense is a
+78
+class E felony. Any person who is found guilty of a
+79
+fraudulent insu r ance act who has previously been found
+80
+guilty of a fraudulent insurance act shall be guilty of a
+81
+class D felony.
+82
+7. Any person who pleads guilty or is found guilty of
+83
+a fraud u lent insurance act shall be ordered by the court to
+84
+make restitution to any person or insurer for any financial
+85
+loss sustained as a result of such violation. The court
+86
+shall determine the extent and method of rest i tution.
+87
+8. Nothing in this section shall limit the power of
+88
+the sta t e to punish any person for any conduct that
+89
+constitutes a crime by any other state statute.
+1
+379.162. 1. This section shall apply to all
+2
+homeowners' p o lic i es issued, continued, or renewed on or
+3
+after July 1, 2027.
+
+SB 1543 6
+4
+2. As used in this section, the following words and
+5
+terms s h all mean:
+6
+(1) "Homeowner's policy", a homeowner's insurance
+7
+policy, a dwelling-owner's insurance policy or a residential
+8
+fire insurance policy covering real property within this
+9
+state. For purposes of this section, this term shall not
+10
+includ e a manufactured home or mobile homeowner's policy, a
+11
+tenant's or renter's policy, or a condo owner's policy;
+12
+(2) "Insurer", all insurance companies, reciprocals,
+13
+interins u rance exchanges licensed under chapters 379 and
+14
+380, and the property insurance inspection and placement
+15
+program (the "FAIR" Plan), issuing and renewing residential
+16
+property insurance policies;
+17
+(3) "Qualified inspector", a person who is:
+18
+(a) A roofing inspector that is accredited by the
+19
+National Roof Certification and Inspection Association
+20
+(NRCIA) or a nationally recognized equivalent; or
+21
+(b) A professional engineer or architect licensed
+22
+under ch a pter 327; or
+23
+(c) A roofing contractor who has been in the roofing
+24
+business for not less than ten years and who has evidence of
+25
+the following:
+26
+a. A business registration with the Missouri secretary
+27
+of stat e ;
+28
+b. A valid Missouri sales tax number; and
+29
+c. Possesses a local contractor's license, where
+30
+require d by a local municipality or county; or
+31
+(d) Any other individual or entity recognized by the
+32
+insurer a s possessing the necessary qualifications to
+33
+properly complete a general inspection of the roof of a
+34
+residential structure insured under a homeowner's policy.
+
+SB 1543 7
+35
+3. An insurer may not refuse to issue, cancel, or
+36
+nonrene w a homeowner's policy insuring a residential
+37
+structure with a roof that is less than fifteen years old
+38
+solely because of the age of the roof.
+39
+4. For a roof that is fifteen years of age or older,
+40
+an insu r er shall allow a homeowner to have a roof inspection
+41
+performed by a qualified inspector at the homeowner's
+42
+expense before requiring the replacement of the roof of a
+43
+residential structure as a condition of issuing, continuing,
+44
+or renewing a homeowner's policy.
+45
+5. The insurer shall not refuse to issue, cancel, or
+46
+refuse t o renew a homeowner's policy solely because of the
+47
+roof's age if an inspection of the roof of the residential
+48
+structure performed by a qualified inspector indicates that
+49
+the roof has five years or more of useful life remaining.
+50
+6. For purposes of this section, a roof's age shall be
+51
+calcula t ed using the last date on which one hundred percent
+52
+of the roof's surface area was built or replaced or the
+53
+initial date of a partial roof replacement when subsequent
+54
+partial roof builds or replacements were completed that
+55
+resulted in one hundred percent of the roof's surface area
+56
+being built or replaced.
+57
+7. This section shall not:
+58
+(1 ) Limit the ability of an insurer to refuse to
+59
+issue, c a ncel, or nonrenew any homeowner's policy on any
+60
+other grounds, including, but not limited to, that the
+61
+structure does not otherwise meet underwriting criteria
+62
+applicable to replacement cost or law and ordinance coverage
+63
+or for other reasons not prohibited under Missouri law.
+64
+(2) Prohibit an insurer from limiting its liability
+65
+under a p olicy or endorsement through a deductible or to
+66
+direct physical loss caused by a covered peril.
+
+SB 1543 8
+67
+8. (1) A policyholder may not assign, in whole or in
+68
+part, a n y po s t-loss insurance benefit under any residential
+69
+property insurance policy or under any commercial property
+70
+insurance policy issued or renewed on or after January 1,
+71
+2027.
+72
+(2) Any attempt to assign post-loss property insurance
+73
+benefits under a policy issued or renewed on or after
+74
+January 1, 2027, is void, invalid, and unenforceable.
+1
+379.163. 1. As used in this section, the following
+2
+terms shall m e an:
+3
+(1) "Replacement cost coverage", "replacement cost
+4
+value", o r "RCV", the coverage that ultimately pays the
+5
+estimated cost to repair or replace covered property at the
+6
+time of the loss or damage without deduction for
+7
+depreciation. "Replacement cost value" is not the market
+8
+value, but it is instead the cost to repair or replace
+9
+covered property to its pre-loss condition;
+10
+(2) "Residential property insurance policy", a
+11
+homeowne r 's insurance, dwelling-owner's insurance,
+12
+residential fire insurance, condo owner's insurance, or
+13
+manufactured home or mobile homeowner's insurance written
+14
+upon property within this state;
+15
+(3) "Withheld recoverable depreciation" or
+16
+"replace m ent cost holdback", the portion of an insurance
+17
+claim payment that an insurer does not pay until the
+18
+policyholder completes necessary repairs or replacement of
+19
+damaged covered property. Once the repairs or replacements
+20
+are completed, the policyh older is eligible to receive the
+21
+withheld amount subject to the terms of the insurance policy.
+22
+2. An insurer that issues a residential property
+23
+insuran c e policy with replacement cost coverage for roof
+24
+damage may refuse to pay a claim for withheld recoverable
+
+SB 1543 9
+25
+depreciation or a replacement cost holdback under the policy
+26
+for a roof claim until the insurer receives reasonable proof
+27
+of payment by the policyholder of any deductible applicable
+28
+to the roof claim.
+29
+3. Reasonable proof of payment includes a canceled
+30
+check, m oney order receipt, credit card statement, or copy
+31
+of an executed installment plan contract or other financing
+32
+arrangement that requires full payment of the deductible
+33
+over time.
+1
+379.3000. Sections 379.3000 to 379.3055 may be cited
+2
+as the "Missou r i Disaster Mediation Act".
+1
+379.3005. 1. The provisions of sections 379.3000 to
+2
+379.3055 provid e f o r a nonadversarial alternative dispute
+3
+resolution program for a facilitated claim resolution
+4
+process prompted by the critical need for effective, fair,
+5
+and timely handling of insurance claims arising out of
+6
+damage to residential property caused by an event for which
+7
+there is a state of disaster declared within sixty days of
+8
+the event.
+9
+2. Sections 379.3000 to 379.3055 shall only apply when
+10
+the dir e ctor issues an order initiating the alternative
+11
+dispute resolution program authorized under the Missouri
+12
+disaster mediation act and:
+13
+(1) If a state of emergency has been proclaimed for
+14
+this sta t e or for an area within this state by the governor,
+15
+or by a resolution of the general assembly under section
+16
+44.100; or
+17
+(2) If the President of the United States has issued a
+18
+major di s aster declaration for this state or for an area
+19
+within this state under the Robert T. Stafford Disaster
+20
+Relief and Emergency Assistance Act, 42 U.S.C. Section 5121,
+21
+et seq., as amended.
+
+SB 1543 10
+22
+3. The mediation program under sections 379.3000 to
+23
+379.305 5 shall be available to Missouri residents with first-
+24
+party insurance claims resulting from damage to residential
+25
+property that serves as a Missouri resident's primary
+26
+dwelling located within this state. Sections 379.3000 to
+27
+379.3055 shall not apply to commerc i al insurance, property
+28
+insurance covering multiple family dwellings, motor vehicle
+29
+insurance, or liability coverage contained within property
+30
+insurance policies.
+31
+4. After the program has been initiated by order of
+32
+the dir e ctor, it shall remain available to first-party
+33
+claimants until the director makes a determination that the
+34
+need has decreased due to sufficient progress of recovery
+35
+efforts and issues an order terminating same.
+1
+379.3010. For purposes of sections 379.3000 to
+2
+379.3055, exce p t where otherwise provided, the following
+3
+terms mean:
+4
+(1) "Administrator", the director or the director's
+5
+designee ;
+6
+(2) "Director", the director of the department of
+7
+commerce and insurance;
+8
+(3) "Disputed claim", any matter on which there is a
+9
+dispute a s to the cause of loss or amount of loss under a
+10
+residential property insurance policy, for which the insurer
+11
+has denied payment, in part or whole, with respect to claims
+12
+arising from a disaster. Unless the parties agree to
+13
+mediate a disputed claim involving a lesser amount, a
+14
+"disputed claim" involves the insured requesting one
+15
+thousand five hundred dollars or more to settle the dispute,
+16
+or the difference between the positions of the parties is
+17
+one thousand five hundred dollars or more. "Disputed claim"
+18
+does not include a dispute with respect to which the insurer
+
+SB 1543 11
+19
+has reported allegations of fraud, based on a referral by
+20
+the insurer's special investigative unit, to the director.
+21
+A disputed claim does not include the following:
+22
+(a) A dispute with respect to which the insurer has
+23
+reported allegations of fraud, based on a referral by the
+24
+insurer's special investigative unit, to the director; or
+25
+(b) A dispute in which there has been a denial of
+26
+coverage for the loss because of exclusions in the
+27
+residential property insurance policy, terms in the policy,
+28
+conditions in the policy, or if coverage was not in force at
+29
+the time of the loss;
+30
+(4) "Insured", the named insured under a residential
+31
+property insurance policy;
+32
+(5) "Insurer", all insurance companies, reciprocals,
+33
+interins u rance exchanges licensed under chapters 379 and
+34
+380, and including Lloyds insurers, surplus lines insurers,
+35
+and the property insurance inspection and placement program
+36
+(the "FAIR" Plan), issuing and renewing residential property
+37
+insurance policies;
+38
+(6) "Mediation", the alternative dispute resolution
+39
+program e stablished under sections 379.3000 to 379.3055; an
+40
+informal process conducted or overseen by a mediator with
+41
+the objective of helping parties voluntarily settle a
+42
+disputed claim;
+43
+(7) "Mediator", a neutral person who acts to encourage
+44
+and faci l itate the resolution of a disputed claim. A
+45
+mediator shall not make an award or render a judgm e nt as to
+46
+the merits of the claim. A mediator shall not impose the
+47
+mediator's judgment on th e issues for that of the parties;
+48
+(8) "Party or parties", the insured and the insurer;
+49
+(9) "Residential property insurance policy or
+50
+policies " , a homeowner's insurance, dwelling-owner's
+
+SB 1543 12
+51
+insurance, residential fire insurance, condo owner's
+52
+insurance, manufactured home or mobile homeowner's
+53
+insurance, tenant's or renter's insurance, or any other
+54
+contract of insurance covering owner-occupied single-family
+55
+habitational property.
+1
+379.3015. 1. Insurers shall notify their insureds in
+2
+this state who hav e claimed damage to their residential
+3
+properties because of a disaster of their right to mediate
+4
+disputed claims. This requirement applies to all disputed
+5
+claims, including instances where partial or full payment
+6
+has been issued by the insurer to the insured.
+7
+2. The insurer shall, by mail or electronic mail,
+8
+transmi t the notice described in this section to an insured
+9
+within five days after the time the insured or the
+10
+administrator notifies the insurer of a dispute regarding
+11
+the insured's claim. The following conditions apply:
+12
+(1) If the insu r er has not been notified of a disputed
+13
+claim be f ore the time an insurer notifies the insured that a
+14
+claim has been denied in whole or in part, the insurer shall
+15
+mail a notice of the right to mediate to the insured in the
+16
+same mailing as the notice of denial;
+17
+(2) The insurer is not required to send a notice of
+18
+the righ t to mediate if a claim is denied because the amount
+19
+of the claim is less than the insured's deductible;
+20
+(3) The transmission that contains the notice of the
+21
+right to mediate shall include any consumer brochure on
+22
+mediation developed by the director; and
+23
+(4) Notification shall be in writing and shall be
+24
+legible, conspicuous, and printed in at least twelve-point
+25
+type. The first paragraph of the notice shall contain the
+26
+follo w ing statement:
+
+SB 1543 13
+27
+"THE GENERAL ASSEMBLY OF MISSOURI HAS ENACTED A
+28
+LAW TO FACILITATE FAIR AND TIMELY HANDLING OF
+29
+RESIDENTIAL PROPERTY INSURANCE CLAIMS ARISING
+30
+OUT OF CATASTROPHIC WEATHER EVENTS. THIS LAW
+31
+GIVES YOU THE RIGHT TO ATTEND A MEDIATION
+32
+CONFERENCE WITH YOUR INSURANCE COMPANY TO
+33
+SETTLE ANY DISPUTE YOU HAVE ABOUT YOUR
+34
+INSURANCE CLAIM. AN INDEPENDENT MEDIATOR, WHO
+35
+HAS NO CONNECTION WITH YOUR INSURANCE COMPANY,
+36
+WILL BE IN CHARGE OF THE MEDIATION CONFERENCE.
+37
+THERE IS NO COST TO YOU FOR USING THIS
+38
+MEDIATION PROCESS.
+39
+YOU DO NOT NEED TO HIRE A PUBLIC ADJUSTER OR AN
+40
+ATTORNEY TO USE THE MEDIATION PROCESS. IF YOU
+41
+HAVE A PUBLIC ADJUSTER OR AN ATTORNEY, YOU WILL
+42
+HAVE TO PAY THOSE COSTS.".
+43
+3. The notice shall also include the following:
+44
+(1 ) Detailed instructions on how the insured is to
+45
+request m ediation, including the name, address, telephone
+46
+number, and website address for requesting a mediation with
+47
+the administrator;
+48
+(2) The insurer's address and telephone number for
+49
+requesti n g additional information; and
+50
+(3) The state from which the administrator shall
+51
+select t h e mediator.
+1
+379.3020. 1. If an insured requests mediation before
+2
+receipt of the not i ce of the right to mediate or if the date
+3
+of the notice cannot be established, the insurer shall be
+4
+notified by the administrator of the existence of the
+5
+dispute before the administrator processes the insured's
+6
+request for mediation. An insured must request mediation
+7
+within sixty days after the denial of the claim.
+
+SB 1543 14
+8
+2. The failure to request mediation within this time
+9
+period s hall only bar the right to demand mediation and to
+10
+seek extracontractual damages under sections 537.058 and
+11
+537.065. It shall not prejudice any other legal right or
+12
+remedy o f the insured nor shall it prohibit the insurer from
+13
+voluntarily accepting the request for mediation.
+14
+3. If an insurer receives a request for mediation, the
+15
+insurer shall electronically transmit the request to the
+16
+administrator within three business days after receipt of
+17
+the request. If the director receives any request, it shall
+18
+electronicall y transmit those requests to the administrator
+19
+within three business days after receipt. The administrator
+20
+shall notify the insurer within three bus i ness days after
+21
+receipt of a request that has been filed with the director.
+22
+4. In the insured's request for mediation, the insured
+23
+shall p r ovide the following information, if known:
+24
+(1) Name, address, and daytime telephone number of the
+25
+insured a nd location of the property if different from the
+26
+address given;
+27
+(2) The claim and policy number for the insured;
+28
+(3) A brief description of the nature of the dispute;
+29
+and
+30
+(4) The name of the insurer and the name, address, and
+31
+phone nu m ber of the contact person for scheduling mediation.
+1
+379.3025. 1. The director may contract with qualified
+2
+administrators to o versee the mediation program by means of
+3
+a formal bid process. A qualified administrator may also be
+4
+selected by the direct or without a formal bid process if a
+5
+state of emergency has been declared pursuant to section
+6
+44.100. All bid processes must comply with either sections
+7
+34.040 o r 34.045.
+
+SB 1543 15
+8
+2. The expenses and fees of the mediator and of the
+9
+adminis t rator as established by the director are borne by
+10
+the insurer. All other mediation costs, fees, or expenses
+11
+shall be born e by the party incurring such costs, fees, or
+12
+expenses unless otherwise provided in a settlement agreement.
+13
+3. The director shall establish fee schedules for
+14
+monies t o be paid directly to the administrator by the
+15
+insurer for the services of the administrator, the mediator,
+16
+and for timely and untimely mediation cancellations. Fee
+17
+schedules shall be established through promulgation o f
+18
+emergency rules to be in effect no later than January 1,
+19
+2027. Such rules establishing fee schedules may be amended
+20
+as ne c essary, including as specified by section 536.025 if a
+21
+state of emergency has been declared pursuant to section
+22
+44.100.
+23
+4. The director, the administrator, and mediators
+24
+appoint e d by the director shall have such official immunity
+25
+pursuant to section 537.600 and as exists at common law.
+1
+379.3030. 1. The administrator shall select a
+2
+mediator and sc hed u le the mediation conference.
+3
+2. To be approved, the mediator who provides
+4
+alterna t ive dispute resolution services independently or
+5
+through an organization shall have appropriate training or
+6
+equivalent experience in conducting the type of alternative
+7
+dispute resolution service the individual or organization
+8
+provides, under Missouri supreme court rule 17.
+1
+379.3035. 1. The rules adopted by the director shall
+2
+include a requi rem e nt of the mediator to advise the parties
+3
+of the mediation process and their rights and duties in the
+4
+mediation process.
+5
+2. A mediator shall terminate the mediation conference
+6
+if the m ediator determines that either party is unable or
+
+SB 1543 16
+7
+unwilling to participate meaningfully in the process or upon
+8
+mutual agreement of the parties.
+9
+3. An insurer's representative attending a mediation
+10
+confere n ce shall:
+11
+(1) Bring, in paper or electronic medium, a copy of
+12
+the poli c y and the entire claims file to the conference; and
+13
+(2) Know the facts and circumstances of the claim and
+14
+be knowl e dgeable of the provisions of the policy.
+15
+4. An insurer shall be deemed to have failed to appear
+16
+if the i nsurer's representative lacks authority to settle
+17
+the claim within the limits of the policy.
+18
+5. The mediator shall be in charge of the mediation
+19
+confere n ce and shall establish and describe the procedures
+20
+to be followed.
+21
+6. A party may move to disqualify a mediator for good
+22
+cause p r ior to the conference. If the grounds for
+23
+disqualification are known bef o re the mediation conference,
+24
+the request to disqualify a mediator shall be directed to
+25
+the administrator. For purposes of this section, good cause
+26
+consists of a confl ict of interest between a party and the
+27
+mediator, the inability of the mediator to handle the
+28
+mediation conference competently, or other reasons that
+29
+would reasonably be expected to impair the mediation
+30
+conference.
+1
+379.3040. 1. Within five business days after the
+2
+conclusion of t he m ediation conference, the mediator shall
+3
+file with the administrator a mediator's status report, on a
+4
+form prescribed by the administrator, indicating whether or
+5
+not the parties reached a settlement.
+6
+2. Mediation is nonbinding unless all the parties
+7
+specifi c ally agree otherwise in writing.
+
+SB 1543 17
+8
+3. If the parties reach a settlement, the mediator
+9
+shall i n clude a copy of the settlement agreement with the
+10
+status report.
+11
+4. Within five business days after the conclusion of
+12
+the med i ation, if agreed to by the parties, the insurer
+13
+shall disburse the settlement funds in accordance with the
+14
+terms of the settlement agreement. The insured has three
+15
+business days after receipt of the settlement funds within
+16
+which to notify the director and the insurer of the
+17
+insured's decision to rescind the settlement agreement. The
+18
+rescission shall only be valid if the insured has not
+19
+received the settlement funds by electronic means or has not
+20
+cashed or deposited any check or draft disbursed to the
+21
+insured in payment of the settlement funds.
+22
+5. If a settlement agreement is reached, and is not
+23
+rescind e d, it shall act as a release of all specific claims
+24
+that were presented in the mediation conference. Any
+25
+subsequent claim under the policy shall be prese n ted as a
+26
+separate claim.
+1
+379.3042. If the insured decides not to participate in
+2
+the mediation p rogram or if the parties are unsuccessful at
+3
+resolving the claim, the insured may choose to proceed under
+4
+the appraisal process set forth in the insurance policy, by
+5
+litigation, or by any other dispute resolution procedure
+6
+available under Missouri law.
+1
+379.3045. If the insured rescinds a settlement
+2
+agreement in a c cordance with sections 379.3000 to 379.3055,
+3
+the director may review the settlement agreement to
+4
+determine if the agreement was fair to the parties to the
+5
+agreement. If the director, after completing a review and
+6
+within ten business days after receiving notice of the
+7
+rescission, deems that the settlement agreement was fair to
+
+SB 1543 18
+8
+the parties, the insured, upon notice from the director, may
+9
+withdraw the rescission within five business days after
+10
+receipt of the order from the director, and the settlement
+11
+agreement is reinstated as if no rescission had taken
+12
+place. The director's review and findings shall not be
+13
+offere d or accepted as evidence in any subsequent
+14
+proceedings brought under sections 379.3000 to 379.3055.
+1
+379.3050. 1. All statements made and documents
+2
+produced at a m edi a tion conference shall be deemed
+3
+confidential settlement communications.
+4
+2. All documents and records produced or exchanged
+5
+prior t o or during the mediation conference shall be
+6
+considered closed records under chapter 610. These
+7
+documents and records shall not be subject t o subpoena.
+8
+3. No person who serves as administrator or mediator,
+9
+nor any agent or employee of that person, shall be
+10
+subpoenaed or otherwise compelled to disclose any matter
+11
+disclosed in the process of setting up or conducting the
+12
+mediation.
+13
+4. Any communication relating to the dispute made
+14
+during t he resolution process by any party, the
+15
+administrator, mediator, or any other person present at the
+16
+mediation shall be a confidential communication. No
+17
+admission, representation, statement or other co n fidential
+18
+communication made in setting up or conducting the mediation
+19
+conference not otherwise discoverable or obtainable shall be
+20
+admissible as evidence nor shall it be subject to discovery.
+21
+5. If the director or an employee or designee of the
+22
+directo r attends a mediation proceeding, the director,
+23
+employee, or designee shall not be compelled to testify
+24
+about what transpired at the mediation or about any other
+25
+matter in connection with the mediation.
+
+SB 1543 19
+1
+379.3055. 1. The director shall promulgate all
+2
+necessary rules an d regulations for the administration of
+3
+sections 379.3000 to 379.3055. Any rule or portion of a
+4
+rule, as that term is defined i n section 536.010, that is
+5
+created under the authority delegated in this section shall
+6
+become effective only if it complies with and is subject to
+7
+all of the provisions of chapter 536 and, if applicable,
+8
+section 536.028. This section and chapter 536 are
+9
+nonseverable and if any of the powers vested with the
+10
+general assembly pursuant to chapter 536 to review, to delay
+11
+the effective date, or to disapprove and annul a rule are
+12
+subsequently held unconstitutional, then the grant of
+13
+rulemaking authority and any rule proposed or adopted after
+14
+August 28, 2026, shall be invalid and void.
+15
+2. The director shall establish emergency rules and
+16
+propose d rules including, but not limited to, the following:
+17
+(1) Fee schedules for the payment of moneys;
+18
+(2) The conduct of mediation conferences where the
+19
+rule is n ot in conflict with Missouri supreme court rule 17;
+20
+(3) A mediator advising the parties of the mediation
+21
+process a nd the parties' rights and duties in the process;
+22
+and
+23
+(4) Any other rule that the director believes is
+24
+required for the implementation of the mediation program.
+25
+3. The rules implemented under this section may be
+26
+amended as necessary, including emergency rules promulgated
+27
+under section 536.025, if a state of emergency has been
+28
+declared under section 44.100.
+29
+4. Sections 379.3000 to 379.3055 shall become
+30
+effecti v e on January 1, 2027, and expire June 30, 2038.
+1
+379.3100. Sections 379.3100 to 379.3140 shall be known
+2
+and may be cit e d as the "Missouri Stronger Homes Act".
+
+SB 1543 20
+1
+379.3105. For purposes of sections 379.3100 to
+2
+379.3040, exce p t where otherwise provided, the following
+3
+terms mean:
+4
+(1) "Department", the department of commerce and
+5
+insuranc e ;
+6
+(2) "Director", the director of the department;
+7
+(3) "Homeowner's policy", a homeowner's insurance
+8
+policy, a dwelling owner's insurance policy, or a
+9
+residential fire insurance policy covering real property
+10
+within this state. "Homeowner's policy" shall not include a
+11
+mobile homeowner's policy, a tenant's or renter's policy, or
+12
+a condo owner's policy;
+13
+(4) "Insurable property", a residential, single-
+14
+family, o wner-occupied real property within this state.
+15
+"Insurable property" shall exclude mobile homes;
+16
+(5) "Insurance Institute for Business and Home Safety"
+17
+or "IBHS " , a nonprofit organization that conducts objective,
+18
+scientific research to identify and promote the most
+19
+effective ways to strengthen homes, businesses, and
+20
+communities against natural disasters;
+21
+(6) "Insured", the named insured under a residential
+22
+property insurance policy;
+23
+(7) "Insurer", all insurance companies, reciprocals,
+24
+and inte r insurance exchanges licensed under chapters 379 and
+25
+380, and the property insurance inspection and placement
+26
+program (the "FAIR" Plan), issuing and renewing residential
+27
+property insurance policies;
+28
+(8) "Program", the Missouri stronger homes program
+29
+created u nder section 379.3110;
+30
+(9) "Residential property owner", any individual
+31
+person w h o holds legal title to real property that has been
+
+SB 1543 21
+32
+improved by a dwelling structure intended for residential,
+33
+single-family occupancy.
+1
+379.3110. 1. There is hereby created within the
+2
+department the "Mi s souri Stronger Homes Program".
+3
+2. Sections 379.3100 to 379.3140 do not create an
+4
+entitle m ent for property owners or obligate this state to
+5
+fund the inspection, construction, or retrofitting of
+6
+residential property in this state.
+7
+3. Grant moneys shall be provided under sections
+8
+379.310 0 to 379.3140 to assist Missouri residents in
+9
+retrofitting and constructing insurable properties to resist
+10
+loss due to tornado, other catastrophic windstorm events, or
+11
+hail.
+12
+4. Implementation of the program is subject to the
+13
+receipt of federal grants or funds from other sources of
+14
+grants or funds, including those funds specified in section
+15
+379.3115. The department shall use its best efforts to
+16
+obtain gr a nts or funds from the federal government or other
+17
+funding sources to supplement the financial resources of the
+18
+program.
+19
+5. The program shall apply for financial grants to
+20
+constru c t or retrofit insurable property to resist damage
+21
+due to a tornado, other catastrophic windstorm events, or
+22
+hail as prescribed in section 379.3135.
+23
+6. The program may also make grants or funding
+24
+availab l e to nonprofit entities for projects to construct or
+25
+retrofit insurable properties to resist loss due to tornado,
+26
+other catastrophic windstorm events, or hail if such grants
+27
+or funding to nonprofit entities are allowable under
+28
+Missouri law. A nonprofit entity shall agree to administer
+29
+the grants or funds in the same manner as the program is
+30
+required to administer grants or funds, and the nonprofit
+
+SB 1543 22
+31
+entity shall provide documentation to the director in a
+32
+timely manner upon request.
+33
+7. All mitigation efforts shall be based upon the
+34
+securin g of all required local permits and applicable
+35
+inspections in keeping with local building codes and the
+36
+IBHS Fortified Homes Program. Mitigation projects are
+37
+subject to random reinspectio n of all projects.
+38
+8. The director shall establish a maximum grant award
+39
+amount b y rule and adjust such amount as necessary to
+40
+reflect changes in construction costs. The maximum amount
+41
+of any grant awarded to an individual r esidential property
+42
+owner shall not exceed fifteen thousand dollars.
+1
+379.3115. 1. There is hereby created in the state
+2
+treasury the "M iss o uri Stronger Homes Fund", which shall
+3
+consist of moneys appropriated or collected under this
+4
+section.
+5
+2. The fund shall be a continuing fund, not subject to
+6
+fiscal y ear limitations, and shall consist of any moneys
+7
+deposited to the fund from the receipt of federal grants or
+8
+funds, or from other sources of grants or funds. All moneys
+9
+accruing to the credit of the fund are hereby ap p ropriated
+10
+and may be budgeted and expended by the department of
+11
+commerce and insurance for the purpose of assisting the
+12
+Missouri stronger homes program in performing all duties
+13
+that relate to the program under sections 379.3100 to
+14
+379.3140. Expenditures from the fund shall be drawn by the
+15
+state tre a surer, based on claims submitted by the
+16
+department, and filed with the office of administration.
+17
+3. Moneys collected under this section shall be
+18
+deposit e d in the fund. Moneys in this fund shall not lapse,
+19
+unless otherwise specif ied under federal funding or federal
+20
+grant, or a grant or funds from another source, or be
+
+SB 1543 23
+21
+transferred to the insurance examination fund or general
+22
+revenue and shall not be redistributed.
+23
+4. Notwithstanding any other provision of the law to
+24
+the con t rary, twelve million dollars shall be transferred
+25
+from the insurance dedicated fund established under section
+26
+374.150 and placed to the credit of the Missouri stronger
+27
+homes fund on July 1, 2027. Beginning July 1, 2028, and
+28
+annually thereafter until Ju ly 1, 2037, up to twenty percent
+29
+of the remaining balance in the insurance dedicated fund as
+30
+of June thirtieth of the preceding fiscal year, in an amount
+31
+not to exceed two million dollars in any one year, shall be
+32
+transferred to and placed to the credit of the Missouri
+33
+stronger homes fund.
+34
+5. The state treasurer shall be custodian of the fund
+35
+and sha l l approve disbursements from the fund in accordance
+36
+with sections 30.170 and 30.180. Upon appropriation, moneys
+37
+in the fund shall be used solely for the purposes of this
+38
+section. The state treasurer shall invest moneys in the
+39
+fund in the same manner as other funds are invested. Any
+40
+interest and moneys earned on such investments shall be
+41
+credited to the fund.
+42
+6. The provisions of this section shall expire on June
+43
+30, 203 8 .
+44
+7. Any moneys remaining in the Missouri stronger homes
+45
+fund at the expiration of the program on July 1, 2038, shall
+46
+revert and be transferred back to the insurance dedicated
+47
+fund established under section 374.150.
+1
+379.3120. 1. To be eligible for a grant under the
+2
+Missouri strong er h omes program, residential property owners
+3
+applying for a grant shall meet the eligibility requirements
+4
+set forth by the director by rule for each grant type. The
+
+SB 1543 24
+5
+requirements shall include, but are not limited to, the
+6
+following:
+7
+(1) The insurable property shall be located within
+8
+this sta t e and shall be the primary residence of the
+9
+applicant, or, if new construction, the construction shall
+10
+be located within this state and the applicant shall provide
+11
+other documentation to demonstrate qualification for the
+12
+grant, as specified by rules promulgated by the director;
+13
+(2) The insurable property to be mitigated shall be an
+14
+owner-oc c upied, single-family, primary residence and cannot
+15
+be a condominium, multifamily dwelling, or a mobile home;
+16
+(3) The insurable property shall be in a livable
+17
+conditio n , safe for habitation or use, and otherwise
+18
+eligible for a certificate of residential occupancy, unless
+19
+damaged by a tornado, other catastrophic windstorm event, or
+20
+hail;
+21
+(4) The grant funds cannot be used for general
+22
+maintena n ce or repairs, but may be used in conjunction with
+23
+repairs or reconstruction necessitated by damages from a
+24
+tornado or other catastrophic windstorm event or hail;
+25
+(5) A certified IBHS evaluator shall prequalify the
+26
+insurabl e property as mitigable and identify all
+27
+improvements required to achieve IBHS FORTIFIED Roof,
+28
+FORTIFIED Silver, FORTIFIED Gold, or successor designation,
+29
+or similar standard approved by the director. The
+30
+residential property owner shall select the e v aluator from a
+31
+list provided by the program and shall pay the evaluator's
+32
+fee;
+33
+(6) The residential property owner shall obtain bids
+34
+from at l east three IBHS-certified contractors approved by
+35
+the program;
+
+SB 1543 25
+36
+(7) The residential property owner shall construct or
+37
+retrofit the home to the IBHS FORTIFIED Roof, FORTIFIED
+38
+Silver, FORTIFIED Gold, or successor designation, or similar
+39
+standard approved by the director, which shall include the
+40
+hail supplement;
+41
+(8) The residential property owner shall provide proof
+42
+of an ac t ive, in-force homeowner's policy insuring against
+43
+wind and hail damage to the home, unless good cause is
+44
+demonstrated by the applicant; and
+45
+(9) If the insurable property is in a special flood
+46
+hazard a r ea, the residential property owner shall provide
+47
+proof of an in-force flood insurance policy. The flood
+48
+policy may be from the National Flood Insura n ce Program
+49
+(NFIP) or a private insurer.
+50
+2. Grant applications shall be filed electronically
+51
+with th e department in the form and manner prescribed by the
+52
+director, along with any applicable transaction fees.
+53
+3. Grant applications and documents, materials, and
+54
+other i n formation submitted to the department by residential
+55
+property owners or insurers in support of a grant
+56
+application shall be closed records under chapter 610.
+57
+These records shall not be subject to open records req u ests,
+58
+subpoenas, and shall not be subject to discovery or be
+59
+admissible as evidence in any private civil action. The
+60
+director is authorized to use the documents, materi a ls, or
+61
+other information in furtherance of any regulatory or legal
+62
+action brought as a part of the director's duties.
+63
+4. Grants to residential property owners shall be used
+64
+to cons t ruct or retrofit an insurable property to resist
+65
+loss due to a tornado or other catastrophic windstorm event
+66
+or hail as prescribed in the FORTIFIED Home High Wind and
+
+SB 1543 26
+67
+Hail Standards, as may from time to time be adopted by the
+68
+IBHS.
+69
+5. Retrofit projects should be completed within six
+70
+months o f the date the residential property owner receives
+71
+notice of the grant approval. New construction shall be
+72
+completed within the time fra m e approved by the director.
+73
+Failure to complete the project within the prescribed tim e
+74
+frames may result in forfeiture of the grant.
+75
+6. Grant funds shall only be paid after a certificate
+76
+has bee n issued for the fortified standard approved by the
+77
+director. Grant funds shall be paid by the department or
+78
+another d e signated agency, on behalf of the residential
+79
+property owner, directly to the contractor who performed the
+80
+mitigation work.
+81
+7. Applications shall be accepted on a first-come,
+82
+first-s e rved basis within each income tier established by
+83
+the director, with priority given to lower-income
+84
+applicants, applicants who live in locations that, based on
+85
+historical data, have a higher susceptibility to
+86
+catastrophic weather events, and applicants meeting any
+87
+other criteria the director determines is appropriate to
+88
+meet the purpose of the program.
+89
+8. Any entity providing funds to the program shall be
+90
+permitt e d to establish additional rules and guidelines under
+91
+which those funds may be used, as long as such rules and
+92
+guidelines do not violate any state or federal law.
+93
+9. The department may conduct random inspections of
+94
+funds, r ecords, and properties to detect any fraud.
+1
+379.3125. 1. Under the program, a residential
+2
+property owner sha l l hire an IBHS-certified contractor who
+3
+is capable of performing work that satisfies the standards
+4
+prescribed by this act and the rules adopted thereto.
+
+SB 1543 27
+5
+2. The department shall not endorse or otherwise
+6
+provide preferential treatment to any contractor.
+7
+3. A residential property owner is responsible for any
+8
+amount o wed to a contractor that exceeds awarded grant
+9
+moneys.
+10
+4. To be eligible to work on a project funded by the
+11
+program as a contractor, a contractor shall meet all program
+12
+requirements including, but not limited to, maintaining a
+13
+current copy of all applicable certificates, licenses, and
+14
+proof of insurance coverages with the department. In
+15
+addition, a contractor shall:
+16
+(1) If required under Missouri law, hold a valid and
+17
+active c o ntractor's license or registration in Missouri and
+18
+be free from all disciplinary action by any applicable
+19
+licensing board or boards;
+20
+(2) Be registered to do business in Missouri with the
+21
+secretar y of state;
+22
+(3) Have a valid state tax identification number in
+23
+this sta t e;
+24
+(4) Have an in-force general liability policy with at
+25
+least fi v e hundred thousand dollars in liability coverage;
+26
+(5) Have workers' compensation and employer's
+27
+liabilit y insurance in accordance with chapter 287;
+28
+(6) Hold an active IBHS FORTIFIED Roof Contractor
+29
+Certific a tion or FORTIFIED Professional Certification, and
+30
+be responsible for paying all fees associated with
+31
+certification and training;
+32
+(7) Successfully register as a vendor or supplier with
+33
+the offi c e of administration;
+34
+(8) Maintain accurate contact information with the
+35
+Missouri stronger homes program;
+
+SB 1543 28
+36
+(9) Agree to follow all procedures and rules as
+37
+prescrib e d by the director;
+38
+(10) Not have a financial interest in any project
+39
+funded by the Missouri stronger homes program for which the
+40
+contractor performs work other than receiving payment on
+41
+behalf of the residential property owner from the program
+42
+and shall report to the program any potential conflicts of
+43
+interest before work commences; and
+44
+(11) Not be an evaluator for any project funded by the
+45
+program.
+1
+379.3130. To be eligible to work on a project funded
+2
+by the program as an evaluator, the evaluator shall meet all
+3
+program requirements including, but not limited to, the
+4
+following:
+5
+(1) Maintaining a current copy of all applicable
+6
+certific a tes and licenses with the program office;
+7
+(2) Being in good standing with IBHS and maintaining
+8
+an activ e IBHS certification as a FORTIFIED Home Evaluator.
+9
+The evaluator shall be responsible for paying all fees
+10
+associated with certification and training;
+11
+(3) Agreeing to follow the program's procedures and
+12
+rules as prescribed by the director;
+13
+(4) Maintaining accurate contact information with the
+14
+program;
+15
+(5) Not having any financial interest in any project
+16
+that the evaluator inspects for designation purposes related
+17
+to the program;
+18
+(6) Not being a contractor or supplier of any
+19
+material s or products or systems installed in any home the
+20
+evaluator inspects for designation purposes for the program;
+21
+(7) Not being a sales agent or realtor for any home
+22
+being de s ignated for the program; and
+
+SB 1543 29
+23
+(8) Informing the program of any potential conflicts
+24
+of inter e st.
+1
+379.3135. 1. For homeowner's insurance policies
+2
+issued, continu ed, or renewed on or after January 1, 2027,
+3
+insurers shall provide a premium discount or insurance rate
+4
+reduction in an amount and manner as specified in this
+5
+section.
+6
+2. A premium discount or rate reduction shall be
+7
+availab l e under the terms specified in this section to any
+8
+insured who retrofits the insurable property located in this
+9
+state to resist loss due to tornado, other catastrophic
+10
+windstorm events, or hail.
+11
+3. Insurers shall be required to offer a premium
+12
+discoun t or rate reduction only when the insurer has deemed
+13
+the adjustments to be actuarially justified and there is
+14
+sufficient and credible evidence of cost savings, which can
+15
+be attributed to the construction standards set forth in
+16
+this section.
+17
+4. Insurers may also offer additional adjustments in
+18
+deducti b le, other risk differentials, or a combination
+19
+thereof, collectively referred to as other adjustments.
+20
+5. To obtain the premium discount, rate reduction, or
+21
+other a d justment provided in this section, an insurable
+22
+property shall be retrofitted to the FORTIFIED Home High
+23
+Wind and Hail Standards, as may from time to time be adopted
+24
+by the IBHS. An insurable property shall be certified as
+25
+conforming to FORTIFIED Home High Wind and Hail Standards
+26
+only after evaluation and certification by an evaluator
+27
+certified pursuant to the FORTIFIED Home High Wind and Hail
+28
+Standards.
+29
+6. An insured claiming a premium discount, rate
+30
+reducti o n, or other adjustment under this section shall
+
+SB 1543 30
+31
+maintain sufficient certification records and construction
+32
+records for the insurable property, including, but not
+33
+limited to, a certification of compliance with the FORTIFIED
+34
+Home High Wind and Hail Standards as provided in this
+35
+section, receipts from contractors, and receipts for
+36
+materials. Copies of the certification and construction
+37
+records sha ll be presented to the insurer or potential
+38
+insurer of an insurable property before the premium
+39
+discount, rate reduction, or other adjustment becomes
+40
+effective for the insurable property.
+41
+7. Insurers that write homeowner's insurance policies
+42
+that ar e subject to the premium discount or rate reduction
+43
+in this section shall submit rating plans under section
+44
+379.321, accompanied by actuarial justification
+45
+substantiating the premium discounts or rate reductions
+46
+described in this section. A premium discount, rate
+47
+reduction, or other adjustm ent shall apply only to policies
+48
+that provide wind or hail coverage. A premium discount,
+49
+rate reduction, or other adjustment shall apply only to the
+50
+premium representative of wind or hail damage to insurable
+51
+property.
+52
+8. If an insurer already offers an actuarially
+53
+justifi e d hail resistance discount, that hail-related
+54
+discount shall be deemed as having met the requirements of
+55
+sections 379.3100 to 379.3140 as it pertains to hail-related
+56
+discounts or rate reductions and no additional hail-related
+57
+discount or rate reduction shall be required.
+58
+9. If an insurer already offers an actuarially
+59
+justifi e d discount for meeting IBHS FORTIFIED Home
+60
+Standards, that discount shall be deemed as having met the
+61
+requirements of this act as it pertains to wind-related
+
+SB 1543 31
+62
+discounts or rate reductions and no additional wind-related
+63
+discount or rate reduction shall be required.
+64
+10. Insurers shall apply the premium discount, rate
+65
+reductio n , or other adjustment to the premium at the policy
+66
+renewal that follows the submission of the certification to
+67
+the insurer. At the time of a policy renewal for which a
+68
+premium disco unt, rate reduction, or other adjustment has
+69
+previously been made, the insurer may request documentation
+70
+or recertification that the FORTIFIED Home Standards as
+71
+described in this section continue to be met.
+72
+11. In addition to the requirements of this section,
+73
+an insur e r may voluntarily offer any other mitigation
+74
+adjustment that the insurer deems appropriate.
+1
+379.3140. 1. The director may promulgate all
+2
+necessary rules an d regulations for the administration of
+3
+sections 379.3100 to 379.3140, including any instructions or
+4
+requirements on grants and funds received by the
+5
+department. Any rule or portion of a rule, as that term is
+6
+defined in s ection 536.010, that is created under the
+7
+authority delegated in this section shall become effective
+8
+only if it complies with and is subject to all of the
+9
+provisions of chapter 536 and, if applicable, section
+10
+536.028. This section and chapter 536 are nonseverable and
+11
+if any o f the powers vested with the general assembly
+12
+pursuant to chapter 536 to review, to delay the effective
+13
+date, or to disapprove and annul a rule are subsequently
+14
+held unconstitutional, then the grant of rulemaking
+15
+authority and any rule proposed or adopted after August 28,
+16
+2026, shall be invalid and void.
+17
+2. Sections 379.3100 to 379.3140 shall expire on June
+18
+30, 203 8 .
+

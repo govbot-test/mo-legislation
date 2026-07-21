@@ -1,0 +1,3200 @@
+Title: 
+Official Title: 
+Source: versions - 4584S.01I - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SECOND REGULAR SESSION
+SENATE BILL NO. 1692
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR LEWIS.
+4584S.01I KRISTINA MARTIN, Secretary
+AN ACT
+To repeal sections 188.015, 188.017, 188.020, 188.021, 188.027, 188.030, 188.033, 188.038,
+188.039, 188.047, 188.052, 188.056, 188.057, 188.058, 188.075, 188.080, 188.230,
+188.375, 192.665, 192.667, 197.150, 197.152, 197.158, 197.160, 197.165, 197.200,
+197.205, 197.215, 197.220, 197.225, 197.230, 197.235, 197.240, 197.285, 197.287,
+197.289, 197.293, 197.295, 334.100, 334.245, 334.735, 574.200, and 595.027, RSMo,
+and to enact in lieu thereof twenty-four new sections relating to abortion.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Sections 188.015, 188.017, 188.020, 188.021,
+2 188.027, 188.030, 188.033, 188.038, 188.039, 188.047, 188.052,
+3 188.056, 188.057, 188.058, 188.075, 188.080, 188.230, 188.375,
+4 192.665, 192.667, 197.150, 197.152, 197.158, 197.160, 197.165,
+5 197.200, 197.205, 197.215, 197.220, 197.225, 197.230, 197.235,
+6 197.240, 197.285, 197.287, 197.289, 197.293, 197.295, 334.100,
+7 334.245, 334.735, 574.200, and 595.027, RSMo, are repealed and
+8 twenty-four new sections enacted in lieu thereof, to be known
+9 as sections 188.015, 192.665, 192.667, 197.150, 197.152,
+10 197.158, 197.160, 197.165, 197.200, 197.205, 197.215, 197.220,
+11 197.225, 197.230, 197.235, 197.240, 197.285, 197.287, 197.289,
+12 197.293, 197.295, 334.100, 334.735, and 595.027, to read as
+13 follows:
+1 188.015. As used in this chapter, the following terms
+2 mean:
+3 (1) "Abortion":
+EXPLANATION-Matter enclosed in bold-faced brackets [thus] in this bill is not enacted
+and is intended to be omitted in the law.
+
+SB 1692 2
+4 (a) The act of using or prescribing any instrument,
+5 device, medicine, drug, or any other means or substance with
+6 the intent to destroy the life of an embryo or fetus in his
+7 or her mother's womb; or
+8 (b) The intentional termination of the pregnancy of a
+9 mother by using or prescribing any instrument, device,
+10 medicine, drug, or other means or substance with an
+11 intention other than to increase the probability of a live
+12 birth or to remove a dead unborn child;
+13 (2) "Abortion facility", a clinic, physician's office,
+14 or any other place or facility in which abortions are
+15 performed or induced other than a hospital;
+16 (3) "Affiliate", a person who or entity that enters
+17 into, with an abortion facility, a legal relationship
+18 created or governed by at least one written instrument,
+19 including a certificate of formation, a franchise agreement,
+20 standards of affiliation, bylaws, or a license, that
+21 demonstrates:
+22 (a) Common ownership, management, or control between
+23 the parties to the relationship;
+24 (b) A franchise granted by the person or entity to the
+25 affiliate; or
+26 (c) The granting or extension of a license or other
+27 agreement authorizing the affiliate to use the other
+28 person's or entity's brand name, trademark, service mark, or
+29 other registered identification mark;
+30 (4) "Conception", the fertilization of the ovum of a
+31 female by a sperm of a male;
+32 (5) "Department", the department of health and senior
+33 services;
+34 (6) ["Down Syndrome", the same meaning as defined in
+35 section 191.923;
+
+SB 1692 3
+36 (7)] "Gestational age", length of pregnancy as
+37 measured from the first day of the woman's last menstrual
+38 period;
+39 [(8)] (7) "Medical emergency", a condition which,
+40 based on reasonable medical judgment, so complicates the
+41 medical condition of a pregnant woman as to necessitate the
+42 immediate abortion of her pregnancy to avert the death of
+43 the pregnant woman or for which a delay will create a
+44 serious risk of substantial and irreversible physical
+45 impairment of a major bodily function of the pregnant woman;
+46 [(9)] (8) "Physician", any person licensed to practice
+47 medicine in this state by the state board of registration
+48 for the healing arts;
+49 [(10)] (9) "Reasonable medical judgment", a medical
+50 judgment that would be made by a reasonably prudent
+51 physician, knowledgeable about the case and the treatment
+52 possibilities with respect to the medical conditions
+53 involved;
+54 [(11)] (10) "Unborn child", the offspring of human
+55 beings from the moment of conception until birth and at
+56 every stage of its biological development, including the
+57 human conceptus, zygote, morula, blastocyst, embryo, and
+58 fetus[;
+59 (12) "Viability" or "viable", that stage of fetal
+60 development when the life of the unborn child may be
+61 continued indefinitely outside the womb by natural or
+62 artificial life-supportive systems;
+63 (13) "Viable pregnancy" or "viable intrauterine
+64 pregnancy", in the first trimester of pregnancy, an
+65 intrauterine pregnancy that can potentially result in a
+66 liveborn baby].
+
+SB 1692 4
+1 192.665. As used in this section, section 192.667, and
+2 sections 197.150 to 197.165, the following terms mean:
+3 (1) "Charge data", information submitted by health
+4 care providers on current charges for leading procedures and
+5 diagnoses;
+6 (2) "Charges by payer", information submitted by
+7 hospitals on amount billed to Medicare, Medicaid, other
+8 government sources and all nongovernment sources combined as
+9 one data element;
+10 (3) "Department", the department of health and senior
+11 services;
+12 (4) "Financial data", information submitted by
+13 hospitals drawn from financial statements which includes the
+14 balance sheet, income statement, charity care and bad debt
+15 and charges by payer, prepared in accordance with generally
+16 accepted accounting principles;
+17 (5) "Health care provider", hospitals as defined in
+18 section 197.020 and ambulatory surgical centers [and
+19 abortion facilities] as defined in section 197.200;
+20 (6) "Nosocomial infection", as defined by the federal
+21 Centers for Disease Control and Prevention and applied to
+22 infections within hospitals, ambulatory surgical centers,
+23 [abortion facilities,] and other facilities;
+24 (7) "Nosocomial infection incidence rate", a risk-
+25 adjusted measurement of new cases of nosocomial infections
+26 by procedure or device within a population over a given
+27 period of time, with such measurements defined by rule of
+28 the department pursuant to subsection 3 of section 192.667
+29 for use by all hospitals, ambulatory surgical centers,
+30 [abortion facilities,] and other facilities in complying
+31 with the requirements of the Missouri nosocomial infection
+32 control act of 2004;
+
+SB 1692 5
+33 (8) "Other facility", a type of facility determined to
+34 be a source of infections and designated by rule of the
+35 department pursuant to subsection 11 of section 192.667;
+36 (9) "Patient abstract data", data submitted by
+37 hospitals which includes but is not limited to date of
+38 birth, sex, race, zip code, county of residence, admission
+39 date, discharge date, principal and other diagnoses,
+40 including external causes, principal and other procedures,
+41 procedure dates, total billed charges, disposition of the
+42 patient and expected source of payment with sources
+43 categorized according to Medicare, Medicaid, other
+44 government, workers' compensation, all commercial payors
+45 coded with a common code, self-pay, no charge and other.
+1 192.667. 1. All health care providers shall at least
+2 annually provide to the department charge data as required
+3 by the department. All hospitals shall at least annually
+4 provide patient abstract data and financial data as required
+5 by the department. Hospitals as defined in section 197.020
+6 shall report patient abstract data for outpatients and
+7 inpatients. Ambulatory surgical centers [and abortion
+8 facilities] as defined in section 197.200 shall provide
+9 patient abstract data to the department. The department
+10 shall specify by rule the types of information which shall
+11 be submitted and the method of submission.
+12 2. The department shall collect data on the incidence
+13 of health care-associated infections from hospitals,
+14 ambulatory surgical centers, [abortion facilities,] and
+15 other facilities as necessary to generate the reports
+16 required by this section. Hospitals, ambulatory surgical
+17 centers, [abortion facilities,] and other facilities shall
+18 provide such data in compliance with this section. In order
+19 to streamline government and to eliminate duplicative
+
+SB 1692 6
+20 reporting requirements, if the Centers for Medicare and
+21 Medicaid Services, or its successor entity, requires
+22 hospitals to submit health care-associated infection data,
+23 then hospitals and the department shall not be required to
+24 comply with the health care-associated infection data
+25 reporting requirements of subsections 2 to 17 of this
+26 section applicable to hospitals, except that the department
+27 shall post a link on its website to publicly reported data
+28 by hospitals on the Centers for Medicare and Medicaid
+29 Services' Hospital Compare website, or its successor.
+30 3. The department shall promulgate rules specifying
+31 the standards and procedures for the collection, analysis,
+32 risk adjustment, and reporting of the incidence of health
+33 care-associated infections and the types of infections and
+34 procedures to be monitored pursuant to subsection 13 of this
+35 section. In promulgating such rules, the department shall:
+36 (1) Use methodologies and systems for data collection
+37 established by the federal Centers for Disease Control and
+38 Prevention's National Healthcare Safety Network, or its
+39 successor; and
+40 (2) Consider the findings and recommendations of the
+41 infection control advisory panel established pursuant to
+42 section 197.165.
+43 4. By January 1, 2017, the infection control advisory
+44 panel created by section 197.165 shall make recommendations
+45 to the department regarding the Centers for Medicare and
+46 Medicaid Services' health care-associated infection data
+47 collection, analysis, and public reporting requirements for
+48 hospitals, ambulatory surgical centers, and other facilities
+49 in the federal Centers for Disease Control and Prevention's
+50 National Healthcare Safety Network, or its successor, in
+51 lieu of all or part of the data collection, analysis, and
+
+SB 1692 7
+52 public reporting requirements of this section. The advisory
+53 panel recommendations shall address which hospitals shall be
+54 required as a condition of licensure to use the National
+55 Healthcare Safety Network for data collection; the use of
+56 the National Healthcare Safety Network for risk adjustment
+57 and analysis of hospital submitted data; and the use of the
+58 Centers for Medicare and Medicaid Services' Hospital Compare
+59 website, or its successor, for public reporting of the
+60 incidence of health care-associated infection metrics. The
+61 advisory panel shall consider the following factors in
+62 developing its recommendation:
+63 (1) Whether the public is afforded the same or greater
+64 access to facility-specific infection control indicators and
+65 metrics;
+66 (2) Whether the data provided to the public is subject
+67 to the same or greater accuracy of risk adjustment;
+68 (3) Whether the public is provided with the same or
+69 greater specificity of reporting of infections by type of
+70 facility infections and procedures;
+71 (4) Whether the data is subject to the same or greater
+72 level of confidentiality of the identity of an individual
+73 patient;
+74 (5) Whether the National Healthcare Safety Network, or
+75 its successor, has the capacity to receive, analyze, and
+76 report the required data for all facilities;
+77 (6) Whether the cost to implement the National
+78 Healthcare Safety Network infection data collection and
+79 reporting system is the same or less.
+80 5. After considering the recommendations of the
+81 infection control advisory panel, and provided that the
+82 requirements of subsection 13 of this section can be met,
+83 the department shall implement guidelines from the federal
+
+SB 1692 8
+84 Centers for Disease Control and Prevention's National
+85 Healthcare Safety Network, or its successor. It shall be a
+86 condition of licensure for hospitals that meet the minimum
+87 public reporting requirements of the National Healthcare
+88 Safety Network and the Centers for Medicare and Medicaid
+89 Services to participate in the National Healthcare Safety
+90 Network, or its successor. Such hospitals shall permit the
+91 National Healthcare Safety Network, or its successor, to
+92 disclose facility-specific infection data to the department
+93 as required under this section, and as necessary to provide
+94 the public reports required by the department. It shall be
+95 a condition of licensure for any ambulatory surgical center
+96 [or abortion facility] which does not voluntarily
+97 participate in the National Healthcare Safety Network, or
+98 its successor, to submit facility-specific data to the
+99 department as required under this section, and as necessary
+100 to provide the public reports required by the department.
+101 6. The department shall not require the resubmission
+102 of data which has been submitted to the department of health
+103 and senior services or the department of social services
+104 under any other provision of law. The department of health
+105 and senior services shall accept data submitted by
+106 associations or related organizations on behalf of health
+107 care providers by entering into binding agreements
+108 negotiated with such associations or related organizations
+109 to obtain data required pursuant to section 192.665 and this
+110 section. A health care provider shall submit the required
+111 information to the department of health and senior services:
+112 (1) If the provider does not submit the required data
+113 through such associations or related organizations;
+114 (2) If no binding agreement has been reached within
+115 ninety days of August 28, 1992, between the department of
+
+SB 1692 9
+116 health and senior services and such associations or related
+117 organizations; or
+118 (3) If a binding agreement has expired for more than
+119 ninety days.
+120 7. Information obtained by the department under the
+121 provisions of section 192.665 and this section shall not be
+122 public information. Reports and studies prepared by the
+123 department based upon such information shall be public
+124 information and may identify individual health care
+125 providers. The department of health and senior services may
+126 authorize the use of the data by other research
+127 organizations pursuant to the provisions of section
+128 192.067. The department shall not use or release any
+129 information provided under section 192.665 and this section
+130 which would enable any person to determine any health care
+131 provider's negotiated discounts with specific preferred
+132 provider organizations or other managed care organizations.
+133 The department shall not release data in a form which could
+134 be used to identify a patient. Any violation of this
+135 subsection is a class A misdemeanor.
+136 8. The department shall undertake a reasonable number
+137 of studies and publish information, including at least an
+138 annual consumer guide, in collaboration with health care
+139 providers, business coalitions and consumers based upon the
+140 information obtained pursuant to the provisions of section
+141 192.665 and this section. The department shall allow all
+142 health care providers and associations and related
+143 organizations who have submitted data which will be used in
+144 any publication to review and comment on the publication
+145 prior to its publication or release for general use. The
+146 publication shall be made available to the public for a
+147 reasonable charge.
+
+SB 1692 10
+148 9. Any health care provider which continually and
+149 substantially, as these terms are defined by rule, fails to
+150 comply with the provisions of this section shall not be
+151 allowed to participate in any program administered by the
+152 state or to receive any moneys from the state.
+153 10. A hospital, as defined in section 197.020,
+154 aggrieved by the department's determination of ineligibility
+155 for state moneys pursuant to subsection 9 of this section
+156 may appeal as provided in section 197.071. An ambulatory
+157 surgical center [or abortion facility] as defined in section
+158 197.200 aggrieved by the department's determination of
+159 ineligibility for state moneys pursuant to subsection 9 of
+160 this section may appeal as provided in section 197.221.
+161 11. The department of health may promulgate rules
+162 providing for collection of data and publication of the
+163 incidence of health care-associated infections for other
+164 types of health facilities determined to be sources of
+165 infections; except that, physicians' offices shall be exempt
+166 from reporting and disclosure of such infections.
+167 12. By January 1, 2017, the advisory panel shall
+168 recommend and the department shall adopt in regulation with
+169 an effective date of no later than January 1, 2018, the
+170 requirements for the reporting of the following types of
+171 infections as specified in this subsection:
+172 (1) Infections associated with a minimum of four
+173 surgical procedures for hospitals and a minimum of two
+174 surgical procedures for ambulatory surgical centers that
+175 meet the following criteria:
+176 (a) Are usually associated with an elective surgical
+177 procedure. An "elective surgical procedure" is a planned,
+178 nonemergency surgical procedure that may be either medically
+
+SB 1692 11
+179 required such as a hip replacement or optional such as
+180 breast augmentation;
+181 (b) Demonstrate a high priority aspect such as
+182 affecting a large number of patients, having a substantial
+183 impact for a smaller population, or being associated with
+184 substantial cost, morbidity, or mortality; or
+185 (c) Are infections for which reports are collected by
+186 the National Healthcare Safety Network or its successor;
+187 (2) Central line-related bloodstream infections;
+188 (3) Health care-associated infections specified for
+189 reporting by hospitals, ambulatory surgical centers, and
+190 other health care facilities by the rules of the Centers for
+191 Medicare and Medicaid Services to the federal Centers for
+192 Disease Control and Prevention's National Healthcare Safety
+193 Network, or its successor; and
+194 (4) Other categories of infections that may be
+195 established by rule by the department.
+196 The department, in consultation with the advisory panel,
+197 shall be authorized to collect and report data on subsets of
+198 each type of infection described in this subsection.
+199 13. In consultation with the infection control
+200 advisory panel established pursuant to section 197.165, the
+201 department shall develop and disseminate to the public
+202 reports based on data compiled for a period of twelve
+203 months. Such reports shall be updated quarterly and shall
+204 show for each hospital, ambulatory surgical center,
+205 [abortion facility,] and other facility metrics on risk-
+206 adjusted health care-associated infections under this
+207 section.
+208 14. The types of infections under subsection 12 of
+209 this section to be publicly reported shall be determined by
+
+SB 1692 12
+210 the department by rule and shall be consistent with the
+211 infections tracked by the National Healthcare Safety
+212 Network, or its successor.
+213 15. Reports published pursuant to subsection 13 of
+214 this section shall be published and readily accessible on
+215 the department's internet website. The reports shall be
+216 distributed at least annually to the governor and members of
+217 the general assembly. The department shall make such
+218 reports available to the public for a period of at least two
+219 years.
+220 16. The Hospital Industry Data Institute shall publish
+221 a report of Missouri hospitals'[,] and ambulatory surgical
+222 centers'[, and abortion facilities'] compliance with
+223 standardized quality of care measures established by the
+224 federal Centers for Medicare and Medicaid Services for
+225 prevention of infections related to surgical procedures. If
+226 the Hospital Industry Data Institute fails to do so by July
+227 31, 2008, and annually thereafter, the department shall be
+228 authorized to collect information from the Centers for
+229 Medicare and Medicaid Services or from hospitals[,] and
+230 ambulatory surgical centers[, and abortion facilities] and
+231 publish such information in accordance with this section.
+232 17. The data collected or published pursuant to this
+233 section shall be available to the department for purposes of
+234 licensing hospitals[,] and ambulatory surgical centers[, and
+235 abortion facilities] pursuant to chapter 197.
+236 18. The department shall promulgate rules to implement
+237 the provisions of section 192.131 and sections 197.150 to
+238 197.160. Any rule or portion of a rule, as that term is
+239 defined in section 536.010, that is created under the
+240 authority delegated in this section shall become effective
+241 only if it complies with and is subject to all of the
+
+SB 1692 13
+242 provisions of chapter 536 and, if applicable, section
+243 536.028. This section and chapter 536 are nonseverable and
+244 if any of the powers vested with the general assembly
+245 pursuant to chapter 536 to review, to delay the effective
+246 date, or to disapprove and annul a rule are subsequently
+247 held unconstitutional, then the grant of rulemaking
+248 authority and any rule proposed or adopted after August 28,
+249 2004, shall be invalid and void.
+250 19. No later than August 28, 2017, each hospital,
+251 excluding mental health facilities as defined in section
+252 632.005, and each ambulatory surgical center [and abortion
+253 facility] as defined in section 197.200, shall in
+254 consultation with its medical staff establish an
+255 antimicrobial stewardship program for evaluating the
+256 judicious use of antimicrobials, especially antibiotics that
+257 are the last line of defense against resistant infections.
+258 The hospital's stewardship program and the results of the
+259 program shall be monitored and evaluated by hospital quality
+260 improvement departments and shall be available upon
+261 inspection to the department. At a minimum, the
+262 antimicrobial stewardship program shall be designed to
+263 evaluate that hospitalized patients receive, in accordance
+264 with accepted medical standards of practice, the appropriate
+265 antimicrobial, at the appropriate dose, at the appropriate
+266 time, and for the appropriate duration.
+267 20. Hospitals described in subsection 19 of this
+268 section shall meet the National Healthcare Safety Network
+269 requirements for reporting antimicrobial usage or resistance
+270 by using the Centers for Disease Control and Prevention's
+271 Antimicrobial Use and Resistance (AUR) Module when
+272 conditions of participation promulgated by the Centers for
+273 Medicare and Medicaid Services requiring the electronic
+
+SB 1692 14
+274 reporting of antibiotic use or antibiotic resistance by
+275 hospitals become effective. When such antimicrobial usage
+276 or resistance reporting takes effect, hospitals shall
+277 authorize the National Healthcare Safety Network, or its
+278 successor, to disclose to the department facility-specific
+279 information reported to the AUR Module. Facility-specific
+280 data on antibiotic usage and resistance collected under this
+281 subsection shall not be disclosed to the public, but the
+282 department may release case-specific information to other
+283 facilities, physicians, and the public if the department
+284 determines on a case-by-case basis that the release of such
+285 information is necessary to protect persons in a public
+286 health emergency. Nothing in this section shall prohibit a
+287 hospital from voluntarily reporting antibiotic use or
+288 antibiotic resistance data through the National Healthcare
+289 Safety Network, or its successor, prior to the effective
+290 date of the conditions of participation requiring the
+291 reporting.
+292 21. The department shall make a report to the general
+293 assembly beginning January 1, 2018, and on every January
+294 first thereafter on the incidence, type, and distribution of
+295 antimicrobial-resistant infections identified in the state
+296 and within regions of the state.
+1 197.150. The department shall require that each
+2 hospital, ambulatory surgical center, [abortion facility,]
+3 and other facility have in place procedures for monitoring
+4 and enforcing compliance with infection control regulations
+5 and standards. Such procedures shall be coordinated with
+6 administrative staff, personnel staff, and the quality
+7 improvement program. Such procedures shall include, at a
+8 minimum, requirements for the facility's infection control
+9 program to conduct surveillance of personnel with a portion
+
+SB 1692 15
+10 of the surveillance to be done in such manner that employees
+11 and medical staff are observed without their knowledge of
+12 such observation, provided that this unobserved surveillance
+13 requirement shall not be considered to be grounds for
+14 licensure enforcement action by the department until the
+15 department establishes clear and verifiable criteria for
+16 determining compliance. Such surveillance also may include
+17 monitoring of the rate of use of hand hygiene products.
+1 197.152. 1. Infection control officers as defined in
+2 federal regulation and other hospital[,] and ambulatory
+3 surgical center[, and abortion facility] employees shall be
+4 protected against retaliation by the hospital[,] or
+5 ambulatory surgical center[, or abortion facility] for
+6 reporting infection control concerns pursuant to section
+7 197.285 and shall be entitled to the full benefits of that
+8 section. Such infection control officers shall report any
+9 interference in the performance of their duties by their
+10 supervisors to the hospital[,] or ambulatory surgical
+11 center[, or abortion facility] compliance officer
+12 established by and empowered to act pursuant to section
+13 197.285.
+14 2. Infection control officers as defined in federal
+15 regulation shall also have the authority to order the
+16 cessation of a practice that falls outside accepted
+17 practices as defined by appropriate state and federal
+18 regulatory agencies, accreditation organizations, or the
+19 standards adopted by the Centers for Disease Control and
+20 Prevention or the Association of Professionals in Infection
+21 Control and Epidemiology. The hospital[,] or ambulatory
+22 surgical center[, or abortion facility] may require that
+23 such a cessation order of an infection control officer be
+24 endorsed by the hospital[,] or ambulatory surgical center[,
+
+SB 1692 16
+25 or abortion facility] chief executive officer or his or her
+26 designee before taking effect. The hospital[,] or
+27 ambulatory surgical center[, or abortion facility] infection
+28 control committee shall convene as soon as possible to
+29 review such cessation order and may overrule or sustain the
+30 directive of the infection control officer. The department
+31 shall promulgate rules governing documentation of such
+32 events.
+33 3. Members of the medical staff who report in good
+34 faith infection control concerns to the hospital[,] or
+35 ambulatory surgical center[, or abortion facility]
+36 administration or medical staff leadership shall not be
+37 subject to retaliation or discrimination for doing so.
+38 Nothing in this section shall prevent or shield medical
+39 staff members from being subject to professional review
+40 actions for substandard care or breach of standards
+41 established in hospital policy, rules, or medical staff
+42 bylaws.
+1 197.158. Every hospital[,] and ambulatory surgery
+2 center[, and abortion facility] shall, beginning June 1,
+3 2006, provide each patient an opportunity to submit to the
+4 hospital, ambulatory surgical center, or abortion facility
+5 administration complaints, comments, and suggestions related
+6 to the care they received or their personal observations
+7 related to the quality of care provided. The department
+8 shall promulgate rules to implement this section.
+1 197.160. The department of health and senior services
+2 shall have access to all data and information held by
+3 hospitals, ambulatory surgical centers, [abortion
+4 facilities,] and other facilities related to their infection
+5 control practices, rates, or treatments of infections.
+6 Failure to provide such access shall be grounds for full or
+
+SB 1692 17
+7 partial licensure suspension or revocation pursuant to
+8 section 197.293, sections 197.010 to 197.100, or sections
+9 197.200 to 197.240. If the department determines that the
+10 hospital, ambulatory surgical center, [abortion facility,]
+11 or other facility is willfully impeding access to such
+12 information, the department shall be authorized to direct
+13 all state agencies to suspend all or a portion of state
+14 payments to such entity until such time as the desired
+15 information is obtained by the department.
+1 197.165. 1. The department shall appoint an
+2 "Infection Control Advisory Panel" for the purposes of
+3 implementing sections 192.131 and 192.667.
+4 2. Members of the infection control advisory panel
+5 shall include:
+6 (1) Two public members;
+7 (2) Three board-certified or board-eligible physicians
+8 licensed pursuant to chapter 334 who are affiliated with a
+9 Missouri hospital or medical school, active members of the
+10 Society for Health Care Epidemiology of America, and have
+11 demonstrated interest and expertise in health facility
+12 infection control;
+13 (3) One physician licensed pursuant to chapter 334 who
+14 is active in the practice of medicine in Missouri and who
+15 holds medical staff privileges at a Missouri hospital;
+16 (4) Four infection control practitioners certified by
+17 the certification board of infection control and
+18 epidemiology, at least two of whom shall be practicing in a
+19 rural hospital or setting and at least two of whom shall be
+20 registered professional nurses licensed under chapter 335;
+21 (5) A medical statistician with an advanced degree in
+22 such specialty;
+
+SB 1692 18
+23 (6) A clinical microbiologist with an advanced degree
+24 in such specialty;
+25 (7) Three employees of the department, representing
+26 the functions of hospital[,] and ambulatory surgical
+27 center[, and abortion facility] licensure, epidemiology and
+28 health data analysis, who shall serve as ex officio
+29 nonvoting members of the panel.
+30 3. Reasonable expenses of the panel shall be paid from
+31 private donations made specifically for that purpose to the
+32 "Infection Control Advisory Panel Fund", which is hereby
+33 created in the state treasury. If such donations are not
+34 received from private sources, then the provisions of this
+35 act shall be implemented without the advisory panel.
+1 197.200. As used in sections 197.200 to 197.240,
+2 unless the context clearly indicates otherwise, the
+3 following terms mean:
+4 (1) ["Abortion facility", as such term is defined in
+5 section 188.015;
+6 (2)] "Ambulatory surgical center", any public or
+7 private establishment operated primarily for the purpose of
+8 performing surgical procedures or primarily for the purpose
+9 of performing childbirths, and which does not provide
+10 services or other accommodations for patients to stay more
+11 than twenty-three hours within the establishment, provided,
+12 however, that nothing in this definition shall be construed
+13 to include the offices of dentists currently licensed
+14 pursuant to chapter 332;
+15 [(3)] (2) "Dentist", any person currently licensed to
+16 practice dentistry pursuant to chapter 332;
+17 [(4)] (3) "Department", the department of health and
+18 senior services;
+
+SB 1692 19
+19 [(5)] (4) "Governmental unit", any city, county or
+20 other political subdivision of this state, or any
+21 department, division, board or other agency of any political
+22 subdivision of this state;
+23 [(6)] (5) "Person", any individual, firm, partnership,
+24 corporation, company, or association and the legal
+25 successors thereof;
+26 [(7)] (6) "Physician", any person currently licensed
+27 to practice medicine pursuant to chapter 334;
+28 [(8)] (7) "Podiatrist", any person currently licensed
+29 to practice podiatry pursuant to chapter 330.
+1 197.205. 1. No person or governmental unit acting
+2 severally or jointly with any other person or governmental
+3 unit shall establish, conduct or maintain an ambulatory
+4 surgical center [or abortion facility] in this state without
+5 a license under sections 197.200 to 197.240 issued by the
+6 department of health and senior services.
+7 2. Nothing in sections 197.200 to 197.240 shall be
+8 construed to impair or abridge the authority of a
+9 governmental unit to license ambulatory surgical centers [or
+10 abortion facilities], provided that any ordinance of a
+11 governmental unit shall require compliance with all rules,
+12 regulations, and standards adopted by the department to
+13 implement the provisions of sections 197.200 to 197.240.
+1 197.215. 1. Upon receipt of an application for a
+2 license, the department of health and senior services shall
+3 issue a license if the applicant and ambulatory surgical
+4 center facilities [or abortion facilities] meet the
+5 requirements established under sections 197.200 to 197.240,
+6 and have provided affirmative evidence that:
+7 (1) Each member of the surgical staff is a physician,
+8 dentist or podiatrist currently licensed to practice in
+
+SB 1692 20
+9 Missouri[, and each person authorized to perform or induce
+10 abortions is a physician currently licensed to practice in
+11 Missouri];
+12 (2) Surgical procedures in ambulatory surgical centers
+13 shall be performed only by physicians, dentists or
+14 podiatrists, who at the time are privileged to perform
+15 surgical procedures in at least one licensed hospital in the
+16 community in which the ambulatory surgical center is
+17 located, thus providing assurance to the public that
+18 patients treated in the center shall receive continuity of
+19 care should the services of a hospital be required;
+20 alternatively, applicant shall submit a copy of a current
+21 working agreement with at least one licensed hospital in the
+22 community in which the ambulatory surgical center is
+23 located, guaranteeing the transfer and admittance of
+24 patients for emergency treatment whenever necessary;
+25 (3) Continuous physician services or registered
+26 professional nursing services are provided whenever a
+27 patient is in the facility;
+28 (4) Adequate medical records for each patient are to
+29 be maintained.
+30 2. Upon receipt of an application for a license, or
+31 the renewal thereof, the department shall issue or renew the
+32 license if the applicant and program meet the requirements
+33 established under sections 197.200 to 197.240. Each license
+34 shall be issued only for the persons and premises named in
+35 the application. A license, unless sooner suspended or
+36 revoked, shall be issued for a period of one year.
+37 3. Each license shall be issued only for the premises
+38 and persons or governmental units named in the application,
+39 and shall not be transferable or assignable except with the
+
+SB 1692 21
+40 written consent of the department. Licenses shall be posted
+41 in a conspicuous place on the licensed premises.
+42 4. If, during the period in which an ambulatory
+43 surgical center license [or an abortion facility license] is
+44 in effect, the license holder or operator legally transfers
+45 operational responsibilities by any process to another
+46 person as defined in section 197.200, an application shall
+47 be made for the issuance of a new license to become
+48 effective on the transfer date.
+1 197.220. The department of health and senior services
+2 may deny, suspend or revoke a license in any case in which
+3 the department finds that there has been a substantial
+4 failure to comply with the requirements of sections 197.200
+5 to 197.240, or in any case in which the director of the
+6 department makes a finding that:
+7 (1) The applicant, or if the applicant is a firm,
+8 partnership or association, any of its members, or if a
+9 corporation, any of its officers or directors, or the person
+10 designated to manage or supervise the facility, has been
+11 finally adjudicated and found guilty, or entered a plea of
+12 guilty or nolo contendere, in a criminal prosecution under
+13 the laws of any state or of the United States, for any
+14 offense reasonably related to the qualifications, functions,
+15 or duties of an ambulatory surgical center [or of an
+16 abortion facility], or for any offense an essential element
+17 of which is fraud, dishonesty, or an act of violence, or for
+18 any offense involving moral turpitude, whether or not
+19 sentence is imposed;
+20 (2) The licensure status or record of the applicant,
+21 or if the applicant is a firm, partnership or association,
+22 of any of its members, or if a corporation, of any of its
+23 officers or directors, or of the person designated to manage
+
+SB 1692 22
+24 or supervise the facility, from any other state, federal
+25 district or land, territory or commonwealth of the United
+26 States, or of any foreign country where the applicant has
+27 done business in a similar capacity indicates that granting
+28 a license to the applicant would be detrimental to the
+29 interests of the public.
+1 197.225. 1. The department of health and senior
+2 services may adopt such reasonable rules, regulations, and
+3 standards for the types of services provided as are
+4 necessary to carry out the provisions of sections 197.200 to
+5 197.240, and to assure quality patient care and patient
+6 safety, which shall include, but not be limited to:
+7 (1) Construction of the facility including, but not
+8 limited to, plumbing, heating, lighting, and ventilation
+9 which should insure the health, safety, comfort, and privacy
+10 of patients and protection from fire hazard;
+11 (2) Number, qualifications, and organization of all
+12 personnel, having responsibility for any part of the care
+13 provided to the patients;
+14 (3) Equipment essential to the health, welfare, and
+15 safety of the patients;
+16 (4) Facilities, programs, and services to be provided
+17 in connection with the care of patients in ambulatory
+18 surgical centers; and
+19 (5) Procedures for peer review and for receiving and
+20 investigating complaints regarding any ambulatory surgical
+21 center or any physician, dentist, podiatrist, nurse,
+22 assistant, manager, supervisor, or employee practicing or
+23 working in any such facility.
+24 2. The department of health and senior services may
+25 adopt separate rules, regulations, or standards to apply to
+
+SB 1692 23
+26 ambulatory surgical centers [and to apply to abortion
+27 facilities].
+28 [3. Abortion facilities shall be required to maintain
+29 a written protocol for managing medical emergencies and the
+30 transfer of patients requiring further emergency care to a
+31 hospital within a reasonable distance from the abortion
+32 facility.]
+1 197.230. 1. The department of health and senior
+2 services shall make, or cause to be made, such inspections
+3 and investigations as it deems necessary. The department
+4 may delegate its powers and duties to investigate and
+5 inspect ambulatory surgical centers [or abortion facilities]
+6 to an official of a political subdivision having a
+7 population of at least four hundred fifty thousand if such
+8 political subdivision is deemed qualified by the department
+9 to inspect and investigate ambulatory surgical centers. The
+10 official so designated shall submit a written report of his
+11 or her findings to the department and the department may
+12 accept the recommendations of such official if it determines
+13 that the facility inspected meets minimum standards
+14 established pursuant to sections 197.200 to 197.240.
+15 2. [In the case of any abortion facility, the
+16 department shall make or cause to be made an unannounced on-
+17 site inspection and investigation at least annually. Such
+18 on-site inspection and investigation shall include, but not
+19 be limited to, the following areas:
+20 (1) Compliance with all statutory and regulatory
+21 requirements for an abortion facility, including
+22 requirements that the facility maintain adequate staffing
+23 and equipment to respond to medical emergencies;
+24 (2) Compliance with the provisions of chapter 188; and
+
+SB 1692 24
+25 (3) Compliance with the requirement in section 197.215
+26 that continuous physician services or registered
+27 professional nursing services be provided whenever a patient
+28 is in the facility.
+29 3.] Inspection, investigation, and quality assurance
+30 reports shall be made available to the public. Any portion
+31 of a report may be redacted when made publicly available if
+32 such portion would disclose information that is not subject
+33 to disclosure under the law.
+1 197.235. 1. Any person operating, conducting,
+2 managing, or establishing an ambulatory surgical center [or
+3 abortion facility] without a license required by sections
+4 197.200 to 197.240 is guilty of a class A misdemeanor and,
+5 upon conviction, shall be subject to a fine of not more than
+6 five hundred dollars. Each day of continuing violation
+7 shall constitute a separate offense.
+8 2. The attorney general shall represent the department
+9 of health and senior services and shall institute an action
+10 in the name of the state for injunctive or other relief
+11 against any person or governmental unit to restrain or
+12 prevent the establishment, conduct, management, or operation
+13 of an ambulatory surgical center [or abortion facility]
+14 without a license issued pursuant to the provisions of
+15 sections 197.200 to 197.240.
+16 3. Any person operating, conducting, managing, or
+17 establishing an ambulatory surgical center [or abortion
+18 facility] who, in the course of advertising, promoting, or
+19 otherwise publicizing the activities, business, location, or
+20 any other matter concerning the operations of said
+21 ambulatory surgical center [or abortion facility], uses or
+22 employs in any manner the words "State, Missouri, State of
+23 Missouri, Department of Health and Senior Services, the
+
+SB 1692 25
+24 initials 'Mo.'," or any emblem of the state of Missouri or
+25 the department of health and senior services, for the
+26 purpose of conveying or in any manner reasonably calculated
+27 to convey the false impression that the state of Missouri or
+28 any department, agency, bureau, or instrumentality thereof
+29 is involved in the business of said ambulatory surgical
+30 center [or abortion facility], or took part in said
+31 advertisement, promotion, publicity, or other statement,
+32 shall be subject to a fine of one hundred dollars per day
+33 for each day during the period beginning with the day said
+34 advertisement, promotion, publication, or statement first
+35 appears and ending on the day on which it is withdrawn.
+1 197.240. After September 28, 1975, no individual or
+2 group health insurance policy of insurance providing
+3 coverage on an expense incurred basis, nor individual or
+4 group service or indemnity type contract issued by a
+5 nonprofit corporation, nor any self-insured group health
+6 benefit plan or trust, of any kind or description, shall be
+7 issued or payment accepted therefor in renewal or
+8 continuation thereof unless coverage for any service
+9 performed in an ambulatory surgical center [or abortion
+10 facility] is provided for therein if such service would have
+11 been covered under the terms of the policy or contract as an
+12 eligible inpatient service, except as provided in section
+13 376.805. Nothing in this section shall apply to a group
+14 contract, plan or trust which provides health care and
+15 surgical care directly to its members and their dependents.
+16 Nothing in this section shall be construed to mandate
+17 coverage under an individual or group health insurance
+18 policy of insurance providing coverage on an expense-
+19 incurred basis, or an individual or group service or
+20 indemnity type contract issued by a nonprofit corporation,
+
+SB 1692 26
+21 or any self-insured group health benefit plan or trust, of
+22 any kind or description, to provide health insurance for
+23 services which are usually performed in a physician's office.
+1 197.285. 1. Hospitals[,] and ambulatory surgical
+2 centers[, and abortion facilities] shall establish and
+3 implement a written policy adopted by each hospital[,] and
+4 ambulatory surgical center[, and abortion facility] relating
+5 to the protections for employees who disclose information
+6 pursuant to subsection 2 of this section. This policy shall
+7 include a time frame for completion of investigations
+8 related to complaints, not to exceed thirty days, and a
+9 method for notifying the complainant of the disposition of
+10 the investigation. This policy shall be submitted to the
+11 department of health and senior services to verify
+12 implementation. At a minimum, such policy shall include the
+13 following provisions:
+14 (1) No supervisor or individual with authority to hire
+15 or fire in a hospital[,] or ambulatory surgical center[, or
+16 abortion facility] shall prohibit employees from disclosing
+17 information pursuant to subsection 2 of this section;
+18 (2) No supervisor or individual with authority to hire
+19 or fire in a hospital[,] or ambulatory surgical center[, or
+20 abortion facility] shall use or threaten to use his or her
+21 supervisory authority to knowingly discriminate against,
+22 dismiss, penalize or in any way retaliate against or harass
+23 an employee because the employee in good faith reported or
+24 disclosed any information pursuant to subsection 2 of this
+25 section, or in any way attempt to dissuade, prevent or
+26 interfere with an employee who wishes to report or disclose
+27 such information;
+28 (3) Establish a program to identify a compliance
+29 officer who is a designated person responsible for
+
+SB 1692 27
+30 administering the reporting and investigation process and an
+31 alternate person should the primary designee be implicated
+32 in the report.
+33 2. This section shall apply to information disclosed
+34 or reported in good faith by an employee concerning:
+35 (1) Alleged facility mismanagement or fraudulent
+36 activity;
+37 (2) Alleged violations of applicable federal or state
+38 laws or administrative rules concerning patient care,
+39 patient safety or facility safety; or
+40 (3) The ability of employees to successfully perform
+41 their assigned duties.
+42 All information disclosed, collected and maintained pursuant
+43 to this subsection and pursuant to the written policy
+44 requirements of this section shall be accessible to the
+45 department of health and senior services at all times and
+46 shall be reviewed by the department of health and senior
+47 services at least annually. Complainants shall be notified
+48 of the department of health and senior services' access to
+49 such information and of the complainant's right to notify
+50 the department of health and senior services of any
+51 information concerning alleged violations of applicable
+52 federal or state laws or administrative rules concerning
+53 patient care, patient safety or facility safety.
+54 3. Prior to any disclosure to individuals or agencies
+55 other than the department of health and senior services,
+56 employees wishing to make a disclosure pursuant to the
+57 provisions of this section shall first report to the
+58 individual or individuals designated by the hospital[,] or
+59 ambulatory surgical center[, or abortion facility] pursuant
+60 to subsection 1 of this section.
+
+SB 1692 28
+61 4. If the compliance officer, compliance committee or
+62 management official discovers credible evidence of
+63 misconduct from any source and, after a reasonable inquiry,
+64 has reason to believe that the misconduct may violate
+65 criminal, civil or administrative law, then the hospital[,]
+66 or ambulatory surgical center[, or abortion facility] shall
+67 report the existence of misconduct to the appropriate
+68 governmental authority within a reasonable period, but not
+69 more than seven days after determining that there is
+70 credible evidence of a violation.
+71 5. Reports made to the department of health and senior
+72 services shall be subject to the provisions of section
+73 197.477, provided that the restrictions of section 197.477
+74 shall not be construed to limit the employee's ability to
+75 subpoena from the original source the information reported
+76 to the department pursuant to this section.
+77 6. Each written policy shall allow employees making a
+78 report who wish to remain anonymous to do so, and shall
+79 include safeguards to protect the confidentiality of the
+80 employee making the report, the confidentiality of patients
+81 and the integrity of data, information and medical records.
+82 7. Each hospital[,] and ambulatory surgical center[,
+83 and abortion facility] shall, within forty-eight hours of
+84 the receipt of a report, notify the employee that his or her
+85 report has been received and is being reviewed.
+1 197.287. By July 1, 2001, all hospitals and ambulatory
+2 surgical centers[, and by July 1, 2018, all abortion
+3 facilities] shall provide training programs, with measurable
+4 minimal training outcomes relating to quality of patient
+5 care and patient safety, to all unlicensed staff providing
+6 patient care in their facility within ninety days of the
+7 beginning date of employment. Standards for such training
+
+SB 1692 29
+8 shall be established by the department of health and senior
+9 services by rule. It shall be a requirement of hospital[,]
+10 and ambulatory surgical center[, and abortion facility]
+11 licensure pursuant to this chapter that all hospitals[,] and
+12 ambulatory surgical centers[, and abortion facilities]
+13 submit documentation to the department of health and senior
+14 services on the training program used.
+1 197.289. 1. All hospitals[,] and ambulatory surgical
+2 centers[, and abortion facilities] shall develop and
+3 implement a methodology which ensures adequate nurse
+4 staffing that will meet the needs of patients. At a
+5 minimum, there shall be on duty at all times a sufficient
+6 number of licensed registered nurses to provide patient care
+7 requiring the judgment and skills of a licensed registered
+8 nurse and to oversee the activities of all nursing personnel.
+9 2. There shall be sufficient licensed and ancillary
+10 nursing personnel on duty on each nursing unit to meet the
+11 needs of each patient in accordance with accepted standards
+12 of quality patient care.
+1 197.293. 1. In addition to the powers established in
+2 sections 197.070 and 197.220, the department of health and
+3 senior services shall use the following standards for
+4 enforcing hospital[,] and ambulatory surgical center[, and
+5 abortion facility] licensure regulations promulgated to
+6 enforce the provisions of sections 197.010 to 197.120,
+7 sections 197.150 to 197.165, and sections 197.200 to 197.240:
+8 (1) Upon notification of a deficiency in meeting
+9 regulatory standards, the hospital[,] or ambulatory surgical
+10 center[, or abortion facility] shall develop and implement a
+11 plan of correction approved by the department which
+12 includes, but is not limited to, the specific type of
+
+SB 1692 30
+13 corrective action to be taken and an estimated time to
+14 complete such action;
+15 (2) If the plan as implemented does not correct the
+16 deficiency, the department may either:
+17 (a) Direct the hospital[,] or ambulatory surgical
+18 center[, or abortion facility] to develop and implement a
+19 plan of correction pursuant to subdivision (1) of this
+20 subsection; or
+21 (b) Require the hospital[,] or ambulatory surgical
+22 center[, or abortion facility] to implement a plan of
+23 correction developed by the department;
+24 (3) If there is a continuing deficiency after
+25 implementation of the plan of correction pursuant to
+26 subdivision (2) of this subsection and the hospital[,] or
+27 ambulatory surgical center[, or abortion facility] has had
+28 an opportunity to correct such deficiency, the department
+29 may restrict new inpatient admissions or outpatient entrants
+30 to the service or services affected by such deficiency;
+31 (4) If there is a continuing deficiency after the
+32 department restricts new inpatient admissions or outpatient
+33 entrants to the service or services pursuant to subdivision
+34 (3) of this subsection and the hospital[,] or ambulatory
+35 surgical center[, or abortion facility] has had an
+36 opportunity to correct such deficiency, the department may
+37 suspend operations in all or part of the service or services
+38 affected by such deficiency;
+39 (5) If there is a continuing deficiency after
+40 suspension of operations pursuant to subdivision (4) of this
+41 subsection, the department may deny, suspend or revoke the
+42 hospital's[,] or ambulatory surgical center's[, or abortion
+43 facility's] license pursuant to section 197.070 or section
+44 197.220.
+
+SB 1692 31
+45 2. Notwithstanding the provisions of subsection 1 of
+46 this section to the contrary, if a deficiency in meeting
+47 licensure standards presents an immediate and serious threat
+48 to the patients' health and safety, the department may,
+49 based on the scope and severity of the deficiency, restrict
+50 access to the service or services affected by the deficiency
+51 until the hospital[,] or ambulatory surgical center[, or
+52 abortion facility] has developed and implemented an approved
+53 plan of correction. Decisions as to whether a deficiency
+54 constitutes an immediate and serious threat to the patients'
+55 health and safety shall be made in accordance with
+56 guidelines established pursuant to regulation of the
+57 department of health and senior services and such decisions
+58 shall be approved by the bureau of health facility licensing
+59 in the department of health and senior services, or its
+60 successor agency, or by a person authorized by the
+61 regulations to approve such decisions in the absence of the
+62 director.
+1 197.295. 1. A hospital[,] or ambulatory surgical
+2 center[, or abortion facility] aggrieved by a decision of
+3 the department pursuant to the provisions of paragraph (b)
+4 of subdivision (2) and subdivisions (3), (4) and (5) of
+5 subsection 1 of section 197.293 may appeal such decision to
+6 the administrative hearing commission pursuant to section
+7 197.071 or section 197.221, and seek judicial review
+8 pursuant to section 621.145. An appeal of an action to
+9 restrict new inpatient admissions or outpatient entrants,
+10 suspend operations or revoke a license shall be heard on an
+11 expedited basis by the administrative hearing commission.
+12 The hospital[,] or ambulatory surgical center[, or abortion
+13 facility] may apply to the administrative hearing commission
+14 for an order to stay or suspend any such departmental action
+
+SB 1692 32
+15 pending the commission's findings and ruling as authorized
+16 by section 621.035.
+17 2. If both the department and the hospital[,] or
+18 ambulatory surgical center[, or abortion facility] agree to
+19 do so, prior to an appeal to the administrative hearing
+20 commission pursuant to section 197.071 or section 197.221,
+21 an official action of the department made pursuant to
+22 sections 197.010 to 197.120 or sections 197.200 to 197.240
+23 may be appealed to a departmental hearing officer. The
+24 department of health and senior services shall promulgate
+25 rules specifying the qualifications of such a hearing
+26 officer, establish procedures to ensure impartial decisions
+27 and provide for comparable appeal remedies when a
+28 departmental hearing officer is unavailable.
+1 334.100. 1. The board may refuse to issue or renew
+2 any certificate of registration or authority, permit or
+3 license required pursuant to this chapter for one or any
+4 combination of causes stated in subsection 2 of this
+5 section. The board shall notify the applicant in writing of
+6 the reasons for the refusal and shall advise the applicant
+7 of the applicant's right to file a complaint with the
+8 administrative hearing commission as provided by chapter
+9 621. As an alternative to a refusal to issue or renew any
+10 certificate, registration or authority, the board may, at
+11 its discretion, issue a license which is subject to
+12 probation, restriction or limitation to an applicant for
+13 licensure for any one or any combination of causes stated in
+14 subsection 2 of this section. The board's order of
+15 probation, limitation or restriction shall contain a
+16 statement of the discipline imposed, the basis therefor, the
+17 date such action shall become effective, and a statement
+18 that the applicant has thirty days to request in writing a
+
+SB 1692 33
+19 hearing before the administrative hearing commission. If
+20 the board issues a probationary, limited or restricted
+21 license to an applicant for licensure, either party may file
+22 a written petition with the administrative hearing
+23 commission within thirty days of the effective date of the
+24 probationary, limited or restricted license seeking review
+25 of the board's determination. If no written request for a
+26 hearing is received by the administrative hearing commission
+27 within the thirty-day period, the right to seek review of
+28 the board's decision shall be considered as waived.
+29 2. The board may cause a complaint to be filed with
+30 the administrative hearing commission as provided by chapter
+31 621 against any holder of any certificate of registration or
+32 authority, permit or license required by this chapter or any
+33 person who has failed to renew or has surrendered the
+34 person's certificate of registration or authority, permit or
+35 license for any one or any combination of the following
+36 causes:
+37 (1) Use of any controlled substance, as defined in
+38 chapter 195, or alcoholic beverage to an extent that such
+39 use impairs a person's ability to perform the work of any
+40 profession licensed or regulated by this chapter;
+41 (2) The person has been finally adjudicated and found
+42 guilty, or entered a plea of guilty or nolo contendere, in a
+43 criminal prosecution under the laws of any state or of the
+44 United States, for any offense reasonably related to the
+45 qualifications, functions or duties of any profession
+46 licensed or regulated pursuant to this chapter, for any
+47 offense involving fraud, dishonesty or an act of violence,
+48 or for any offense involving moral turpitude, whether or not
+49 sentence is imposed;
+
+SB 1692 34
+50 (3) Use of fraud, deception, misrepresentation or
+51 bribery in securing any certificate of registration or
+52 authority, permit or license issued pursuant to this chapter
+53 or in obtaining permission to take any examination given or
+54 required pursuant to this chapter;
+55 (4) Misconduct, fraud, misrepresentation, dishonesty,
+56 unethical conduct or unprofessional conduct in the
+57 performance of the functions or duties of any profession
+58 licensed or regulated by this chapter, including, but not
+59 limited to, the following:
+60 (a) Obtaining or attempting to obtain any fee, charge,
+61 tuition or other compensation by fraud, deception or
+62 misrepresentation; willfully and continually overcharging or
+63 overtreating patients; or charging for visits to the
+64 physician's office which did not occur unless the services
+65 were contracted for in advance, or for services which were
+66 not rendered or documented in the patient's records;
+67 (b) Attempting, directly or indirectly, by way of
+68 intimidation, coercion or deception, to obtain or retain a
+69 patient or discourage the use of a second opinion or
+70 consultation;
+71 (c) Willfully and continually performing inappropriate
+72 or unnecessary treatment, diagnostic tests or medical or
+73 surgical services;
+74 (d) Delegating professional responsibilities to a
+75 person who is not qualified by training, skill, competency,
+76 age, experience or licensure to perform such
+77 responsibilities;
+78 (e) Misrepresenting that any disease, ailment or
+79 infirmity can be cured by a method, procedure, treatment,
+80 medicine or device;
+
+SB 1692 35
+81 (f) Performing or prescribing medical services which
+82 have been declared by board rule to be of no medical or
+83 osteopathic value;
+84 (g) Final disciplinary action by any professional
+85 medical or osteopathic association or society or licensed
+86 hospital or medical staff of such hospital in this or any
+87 other state or territory, whether agreed to voluntarily or
+88 not, and including, but not limited to, any removal,
+89 suspension, limitation, or restriction of the person's
+90 license or staff or hospital privileges, failure to renew
+91 such privileges or license for cause, or other final
+92 disciplinary action, if the action was in any way related to
+93 unprofessional conduct, professional incompetence,
+94 malpractice or any other violation of any provision of this
+95 chapter;
+96 (h) Signing a blank prescription form; or dispensing,
+97 prescribing, administering or otherwise distributing any
+98 drug, controlled substance or other treatment without
+99 sufficient examination including failing to establish a
+100 valid physician-patient relationship pursuant to section
+101 334.108, or for other than medically accepted therapeutic or
+102 experimental or investigative purposes duly authorized by a
+103 state or federal agency, or not in the course of
+104 professional practice, or not in good faith to relieve pain
+105 and suffering, or not to cure an ailment, physical infirmity
+106 or disease, except as authorized in section 334.104;
+107 (i) Exercising influence within a physician-patient
+108 relationship for purposes of engaging a patient in sexual
+109 activity;
+110 (j) Being listed on any state or federal sexual
+111 offender registry;
+
+SB 1692 36
+112 (k) Terminating the medical care of a patient without
+113 adequate notice or without making other arrangements for the
+114 continued care of the patient;
+115 (l) Failing to furnish details of a patient's medical
+116 records to other treating physicians or hospitals upon
+117 proper request; or failing to comply with any other law
+118 relating to medical records;
+119 (m) Failure of any applicant or licensee to cooperate
+120 with the board during any investigation;
+121 (n) Failure to comply with any subpoena or subpoena
+122 duces tecum from the board or an order of the board;
+123 (o) Failure to timely pay license renewal fees
+124 specified in this chapter;
+125 (p) Violating a probation agreement, order, or other
+126 settlement agreement with this board or any other licensing
+127 agency;
+128 (q) Failing to inform the board of the physician's
+129 current residence and business address;
+130 (r) Advertising by an applicant or licensee which is
+131 false or misleading, or which violates any rule of the
+132 board, or which claims without substantiation the positive
+133 cure of any disease, or professional superiority to or
+134 greater skill than that possessed by any other physician.
+135 An applicant or licensee shall also be in violation of this
+136 provision if the applicant or licensee has a financial
+137 interest in any organization, corporation or association
+138 which issues or conducts such advertising;
+139 (s) Any other conduct that is unethical or
+140 unprofessional involving a minor;
+141 (5) Any conduct or practice which is or might be
+142 harmful or dangerous to the mental or physical health of a
+143 patient or the public; or incompetency, gross negligence or
+
+SB 1692 37
+144 repeated negligence in the performance of the functions or
+145 duties of any profession licensed or regulated by this
+146 chapter. For the purposes of this subdivision, "repeated
+147 negligence" means the failure, on more than one occasion, to
+148 use that degree of skill and learning ordinarily used under
+149 the same or similar circumstances by the member of the
+150 applicant's or licensee's profession;
+151 (6) Violation of, or attempting to violate, directly
+152 or indirectly, or assisting or enabling any person to
+153 violate, any provision of this chapter or chapter 324, or of
+154 any lawful rule or regulation adopted pursuant to this
+155 chapter or chapter 324;
+156 (7) Impersonation of any person holding a certificate
+157 of registration or authority, permit or license or allowing
+158 any person to use his or her certificate of registration or
+159 authority, permit, license or diploma from any school;
+160 (8) Revocation, suspension, restriction, modification,
+161 limitation, reprimand, warning, censure, probation or other
+162 final disciplinary action against the holder of or applicant
+163 for a license or other right to practice any profession
+164 regulated by this chapter by another state, territory,
+165 federal agency or country, whether or not voluntarily agreed
+166 to by the licensee or applicant, including, but not limited
+167 to, the denial of licensure, surrender of the license,
+168 allowing the license to expire or lapse, or discontinuing or
+169 limiting the practice of medicine while subject to an
+170 investigation or while actually under investigation by any
+171 licensing authority, medical facility, branch of the Armed
+172 Forces of the United States of America, insurance company,
+173 court, agency of the state or federal government, or
+174 employer;
+
+SB 1692 38
+175 (9) A person is finally adjudged incapacitated or
+176 disabled by a court of competent jurisdiction;
+177 (10) Assisting or enabling any person to practice or
+178 offer to practice any profession licensed or regulated by
+179 this chapter who is not registered and currently eligible to
+180 practice pursuant to this chapter; or knowingly performing
+181 any act which in any way aids, assists, procures, advises,
+182 or encourages any person to practice medicine who is not
+183 registered and currently eligible to practice pursuant to
+184 this chapter. A physician who works in accordance with
+185 standing orders or protocols or in accordance with the
+186 provisions of section 334.104 shall not be in violation of
+187 this subdivision;
+188 (11) Issuance of a certificate of registration or
+189 authority, permit or license based upon a material mistake
+190 of fact;
+191 (12) Failure to display a valid certificate or license
+192 if so required by this chapter or any rule promulgated
+193 pursuant to this chapter;
+194 (13) Violation of the drug laws or rules and
+195 regulations of this state, including but not limited to any
+196 provision of chapter 195, any other state, or the federal
+197 government;
+198 (14) Knowingly making, or causing to be made, or
+199 aiding, or abetting in the making of, a false statement in
+200 any birth, death or other certificate or document executed
+201 in connection with the practice of the person's profession;
+202 (15) Knowingly making a false statement, orally or in
+203 writing to the board;
+204 (16) Soliciting patronage in person or by agents or
+205 representatives, or by any other means or manner, under the
+206 person's own name or under the name of another person or
+
+SB 1692 39
+207 concern, actual or pretended, in such a manner as to
+208 confuse, deceive, or mislead the public as to the need or
+209 necessity for or appropriateness of health care services for
+210 all patients, or the qualifications of an individual person
+211 or persons to diagnose, render, or perform health care
+212 services;
+213 (17) Using, or permitting the use of, the person's
+214 name under the designation of "Doctor", "Dr.", "M.D.", or
+215 "D.O.", or any similar designation with reference to the
+216 commercial exploitation of any goods, wares or merchandise;
+217 (18) Knowingly making or causing to be made a false
+218 statement or misrepresentation of a material fact, with
+219 intent to defraud, for payment pursuant to the provisions of
+220 chapter 208 or chapter 630 or for payment from Title XVIII
+221 or Title XIX of the Social Security Act;
+222 (19) Failure or refusal to properly guard against
+223 contagious, infectious or communicable diseases or the
+224 spread thereof; maintaining an unsanitary office or
+225 performing professional services under unsanitary
+226 conditions; or failure to report the existence of an
+227 unsanitary condition in the office of a physician or in any
+228 health care facility to the board, in writing, within thirty
+229 days after the discovery thereof;
+230 (20) Any candidate for licensure or person licensed to
+231 practice as a physical therapist, paying or offering to pay
+232 a referral fee or evaluating or treating a patient in a
+233 manner inconsistent with section 334.506;
+234 (21) Any candidate for licensure or person licensed to
+235 practice as a physical therapist, treating or attempting to
+236 treat ailments or other health conditions of human beings
+237 other than by professional physical therapy and as
+238 authorized by sections 334.500 to 334.620;
+
+SB 1692 40
+239 (22) Any person licensed to practice as a physician or
+240 surgeon, requiring, as a condition of the physician-patient
+241 relationship, that the patient receive prescribed drugs,
+242 devices or other professional services directly from
+243 facilities of that physician's office or other entities
+244 under that physician's ownership or control. A physician
+245 shall provide the patient with a prescription which may be
+246 taken to the facility selected by the patient and a
+247 physician knowingly failing to disclose to a patient on a
+248 form approved by the advisory commission for professional
+249 physical therapists as established by section 334.625 which
+250 is dated and signed by a patient or guardian acknowledging
+251 that the patient or guardian has read and understands that
+252 the physician has a pecuniary interest in a physical therapy
+253 or rehabilitation service providing prescribed treatment and
+254 that the prescribed treatment is available on a competitive
+255 basis. This subdivision shall not apply to a referral by
+256 one physician to another physician within a group of
+257 physicians practicing together;
+258 (23) A pattern of personal use or consumption of any
+259 controlled substance unless it is prescribed, dispensed or
+260 administered by another physician who is authorized by law
+261 to do so;
+262 (24) Habitual intoxication or dependence on alcohol,
+263 evidence of which may include more than one alcohol-related
+264 enforcement contact as defined by section 302.525;
+265 (25) Failure to comply with a treatment program or an
+266 aftercare program entered into as part of a board order,
+267 settlement agreement or licensee's professional health
+268 program;
+269 (26) Revocation, suspension, limitation, probation, or
+270 restriction of any kind whatsoever of any controlled
+
+SB 1692 41
+271 substance authority, whether agreed to voluntarily or not,
+272 or voluntary termination of a controlled substance authority
+273 while under investigation[;
+274 (27) For a physician to operate, conduct, manage, or
+275 establish an abortion facility, or for a physician to
+276 perform an abortion in an abortion facility, if such
+277 facility comes under the definition of an ambulatory
+278 surgical center pursuant to sections 197.200 to 197.240, and
+279 such facility has failed to obtain or renew a license as an
+280 ambulatory surgical center].
+281 3. Collaborative practice arrangements, protocols and
+282 standing orders shall be in writing and signed and dated by
+283 a physician prior to their implementation.
+284 4. After the filing of such complaint before the
+285 administrative hearing commission, the proceedings shall be
+286 conducted in accordance with the provisions of chapter 621.
+287 Upon a finding by the administrative hearing commission that
+288 the grounds, provided in subsection 2 of this section, for
+289 disciplinary action are met, the board may, singly or in
+290 combination, warn, censure or place the person named in the
+291 complaint on probation on such terms and conditions as the
+292 board deems appropriate for a period not to exceed ten
+293 years, or may suspend the person's license, certificate or
+294 permit for a period not to exceed three years, or restrict
+295 or limit the person's license, certificate or permit for an
+296 indefinite period of time, or revoke the person's license,
+297 certificate, or permit, or administer a public or private
+298 reprimand, or deny the person's application for a license,
+299 or permanently withhold issuance of a license or require the
+300 person to submit to the care, counseling or treatment of
+301 physicians designated by the board at the expense of the
+302 individual to be examined, or require the person to attend
+
+SB 1692 42
+303 such continuing educational courses and pass such
+304 examinations as the board may direct.
+305 5. In any order of revocation, the board may provide
+306 that the person may not apply for reinstatement of the
+307 person's license for a period of time ranging from two to
+308 seven years following the date of the order of revocation.
+309 All stay orders shall toll this time period.
+310 6. Before restoring to good standing a license,
+311 certificate or permit issued pursuant to this chapter which
+312 has been in a revoked, suspended or inactive state for any
+313 cause for more than two years, the board may require the
+314 applicant to attend such continuing medical education
+315 courses and pass such examinations as the board may direct.
+316 7. In any investigation, hearing or other proceeding
+317 to determine a licensee's or applicant's fitness to
+318 practice, any record relating to any patient of the licensee
+319 or applicant shall be discoverable by the board and
+320 admissible into evidence, regardless of any statutory or
+321 common law privilege which such licensee, applicant, record
+322 custodian or patient might otherwise invoke. In addition,
+323 no such licensee, applicant, or record custodian may
+324 withhold records or testimony bearing upon a licensee's or
+325 applicant's fitness to practice on the ground of privilege
+326 between such licensee, applicant or record custodian and a
+327 patient.
+328 8. The act of lawfully dispensing, prescribing,
+329 administering, or otherwise distributing ivermectin tablets
+330 or hydroxychloroquine sulfate tablets for human use shall
+331 not be grounds for denial, suspension, revocation, or other
+332 disciplinary action by the board.
+1 334.735. 1. As used in sections 334.735 to 334.749,
+2 the following terms mean:
+
+SB 1692 43
+3 (1) "Applicant", any individual who seeks to become
+4 licensed as a physician assistant;
+5 (2) "Certification" or "registration", a process by a
+6 certifying entity that grants recognition to applicants
+7 meeting predetermined qualifications specified by such
+8 certifying entity;
+9 (3) "Certifying entity", the nongovernmental agency or
+10 association which certifies or registers individuals who
+11 have completed academic and training requirements;
+12 (4) "Collaborative practice arrangement", written
+13 agreements, jointly agreed upon protocols, or standing
+14 orders, all of which shall be in writing, for the delivery
+15 of health care services;
+16 (5) "Department", the department of commerce and
+17 insurance or a designated agency thereof;
+18 (6) "License", a document issued to an applicant by
+19 the board acknowledging that the applicant is entitled to
+20 practice as a physician assistant;
+21 (7) "Physician assistant", a person who has graduated
+22 from a physician assistant program accredited by the
+23 Accreditation Review Commission on Education for the
+24 Physician Assistant or its successor agency, prior to 2001,
+25 or the Committee on Allied Health Education and
+26 Accreditation or the Commission on Accreditation of Allied
+27 Health Education Programs, who has passed the certifying
+28 examination administered by the National Commission on
+29 Certification of Physician Assistants and has active
+30 certification by the National Commission on Certification of
+31 Physician Assistants who provides health care services
+32 delegated by a licensed physician. A person who has been
+33 employed as a physician assistant for three years prior to
+34 August 28, 1989, who has passed the National Commission on
+
+SB 1692 44
+35 Certification of Physician Assistants examination, and has
+36 active certification of the National Commission on
+37 Certification of Physician Assistants;
+38 (8) "Recognition", the formal process of becoming a
+39 certifying entity as required by the provisions of sections
+40 334.735 to 334.749.
+41 2. The scope of practice of a physician assistant
+42 shall consist only of the following services and procedures:
+43 (1) Taking patient histories;
+44 (2) Performing physical examinations of a patient;
+45 (3) Performing or assisting in the performance of
+46 routine office laboratory and patient screening procedures;
+47 (4) Performing routine therapeutic procedures;
+48 (5) Recording diagnostic impressions and evaluating
+49 situations calling for attention of a physician to institute
+50 treatment procedures;
+51 (6) Instructing and counseling patients regarding
+52 mental and physical health using procedures reviewed and
+53 approved by a collaborating physician;
+54 (7) Assisting the supervising physician in
+55 institutional settings, including reviewing of treatment
+56 plans, ordering of tests and diagnostic laboratory and
+57 radiological services, and ordering of therapies, using
+58 procedures reviewed and approved by a licensed physician;
+59 (8) Assisting in surgery; and
+60 (9) Performing such other tasks not prohibited by law
+61 under the collaborative practice arrangement with a licensed
+62 physician as the physician assistant has been trained and is
+63 proficient to perform.
+64 3. [Physician assistants shall not perform or
+65 prescribe abortions.
+
+SB 1692 45
+66 4.] Physician assistants shall not prescribe any drug,
+67 medicine, device or therapy unless pursuant to a
+68 collaborative practice arrangement in accordance with the
+69 law, nor prescribe lenses, prisms or contact lenses for the
+70 aid, relief or correction of vision or the measurement of
+71 visual power or visual efficiency of the human eye, nor
+72 administer or monitor general or regional block anesthesia
+73 during diagnostic tests, surgery or obstetric procedures.
+74 Prescribing of drugs, medications, devices or therapies by a
+75 physician assistant shall be pursuant to a collaborative
+76 practice arrangement which is specific to the clinical
+77 conditions treated by the supervising physician and the
+78 physician assistant shall be subject to the following:
+79 (1) A physician assistant shall only prescribe
+80 controlled substances in accordance with section 334.747;
+81 (2) The types of drugs, medications, devices or
+82 therapies prescribed by a physician assistant shall be
+83 consistent with the scopes of practice of the physician
+84 assistant and the collaborating physician;
+85 (3) All prescriptions shall conform with state and
+86 federal laws and regulations and shall include the name,
+87 address and telephone number of the physician assistant;
+88 (4) A physician assistant, or advanced practice
+89 registered nurse as defined in section 335.016 may request,
+90 receive and sign for noncontrolled professional samples and
+91 may distribute professional samples to patients; and
+92 (5) A physician assistant shall not prescribe any
+93 drugs, medicines, devices or therapies the collaborating
+94 physician is not qualified or authorized to prescribe.
+95 [5.] 4. A physician assistant shall clearly identify
+96 himself or herself as a physician assistant and shall not
+97 use or permit to be used in the physician assistant's behalf
+
+SB 1692 46
+98 the terms "doctor", "Dr." or "doc" nor hold himself or
+99 herself out in any way to be a physician or surgeon. No
+100 physician assistant shall practice or attempt to practice
+101 without physician collaboration or in any location where the
+102 collaborating physician is not immediately available for
+103 consultation, assistance and intervention, except as
+104 otherwise provided in this section, and in an emergency
+105 situation, nor shall any physician assistant bill a patient
+106 independently or directly for any services or procedure by
+107 the physician assistant; except that, nothing in this
+108 subsection shall be construed to prohibit a physician
+109 assistant from enrolling with a third-party plan or the
+110 department of social services as a MO HealthNet or Medicaid
+111 provider while acting under a collaborative practice
+112 arrangement between the physician and physician assistant.
+113 [6.] 5. The licensing of physician assistants shall
+114 take place within processes established by the state board
+115 of registration for the healing arts through rule and
+116 regulation. The board of healing arts is authorized to
+117 establish rules pursuant to chapter 536 establishing
+118 licensing and renewal procedures, collaboration,
+119 collaborative practice arrangements, fees, and addressing
+120 such other matters as are necessary to protect the public
+121 and discipline the profession. An application for licensing
+122 may be denied or the license of a physician assistant may be
+123 suspended or revoked by the board in the same manner and for
+124 violation of the standards as set forth by section 334.100,
+125 or such other standards of conduct set by the board by rule
+126 or regulation. Persons licensed pursuant to the provisions
+127 of chapter 335 shall not be required to be licensed as
+128 physician assistants. All applicants for physician
+129 assistant licensure who complete a physician assistant
+
+SB 1692 47
+130 training program after January 1, 2008, shall have a
+131 master's degree from a physician assistant program.
+132 [7.] 6. At all times the physician is responsible for
+133 the oversight of the activities of, and accepts
+134 responsibility for, health care services rendered by the
+135 physician assistant.
+136 [8.] 7. (1) A physician may enter into collaborative
+137 practice arrangements with physician assistants.
+138 Collaborative practice arrangements, which shall be in
+139 writing, may delegate to a physician assistant the authority
+140 to prescribe, administer, or dispense drugs and provide
+141 treatment which is within the skill, training, and
+142 competence of the physician assistant. Collaborative
+143 practice arrangements may delegate to a physician assistant,
+144 as defined in section 334.735, the authority to administer,
+145 dispense, or prescribe controlled substances listed in
+146 Schedules III, IV, and V of section 195.017, and Schedule
+147 II - hydrocodone. Schedule III narcotic controlled
+148 substances and Schedule II - hydrocodone prescriptions shall
+149 be limited to a one hundred twenty-hour supply without
+150 refill. Such collaborative practice arrangements shall be
+151 in the form of a written arrangement, jointly agreed-upon
+152 protocols, or standing orders for the delivery of health
+153 care services.
+154 (2) Notwithstanding any other provision of this
+155 section to the contrary, a collaborative practice
+156 arrangement may delegate to a physician assistant the
+157 authority to administer, dispense, or prescribe Schedule II
+158 controlled substances for hospice patients; provided, that
+159 the physician assistant is employed by a hospice provider
+160 certified pursuant to chapter 197 and the physician
+161 assistant is providing care to hospice patients pursuant to
+
+SB 1692 48
+162 a collaborative practice arrangement that designates the
+163 certified hospice as a location where the physician
+164 assistant is authorized to practice and prescribe.
+165 [9.] 8. The written collaborative practice arrangement
+166 shall contain at least the following provisions:
+167 (1) Complete names, home and business addresses, zip
+168 codes, and telephone numbers of the collaborating physician
+169 and the physician assistant;
+170 (2) A list of all other offices or locations, other
+171 than those listed in subdivision (1) of this subsection,
+172 where the collaborating physician has authorized the
+173 physician assistant to prescribe;
+174 (3) A requirement that there shall be posted at every
+175 office where the physician assistant is authorized to
+176 prescribe, in collaboration with a physician, a prominently
+177 displayed disclosure statement informing patients that they
+178 may be seen by a physician assistant and have the right to
+179 see the collaborating physician;
+180 (4) All specialty or board certifications of the
+181 collaborating physician and all certifications of the
+182 physician assistant;
+183 (5) The manner of collaboration between the
+184 collaborating physician and the physician assistant,
+185 including how the collaborating physician and the physician
+186 assistant will:
+187 (a) Engage in collaborative practice consistent with
+188 each professional's skill, training, education, and
+189 competence;
+190 (b) Maintain geographic proximity, as determined by
+191 the board of registration for the healing arts; and
+192 (c) Provide coverage during absence, incapacity,
+193 infirmity, or emergency of the collaborating physician;
+
+SB 1692 49
+194 (6) A list of all other written collaborative practice
+195 arrangements of the collaborating physician and the
+196 physician assistant;
+197 (7) The duration of the written practice arrangement
+198 between the collaborating physician and the physician
+199 assistant;
+200 (8) A description of the time and manner of the
+201 collaborating physician's review of the physician
+202 assistant's delivery of health care services. The
+203 description shall include provisions that the physician
+204 assistant shall submit a minimum of ten percent of the
+205 charts documenting the physician assistant's delivery of
+206 health care services to the collaborating physician for
+207 review by the collaborating physician, or any other
+208 physician designated in the collaborative practice
+209 arrangement, every fourteen days. Reviews may be conducted
+210 electronically;
+211 (9) The collaborating physician, or any other
+212 physician designated in the collaborative practice
+213 arrangement, shall review every fourteen days a minimum of
+214 twenty percent of the charts in which the physician
+215 assistant prescribes controlled substances. The charts
+216 reviewed under this subdivision may be counted in the number
+217 of charts required to be reviewed under subdivision (8) of
+218 this subsection;
+219 (10) A statement that no collaboration requirements in
+220 addition to the federal law shall be required for a
+221 physician-physician assistant team working in a certified
+222 community behavioral health clinic as defined by Pub.L. 113-
+223 93, or a rural health clinic under the federal Rural Health
+224 Services Act, Pub.L. 95-210, as amended, or a federally
+
+SB 1692 50
+225 qualified health center as defined in 42 U.S.C. Section
+226 1395x, as amended; and
+227 (11) If a collaborative practice arrangement is used
+228 in clinical situations where a collaborating physician
+229 assistant provides health care services that include the
+230 diagnosis and initiation of treatment for acutely or
+231 chronically ill or injured persons, then the collaborating
+232 physician or any other physician designated in the
+233 collaborative practice arrangement shall be present for
+234 sufficient periods of time, at least once every two weeks,
+235 except in extraordinary circumstances that shall be
+236 documented, to participate in a chart review and to provide
+237 necessary medical direction, medical services,
+238 consultations, and supervision of the health care staff.
+239 [10.] 9. The state board of registration for the
+240 healing arts under section 334.125 may promulgate rules
+241 regulating the use of collaborative practice arrangements.
+242 [11.] 10. The state board of registration for the
+243 healing arts shall not deny, revoke, suspend, or otherwise
+244 take disciplinary action against a collaborating physician
+245 for health care services delegated to a physician assistant,
+246 provided that the provisions of this section and the rules
+247 promulgated thereunder are satisfied.
+248 [12.] 11. Within thirty days of any change and on each
+249 renewal, the state board of registration for the healing
+250 arts shall require every physician to identify whether the
+251 physician is engaged in any collaborative practice
+252 arrangement, including collaborative practice arrangements
+253 delegating the authority to prescribe controlled substances,
+254 and also report to the board the name of each physician
+255 assistant with whom the physician has entered into such
+256 arrangement. The board may make such information available
+
+SB 1692 51
+257 to the public. The board shall track the reported
+258 information and may routinely conduct random reviews of such
+259 arrangements to ensure that the arrangements are carried out
+260 in compliance with this chapter.
+261 [13.] 12. The collaborating physician shall determine
+262 and document the completion of a period of time during which
+263 the physician assistant shall practice with the
+264 collaborating physician continuously present before
+265 practicing in a setting where the collaborating physician is
+266 not continuously present. This limitation shall not apply
+267 to collaborative arrangements of providers of population-
+268 based public health services as defined by 20 CSR 2150-5.100
+269 as of April 30, 2009.
+270 [14.] 13. No contract or other arrangement shall
+271 require a physician to act as a collaborating physician for
+272 a physician assistant against the physician's will. A
+273 physician shall have the right to refuse to act as a
+274 supervising physician, without penalty, for a particular
+275 physician assistant. No contract or other agreement shall
+276 limit the collaborating physician's ultimate authority over
+277 any protocols or standing orders or in the delegation of the
+278 physician's authority to any physician assistant. No
+279 contract or other arrangement shall require any physician
+280 assistant to collaborate with any physician against the
+281 physician assistant's will. A physician assistant shall
+282 have the right to refuse to collaborate, without penalty,
+283 with a particular physician.
+284 [15.] 14. Physician assistants shall file with the
+285 board a copy of their collaborating physician form.
+286 [16.] 15. No physician shall be designated to serve as
+287 a collaborating physician for more than six full-time
+288 equivalent licensed physician assistants, full-time
+
+SB 1692 52
+289 equivalent advanced practice registered nurses, or full-time
+290 equivalent assistant physicians, or any combination
+291 thereof. This limitation shall not apply to physician
+292 assistant collaborative practice arrangements of hospital
+293 employees providing inpatient care service in hospitals as
+294 defined in chapter 197, or to a certified registered nurse
+295 anesthetist providing anesthesia services under the
+296 supervision of an anesthesiologist or other physician,
+297 dentist, or podiatrist who is immediately available if
+298 needed as set out in subsection 7 of section 334.104.
+299 [17.] 16. No arrangement made under this section shall
+300 supercede current hospital licensing regulations governing
+301 hospital medication orders under protocols or standing
+302 orders for the purpose of delivering inpatient or emergency
+303 care within a hospital, as defined in section 197.020, if
+304 such protocols or standing orders have been approved by the
+305 hospital's medical staff and pharmaceutical therapeutics
+306 committee.
+1 595.027. 1. Upon request by the department for
+2 verification of injuries of victims, medical providers shall
+3 submit the information requested by the department within
+4 twenty working days of the request at no cost to the fund.
+5 2. For purposes of this section, "medical providers"
+6 means physicians, dentists, clinical psychologists,
+7 optometrists, podiatrists, registered nurses, physician's
+8 assistants, chiropractors, physical therapists, hospitals,
+9 ambulatory surgical centers, [abortion facilities,] and
+10 nursing homes.
+11 3. Failure to submit the information as required by
+12 this section shall be an infraction.
+
+SB 1692 53
+1 [188.017. 1. This section shall be known
+2 and may be cited as the "Right to Life of the
+3 Unborn Child Act".
+4 2. Notwithstanding any other provision of
+5 law to the contrary, no abortion shall be
+6 performed or induced upon a woman, except in
+7 cases of medical emergency. Any person who
+8 knowingly performs or induces an abortion of an
+9 unborn child in violation of this subsection
+10 shall be guilty of a class B felony, as well as
+11 subject to suspension or revocation of his or
+12 her professional license by his or her
+13 professional licensing board. A woman upon whom
+14 an abortion is performed or induced in violation
+15 of this subsection shall not be prosecuted for a
+16 conspiracy to violate the provisions of this
+17 subsection.
+18 3. It shall be an affirmative defense for
+19 any person alleged to have violated the
+20 provisions of subsection 2 of this section that
+21 the person performed or induced an abortion
+22 because of a medical emergency. The defendant
+23 shall have the burden of persuasion that the
+24 defense is more probably true than not.
+25 4. The enactment of this section shall
+26 only become effective upon notification to the
+27 revisor of statutes by an opinion by the
+28 attorney general of Missouri, a proclamation by
+29 the governor of Missouri, or the adoption of a
+30 concurrent resolution by the Missouri general
+31 assembly that:
+32 (1) The United States Supreme Court has
+33 overruled, in whole or in part, Roe v. Wade, 410
+34 U.S. 113 (1973), restoring or granting to the
+35 state of Missouri the authority to regulate
+36 abortion to the extent set forth in this
+37 section, and that as a result, it is reasonably
+38 probable that this section would be upheld by
+39 the court as constitutional;
+40 (2) An amendment to the Constitution of
+41 the United States has been adopted that has the
+42 effect of restoring or granting to the state of
+43 Missouri the authority to regulate abortion to
+44 the extent set forth in this section; or
+
+SB 1692 54
+45 (3) The United States Congress has enacted
+46 a law that has the effect of restoring or
+47 granting to the state of Missouri the authority
+48 to regulate abortion to the extent set forth in
+49 this section.]
+1 [188.020. No person shall perform or
+2 induce an abortion except a physician.]
+1 [188.021. 1. When RU-486 (mifepristone)
+2 or any drug or chemical is used for the purpose
+3 of inducing an abortion, the initial dose of the
+4 drug or chemical shall be administered in the
+5 same room and in the physical presence of the
+6 physician who prescribed, dispensed, or
+7 otherwise provided the drug or chemical to the
+8 patient. The physician inducing the abortion,
+9 or a person acting on such physician's behalf,
+10 shall make all reasonable efforts to ensure that
+11 the patient returns after the administration or
+12 use of RU-486 or any drug or chemical for a
+13 follow-up visit unless such termination of the
+14 pregnancy has already been confirmed and the
+15 patient's medical condition has been assessed by
+16 a licensed physician prior to discharge.
+17 2. When the Food and Drug Administration
+18 label of any drug or chemical used for the
+19 purpose of inducing an abortion includes any
+20 clinical study in which more than one percent of
+21 those administered the drug or chemical required
+22 surgical intervention after its administration,
+23 no physician may prescribe or administer such
+24 drug or chemical to any patient without first
+25 obtaining approval from the department of health
+26 and senior services of a complication plan from
+27 the physician for administration of the drug or
+28 chemical to any patient. The complication plan
+29 shall include any information deemed necessary
+30 by the department to ensure the safety of any
+31 patient suffering complications as a result of
+32 the administration of the drug or chemical in
+33 question. No complication plan shall be
+34 required where the patient is administered the
+35 drug in a medical emergency at a hospital and is
+36 then treated as an inpatient at a hospital under
+
+SB 1692 55
+37 medical monitoring by the hospital until the
+38 abortion is completed.
+39 3. The department may adopt rules,
+40 regulations, and standards governing
+41 complication plans to ensure that patients
+42 undergoing abortions induced by drugs or
+43 chemicals have access to safe and reliable
+44 care. Any rule or portion of a rule, as that
+45 term is defined in section 536.010, that is
+46 created under the authority delegated in this
+47 section shall become effective only if it
+48 complies with and is subject to all of the
+49 provisions of chapter 536 and, if applicable,
+50 section 536.028. This section and chapter 536
+51 are nonseverable and if any of the powers vested
+52 with the general assembly pursuant to chapter
+53 536 to review, to delay the effective date, or
+54 to disapprove and annul a rule are subsequently
+55 held unconstitutional, then the grant of
+56 rulemaking authority and any rule proposed or
+57 adopted after October 24, 2017, shall be invalid
+58 and void.]
+1 [188.027. 1. Except in cases of medical
+2 emergency, no abortion shall be performed or
+3 induced on a woman without her voluntary and
+4 informed consent, given freely and without
+5 coercion. Consent to an abortion is voluntary
+6 and informed and given freely and without
+7 coercion if, and only if, at least seventy-two
+8 hours prior to the abortion:
+9 (1) The physician who is to perform or
+10 induce the abortion, a qualified professional,
+11 or the referring physician has informed the
+12 woman orally, reduced to writing, and in person,
+13 of the following:
+14 (a) The name of the physician who will
+15 perform or induce the abortion;
+16 (b) Medically accurate information that a
+17 reasonable patient would consider material to
+18 the decision of whether or not to undergo the
+19 abortion, including:
+20 a. A description of the proposed abortion
+21 method;
+
+SB 1692 56
+22 b. The immediate and long-term medical
+23 risks to the woman associated with the proposed
+24 abortion method including, but not limited to,
+25 infection, hemorrhage, cervical tear or uterine
+26 perforation, harm to subsequent pregnancies or
+27 the ability to carry a subsequent child to term,
+28 and possible adverse psychological effects
+29 associated with the abortion; and
+30 c. The immediate and long-term medical
+31 risks to the woman, in light of the anesthesia
+32 and medication that is to be administered, the
+33 unborn child's gestational age, and the woman's
+34 medical history and medical condition;
+35 (c) Alternatives to the abortion which
+36 shall include making the woman aware that
+37 information and materials shall be provided to
+38 her detailing such alternatives to the abortion;
+39 (d) A statement that the physician
+40 performing or inducing the abortion is available
+41 for any questions concerning the abortion,
+42 together with the telephone number that the
+43 physician may be later reached to answer any
+44 questions that the woman may have;
+45 (e) The location of the hospital that
+46 offers obstetrical or gynecological care located
+47 within thirty miles of the location where the
+48 abortion is performed or induced and at which
+49 the physician performing or inducing the
+50 abortion has clinical privileges and where the
+51 woman may receive follow-up care by the
+52 physician if complications arise;
+53 (f) The gestational age of the unborn
+54 child at the time the abortion is to be
+55 performed or induced; and
+56 (g) The anatomical and physiological
+57 characteristics of the unborn child at the time
+58 the abortion is to be performed or induced;
+59 (2) The physician who is to perform or
+60 induce the abortion or a qualified professional
+61 has presented the woman, in person, printed
+62 materials provided by the department, which
+63 describe the probable anatomical and
+64 physiological characteristics of the unborn
+65 child at two-week gestational increments from
+
+SB 1692 57
+66 conception to full term, including color
+67 photographs or images of the developing unborn
+68 child at two-week gestational increments. Such
+69 descriptions shall include information about
+70 brain and heart functions, the presence of
+71 external members and internal organs during the
+72 applicable stages of development and information
+73 on when the unborn child is viable. The printed
+74 materials shall prominently display the
+75 following statement: "The life of each human
+76 being begins at conception. Abortion will
+77 terminate the life of a separate, unique, living
+78 human being.";
+79 (3) The physician who is to perform or
+80 induce the abortion, a qualified professional,
+81 or the referring physician has presented the
+82 woman, in person, printed materials provided by
+83 the department, which describe the various
+84 surgical and drug-induced methods of abortion
+85 relevant to the stage of pregnancy, as well as
+86 the immediate and long-term medical risks
+87 commonly associated with each abortion method
+88 including, but not limited to, infection,
+89 hemorrhage, cervical tear or uterine
+90 perforation, harm to subsequent pregnancies or
+91 the ability to carry a subsequent child to term,
+92 and the possible adverse psychological effects
+93 associated with an abortion;
+94 (4) The physician who is to perform or
+95 induce the abortion or a qualified professional
+96 shall provide the woman with the opportunity to
+97 view at least seventy-two hours prior to the
+98 abortion an active ultrasound of the unborn
+99 child and hear the heartbeat of the unborn child
+100 if the heartbeat is audible. The woman shall be
+101 provided with a geographically indexed list
+102 maintained by the department of health care
+103 providers, facilities, and clinics that perform
+104 ultrasounds, including those that offer
+105 ultrasound services free of charge. Such
+106 materials shall provide contact information for
+107 each provider, facility, or clinic including
+108 telephone numbers and, if available, website
+109 addresses. Should the woman decide to obtain an
+
+SB 1692 58
+110 ultrasound from a provider, facility, or clinic
+111 other than the abortion facility, the woman
+112 shall be offered a reasonable time to obtain the
+113 ultrasound examination before the date and time
+114 set for performing or inducing an abortion. The
+115 person conducting the ultrasound shall ensure
+116 that the active ultrasound image is of a quality
+117 consistent with standard medical practice in the
+118 community, contains the dimensions of the unborn
+119 child, and accurately portrays the presence of
+120 external members and internal organs, if present
+121 or viewable, of the unborn child. The
+122 auscultation of fetal heart tone must also be of
+123 a quality consistent with standard medical
+124 practice in the community. If the woman chooses
+125 to view the ultrasound or hear the heartbeat or
+126 both at the abortion facility, the viewing or
+127 hearing or both shall be provided to her at the
+128 abortion facility at least seventy-two hours
+129 prior to the abortion being performed or induced;
+130 (5) The printed materials provided by the
+131 department shall include information on the
+132 possibility of an abortion causing pain in the
+133 unborn child. This information shall include,
+134 but need not be limited to, the following:
+135 (a) Unborn children as early as eight
+136 weeks gestational age start to show spontaneous
+137 movements and unborn children at this stage in
+138 pregnancy show reflex responses to touch;
+139 (b) In the unborn child, the area around
+140 his or her mouth and lips is the first part of
+141 the unborn child's body to respond to touch and
+142 by fourteen weeks gestational age most of the
+143 unborn child's body is responsive to touch;
+144 (c) Pain receptors on the unborn child's
+145 skin develop around his or her mouth at around
+146 seven to eight weeks gestational age, around the
+147 palms of his or her hands at ten to ten and a
+148 half weeks, on the abdominal wall at fifteen
+149 weeks, and over all of his or her body at
+150 sixteen weeks gestational age;
+151 (d) Beginning at sixteen weeks gestational
+152 age and later, it is possible for pain to be
+153 transmitted from receptors to the cortex of the
+
+SB 1692 59
+154 unborn child's brain, where thinking and
+155 perceiving occur;
+156 (e) When a physician performs a life-
+157 saving surgery, he or she provides anesthesia to
+158 unborn children as young as sixteen weeks
+159 gestational age in order to alleviate the unborn
+160 child's pain; and
+161 (f) A description of the actual steps in
+162 the abortion procedure to be performed or
+163 induced and at which steps the abortion
+164 procedure could be painful to the unborn child;
+165 (6) The physician who is to perform or
+166 induce the abortion or a qualified professional
+167 has presented the woman, in person, printed
+168 materials provided by the department explaining
+169 to the woman alternatives to abortion she may
+170 wish to consider. Such materials shall:
+171 (a) Identify on a geographical basis
+172 public and private agencies available to assist
+173 a woman in carrying her unborn child to term,
+174 and to assist her in caring for her dependent
+175 child or placing her child for adoption,
+176 including agencies commonly known and generally
+177 referred to as pregnancy resource centers,
+178 crisis pregnancy centers, maternity homes, and
+179 adoption agencies. Such materials shall provide
+180 a comprehensive list by geographical area of the
+181 agencies, a description of the services they
+182 offer, and the telephone numbers and addresses
+183 of the agencies; provided that such materials
+184 shall not include any programs, services,
+185 organizations, or affiliates of organizations
+186 that perform or induce, or assist in the
+187 performing or inducing of, abortions or that
+188 refer for abortions;
+189 (b) Explain the Missouri alternatives to
+190 abortion services program under section 188.325,
+191 and any other programs and services available to
+192 pregnant women and mothers of newborn children
+193 offered by public or private agencies which
+194 assist a woman in carrying her unborn child to
+195 term and assist her in caring for her dependent
+196 child or placing her child for adoption,
+197 including but not limited to prenatal care;
+
+SB 1692 60
+198 maternal health care; newborn or infant care;
+199 mental health services; professional counseling
+200 services; housing programs; utility assistance;
+201 transportation services; food, clothing, and
+202 supplies related to pregnancy; parenting skills;
+203 educational programs; job training and placement
+204 services; drug and alcohol testing and
+205 treatment; and adoption assistance;
+206 (c) Identify the state website for the
+207 Missouri alternatives to abortion services
+208 program under section 188.325, and any toll-free
+209 number established by the state operated in
+210 conjunction with the program;
+211 (d) Prominently display the statement:
+212 "There are public and private agencies willing
+213 and able to help you carry your child to term,
+214 and to assist you and your child after your
+215 child is born, whether you choose to keep your
+216 child or place him or her for adoption. The
+217 state of Missouri encourages you to contact
+218 those agencies before making a final decision
+219 about abortion. State law requires that your
+220 physician or a qualified professional give you
+221 the opportunity to call agencies like these
+222 before you undergo an abortion.";
+223 (7) The physician who is to perform or
+224 induce the abortion or a qualified professional
+225 has presented the woman, in person, printed
+226 materials provided by the department explaining
+227 that the father of the unborn child is liable to
+228 assist in the support of the child, even in
+229 instances where he has offered to pay for the
+230 abortion. Such materials shall include
+231 information on the legal duties and support
+232 obligations of the father of a child, including,
+233 but not limited to, child support payments, and
+234 the fact that paternity may be established by
+235 the father's name on a birth certificate or
+236 statement of paternity, or by court action.
+237 Such printed materials shall also state that
+238 more information concerning paternity
+239 establishment and child support services and
+240 enforcement may be obtained by calling the
+
+SB 1692 61
+241 family support division within the Missouri
+242 department of social services; and
+243 (8) The physician who is to perform or
+244 induce the abortion or a qualified professional
+245 shall inform the woman that she is free to
+246 withhold or withdraw her consent to the abortion
+247 at any time without affecting her right to
+248 future care or treatment and without the loss of
+249 any state or federally funded benefits to which
+250 she might otherwise be entitled.
+251 2. All information required to be provided
+252 to a woman considering abortion by subsection 1
+253 of this section shall be presented to the woman
+254 individually, in the physical presence of the
+255 woman and in a private room, to protect her
+256 privacy, to maintain the confidentiality of her
+257 decision, to ensure that the information focuses
+258 on her individual circumstances, to ensure she
+259 has an adequate opportunity to ask questions,
+260 and to ensure that she is not a victim of
+261 coerced abortion. Should a woman be unable to
+262 read materials provided to her, they shall be
+263 read to her. Should a woman need an interpreter
+264 to understand the information presented in the
+265 written materials, an interpreter shall be
+266 provided to her. Should a woman ask questions
+267 concerning any of the information or materials,
+268 answers shall be provided in a language she can
+269 understand.
+270 3. No abortion shall be performed or
+271 induced unless and until the woman upon whom the
+272 abortion is to be performed or induced certifies
+273 in writing on a checklist form provided by the
+274 department that she has been presented all the
+275 information required in subsection 1 of this
+276 section, that she has been provided the
+277 opportunity to view an active ultrasound image
+278 of the unborn child and hear the heartbeat of
+279 the unborn child if it is audible, and that she
+280 further certifies that she gives her voluntary
+281 and informed consent, freely and without
+282 coercion, to the abortion procedure.
+283 4. No physician shall perform or induce an
+284 abortion unless and until the physician has
+
+SB 1692 62
+285 obtained from the woman her voluntary and
+286 informed consent given freely and without
+287 coercion. If the physician has reason to
+288 believe that the woman is being coerced into
+289 having an abortion, the physician or qualified
+290 professional shall inform the woman that
+291 services are available for her and shall provide
+292 her with private access to a telephone and
+293 information about such services, including but
+294 not limited to the following:
+295 (1) Rape crisis centers, as defined in
+296 section 455.003;
+297 (2) Shelters for victims of domestic
+298 violence, as defined in section 455.200; and
+299 (3) Orders of protection, pursuant to
+300 chapter 455.
+301 5. The physician who is to perform or
+302 induce the abortion shall, at least seventy-two
+303 hours prior to such procedure, inform the woman
+304 orally and in person of:
+305 (1) The immediate and long-term medical
+306 risks to the woman associated with the proposed
+307 abortion method including, but not limited to,
+308 infection, hemorrhage, cervical tear or uterine
+309 perforation, harm to subsequent pregnancies or
+310 the ability to carry a subsequent child to term,
+311 and possible adverse psychological effects
+312 associated with the abortion; and
+313 (2) The immediate and long-term medical
+314 risks to the woman, in light of the anesthesia
+315 and medication that is to be administered, the
+316 unborn child's gestational age, and the woman's
+317 medical history and medical conditions.
+318 6. No physician shall perform or induce an
+319 abortion unless and until the physician has
+320 received and signed a copy of the form
+321 prescribed in subsection 3 of this section. The
+322 physician shall retain a copy of the form in the
+323 patient's medical record.
+324 7. In the event of a medical emergency,
+325 the physician who performed or induced the
+326 abortion shall clearly certify in writing the
+327 nature and circumstances of the medical
+328 emergency. This certification shall be signed
+
+SB 1692 63
+329 by the physician who performed or induced the
+330 abortion, and shall be maintained under section
+331 188.060.
+332 8. No person or entity shall require,
+333 obtain, or accept payment for an abortion from
+334 or on behalf of a patient until at least seventy-
+335 two hours have passed since the time that the
+336 information required by subsection 1 of this
+337 section has been provided to the patient.
+338 Nothing in this subsection shall prohibit a
+339 person or entity from notifying the patient that
+340 payment for the abortion will be required after
+341 the seventy-two-hour period has expired if she
+342 voluntarily chooses to have the abortion.
+343 9. The term "qualified professional" as
+344 used in this section shall refer to a physician,
+345 physician assistant, registered nurse, licensed
+346 practical nurse, psychologist, licensed
+347 professional counselor, or licensed social
+348 worker, licensed or registered under chapter
+349 334, 335, or 337, acting under the supervision
+350 of the physician performing or inducing the
+351 abortion, and acting within the course and scope
+352 of his or her authority provided by law. The
+353 provisions of this section shall not be
+354 construed to in any way expand the authority
+355 otherwise provided by law relating to the
+356 licensure, registration, or scope of practice of
+357 any such qualified professional.
+358 10. By November 30, 2010, the department
+359 shall produce the written materials and forms
+360 described in this section. Any written
+361 materials produced shall be printed in a
+362 typeface large enough to be clearly legible.
+363 All information shall be presented in an
+364 objective, unbiased manner designed to convey
+365 only accurate scientific and medical
+366 information. The department shall furnish the
+367 written materials and forms at no cost and in
+368 sufficient quantity to any person who performs
+369 or induces abortions, or to any hospital or
+370 facility that provides abortions. The
+371 department shall make all information required
+372 by subsection 1 of this section available to the
+
+SB 1692 64
+373 public through its department website. The
+374 department shall maintain a toll-free, twenty-
+375 four-hour hotline telephone number where a
+376 caller can obtain information on a regional
+377 basis concerning the agencies and services
+378 described in subsection 1 of this section. No
+379 identifying information regarding persons who
+380 use the website shall be collected or
+381 maintained. The department shall monitor the
+382 website on a regular basis to prevent tampering
+383 and correct any operational deficiencies.
+384 11. In order to preserve the compelling
+385 interest of the state to ensure that the choice
+386 to consent to an abortion is voluntary and
+387 informed, and given freely and without coercion,
+388 the department shall use the procedures for
+389 adoption of emergency rules under section
+390 536.025 in order to promulgate all necessary
+391 rules, forms, and other necessary material to
+392 implement this section by November 30, 2010.
+393 12. If the provisions in subsections 1 and
+394 8 of this section requiring a seventy-two-hour
+395 waiting period for an abortion are ever
+396 temporarily or permanently restrained or
+397 enjoined by judicial order, then the waiting
+398 period for an abortion shall be twenty-four
+399 hours; provided, however, that if such temporary
+400 or permanent restraining order or injunction is
+401 stayed or dissolved, or otherwise ceases to have
+402 effect, the waiting period for an abortion shall
+403 be seventy-two hours.]
+1 [188.030. 1. Except in the case of a
+2 medical emergency, no abortion of a viable
+3 unborn child shall be performed or induced
+4 unless the abortion is necessary to preserve the
+5 life of the pregnant woman whose life is
+6 endangered by a physical disorder, physical
+7 illness, or physical injury, including a life-
+8 endangering physical condition caused by or
+9 arising from the pregnancy itself, or when
+10 continuation of the pregnancy will create a
+11 serious risk of substantial and irreversible
+12 physical impairment of a major bodily function
+
+SB 1692 65
+13 of the pregnant woman. For purposes of this
+14 section, "major bodily function" includes, but
+15 is not limited to, functions of the immune
+16 system, normal cell growth, digestive, bowel,
+17 bladder, neurological, brain, respiratory,
+18 circulatory, endocrine, and reproductive
+19 functions.
+20 2. Except in the case of a medical
+21 emergency:
+22 (1) Prior to performing or inducing an
+23 abortion upon a woman, the physician shall
+24 determine the gestational age of the unborn
+25 child in a manner consistent with accepted
+26 obstetrical and neonatal practices and
+27 standards. In making such determination, the
+28 physician shall make such inquiries of the
+29 pregnant woman and perform or cause to be
+30 performed such medical examinations, imaging
+31 studies, and tests as a reasonably prudent
+32 physician, knowledgeable about the medical facts
+33 and conditions of both the woman and the unborn
+34 child involved, would consider necessary to
+35 perform and consider in making an accurate
+36 diagnosis with respect to gestational age;
+37 (2) If the physician determines that the
+38 gestational age of the unborn child is twenty
+39 weeks or more, prior to performing or inducing
+40 an abortion upon the woman, the physician shall
+41 determine if the unborn child is viable by using
+42 and exercising that degree of care, skill, and
+43 proficiency commonly exercised by a skillful,
+44 careful, and prudent physician. In making this
+45 determination of viability, the physician shall
+46 perform or cause to be performed such medical
+47 examinations and tests as are necessary to make
+48 a finding of the gestational age, weight, and
+49 lung maturity of the unborn child and shall
+50 enter such findings and determination of
+51 viability in the medical record of the woman;
+52 (3) If the physician determines that the
+53 gestational age of the unborn child is twenty
+54 weeks or more, and further determines that the
+55 unborn child is not viable and performs or
+56 induces an abortion upon the woman, the
+
+SB 1692 66
+57 physician shall report such findings and
+58 determinations and the reasons for such
+59 determinations to the health care facility in
+60 which the abortion is performed and to the state
+61 board of registration for the healing arts, and
+62 shall enter such findings and determinations in
+63 the medical records of the woman and in the
+64 individual abortion report submitted to the
+65 department under section 188.052;
+66 (4) (a) If the physician determines that
+67 the unborn child is viable, the physician shall
+68 not perform or induce an abortion upon the woman
+69 unless the abortion is necessary to preserve the
+70 life of the pregnant woman or that a
+71 continuation of the pregnancy will create a
+72 serious risk of substantial and irreversible
+73 physical impairment of a major bodily function
+74 of the woman.
+75 (b) Before a physician may proceed with
+76 performing or inducing an abortion upon a woman
+77 when it has been determined that the unborn
+78 child is viable, the physician shall first
+79 certify in writing the medical threat posed to
+80 the life of the pregnant woman, or the medical
+81 reasons that continuation of the pregnancy would
+82 cause a serious risk of substantial and
+83 irreversible physical impairment of a major
+84 bodily function of the pregnant woman. Upon
+85 completion of the abortion, the physician shall
+86 report the reasons and determinations for the
+87 abortion of a viable unborn child to the health
+88 care facility in which the abortion is performed
+89 and to the state board of registration for the
+90 healing arts, and shall enter such findings and
+91 determinations in the medical record of the
+92 woman and in the individual abortion report
+93 submitted to the department under section
+94 188.052.
+95 (c) Before a physician may proceed with
+96 performing or inducing an abortion upon a woman
+97 when it has been determined that the unborn
+98 child is viable, the physician who is to perform
+99 the abortion shall obtain the agreement of a
+100 second physician with knowledge of accepted
+
+SB 1692 67
+101 obstetrical and neonatal practices and standards
+102 who shall concur that the abortion is necessary
+103 to preserve the life of the pregnant woman, or
+104 that continuation of the pregnancy would cause a
+105 serious risk of substantial and irreversible
+106 physical impairment of a major bodily function
+107 of the pregnant woman. This second physician
+108 shall also report such reasons and
+109 determinations to the health care facility in
+110 which the abortion is to be performed and to the
+111 state board of registration for the healing
+112 arts, and shall enter such findings and
+113 determinations in the medical record of the
+114 woman and the individual abortion report
+115 submitted to the department under section
+116 188.052. The second physician shall not have
+117 any legal or financial affiliation or
+118 relationship with the physician performing or
+119 inducing the abortion, except that such
+120 prohibition shall not apply to physicians whose
+121 legal or financial affiliation or relationship
+122 is a result of being employed by or having staff
+123 privileges at the same hospital as the term
+124 "hospital" is defined in section 197.020.
+125 (d) Any physician who performs or induces
+126 an abortion upon a woman when it has been
+127 determined that the unborn child is viable shall
+128 utilize the available method or technique of
+129 abortion most likely to preserve the life or
+130 health of the unborn child. In cases where the
+131 method or technique of abortion most likely to
+132 preserve the life or health of the unborn child
+133 would present a greater risk to the life or
+134 health of the woman than another legally
+135 permitted and available method or technique, the
+136 physician may utilize such other method or
+137 technique. In all cases where the physician
+138 performs an abortion upon a viable unborn child,
+139 the physician shall certify in writing the
+140 available method or techniques considered and
+141 the reasons for choosing the method or technique
+142 employed.
+143 (e) No physician shall perform or induce
+144 an abortion upon a woman when it has been
+
+SB 1692 68
+145 determined that the unborn child is viable
+146 unless there is in attendance a physician other
+147 than the physician performing or inducing the
+148 abortion who shall take control of and provide
+149 immediate medical care for a child born as a
+150 result of the abortion. During the performance
+151 of the abortion, the physician performing it,
+152 and subsequent to the abortion, the physician
+153 required to be in attendance, shall take all
+154 reasonable steps in keeping with good medical
+155 practice, consistent with the procedure used, to
+156 preserve the life or health of the viable unborn
+157 child; provided that it does not pose an
+158 increased risk to the life of the woman or does
+159 not pose an increased risk of substantial and
+160 irreversible physical impairment of a major
+161 bodily function of the woman.
+162 3. Any person who knowingly performs or
+163 induces an abortion of an unborn child in
+164 violation of the provisions of this section is
+165 guilty of a class D felony, and, upon a finding
+166 of guilt or plea of guilty, shall be imprisoned
+167 for a term of not less than one year, and,
+168 notwithstanding the provisions of section
+169 558.002, shall be fined not less than ten
+170 thousand nor more than fifty thousand dollars.
+171 4. Any physician who pleads guilty to or
+172 is found guilty of performing or inducing an
+173 abortion of an unborn child in violation of this
+174 section shall be subject to suspension or
+175 revocation of his or her license to practice
+176 medicine in the state of Missouri by the state
+177 board of registration for the healing arts under
+178 the provisions of sections 334.100 and 334.103.
+179 5. Any hospital licensed in the state of
+180 Missouri that knowingly allows an abortion of an
+181 unborn child to be performed or induced in
+182 violation of this section may be subject to
+183 suspension or revocation of its license under
+184 the provisions of section 197.070.
+185 6. Any abortion facility licensed in the
+186 state of Missouri that knowingly allows an
+187 abortion of an unborn child to be performed or
+188 induced in violation of this section may be
+
+SB 1692 69
+189 subject to suspension or revocation of its
+190 license under the provisions of section 197.220.
+191 7. A woman upon whom an abortion is
+192 performed or induced in violation of this
+193 section shall not be prosecuted for a conspiracy
+194 to violate the provisions of this section.
+195 8. Nothing in this section shall be
+196 construed as creating or recognizing a right to
+197 abortion, nor is it the intention of this
+198 section to make lawful any abortion that is
+199 currently unlawful.
+200 9. It is the intent of the legislature
+201 that this section be severable as noted in
+202 section 1.140. In the event that any section,
+203 subsection, subdivision, paragraph, sentence, or
+204 clause of this section be declared invalid under
+205 the Constitution of the United States or the
+206 Constitution of the State of Missouri, it is the
+207 intent of the legislature that the remaining
+208 provisions of this section remain in force and
+209 effect as far as capable of being carried into
+210 execution as intended by the legislature.
+211 10. The general assembly may, by
+212 concurrent resolution, appoint one or more of
+213 its members who sponsored or co-sponsored this
+214 act in his or her official capacity to intervene
+215 as a matter of right in any case in which the
+216 constitutionality of this law is challenged.]
+1 [188.033. Whenever an abortion facility or
+2 a family planning agency located in this state,
+3 or any of its agents or employees acting within
+4 the scope of his or her authority or employment,
+5 provides to a woman considering an abortion the
+6 name, address, telephone number, or website of
+7 an abortion provider that is located outside of
+8 the state, such abortion facility or family
+9 planning agency or its agents or employees shall
+10 also provide to such woman the printed materials
+11 produced by the department under section
+12 188.027. If the name, address, telephone
+13 number, or website of such abortion provider is
+14 not provided to such woman in person, such
+15 printed materials shall be offered to her, and
+
+SB 1692 70
+16 if she chooses, sent to such woman at no cost to
+17 her the same day or as soon as possible either
+18 electronically or by U.S. mail overnight
+19 delivery service or by other overnight or same-
+20 day delivery service to an address of such
+21 woman's choosing. The department shall furnish
+22 such printed materials at no cost and in
+23 sufficient quantities to abortion facilities and
+24 family planning agencies located within the
+25 state.]
+1 [188.038. 1. The general assembly of this
+2 state finds that:
+3 (1) Removing vestiges of any past bias or
+4 discrimination against pregnant women, their
+5 partners, and their family members, including
+6 their unborn children, is an important task for
+7 those in the legal, medical, social services,
+8 and human services professions;
+9 (2) Ending any current bias or
+10 discrimination against pregnant women, their
+11 partners, and their family members, including
+12 their unborn children, is a legitimate purpose
+13 of government in order to guarantee that those
+14 who "are endowed by their Creator with certain
+15 unalienable Rights" can enjoy "Life, Liberty and
+16 the pursuit of Happiness";
+17 (3) The historical relationship of bias or
+18 discrimination by some family planning programs
+19 and policies towards poor and minority
+20 populations, including, but not limited to, the
+21 nonconsensual sterilization of mentally ill,
+22 poor, minority, and immigrant women and other
+23 coercive family planning programs and policies,
+24 must be rejected;
+25 (4) Among Missouri residents, the rate of
+26 black or African-American women who undergo
+27 abortions is significantly higher, about three
+28 and one-half times higher, than the rate of
+29 white women who undergo abortions. Among
+30 Missouri residents, the rate of black or African-
+31 American women who undergo repeat abortions is
+32 significantly higher, about one and one-half
+
+SB 1692 71
+33 times higher, than the rate of white women who
+34 undergo repeat abortions;
+35 (5) Performing or inducing an abortion
+36 because of the sex of the unborn child is
+37 repugnant to the values of equality of females
+38 and males and the same opportunities for girls
+39 and boys, and furthers a false mindset of female
+40 inferiority;
+41 (6) Government has a legitimate interest
+42 in preventing the abortion of unborn children
+43 with Down Syndrome because it is a form of bias
+44 or disability discrimination and victimizes the
+45 disabled unborn child at his or her most
+46 vulnerable stage. Eliminating unborn children
+47 with Down Syndrome raises grave concerns for the
+48 lives of those who do live with disabilities.
+49 It sends a message of dwindling support for
+50 their unique challenges, fosters a false sense
+51 that disability is something that could have
+52 been avoidable, and is likely to increase the
+53 stigma associated with disability.
+54 2. No person shall perform or induce an
+55 abortion on a woman if the person knows that the
+56 woman is seeking the abortion solely because of
+57 a prenatal diagnosis, test, or screening
+58 indicating Down Syndrome or the potential of
+59 Down Syndrome in an unborn child.
+60 3. No person shall perform or induce an
+61 abortion on a woman if the person knows that the
+62 woman is seeking the abortion solely because of
+63 the sex or race of the unborn child.
+64 4. Any physician or other person who
+65 performs or induces or attempts to perform or
+66 induce an abortion prohibited by this section
+67 shall be subject to all applicable civil
+68 penalties under this chapter including, but not
+69 limited to, sections 188.065 and 188.085.]
+1 [188.039. 1. For purposes of this
+2 section, "medical emergency" means a condition
+3 which, on the basis of the physician's good
+4 faith clinical judgment, so complicates the
+5 medical condition of a pregnant woman as to
+6 necessitate the immediate abortion of her
+
+SB 1692 72
+7 pregnancy to avert her death or for which a
+8 delay will create a serious risk of substantial
+9 and irreversible impairment of a major bodily
+10 function.
+11 2. Except in the case of medical
+12 emergency, no person shall perform or induce an
+13 abortion unless at least seventy-two hours prior
+14 thereto the physician who is to perform or
+15 induce the abortion, a qualified professional,
+16 or the referring physician has conferred with
+17 the patient and discussed with her the
+18 indicators and contraindicators, and risk
+19 factors including any physical, psychological,
+20 or situational factors for the proposed
+21 procedure and the use of medications, including
+22 but not limited to mifepristone, in light of her
+23 medical history and medical condition. For an
+24 abortion performed or an abortion induced by a
+25 drug or drugs, such conference shall take place
+26 at least seventy-two hours prior to the writing
+27 or communication of the first prescription for
+28 such drug or drugs in connection with inducing
+29 an abortion. Only one such conference shall be
+30 required for each abortion.
+31 3. The patient shall be evaluated by the
+32 physician who is to perform or induce the
+33 abortion, a qualified professional, or the
+34 referring physician during the conference for
+35 indicators and contraindicators, risk factors
+36 including any physical, psychological, or
+37 situational factors which would predispose the
+38 patient to or increase the risk of experiencing
+39 one or more adverse physical, emotional, or
+40 other health reactions to the proposed procedure
+41 or drug or drugs in either the short or long
+42 term as compared with women who do not possess
+43 such risk factors.
+44 4. At the end of the conference, and if
+45 the woman chooses to proceed with the abortion,
+46 the physician who is to perform or induce the
+47 abortion, a qualified professional, or the
+48 referring physician shall sign and shall cause
+49 the patient to sign a written statement that the
+50 woman gave her informed consent freely and
+
+SB 1692 73
+51 without coercion after the physician or
+52 qualified professional had discussed with her
+53 the indicators and contraindicators, and risk
+54 factors, including any physical, psychological,
+55 or situational factors. All such executed
+56 statements shall be maintained as part of the
+57 patient's medical file, subject to the
+58 confidentiality laws and rules of this state.
+59 5. The director of the department of
+60 health and senior services shall disseminate a
+61 model form that physicians or qualified
+62 professionals may use as the written statement
+63 required by this section, but any lack or
+64 unavailability of such a model form shall not
+65 affect the duties of the physician or qualified
+66 professional set forth in subsections 2 to 4 of
+67 this section.
+68 6. As used in this section, the term
+69 "qualified professional" shall refer to a
+70 physician, physician assistant, registered
+71 nurse, licensed practical nurse, psychologist,
+72 licensed professional counselor, or licensed
+73 social worker, licensed or registered under
+74 chapter 334, 335, or 337, acting under the
+75 supervision of the physician performing or
+76 inducing the abortion, and acting within the
+77 course and scope of his or her authority
+78 provided by law. The provisions of this section
+79 shall not be construed to in any way expand the
+80 authority otherwise provided by law relating to
+81 the licensure, registration, or scope of
+82 practice of any such qualified professional.
+83 7. If the provisions in subsection 2 of
+84 this section requiring a seventy-two-hour
+85 waiting period for an abortion are ever
+86 temporarily or permanently restrained or
+87 enjoined by judicial order, then the waiting
+88 period for an abortion shall be twenty-four
+89 hours; provided, however, that if such temporary
+90 or permanent restraining order or injunction is
+91 stayed or dissolved, or otherwise ceases to have
+92 effect, the waiting period for an abortion shall
+93 be seventy-two hours.]
+
+SB 1692 74
+1 [188.047. 1. All tissue, except that
+2 tissue needed for purposes described in
+3 subsection 5 of this section, removed at the
+4 time of abortion shall be submitted within five
+5 days to a board-eligible or certified
+6 pathologist for gross and histopathological
+7 examination. The pathologist shall file a copy
+8 of the tissue report with the state department
+9 of health and senior services, and shall provide
+10 within seventy-two hours a copy of the report to
+11 the abortion facility or hospital in which the
+12 abortion was performed or induced. The
+13 pathologist's report shall be made a part of the
+14 patient's permanent record. If the pathological
+15 examination fails to identify evidence of a
+16 completed abortion, the pathologist shall notify
+17 the abortion facility or hospital within twenty-
+18 four hours.
+19 2. The department shall reconcile each
+20 notice of abortion with its corresponding tissue
+21 report. If the department does not receive the
+22 notice of abortion or the tissue report, the
+23 department shall make an inquiry of the abortion
+24 facility or hospital. After such inquiry, if
+25 the hospital or abortion facility has not
+26 satisfactorily responded to said inquiry and the
+27 department finds that the abortion facility or
+28 hospital where the abortion was performed or
+29 induced was not in compliance with the
+30 provisions of this section, the department shall
+31 consider such noncompliance a deficiency
+32 requiring an unscheduled inspection of the
+33 facility to ensure the deficiency is remedied,
+34 subject to the provisions of chapter 197
+35 regarding license suspensions, reviews, and
+36 appeals.
+37 3. Beginning January 1, 2018, the
+38 department shall make an annual report to the
+39 general assembly. The report shall include the
+40 number of any deficiencies and inquiries by the
+41 department of each abortion facility in the
+42 calendar year and whether any deficiencies were
+43 remedied and, for each abortion facility,
+44 aggregated de-identified data about the total
+
+SB 1692 75
+45 number of abortions performed at the facility,
+46 the termination procedures used, the number and
+47 type of complications reported for each type of
+48 termination procedure, whether the department
+49 received the tissue report for each abortion,
+50 and the existence and nature, if any, of any
+51 inconsistencies or concerns between the abortion
+52 reports submitted under section 188.052 and the
+53 tissue report submitted under this section. The
+54 report shall not contain any personal patient
+55 information the disclosure of which is
+56 prohibited by state or federal law.
+57 4. All reports provided by the department
+58 to the general assembly under this section shall
+59 maintain confidentiality of all personal
+60 information of patients, facility personnel, and
+61 facility physicians.
+62 5. Nothing in this section shall prohibit
+63 the utilization of fetal organs or tissue
+64 resulting from an abortion for medical or
+65 scientific purposes to determine the cause or
+66 causes of any anomaly, illness, death, or
+67 genetic condition of the fetus, the paternity of
+68 the fetus, or for law enforcement purposes.
+69 6. The department may adopt rules,
+70 regulations, and standards governing the reports
+71 required under this section. In doing so, the
+72 department shall ensure that these reports
+73 contain all information necessary to ensure
+74 compliance with all applicable laws and
+75 regulations. Any rule or portion of a rule, as
+76 that term is defined in section 536.010, that is
+77 created under the authority delegated in this
+78 section shall become effective only if it
+79 complies with and is subject to all of the
+80 provisions of chapter 536 and, if applicable,
+81 section 536.028. This section and chapter 536
+82 are nonseverable and if any of the powers vested
+83 with the general assembly pursuant to chapter
+84 536 to review, to delay the effective date, or
+85 to disapprove and annul a rule are subsequently
+86 held unconstitutional, then the grant of
+87 rulemaking authority and any rule proposed or
+
+SB 1692 76
+88 adopted after October 24, 2017, shall be invalid
+89 and void.]
+1 [188.052. 1. An individual abortion
+2 report for each abortion performed or induced
+3 upon a woman shall be completed by the physician
+4 who performed or induced the abortion. Abortion
+5 reports shall include, but not be limited to, a
+6 certification that the physician does not have
+7 any knowledge that the woman sought the abortion
+8 solely because of a prenatal diagnosis, test, or
+9 screening indicating Down Syndrome or the
+10 potential of Down Syndrome in the unborn child
+11 and a certification that the physician does not
+12 have any knowledge that the woman sought the
+13 abortion solely because of the sex or race of
+14 the unborn child.
+15 2. An individual complication report for
+16 any post-abortion care performed upon a woman
+17 shall be completed by the physician providing
+18 such post-abortion care. This report shall
+19 include:
+20 (1) The date of the abortion;
+21 (2) The name and address of the abortion
+22 facility or hospital where the abortion was
+23 performed or induced;
+24 (3) The nature of the abortion
+25 complication diagnosed or treated.
+26 3. All abortion reports shall be signed by
+27 the attending physician who performed or induced
+28 the abortion and submitted to the department
+29 within forty-five days from the date of the
+30 abortion. All complication reports shall be
+31 signed by the physician providing the post-
+32 abortion care and submitted to the department
+33 within forty-five days from the date of the post-
+34 abortion care.
+35 4. A copy of the abortion report shall be
+36 made a part of the medical record of the patient
+37 of the abortion facility or hospital in which
+38 the abortion was performed or induced.
+39 5. The department shall be responsible for
+40 collecting all abortion reports and complication
+41 reports and collating and evaluating all data
+
+SB 1692 77
+42 gathered therefrom and shall annually publish a
+43 statistical report based on such data from
+44 abortions performed or induced in the previous
+45 calendar year.]
+1 [188.056. 1. Notwithstanding any other
+2 provision of law to the contrary, no abortion
+3 shall be performed or induced upon a woman at
+4 eight weeks gestational age or later, except in
+5 cases of medical emergency. Any person who
+6 knowingly performs or induces an abortion of an
+7 unborn child in violation of this subsection
+8 shall be guilty of a class B felony, as well as
+9 subject to suspension or revocation of his or
+10 her professional license by his or her
+11 professional licensing board. A woman upon whom
+12 an abortion is performed or induced in violation
+13 of this subsection shall not be prosecuted for a
+14 conspiracy to violate the provisions of this
+15 section.
+16 2. It shall be an affirmative defense for
+17 any person alleged to have violated the
+18 provisions of subsection 1 of this section that
+19 the person performed or induced an abortion
+20 because of a medical emergency. The defendant
+21 shall have the burden of persuasion that the
+22 defense is more probably true than not.
+23 3. Prosecution under this section shall
+24 bar prosecution under section 188.057, 188.058,
+25 or 188.375 if prosecution under such sections
+26 would violate the provisions of Amendment V to
+27 the Constitution of the United States or Article
+28 I, Section 19 of the Constitution of Missouri.
+29 4. If any one or more provisions,
+30 subsections, sentences, clauses, phrases, or
+31 words of this section or the application thereof
+32 to any person, circumstance, or period of
+33 gestational age is found to be unenforceable,
+34 unconstitutional, or invalid by a court of
+35 competent jurisdiction, the same is hereby
+36 declared to be severable and the balance of the
+37 section shall remain effective notwithstanding
+38 such unenforceability, unconstitutionality, or
+39 invalidity. The general assembly hereby
+
+SB 1692 78
+40 declares that it would have passed this section,
+41 and each provision, subsection, sentence,
+42 clause, phrase, or word thereof, irrespective of
+43 the fact that any one or more provisions,
+44 subsections, sentences, clauses, phrases, or
+45 words of the section, or the application of the
+46 section to any person, circumstance, or period
+47 of gestational age, would be declared
+48 unenforceable, unconstitutional, or invalid.]
+1 [188.057. 1. Notwithstanding any other
+2 provision of law to the contrary, no abortion
+3 shall be performed or induced upon a woman at
+4 fourteen weeks gestational age or later, except
+5 in cases of medical emergency. Any person who
+6 knowingly performs or induces an abortion of an
+7 unborn child in violation of this subsection
+8 shall be guilty of a class B felony, as well as
+9 subject to suspension or revocation of his or
+10 her professional license by his or her
+11 professional licensing board. A woman upon whom
+12 an abortion is performed or induced in violation
+13 of this subsection shall not be prosecuted for a
+14 conspiracy to violate the provisions of this
+15 section.
+16 2. It shall be an affirmative defense for
+17 any person alleged to have violated the
+18 provisions of subsection 1 of this section that
+19 the person performed or induced an abortion
+20 because of a medical emergency. The defendant
+21 shall have the burden of persuasion that the
+22 defense is more probably true than not.
+23 3. Prosecution under this section shall
+24 bar prosecution under section188.056, 188.058,
+25 or 188.375 if prosecution under such sections
+26 would violate the provisions of Amendment V to
+27 the Constitution of the United States or Article
+28 I, Section 19 of the Constitution of Missouri.
+29 4. If any one or more provisions,
+30 subsections, sentences, clauses, phrases, or
+31 words of this section or the application thereof
+32 to any person, circumstance, or period of
+33 gestational age is found to be unenforceable,
+34 unconstitutional, or invalid by a court of
+
+SB 1692 79
+35 competent jurisdiction, the same is hereby
+36 declared to be severable and the balance of the
+37 section shall remain effective notwithstanding
+38 such unenforceability, unconstitutionality, or
+39 invalidity. The general assembly hereby
+40 declares that it would have passed this section,
+41 and each provision, subsection, sentence,
+42 clause, phrase, or word thereof, irrespective of
+43 the fact that any one or more provisions,
+44 subsections, sentences, clauses, phrases, or
+45 words of the section, or the application of the
+46 section to any person, circumstance, or period
+47 of gestational age, would be declared
+48 unenforceable, unconstitutional, or invalid.]
+1 [188.058. 1. Notwithstanding any other
+2 provision of law to the contrary, no abortion
+3 shall be performed or induced upon a woman at
+4 eighteen weeks gestational age or later, except
+5 in cases of medical emergency. Any person who
+6 knowingly performs or induces an abortion of an
+7 unborn child in violation of this subsection
+8 shall be guilty of a class B felony, as well as
+9 subject to suspension or revocation of his or
+10 her professional license by his or her
+11 professional licensing board. A woman upon whom
+12 an abortion is performed or induced in violation
+13 of this section shall not be prosecuted for a
+14 conspiracy to violate the provisions of this
+15 section.
+16 2. It shall be an affirmative defense for
+17 any person alleged to have violated the
+18 provisions of subsection 1 of this section that
+19 the person performed or induced an abortion
+20 because of a medical emergency. The defendant
+21 shall have the burden of persuasion that the
+22 defense is more probably true than not.
+23 3. Prosecution under this section shall
+24 bar prosecution under section 188.056, 188.057,
+25 or 188.375 if prosecution under such sections
+26 would violate the provisions of Amendment V to
+27 the Constitution of the United States or Article
+28 I, Section 19 of the Constitution of Missouri.
+
+SB 1692 80
+29 4. If any one or more provisions,
+30 subsections, sentences, clauses, phrases, or
+31 words of this section or the application thereof
+32 to any person, circumstance, or period of
+33 gestational age is found to be unenforceable,
+34 unconstitutional, or invalid by a court of
+35 competent jurisdiction, the same is hereby
+36 declared to be severable and the balance of the
+37 section shall remain effective notwithstanding
+38 such unenforceability, unconstitutionality, or
+39 invalidity. The general assembly hereby
+40 declares that it would have passed this section,
+41 and each provision, subsection, sentence,
+42 clause, phrase, or word thereof, irrespective of
+43 the fact that any one or more provisions,
+44 subsections, sentences, clauses, phrases, or
+45 words of the section, or the application of the
+46 section to any person, circumstance, or period
+47 of gestational age, would be declared
+48 unenforceable, unconstitutional, or invalid.]
+1 [188.075. 1. Any person who contrary to
+2 the provisions of sections 188.010 to 188.085
+3 knowingly performs, induces, or aids in the
+4 performance or inducing of any abortion or
+5 knowingly fails to perform any action required
+6 by sections 188.010 to 188.085 shall be guilty
+7 of a class A misdemeanor, unless a different
+8 penalty is provided for in state law, and, upon
+9 conviction, shall be punished as provided by law.
+10 2. It shall be an affirmative defense for
+11 any person alleged to have violated any
+12 provision of this chapter that the person
+13 performed an action or did not perform an action
+14 because of a medical emergency. This
+15 affirmative defense shall be available in
+16 criminal, civil, and administrative actions or
+17 proceedings. The defendant shall have the
+18 burden of persuasion that the defense is more
+19 probably true than not.
+20 3. The attorney general shall have
+21 concurrent original jurisdiction throughout the
+22 state, along with each prosecuting attorney and
+23 circuit attorney within their respective
+
+SB 1692 81
+24 jurisdictions, to commence actions for a
+25 violation of any provision of this chapter, for
+26 a violation of any state law on the use of
+27 public funds for an abortion, or for a violation
+28 of any state law which regulates an abortion
+29 facility or a person who performs or induces an
+30 abortion. The attorney general, or prosecuting
+31 attorney or circuit attorney within their
+32 respective jurisdictions, may seek injunctive or
+33 other relief against any person who, or entity
+34 which, is in violation of any provision of this
+35 chapter, misuses public funds for an abortion,
+36 or violates any state law which regulates an
+37 abortion facility or a person who performs or
+38 induces an abortion.]
+1 [188.080. Any person who is not a
+2 physician who performs or induces or attempts to
+3 perform or induce an abortion on another is
+4 guilty of a class B felony, and, upon
+5 conviction, shall be punished as provided by
+6 law. Any physician performing or inducing an
+7 abortion who does not have clinical privileges
+8 at a hospital which offers obstetrical or
+9 gynecological care located within thirty miles
+10 of the location at which the abortion is
+11 performed or induced shall be guilty of a class
+12 A misdemeanor, and, upon conviction shall be
+13 punished as provided by law.]
+1 [188.230. Nothing in this act is intended
+2 to authorize anyone other than a physician to
+3 perform an abortion.]
+1 [188.375. 1. This section shall be known
+2 and may be cited as the "Late-Term Pain-Capable
+3 Unborn Child Protection Act".
+4 2. As used in this section, the phrase
+5 "late-term pain-capable unborn child" shall mean
+6 an unborn child at twenty weeks gestational age
+7 or later.
+8 3. Notwithstanding any other provision of
+9 law to the contrary, no abortion shall be
+10 performed or induced upon a woman carrying a
+11 late-term pain-capable unborn child, except in
+
+SB 1692 82
+12 cases of medical emergency. Any person who
+13 knowingly performs or induces an abortion of a
+14 late-term pain-capable unborn child in violation
+15 of this subsection shall be guilty of a class B
+16 felony, as well as subject to suspension or
+17 revocation of his or her professional license by
+18 his or her professional licensing board. A
+19 woman upon whom an abortion is performed or
+20 induced in violation of this subsection shall
+21 not be prosecuted for a conspiracy to violate
+22 the provisions of this subsection.
+23 4. It shall be an affirmative defense for
+24 any person alleged to have violated the
+25 provisions of subsection 3 of this section that
+26 the person performed or induced an abortion
+27 because of a medical emergency. The defendant
+28 shall have the burden of persuasion that the
+29 defense is more probably true than not.
+30 5. Prosecution under subsection 3 of this
+31 section shall bar prosecution under section
+32 188.056, 188.057, or 188.058 if prosecution
+33 under such sections would violate the provisions
+34 of Amendment V to the Constitution of the United
+35 States or Article I, Section 19 of the
+36 Constitution of Missouri.
+37 6. When in cases of medical emergency a
+38 physician performs or induces an abortion upon a
+39 woman in her third trimester carrying a late-
+40 term pain-capable unborn child, the physician
+41 shall utilize the available method or technique
+42 of abortion most likely to preserve the life or
+43 health of the unborn child. In cases where the
+44 method or technique of abortion most likely to
+45 preserve the life or health of the unborn child
+46 would present a greater risk to the life or
+47 health of the woman than another legally
+48 permitted and available method or technique, the
+49 physician may utilize such other method or
+50 technique. In all cases where the physician
+51 performs or induces an abortion upon a woman
+52 during her third trimester carrying a late-term
+53 pain-capable unborn child, the physician shall
+54 certify in writing the available method or
+
+SB 1692 83
+55 techniques considered and the reasons for
+56 choosing the method or technique employed.
+57 7. When in cases of medical emergency a
+58 physician performs or induces an abortion upon a
+59 woman during her third trimester carrying a late-
+60 term pain-capable unborn child, there shall be
+61 in attendance a physician other than the
+62 physician performing or inducing the abortion
+63 who shall take control of and provide immediate
+64 medical care for a child born as a result of the
+65 abortion.
+66 8. Any physician who knowingly violates
+67 any of the provisions of subsection 6 or 7 of
+68 this section shall be guilty of a class D
+69 felony, as well as subject to suspension or
+70 revocation of his or her professional license by
+71 his or her professional licensing board. A
+72 woman upon whom an abortion is performed or
+73 induced in violation of subsection 6 or 7 of
+74 this section shall not be prosecuted for a
+75 conspiracy to violate the provisions of those
+76 subsections.
+77 9. If any one or more provisions,
+78 subsections, sentences, clauses, phrases, or
+79 words of this section or the application thereof
+80 to any person, circumstance, or period of
+81 gestational age is found to be unenforceable,
+82 unconstitutional, or invalid by a court of
+83 competent jurisdiction, the same is hereby
+84 declared to be severable and the balance of the
+85 section shall remain effective notwithstanding
+86 such unenforceability, unconstitutionality, or
+87 invalidity. The general assembly hereby
+88 declares that it would have passed this section,
+89 and each provision, subsection, sentence,
+90 clause, phrase, or word thereof, irrespective of
+91 the fact that any one or more provisions,
+92 subsections, sentences, clauses, phrases, or
+93 words of the section, or the application of the
+94 section to any person, circumstance, or period
+95 of gestational age, would be declared
+96 unenforceable, unconstitutional, or invalid.]
+
+SB 1692 84
+1 [334.245. 1. Notwithstanding any other
+2 provision of law to the contrary that may allow
+3 a person to provide services relating to
+4 pregnancy, including prenatal, delivery, and
+5 postpartum services, no person other than a
+6 licensed physician is authorized to perform or
+7 induce an abortion.
+8 2. Any person who violates the provisions
+9 of this section is guilty of a class B felony.]
+1 [574.200. 1. A person commits the offense
+2 of interference with medical assistance if he or
+3 she, while serving in his or her capacity as an
+4 employee of an abortion facility:
+5 (1) Knowingly orders or requests medical
+6 personnel to deviate from any applicable
+7 standard of care or ordinary practice while
+8 providing medical assistance to a patient for
+9 reasons unrelated to the patient's health or
+10 welfare; or
+11 (2) Knowingly attempts to prevent medical
+12 personnel from providing medical assistance to a
+13 patient in accordance with all applicable
+14 standards of care or ordinary practice for
+15 reasons unrelated to the patient's health or
+16 welfare.
+17 2. The offense of interference with
+18 medical assistance is a class A misdemeanor.
+19 3. For purposes of this section, the term
+20 "medical personnel" shall include, but not be
+21 limited to, the following:
+22 (1) Physicians and surgeons licensed under
+23 chapter 334;
+24 (2) Nurses licensed under chapter 335;
+25 (3) Emergency medical services personnel
+26 as defined in section 190.600; or
+27 (4) Any person operating under the
+28 supervision of such medical personnel.]
+✓
