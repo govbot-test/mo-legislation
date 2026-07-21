@@ -1,0 +1,1241 @@
+Title: 
+Official Title: 
+Source: versions - 2/23/2026 - SS#2 S offered & adopted (Trent)--(5607S.03F)
+                    
+                        2/23/2026 - Adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+5607S.03F
+SENATE SUBSTITUTE
+FOR
+SENATE BILL NO. 1233
+AN ACT
+To repeal sections 326.256, 326.277, 326.280,
+326.283, 326.286, 326.289, 326.292, 337.600, and
+345.050, RSMo, and to enact in lieu thereof ten new
+sections relating to the licensing of certain
+professions, with penalty provisions.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Sections 326.256, 326.277, 326.280, 326.283,
+2 326.286, 326.289, 326.292, 337.600, and 345.050, RSMo, are
+3 repealed and ten new sections enacted in lieu thereof, to be
+4 known as sections 326.256, 326.277, 326.280, 326.283, 326.286,
+5 326.289, 326.292, 337.600, 345.050, and 1, to read as follows:
+1 326.256. 1. As used in this chapter, the following
+2 terms mean:
+3 (1) "AICPA", the American Institute of Certified
+4 Public Accountants;
+5 (2) "Attest" or "attest services", providing the
+6 following services:
+7 (a) Any audit or other engagement to be performed in
+8 accordance with the Statements on Auditing Standards (SAS);
+9 (b) Any examination of prospective financial
+10 information to be performed in accordance with the
+11 Statements on Standards for Attestation Engagements (SSAE);
+12 (c) Any engagement to be performed in accordance with
+13 the auditing standards and rules of the Public Company
+14 Accounting Oversight Board (PCAOB);
+15 (d) Any review of a financial statement to be
+16 performed in accordance with the Statements on Standards for
+17 Accounting and Review Services (SSARS); or
+1
+
+18 (e) Any examination, review, or agreed upon procedures
+19 engagement to be performed in accordance with the SSAE,
+20 other than an examination described in paragraph (b) of this
+21 subdivision;
+22 (3) "Board", the Missouri state board of accountancy
+23 established under section 326.259 or its predecessor
+24 pursuant to prior law;
+25 (4) "Certificate", a certificate issued under section
+26 326.060 prior to August 28, 2001;
+27 (5) "Certified public accountant" or "CPA", the holder
+28 of a certificate or license as defined in this section;
+29 (6) "Certified public accounting firm", "CPA firm" or
+30 "firm", a sole proprietorship, a corporation, a partnership
+31 or any other form of organization issued a permit or
+32 otherwise authorized to practice under section 326.289;
+33 (7) "Client", a person or entity that agrees with a
+34 licensee or licensee's employer to receive any professional
+35 service;
+36 (8) "Compilation", providing a service to be performed
+37 in accordance with Statements on Standards for Accounting
+38 and Review Services (SSARS) that is presented in the form of
+39 financial statements information that is the representation
+40 of management (owners) without undertaking to express any
+41 assurance on the statements;
+42 (9) "License", a license issued under section 326.280,
+43 or privilege to practice under section 326.283; or, in each
+44 case, an individual license or permit issued pursuant to
+45 corresponding provisions of prior law;
+46 (10) "Licensee", the holder of a license as defined in
+47 this section;
+48 (11) "Manager", a manager of a limited liability
+49 company;
+50 (12) "Member", a member of a limited liability company;
+2
+
+51 (13) "NASBA", the National Association of State Boards
+52 of Accountancy;
+53 (14) "PCAOB", the Public Company Accounting Oversight
+54 Board;
+55 (15) "Peer review", a study, appraisal or review of
+56 one or more aspects of the professional work of a [licensee
+57 or] certified public accounting firm that performs attest or
+58 compilation services, by licensees who are not affiliated
+59 either personally or through their certified public
+60 accounting firm being reviewed pursuant to the Standards for
+61 Performing and Reporting on Peer Reviews promulgated by the
+62 AICPA or such other standard adopted by regulation of the
+63 board which meets or exceeds the AICPA standards;
+64 (16) "Permit", a permit to practice as a certified
+65 public accounting firm issued under section 326.289 or
+66 corresponding provisions of prior law or pursuant to
+67 corresponding provisions of the laws of other states;
+68 (17) "Principal place of business", the office
+69 location designated by the licensee for purposes of
+70 [substantial equivalency] mobility and reciprocity;
+71 (18) "Professional", arising out of or related to the
+72 specialized knowledge or skills associated with certified
+73 public accountants;
+74 (19) "Public accounting":
+75 (a) Performing or offering to perform for an
+76 enterprise, client or potential client one or more services
+77 involving the use of accounting or auditing skills, or one
+78 or more management advisory or consulting services, or the
+79 preparation of tax returns or the furnishing of advice on
+80 tax matters by a person, firm, limited liability company or
+81 professional corporation using the title "C.P.A." or "P.A."
+82 in signs, advertising, directory listing, business cards,
+83 letterheads or other public representations;
+3
+
+84 (b) Signing or affixing a name, with any wording
+85 indicating the person or entity has expert knowledge in
+86 accounting or auditing to any opinion or certificate
+87 attesting to the reliability of any representation or
+88 estimate in regard to any person or organization embracing
+89 financial information or facts respecting compliance with
+90 conditions established by law or contract, including but not
+91 limited to statutes, ordinances, rules, grants, loans and
+92 appropriations; or
+93 (c) Offering to the public or to prospective clients
+94 to perform, or actually performing on behalf of clients,
+95 professional services that involve or require an audit or
+96 examination of financial records leading to the expression
+97 of a written attestation or opinion concerning these records;
+98 (20) "Report", when used with reference to any attest
+99 or compilation service, means an opinion, report or other
+100 form of language that states or implies assurance as to the
+101 reliability of the attested information or compiled
+102 financial statements, and that also includes or is
+103 accompanied by any statement or implication that the person
+104 or firm issuing it has special knowledge or competence in
+105 accounting or auditing. Such a statement or implication of
+106 special knowledge or competence may arise from use by the
+107 issuer of the report of names or titles indicating that the
+108 person or firm is an accountant or auditor, or from the
+109 language of the report itself. The term report includes any
+110 form of language which disclaims an opinion when such form
+111 of language is conventionally understood to imply any
+112 positive assurance as to the reliability of the attested
+113 information or compiled financial statements referred to or
+114 special competence on the part of the person or firm issuing
+115 such language, and includes any other form of language that
+4
+
+116 is conventionally understood to imply such assurance or such
+117 special knowledge or competence;
+118 (21) "State", any state of the United States, the
+119 District of Columbia, Puerto Rico, the U.S. Virgin Islands,
+120 the Commonwealth of the Northern Mariana Islands, and Guam;
+121 except that "this state" means the state of Missouri;
+122 (22) ["Substantial equivalency" or "substantially
+123 equivalent", a determination by the board of accountancy or
+124 its designee that the education, examination and experience
+125 requirements contained in the statutes and administrative
+126 rules of another jurisdiction are comparable to or exceed
+127 the education, examination and experience requirements
+128 contained in this chapter or that an individual certified
+129 public accountant's education, examination and experience
+130 qualifications are comparable to or exceed the education,
+131 examination and experience requirements contained in this
+132 chapter;
+133 (23)] "Transmittal", any transmission of information
+134 in any form, including but not limited to any and all
+135 documents, records, minutes, computer files, disks or
+136 information.
+137 2. The statements on standards specified in this
+138 section shall be adopted by reference by the board pursuant
+139 to rulemaking and shall be those developed for general
+140 application by the AICPA or other recognized national
+141 accountancy organization as prescribed by board rule.
+1 326.277. 1. Prior to June 30, 2021, for an applicant
+2 to be eligible to apply for the examination, the applicant
+3 shall fulfill the education requirements of subdivision (4)
+4 of subsection 1 of section 326.280.
+5 2. On or after June 30, 2021, for an applicant to be
+6 eligible to apply for the examination, the applicant shall:
+5
+
+7 (1) Provide proof that the applicant has [completed at
+8 least one hundred twenty semester hours of college
+9 education] obtained a baccalaureate degree or a post-
+10 baccalaureate degree at an accredited college or university
+11 recognized by the board, with an accounting concentration or
+12 equivalent as determined by the board, in either case by
+13 rule;
+14 (2) Be at least eighteen years of age; and
+15 (3) Be of good moral character.
+1 326.280. 1. A license shall be granted by the board
+2 to any person who meets the requirements of this chapter and
+3 who:
+4 (1) Is a resident of this state or has a place of
+5 business in this state or, as an employee, is regularly
+6 employed in this state;
+7 (2) Has attained the age of eighteen years;
+8 (3) Is of good moral character;
+9 (4) [Either] Meets one of the following educational
+10 requirements:
+11 (a) [Applied for the initial examination prior to June
+12 30, 1999, and] Holds a baccalaureate degree conferred by an
+13 accredited college or university recognized by the board,
+14 with [a] the total educational program including an
+15 accounting concentration [in accounting] or [the
+16 substantial] equivalent [of a concentration in accounting]
+17 as determined by [the] board rule to be appropriate; or
+18 (b) [Applied for the initial examination on or after
+19 June 30, 1999, and has at least one hundred fifty semester
+20 hours of college education, including a baccalaureate or
+21 higher degree] Has a baccalaureate degree plus an additional
+22 thirty semester hours of college education conferred by an
+23 accredited college or university recognized by the board,
+24 with the total educational program including an accounting
+6
+
+25 concentration or equivalent as determined by board rule to
+26 be appropriate; or
+27 (c) Has a post-baccalaureate degree conferred by an
+28 accredited college or university recognized by the board,
+29 with the total education program including an accounting
+30 concentration or equivalent as determined by board rule to
+31 be appropriate.
+32 (5) Has passed an examination in accounting, auditing
+33 and such other related subjects as the board shall determine
+34 is appropriate; and
+35 (6) (a) Either:
+36 a. Has had one year of experience for an applicant who
+37 is applying for licensure on the basis of the educational
+38 requirement in paragraphs (b) or (c) of subdivision (4) of
+39 subsection 1 of this section; or
+40 b. Has had two years of experience for an applicant
+41 who is applying for licensure on the basis of the
+42 educational requirement in paragraph (a) of subdivision (4)
+43 of subsection 1 of this section.
+44 (b) Experience shall be verified by a licensee and
+45 shall include any type of service or advice involving the
+46 use of accounting, attest, compilation, management advisory,
+47 financial advisory, tax or consulting skills including
+48 governmental accounting, budgeting or auditing. The board
+49 shall promulgate rules and regulations concerning the
+50 verifying licensee's review of the applicant's experience.
+51 2. The board may prescribe by rule the terms and
+52 conditions for reexaminations and fees to be paid for
+53 reexaminations.
+54 3. A person who, on August 28, 2001, holds an
+55 individual permit issued pursuant to the laws of this state
+56 shall not be required to obtain additional licenses pursuant
+57 to sections 326.280 to 326.286, and the licenses issued
+7
+
+58 shall be considered licenses issued pursuant to sections
+59 326.280 to 326.286. However, such persons shall be subject
+60 to the provisions of section 326.286 for renewal of licenses.
+61 4. Upon application, the board may issue a temporary
+62 license to an applicant pursuant to this subsection for a
+63 person who has made a prima facie showing that the applicant
+64 meets all of the requirements for a license and possesses
+65 the experience required. The temporary license shall be
+66 effective only until the board has had the opportunity to
+67 investigate the applicant's qualifications for licensure
+68 pursuant to subsection 1 of this section and notify the
+69 applicant that the applicant's application for a license has
+70 been granted or rejected. In no event shall a temporary
+71 license be in effect for more than twelve months after the
+72 date of issuance nor shall a temporary license be reissued
+73 to the same applicant. No fee shall be charged for a
+74 temporary license. The holder of a temporary license which
+75 has not expired, been suspended or revoked shall be deemed
+76 to be the holder of a license issued pursuant to this
+77 section until the temporary license expires, is terminated,
+78 suspended or revoked.
+79 [5. Prior to June 30, 2021, an applicant for an
+80 examination who meets the educational requirements of
+81 subdivision (4) of subsection 1 of this section or who
+82 reasonably expects to meet those requirements within sixty
+83 days after the examination shall be eligible for examination
+84 if the applicant also meets the requirements of subdivisions
+85 (2) and (3) of subsection 1 of this section. For an
+86 applicant admitted to examination on the reasonable
+87 expectation that the applicant will meet the educational
+88 requirements within sixty days, no license shall be issued
+89 nor credit for the examination or any part thereof given
+8
+
+90 unless the educational requirement is in fact met within the
+91 sixty-day period.]
+1 326.283. 1. (1) (a) An individual whose principal
+2 place of business, domicile, or residency is not in this
+3 state and who holds a valid and unrestricted license in good
+4 standing to practice public accounting from any state [which
+5 the board or its designee has determined by rule to be in
+6 substantial equivalence with the licensure requirements of
+7 this chapter, or if the individual's qualifications are
+8 substantially equivalent to the licensure requirements of
+9 this chapter, shall be presumed to have qualifications
+10 substantially equivalent to this state's requirements and]
+11 shall have all the privileges of licensees of this state
+12 without the need to obtain a license or to otherwise notify
+13 or register with the board or pay any fee[. Provided,
+14 however,] provided that at the time of initial licensure,
+15 the individual was required to show evidence of having
+16 passed the Uniform Certified Public Accountant Examination
+17 and having met one of the following requirements:
+18 a. A baccalaureate degree conferred by an accredited
+19 college or university, with the total educational program
+20 including an accounting concentration or equivalent, and not
+21 less than two years of experience, both as defined by board
+22 rule;
+23 b. A baccalaureate degree plus an additional thirty
+24 semester hours of college education conferred by an
+25 accredited college or university, with the total educational
+26 program including an accounting concentration or equivalent,
+27 and not less than one year of experience, both as defined by
+28 board rule; or
+29 c. A post-baccalaureate degree conferred by an
+30 accredited college or university, with the total educational
+31 program including an accounting concentration or equivalent,
+9
+
+32 and not less than one year of experience, both as defined by
+33 board rule.
+34 (b) An individual, whose principal place of business,
+35 domicile, or residency is not in this state and who holds a
+36 valid and unrestricted license in good standing to practice
+37 public accountancy from any state as of December 31, 2024,
+38 and who, as of such date, has practice privileges in this
+39 state under paragraph (a) of this subdivision, shall
+40 continue to have all the privileges of licensees in this
+41 state without the need to obtain a license or otherwise
+42 notify or register with the board or pay any fee.
+43 (c) The board may by rule require individuals with a
+44 valid but restricted license to obtain a license.
+45 (2) An individual who qualifies for the privilege to
+46 practice under this section may offer or render professional
+47 services in this state, whether in person, by mail,
+48 telephone, or electronic means, and no notice or other
+49 submission shall be required of any such individual.
+50 (3) An individual licensee of another state exercising
+51 the privilege afforded under this section and the firm which
+52 employs such licensee hereby simultaneously consent, as a
+53 condition of the grant of this privilege:
+54 (a) To the personal and subject matter jurisdiction
+55 and disciplinary authority of the board;
+56 (b) To comply with this chapter and the board's rules;
+57 (c) That in the event the license from any state is no
+58 longer valid or unrestricted, the individual shall cease
+59 offering or rendering professional services in this state
+60 individually and on behalf of a firm; and
+61 (d) To the appointment of the state board that issued
+62 the individual's license as his or her agent upon whom
+63 process may be served in any action or proceeding by this
+64 board against the individual.
+10
+
+65 (4) An individual who has been granted the privilege
+66 to practice under this section who performs attest or
+67 compilation services shall comply with the provisions of
+68 section 326.289.
+69 (5) Nothing in this chapter shall prohibit temporary
+70 practice in this state for professional business incidental
+71 to a CPA's regular practice outside this state. "Temporary
+72 practice" means that practice related to the direct purpose
+73 of an engagement for a client located outside this state,
+74 which engagement began outside this state and extends into
+75 this state through common ownership, existence of a
+76 subsidiary, assets or other operations located within this
+77 state.
+78 2. A licensee of this state offering or rendering
+79 services or using his or her certified public accountant
+80 title in another state shall be subject to disciplinary
+81 action in this state for an act committed in another state
+82 for which the licensee would be subject to discipline for an
+83 act committed in the other state. Notwithstanding the
+84 provisions of section 326.274 to the contrary, the board may
+85 investigate any complaint made by the board of accountancy
+86 of another state.
+1 326.286. 1. The board may grant or renew licenses to
+2 persons who make application and demonstrate that their
+3 qualifications, including the qualifications prescribed by
+4 section 326.280, are in accordance with this section.
+5 2. Licenses shall be initially issued and renewed for
+6 periods of not more than three years and shall expire on the
+7 renewal date following issuance or renewal. Applications
+8 for licenses shall be made in such form, and in the case of
+9 applications for renewal, between such dates, as the board
+10 by rule shall specify. Application and renewal fees shall
+11 be determined by the board by rule.
+11
+
+12 3. With regard to applicants that do not qualify for
+13 reciprocity pursuant to subsection 1 of this section, the
+14 board may issue a license to an applicant upon a showing
+15 that:
+16 (1) The applicant passed the examination required for
+17 issuance of the applicant's certificate with grades that
+18 would have been passing grades at the time in this state;
+19 (2) The applicant had four years of experience outside
+20 of this state of the type described in subdivision (6) of
+21 subsection 1 of section 326.280 or meets equivalent
+22 requirements prescribed by the board by rule, after passing
+23 the examination upon which the applicant's license was based
+24 and within the ten years immediately preceding the
+25 application; and
+26 (3) If the applicant's certificate, license or permit
+27 was issued more than four years prior to the application for
+28 issuance of a license pursuant to this section, the
+29 applicant has fulfilled the requirements of continuing
+30 professional education that would have been applicable
+31 pursuant to subsection [6] 5 of this section.
+32 4. As an alternative to the requirements of subsection
+33 3 of this section, a certified public accountant licensed by
+34 another state who establishes a principal place of business
+35 in this state shall request the issuance of a license from
+36 the board prior to establishing the principal place of
+37 business. The board may issue a license to the person [who
+38 obtains verification from the NASBA National Qualification
+39 Appraisal Service that the individual's qualifications are
+40 substantially equivalent to the licensure requirements of
+41 sections 326.250 to 326.331] whose qualifications the board
+42 verifies to be comparable to the initial licensure
+43 requirements of section 326.280.
+12
+
+44 5. [An application pursuant to this section may be
+45 made through the NASBA Qualification Appraisal Service.
+46 6.] Each licensee shall participate in a program of
+47 learning designed to maintain professional competency. The
+48 program of learning shall comply with rules adopted by the
+49 board. The board may create by rule an exception to such
+50 requirement for licensees who do not perform or offer to
+51 perform for the public one or more kinds of services
+52 involving the use of accounting or auditing skills,
+53 including issuance of reports on financial statements or of
+54 one or more kinds of management advisory, financial advisory
+55 or consulting services, or the preparation of tax returns or
+56 the furnishing of advice on tax matters. Licensees granted
+57 an exception by the board shall place the word "inactive"
+58 adjacent to their certified public accountant title on any
+59 business card, letterhead or any other document or device,
+60 except their certified public accountant certificate, on
+61 which their certified public accountant title appears.
+62 [7.] 6. Applicants for initial issuance or renewal of
+63 licenses pursuant to this section shall list all states in
+64 which they have applied for or hold certificates, licenses
+65 or permits and list any past denial, revocation or
+66 suspension or any discipline of a certificate, license or
+67 permit. Each holder of or applicant for a license shall
+68 notify the board in writing within thirty days after its
+69 occurrence of any issuance, denial, revocation or suspension
+70 or any discipline of a certificate, license or permit by
+71 another state.
+72 [8.] 7. The board may issue a license to a holder of a
+73 substantially equivalent foreign designation, provided that:
+74 (1) The foreign authority which granted the
+75 designation makes similar provisions to allow a person who
+13
+
+76 holds a valid license issued by this state to obtain such
+77 foreign authority's comparable designation; and
+78 (2) The foreign designation:
+79 (a) Was duly issued by a foreign authority that
+80 regulates the practice of public accounting and the foreign
+81 designation has not expired or been revoked or suspended;
+82 (b) Entitles the holder to issue reports upon
+83 financial statements; and
+84 (c) Was issued upon the basis of educational,
+85 examination and experience requirements established by the
+86 foreign authority or by law; and
+87 (3) The applicant:
+88 (a) Received the designation based on educational and
+89 examination standards substantially equivalent to those in
+90 effect in this state at the time the foreign designation was
+91 granted;
+92 (b) Completed an experience requirement substantially
+93 equivalent to the requirement set out in subdivision (6) of
+94 subsection 1 of section 326.280 in the jurisdiction which
+95 granted the foreign designation or has completed four years
+96 of professional experience in this state, or meets
+97 equivalent requirements prescribed by the board by rule
+98 within the ten years immediately preceding the application;
+99 and
+100 (c) Passed a uniform qualifying examination in
+101 national standards and an examination on the laws,
+102 regulations and code of ethical conduct in effect in this
+103 state acceptable to the board.
+104 [9.] 8. An applicant pursuant to subsection [8] 7 of
+105 this section shall list all jurisdictions, foreign and
+106 domestic, in which the applicant has applied for or holds a
+107 designation to practice public accounting. Each holder of a
+108 license issued pursuant to this subsection shall notify the
+14
+
+109 board in writing within thirty days after its occurrence of
+110 any issuance, denial, revocation, suspension or any
+111 discipline of a designation or commencement of a
+112 disciplinary or enforcement action by any jurisdiction.
+113 [10.] 9. The board has the sole authority to interpret
+114 the application of the provisions of subsections 7 and 8
+115 [and 9] of this section.
+1 326.289. 1. The board may grant or renew permits to
+2 practice as a certified public accounting firm to applicants
+3 that demonstrate their qualifications in accordance with
+4 this chapter.
+5 (1) The following shall hold a permit issued under
+6 this chapter:
+7 (a) Any firm with an office in this state, as defined
+8 by the board by rule, offering or performing attest or
+9 compilation services; or
+10 (b) Any firm with an office in this state that uses
+11 the title "CPA" or "CPA firm".
+12 (2) Any firm that does not have an office in this
+13 state may offer or perform attest or compilation services in
+14 this state without a valid permit only if it meets each of
+15 the following requirements:
+16 (a) It complies with the qualifications described in
+17 subdivision (1) of subsection 4 of this section;
+18 (b) It complies with the requirements of peer review
+19 as set forth in this chapter and the board's promulgated
+20 regulations;
+21 (c) It performs such services through an individual
+22 with practice privileges under section 326.283; and
+23 (d) It can lawfully do so in the state where said
+24 individual with the privilege to practice has his or her
+25 principal place of business.
+15
+
+26 (3) A firm which is not subject to the requirements of
+27 subdivisions (1) or (2) of this subsection may perform other
+28 nonattest or noncompilation services while using the title
+29 "CPA" or "CPA firm" in this state without a permit issued
+30 under this section only if it:
+31 (a) Performs such services through an individual with
+32 the privilege to practice under section 326.283; and
+33 (b) Can lawfully do so in the state where said
+34 individual with privilege to practice has his or her
+35 principal place of business.
+36 (4) (a) All firms practicing public accounting in
+37 this state shall register with the secretary of state.
+38 (b) Firms which may be exempt from this requirement
+39 include:
+40 a. Sole proprietorships;
+41 b. Trusts created pursuant to revocable trust
+42 agreements, of which the trustee is a natural person who
+43 holds a license or privilege to practice as set forth in
+44 section 326.280, 326.283, or 326.286;
+45 c. General partnerships not operating as a limited
+46 liability partnership; or
+47 d. Foreign professional corporations which do not meet
+48 criteria of chapter 356 due to name or ownership, shall
+49 obtain a certificate of authority as a general corporation.
+50 Notwithstanding the provisions of chapter 356, the secretary
+51 of state may issue a certificate of authority to a foreign
+52 professional corporation which does not meet the criteria of
+53 chapter 356 due to name or ownership, if the corporation
+54 meets the requirements of this section and the rules of the
+55 board.
+56 (5) A sole practitioner or single member limited
+57 liability company (LLC) using the title of "certified public
+58 accountant(s)", "CPA", or similar abbreviation in their
+16
+
+59 business name may request exemption from the firm permit
+60 requirements of paragraph (b) of subdivision (1) of this
+61 subsection by submitting a written request to the board that
+62 affirms the business does not offer nor perform attest
+63 services nor other services subject to peer review.
+64 2. Permits shall be initially issued and renewed for
+65 periods of not more than three years or for a specific
+66 period as prescribed by board rule following issuance or
+67 renewal.
+68 3. The board shall determine by rule the form for
+69 application and renewal of permits and shall annually
+70 determine the fees for permits and their renewals.
+71 4. An applicant for initial issuance or renewal of a
+72 permit to practice under this section shall be required to
+73 show that:
+74 (1) A simple majority of the ownership of the firm, in
+75 terms of financial interests and voting rights of all
+76 partners, officers, principals, shareholders, members or
+77 managers, belongs to licensees who are licensed in some
+78 state, and the partners, officers, principals, shareholders,
+79 members or managers, whose principal place of business is in
+80 this state and who perform professional services in this
+81 state are licensees under section 326.280 or the
+82 corresponding provision of prior law. Although firms may
+83 include nonlicensee owners, the firm and its ownership shall
+84 comply with rules promulgated by the board;
+85 (2) Any certified public accounting firm may include
+86 owners who are not licensees provided that:
+87 (a) The firm designates a licensee of this state, or
+88 in the case of a firm which must have a permit under this
+89 section designates a licensee of another state who meets the
+90 requirements of section 326.283, who is responsible for the
+17
+
+91 proper registration of the firm and identifies that
+92 individual to the board;
+93 (b) All nonlicensee owners are active individual
+94 participants in the certified public accounting firm or
+95 affiliated entities;
+96 (c) All owners are of good moral character; and
+97 (d) The firm complies with other requirements as the
+98 board may impose by rule;
+99 (3) Any licensee who is responsible for supervising
+100 attest services, or signs or authorizes someone to sign the
+101 licensee's report on the financial statements on behalf of
+102 the firm, shall meet competency requirements as determined
+103 by the board by rule which shall include one year of
+104 experience in addition to the experience required under
+105 subdivision (6) of subsection 1 of section 326.280 and shall
+106 be verified by a licensee. The additional experience
+107 required by this subsection shall include experience in
+108 attest work supervised by a licensee.
+109 5. An applicant for initial issuance or renewal of a
+110 permit to practice shall register each office of the firm
+111 within this state with the board and show that all attest
+112 and compilation services rendered in this state are under
+113 the charge of a licensee.
+114 6. No licensee or firm holding a permit under this
+115 chapter shall use a professional or firm name or designation
+116 that is misleading as to:
+117 (1) The legal form of the firm;
+118 (2) The persons who are partners, officers, members,
+119 managers or shareholders of the firm; or
+120 (3) Any other matter.
+121 The names of one or more former partners, members or
+122 shareholders may be included in the name of a firm or its
+18
+
+123 successor unless the firm becomes a sole proprietorship
+124 because of the death or withdrawal of all other partners,
+125 officers, members or shareholders. A firm may use a
+126 fictitious name if the fictitious name is registered with
+127 the board and is not otherwise misleading. The name of a
+128 firm shall not include the name or initials of an individual
+129 who is not a present or a past partner, member or
+130 shareholder of the firm or its predecessor. The name of the
+131 firm shall not include the name of an individual who is not
+132 a licensee.
+133 7. Applicants for initial issuance or renewal of
+134 permits shall list in their application all states in which
+135 they have applied for or hold permits as certified public
+136 accounting firms and list any past denial, revocation,
+137 suspension or any discipline of a permit by any other
+138 state. Each holder of or applicant for a permit under this
+139 section shall notify the board in writing within thirty days
+140 after its occurrence of any change in the identities of
+141 partners, principals, officers, shareholders, members or
+142 managers whose principal place of business is in this state;
+143 any change in the number or location of offices within this
+144 state; any change in the identity of the persons in charge
+145 of such offices; and any issuance, denial, revocation,
+146 suspension or any discipline of a permit by any other state.
+147 8. Firms which fall out of compliance with the
+148 provisions of this section due to changes in firm ownership
+149 or personnel after receiving or renewing a permit shall take
+150 corrective action to bring the firm back into compliance as
+151 quickly as possible. The board may grant a reasonable
+152 period of time for a firm to take such corrective action.
+153 Failure to bring the firm back into compliance within a
+154 reasonable period as defined by the board may result in the
+155 suspension or revocation of the firm permit.
+19
+
+156 9. The board shall require by rule, as a condition to
+157 the renewal of permits, that firms undergo, no more
+158 frequently than once every three years, peer reviews
+159 conducted in a manner as the board shall specify. The
+160 review shall include a verification that individuals in the
+161 firm who are responsible for supervising attest and
+162 compilation services or sign or authorize someone to sign
+163 the accountant's report on the financial statements on
+164 behalf of the firm meet the competency requirements set out
+165 in the professional standards for such services, provided
+166 that any such rule:
+167 (1) Shall include reasonable provision for compliance
+168 by a firm showing that it has within the preceding three
+169 years undergone a peer review that is [a satisfactory
+170 equivalent] comparable to peer review generally required
+171 under this subsection;
+172 (2) May require, with respect to peer reviews, that
+173 peer reviews be subject to oversight by an oversight body
+174 established or sanctioned by board rule, which shall
+175 periodically report to the board on the effectiveness of the
+176 review program under its charge and provide to the board a
+177 listing of firms that have participated in a peer review
+178 program that is satisfactory to the board; and
+179 (3) Shall require, with respect to peer reviews, that
+180 the peer review processes be operated and documents
+181 maintained in a manner designed to preserve confidentiality,
+182 and that the board or any third party other than the
+183 oversight body shall not have access to documents furnished
+184 or generated in the course of the peer review of the firm
+185 except as provided in subdivision (2) of this subsection.
+186 10. The board may, by rule, charge a fee for oversight
+187 of peer reviews, provided that the fee charged shall be
+20
+
+188 [substantially equivalent] comparable to the cost of
+189 oversight.
+190 11. Notwithstanding any other provision in this
+191 section, the board may obtain the following information
+192 regarding peer review from any approved American Institute
+193 for Certified Public Accountants peer review program:
+194 (1) The firm's name and address;
+195 (2) The firm's dates of enrollment in the program;
+196 (3) The date of acceptance and the period covered by
+197 the firm's most recently accepted peer review; and
+198 (4) If applicable, whether the firm's enrollment in
+199 the program has been dropped or terminated.
+200 12. In connection with proceedings before the board or
+201 upon receipt of a complaint involving the licensee
+202 performing peer reviews, the board shall not have access to
+203 any documents furnished or generated in the course of the
+204 performance of the peer reviews except for peer review
+205 reports, letters of comment and summary review memoranda.
+206 The documents shall be furnished to the board only in a
+207 redacted manner that does not specifically identify any firm
+208 or licensee being peer reviewed or any of their clients.
+209 13. The peer review processes shall be operated and
+210 the documents generated thereby be maintained in a manner
+211 designed to preserve their confidentiality. No third party,
+212 other than the oversight body, the board, subject to the
+213 provisions of subsection 12 of this section, or the
+214 organization performing peer review shall have access to
+215 documents furnished or generated in the course of the
+216 review. All documents shall be privileged and closed
+217 records for all purposes and all meetings at which the
+218 documents are discussed shall be considered closed meetings
+219 under subdivision (1) of section 610.021. The proceedings,
+220 records and workpapers of the board and any peer review
+21
+
+221 subjected to the board process shall be privileged and shall
+222 not be subject to discovery, subpoena or other means of
+223 legal process or introduction into evidence at any civil
+224 action, arbitration, administrative proceeding or board
+225 proceeding. No member of the board or person who is
+226 involved in the peer review process shall be permitted or
+227 required to testify in any civil action, arbitration,
+228 administrative proceeding or board proceeding as to any
+229 matters produced, presented, disclosed or discussed during
+230 or in connection with the peer review process or as to any
+231 findings, recommendations, evaluations, opinions or other
+232 actions of such committees or any of its members; provided,
+233 however, that information, documents or records that are
+234 publicly available shall not be subject to discovery or use
+235 in any civil action, arbitration, administrative proceeding
+236 or board proceeding merely because they were presented or
+237 considered in connection with the peer review process.
+1 326.292. 1. Only licensees may issue a report on
+2 financial statements of any person, firm, organization or
+3 governmental unit or offer to render or render any attest
+4 service. Such restriction shall not prohibit any act of a
+5 public official or public employee in the performance of the
+6 person's duties as such; nor prohibit the performance by any
+7 nonlicensee of other services involving the use of
+8 accounting skills, including the preparation of tax returns,
+9 management advisory services and the preparation of
+10 nonattest financial statements. Nonlicensees may prepare
+11 financial statements and issue nonattest transmittals or
+12 information thereon which do not purport to be in compliance
+13 with the Statements on Standards for Accounting and Review
+14 Services (SSARS).
+15 2. Only certified public accountants shall use or
+16 assume the title certified public accountant, or the
+22
+
+17 abbreviation CPA or any other title, designation, words,
+18 letters, abbreviation, sign, card or device tending to
+19 indicate that such person is a certified public accountant.
+20 Nothing in this section shall prohibit:
+21 (1) A certified public accountant whose certificate
+22 was in full force and effect, issued pursuant to the laws of
+23 this state prior to August 28, 2001, and who does not engage
+24 in the practice of public accounting, auditing, bookkeeping
+25 or any similar occupation, from using the title certified
+26 public accountant or abbreviation CPA;
+27 (2) A person who holds a certificate, then in force
+28 and effect, issued pursuant to the laws of this state prior
+29 to August 28, 2001, and who is regularly employed by or is a
+30 director or officer of a corporation, partnership,
+31 association or business trust, in his or her capacity as
+32 such, from signing, delivering or issuing any financial,
+33 accounting or related statement, or report thereon relating
+34 to such corporation, partnership, association or business
+35 trust provided the capacity is so designated, and provided
+36 in the signature line the title CPA or certified public
+37 accountant is not designated.
+38 3. No firm shall provide attest or compilation
+39 services or assume or use the title certified public
+40 accountants or the abbreviation CPAs, or any other title,
+41 designation, words, letters, abbreviation, sign, card or
+42 device tending to indicate that such firm is a certified
+43 public accounting firm unless:
+44 (1) The firm holds a valid permit [issued under
+45 section 326.289] or is a firm exempt from the permit
+46 requirement under [subdivisions (2) and (3) of subsection 1
+47 of] section 326.289 and complies with all other applicable
+48 provisions of that section; and
+23
+
+49 (2) Ownership of the firm is in accord with section
+50 326.289 and rules promulgated by the board.
+51 4. Only persons holding a valid license or permit
+52 issued under section 326.280 or 326.289, or persons
+53 qualifying for the privilege to practice under section
+54 326.283, and firms exempt from the permit requirement under
+55 subsection 1 of section 326.289, shall assume or use the
+56 title certified accountant, chartered accountant, enrolled
+57 accountant, licensed accountant, registered accountant,
+58 accredited accountant or any other title or designation
+59 likely to be confused with the titles certified public
+60 accountant or public accountant, or use any of the
+61 abbreviations CA, LA, RA, AA or similar abbreviation likely
+62 to be confused with the abbreviation CPA or PA. The title
+63 enrolled agent or EA shall only be used by individuals so
+64 designated by the Internal Revenue Service. Nothing in this
+65 section shall prohibit the use or issuance of a title for
+66 nonattest services provided that the organization and the
+67 title issued by the organization existed prior to August 28,
+68 2001.
+69 5. (1) Nonlicensees shall not use language in any
+70 statement relating to the financial affairs of a person or
+71 entity that is conventionally used by certified public
+72 accountants in reports on financial statements.
+73 Nonlicensees may use the following safe harbor language:
+74 (a) For compilations:
+75 "I (We) have prepared the accompanying
+76 (financial statements) of (name of entity) as of
+77 (time period) for the (period) then ended. This
+78 presentation is limited to preparing in the form
+79 of a financial statement information that is the
+80 representation of management (owners). I (We)
+81 have not audited or reviewed the accompanying
+24
+
+82 financial statements and accordingly do not
+83 express an opinion or any other form of
+84 assurance on them."
+85 (b) For reviews:
+86 "I (We) reviewed the accompanying
+87 (financial statements) of (name of entity) as of
+88 (time period) for the (period) then ended.
+89 These financial statements (information) are
+90 (is) the responsibility of the company's
+91 management. I (We) have not audited the
+92 accompanying financial statements and
+93 accordingly do not express an opinion or any
+94 other form of assurance on them.".
+95 (2) Only persons or firms holding a valid license or
+96 permit issued under section 326.280 or 326.289 shall assume
+97 or use any title or designation that includes the words
+98 accountant or accounting in connection with any other
+99 language, including the language of a report, that implies
+100 that the person or firm holds a license or permit or has
+101 special competence as an accountant or auditor; provided,
+102 however, that this subsection shall not prohibit any
+103 officer, partner, principal, member, manager or employee of
+104 any firm or organization from affixing such person's own
+105 signature to any statement in reference to the financial
+106 affairs of the firm or organization with any wording
+107 designating the position, title or office that the person
+108 holds therein nor prohibit any act of a public official or
+109 employee in the performance of the person's duties as such.
+110 Nothing in this subsection shall prohibit the singular use
+111 of "accountant" or "accounting" for nonattest purposes.
+112 6. Licensees signing or authorizing someone to sign
+113 reports on financial statements when performing attest or
+114 compilation services shall provide those services in
+25
+
+115 accordance with professional standards as determined by the
+116 board by rule.
+117 7. No licensee or firm holding a permit under sections
+118 326.280 to 326.289 shall use a professional or firm name or
+119 designation that is misleading about the legal form of the
+120 firm, or about the persons who are partners, principals,
+121 officers, members, managers or shareholders of the firm, or
+122 about any other matter.
+123 8. None of the foregoing provisions of this section
+124 shall apply to a person or firm holding a certification,
+125 designation, degree or license granted in a foreign country
+126 entitling the holder to engage in the practice of public
+127 accounting or its equivalent in the country whose activities
+128 in this state are limited to the provision of professional
+129 services to persons or firms who are residents of,
+130 governments of, or business entities of the country in which
+131 the person holds the entitlement, who performs no attest or
+132 compilation services and who issues no reports with respect
+133 to the financial statements of any other persons, firms or
+134 governmental units in this state, and who does not use in
+135 this state any title or designation other than the one under
+136 which the person practices in such country, followed by a
+137 translation of such title or designation into the English
+138 language, if it is in a different language, and by the name
+139 of such country.
+140 9. No licensee shall perform attest or compilation
+141 services through any certified public accounting firm that
+142 does not hold a valid permit issued under section 326.289.
+143 10. Nothing herein shall prohibit a practicing
+144 attorney or firm of attorneys from preparing or presenting
+145 records or documents customarily prepared by an attorney or
+146 firm of attorneys in connection with the attorney's
+147 professional work in the practice of law.
+26
+
+148 11. Nothing herein shall prohibit any trustee,
+149 executor, administrator, referee or commissioner from
+150 signing and certifying financial reports incident to his or
+151 her duties in that capacity.
+152 12. Nothing herein shall prohibit any director or
+153 officer of a corporation, partner or a partnership, sole
+154 proprietor of a business enterprise, member of a joint
+155 venture, member of a committee appointed by stockholders,
+156 creditors or courts, or an employee of any of the foregoing,
+157 in his or her capacity as such, from signing, delivering or
+158 issuing any financial, accounting or related statement, or
+159 report thereon, relating to the corporation, partnership,
+160 business enterprise, joint venture or committee, provided
+161 the capacity is designated on the statement or report.
+162 13. (1) A licensee shall not for a commission
+163 recommend or refer to a client any product or service, or
+164 for a commission recommend or refer any product or service
+165 to be supplied by a client, or receive a commission, when
+166 the licensee also performs for that client:
+167 (a) Attest services; or
+168 (b) A compilation of a financial statement when the
+169 licensee expects, or reasonably may expect, that a third
+170 party will use the financial statement and the licensee's
+171 compilation report does not disclose a lack of independence;
+172 or
+173 (c) An examination of prospective financial
+174 information.
+175 Such prohibition applies during the period in which the
+176 licensee is engaged to perform any of the services listed
+177 above and the period covered by any historical financial
+178 statements involved in such listed services.
+27
+
+179 (2) A licensee who is not prohibited by this section
+180 from performing services for or receiving a commission and
+181 who is paid or expects to be paid a commission shall
+182 disclose in writing that fact to any person or entity to
+183 whom the licensee recommends or refers a product or service
+184 to which the commission relates.
+185 (3) Any licensee who accepts a referral fee for
+186 recommending or referring any service of a licensee to any
+187 person or entity or who pays a referral fee to obtain a
+188 client shall disclose in writing the acceptance or payment
+189 to the client.
+190 14. (1) A licensee shall not:
+191 (a) Perform for a contingent fee any professional
+192 services for, or receive a fee from, a client for whom the
+193 licensee or the licensees's firm performs:
+194 a. Attest services;
+195 b. A compilation of a financial statement when the
+196 licensee expects, or reasonably might expect, that a third
+197 party will use the financial statement and the licensee's
+198 compilation report does not disclose a lack of independence;
+199 or
+200 c. An examination of prospective financial information;
+201 (b) Prepare an original tax return or claim for a tax
+202 refund for a contingent fee for any client; or
+203 (c) Prepare an amended tax return or claim for a tax
+204 refund for a contingent fee for any client, unless permitted
+205 by board rule.
+206 (2) The prohibition in subdivision (1) of this
+207 subsection applies during the period in which the licensee
+208 is engaged to perform any of those services and the period
+209 covered by any historical financial statements involved in
+210 any services.
+28
+
+211 (3) A contingent fee is a fee established for the
+212 performance of any service pursuant to an arrangement in
+213 which no fee will be charged unless a specified finding or
+214 result is attained, or in which the amount of the fee is
+215 otherwise dependent upon the finding or result of the
+216 service. Solely for purposes of this section, fees are not
+217 regarded as being contingent if fixed by courts or other
+218 public authorities, or, in tax matters, if determined based
+219 on the results of judicial proceedings or the findings of
+220 governmental agencies. A licensee's fees may vary
+221 depending, for example, on the complexity of services
+222 rendered.
+223 15. Any person who violates any provision of
+224 subsections 1 to 5 of this section shall be guilty of a
+225 class A misdemeanor. Whenever the board has reason to
+226 believe that any person has violated this section it may
+227 certify the facts to the attorney general of this state or
+228 bring other appropriate proceedings.
+1 337.600. As used in sections 337.600 to 337.689, the
+2 following terms mean:
+3 (1) "Advanced macro social worker", the applications
+4 of social work theory, knowledge, methods, principles,
+5 values, and ethics; and the professional use of self to
+6 community and organizational systems, systemic and macrocosm
+7 issues, and other indirect nonclinical services; specialized
+8 knowledge and advanced practice skills in case management,
+9 information and referral, nonclinical assessments,
+10 counseling, outcome evaluation, mediation, nonclinical
+11 supervision, nonclinical consultation, expert testimony,
+12 education, outcome evaluation, research, advocacy, social
+13 planning and policy development, community organization, and
+14 the development, implementation and administration of
+15 policies, programs, and activities. A licensed advanced
+29
+
+16 macro social worker may not treat mental or emotional
+17 disorders or provide psychotherapy without the direct
+18 supervision of a licensed clinical social worker, or
+19 diagnose a mental disorder;
+20 (2) "Clinical social work", the application of social
+21 work theory, knowledge, values, methods, principles, and
+22 techniques of case work, group work, client-centered
+23 advocacy, community organization, administration, planning,
+24 evaluation, consultation, research, psychotherapy and
+25 counseling methods and techniques to persons, families and
+26 groups in assessment, diagnosis, treatment, prevention and
+27 amelioration of mental and emotional conditions;
+28 (3) "Committee", the state committee for social
+29 workers established in section 337.622;
+30 (4) "Department", the Missouri department of commerce
+31 and insurance;
+32 (5) "Director", the director of the division of
+33 professional registration;
+34 (6) "Division", the division of professional
+35 registration;
+36 (7) "Independent practice", any practice of social
+37 workers outside of an organized setting such as a social,
+38 medical, or governmental agency in which a social worker
+39 assumes responsibility and accountability for services
+40 required;
+41 (8) "Licensed advanced macro social worker", any
+42 person who offers to render services to individuals, groups,
+43 families, couples, organizations, institutions, communities,
+44 government agencies, corporations, or the general public for
+45 a fee, monetary or otherwise, implying that the person is
+46 trained, experienced, and licensed as an advanced macro
+47 social worker, and who holds a current valid license to
+48 practice as an advanced macro social worker;
+30
+
+49 (9) "Licensed baccalaureate social worker", any person
+50 who offers to render services to individuals, groups,
+51 organizations, institutions, corporations, government
+52 agencies, or the general public for a fee, monetary or
+53 otherwise, implying that the person is trained, experienced,
+54 and licensed as a baccalaureate social worker, and who holds
+55 a current valid license to practice as a baccalaureate
+56 social worker;
+57 (10) "Licensed clinical social worker", any person who
+58 offers to render services to individuals, groups,
+59 organizations, institutions, corporations, government
+60 agencies, or the general public for a fee, monetary or
+61 otherwise, implying that the person is trained, experienced,
+62 and licensed as a clinical social worker, and who holds a
+63 current, valid license to practice as a clinical social
+64 worker;
+65 (11) "Licensed master social worker", any person who
+66 offers to render services to individuals, groups, families,
+67 couples, organizations, institutions, communities,
+68 government agencies, corporations, or the general public for
+69 a fee, monetary or otherwise, implying that the person is
+70 trained, experienced, and licensed as a master social
+71 worker, and who holds a current valid license to practice as
+72 a master social worker. A licensed master social worker may
+73 not treat mental or emotional disorders, provide
+74 psychotherapy without the direct supervision of a licensed
+75 clinical social worker, or diagnose a mental disorder;
+76 (12) "Master social work", the application of social
+77 work theory, knowledge, methods, and ethics and the
+78 professional use of self to restore or enhance social,
+79 psychosocial, or biopsychosocial functioning of individuals,
+80 couples, families, groups, organizations, communities,
+81 institutions, government agencies, or corporations. The
+31
+
+82 practice includes the applications of specialized knowledge
+83 and advanced practice skills in the areas of assessment,
+84 treatment planning, implementation and evaluation, case
+85 management, mediation, information and referral, counseling,
+86 client education, supervision, consultation, education,
+87 research, advocacy, community organization and development,
+88 planning, evaluation, implementation and administration of
+89 policies, programs, and activities. Under supervision as
+90 provided in this section, the practice of master social work
+91 may include the practices reserved to clinical social
+92 workers or advanced macro social workers for no more than
+93 forty-eight consecutive calendar months for the purpose of
+94 obtaining licensure under section 337.615 or 337.645;
+95 (13) "Practice of advanced macro social work",
+96 rendering, offering to render, or supervising those who
+97 render to individuals, couples, families, groups,
+98 organizations, institutions, corporations, government
+99 agencies, communities, or the general public any service
+100 involving the application of methods, principles, and
+101 techniques of advanced practice macro social work;
+102 (14) "Practice of baccalaureate social work",
+103 rendering, offering to render, or supervising those who
+104 render to individuals, families, groups, organizations,
+105 institutions, corporations, or the general public any
+106 service involving the application of methods, principles,
+107 and techniques of baccalaureate social work;
+108 (15) "Practice of clinical social work", rendering,
+109 offering to render, or supervising those who render to
+110 individuals, couples, groups, organizations, institutions,
+111 corporations, or the general public any service involving
+112 the application of methods, principles, and techniques of
+113 clinical social work;
+32
+
+114 (16) "Practice of master social work", rendering,
+115 offering to render, or supervising those who render to
+116 individuals, couples, families, groups, organizations,
+117 institutions, corporations, government agencies,
+118 communities, or the general public any service involving the
+119 application of methods, principles, and techniques of master
+120 social work;
+121 (17) "Qualified advanced macro supervisor", any
+122 licensed social worker who meets the qualifications of a
+123 qualified clinical supervisor or a licensed advanced macro
+124 social worker who has:
+125 (a) Practiced in the field of social work as a
+126 licensed social worker for which he or she is supervising
+127 the applicant for a minimum of [five] three years;
+128 (b) Successfully completed a minimum of sixteen hours
+129 of supervisory training from the Association of Social Work
+130 Boards, the National Association of Social Workers, an
+131 accredited university, or a program approved by the state
+132 committee for social workers. All organizations providing
+133 the supervisory training shall adhere to the basic content
+134 and quality standards outlined by the state committee on
+135 social work; and
+136 (c) Met all the requirements of sections 337.600 to
+137 337.689, and as defined by rule by the state committee for
+138 social workers;
+139 (18) "Qualified baccalaureate supervisor", any
+140 licensed social worker who meets the qualifications of a
+141 qualified clinical supervisor, qualified master supervisor,
+142 qualified advanced macro supervisor, or a licensed
+143 baccalaureate social worker who has:
+144 (a) Practiced in the field of social work as a
+145 licensed social worker for which he or she is supervising
+146 the applicant for a minimum of [five] three years;
+33
+
+147 (b) Successfully completed a minimum of sixteen hours
+148 of supervisory training from the Association of Social Work
+149 Boards, the National Association of Social Workers, an
+150 accredited university, or a program approved by the state
+151 committee for social workers. All organizations providing
+152 the supervisory training shall adhere to the basic content
+153 and quality standards outlined by the state committee on
+154 social workers; and
+155 (c) Met all the requirements of sections 337.600 to
+156 337.689, and as defined by rule by the state committee for
+157 social workers;
+158 (19) "Qualified clinical supervisor", any licensed
+159 clinical social worker who has:
+160 (a) Practiced in the field of social work as a
+161 licensed social worker for which he or she is supervising
+162 the applicant for a minimum of [five] three years;
+163 (b) Successfully completed a minimum of sixteen hours
+164 of supervisory training from the Association of Social Work
+165 Boards, the National Association of Social Workers, an
+166 accredited university, or a program approved by the state
+167 committee for social workers. All organizations providing
+168 the supervisory training shall adhere to the basic content
+169 and quality standards outlined by the state committee on
+170 social work; and
+171 (c) Met all the requirements of sections 337.600 to
+172 337.689, and as defined by rule by the state committee for
+173 social workers;
+174 (20) "Social worker", any individual that has:
+175 (a) Received a baccalaureate degree in social work
+176 from an accredited social work program approved by the
+177 Council on Social Work Education;
+178 (b) Received a master's degree in social work from a
+179 social work program:
+34
+
+180 a. Accredited by the Council on Social Work Education;
+181 or
+182 b. Recognized and approved by the committee in
+183 accordance with rules adopted by the committee under section
+184 337.627 and in accordance with the procedure set forth in
+185 section 337.628;
+186 (c) Received a doctorate or Ph.D. in social work; or
+187 (d) A current social worker license as set forth in
+188 sections 337.600 to 337.689.
+1 345.050. To be eligible for licensure by the board by
+2 examination, each applicant shall submit the application fee
+3 and shall furnish evidence of such person's current
+4 competence and shall:
+5 (1) Hold a master's or a doctoral degree from a
+6 program that was awarded "accreditation candidate" status or
+7 is accredited by the Council on Academic Accreditation of
+8 the American Speech-Language-Hearing Association or other
+9 accrediting agency approved by the board in the area in
+10 which licensure is sought;
+11 (2) Submit official transcripts from one or more
+12 accredited colleges or universities presenting evidence of
+13 the completion of course work and clinical practicum
+14 requirements equivalent to that required by the Council on
+15 Academic Accreditation of the American Speech-Language-
+16 Hearing Association or other accrediting agency approved by
+17 the board;
+18 (3) Present written evidence of completion of a
+19 clinical fellowship from supervisors. The experience
+20 required by this subdivision shall follow the completion of
+21 the requirements of subdivisions (1) and (2) of this
+22 section. This period of employment shall be under the
+23 direct supervision of a [person who is licensed by the state
+24 of Missouri in the profession in which the applicant seeks
+35
+
+25 to be] licensed speech-language pathologist in good
+26 standing. Persons applying with an audiology clinical
+27 doctoral degree are exempt from this provision; and
+28 (4) Pass an examination promulgated or approved by the
+29 board. The board shall determine the subject and scope of
+30 the examinations.
+1 Section 1. In the event that any section, provision,
+2 clause, phrase, or word of this act or the application
+3 thereof is declared invalid under the Constitution of the
+4 United States or the Constitution of the State of Missouri,
+5 it is the intent of the general assembly that the remaining
+6 sections of this act remain in force and effect as far as
+7 they are capable of being carried into execution as intended
+8 by the general assembly. The general assembly hereby
+9 declares that it would have passed each section, provision,
+10 clause, phrase, or word thereof, irrespective of the fact
+11 that any one or more sections, provisions, clauses, phrases,
+12 or words of this act or the application of this act would be
+13 declared unenforceable, unconstitutional, or invalid.
+36

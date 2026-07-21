@@ -1,0 +1,479 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+SECOND REGULAR SESSION
+HOUSE BILL NO. 2207
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE MAYHEW.
+5166H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapter 393, RSMo, by adding thereto fifteen new sections relating to the electric
+choice and competition act, with penalty provisions.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Chapter 393, RSMo, is amended by adding thereto fifteen new sections, to
+2 be known as sections 393.2000, 393.2010, 393.2020, 393.2030, 393.2040, 393.2050,
+3 393.2055, 393.2060, 393.2070, 393.2080, 393.2090, 393.2100, 393.2110, 393.2120, and
+4 393.2130, to read as follows:
+393.2000. Sections 393.2000 to 393.2130 shall be known and may be cited as
+2 "The Electric Choice and Competition Law".
+393.2010. Consistent with the timelines established in section 393.2040, the
+2 provisions of sections 393.2000 to 393.2130 shall govern the sale of electric energy in the
+3 state of Missouri, and any provision of law that conflicts with the provisions of sections
+4 393.2000 to 393.2130 shall be invalid and void.
+393.2020. For purposes of sections 393.2000 to 393.2130, the commission is
+2 authorized to promulgate rules as necessary to implement these provisions, consistent
+3 with section 386.125. The commission may promulgate all necessary rules and
+4 regulations for the administration of sections 393.2000 to 393.2130. Any rule or portion
+5 of a rule, as that term is defined in section 536.010, that is created under the authority
+6 delegated in this section shall become effective only if it complies with and is subject to
+7 all of the provisions of chapter 536 and, if applicable, section 536.028. This section and
+8 chapter 536 are nonseverable and if any of the powers vested with the general assembly
+9 pursuant to chapter 536 to review, to delay the effective date, or to disapprove and annul
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 2207 2
+10 a rule are subsequently held unconstitutional, then the grant of rulemaking authority
+11 and any rule proposed or adopted after August 28, 2026, shall be invalid and void.
+393.2030. As used in sections 393.2000 to 393.2130, the following terms shall
+2 mean:
+3 (1) "Aggregation program", a grouping of retail customers, usually residential
+4 customers, into a buying group to purchase energy generation services in bulk from a
+5 retail electric supplier;
+6 (2) "Anticompetitive conduct" or "discriminatory conduct", actions of an
+7 electric utility that inhibit the ability of retail electric suppliers to provide electric supply
+8 to retail customers or that create an impression that any electric supply by the electric
+9 utility is superior to offerings in the competitive market or provides an advantage to any
+10 related retail electric supplier over nonaffiliated retail electric suppliers;
+11 (3) "Commission", the public service commission of the state of Missouri;
+12 (4) "Competitive procurement process", an auction or other competitive process
+13 in which wholesale electric suppliers submit bids to provide electric supply to the
+14 electric utility for purposes of serving default supply service;
+15 (5) "Competitive transition charge", a nonbypassable charge mechanism for the
+16 recovery of transition or stranded costs by the electric utility over a limited time;
+17 (6) "Default supply service", an electric supply service provided by the electric
+18 utility, or a nonutility entity selected by the commission, upon transition to a competitive
+19 market for customers who do not choose a retail electric supplier;
+20 (7) "Delivery service rates", the charges for the delivery or transmission of
+21 electric power and energy;
+22 (8) "Dual bill", an invoicing framework in which the retail customer receives a
+23 bill from the retail electric supplier that includes charges for electric supply services and
+24 another from the electric utility for transmission and distribution services;
+25 (9) "Electric supply" or "electric supply services", the sale or purchase of
+26 electricity by a retail customer from a retail supplier or from a default supply service
+27 provider;
+28 (10) "Electric utility" or "investor-owned utilities", an electric corporation as
+29 defined in subdivision 15 of section 386.020. "Electric utility" or "investor-owned
+30 utilities" shall not include municipally owned electric utilities operating under chapter
+31 91 or rural electric cooperatives operating under chapter 394, but such municipally
+32 owned or rural electric cooperatives may choose to opt into a competitive retail market
+33 and be bound by the applicable provisions of the electric choice and competition law;
+
+HB 2207 3
+34 (11) "Energy assistance customers", a residential customer who is qualified as
+35 eligible for energy-related billing assistance due to their income level and enrolled in an
+36 energy assistance program;
+37 (12) "Hourly prices", the charges for default supply service that vary hour to
+38 hour and are determined from wholesale market prices using a methodology approved
+39 by the commission;
+40 (13) "Independent system operator", an independent and federally regulated
+41 entity that coordinates regional transmission to ensure nondiscriminatory access to the
+42 electric grid and a reliable electricity system;
+43 (14) "Large commercial and industrial customer", a customer receiving
+44 transmission and distribution service from the electric utility under a nonresidential
+45 tariff and whose maximum registered peak load was greater than 1000 kW within the
+46 last twelve months;
+47 (15) "Market power", the reference to a company's relative ability to
+48 manipulate the market-clearing price of an item by manipulating the level of supply,
+49 demand, or both;
+50 (16) "Medium commercial or industrial customer", a customer receiving
+51 transmission and distribution service from the electric utility under a nonresidential
+52 tariff and whose maximum registered peak load was greater than 150 kW, but less than
+53 1000 kW, within the last twelve months;
+54 (17) "Nonbypassable", a charge that all customers shall pay irrespective of their
+55 energy supplier;
+56 (18) "Opt-out", an aggregation program that automatically enrolls participants
+57 in the grouping unless they individually opt out of the program and choose not to be
+58 included;
+59 (19) "Rate unbundling", the process of separating the cost components of
+60 delivery services and electric supply services in the electric utility tariffs;
+61 (20) "Residential customer", a customer receiving transmission and distribution
+62 service from the electric utility under a residential tariff;
+63 (21) "Retail customer", a customer purchasing electric supply from the electric
+64 utility supplier or from a retail electric supplier;
+65 (22) "Retail electric supplier", a person or entity licensed by the commission to
+66 furnish electric supply to retail customers;
+67 (23) "Small commercial or industrial customer", a customer receiving
+68 transmission and distribution service from the electric utility under a nonresidential
+69 tariff and whose maximum registered peak load was less than 150 kW within the last
+70 twelve months;
+
+HB 2207 4
+71 (24) "Supplier consolidated bill", an invoicing framework in which a single bill
+72 is provided to the retail customer by the retail electric supplier that includes charges for
+73 electric supply services and transmission and distribution services;
+74 (25) "Transition costs" or "stranded costs", the costs that would have been
+75 recoverable by electric utilities in a monopoly environment but are not recoverable in a
+76 competitive generation market. Costs include electric generation related assets and
+77 other deferred charges, the unfunded portion of nuclear decommissioning costs,
+78 environmental expenses previously incurred, cost obligations under long-term contracts,
+79 and consumer education and other costs associated with implementing electric choice, in
+80 addition to any costs approved by the commission. These costs are to be collected over a
+81 limited time period via the competitive transition charge;
+82 (26) "Transmission and distribution service", the delivery of electricity provided
+83 by the electric utility over its transmission and distribution systems;
+84 (27) "Utility consolidated bill", an invoicing framework in which a single bill is
+85 provided to the retail customer by the electric utility that includes charges for electric
+86 supply services and transmission and distribution services.
+393.2040. 1. The commission shall develop procedures for a fair and orderly
+2 transition from the current monopoly structure to a competitive market for the
+3 generation and sale or purchase of electricity.
+4 2. Electric utilities shall provide equal and open access over their transmission
+5 and distribution systems to allow retail electric suppliers to sell electricity directly to
+6 retail customers in this state.
+7 3. Twenty-four months after August 28, 2026, the commission shall permit
+8 commercial and industrial customers of electric utilities to choose a retail electric
+9 supplier.
+10 4. On a time frame selected by the commission, but no later than eighteen
+11 months following the date at which commercial and industrial customers are permitted
+12 to choose a retail electric supplier, the commission shall then permit residential
+13 customers of electric utilities to choose a retail electric supplier. Nothing in this section
+14 shall adversely affect the ability of energy assistance residential customers to retain
+15 access to all financial assistance benefits currently available to qualifying low-income
+16 customers, regardless of the retail customer’s choice of supplier of electric supply
+17 services.
+393.2050. 1. Consistent with the timelines established in section 393.2040, all
+2 retail customers of electric utilities shall have the ability to choose a retail supplier for
+3 electric supply services.
+
+HB 2207 5
+4 2. Each electric utility shall submit to the commission a restructuring plan to
+5 implement the ability for retail customers to choose a retail electric supplier for electric
+6 supply services. The plans shall be submitted, pursuant to a schedule established by the
+7 commission, on or before the date that is twelve months prior to the implementation
+8 date for the commercial and industrial customers to choose a retail electric supplier.
+9 3. A restructuring plan shall include, in addition to other components
+10 determined by the commission, the following:
+11 (1) Identification and quantification of transition or stranded costs, along with
+12 an explanation of mitigation efforts taken by the electric utilities to minimize these costs;
+13 (2) Proposed nonbypassable transition charges for each customer class for the
+14 recovery of transition or stranded costs;
+15 (3) Proposed unbundled rates for each customer class for generation,
+16 transmission, and distribution services;
+17 (4) A description of the unbundling process, including an explanation of the
+18 steps taken by the electric utility to ensure that the proposed unbundled rates do not
+19 result in the creation of cross subsidies that adversely affect residential customers;
+20 (5) Procedures for ensuring the ability to choose a licensed retail electric supplier
+21 for electric supply services;
+22 (6) Procedures describing the ability of retail suppliers to obtain historic usage
+23 data, and other relevant information for pricing and invoicing and communication
+24 functions with retail customers;
+25 (7) Provisions describing the procedures for the administration of and
+26 coordination between electric utilities and retail electric suppliers to provide access to
+27 retail customer data necessary for pricing, contracting, dual billing, utility consolidated
+28 billing, and supplier consolidated billing functions;
+29 (8) Procedures governing the default supply service supply rates; and
+30 (9) Tariffs and rate schedules implementing each of the above.
+31 4. The commission shall review each restructuring plan and, after evidentiary
+32 hearings providing notice and opportunity to be heard for all parties, issue an order
+33 accepting, modifying, or rejecting the plan no later than six months from the filing of the
+34 plan. If the commission rejects the plan, it shall state the specific reasons and direct the
+35 electric utility to file an alternative plan within thirty days. The commission shall
+36 review the alternative plan and solicit comments from interested parties in a timely
+37 manner to enable the ability for commercial and industrial customers to choose a retail
+38 electric supplier in the time frame provided in section 393.2040.
+393.2055. 1. Electric utilities shall unbundle the rates charged for generation,
+2 transmission, and distribution services for all customer classes consistent with the time
+
+HB 2207 6
+3 frame for choosing a retail electric supplier as provided in sections 393.2040 and
+4 393.2050.
+5 2. Following the implementation of the unbundled rates under sections 393.2040
+6 and 393.2050, the commission shall no longer regulate generation of electricity as a
+7 public utility function except as otherwise provided for in the provision of default supply
+8 services in section 393.2090. The commission shall continue to regulate transmission
+9 and distribution of electricity as natural monopoly functions.
+393.2060. 1. Each electric utility shall be permitted to recover transition or
+2 stranded costs, that traditionally would have been recoverable in a monopoly
+3 environment but are not recoverable in a competitive electric generation market and
+4 that the commission determines will remain following mitigation by the electric utility,
+5 in accordance with the time frame established by section 393.2040 and the divestiture
+6 process outcomes in section 393.2070.
+7 2. The commission shall approve the recovery levels and time periods over which
+8 the stranded cost charges are to be collected via the competitive transition charge. The
+9 commission shall take into consideration the electric utility’s previously expected rate of
+10 return on the generation assets, the proceeds obtained in the divestiture process, and the
+11 effect on the retail customer’s cost levels. The commission may also consider other
+12 criteria deemed appropriate by the commission in assessing the stranded cost recovery
+13 levels and the period of collection.
+393.2070. 1. At any time prior to and consistent with the time frame for
+2 choosing a retail electric supplier as provided in section 393.2040, electric utilities shall
+3 divest their generation assets. These generation assets may be divested at the discretion
+4 of the electric utility and with the approval of the commission:
+5 (1) By selling generation assets to an unaffiliated entity, or entities, at a fair
+6 market value;
+7 (2) By transferring generation assets to a nonutility affiliate at a fair market
+8 value; and
+9 (3) By a combination of the methods of subdivisions (1) and (2) of this
+10 subsection.
+11 2. During and after the divestiture process, the commission shall determine
+12 whether it is necessary to establish, in addition to existing independent system operator
+13 market power protections that may be applicable, an independent market monitor to
+14 ensure that no entity owns generation assets in an amount that gives that entity market
+15 power.
+
+HB 2207 7
+393.2080. 1. Consistent with the time frame for choosing a retail electric
+2 supplier as provided in sections 393.2040 and 393.2050, electric utilities shall provide
+3 default supply service to retail customers that do not choose a retail electric supplier.
+4 2. Default supply service for large commercial and industrial customers shall
+5 consist of hourly prices for electric energy, along with any additional costs incurred in
+6 the provision of such services by the independent system operator.
+7 3. Default supply service for medium commercial and industrial customers shall
+8 commence with a rate set every six months through a competitive procurement process
+9 along with any additional costs incurred in the provision of such services by the
+10 independent system operator. If at any time less than seventy percent of the annual
+11 megawatt hour consumption of this rate class is served by the competitively procured
+12 process, the commission shall initiate a proceeding within three months of the less than
+13 seventy percent threshold being reached to establish a process to phase out the
+14 competitively procured process and replace it with the hourly priced default supply
+15 service.
+16 4. Default supply service for small commercial and industrial customers shall
+17 commence with a rate set annually through a competitive procurement process along
+18 with any additional costs incurred in the provision of such services by the independent
+19 system operator. If at any time less than sixty percent of the annual megawatt hour
+20 consumption of this rate class is served by the competitively procured process, the
+21 commission shall initiate a proceeding within three months of the less than sixty percent
+22 threshold being reached to establish a process to phase out the competitively procured
+23 process and replace it with the hourly priced default supply service.
+24 5. Default supply service for residential customers shall commence with a rate
+25 set annually through a competitive procurement process along with any additional costs
+26 incurred in the provision of such services by the independent system operator. If at any
+27 time less than fifty percent of the annual megawatt hour consumption of this rate class is
+28 served by the competitively procured process, the commission shall initiate a proceeding
+29 within three months of the less than fifty percent threshold being reached to establish a
+30 process to phase out the competitively procured process and replace it with the hourly
+31 priced default supply service or another default supply service approved by the
+32 commission.
+33 6. Each of the competitive procurement processes in this section shall consist of a
+34 wholesale power auction or similar competitive process to establish a clearing price or
+35 rate, including energy, capacity, transmission, ancillary services, and other services
+36 identified by the commission, for the retail customers in each rate class that do not
+37 choose a retail electric supplier. These auctions shall occur on a commission-approved
+
+HB 2207 8
+38 schedule consistent with the default supply services described above and as frequently
+39 as necessary.
+40 7. For each default supply service rate class category, the retail rate shall also
+41 include all administrative and operational costs, including direct and indirect costs, that
+42 are incurred to provide default supply service to retail customers.
+43 (1) Direct costs to provide default supply service shall be fully assigned to the
+44 rate for each rate class. Indirect or shared costs incurred to provide default supply
+45 service shall also be allocated to the rate for each rate class. The appropriate allocation
+46 of indirect or shared costs shall be determined in accordance with standard utility
+47 ratemaking practices and through a fully allocated cost study performed by the electric
+48 utility and presented to the commission, subject to stakeholder input. This cost study
+49 shall include each and every cost category that can reasonably be deemed to provide or
+50 support the provision of default supply service.
+51 (2) The level of indirect costs to be recovered in the default supply service rate in
+52 this section shall be reevaluated at a time deemed appropriate by the commission but in
+53 no case greater than every six months. A commission-approved tariff shall be
+54 established to administer this quarterly cost and credit mechanism.
+55 8. For each rate class, once an hourly priced default supply service provided by
+56 the electric utility has been in operation for six months, the commission shall initiate a
+57 proceeding to establish a process to phase out the electric utility provided hourly priced
+58 default supply service with an alternative electric supply service provided by one or
+59 more retail electric suppliers for the purpose of supplying retail customers in the rate
+60 class who do not choose a retail electric supplier.
+393.2090. 1. The commission may establish a separate process for the supply of
+2 electric supply service for energy assistance customers in each electric utility service
+3 territory. This process shall include the grouping of this subset of residential customers
+4 into an aggregation program.
+5 2. This aggregation of customers to be supplied electric supply services by a
+6 retail supplier shall be chosen by a competitive bidding process established by the
+7 commission for a term length established by this process. This competitive bidding
+8 process may be repeated in advance of the expiration of the initial term length for the
+9 next term.
+10 3. The retail supplier selected in this process shall offer a price at or below the
+11 default supply service rate set annually through a competitive procurement process for
+12 residential customers as described in section 393.2080 for the same or similar term
+13 length. When the competitively procured process for default supply service for
+14 residential customers is replaced with an hourly default supply service for residential
+
+HB 2207 9
+15 customers, the commission may institute an alternative pricing threshold for acceptance
+16 for purposes of electric supply service under this energy assistance customer
+17 aggregation program.
+18 4. Energy assistance customers shall have the ability to opt out of the electric
+19 supply service aggregation option but shall forgo their energy assistance relief if they do
+20 so.
+21 5. The commission shall institute a public hearing regarding the energy
+22 assistance customer section to gather input on the rules prior to implementation of the
+23 energy assistance customer aggregation program.
+393.2100. 1. All electric utilities have an obligation to provide open and
+2 nondiscriminatory access to their data and systems as needed for retail electric suppliers
+3 to provide electric supply and to establish and maintain an effective and vibrant
+4 competitive market in the purchase and sale of retail electricity in the state. All electric
+5 utilities shall continue to provide metering services but customer-specific data and other
+6 relevant customer information shall be made available to retail electric suppliers so long
+7 as the retail electric suppliers receive retail customer’s consent for the release of the
+8 data.
+9 2. The commission shall develop processes for retail electric suppliers to confirm
+10 and document the retail customer’s consent to release data; however, such processes
+11 shall not require onerous signature or other requirements to be received from the retail
+12 customer. Commonly used digital signature or similar technologies consistent with
+13 current technological capabilities shall be allowed to confirm customer consent.
+14 (1) Historical usage data access shall include at least two years of customer usage
+15 or metering data and other customer information required to facilitate an electric
+16 supply transaction to include, but not be limited to, customer class details, capacity and
+17 transmission allocations, and loss factors.
+18 (2) Historical usage data shall include both monthly summaries and hourly
+19 interval data, if available, both at the kilowatt hour energy and kilowatt demand levels.
+20 (3) While a retail customer is under contract for electric supply with a retail
+21 electric supplier, the electric utility shall make available to the retail electric supplier
+22 such usage data as necessary to facilitate invoicing in a timely manner.
+23 3. Retail customers shall have the ability to select their preferred billing method
+24 including, but not limited to, utility consolidated billing of electric supply services and
+25 delivery service charges, supplier consolidated billing of electric supply services and
+26 delivery service charges, as well as the dual billing option for these charges.
+
+HB 2207 10
+27 4. The dual billing option shall be available and operational when commercial
+28 and industrial customers can choose their retail supplier for electric supply services as
+29 provided in section 393.2040.
+30 5. The commission shall institute a proceeding to develop the necessary
+31 procedures and requirements to implement the utility consolidated billing and supplier
+32 consolidated billing methods to be in place and operational by the commencement of the
+33 ability for residential customers to choose their retail electric supplier as provided in
+34 section 393.2040.
+35 6. Within six months of residential customers gaining the ability to choose a
+36 retail electric supplier, electric utilities shall implement an accelerated switching process
+37 so residential customers may change retail electric suppliers within three business days
+38 of receiving the enrollment transaction. Additionally, residential and small commercial
+39 and industrial customers moving within an electric utility’s territory shall have their
+40 retail electric supplier of electric supply services transferred directly to their new service
+41 location without being required to switch to a default supply service rate provided by
+42 the electric utility or other supplier.
+43 7. The commission is authorized to investigate and establish guidelines for
+44 additional programs designed to enhance the retail customer’s experience in choosing a
+45 retail electric supplier for electric supply services that improve the ability of retail
+46 electric suppliers to offer additional electric supply services and other related products
+47 and services to retail customers. Such programs may include, but are not limited to,
+48 purchase of receivables, demand-response, net-metering incentives, community solar,
+49 customer referral, and municipal aggregation programs.
+393.2110. 1. Six months after August 28, 2026, the commission shall commence a
+2 proceeding to develop a robust customer education program to ensure that all retail
+3 customers have access to accurate information about their ability to choose a retail
+4 electric supplier. The proceeding shall explore ways for the commission to partner with
+5 electric utilities and for retail electric suppliers to disseminate commission-endorsed
+6 educational pieces as well as appropriate cost recovery from all customers to support the
+7 customer education program. The commission, at its discretion, may delegate to the
+8 office of retail market development some or all of the administrative work required in
+9 the development of the customer education program.
+10 2. To the extent the costs for the customer education program are known when
+11 the restructuring plans are filed, costs may be approved for recovery through the
+12 nonbypassable competitive transition charge.
+
+HB 2207 11
+13 3. The commission shall explore the use of a website option, or shopping website,
+14 that explains the choices and makes comparisons between the electric supply services
+15 and related products being offered by retail electric suppliers.
+393.2120. 1. No entity shall engage in the business of electric supply services in
+2 this state unless such entity holds a retail electric supplier license issued by the
+3 commission. The commission shall issue such license only upon finding that the entity is
+4 fit, willing, and able to properly perform the service proposed and to conform to all legal
+5 requirements consistent with the public interest and the policies declared in this section.
+6 2. The commission shall develop a licensing process to ensure retail electric
+7 suppliers seeking to do business in the state submit a license application to the
+8 commission, subject to rules and regulations promulgated by the commission including,
+9 but not limited to:
+10 (1) A standard written application to gather the information needed to assess the
+11 technical fitness of an applicant or its management team;
+12 (2) Internal procedures to process written applications no later than ninety days
+13 after they are properly submitted;
+14 (3) Reasonable financial security requirements to ensure the financial
+15 responsibility of the retail electric supplier; the electric supply services to retail
+16 customers in accordance with contracts, agreements, or arrangements; and the payment
+17 of all required applicable state taxes;
+18 (4) Each entity that applies for a retail electric supplier license shall pay a
+19 licensing fee and execute and maintain a bond or other financial surety instrument
+20 issued by a qualifying surety or insurance company or other financial institution
+21 authorized to transact business in the state:
+22 (a) The amount of the licensing fee shall not exceed ten thousand dollars;
+23 (b) The amount of the surety shall equal five hundred thousand dollars per retail
+24 electric supplier license as issued by the commission; and
+25 (c) The financial surety shall be conditioned upon the full and faithful
+26 performance of all duties and obligations of the applicant as a retail electric supplier
+27 and shall be valid for a period of not less than one year. The cost of the surety shall be
+28 paid by the applicant. The applicant shall file a copy of this surety, with a notarized
+29 verification page from the issuer, as part of its application for certification; and
+30 (5) Applicants shall complete a commission-approved training and certification
+31 process.
+32 3. The commission shall monitor the retail power market for the supply and
+33 distribution of electricity to retail customers and take steps to prevent anticompetitive
+34 or discriminatory conduct and the unlawful exercise of market power.
+
+HB 2207 12
+35 4. The commission shall have the authority under this section to impose civil
+36 penalties, after due process, in an amount not to exceed one hundred thousand dollars
+37 per violation, on entities that engage in anticompetitive or discriminatory conduct and
+38 the unlawful exercise of market power.
+39 5. Any proceedings initiated pursuant to this section shall be subject to the
+40 provisions of sections 386.400 to 386.610 relating to procedure before the commission
+41 and the provisions of sections 386.700 and 386.710 relating to the office of public
+42 counsel. Provisions of these sections that are applicable to proceedings involving electric
+43 utilities shall apply equally to retail electric suppliers.
+393.2130. 1. The commission shall establish an "Office of Retail Market
+2 Development and Oversight", herein after referred to as the "office", to be funded by
+3 an annual assessment of retail electric suppliers based on a formula to be determined by
+4 the commission not to exceed twenty thousand dollars annually per licensed entity.
+5 2. The office shall have the authority to actively seek input from all interested
+6 parties and to develop a thorough understanding and critical analyses of the tools and
+7 techniques used to promote retail energy competition.
+8 3. The office shall monitor existing competitive power market related conditions
+9 in the state, identify barriers to retail competition for all customer classes, and actively
+10 explore and propose to the commission solutions to overcome identified barriers and
+11 enhance the competitive retail power market.
+12 4. The office shall publish a report at least annually, as determined by the
+13 commission, including the number of complaints filed against each retail electric
+14 supplier, post resolution, and other information deemed relevant by the office.
+15 5. The office shall have the authority to address violations by retail electric
+16 suppliers through the imposition of a probationary status which may include, but not be
+17 limited to, enhanced oversight, additional reporting requirements, and submission for
+18 commission approval of a plan for any fines or remediation to customers specific to any
+19 retail electric supplier that violates regulations or any rules subject to this section.
+20 6. The office shall report to the commission any recommendations for suspension
+21 or revocation of a retail supplier’s license.
+22 7. The office shall develop and implement, with stakeholder input, a commission-
+23 approved program that requires a designated representative of each licensed retail
+24 electric supplier to demonstrate a thorough understanding of the commission's
+25 regulations regarding sales, consumer protection, and any other matter the
+26 commission deems appropriate through an online training program.
+27 8. At the conclusion of the training, the office shall conduct an online
+28 examination and, on a satisfactory score, certify that the designated representative of
+
+HB 2207 13
+29 the licensed retail electric supplier has successfully completed the training in a timely
+30 manner.
+31 9. The office shall determine the schedule and frequency by which a designated
+32 representative of a licensed retail electric supplier shall complete the training and
+33 certification. The commission shall not issue a license to a new retail electric supplier
+34 until a designated representative completes the training and certification.
+35 10. The office shall make recommendations to the commission concerning the
+36 establishment of guidelines for the provision of electric supply services to residential
+37 customers that ensure:
+38 (1) Accurate and adequate pricing information through marketing and
+39 disclosure statements;
+40 (2) An understandable format that enables comparing prices and services on a
+41 uniform basis; and
+42 (3) Clear processes to confirm and document a customer’s intent to switch retail
+43 electric suppliers to avoid any unauthorized switches of retail electric suppliers for
+44 electric supply services.
+45 11. The office, at the discretion of the commission, may be tasked with some or
+46 all of the administrative work required in the development of the customer education
+47 program.
+✔

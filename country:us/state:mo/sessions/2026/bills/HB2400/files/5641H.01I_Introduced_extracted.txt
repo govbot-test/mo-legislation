@@ -1,0 +1,281 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+SECOND REGULAR SESSION
+HOUSE BILL NO. 2400
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE MURRAY.
+5641H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapter 640, RSMo, by adding thereto seven new sections relating to products
+containing intentionally added perfluoroalkyl and polyfluoroalkyl substances, with
+penalty provisions.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Chapter 640, RSMo, is amended by adding thereto seven new sections, to
+2 be known as sections 640.1700, 640.1701, 640.1702, 640.1703, 640.1704, 640.1705, and
+3 640.1706, to read as follows:
+640.1700. 1. For purposes of sections 640.1700 to 640.1706, the following terms
+2 mean:
+3 (1) "Air care product", a chemically formulated consumer product labeled to
+4 indicate that the purpose of the product is to enhance or condition the indoor
+5 environment by eliminating odors or freshening the air;
+6 (2) "Automotive maintenance product", a chemically formulated consumer
+7 product labeled to indicate that the purpose of the product is to maintain the
+8 appearance of a motor vehicle, including products for washing, waxing, polishing,
+9 cleaning, or treating the exterior or interior surfaces of motor vehicles. Automotive
+10 maintenance product does not include automotive paint or paint repair products;
+11 (3) "Cleaning product", a finished product used primarily for domestic,
+12 commercial, or institutional cleaning purposes including, but not limited to, an air care
+13 product, an automotive maintenance product, a general cleaning product, or a polish or
+14 floor maintenance product;
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 2400 2
+15 (4) "Cookware", durable houseware items used to prepare, dispense, or store
+16 food, foodstuffs, or beverages. Cookware includes, but is not limited to, pots, pans,
+17 skillets, grills, baking sheets, baking molds, trays, bowls, and cooking utensils;
+18 (5) "Cosmetic", consists of articles, excluding soap, intended to be rubbed,
+19 poured, sprinkled, or sprayed on, introduced into, or otherwise applied to the human
+20 body or any part thereof for the purpose of cleansing, beautifying, promoting
+21 attractiveness, or altering the appearance, for use as a component of any such article;
+22 (6) "Currently unavoidable use", a use of PFAS that the director has
+23 determined by rule under section 640.1704 to be essential for health, safety, or the
+24 functioning of society and for which alternatives are not reasonably available;
+25 (7) "Department", the department of natural resources;
+26 (8) "Director", the director of the department of natural resources;
+27 (9) "Fabric treatment", a substance applied to fabric to give the fabric one or
+28 more characteristics including, but not limited to, stain resistance or water resistance;
+29 (10) "Intentionally added PFAS", PFAS deliberately added during the
+30 manufacture of a product where the continued presence of PFAS is desired in the
+31 final product or one of the product's components to perform a specific function;
+32 (11) "Internal components", internal parts of a product, whether permanently
+33 affixed or removable, that are designed and intended to not be touched by a person
+34 during intended use or handling. Internal components include parts of a product used
+35 for holding batteries regardless of whether the parts are touched when replacing
+36 batteries;
+37 (12) (a) "Juvenile product", a product designed or marketed for use by infants
+38 and children under twelve years of age including, but not limited to:
+39 a. Baby or toddler foam pillows;
+40 b. Bassinets;
+41 c. Bedside sleepers;
+42 d. Booster seats;
+43 e. Changing pads;
+44 f. Child restraint systems for use in motor vehicles and aircraft;
+45 g. Co-sleepers;
+46 h. Crib mattresses;
+47 i. Highchair and highchair pads;
+48 j. Infant products, such as:
+49 (i) Bouncers;
+50 (ii) Carriers;
+51 (iii) Seats;
+
+HB 2400 3
+52 (iv) Sleep positioners;
+53 (v) Swings;
+54 (vi) Travel beds; or
+55 (vii) Walkers;
+56 k. Nap cots;
+57 l. Nursing pads;
+58 m. Nursing pillows;
+59 n. Play mats;
+60 o. Playpens;
+61 p. Playyards;
+62 q. Polyurethane foam mats, pads, or pillows;
+63 r. Portable products, such as:
+64 (i) Foam nap mats;
+65 (ii) Infant sleepers;
+66 (iii) Hook-on chairs; or
+67 (iv) Soft-sided cribs;
+68 s. Strollers; and
+69 t. Toddler mattresses;
+70 (b) "Juvenile product" does not include an adult mattress or a children's
+71 electronic product such as a personal computer, audio and video equipment, calculator,
+72 wireless phone, game console, handheld device incorporating a video screen, or any
+73 associated peripheral products such as a mouse, keyboard, power supply unit, or power
+74 cord, or an adult mattress. In addition, "juvenile product" does not include the
+75 following:
+76 a. A recreational off-highway vehicle, as defined in section 301.010, made for
+77 children;
+78 b. An all-terrain vehicle, as defined in section 301.010, made for children;
+79 c. A motorcycle, as defined in section 301.010, made for children;
+80 d. An electric bicycle, as defined in section 301.010, made for children; and
+81 e. A replacement part for a vehicle described in subparagraphs a. to d. of this
+82 paragraph;
+83 (13) "Manufacturer", the person or entity that creates or produces a product or
+84 whose brand name is affixed to the product. In the case of a product imported into the
+85 United States, manufacturer includes the importer or first domestic distributor of the
+86 product if the person or entity that manufactured or assembled the product or whose
+87 brand name is affixed to the product does not have a presence in the United States;
+
+HB 2400 4
+88 (14) "Medical device", the meaning given to the term "device" under 21 U.S.C.
+89 Section 321(h);
+90 (15) "Perfluoroalkyl and polyfluoroalkyl substances" or "PFAS", a class of
+91 fluorinated organic chemicals containing at least one fully fluorinated carbon atom;
+92 (16) "Product", an item manufactured, assembled, packaged, or otherwise
+93 prepared for sale to consumers including, but not limited to, its product components,
+94 sold or distributed for personal, residential, commercial, or industrial use, including for
+95 use in making other products;
+96 (17) "Product component", an identifiable component of a product, regardless
+97 of whether the manufacturer of the product is the manufacturer of the component;
+98 (18) "Ski wax", a lubricant applied to the bottom of snow runners, including
+99 but not limited to skis and snowboards, to improve their grip or glide properties. "Ski
+100 wax" includes related tuning products;
+101 (19) "Textile", an item made in whole or part from a natural or synthetic fiber,
+102 yarn, or fabric. "Textile" includes but is not limited to leather, cotton, silk, jute, hemp,
+103 wool, viscose, nylon, and polyester;
+104 (20) "Textile furnishings", textile goods of a type customarily used in households
+105 and businesses, including but not limited to draperies, floor coverings, furnishings,
+106 bedding, towels, and tablecloths;
+107 (21) "Upholstered furniture", an article of furniture that is designed to be used
+108 for sitting, resting, or reclining and that is wholly or partly stuffed or filled with any
+109 filling material.
+640.1701. 1. Before January 1, 2027, the manufacturer of any product sold,
+2 offered for sale, or distributed in this state that contains intentionally added PFAS shall
+3 submit to the director information that includes:
+4 (1) A brief description of the product, including a universal product code (UPC),
+5 stock keeping unit (SKU), or other numeric code assigned to the product;
+6 (2) The purpose for which PFAS are used in the product, including in any
+7 product components;
+8 (3) The amount of each PFAS in the product, identified by its chemical abstracts
+9 service registry number reported as an exact quantity determined using commercially
+10 available analytical methods or as falling within a range approved for reporting
+11 purposes by the director;
+12 (4) The name and address of the manufacturer and the name, address, and
+13 phone number of a contact person for the manufacturer; and
+14 (5) Any additional information requested by the director as necessary to
+15 implement the requirements of this section.
+
+HB 2400 5
+16 2. With the approval of the director, a manufacturer may supply the information
+17 required under subsection 1 of this section for a category or type of product rather than
+18 for each individual product.
+19 3. A manufacturer shall submit the information required under this section
+20 whenever a new product that contains intentionally added PFAS is sold, offered for sale,
+21 or distributed in this state and shall update and revise the information whenever there is
+22 significant change in the information or when requested to do so by the director.
+23 4. A person shall not sell, offer for sale, or distribute for sale in the state a
+24 product containing intentionally added PFAS if the manufacturer has failed to provide
+25 the information required under this section and the person has received notification
+26 under section 640.1703.
+640.1702. 1. The director may waive all or part of the information requirement
+2 under section 640.1701 if the director determines that substantially equivalent
+3 information is already publicly available. The director may grant a waiver under
+4 this section to a manufacturer or a group of manufacturers for multiple products or a
+5 product category.
+6 2. For a pesticide regulated under chapter 281, a fertilizer, an agricultural liming
+7 material regulated under chapter 266, a plant amendment regulated under chapter 281,
+8 or a soil amendment regulated under chapter 266, a manufacturer may satisfy the
+9 requirements of section 640.1701 by submitting the information required by that section
+10 as part of its annual registration or approval process under sections 281.210 to 281.310
+11 of the Missouri Pesticide Registration Act. For information that is regulated under
+12 chapters 266 and 281, the director of the department of natural resources and the
+13 director of the department of agriculture shall jointly determine whether to make the
+14 information publicly available based on applicable statutes.
+15 3. The director may enter into an agreement with one or more other states or
+16 political subdivisions of a state, as authorized by federal or state law, to collect
+17 information and may accept information to a shared system as meeting the information
+18 requirement under section 640.1701.
+19 4. The director may extend the deadline for submission by a manufacturer of the
+20 information required under section 640.1701 if the director determines that more time is
+21 needed by the manufacturer to comply with the submission requirement.
+640.1703. 1. If the director has reason to believe that a product contains
+2 intentionally added PFAS and the product is being offered for sale in this state, the
+3 director may direct the manufacturer of the product to, within thirty days, provide the
+4 director with testing results that demonstrate the amount of each of the PFAS in the
+5 product, identified by its chemical abstracts service registry number, reported as an
+
+HB 2400 6
+6 exact quantity determined using commercially available analytical methods or as falling
+7 within a range approved for reporting purposes by the director.
+8 2. If testing demonstrates that the product does not contain intentionally added
+9 PFAS, the manufacturer shall provide the director a certificate attesting that the
+10 product does not contain intentionally added PFAS, including testing results and any
+11 other relevant information.
+12 3. If testing demonstrates that the product contains intentionally added PFAS,
+13 the manufacturer shall provide the director with the testing results and the information
+14 required under section 640.1701.
+15 4. A manufacturer shall notify persons who sell or offer for sale a product
+16 prohibited under section 640.1701 or 640.1704 that the sale of that product is prohibited
+17 in this state and provide the director with a list of the names and addresses of those
+18 notified.
+19 5. The director may notify persons who sell or offer for sale a product prohibited
+20 under section 640.1701 or 640.1704 that the sale of that product is prohibited in this
+21 state.
+640.1704. 1. Beginning January 1, 2027, a person shall not sell, offer for sale, or
+2 distribute for sale in this state the following products if the product contains
+3 intentionally added PFAS:
+4 (1) Carpets or rugs;
+5 (2) Cleaning products;
+6 (3) Cookware;
+7 (4) Cosmetics;
+8 (5) Dental floss;
+9 (6) Fabric treatments;
+10 (7) Juvenile products;
+11 (8) Menstruation products;
+12 (9) Textile furnishings;
+13 (10) Ski wax; or
+14 (11) Upholstered furniture.
+15 2. Subsection 1 of this section does not prohibit the sale, offer for sale, or
+16 distribution for sale of a product that contains intentionally added PFAS only in
+17 electronic components or internal components.
+18 3. The director may by rule identify additional products by category or use that
+19 shall not be sold, offered for sale, or distributed for sale in this state if they contain
+20 intentionally added PFAS and designate effective dates. A prohibition adopted under
+21 this subsection shall be effective no earlier than January 1, 2027, and no later than
+
+HB 2400 7
+22 January 1, 2033. The director shall prioritize the prohibition of the sale of product
+23 categories that, in the director's judgment, are most likely to contaminate or harm this
+24 state's environment and natural resources if they contain intentionally added PFAS.
+25 4. Beginning January 1, 2033, a person shall not sell, offer for sale, or distribute
+26 for sale in this state any product that contains intentionally added PFAS unless the
+27 director has determined by rule that the use of PFAS in the product is a currently
+28 unavoidable use. The director may specify specific products or product categories for
+29 which the director has determined the use of PFAS is a currently unavoidable use. The
+30 director shall not determine that the use of PFAS in a product is a currently unavoidable
+31 use if the product is listed in subsection 1 of this section.
+32 5. Unless the director of the department of agriculture approves the action, the
+33 director shall not take action under subsection 2 or 3 of this section with respect to the
+34 following:
+35 (1) A pesticide, as defined under section 281.020;
+36 (2) A fertilizer, as defined under section 266.291;
+37 (3) An agricultural liming material, as defined in section 266.505;
+38 (4) A soil conditioner, as defined under section 266.361; or
+39 (5) A plant amendment, as such term is used in sections 281.010 to 281.115 of the
+40 "Missouri Pesticide Use Act".
+640.1705. 1. The provisions of sections 640.1700 to 640.1706 shall not apply to
+2 any law or regulation relating to PFAS in food packaging and fire suppression foam for
+3 firefighters.
+4 2. In the enforcement of sections 640.1700 to 640.1706, the director may
+5 coordinate with the department of agriculture, department of commerce and insurance,
+6 and department of health and senior services, as needed.
+7 3. Any person who wilfully violates the provisions of sections 640.1700 to
+8 640.1706, or any rule or order issued or adopted by the director regarding products
+9 containing intentionally added PFAS, shall be guilty of a misdemeanor and, upon
+10 conviction, shall be fined not more than five hundred dollars or imprisoned for not more
+11 than one year, or be subject to both fine and imprisonment. It shall be the duty of any
+12 prosecuting attorney to whom any violation of sections 640.1700 to 640.1706 is reported
+13 to cause appropriate proceedings to be instituted and prosecuted in a court of competent
+14 jurisdiction without delay.
+640.1706. 1. The director shall establish by rule a fee payable by a manufacturer
+2 to the director upon submission of information required under section 640.1701 to cover
+3 the department's reasonable costs to implement the provisions of sections 640.1700 to
+4 640.1706.
+
+HB 2400 8
+5 2. The director may promulgate all necessary rules and regulations for the
+6 administration of sections 640.1700 to 640.1706. Any rule or portion of a rule, as that
+7 term is defined in section 536.010, that is created under the authority delegated in this
+8 section shall become effective only if it complies with and is subject to all of the
+9 provisions of chapter 536 and, if applicable, section 536.028. This section and chapter
+10 536 are nonseverable and if any of the powers vested with the general assembly
+11 pursuant to chapter 536 to review, to delay the effective date, or to disapprove and annul
+12 a rule are subsequently held unconstitutional, then the grant of rulemaking authority
+13 and any rule proposed or adopted after August 28, 2026, shall be invalid and void.
+✔

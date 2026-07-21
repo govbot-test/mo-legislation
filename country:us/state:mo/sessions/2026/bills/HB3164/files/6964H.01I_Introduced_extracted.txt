@@ -1,0 +1,59 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+SECOND REGULAR SESSION
+HOUSE BILL NO. 3164
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE REEDY.
+6964H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To repeal section 138.390, RSMo, and to enact in lieu thereof one new section relating to the
+duties of the state tax commission.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Section 138.390, RSMo, is repealed and one new section enacted in lieu
+2 thereof, to be known as section 138.390, to read as follows:
+138.390. 1. The state tax commission shall equalize the valuation of real and tangible
+2 personal property among the several counties in the state in the following manner: with the
+3 abstracts of all the taxable property in the several counties of the state and the abstracts of the
+4 sales of real estate in such counties as returned by the respective county clerks and the
+5 assessor of the city of St. Louis, the commission shall classify all real estate situate in cities,
+6 towns, and villages, as town lots, and all other real estate as farming lands, and shall classify
+7 all tangible personal property as follows: banking corporations, railroad corporations, street
+8 railroad corporations, all other corporations, horses, mares and geldings, mules, asses and
+9 jennets, neat cattle, sheep, swine, goats, domesticated small animals and all other livestock,
+10 poultry, power machinery, farm implements, other tangible personal property.
+11 2. (1) The state tax commission shall equalize the valuation of each class or subclass
+12 of property thereof among the respective counties of the state in the following manner:
+13 [(1)] (a) It shall add to the valuation of each class, subclass, or portion thereof of the
+14 property, real or tangible personal, of each county which it believes to be valued below its real
+15 value in money such amount or percent as will increase the same in each case to its true value;
+16 [(2)] (b) It shall deduct from the valuation of each class, subclass, or portion thereof
+17 of the property, real or tangible personal, of each county which it believes to be valued above
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 3164 2
+18 its real value in money such amount or percent as will reduce the same in each case to its true
+19 value.
+20 (2) (a) For the purposes of this subsection, the state tax commission shall utilize
+21 ratio studies to determine whether a class or subclass of property is valued below or
+22 above its true value in money.
+23 (b) A class or subclass of property shall be considered to be valued below its true
+24 value in money if:
+25 a. The weighted median ratio is less than seventy percent and the coefficient of
+26 dispersion is greater than twenty-five percent; or
+27 b. The weighted median ratio is less than seventy percent and the upper bound
+28 of the ninety-five percent confidence interval for the weighted median is less than
+29 seventy percent.
+30 (c) A class or subclass of property shall be considered to be valued above its true
+31 value in money if:
+32 a. The weighted median ratio is greater than one hundred percent and the
+33 coefficient of dispersion is greater than twenty-five percent; or
+34 b. The weighted median ratio is greater than one hundred percent and the upper
+35 bound of the ninety-five percent confidence interval for the weighted median is greater
+36 than one hundred percent.
+✔
