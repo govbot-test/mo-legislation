@@ -1,0 +1,527 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+SECOND REGULAR SESSION
+HOUSE BILL NO. 2980
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE POLLITT.
+6550H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To repeal sections 137.100, 153.030, 153.034, and 523.010, RSMo, and to enact in lieu
+thereof eight new sections relating to electric utilities, with an emergency clause for a
+certain section.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Sections 137.100, 153.030, 153.034, and 523.010, RSMo, are repealed
+2 and eight new sections enacted in lieu thereof, to be known as sections 67.5350, 137.100,
+3 137.124, 153.030, 153.034, 393.172, 393.1120, and 523.010, to read as follows:
+67.5350. 1. As used in this section, the following terms shall mean:
+2 (1) "Material amendment", any amendment to a permit issued by a county
+3 commission to construct a solar farm which:
+4 (a) Changes the solar farm's generation type from one type of utility facility to
+5 another;
+6 (b) Increases the facility's nameplate capacity; or
+7 (c) Changes the boundaries of the solar farm, unless the new boundaries of the
+8 facility are completely within the previous boundaries of the facility or the facility
+9 components outside of the previous boundary are underground;
+10 (2) "Solar farm", a group of photovoltaic interconnected solar panels or arrays
+11 that convert sunlight into electricity for the primary purpose of wholesale or retail sales
+12 of generated electricity, including all on-site equipment and facilities necessary for the
+13 proper operation of the facility, such as electrical collection and transmission lines,
+14 battery storage systems, transformers, substations, and operations and maintenance
+15 facilities within at least twenty continuous acres.
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 2980 2
+16 2. Prior to obtaining a certificate of public convenience or necessity issued by the
+17 Missouri public service commission, any person constructing a solar farm shall first
+18 submit an application to the county commission in each county where the solar farm is
+19 to be located.
+20 3. The county commission of any county shall adopt an order or ordinance
+21 requiring a permit to construct a solar farm within specified boundaries located in
+22 whole or in part in an unincorporated area of a county. Such permit shall require the
+23 following:
+24 (1) Any construction to be at least one thousand linear feet from any church,
+25 school, or city, town, or village limit, or any private residence or residential property,
+26 including, but not limited to, a nursing home or a senior living facility;
+27 (2) Any construction to be at least three hundred linear feet from any other
+28 property line, not listed under subdivision (1) of this subsection; or
+29 (3) Any construction to be at least two hundred and fifty linear feet from any
+30 public road.
+31 4. A permit under subsection 3 of this section shall require noise levels not to
+32 exceed forty-five decibels at any property line.
+33 5. Within ninety days of receiving an application to construct a solar farm, the
+34 county commission shall hold a public meeting before the issuance of any such permit to
+35 construct a solar farm. Notice shall be provided at least fourteen days prior to the
+36 public meeting. At the public meeting, the applicant shall provide in writing the
+37 following information:
+38 (1) Maximum nameplate capacity of the solar farm;
+39 (2) Safety measures to prevent any fire hazard on the solar farm;
+40 (3) Geographical area and number of acres of the solar farm;
+41 (4) Name, address, and telephone number of the owner or operator of the solar
+42 farm;
+43 (5) Notice that the county commission will accept written comments from the
+44 public for a period of thirty days on the construction of the solar farm; and
+45 (6) The address of the office of the county commission.
+46 6. No later than ninety days after the public meeting, the county commission
+47 shall:
+48 (1) Issue a permit to the applicant accepting the construction proposal;
+49 (2) Issue a permit to the applicant limiting the boundaries of the proposed solar
+50 farm to a smaller geographic area, completely within the geographic area proposed by
+51 the applicant; or
+
+HB 2980 3
+52 (3) Deny the permit and prohibit the construction of the solar farm by the
+53 applicant.
+54 7. Any applicant intending to make a material amendment once a permit is
+55 issued shall submit a new application for a permit to the county commission.
+56 8. The county commission shall require any applicant who is issued a permit to
+57 obtain liability insurance in an amount sufficient to cover any damages which may arise
+58 from the construction of the solar farm.
+59 9. The Missouri public service commission shall not issue a certificate of public
+60 convenience or necessity to any applicant who did not receive a permit to construct a
+61 solar farm from the county commission in each county where the solar farm is to be
+62 located.
+63 10. The county commission of any county where a solar farm is proposed to be
+64 constructed shall require a decommissioning plan that includes removal of the solar
+65 farm equipment within twelve months after cessation of operations. The
+66 decommissioning plan shall be submitted to the county commission by an owner or
+67 operator of the proposed solar farm before construction begins. Decommissioning costs
+68 shall be calculated by an engineer licensed in the state. As part of the decommissioning
+69 plan, an owner or an operator shall post a bond in an amount of one hundred and
+70 twenty-five percent of the estimated decommissioning costs. The decommissioning plan
+71 shall be updated every five years by the owner or operator and submitted to the county
+72 commission.
+137.100. 1. The following subjects are exempt from taxation for state, county or local
+2 purposes:
+3 (1) Lands and other property belonging to this state;
+4 (2) Lands and other property belonging to any city, county or other political
+5 subdivision in this state, including market houses, town halls and other public structures, with
+6 their furniture and equipments, and on public squares and lots kept open for health, use or
+7 ornament;
+8 (3) Nonprofit cemeteries;
+9 (4) The real estate and tangible personal property which is used exclusively for
+10 agricultural or horticultural societies organized in this state, including not-for-profit
+11 agribusiness associations;
+12 (5) All property, real and personal, actually and regularly used exclusively for
+13 religious worship, for schools and colleges, or for purposes purely charitable and not held for
+14 private or corporate profit, except that the exemption herein granted does not include real
+15 property not actually used or occupied for the purpose of the organization but held or used as
+
+HB 2980 4
+16 investment even though the income or rentals received therefrom is used wholly for religious,
+17 educational or charitable purposes;
+18 (6) Household goods, furniture, wearing apparel and articles of personal use and
+19 adornment, as defined by the state tax commission, owned and used by a person in [his] such
+20 person's home or dwelling place;
+21 (7) Motor vehicles leased for a period of at least one year to this state or to any city,
+22 county, or political subdivision or to any religious, educational, or charitable organization
+23 which has obtained an exemption from the payment of federal income taxes, provided the
+24 motor vehicles are used exclusively for religious, educational, or charitable purposes;
+25 (8) Real or personal property leased or otherwise transferred by an interstate compact
+26 agency created pursuant to sections 70.370 to 70.430 or sections 238.010 to 238.100 to
+27 another for which or whom such property is not exempt when immediately after the lease or
+28 transfer, the interstate compact agency enters into a leaseback or other agreement that directly
+29 or indirectly gives such interstate compact agency a right to use, control, and possess the
+30 property; provided, however, that in the event of a conveyance of such property, the interstate
+31 compact agency must retain an option to purchase the property at a future date or, within the
+32 limitations period for reverters, the property must revert back to the interstate compact
+33 agency. Property will no longer be exempt under this subdivision in the event of a
+34 conveyance as of the date, if any, when:
+35 (a) The right of the interstate compact agency to use, control, and possess the property
+36 is terminated;
+37 (b) The interstate compact agency no longer has an option to purchase or otherwise
+38 acquire the property; and
+39 (c) There are no provisions for reverter of the property within the limitation period for
+40 reverters; and
+41 (9) All property, real and personal, belonging to veterans' organizations. As used in
+42 this section, "veterans' organization" means any organization of veterans with a congressional
+43 charter, that is incorporated in this state, and that is exempt from taxation under section 501(c)
+44 (19) of the Internal Revenue Code of 1986, as amended[;
+45 (10) Solar energy systems not held for resale].
+46 2. Notwithstanding the provisions of subsection 1 of this section or any other
+47 provision of law to the contrary, solar energy systems constructed for exclusive use of a
+48 single property may be exempt at the discretion of the assessor.
+137.124. 1. Beginning January 1, 2027, for purposes of assessing all real
+2 property, excluding land, or tangible personal property associated with a project that
+3 uses solar energy directly to generate electricity and that was built or was contracted to
+4 sell power, the tax liability actually owed shall be equal to six thousand dollars per
+
+HB 2980 5
+5 megawatt of nameplate capacity and shall be adjusted for inflation annually based on
+6 the Consumer Price Index for All Urban Consumers in the Midwest Region, as recorded
+7 by the United Bureau of Labor Statistics.
+8 2. Nothing in this section shall be construed to prohibit a project from engaging
+9 in enhanced enterprise zone agreements under sections 135.950 to 135.973 or similar tax
+10 abatement agreements with state or local officials or to affect any existing enhanced
+11 enterprise zone agreements.
+12 3. Beginning January 1, 2027, for the purposes of assessing land that is
+13 associated with a project that uses solar energy directly to generate electricity, such real
+14 property shall be classified as subclass (3) real property and assessed as commercial
+15 property under this chapter.
+153.030. 1. All bridges over streams dividing this state from any other state owned,
+2 used, leased or otherwise controlled by any person, corporation, railroad company or joint
+3 stock company, and all bridges across or over navigable streams within this state, where the
+4 charge is made for crossing the same, which are now constructed, which are in the course of
+5 construction, or which shall hereafter be constructed, and all property, real and tangible
+6 personal, owned, used, leased or otherwise controlled by telegraph, telephone, electric power
+7 and light companies, electric transmission lines, pipeline companies and express companies
+8 shall be subject to taxation for state, county, municipal and other local purposes to the same
+9 extent as the property of private persons.
+10 2. [And] Taxes levied [thereon] under subsection 1 of this section shall be levied
+11 and collected in the manner as is now or may hereafter be provided by law for the taxation of
+12 railroad property in this state, and county commissions, county boards of equalization and the
+13 state tax commission are hereby required to perform the same duties and are given the same
+14 powers, including punitive powers, in assessing, equalizing and adjusting the taxes on the
+15 property set forth in this section as the county commissions and boards of equalization and
+16 state tax commission have or may hereafter be empowered with, in assessing, equalizing, and
+17 adjusting the taxes on railroad property; and an authorized officer of any such bridge,
+18 telegraph, telephone, electric power and light companies, electric transmission lines, pipeline
+19 companies, or express company or the owner of any such toll bridge, is hereby required to
+20 render reports of the property of such bridge, telegraph, telephone, electric power and light
+21 companies, electric transmission lines, pipeline companies, or express companies in like
+22 manner as the authorized officer of the railroad company is now or may hereafter be required
+23 to render for the taxation of railroad property.
+24 3. On or before the fifteenth day of April in the year 1946 and each year thereafter an
+25 authorized officer of each such company shall furnish the state tax commission and county
+26 clerks a report, duly subscribed and sworn to by such authorized officer, which is like in
+
+HB 2980 6
+27 nature and purpose to the reports required of railroads under chapter 151 showing the full
+28 amount of all real and tangible personal property owned, used, leased or otherwise controlled
+29 by each such company on January first of the year in which the report is due.
+30 4. If any telephone company assessed pursuant to chapter 153 has a microwave relay
+31 station or stations in a county in which it has no wire mileage but has wire mileage in another
+32 county, then, for purposes of apportioning the assessed value of the distributable property of
+33 such companies, the straight line distance between such microwave relay stations shall
+34 constitute miles of wire. In the event that any public utility company assessed pursuant to this
+35 chapter has no distributable property which physically traverses the counties in which it
+36 operates, then the assessed value of the distributable property of such company shall be
+37 apportioned to the physical location of the distributable property.
+38 5. (1) Notwithstanding any provision of law to the contrary, beginning January 1,
+39 2019, a telephone company shall make a one-time election within the tax year to be assessed:
+40 (a) Using the methodology for property tax purposes as provided under this section;
+41 or
+42 (b) Using the methodology for property tax purposes as provided under this section
+43 for property consisting of land and buildings and be assessed for all other property
+44 exclusively using the methodology utilized under section 137.122.
+45
+46 If a telephone company begins operations, including a merger of multiple telephone
+47 companies, after August 28, 2018, it shall make its one-time election to be assessed using the
+48 methodology for property tax purposes as described under paragraph (b) of subdivision (1) of
+49 this subsection within the year in which the telephone company begins its operations. A
+50 telephone company that fails to make a timely election shall be deemed to have elected to be
+51 assessed using the methodology for property tax purposes as provided under subsections 1 to
+52 4 of this section.
+53 (2) The provisions of this subsection shall not be construed to change the original
+54 assessment jurisdiction of the state tax commission.
+55 (3) Nothing in subdivision (1) of this subsection shall be construed as applying to any
+56 other utility.
+57 (4) (a) The provisions of this subdivision shall ensure that school districts may avoid
+58 any fiscal impact as a result of a telephone company being assessed under the provisions of
+59 paragraph (b) of subdivision (1) of this subsection. If a school district's current operating levy
+60 is below the greater of its most recent voter-approved tax rate or the most recent voter-
+61 approved tax rate as adjusted under subdivision (2) of subsection 5 of section 137.073, it shall
+62 comply with section 137.073.
+
+HB 2980 7
+63 (b) Beginning January 1, 2019, any school district currently operating at a tax rate
+64 equal to the greater of the most recent voter-approved tax rate or the most recent voter-
+65 approved tax rate as adjusted under subdivision (2) of subsection 5 of section 137.073 that
+66 receives less tax revenue from a specific telephone company under this subsection, on or
+67 before January thirty-first of the year following the tax year in which the school district
+68 received less revenue from a specific telephone company, may by resolution of the school
+69 board impose a fee, as determined under this subsection, in order to obtain such revenue. The
+70 resolution shall include all facts that support the imposition of the fee. If the school district
+71 receives voter approval to raise its tax rate, the district shall no longer impose the fee
+72 authorized in this paragraph.
+73 (c) Any fee imposed under paragraph (b) of this subdivision shall be determined by
+74 taking the difference between the tax revenue the telephone company paid in the tax year in
+75 question and the tax revenue the telephone company would have paid in such year had it not
+76 made an election under subdivision (1) of this subsection, which shall be calculated by taking
+77 the telephone company valuations in the tax year in question, as determined by the state tax
+78 commission under paragraph (d) of this subdivision, and applying such valuations to the
+79 apportionment process in subsection 2 of section 151.150. The school district shall issue a
+80 billing, as provided in this subdivision, to any such telephone company. A telephone
+81 company shall have forty-five days after receipt of a billing to remit its payment of its portion
+82 of the fees to the school district. Notwithstanding any other provision of law, the issuance or
+83 receipt of such fee shall not be used:
+84 a. In determining the amount of state aid that a school district receives under section
+85 163.031;
+86 b. In determining the amount that may be collected under a property tax levy by such
+87 district; or
+88 c. For any other purpose.
+89
+90 For the purposes of accounting, a telephone company that issues a payment to a school
+91 district under this subsection shall treat such payment as a tax.
+92 (d) When establishing the valuation of a telephone company assessed under
+93 paragraph (b) of subdivision (1) of this subsection, the state tax commission shall also
+94 determine the difference between the assessed value of a telephone company if:
+95 a. Assessed under paragraph (b) of subdivision (1) of this subsection; and
+96 b. Assessed exclusively under subsections 1 to 4 of this section.
+97
+98 The state tax commission shall then apportion such amount to each county and provide such
+99 information to any school district making a request for such information.
+
+HB 2980 8
+100 (e) This subsection shall expire when no school district is eligible for a fee.
+101 6. (1) If any public utility company assessed pursuant to this chapter has ownership
+102 of any real or personal property associated with a project which uses solar or wind energy
+103 directly to generate electricity, such solar orwind energy project property shall be valued and
+104 taxed by any local authorities having jurisdiction under the provisions of chapter 137 and
+105 other relevant provisions of the law.
+106 (2) Notwithstanding any provision of law to the contrary, beginning January 1, 2020,
+107 for any public utility company assessed pursuant to this chapter which has a wind energy
+108 project, such wind energy project shall be assessed using the methodology for real and
+109 personal property as provided in this subsection:
+110 (a) Any wind energy property of such company shall be assessed upon the county
+111 assessor's local tax rolls; and
+112 (b) All other real property, excluding land, or personal property related to the wind
+113 energy project shall be assessed using the methodology provided under section 137.123.
+114 (3) Notwithstanding any other provision of law to the contrary, beginning
+115 January 1, 2027, for any public utility company assessed under this chapter which has a
+116 solar energy project, such solar energy project shall be assessed using the methodology
+117 for real and personal property as provided in this subsection:
+118 (a) Any solar energy property of such company shall be assessed upon the
+119 county assessor's local tax rolls; and
+120 (b) All other real property, excluding land, or personal property related to the
+121 solar energy project shall be assessed using the methodology provided under section
+122 137.124.
+123 7. (1) If any public utility company assessed pursuant to this chapter has ownership
+124 of any real or personal property associated with a generation project which was originally
+125 constructed utilizing financing authorized pursuant to chapter 100 for construction, upon the
+126 transfer of ownership of such property to the public utility company such property shall be
+127 valued and taxed by any local authorities having jurisdiction under the provisions of chapter
+128 137 and other relevant provisions of law.
+129 (2) Notwithstanding any provision of law to the contrary, beginning January 1, 2022,
+130 for any public utility company assessed pursuant to this chapter which has ownership of any
+131 real or personal property associated with a generation project which was originally
+132 constructed utilizing financing authorized pursuant to chapter 100 for construction, upon the
+133 transfer of ownership of such property to the public utility company such property shall be
+134 assessed as follows:
+135 (a) Any property associated with a generation project which was originally
+136 constructed utilizing financing authorized pursuant to chapter 100 for construction shall be
+
+HB 2980 9
+137 assessed upon the county assessor's local tax rolls. The assessor shall rely on the public utility
+138 company for cost information of the generation portion of the property as found in the public
+139 utility company's Federal Energy Regulatory Commission Financial Report Form Number
+140 One at the time of transfer of ownership, and depreciate the costs provided in a manner
+141 similar to other commercial and industrial property;
+142 (b) Any property consisting of land and buildings related to the generation property
+143 associated with a generation project which was originally constructed utilizing financing
+144 pursuant to chapter 100 for construction shall be assessed under chapter 137; and
+145 (c) All other business or personal property related to a generation project which was
+146 originally constructed utilizing financing pursuant to chapter 100 for construction shall be
+147 assessed using the methodology provided under section 137.122.
+153.034. 1. The term "distributable property" of an electric company shall include all
+2 the real or tangible personal property which is used directly in the generation and distribution
+3 of electric power, but not property used as a collateral facility nor property held for purposes
+4 other than generation and distribution of electricity. Such distributable property includes, but
+5 is not limited to:
+6 (1) Boiler plant equipment, turbogenerator units and generators;
+7 (2) Station equipment;
+8 (3) Towers, fixtures, poles, conductors, conduit transformers, services and meters;
+9 (4) Substation equipment and fences;
+10 (5) Rights-of-way;
+11 (6) Reactor, reactor plant equipment, and cooling towers;
+12 (7) Communication equipment used for control of generation and distribution of
+13 power;
+14 (8) Land associated with such distributable property.
+15 2. The term "local property" of an electric company shall include all real and tangible
+16 personal property owned, used, leased or otherwise controlled by the electric company not
+17 used directly in the generation and distribution of power and not defined in subsection 1 of
+18 this section as distributable property. Such local property includes, but is not limited to:
+19 (1) Motor vehicles;
+20 (2) Construction work in progress;
+21 (3) Materials and supplies;
+22 (4) Office furniture, office equipment, and office fixtures;
+23 (5) Coal piles and nuclear fuel;
+24 (6) Land held for future use;
+25 (7) Workshops, warehouses, office buildings and generating plant structures;
+
+HB 2980 10
+26 (8) Communication equipment not used for control of generation and distribution of
+27 power;
+28 (9) Roads, railroads, and bridges;
+29 (10) Reservoirs, dams, and waterways;
+30 (11) Land associated with other locally assessed property and all generating plant
+31 land.
+32 3. (1) Any real or tangible personal property associated with a project which uses
+33 solar or wind energy directly to generate electricity shall be valued and taxed by local
+34 authorities having jurisdiction under the provisions of chapter 137 and any other relevant
+35 provisions of law. The method of taxation prescribed in subsection 2 of section 153.030 and
+36 subsection 1 of this section shall not apply to such property.
+37 (2) The real or tangible personal property referenced in subdivision (1) of this
+38 subsection shall include all equipment whose sole purpose is to support the integration of a
+39 wind generation asset into an existing system. Examples of such property may include, but
+40 are not limited to, wind chargers, windmills, wind turbines, wind towers, and associated
+41 electrical equipment such as inverters, pad mount transformers, power lines, storage
+42 equipment directly associated with wind generation assets, and substations.
+43 (3) The real or tangible personal property referenced in subdivision (1) of this
+44 subsection shall also include all equipment whose sole purpose is to support the
+45 integration of a solar generation asset into an existing system. Examples of such
+46 property may include, but are not limited to, solar panels, solar panel mounting racks,
+47 and associated electrical equipment such as inverters, battery packs, power meters,
+48 power lines, storage equipment directly associated with solar generation assets, and
+49 substations.
+50 4. For any real or tangible personal property associated with a generation project
+51 which was originally constructed utilizing financing authorized under chapter 100 for
+52 construction, upon the transfer of ownership of such property to a public utility, such property
+53 shall be valued and taxed by local authorities having jurisdiction under the provisions of
+54 chapter 137 and any other relevant provisions of law. The method of taxation prescribed in
+55 subsection 2 of section 153.030 and subsection 1 of this section shall not apply to such
+56 property.
+393.172. By March 31, 2027, the public service commission shall adopt rules
+2 applicable to electrical corporations that require the entity constructing an electric
+3 transmission line under subsection 1 of section 393.170 for which permission is sought
+4 from the commission on or after the effective date of this section to adhere to standards
+5 to be adopted by such rules relating to construction activities occurring partially or
+6 wholly on privately owned agricultural land. Such standards shall address, at a
+
+HB 2980 11
+7 minimum, landowner communication expectations, expectations with respect to
+8 transmission structure design and placement, wet weather construction and
+9 remediation practices, agricultural mitigation and restoration practices, construction-
+10 related tree and brush clearing, expectations concerning the use and restoration of field
+11 entrances and temporary roads, and best practices with respect to erosion prevention.
+12 Any rule or portion of a rule, as that term is defined in section 536.010, that is created
+13 under the authority delegated in this section shall become effective only if it complies
+14 with and is subject to all of the provisions of chapter 536 and, if applicable, section
+15 536.028. This section and chapter 536 are nonseverable and if any of the powers vested
+16 with the general assembly pursuant to chapter 536 to review, to delay the effective date,
+17 or to disapprove and annul a rule are subsequently held unconstitutional, then the grant
+18 of rulemaking authority and any rule proposed or adopted after August 28, 2026, shall
+19 be invalid and void.
+393.1120. 1. The total amount of real property associated with all solar energy
+2 projects that are established in any one county in this state shall not exceed an amount
+3 greater than two percent of all cropland in such county, as determined by the most
+4 recent U.S. Department of Agriculture Census of Agriculture, except as authorized
+5 under this section.
+6 2. The county commission or other authorized governing body may increase the
+7 percentage of cropland under subsection 1 of this section by order, ordinance,
+8 regulation, or a vote of the residents of the county.
+9 3. Any resident of the county shall have standing to bring suit in a circuit court
+10 of proper venue to enforce the provisions of subsection 1 of this section against a solar
+11 energy project developer if he or she believes that the cap under subsection 1 of this
+12 section has been met.
+13 4. For all solar energy projects built on or after January 1, 2027, such project
+14 shall be subject to setback distances of at least one thousand feet to the nearest property
+15 boundary, including a residence, church, or school in existence at the time of
+16 construction. Such distances shall not apply to homeowners who have received a
+17 written agreement that has been signed by all affected property owners within the
+18 setback distance. This subsection shall not apply to solar energy projects built and
+19 operating at capacity on or before December 31, 2026.
+20 5. A solar energy company shall secure, through purchase or contract, all
+21 property rights or easements necessary for transmission and interconnection for the
+22 solar energy project to connect to the electrical grid prior to beginning construction of
+23 the solar energy project.
+
+HB 2980 12
+523.010. 1. In case land, or other property, is sought to be appropriated by any road,
+2 railroad, street railway, telephone, telegraph or any electrical corporation organized for the
+3 manufacture or transmission of electric current for light, heat or power, including the
+4 construction, when that is the case, of necessary dams and appurtenant canals, flumes, tunnels
+5 and tailraces and including the erection, when that is the case, of necessary electric steam
+6 powerhouses, hydroelectric powerhouses and electric substations or any oil, pipeline or gas
+7 corporation engaged in the business of transporting or carrying oil, liquid fertilizer solutions,
+8 or gas by means of pipes or pipelines laid underneath the surface of the ground, or other
+9 corporation created under the laws of this state for public use, and such corporation and the
+10 owners cannot agree upon the proper compensation to be paid, or in the case the owner is
+11 incapable of contracting, be unknown, or be a nonresident of the state, such corporation may
+12 apply to the circuit court of the county of this state where such land or any part thereof lies by
+13 petition setting forth the general directions in which it is desired to construct its road, railroad,
+14 street railway, telephone, or telegraph line or electric line, including, when that is the case, the
+15 construction and maintenance of necessary dams and appurtenant canals, tunnels, flumes and
+16 tailraces and, when that is the case, the appropriation of land submerged by the construction
+17 of such dam, and including the erection and maintenance, when that is the case, of necessary
+18 electric steam powerhouses, hydroelectric powerhouses and electric substations, or oil,
+19 pipeline, liquid fertilizer solution pipeline, or gas line over or underneath the surface of such
+20 lands, a description of the real estate, or other property, which the company seeks to acquire;
+21 the names of the owners thereof, if known; or if unknown, a pertinent description of the
+22 property whose owners are unknown and praying the appointment of three disinterested
+23 residents of the county, as commissioners, or a jury, to assess the damages which such owners
+24 may severally sustain in consequence of the establishment, erection and maintenance of such
+25 road, railroad, street railway, telephone, telegraph line, or electrical line including damages
+26 from the construction and maintenance of necessary dams and the condemnation of land
+27 submerged thereby, and the construction and maintenance of appurtenant canals, flumes,
+28 tunnels and tailraces and the erection and maintenance of necessary electric steam
+29 powerhouses, hydroelectric powerhouses and electric substations, or oil, pipeline, or gas
+30 line over or underneath the surface of such lands; to which petition the owners of any or all as
+31 the plaintiff may elect of such parcels as lie within the county or circuit may be made parties
+32 defendant by names if the names are known, and by the description of the unknown owners of
+33 the land therein described if their names are unknown.
+34 2. If the proceedings seek to affect the lands of persons under conservatorship, the
+35 conservators must be made parties defendant. If the present owner of any land to be affected
+36 has less estate than a fee, the person having the next vested estate in remainder may at the
+
+HB 2980 13
+37 option of the petitioners be made party defendant; but if such remaindermen are not made
+38 parties, their interest shall not be bound by the proceedings.
+39 3. It shall not be necessary to make any persons party defendants in respect to their
+40 ownership unless they are either in actual possession of the premises to be affected claiming
+41 title or having a title of the premises appearing of record upon the proper records of the
+42 county.
+43 4. Except as provided in subsection 5 of this section, nothing in this chapter shall be
+44 construed to give a public utility, as defined in section 386.020, or a rural electric cooperative,
+45 as provided in chapter 394, the power to condemn property which is currently used by another
+46 provider of public utility service, including a municipality or a special purpose district, when
+47 such property is used or useful in providing utility services, if the public utility or cooperative
+48 seeking to condemn such property, directly or indirectly, will use or proposes to use the
+49 property for the same purpose, or a purpose substantially similar to the purpose for which the
+50 property is being used by the provider of the public utility service.
+51 5. A public utility or a rural electric cooperative may only condemn the property of
+52 another provider of public utility service, even if the property is used or useful in providing
+53 utility services by such provider, if the condemnation is necessary for the public purpose of
+54 acquiring a nonexclusive easement or right-of-way across the property of such provider and
+55 only if the acquisition will not materially impair or interfere with the current use of such
+56 property by the utility or cooperative and will not prevent or materially impair such provider
+57 of public utility service from any future expansion of its facilities on such property.
+58 6. If a public utility or rural electric cooperative seeks to condemn the property of
+59 another provider of public utility service, and the conditions in subsection 4 of this section do
+60 not apply, this section does not limit the condemnation powers otherwise possessed by such
+61 public utility or rural electric cooperative.
+62 7. Suits in inverse condemnation or involving dangerous conditions of public
+63 property against a municipal corporation established under Article VI, Section 30(a) of the
+64 Missouri Constitution shall be brought only in the county where such land or any part thereof
+65 lies.
+66 8. For purposes of this chapter, the authority for an electrical corporation as defined in
+67 section 386.020, except for an electrical corporation operating under a cooperative business
+68 plan as described in section 393.110, to condemn property for purposes of constructing an
+69 electric plant subject to a certificate of public convenience and necessity under subsection 1
+70 of section 393.170 shall not extend to the construction of a merchant transmission line with
+71 Federal Energy Regulatory Commission negotiated rate authority unless such line has a
+72 substation or converter station located in Missouri which is capable of delivering an amount
+73 of its electrical capacity to electrical customers in this state that is greater than or equal to the
+
+HB 2980 14
+74 proportionate number of miles of the line that passes through the state. The provisions of this
+75 subsection shall not apply to applications filed pursuant to section 393.170 prior to August 28,
+76 2022.
+77 9. For the purposes of this chapter, the authority of any corporation set forth in
+78 subsection 1 of this section to condemn property shall not extend to:
+79 (1) The construction or erection of any plant, tower, panel, or facility that
+80 utilizes, captures, or converts wind or air currents to generate or manufacture
+81 electricity; or
+82 (2) The construction or erection of any plant, tower, panel, or facility that
+83 utilizes, captures, or converts the light or heat generated by the sun to generate or
+84 manufacture electricity.
+85 10. Subject to the provisions of subsection 8 of this section, but notwithstanding
+86 the provisions of subsection 9 of this section to the contrary, the authority of any
+87 corporation set forth in subsection 1 of this section to condemn property shall extend to
+88 acquisition of rights needed to construct, operate, and maintain collection lines,
+89 distribution lines, transmission lines, communications lines, substations, switchyards,
+90 and other facilities needed to collect and deliver energy generated or manufactured by
+91 the facilities described in subsection 9 of this section to the distribution or transmission
+92 grid.
+Section B. Because of the need to ensure that solar farms being currently constructed
+2 do not cause disruption to adjoining properties, the enactment of section 67.5350 of this act is
+3 deemed necessary for the immediate preservation of the public health, welfare, peace, and
+4 safety, and is hereby declared to be an emergency act within the meaning of the constitution,
+5 and the enactment of section 67.5350 of this act shall be in full force and effect upon its
+6 passage and approval.
+✔

@@ -1,0 +1,677 @@
+Title: 
+Official Title: 
+Source: versions - 3832H.03C - House Committee Substitute
+Media Type: application/pdf
+
+================================================================================
+
+SECOND REGULAR SESSION
+HOUSE COMMITTEE SUBSTITUTE FOR
+SENATE BILL NO. 1351
+103RD GENERAL ASSEMBLY
+3832H.03C JOSEPH ENGLER, Chief Clerk
+AN ACT
+To repeal sections 162.481 and 162.821, RSMo, and to enact in lieu thereof ten new sections
+relating to elementary and secondary education.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Sections 162.481 and 162.821, RSMo, are repealed and ten new sections
+2 enacted in lieu thereof, to be known as sections 160.068, 160.524, 161.355, 162.192, 162.481,
+3 162.821, 167.1001, 170.027, 186.085, and 186.095, to read as follows:
+160.068. 1. This section shall be known and may be cited as the "Student
+2 Screen-Time Standards Act".
+3 2. As used in this section, the following terms mean:
+4 (1) "Instructional technology", a laptop, tablet, computer, Chromebook, smart
+5 device, software platform, or other similar device or platform used for student learning;
+6 (2) "Manipulatives", hands-on physical learning items including, but not limited
+7 to, blocks, counters, cubes, rulers, cards, science materials, and similar educational
+8 tools;
+9 (3) "Traditional materials", printed books, paper-based workbooks, notebooks,
+10 handwriting materials, and physical educational resources.
+11 3. For elementary school students in kindergarten through grade five, each
+12 school district and charter school shall adopt a written screen time and instructional
+13 technology policy consistent with this section to promote the educational interests of
+14 students, prevent the harmful effects of screen time on child development, ensure that
+15 technology supports rather than supplants foundational learning, and restore evidence-
+16 based practices. The screen time and instructional technology policy shall establish the
+17 following:
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HCS SB 1351 2
+18 (1) Limits and restrictions on student screen time and student use of
+19 instructional technology during the school day;
+20 (2) Limits and restrictions on school district- or charter school-issued devices or
+21 school district or charter school educational technology being used outside the school
+22 day;
+23 (3) Limits and restrictions on student access to internet-connected instructional
+24 technology;
+25 (4) The digital platforms used;
+26 (5) Standards and requirements for student use of manipulatives and traditional
+27 materials;
+28 (6) The process for a parent or guardian to obtain information regarding his or
+29 her child's screen time and instructional technology use and the process for a parent or
+30 guardian to limit or eliminate his or her child's screen time and instructional technology
+31 use; and
+32 (7) The research, evidence, and information upon which the policy is based.
+33 4. In creating the policy, the district or charter school shall consider and
+34 document research on best practices in literacy instruction, instructional technology,
+35 and assessment and the optimal role for the use of handwriting and cursive writing in
+36 promoting literacy for all students.
+37 5. Each elementary school shall notify parents and guardians annually of the
+38 policy adopted under subsection 3 of this section. Parents and guardians of students in
+39 grades kindergarten through five may, upon request, receive information about their
+40 child's login time and use of district-provided instructional technology and online
+41 learning platforms. The district or charter school shall provide such available
+42 information within a reasonable time and at no cost to the parent or guardian.
+43 6. Each elementary school shall publish such policy on such school's website.
+44 7. Each policy adopted under subsection 3 of this section shall be periodically
+45 updated, including incorporating the best practices recommendations from the
+46 recommended model school board policy on screen time and use of technology in
+47 instruction from the framework on classroom use of screens (FOCUS) council created
+48 under section 186.095, when such recommendations become available.
+49 8. This section shall be implemented before the end of the 2027-28 school year
+50 and shall apply for all subsequent school years.
+51 9. This section shall not apply to virtual instruction programs operating under
+52 the provisions of section 161.670.
+160.524. 1. (1) The state board of education shall develop an annual school
+2 accountability report card for each public school district, public school, and public
+
+HCS SB 1351 3
+3 charter school in the state for the purpose of providing information about school
+4 performance in accordance with the provisions of this section. In addition to providing
+5 information about student performance, the report card shall be designed to satisfy
+6 federal reporting requirements for the disclosure of information about students, staff,
+7 finances, and other data.
+8 (2) Each school accountability report card shall be designed in a standardized,
+9 clear, and easily accessible form so that the accountability report card can be easily
+10 understood by parents, taxpayers, school personnel, legislators, and the media and shall
+11 include a summary intended for parents and guardians that:
+12 (a) Explains the school's performance level and underlying indicators in
+13 nontechnical terms;
+14 (b) Identifies areas of strength and areas in need of improvement;
+15 (c) Highlights year-to-year progress, including student academic growth; and
+16 (d) Provides information on how families may engage with the school to support
+17 student learning.
+18
+19 The plain-language summary shall include a clear explanation of student academic
+20 growth and how the school's growth compares to the state's expectations.
+21 2. The state board of education shall assign the duties of implementing the
+22 provisions of this section to the department of elementary and secondary education or
+23 may contract with a private entity in accordance with the provisions of chapter 34.
+24 3. (1) The state board of education shall provide an embargoed version of the
+25 school accountability report cards for the previous school year to each public school
+26 district, public school, and public charter school by September fifteenth of each year.
+27 (2) The state board of education shall provide an appeals process and criteria for
+28 an appeal of information in the school accountability report card.
+29 (3) Before October thirty-first of each year, each public school district, public
+30 school, and public charter school shall publish in a clear and easily accessible location
+31 on its website the district and school accountability report cards including each
+32 underlying indicator that is used to derive the performance rating and the rates of pupil
+33 attendance from the previous school year.
+34 4. The state board of education shall assign each public school district, public
+35 school, and public charter school one of the following ratings, which shall be based on a
+36 zero-to-one-hundred scale:
+37 (1) "A" for those districts and schools producing excellent student outcomes;
+38 (2) "B" for those districts and schools producing more-than-satisfactory student
+39 outcomes;
+
+HCS SB 1351 4
+40 (3) "C" for those districts and schools producing satisfactory student outcomes;
+41 (4) "D" for those districts and schools producing less-than-satisfactory student
+42 outcomes; and
+43 (5) "F" for those districts and schools failing to produce adequate student
+44 outcomes.
+45 5. (1) The state board of education shall assign each public school district,
+46 public school, and public charter school an overall performance rating of "A", "B",
+47 "C", "D", or "F", derived from multiple measures of school performance as provided
+48 in this section.
+49 (2) The benchmark for excellent student outcomes or an "A" rating shall be the
+50 top decile of the composite score of the measures outlined in subsection 8 of this section.
+51 (3) A public school district, public school, or public charter school that does not
+52 test at least ninety-five percent of its students shall have assessment participation rates
+53 reported separately and clearly identified on the school accountability report card.
+54 Assessment participation rates shall not result in an automatic reduction of the district's
+55 or school's performance level but shall be included to provide transparency and context
+56 for parents and the public.
+57 6. (1) There is hereby created the "Show Me Success Program" to provide
+58 additional funding, subject to appropriation, to public schools and public charter
+59 schools that demonstrate strong student academic growth, sustained improvement over
+60 time, or success in closing achievement gaps, as determined by the department of
+61 elementary and secondary education.
+62 (2) Subject to appropriations, the department may award performance-based
+63 funding to eligible public schools and public charter schools based on one or more of the
+64 following criteria:
+65 (a) Student academic growth above the state average, including value-added
+66 growth and growth to proficiency;
+67 (b) Demonstrated improvement in student outcomes over multiple years;
+68 (c) Significant improvement among historically underserved student groups;
+69 (d) High levels of student readiness for postsecondary education, training, or
+70 employment; or
+71 (e) Demonstrated improvement in early literacy outcomes, including growth in
+72 reading achievement for students in kindergarten through grade three, as measured by
+73 multiple indicators of reading development and progress over time.
+74 (3) The department shall establish, by rule, the methodology for determining
+75 eligibility, award amounts, and distribution of funds under this subsection.
+
+HCS SB 1351 5
+76 (4) No school or charter school shall be guaranteed funding under this
+77 subsection, and awards shall be made only to the extent that funds are appropriated by
+78 the general assembly.
+79 (5) Moneys shall be distributed to the school's fiscal agent before December first
+80 of each year, and one hundred percent of the moneys received shall be placed in the
+81 school's classroom incidental fund to be used in a manner determined by the governing
+82 body of the district or charter school to promote teacher recruitment and retention.
+83 7. (1) The department shall develop a criteria-referenced growth measure,
+84 called "growth to proficiency", in addition to the existing normative value-added
+85 growth measure.
+86 (2) Growth to proficiency shall evaluate for each student with two consecutive
+87 years of Missouri assessment program performance levels whether that student has
+88 made sufficient progress to put them on a trajectory to reach or exceed grade-level
+89 within three years or by the end of grade ten, whichever comes first.
+90 8. The rating under subsection 4 of this section for a public school district, public
+91 school, or public charter school shall be based on the following factors:
+92 (1) Student academic achievement level, calculated as the percentage of students
+93 proficient or higher on required English language arts, math, and science assessments
+94 through the Missouri assessment program;
+95 (2) Student academic growth in English language arts, math, and science using a
+96 growth to proficiency metric and a value-added growth metric of:
+97 (a) All students; and
+98 (b) The lowest-performing quartile of students; and
+99 (3) For high schools:
+100 (a) The student four-year graduation rate; and
+101 (b) A "Success-Ready Graduate" measure, calculated by the department of
+102 elementary and secondary education, which shall include the number of students
+103 graduating with merit or distinction and which shall include consideration of:
+104 a. Advanced placement examinations upon which students achieve a score of
+105 three or higher;
+106 b. International baccalaureate examinations for an international baccalaureate
+107 diploma programme course upon which students achieve a score of four or higher;
+108 c. Dual enrollment in core subjects with a "C" course grade or higher;
+109 d. Earning an industry-recognized credential or career technical education
+110 certificate related to an occupation that is high wage, high demand;
+111 e. Completion of an early bachelor's or associate degree; and
+112 f. Completion of stackable credentials.
+
+HCS SB 1351 6
+113 9. The rating assigned under subsection 4 of this section for elementary and
+114 middle schools shall be based on overall student academic achievement level, value-
+115 added growth, and growth to proficiency as follows:
+116 (1) Academic achievement level, value-added academic growth, and growth to
+117 proficiency shall be calculated and reported separately for English language arts,
+118 literacy, math, and science; and
+119 (2) As a portion of the rating assigned:
+120 (a) Academic achievement level shall represent forty percent of the rating;
+121 (b) Value-added growth shall represent thirty percent of the rating; and
+122 (c) Growth to proficiency shall represent thirty percent of the rating.
+123 10. At least seventy-five percent of the rating assigned under subsection 4 of this
+124 section for high schools shall be based on overall student academic achievement level,
+125 value-added growth, and growth to proficiency as follows:
+126 (1) Academic achievement level, value-added academic growth, and growth to
+127 proficiency shall be calculated and reported separately for English language arts, math,
+128 and science; and
+129 (2) As a portion of the rating assigned:
+130 (a) Academic achievement level shall represent twenty-five percent of the rating;
+131 (b) Value-added growth shall represent twenty-five percent of the rating;
+132 (c) Growth to proficiency shall represent twenty-five percent of the rating;
+133 (d) The success-ready graduate measure shall represent fifteen percent of the
+134 rating; and
+135 (e) The student four-year graduation rate shall represent ten percent of the
+136 rating.
+137 11. Public school districts, public schools, and public charter schools shall
+138 annually report for high schools the number of graduates who within six months of
+139 graduation attend postsecondary education or training programs, serve in the military,
+140 serve in national or community service, are employed in the farming or ranching
+141 industry, or are employed in a living-wage career as determined by a governmental
+142 agency or nongovernmental organization with expertise in living-wage calculation.
+143 12. For public school districts, the annual school accountability report card
+144 rating shall be calculated following the same method used for calculating a school report
+145 except at the district level.
+146 13. The state board of education shall provide a statewide report card that
+147 provides the following:
+
+HCS SB 1351 7
+148 (1) The percentages of Missouri students annually attending schools rated "A",
+149 "B", "C", "D", or "F", with the objective of increasing the percentage of students
+150 attending more highly rated schools each year; and
+151 (2) The performance of Missouri students on state assessments relative to the
+152 National Assessment of Educational Progress (NAEP), with the objective that
+153 proficiency rates on both assessments be reasonably aligned.
+154 14. For the purposes of this section, the development and publication of an
+155 annual school accountability report card shall not be required for any special school
+156 district or state-operated school in which all of the students enrolled are students with
+157 disabilities.
+161.355. 1. This section shall be known and may be cited as the "Media Literacy
+2 and Critical Thinking Act".
+3 2. As used in this section, "media literacy" means the following:
+4 (1) An individual's ability to access, analyze, evaluate, and participate with all
+5 forms of media, such as:
+6 (a) News in print; and
+7 (b) Social media content, such as images, text, video, and other media content;
+8 (2) An individual's ability to recognize bias and stereotypes in media messages;
+9 (3) The foundational skills of digital citizenship and internet safety; and
+10 (4) In the classroom, media literacy includes integrating the process of critical
+11 analysis of media messages into the daily classroom curricula.
+12 3. The department of elementary and secondary education shall establish the
+13 "Media Literacy and Critical Thinking Pilot Program". Such pilot program shall be
+14 implemented and administered during the 2027-28 and 2028-29 school years.
+15 4. Under the media literacy and critical thinking pilot program, the department
+16 of elementary and secondary education shall select five to seven diverse school districts
+17 to participate in the pilot program and from which to study data related to the outcomes
+18 of the pilot program in such school districts.
+19 5. A pilot program site shall:
+20 (1) Address each component of media literacy;
+21 (2) Develop successful strategies for student learning within the daily classroom
+22 curricula in all grades or for a selected preschool to grade twelve level;
+23 (3) Identify high-quality resources for such pilot program; and
+24 (4) Demonstrate and report how such site addresses the following in the
+25 classroom:
+
+HCS SB 1351 8
+26 (a) News content literacy, which is the ability to access, analyze, evaluate, and
+27 distinguish verified information from opinion and propaganda and the opportunity to
+28 practice verification;
+29 (b) Visual literacy, which is the ability to find, interpret, and evaluate images and
+30 visual media such as photographs, videos, illustrations, drawings, maps, diagrams, and
+31 advertisements;
+32 (c) Digital fluency, which is the ability to understand and follow the norms of
+33 safe and responsible technology use and how media influences attitudes and behaviors;
+34 and
+35 (d) Digital literacy, which is the ability to be technically fluent and able to make
+36 informed decisions about content encountered online, recognize how networked
+37 technology affects behavior and perception, and create and effectively communicate
+38 with digital media tools.
+39 6. The guidelines developed as a result of the study of the information gained
+40 from the pilot program shall provide students with the following information:
+41 (1) The purpose and acceptable use of various social media platforms;
+42 (2) Social media behavior that ensures cybersafety, cybersecurity, and cyber
+43 ethics;
+44 (3) The potential negative consequences of failing to use various social media
+45 platforms responsibly, such as cyberbullying;
+46 (4) The ability to access, analyze, evaluate, create, and act on all forms of digital
+47 and written communications;
+48 (5) Digital ethics, etiquette, respectful discourse with individuals who have
+49 differing opinions, safety, security, digital footprints, and the identification of rhetoric
+50 that incites violence;
+51 (6) Cyberbullying prevention and response;
+52 (7) The significance of algorithms;
+53 (8) Ways to identify online misinformation;
+54 (9) A general knowledge of the economic structure of the digital landscape; and
+55 (10) The importance of the right to freedom of speech as contained in the Bill of
+56 Rights of the Constitution of the United States including, but not limited to:
+57 (a) The central role that the right to freedom of speech has in the history of the
+58 United States; and
+59 (b) The applicability of protections for freedom of speech for online interaction
+60 in school settings that the department of elementary and secondary education shall
+61 provide to school districts.
+
+HCS SB 1351 9
+62 7. The guidelines developed as a result of the study of the information gained
+63 from the pilot program shall provide school districts with samples of learning activities,
+64 resources, and training that promote critical thinking and the skills necessary to
+65 evaluate all forms of media.
+66 8. Before August 1, 2029, each pilot program site shall submit a report to the
+67 department of elementary and secondary education describing the implementation of
+68 and the information gained from the pilot program.
+69 9. Before January 1, 2030, the department of elementary and secondary
+70 education shall compile the reports submitted from the pilot program sites and submit a
+71 summary report to the general assembly containing at least the following information:
+72 (1) Qualitative and quantitative insights on how the pilot program sites
+73 addressed media literacy;
+74 (2) A compendium of high-quality strategies and resources used by educators;
+75 (3) Any professional development used or required;
+76 (4) Recommendations about what facilities, instructional materials, and
+77 technologies are needed to implement a media literacy and critical thinking program
+78 statewide;
+79 (5) Exploration of additional policies, administrative mechanisms, and legislative
+80 recommendations for implementing best practices and standards statewide; and
+81 (6) A draft of proposed clear, inclusive media literacy and critical thinking state
+82 standards for preschool to grade twelve, compiled by drawing from key media literacy
+83 skills and competencies in existing state standards and from the pilot program results.
+84 10. Standards developed under this section shall be included for consideration
+85 by the department of elementary and secondary education during the state standards
+86 review immediately following the termination of the pilot program.
+87 11. The media literacy and critical thinking pilot program shall terminate on
+88 June 30, 2029.
+89 12. This section shall expire on December 31, 2029.
+162.192. 1. For purposes of this section, "financial ledger" means a searchable,
+2 machine-readable, publicly accessible database maintained by a school district or
+3 charter school that:
+4 (1) Sets forth all financial transactions conducted with school district or charter
+5 school funds, including, but not limited to, the school funds established pursuant to
+6 section 165.011;
+7 (2) Is available without login credentials, registration, or fees;
+8 (3) Is downloadable and exportable in formats including, but not limited to,
+9 comma-separated values (CSV) format and Microsoft Excel format;
+
+HCS SB 1351 10
+10 (4) Records all transactions using Missouri financial accounting manual
+11 classification categories, as applicable; and
+12 (5) Includes the following minimum required data fields for each financial
+13 transaction, and is searchable and filterable by such fields, at minimum:
+14 (a) Transaction date;
+15 (b) Transaction amount;
+16 (c) Revenue or expenditure designation;
+17 (d) Fund code;
+18 (e) Function code;
+19 (f) Object code;
+20 (g) Vendor or payee name; and
+21 (h) Description or memo field.
+22 2. Notwithstanding any provision of law to the contrary, each school district and
+23 charter school shall maintain a financial ledger on its publicly accessible website. The
+24 homepage of each public or charter school's website shall include a direct link to the
+25 financial ledger of the school district or charter school that has oversight responsibility
+26 for that public or charter school. The link shall make the financial ledger accessible
+27 within one click, shall be clearly labeled as a link to the school district's or charter
+28 school's financial ledger, and shall be functional and mobile-responsive. The
+29 department may provide standardized language or icons that public and charter
+30 schools may use for the purpose of ensuring compliance with this subsection.
+31 3. A school district's or charter school's financial ledger shall be updated at least
+32 monthly. Details of each calendar month's financial transactions shall be posted no later
+33 than forty-five days after the close of that calendar month.
+34 4. For historical record keeping purposes, a school district or charter school
+35 shall maintain complete financial ledger data on its publicly accessible website for no
+36 fewer than five prior fiscal years.
+37 5. A school district or charter school may redact protected personal information
+38 on the financial ledger only to the extent required by applicable law. Vendor names,
+39 amounts, and accounting codes shall not be redacted. Payroll data may be presented in
+40 aggregated form where disclosure of individual information is restricted.
+41 6. Debt obligations shall be posted in a separate section of the financial ledger,
+42 with disclosure of the following information:
+43 (1) Outstanding debt balances;
+44 (2) Issuance dates;
+45 (3) Repayment schedules;
+46 (4) Annual debt service amounts; and
+
+HCS SB 1351 11
+47 (5) Debt service as a percentage of total expenditures.
+48 7. The department may provide or approve standardized templates or platforms
+49 a school district or charter school may use to comply with the provisions of this section.
+50 A school district or charter school may use a third-party template or platform that is
+51 approved by the department.
+52 8. The department may provide guidance to assist school districts and charter
+53 schools in complying with the provisions of this section. Such guidance may include:
+54 (1) High-level expenditure summaries by classification category under the
+55 Missouri financial accounting manual;
+56 (2) Standardized definitions of terms to be used in the financial ledger; and
+57 (3) Clear explanations of methodology and limitations applicable to the
+58 compilation and presentation of financial ledger data.
+59 9. School districts and charter schools shall annually certify compliance with this
+60 section to the department. The department shall promulgate rules establishing
+61 procedures and timelines for school districts and charter schools to certify compliance.
+62 10. If the department finds that any school district or charter school has violated
+63 a provision of this section, the department may withhold up to five percent of the state
+64 aid to which the school district or charter school is entitled under chapter 160 or 163 for
+65 the current school year until the school district or charter school proves to the
+66 satisfaction of the department that the school district or charter school is no longer in
+67 violation of this section.
+68 11. The department shall establish a process for members of the public to file
+69 complaints with the department if they believe a school district or charter school has
+70 violated any provision of this section. The department may establish a public
+71 compliance dashboard on the department's website to enable members of the public to
+72 check whether a particular school district or charter school is certified as in compliance
+73 with the provisions of this section.
+74 12. The department shall promulgate rules to implement the provisions of this
+75 section. Any rule or portion of a rule, as that term is defined in section 536.010, that is
+76 created under the authority delegated in this section shall become effective only if it
+77 complies with and is subject to all of the provisions of chapter 536 and, if applicable,
+78 section 536.028. This section and chapter 536 are nonseverable and if any of the powers
+79 vested with the general assembly pursuant to chapter 536 to review, to delay the
+80 effective date, or to disapprove and annul a rule are subsequently held unconstitutional,
+81 then the grant of rulemaking authority and any rule proposed or adopted after August
+82 28, 2026, shall be invalid and void.
+
+HCS SB 1351 12
+162.481. 1. Except as otherwise provided in this section and sections 162.492 and
+2 162.563, all elections of school directors in urban school districts shall be held biennially at
+3 the same times and places as municipal elections.
+4 2. Except as otherwise provided in subsections 3, 4, [and] 5, and 7 of this section,
+5 hereafter when a seven-director district becomes an urban school district, the directors of the
+6 prior seven-director district shall continue as directors of the urban school district until the
+7 expiration of the terms for which they were elected and until their successors are elected as
+8 provided in this subsection. The first biennial school election for directors shall be held in the
+9 urban school district at the time provided in subsection 1 which is on the date of or
+10 subsequent to the expiration of the terms of the directors of the prior district which are first to
+11 expire, and directors shall be elected to succeed the directors of the prior district whose terms
+12 have expired. If the terms of two directors only have expired, the directors elected at the first
+13 biennial school election in the urban school district shall be elected for terms of six years. If
+14 the terms of four directors have expired, two directors shall be elected for terms of six years
+15 and two shall be elected for terms of four years. At the next succeeding biennial election held
+16 in the urban school district, successors for the remaining directors of the prior seven-director
+17 district shall be elected. If only two directors are to be elected they shall be elected for terms
+18 of six years each. If four directors are to be elected, two shall be elected for terms of six years
+19 and two shall be elected for terms of two years. After seven directors of the urban school
+20 district have been elected under this subsection, their successors shall be elected for terms of
+21 six years.
+22 3. In any school district in which a majority of the district is located in any home rule
+23 city with more than one hundred fifty-five thousand but fewer than two hundred thousand
+24 inhabitants, elections shall be held annually at the same times and places as general municipal
+25 elections for all years where one or more terms expire, and the terms shall be for three years
+26 and until their successors are duly elected and qualified for all directors elected on and after
+27 August 28, 1998.
+28 4. For any school district which becomes an urban school district by reason of the
+29 2000 federal decennial census, elections shall be held annually at the same times and places
+30 as general municipal elections for all years where one or more terms expire, and the terms
+31 shall be for three years and until their successors are duly elected and qualified for all
+32 directors elected on and after August 28, 2001.
+33 5. In any school district in any county with a charter form of government and with
+34 more than three hundred thousand but fewer than four hundred fifty thousand inhabitants
+35 which becomes an urban school district by reason of the 2010 federal decennial census,
+36 elections shall be held annually at the same times and places as general municipal elections
+37 for all years where one or more terms expire, and the terms shall be for three years and until
+
+HCS SB 1351 13
+38 their successors are duly elected and qualified for all directors elected on and after April 2,
+39 2012.
+40 6. In any urban school district in a county of the first classification with more than
+41 eighty-three thousand but fewer than ninety-two thousand inhabitants and with a home rule
+42 city with more than seventy-six thousand but fewer than ninety-one thousand inhabitants as
+43 the county seat, elections shall be held annually at the same times and places as general
+44 municipal elections for all years where one or more terms expire, and upon expiration of any
+45 term after August 28, 2015, the term of office shall be for three years and until their
+46 successors are duly elected and qualified.
+47 7. In any school district in which a majority of the district is located in a city
+48 with more than one hundred five thousand but fewer than one hundred twenty-five
+49 thousand inhabitants, elections shall be held annually at the same times and places as
+50 general municipal elections for all years where one or more terms expire, and upon the
+51 expiration of any term after August 28, 2026, the term of office shall be for three years
+52 and until their successors are duly elected and qualified.
+162.821. The district secretary shall keep a record of the proceedings of all annual
+2 and special elections of the voters of the district and of the proceedings of the board of
+3 education. He shall make copies of the election notices, contracts with teachers, certificates
+4 and all other papers relating to the business of the district, and securely keep the same. He
+5 shall maintain a correct plat of the district and shall promptly notify the department of
+6 elementary and secondary education and the county clerk of each county affected of all
+7 changes in the boundaries of the district. He shall transmit to the county commission and to
+8 the state department of elementary and secondary education, on or before the fifteenth day of
+9 August in each year, a report embracing the following items:
+10 (1) The number of children, male and female, attending the public schools during the
+11 year;
+12 (2) Total number of days' attendance by all such children;
+13 (3) The number of days the public schools of the district have been maintained during
+14 the school year;
+15 (4) The number of teachers employed, male and female, and the wages per month of
+16 each;
+17 (5) Estimated value of school property owned and managed by the district;
+18 (6) Assessed valuation of the district;
+19 (7) Rate of school tax on the assessed valuation of the district;
+20 (8) Cash on hand at the beginning of the year;
+21 (9) Tuition fees received and credited to the teachers' fund of the district;
+22 (10) Public funds received by county treasurer;
+
+HCS SB 1351 14
+23 (11) District tax received by county (or township) treasurer;
+24 (12) Amount paid on teachers' wages;
+25 (13) Amount paid for incidental expenses;
+26 (14) Amount expended for purchasing site, erecting schoolhouses, rent and repairs;
+27 (15) Amount expended in cancelling bonded indebtedness and paying interest on
+28 same;
+29 (16) Amount expended for library;
+30 (17) Amount expended for legal services. If the report does not include the
+31 amount expended for legal services, then the attorney general may investigate the
+32 violation of this subdivision and may bring a civil action, including an action for
+33 injunctive relief, against the school district or charter school. Such action shall be
+34 brought in the county where the school district or charter school is located;
+35 (18) Cash on hand at the end of the year;
+36 [(18)] (19) Such other information as may be required by the state board of education.
+167.1001. 1. For purposes of this section, the following terms mean:
+2 (1) "Election", any primary, general, or special election held to nominate or elect
+3 an individual to public office, to retain or recall an elected officeholder, or to submit a
+4 ballot measure to the voters;
+5 (2) "Parent", a student's parent, legal guardian, or person standing in loco
+6 parentis to the student;
+7 (3) "School", any public school governed and managed by an urban school
+8 district.
+9 2. A student shall not be considered absent from the school in which the student
+10 is enrolled for the time during which the student accompanies his or her parent when
+11 the parent is exercising his or her right to vote in a scheduled election.
+12 3. A student may receive an excused absence pursuant to subsection 2 of this
+13 section only one time during each scheduled election.
+14 4. A student who accompanies his or her parent when the parent is exercising his
+15 or her right to vote in a scheduled election shall be encouraged by school officials to
+16 demonstrate his or her attendance at the scheduled election by wearing an official
+17 sticker, badge, or other item upon his or her return to school indicating that he or she
+18 attended the scheduled election.
+170.027. 1. This section shall be known and may be cited as the "Missouri
+2 Integrated Safe Driving Program".
+3 2. As used in this section, "driver education instruction" means instruction
+4 provided under the Missouri integrated safe driving program that offers instruction in
+5 the use and operation of motor vehicles including, but not limited to, instruction in the
+
+HCS SB 1351 15
+6 safe operation of motor vehicles and rules of the road and the laws of this state relating
+7 to motor vehicles.
+8 3. (1) The state department of elementary and secondary education shall receive
+9 and vet sample lessons from recognized statewide professional organizations and
+10 districts that meet the requirements of the Missouri integrated safe driving program.
+11 (2) Sample lessons shall be made available to each public school district and
+12 charter school offering courses to pupils in grades nine through twelve.
+13 (3) For the 2027-28 school year and all subsequent school years, each public
+14 school district and charter school offering courses to pupils in grades nine through
+15 twelve may adopt a plan implementing the Missouri integrated safe driving program,
+16 which may use the sample lessons.
+17 4. The Missouri integrated safe driving program shall:
+18 (1) Inform pupils about the requirements for obtaining and driving with an
+19 instruction permit, an intermediate license, and a full driver license under Missouri's
+20 graduated driver license law as established in chapter 302;
+21 (2) Emphasize the development of knowledge, attitudes, habits, and skills
+22 necessary for the safe operation of motor vehicles;
+23 (3) Provide instruction on distracted driving as a major traffic safety issue;
+24 (4) Provide instruction concerning law enforcement procedures for traffic stops,
+25 including a demonstration of the proper actions to be taken during a traffic stop and
+26 appropriate interactions with law enforcement;
+27 (5) Provide pupils with current data on driver safety related to risky behaviors;
+28 and
+29 (6) Provide instruction on safety concerns relating to pedestrians, commercial
+30 motor vehicles, motorcycles and other potentially hazardous encounters on the road.
+31 5. Districts may require pupils to participate in lessons devoted to addressing the
+32 requirements of the Missouri integrated safe driving program in courses as determined
+33 by the district. These lessons shall meet standards within the content of the course but
+34 use safe driving as the context and application of the course standards.
+35 6. (1) The driver education instruction under this section shall not require any
+36 pupil to physically operate a motor vehicle as part of such instruction.
+37 (2) This section shall not be construed to prohibit any public school district or
+38 charter school from offering an elective driver education course that is different from
+39 the driver education instruction required under this section.
+40 7. The state board of education may promulgate all necessary rules and
+41 regulations for the administration of this section. Any rule or portion of a rule, as that
+42 term is defined in section 536.010, that is created under the authority delegated in this
+
+HCS SB 1351 16
+43 section shall become effective only if it complies with and is subject to all of the
+44 provisions of chapter 536 and, if applicable, section 536.028. This section and chapter
+45 536 are nonseverable and if any of the powers vested with the general assembly
+46 pursuant to chapter 536 to review, to delay the effective date, or to disapprove and annul
+47 a rule are subsequently held unconstitutional, then the grant of rulemaking authority
+48 and any rule proposed or adopted after the effective date of this section shall be invalid
+49 and void.
+186.085. The literacy advisory council established under section 186.080 shall
+2 provide advice on the inclusion of instruction and assessment of cursive writing and
+3 reading, including the optimal role for the use of cursive writing and reading in
+4 promoting literacy for all students. Such advice shall include recommendations for a
+5 related model policy on cursive.
+186.095. 1. The commissioner of education shall establish a "Framework on
+2 Classroom Use of Screens Council" or "FOCUS Council". The council shall consist of
+3 the commissioner, or the commissioner's designee, who shall serve as chair of the
+4 council. The other members of the council shall be appointed as specified in this
+5 subsection and shall include the following:
+6 (1) One parent of a child currently enrolled in kindergarten through grade five
+7 shall be selected by the president pro tempore of the senate;
+8 (2) One parent of a child currently enrolled in kindergarten through grade five
+9 shall be selected by the speaker of the house of representatives;
+10 (3) One education professional selected by the state board of education from
+11 names submitted to it by the professional teachers' organizations of the state;
+12 (4) One education professional selected by a statewide association of Missouri
+13 school boards;
+14 (5) One education professional selected by the state board of education from
+15 names submitted to it by a statewide coalition of school administrators;
+16 (6) Two education professionals selected by the president pro tempore of the
+17 senate in addition to the member selected under subdivision (1) of this subsection;
+18 (7) Two education professionals selected by the speaker of the house of
+19 representatives in addition to the member selected under subdivision (2) of this
+20 subsection;
+21 (8) One education professional selected by the governor;
+22 (9) One education professional selected by the lieutenant governor;
+23 (10) One education professional selected by the commissioner of the department
+24 of higher education and workforce development;
+
+HCS SB 1351 17
+25 (11) One education professional selected by the state board of education from
+26 names submitted to it by nationally recognized career and technical education student
+27 organizations operating in Missouri;
+28 (12) One education professional selected by the state board of education from
+29 names submitted to it by the heads of state-approved baccalaureate-level teacher
+30 preparation programs located in Missouri;
+31 (13) A pediatric mental health professional or board-certified behavioral analyst
+32 licensed in the state, preferably with experience in technology and behavioral responses,
+33 selected by the speaker of the house of representatives; and
+34 (14) A medical professional with expertise in child health and development
+35 selected by the governor.
+36 2. The department elementary and secondary education shall provide necessary
+37 staff and resources for the work of the advisory council.
+38 3. (1) The council shall meet at least four times per year in its initial year and at
+39 least twice per year thereafter to conduct a comprehensive survey and analysis of screen
+40 time and instructional technology use in public schools and to review best practices
+41 regarding screen use and the use of technology in instruction and related policy
+42 provisions. Items and information related to such best practices and policies shall
+43 include, but not be limited to:
+44 (a) Impacts on educational outcomes;
+45 (b) Impacts on behavioral and discipline outcomes;
+46 (c) Impacts on special education;
+47 (d) Impacts on early childhood brain development, including reading and
+48 writing skills;
+49 (e) The deterioration of student competency in reading, writing, arithmetic, and
+50 science;
+51 (f) The need to strengthen human connection in classrooms and support healthy,
+52 respectful relationships;
+53 (g) The isolation of students in a digital and virtual world; and
+54 (h) Other such items and information to be determined by the council.
+55 (2) The council shall meet for the first time for purposes of this subsection before
+56 December 1, 2026, and the whole council or a subcommittee thereof shall hold at least
+57 three additional meetings for purposes of this subsection before July 1, 2027.
+58 (3) On or before July 1, 2027, the council shall submit a report containing the
+59 council's actions, findings, recommendations, and policy proposals to the state board of
+60 education, the governor, and the joint committee on education.
+
+HCS SB 1351 18
+61 (4) The recommendations shall include a recommended model school board
+62 policy on screen time and instructional technology use. The model policy shall
+63 recommend best practices regarding:
+64 (a) Student screen time;
+65 (b) Student use of instructional technology;
+66 (c) Restrictions on student screen time;
+67 (d) Restrictions on student use of instructional technology;
+68 (e) Restrictions on student access to internet-connected instructional technology;
+69 (f) Student use of manipulatives and traditional materials;
+70 (g) The process for a parent or guardian to obtain information regarding his or
+71 her child's screen time and instructional technology use;
+72 (h) Minimizing or eliminating school district- or charter school-issued devices or
+73 school district or charter school educational technology being used outside the school
+74 day; and
+75 (i) The process for a parent or guardian to limit or eliminate his or her child's
+76 screen time and instructional technology use.
+77 (5) The recommendations may include suggested changes to state law.
+78 (6) The report shall be presented to the state board of education and to the joint
+79 committee on education in public hearings. The report shall be updated at least every
+80 two years to provide additional information regarding the council's actions,
+81 recommendations, and policy proposals.
+✔

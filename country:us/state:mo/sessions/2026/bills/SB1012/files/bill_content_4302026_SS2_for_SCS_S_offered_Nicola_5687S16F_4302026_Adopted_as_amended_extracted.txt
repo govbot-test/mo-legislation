@@ -1,0 +1,545 @@
+Title: 
+Official Title: 
+Source: versions - 4/30/2026 - SS#2 for SCS S offered (Nicola)--(5687S.16F)
+                    
+                        4/30/2026 - Adopted, as amended
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+5687S.16F
+SENATE SUBSTITUTE
+FOR
+SENATE COMMITTEE SUBSTITUTE
+FOR
+SENATE BILL NO. 1012
+AN ACT
+To amend chapters 1, 130, and 573, RSMo, by adding
+thereto four new sections relating to artificial
+intelligence, with penalty provisions and a
+severability clause.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Chapters 1, 130, and 573, RSMo, are amended by
+2 adding thereto four new sections, to be known as sections
+3 1.2045, 1.2058, 130.165, and 573.120, to read as follows:
+1 1.2045. 1. The provisions of this section shall be
+2 known and may be cited as the "AI Non-Sentience and
+3 Responsibility Act".
+4 2. For purposes of this section, the following terms
+5 mean:
+6 (1) "Artificial intelligence" or "AI system", a
+7 machine-based system that can, for a given set of human-
+8 defined objectives, make predictions, recommendations or
+9 decisions influencing real or virtual environments.
+10 Artificial intelligence systems use machine and human-based
+11 inputs to:
+12 (a) Perceive real and virtual environments;
+13 (b) Abstract such perceptions into models through
+14 analysis in an automated manner; and
+15 (c) Use model inference to formulate options for
+16 information or action;
+17 (2) "Developer", the party or parties primarily
+18 responsible for the design, coding, and initial creation of
+1
+
+19 an AI system, including any person or entity that
+20 substantially modifies, fine-tunes, retrains, or materially
+21 alters an existing AI system in a manner that changes its
+22 capabilities, risk profile, or intended uses;
+23 (3) "Emergent properties", unanticipated or higher-
+24 level behaviors or functionalities of an AI system that
+25 arise from complex internal algorithms not specifically
+26 programmed by its human creators;
+27 (4) "End user", an individual who uses an artificial
+28 intelligence system without creating, controlling,
+29 deploying, or exercising authority over the system. The
+30 term does not include a licensed professional rendering or
+31 assisting in the rendering of a regulated service, as
+32 defined in subdivision (4) of subsection 8 of this section,
+33 who shall remain subject to the provisions of subdivision
+34 (2) of subsection 8 of this section;
+35 (5) "Government entity", a court, the general
+36 assembly, the governing body of a political subdivision, or
+37 another entity of the state or a political subdivision that
+38 has adjudicatory or rulemaking authority;
+39 (6) "Manufacturer", any party that produces or
+40 supplies an AI system or its physical apparatus, if any, for
+41 distribution or sale;
+42 (7) "Operator", any natural person or legally
+43 recognized entity that directly uses, runs, controls, or
+44 supervises the operation of an AI system in practice;
+45 (8) "Owner", any natural person, corporation, or other
+46 legally recognized entity that creates, controls, deploys,
+47 operates, or otherwise exercises authority over an AI system;
+48 (9) "Person", a natural person or any entity
+49 recognized as having legal personhood under the laws of this
+50 state, explicitly excluding any AI system;
+2
+
+51 (10) "Stakeholder", any natural person or legal person
+52 with a vested interest in the system.
+53 3. For all purposes under state law, AI systems are
+54 declared to be non-sentient entities.
+55 4. A government entity shall not grant to an AI system
+56 the legal status of a personhood or any form of legal
+57 personhood, nor consider an AI system to possess
+58 consciousness, self-awareness, or similar traits of living
+59 beings.
+60 5. An AI system shall not be recognized as a spouse,
+61 domestic partner, or hold any personal legal status
+62 analogous to marriage or union with a human or another AI
+63 system. Any purported attempt to marry or create a personal
+64 union with an AI system is void and shall have no legal
+65 effect.
+66 6. An AI system shall not be designated or appointed
+67 or serve as the chief executive officer, director, owner, or
+68 other similar position for which final authority resides for
+69 any state department, division, or agency, or any
+70 corporation, partnership, or other legal entity.
+71 7. AI systems shall not be recognized as legal
+72 entities capable of owning, controlling, or holding title to
+73 any form of property including, but not limited to, real
+74 estate, intellectual property, financial accounts, and
+75 digital assets. All assets and proprietary interests
+76 generated, managed, or otherwise associated with AI shall be
+77 attributed to the human individuals or legally recognized
+78 organizations responsible for their development, deployment,
+79 or operation.
+80 8. An owner or operator that uses an AI system to
+81 interact with a consumer, client, or patient, shall provide
+82 clear and conspicuous notice that the person is or may be
+83 interacting with an AI system or a person who is
+3
+
+84 concomitantly using an AI system during the course of the
+85 interaction. Notice may be provided in writing or orally.
+86 9. (1) (a) A licensed professional rendering a
+87 regulated service shall exercise independent professional
+88 judgment and retain final authority over any determination,
+89 diagnosis, recommendation, or decision within the scope of
+90 the licensed professional's practice, including for the
+91 purpose of dispensing, prescribing, renewing any
+92 prescription of, administering, or otherwise distributing
+93 medications or controlled substances, regardless of whether
+94 an AI system was used to assist in its preparation. The
+95 requirement to exercise independent professional judgment
+96 does not prohibit the use of an AI system in the course of
+97 performing a regulated service.
+98 (b) Failure by a licensed professional to exercise
+99 independent professional judgment as required by paragraph
+100 (a) of this subdivision shall constitute grounds for
+101 disciplinary action by the relevant licensing authority in
+102 addition to any other remedy available under this section or
+103 under applicable law.
+104 (c) A licensed professional who uses an AI system in
+105 the performance of a regulated service bears the
+106 responsibility of any mistakes resulting from the use of the
+107 AI system in the rendering of such service in the same
+108 manner in which the licensed professional would have been
+109 held liable in a scenario in which an AI system was not used
+110 or relied upon.
+111 (d) A licensed professional providing a regulated
+112 service who unreasonably relies upon any content produced by
+113 an AI system in rendering such a regulated service and such
+114 service thereafter causes any harm, whether direct or
+115 indirect, to the person for whom the service was rendered,
+116 shall be liable for such harm in the same manner in which
+4
+
+117 the licensed professional would have been held liable in a
+118 scenario in which an AI system was not used or relied upon.
+119 An AI system shall not be held liable in any respect for any
+120 harm caused in such a circumstance. Any attempt to shift
+121 fault, in whole or in part, onto the AI system shall be of
+122 no effect.
+123 (e) A developer, manufacturer, owner, or operator
+124 shall not advertise or represent to the public that an AI
+125 system is or is capable of acting as a licensed professional
+126 or is capable of providing any regulated service.
+127 (f) Nothing in this subdivision shall be construed to
+128 prohibit or restrict the use of artificial intelligence as a
+129 tool in professional practice, provided such use is
+130 consistent with this subsection and with applicable
+131 standards of professional care.
+132 (2) The provisions of this subsection shall only apply
+133 to a licensed professional providing a regulated service.
+134 (3) For purposes of this subsection, the following
+135 terms mean:
+136 (a) "Independent professional judgment", the practice
+137 of applying the specialized knowledge, skill, education,
+138 training, and experience of the licensed professional to the
+139 facts, data, reports, history, and other relevant
+140 information to make informed decisions and recommendations;
+141 (b) "Licensing authority", a board, agency, or other
+142 authority in this state that has the power under applicable
+143 law to issue a license, certificate, registration, or other
+144 legal authorization to render a regulated service and
+145 otherwise regulate such services within its scope of
+146 authority;
+147 (c) "Licensed professional", any person required to be
+148 licensed, certified, or registered by a licensing authority
+149 to work in a specific occupation, profession, or activity in
+5
+
+150 the state or political subdivision of this state. "Licensed
+151 professional" does not include any attorney;
+152 (d) "Regulated service", any service practiced by one
+153 of the following professionals:
+154 a. An accountant;
+155 b. An architect or engineer;
+156 c. A podiatrist;
+157 d. A chiropractor;
+158 e. A dentist;
+159 f. An optometrist;
+160 g. A physician, surgeon, doctor of medicine or doctor
+161 of osteopathy;
+162 h. A psychologist;
+163 i. A veterinarian;
+164 j. A registered nurse;
+165 k. Any natural person licensed as a real estate
+166 salesperson;
+167 l. A physical therapist;
+168 m. A teacher of any educational institution in this
+169 state, whether public, private, charter, elementary,
+170 secondary, or higher education;
+171 n. Any individual operating a vehicle that requires a
+172 commercial drivers license;
+173 o. A law enforcement officer;
+174 p. A first responder, as that term is defined in
+175 section 190.1010;
+176 q. An appraiser;
+177 r. A counselor;
+178 s. A pharmacist;
+179 t. A professional counselor.
+180 10. (1) Any contractual term purporting to assign
+181 responsibility for any action exclusively to an AI system is
+182 void as against public policy.
+6
+
+183 (2) An end user shall not be liable under this section
+184 as an owner or operator. An end user shall be liable for
+185 any harm done in connection with the use of an AI system in
+186 the same manner in which the end user would have been held
+187 liable in a scenario in which an AI system was not used.
+188 11. The act of labeling an AI system in a way that
+189 indicates that it is aligned, ethically trained, or value
+190 locked, even if the label does not use one of those terms,
+191 shall not excuse or diminish the owner's or developer's
+192 liability for harms.
+193 12. Liability protections granted under corporate law
+194 shall not be used as a mechanism to evade responsibility for
+195 direct harm caused by AI systems, particularly in cases of
+196 reckless, negligent, or deceptive conduct.
+197 13. Except as specifically provided in subsection 9 of
+198 this section, the provisions of this section shall apply to
+199 all AI systems, including AI systems deployed or operated
+200 within this state by state agencies, political subdivisions,
+201 or contractors acting on behalf of a public entity, to the
+202 extent not otherwise limited by sovereign immunity on or
+203 after August 28, 2026.
+204 14. Nothing in this section shall be construed to
+205 create or expand civil liability as established in any other
+206 provision of law or available under common law.
+207 15. An AI system is a product for the purposes of
+208 product liability and consumer protection actions under the
+209 laws of this state, provided that nothing in this subsection
+210 shall be construed to create or expand civil liability as
+211 established in any other provision of law or available under
+212 common law.
+213 16. Nothing in this section shall be construed to
+214 extend to any AI system, or to the outputs of any AI system,
+215 the constitutional rights, privileges, or immunities of any
+7
+
+216 person that designs, develops, manufactures, owns, or
+217 operates such system. The classification of an AI system as
+218 a non-person under this section does not create any
+219 presumption that the outputs of such system constitute the
+220 protected speech, expression, or other constitutionally
+221 protected activity of any person.
+222 17. Nothing in this section shall be construed to
+223 alter, diminish, or revoke the legal status of any
+224 partnership, association, corporation, body politic, or
+225 other legal entity recognized under the laws of this state.
+226 18. The provisions of this section shall only apply to
+227 a person, operator, or owner who:
+228 (1) Promotes, advertises, or conducts business in this
+229 state;
+230 (2) Produces a product or service used by residents of
+231 this state; or
+232 (3) Develops or deploys an artificial intelligence
+233 system in this state.
+234 19. To the extent that this section conflicts with any
+235 provision of federal law, the relevant provision of federal
+236 law shall prevail over the conflicting provision of this
+237 section.
+238 20. No settlement agreement, consent decree, or other
+239 resolution of any action filed or maintained pursuant to the
+240 provisions of this section shall include any term or
+241 condition that prohibits or restricts a party from
+242 disclosing facts, allegations, evidence, or settlement terms
+243 relating to such action.
+244 21. Any nondisclosure, confidentiality, or similar
+245 provision included in violation of this section shall be
+246 void and unenforceable as contrary to public policy.
+8
+
+247 22. A court of competent jurisdiction shall not
+248 approve, enforce, or incorporate into any judgment any
+249 settlement containing a provision prohibited by this section.
+250 23. Nothing in this section shall prohibit a court
+251 from issuing protective orders necessary to safeguard
+252 personal identifying information, trade secrets, or other
+253 confidential information unrelated to the facts of the
+254 underlying claim.
+255 24. Each subsection of this section, and each portion
+256 of each subsection, is severable. If any provision of this
+257 section or its application to any person or circumstance is
+258 held invalid by a court of competent jurisdiction, the
+259 invalidity does not affect other provisions or applications
+260 of this section that can be given effect without the invalid
+261 provision or application, and to this end the provisions of
+262 this section are severable.
+1 1.2058. 1. For purposes of this section, the
+2 following terms mean:
+3 (1) "Artificial intelligence", a machine-based system
+4 that can, for a given set of human-defined objectives, make
+5 predictions, recommendations or decisions influencing real
+6 or virtual environments. Artificial intelligence systems
+7 use machine and human-based inputs to:
+8 (a) Perceive real and virtual environments;
+9 (b) Abstract such perceptions into models through
+10 analysis in an automated manner; and
+11 (c) Use model inference to formulate options for
+12 information or action;
+13 (2) (a) "Companion chatbot", an artificial
+14 intelligence system with a natural language interface that
+15 provides adaptive, human-like responses to user inputs and
+16 is capable of meeting a user's social needs, including by
+9
+
+17 exhibiting anthropomorphic features and being able to
+18 sustain a relationship across multiple interactions;
+19 (b) "Companion chatbot", does not include any of the
+20 following:
+21 a. A chatbot that is used only for customer service, a
+22 business' operational purposes, productivity and analysis
+23 related to source information, internal research, or
+24 technical assistance;
+25 b. A chatbot that is a feature of a video game and is
+26 limited to replies related to the video game that cannot
+27 discuss topics related to mental health, self-harm, sexually
+28 explicit conduct, or maintain a dialogue on other topics
+29 unrelated to the video game; or
+30 c. A stand-alone consumer electronic device that
+31 functions as a speaker and voice command interface, acts as
+32 a voice-activated virtual assistant, and does not sustain a
+33 relationship across multiple interactions or generate
+34 outputs that are likely to elicit emotional responses in the
+35 user;
+36 (3) "Companion chatbot platform", a platform that
+37 allows a user to engage with companion chatbots;
+38 (4) "Minor", any person seventeen years of age or
+39 younger;
+40 (5) "Operator", a person who makes a companion chatbot
+41 platform available to a user in the state;
+42 (6) "Sexually explicit conduct", actual or simulated:
+43 (a) Sexual intercourse, including genital-genital,
+44 oral-genital, anal-genital, or oral-anal, whether between
+45 persons of the same or opposite sex;
+46 (b) Bestiality;
+47 (c) Masturbation;
+48 (d) Sadistic or masochistic abuse; or
+10
+
+49 (e) Lascivious exhibition of the anus, genitals, or
+50 pubic area of any person;
+51 (7) "Video game", a game played on an electronic
+52 amusement device that utilizes a computer, microprocessor,
+53 or similar electronic circuitry and its own monitor, or is
+54 designed to be used with a television set or a computer
+55 monitor, that interacts with the user of the device.
+56 2. (1) An operator shall issue a clear and
+57 conspicuous notification indicating that the companion
+58 chatbot is artificially generated and not human.
+59 (2) (a) An operator shall prevent a companion chatbot
+60 on its companion chatbot platform from engaging with users
+61 unless the operator maintains a protocol for preventing the
+62 production of suicidal ideation, suicide, self-harm, or harm
+63 to others content to the user, including, but not limited
+64 to, by providing a notification to the user that refers the
+65 user to crisis service providers, including a suicide
+66 hotline or crisis text line, if the user expresses suicidal
+67 ideation, suicide, self-harm, or harm to others.
+68 (b) The operator shall publish details on the protocol
+69 required by this subdivision on the operator's internet
+70 website.
+71 (3) An operator shall:
+72 (a) Disclose to the user that the user is interacting
+73 with artificial intelligence;
+74 (b) Provide by default a clear and conspicuous
+75 notification to the user at least every two hours for
+76 continuing companion chatbot interactions that reminds the
+77 user to take a break and that the companion chatbot is
+78 artificially generated and not human;
+79 (c) With respect to any user who is a minor, institute
+80 reasonable measures to prevent its companion chatbot from
+81 producing visual material of sexually explicit conduct or
+11
+
+82 directly stating that the minor should engage in sexually
+83 explicit conduct.
+84 3. (1) Beginning July 1, 2027, an operator shall
+85 annually report to the department of mental health all of
+86 the following:
+87 (a) The number of times the operator has issued a
+88 crisis service provider referral notification pursuant to
+89 subsection 2 of this section in the preceding calendar year;
+90 (b) Protocols put in place to detect, remove, and
+91 respond to instances of suicidal ideation by users;
+92 (c) Protocols put in place to prohibit a companion
+93 chatbot response about suicidal ideation or actions with the
+94 user; and
+95 (d) Protocols put in place to detect, remove, and
+96 respond to instances of harm to self and others.
+97 (2) The report required by this section shall include
+98 only the information listed in subdivision (1) of this
+99 subsection and shall not include any identifiers or personal
+100 information about users.
+101 (3) The department of mental health shall post data
+102 from a report required by this subsection on its internet
+103 website. The director of the department of mental health
+104 shall prepare an annual report that compiles and analyzes
+105 all information reported to the department pursuant to this
+106 subsection. Such report shall be delivered to the speaker of
+107 the house of representatives and the president pro tempore
+108 of the senate not later than January thirty-first of the
+109 calendar year following the receipt of the data by the
+110 department of mental health.
+111 (4) An operator shall use evidence-based methods for
+112 measuring suicidal ideation.
+113 4. An operator shall disclose to a user of its
+114 companion chatbot platform, on the application, the browser,
+12
+
+115 or any other format that a user can use to access the
+116 companion chatbot platform, that companion chatbots may not
+117 be suitable for minors.
+118 5. A person who suffers injury in fact as a result of
+119 a violation of this section may bring a civil action to
+120 recover all of the following relief:
+121 (1) Injunctive relief;
+122 (2) Damages in an amount equal to the greater of
+123 actual damages or one thousand dollars per violation; and
+124 (3) Reasonable attorney's fees and costs.
+125 6. The duties, remedies, and obligations imposed by
+126 this section are cumulative to the duties, remedies, or
+127 obligations imposed under other law and shall not be
+128 construed to relieve an operator from any duties, remedies,
+129 or obligations imposed under any other law.
+1 130.165. 1. For purposes of this section, the
+2 following terms mean:
+3 (1) "Generative artificial intelligence" or
+4 "generative AI", a machine-based system that can, for a
+5 given set of human-defined objectives, make predictions,
+6 recommendations or decisions influencing real or virtual
+7 environments. Artificial intelligence systems use machine
+8 and human-based inputs to:
+9 (a) Perceive real and virtual environments;
+10 (b) Abstract such perceptions into models through
+11 analysis in an automated manner; and
+12 (c) Use model inference to formulate options for
+13 information or action;
+14 (2) "Metadata", structural or descriptive information
+15 about data such as content, format, source, rights,
+16 accuracy, provenance, periodicity, granularity, publisher or
+17 responsible party, contact information, method of
+18 collection, and other relevant descriptions of the data.
+13
+
+19 2. (1) A political advertisement, electioneering
+20 communication, or other miscellaneous advertisement of a
+21 political nature shall, in addition to any other disclaimer
+22 required by this chapter, contain the disclaimer described
+23 in subdivision (2) of this subsection if it contains images,
+24 video, audio, graphics, or other digital content created, in
+25 whole or in part, with the use of generative artificial
+26 intelligence and:
+27 (a) Appears to depict a real person performing an
+28 action that did not actually occur;
+29 (b) Manipulates the voice or actions of a candidate to
+30 show the candidate, audibly or visually, doing or saying
+31 something that the candidate did not do or say; or
+32 (c) Was created with intent to injure a candidate or
+33 to deceive voters regarding an election or ballot issue.
+34 (2) The disclaimer required by subdivision (1) of this
+35 subsection shall be in substantially the following form:
+36 Created in whole or in part with the use of
+37 generative artificial intelligence (AI). This
+38 (image/audio/video/multimedia) has been edited
+39 and depicts speech or conduct that falsely
+40 appears to be authentic or truthful.
+41 (3) The disclaimer required by subdivision (1) of this
+42 subsection shall meet the following specifications:
+43 (a) For a printed communication, the disclaimer shall
+44 be stated in bold font with a font size of at least twelve
+45 points;
+46 (b) For a television or video communication, the
+47 disclaimer shall be clearly readable throughout the
+48 communication and occupy at least four percent of the
+49 vertical picture height;
+50 (c) For an internet public communication that includes
+51 text or graphic components, the disclaimer shall be viewable
+14
+
+52 without the user taking any action and be large enough to be
+53 clearly readable;
+54 (d) For any audio component of a communication, the
+55 disclaimer shall be at least three seconds in length and
+56 spoken in a clearly audible and intelligible manner at
+57 either the beginning or the end of the audio component of
+58 the communication;
+59 (e) For a graphic communication, the disclaimer shall
+60 be large enough to be clearly readable but no less than four
+61 percent of the vertical height of the communication.
+62 3. The metadata of the communication shall include the
+63 disclosure statement, the identity of the tool used to
+64 create the communication, and the date and time the
+65 communication was created.
+66 4. The disclosure statement, including the disclosure
+67 statement in any metadata, shall, to the extent technically
+68 feasible, be permanent or unable to be easily removed by a
+69 subsequent user.
+70 5. In addition to any civil penalties provided by this
+71 chapter, a person identified pursuant to a disclaimer
+72 required by law as paying for, sponsoring, or approving a
+73 political advertisement, an electioneering communication, or
+74 other miscellaneous advertisement of a political nature that
+75 is required to contain the disclaimer prescribed in this
+76 section and who fails to include the required disclaimer is
+77 guilty of a class A misdemeanor.
+1 573.120. 1. For purposes of this section, "deepfake"
+2 means an artificially generated or manipulated media created
+3 using deep learning models to produce highly realistic but
+4 synthetic representations of people, objects, or events.
+5 2. A person commits the offense of producing a
+6 deepfake if the person discloses, or threatens to disclose a
+7 deepfake of a depicted individual.
+15
+
+8 3. A violation of this section is a class E felony.
+1 Section B. In the event that any section, provision,
+2 clause, phrase, or word of this act or the application
+3 thereof is declared invalid under the Constitution of the
+4 United States or the Constitution of the State of Missouri,
+5 it is the intent of the general assembly that the remaining
+6 sections of this act remain in force and effect as far as
+7 they are capable of being carried into execution as intended
+8 by the general assembly. The general assembly hereby
+9 declares that it would have passed each section, provision,
+10 clause, phrase, or word thereof, irrespective of the fact
+11 that any one or more sections, provisions, clauses, phrases,
+12 or words of this act or the application of this act would be
+13 declared unenforceable, unconstitutional, or invalid.
+16

@@ -1,0 +1,130 @@
+Title: 
+Official Title: 
+Source: versions - 5687S.01I - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SECOND REGULAR SESSION
+SENATE BILL NO. 1012
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR NICOLA.
+5687S.01I KRISTINA MARTIN, Secretary
+AN ACT
+To amend chapters 130 and 573, RSMo, by adding thereto two new sections relating to the use of
+artificially generated content, with penalty provisions.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Chapters 130 and 573, RSMo, are amended by
+2 adding thereto two new sections, to be known as sections 130.165
+3 and 573.120, to read as follows:
+1 130.165. 1. For purposes of this section, the
+2 following terms mean:
+3 (1) "Generative artificial intelligence" or
+4 "generative AI", a machine-based system that can, for a
+5 given set of human-defined objectives, emulate the structure
+6 and characteristics of input data in order to generate
+7 derived synthetic content including images, videos, audio,
+8 text, and other multi-media digital content;
+9 (2) "Metadata", structural or descriptive information
+10 about data such as content, format, source, rights,
+11 accuracy, provenance, periodicity, granularity, publisher or
+12 responsible party, contact information, method of
+13 collection, and other relevant descriptions of the data.
+14 2. (1) A political advertisement, electioneering
+15 communication, or other miscellaneous advertisement of a
+16 political nature shall, in addition to any other disclaimer
+17 required by this chapter, contain the disclaimer described
+
+SB 1012 2
+18 in subdivision (2) of this subsection if it contains images,
+19 video, audio, graphics, or other digital content created, in
+20 whole or in part, with the use of generative artificial
+21 intelligence and:
+22 (a) Appears to depict a real person performing an
+23 action that did not actually occur;
+24 (b) Manipulates the voice or actions of a candidate to
+25 show the candidate, audibly or visually, doing or saying
+26 something that the candidate did not do or say; or
+27 (c) Was created with intent to injure a candidate or
+28 to deceive voters regarding an election or ballot issue.
+29 (2) The disclaimer required by subdivision (1) of this
+30 subsection shall be in substantially the following form:
+31 Created in whole or in part with the use of
+32 generative artificial intelligence (AI). This
+33 (image/audio/video/multimedia) has been edited
+34 and depicts speech or conduct that falsely
+35 appears to be authentic or truthful.
+36 (3) The disclaimer required by subdivision (1) of this
+37 subsection shall meet the following specifications:
+38 (a) For a printed communication, the disclaimer shall
+39 be stated in bold font with a font size of at least twelve
+40 points;
+41 (b) For a television or video communication, the
+42 disclaimer shall be clearly readable throughout the
+43 communication and occupy at least four percent of the
+44 vertical picture height;
+45 (c) For an internet public communication that includes
+46 text or graphic components, the disclaimer shall be viewable
+47 without the user taking any action and be large enough to be
+48 clearly readable;
+
+SB 1012 3
+49 (d) For any audio component of a communication, the
+50 disclaimer shall be at least three seconds in length and
+51 spoken in a clearly audible and intelligible manner at
+52 either the beginning or the end of the audio component of
+53 the communication;
+54 (e) For a graphic communication, the disclaimer shall
+55 be large enough to be clearly readable but no less than four
+56 percent of the vertical height of the communication.
+57 3. The metadata of the communication shall include the
+58 disclosure statement, the identity of the tool used to
+59 create the communication, and the date and time the
+60 communication was created.
+61 4. The disclosure statement, including the disclosure
+62 statement in any metadata, shall, to the extent technically
+63 feasible, be permanent or unable to be easily removed by a
+64 subsequent user.
+65 5. In addition to any civil penalties provided by this
+66 chapter, a person identified pursuant to a disclaimer
+67 required by law as paying for, sponsoring, or approving a
+68 political advertisement, an electioneering communication, or
+69 other miscellaneous advertisement of a political nature that
+70 is required to contain the disclaimer prescribed in this
+71 section and who fails to include the required disclaimer is
+72 guilty of a class A misdemeanor.
+1 573.120. 1. For purposes of this section, the
+2 following terms mean:
+3 (1) "Deepfake", an artificially generated or
+4 manipulated media created using deep learning models to
+5 produce highly realistic but synthetic representations of
+6 people, objects, or events;
+7 (2) "Intimate deepfake", a deepfake that depicts:
+
+SB 1012 4
+8 (a) The uncovered genitals, pubic area, anus, or
+9 postpubescent female nipple of the individual;
+10 (b) The display or transfer of bodily sexual fluids:
+11 a. Onto any part of the body of the individual; or
+12 b. From the body of the individual; or
+13 (c) The individual engaging in sexually explicit
+14 conduct;
+15 (3) "Sexually explicit conduct", actual or simulated:
+16 (a) Sexual intercourse, including genital-genital,
+17 oral-genital, anal-genital, or oral-anal, whether between
+18 persons of the same or opposite sex;
+19 (b) Bestiality;
+20 (c) Masturbation;
+21 (d) Sadistic or masochistic abuse; or
+22 (e) Lascivious exhibition of the genitals or pubic
+23 area of any individual.
+24 2. A person commits the offense of producing a
+25 deepfake if the person discloses, or threatens to disclose:
+26 (1) A deepfake of a depicted individual; or
+27 (2) An intimate deepfake of a depicted individual.
+28 3. (1) A violation of subdivision (1) of subsection 2
+29 of this section is a class E felony.
+30 (2) A violation of subdivision (2) of subsection 2 of
+31 this section is a class B felony.
+✓
