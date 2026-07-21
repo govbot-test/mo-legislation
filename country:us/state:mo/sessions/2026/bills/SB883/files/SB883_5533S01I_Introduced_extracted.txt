@@ -1,0 +1,492 @@
+Title: 
+Official Title: 
+Source: versions - 5533S.01I - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SECOND REGULAR SESSION
+SENATE BILL NO. 883
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR BLACK.
+5533S.01I KRISTINA MARTIN, Secretary
+AN ACT
+To repeal sections 340.200, 340.216, 340.220, and 340.222, RSMo, and to enact in lieu thereof
+five new sections relating to livestock reproductive specialists.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Sections 340.200, 340.216, 340.220, and
+2 340.222, RSMo, are repealed and five new sections enacted in
+3 lieu thereof, to be known as sections 340.200, 340.216, 340.220,
+4 340.222, and 340.295, to read as follows:
+1 340.200. When used in sections 340.200 to 340.330, the
+2 following terms mean:
+3 (1) "Accredited school of veterinary medicine", any
+4 veterinary college or division of a university or college
+5 that offers the degree of doctor of veterinary medicine or
+6 its equivalent and is accredited by the American Veterinary
+7 Medical Association (AVMA);
+8 (2) "Advanced reproductive technologies", processes by
+9 which more offspring of livestock can be propagated to help
+10 multiply the success of breeding and marketing programs;
+11 these technologies include, but are not limited to, in vitro
+12 fertilization (IVF) and embryo transfer (ET);
+13 (3) "Animal", any wild, exotic or domestic, living or
+14 dead animal or mammal other than man, including birds, fish
+15 and reptiles;
+EXPLANATION-Matter enclosed in bold-faced brackets [thus] in this bill is not enacted
+and is intended to be omitted in the law.
+
+SB 883 2
+16 [(3)] (4) "Animal chiropractic", the examination and
+17 treatment of an animal through vertebral subluxation complex
+18 or spinal, joint, or musculoskeletal manipulation by an
+19 animal chiropractic practitioner. The term "animal
+20 chiropractic" shall not be construed to require supervision
+21 by a licensed veterinarian to practice or to allow the
+22 diagnosing of an animal; the performing of surgery; the
+23 dispensing, prescribing, or administering of medications,
+24 drugs, or biologics; or the performance of any other type of
+25 veterinary medicine when performed by an individual licensed
+26 by the state board of chiropractic examiners;
+27 [(4)] (5) "Animal chiropractic practitioner":
+28 (a) A licensed veterinarian; or
+29 (b) An individual who is licensed by the state board
+30 of chiropractic examiners to engage in the practice of
+31 chiropractic, as defined in section 331.010; who is
+32 certified by the AVCA, IVCA, or other equivalent certifying
+33 body; who has graduated from a certification course in
+34 animal chiropractic with not less than two hundred ten hours
+35 of instruction; and whose practice of animal chiropractic
+36 shall be regulated by the state board of chiropractic
+37 examiners under chapter 331;
+38 [(5)] (6) "Applicant", an individual who files an
+39 application to be licensed to practice veterinary medicine
+40 or to be registered as a veterinary technician;
+41 [(6)] (7) "Appointed member of the board", regularly
+42 appointed members of the Missouri veterinary medical board,
+43 not including the state veterinarian who serves on the board
+44 ex officio;
+45 [(7)] (8) "AVCA", the American Veterinary Chiropractic
+46 Association or its successor organization;
+
+SB 883 3
+47 [(8)] (9) "Board", the Missouri veterinary medical
+48 board;
+49 [(9)] (10) "Consulting veterinarian", a veterinarian
+50 licensed in another state, country or territory who gives
+51 advice or demonstrates techniques to a licensed Missouri
+52 veterinarian or group of licensed Missouri veterinarians;
+53 [(10)] (11) "ECFVG certificate", a certificate issued
+54 by the American Veterinary Medical Association Educational
+55 Commission for Foreign Veterinary Graduates or its
+56 successor. The certificate must indicate that the holder of
+57 the certificate has demonstrated knowledge and skill
+58 equivalent to that possessed by a graduate of an accredited
+59 school of veterinary medicine;
+60 (12) "Embryo transfer" or "ET", a process of
+61 administering specific hormonal treatment with follicle
+62 stimulating hormone to a donor animal to cause multiple
+63 follicles to ovulate, breeding the donor using artificial
+64 insemination, and non-surgically collecting the embryos from
+65 the donor's uterus to transfer into a synchronous recipient
+66 who will serve as a surrogate mother, or freezing the embryo
+67 to be implanted at a later date, and including the
+68 administration of lidocaine by caudal epidural on the donor
+69 and recipient animals;
+70 [(11)] (13) "Emergency", when an animal has been
+71 placed in a life-threatening condition and immediate
+72 treatment is necessary to sustain life or where death is
+73 imminent and action is necessary to relieve pain or
+74 suffering;
+75 [(12)] (14) "Faculty member", full professors,
+76 assistant professors, associate professors, clinical
+77 instructors and residents but does not include interns or
+78 adjunct appointments;
+
+SB 883 4
+79 [(13)] (15) "Foreign veterinary graduate", any person,
+80 including foreign nationals and American citizens, who has
+81 received a professional veterinary medical degree from an
+82 AVMA listed veterinary college located outside the
+83 boundaries of the United States, its territories or Canada,
+84 that is not accredited by the AVMA;
+85 (16) "In vitro fertilization" or "IVF", a process of
+86 harvesting unfertilized oocytes directly from the ovaries of
+87 a donor animal by needle aspiration, fertilizing the
+88 retrieved oocytes, and transferring the fertilized oocytes
+89 seven days post fertilization into a recipient animal, or
+90 frozen to be implanted at a later date, and including the
+91 administration of lidocaine by caudal epidural on the donor
+92 and recipient animals;
+93 [(14)] (17) "IVCA", the International Veterinary
+94 Chiropractic Association or its successor organization;
+95 [(15)] (18) "License", any permit, approval,
+96 registration or certificate issued or renewed by the board;
+97 [(16)] (19) "Licensed veterinarian", an individual who
+98 is validly and currently licensed to practice veterinary
+99 medicine in Missouri as determined by the board in
+100 accordance with the requirements and provisions of sections
+101 340.200 to 340.330;
+102 (20) "Livestock", the same as defined in section
+103 277.020, but shall not include ratite birds, including but
+104 not limited to ostrich and emu, or aquatic products as
+105 defined in section 277.024;
+106 (21) "Livestock reproductive specialist", an
+107 individual who is not a registered veterinary technician or
+108 licensed veterinarian but holds at least a master of science
+109 in animal sciences or other equivalent degree with
+110 coursework in reproductive physiology;
+
+SB 883 5
+111 [(17)] (22) "Minimum standards", standards as set by
+112 board rule and which establish the minimum requirements for
+113 the practice of veterinary medicine in the state of Missouri
+114 as are consistent with the intent and purpose of sections
+115 340.200 to 340.330;
+116 [(18)] (23) "Person", any individual, firm,
+117 partnership, association, joint venture, cooperative or
+118 corporation or any other group or combination acting in
+119 concert; whether or not acting as principal, trustee,
+120 fiduciary, receiver, or as any kind of legal or personal
+121 representative or as the successor in interest, assigning
+122 agent, factor, servant, employee, director, officer or any
+123 other representative of such person;
+124 [(19)] (24) "Practice of veterinary medicine", to
+125 represent directly, indirectly, publicly or privately an
+126 ability and willingness to do any act described in
+127 subdivision (32) of this section;
+128 [(20)] (25) "Provisional license", a license issued to
+129 a person while that person is engaged in a veterinary
+130 candidacy program;
+131 [(21)] (26) "Registered veterinary technician", a
+132 person who is formally trained for the specific purpose of
+133 assisting a licensed veterinarian with technical services
+134 under the appropriate level of supervision as is consistent
+135 with the particular delegated animal health care task;
+136 [(22)] (27) "Supervision":
+137 (a) "Immediate supervision", the licensed veterinarian
+138 is in the immediate area and within audible and visual range
+139 of the animal patient and the person treating the patient;
+140 (b) "Direct supervision", the licensed veterinarian is
+141 on the premises where the animal is being treated and is
+142 quickly and easily available and the animal has been
+
+SB 883 6
+143 examined by a licensed veterinarian at such times as
+144 acceptable veterinary medical practice requires consistent
+145 with the particular delegated animal health care task;
+146 (c) "Indirect supervision", the licensed veterinarian
+147 need not be on the premises but has given either written or
+148 oral instructions for the treatment of the animal patient or
+149 treatment protocol has been established and the animal has
+150 been examined by a licensed veterinarian at such times as
+151 acceptable veterinary medical practice requires consistent
+152 with the particular delegated health care task; provided
+153 that the patient is not in a surgical plane of anesthesia
+154 and the licensed veterinarian is available for consultation
+155 on at least a daily basis;
+156 [(23)] (28) "Supervisor", a licensed veterinarian
+157 employing or utilizing the services of a registered
+158 veterinary technician, veterinary intern, temporary
+159 provisional licensee, veterinary medical student,
+160 unregistered assistant or any other individual working under
+161 that veterinarian's supervision;
+162 [(24)] (29) "Temporary license", any temporary
+163 permission to practice veterinary medicine issued by the
+164 board pursuant to section 340.248;
+165 [(25)] (30) "Unregistered assistant", any individual
+166 who is not a registered veterinary technician or licensed
+167 veterinarian and is employed by a licensed veterinarian;
+168 [(26)] (31) "Veterinarian", "doctor of veterinary
+169 medicine", "DVM", "VMD", or equivalent title, a person who
+170 has received a doctor's degree in veterinary medicine from
+171 an accredited school of veterinary medicine or holds a ECFVG
+172 certificate issued by the AVMA;
+173 [(27)] (32) "Veterinarian-client-patient
+174 relationship", the veterinarian has assumed the
+
+SB 883 7
+175 responsibility for making medical judgments regarding the
+176 health of the animal and the need for medical treatment, and
+177 the client, owner or owner's agent has agreed to follow the
+178 instructions of the veterinarian. There is sufficient
+179 knowledge of the animal by the veterinarian to initiate at
+180 least a general or preliminary diagnosis of the medical
+181 condition of the animal. Veterinarian-client-patient
+182 relationship means that the veterinarian has recently seen
+183 and is personally acquainted with the keeping and care of
+184 the animal by virtue of an examination or by medically
+185 appropriate and timely visits to the premises where the
+186 animal is kept. The practicing veterinarian is readily
+187 available for follow-up care in case of adverse reactions or
+188 failure of the prescribed course of therapy;
+189 [(28)] (33) "Veterinary candidacy program", a program
+190 by which a person who has received a doctor of veterinary
+191 medicine or equivalent degree from an accredited school of
+192 veterinary medicine can obtain the practical experience
+193 required for licensing in Missouri pursuant to sections
+194 340.200 to 340.330;
+195 [(29)] (34) "Veterinary facility", any place or unit
+196 from which the practice of veterinary medicine is conducted,
+197 including but not limited to the following:
+198 (a) "Veterinary or animal hospital or clinic", a
+199 facility that meets or exceeds all physical requirements and
+200 minimum standards as established by board rule for
+201 veterinary facilities; provides quality examination,
+202 diagnostic and health maintenance services for medical and
+203 surgical treatment of animals and is equipped to provide
+204 housing and nursing care for animals during illness or
+205 convalescence;
+
+SB 883 8
+206 (b) "Specialty practice or clinic", a facility that
+207 provides complete specialty service by a licensed
+208 veterinarian who has advanced training in a specialty and is
+209 a diplomate of an approved specialty board. A specialty
+210 practice or clinic shall meet all minimum standards which
+211 are applicable to a specialty as established by board rule;
+212 (c) "Central hospital", a facility that meets all
+213 requirements of a veterinary or animal hospital or clinic as
+214 defined in paragraph (a) of this subdivision and other
+215 requirements as established by board rule, and which
+216 provides specialized care, including but not limited to
+217 twenty-four-hour nursing care and specialty consultation on
+218 permanent or on-call basis. A central hospital shall be
+219 utilized primarily on referral from area veterinary
+220 hospitals or clinics;
+221 (d) "Satellite, outpatient or mobile small animal
+222 clinic", a supportive facility owned by or associated with
+223 and has ready access to a full-service veterinary hospital
+224 or clinic or a central hospital providing all mandatory
+225 services and meeting all physical requirements and minimum
+226 standards as established by sections 340.200 to 340.330 or
+227 by board rule;
+228 (e) "Large animal mobile clinic", a facility that
+229 provides examination, diagnostic and preventive medicine and
+230 minor surgical services for large animals not requiring
+231 confinement or hospitalization;
+232 (f) "Emergency clinic", a facility established to
+233 receive patients and to treat illnesses and injuries of an
+234 emergency nature;
+235 [(30)] (35) "Veterinary candidate", a person who has
+236 received a doctor of veterinary medicine or equivalent
+237 degree from an accredited school or college of veterinary
+
+SB 883 9
+238 medicine and who is working under the supervision of a board-
+239 approved licensed veterinarian;
+240 [(31)] (36) "Veterinary intern", a person who has
+241 received a doctor of veterinary medicine or equivalent
+242 degree from an accredited school or college of veterinary
+243 medicine and who is participating in additional clinical
+244 training in veterinary medicine to prepare for AVMA-
+245 recognized certification or specialization;
+246 [(32)] (37) "Veterinary medicine", the science of
+247 diagnosing, treating, changing, alleviating, rectifying,
+248 curing or preventing any animal disease, deformity, defect,
+249 injury or other physical or mental condition, including, but
+250 not limited to, the prescription or administration of any
+251 drug, medicine, biologic, apparatus, application, anesthesia
+252 or other therapeutic or diagnostic substance or technique on
+253 any animal, including, but not limited to, acupuncture,
+254 dentistry, animal psychology, animal chiropractic,
+255 theriogenology, surgery, both general and cosmetic surgery,
+256 any manual, mechanical, biological or chemical procedure for
+257 testing for pregnancy or for correcting sterility or
+258 infertility or to render service or recommendations with
+259 regard to any of the procedures in this subdivision;
+260 [(33)] (38) "Veterinary student preceptee", a person
+261 who is pursuing a veterinary degree in an accredited school
+262 of veterinary medicine which has a preceptor program and who
+263 has completed the academic requirements of such program.
+1 340.216. 1. It is unlawful for any person not
+2 licensed as a veterinarian under the provisions of sections
+3 340.200 to 340.330 to practice veterinary medicine or to do
+4 any act which requires knowledge of veterinary medicine for
+5 valuable consideration, or for any person not so licensed to
+6 hold himself or herself out to the public as a practitioner
+
+SB 883 10
+7 of veterinary medicine by advertisement, the use of any
+8 title or abbreviation with the person's name, or otherwise;
+9 except that nothing in sections 340.200 to 340.330 shall be
+10 construed as prohibiting:
+11 (1) Any person from gratuitously providing emergency
+12 treatment, aid or assistance to animals where a licensed
+13 veterinarian is not available within a reasonable length of
+14 time if the person does not represent himself or herself to
+15 be a veterinarian or use any title or degree appertaining to
+16 the practice thereof;
+17 (2) Acts of a person who is a student in good standing
+18 in a school or college of veterinary medicine or while
+19 working as a student preceptee, in performing duties or
+20 functions assigned by the student's instructors, or while
+21 working under the appropriate level of supervision of a
+22 licensed veterinarian as is consistent with the particular
+23 delegated animal health care task as established by board
+24 rule, and acts performed by a student in a school or college
+25 of veterinary medicine recognized by the board and performed
+26 as part of the education and training curriculum of the
+27 school under the supervision of the faculty. The
+28 unsupervised or unauthorized practice of veterinary
+29 medicine, even though on the premises of a school or college
+30 of veterinary medicine, is prohibited;
+31 (3) Personnel employed by the United States Department
+32 of Agriculture or the Missouri department of agriculture
+33 from engaging in animal disease, parasite control or
+34 eradication programs, or other functions specifically
+35 required and authorized to be performed by unlicensed
+36 federal or state officials under any lawful act or statute,
+37 except that this exemption shall not apply to such persons
+
+SB 883 11
+38 not actively engaged in performing or fulfilling their
+39 official duties and responsibilities;
+40 (4) Any merchant or manufacturer from selling drugs,
+41 medicine, appliances or other products used in the
+42 prevention or treatment of animal diseases if such drug,
+43 medicine, appliance or other product is not marked by the
+44 appropriate federal label. Such merchants or manufacturers
+45 shall not, either directly or indirectly, attempt to
+46 diagnose a symptom or disease in order to advise treatment,
+47 use of drugs, medicine, appliances or other products;
+48 (5) The owner of any animal or animals and the owner's
+49 full-time employees from caring for and treating any animals
+50 belonging to such owner, with or without the advice and
+51 consultation of a licensed veterinarian, provided that the
+52 ownership of the animal or animals is not transferred, or
+53 employment changed, to avoid the provisions of sections
+54 340.200 to 340.330; however, only a licensed veterinarian
+55 may immunize or treat an animal for diseases which are
+56 communicable to humans and which are of public health
+57 significance, except as otherwise provided for by board rule;
+58 (6) Any person qualified as a livestock reproductive
+59 specialist, acting under indirect supervision of a licensed
+60 veterinarian, while performing advanced reproductive
+61 technologies on livestock;
+62 (7) Any graduate of any accredited school of
+63 veterinary medicine while engaged in a veterinary candidacy
+64 program or foreign graduate from a nonaccredited school or
+65 college of veterinary medicine while engaged in a veterinary
+66 candidacy program or clinical evaluation program, and while
+67 under the appropriate level of supervision of a licensed
+68 veterinarian performing acts which are consistent with the
+69 particular delegated animal health care task;
+
+SB 883 12
+70 [(7)] (8) State agencies, accredited schools,
+71 institutions, foundations, business corporations or
+72 associations, physicians licensed to practice medicine and
+73 surgery in all its branches, graduate doctors of veterinary
+74 medicine, or persons under the direct supervision thereof
+75 from conducting experiments and scientific research on
+76 animals in the development of pharmaceuticals, biologicals,
+77 serums, or methods of treatment, or techniques for the
+78 diagnosis or treatment of human ailments, or when engaged in
+79 the study and development of methods and techniques directly
+80 or indirectly applicable to the problems of the practice of
+81 veterinary medicine;
+82 [(8)] (9) Any veterinary technician, duly registered
+83 by, and in good standing with, the board from administering
+84 medication, appliances or other products for the treatment
+85 of animals while under the appropriate level of supervision
+86 as is consistent with the delegated animal health care task;
+87 [(9)] (10) A consulting veterinarian while working in
+88 a consulting capacity in Missouri while under the immediate
+89 supervision of a veterinarian licensed and in good standing
+90 under sections 340.200 to 340.330; and
+91 [(10)] (11) Any animal chiropractic practitioner from
+92 engaging in the practice of animal chiropractic if the
+93 animal chiropractic practitioner has received a referral of
+94 the animal from a licensed veterinarian with a current
+95 veterinarian-client-patient relationship, as defined in
+96 section 340.200. The referring veterinarian may limit the
+97 number of visits or length of treatment at the time of
+98 referral or after consultation with the animal chiropractic
+99 practitioner.
+100 2. Nothing in sections 340.200 to 340.330 shall be
+101 construed as limiting the board's authority to provide other
+
+SB 883 13
+102 exemptions or exceptions to the requirements of licensing as
+103 the board may find necessary or appropriate under its
+104 rulemaking authority.
+1 340.220. It is considered the practice of veterinary
+2 medicine to use any invasive procedure to remove any embryo
+3 or oocyte from an animal for the purpose of transplanting
+4 such embryo or fertilized oocyte into another female animal
+5 or for the purpose of cryopreserving such embryo, or to
+6 implant such embryo into an animal. It is not considered
+7 the practice of veterinary medicine for:
+8 (1) A person or that person's full-time employees to
+9 remove an embryo from the person's own animal for the
+10 purpose of transplanting or cryopreserving such embryo or to
+11 implant an embryo into the person's own animal; however,
+12 ownership of the animal shall not be transferred or the
+13 employment of any person changed for the purpose of
+14 circumventing sections 340.200 to 340.330; or
+15 (2) A livestock reproductive specialist trained in
+16 advanced reproductive technologies to remove an embryo or
+17 oocyte from livestock for the purpose of transplanting such
+18 embryo into another female livestock animal or for the
+19 purpose of cryopreserving such embryo, or to implant such
+20 embryo into a livestock animal while under indirect
+21 supervision of a licensed veterinarian.
+1 340.222. 1. A supervisor, as defined in subdivision
+2 [(23)] (28) of section 340.200, is individually and
+3 separately responsible and liable for the performance of the
+4 acts delegated to and the omissions of the veterinary
+5 technician, veterinary medical candidate, temporary
+6 licensee, veterinary medical preceptee, livestock
+7 reproductive specialist, unregistered assistant or any other
+8 individual working under his or her supervision.
+
+SB 883 14
+9 2. Nothing in this section shall be construed to
+10 relieve veterinary technicians, veterinary medical
+11 candidates, provisional licensees, temporary licensees,
+12 veterinary medical preceptees, livestock reproductive
+13 specialist, or unregistered assistants of any responsibility
+14 or liability for any of their own acts or omissions.
+1 340.295. 1. A person holding a doctorate from an
+2 accredited college or university with emphasis on animal
+3 reproductive physiology, or a master of science degree from
+4 an accredited college or university with emphasis on animal
+5 reproductive physiology, and who holds membership in a
+6 nationally recognized organization that acknowledges persons
+7 performing embryo transfer or in vitro fertilization, such
+8 as the American Embryo Transfer Association, may provide
+9 advanced reproductive technologies to livestock under
+10 indirect supervision of a licensed veterinarian.
+11 2. A person with the educational attainment identified
+12 in subsection 1 of this section, who is not a member of a
+13 nationally recognized organization that acknowledges persons
+14 performing embryo transfer or in vitro fertilization, may
+15 qualify as a livestock reproductive specialist by
+16 examination, and upon successful certification examination
+17 under subsection 3 of this section, may provide advanced
+18 reproductive technologies to livestock under indirect
+19 supervision of a licensed veterinarian.
+20 3. (1) There is established a committee, appointed
+21 and overseen by the board, to be known as the "Certification
+22 Examination Committee" to be comprised of three members, as
+23 follows: a veterinarian designated by the dean of
+24 University of Missouri College of Veterinary Medicine; an
+25 animal scientist with a doctorate with an emphasis on animal
+26 reproductive physiology designated by the dean of the
+
+SB 883 15
+27 University of Missouri College of Agriculture, Food and
+28 Natural Resources; and an animal embryologist designated by
+29 the American Embryo Transfer Association. A term of
+30 appointment of each member shall be for four years and shall
+31 not exceed two terms.
+32 (2) The certification examination and continuing
+33 education of livestock reproductive specialists under this
+34 section shall be approved by the committee under this
+35 subsection, including, but not limited to, proof of at least
+36 eight hours of continuing education from courses and study
+37 approved by the committee shall be required for annual
+38 certification renewal as a livestock reproduction specialist.
+✓

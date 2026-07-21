@@ -1,0 +1,403 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+SECOND REGULAR SESSION
+HOUSE BILL NO. 3289
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE PARKER.
+7148H.02I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To repeal sections 476.001, 476.015, 476.050, 476.055, 476.056, 476.1000, 476.1025,
+478.250, 483.082, 483.390, 509.520, 510.030, and 561.031, RSMo, and section
+483.140 as enacted by house bill no. 1231, ninety-seventh general assembly, second
+regular session, and section 483.140 as enacted by house bill nos. 1665 & 1335,
+ninety-seventh general assembly, second regular session, and to enact in lieu thereof
+eleven new sections relating to court operations.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Sections 476.001, 476.015, 476.050, 476.055, 476.056, 476.1000,
+2 476.1025, 478.250, 483.082, 483.390, 509.520, 510.030, and 561.031, RSMo, and section
+3 483.140 as enacted by house bill no. 1231, ninety-seventh general assembly, second regular
+4 session, and section 483.140 as enacted by house bill nos. 1665 & 1335, ninety-seventh
+5 general assembly, second regular session, are repealed and eleven new sections enacted in
+6 lieu thereof, to be known as sections 476.050, 476.055, 476.056, 476.1025, 478.250, 483.005,
+7 483.082, 483.140, 483.390, 509.520, and 510.030, to read as follows:
+476.050. All writs, process, proceedings and records in any court, and in all inferior
+2 tribunals established by law, shall be in the English language, except that the proper and
+3 known names of process and technical words may be expressed in the language heretofore
+4 and now commonly used, and shall be made in a fair, legible character, in words at length,
+5 and not abbreviated; but such abbreviations as are now commonly used in the English
+6 language may be used, and numbers may be expressed by Arabic figures or Roman numerals,
+7 in the customary way. Notwithstanding [the foregoing] any other provision of law to the
+8 contrary, such writs, processes, proceedings and records may be filed, submitted, stored, and
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 3289 2
+9 maintained in an electronic format or otherwise in the manner provided by supreme court
+10 rule.
+476.055. 1. There is hereby established in the state treasury the "Statewide Court
+2 Automation Fund". All moneys collected pursuant to section 488.027, as well as gifts,
+3 contributions, devises, bequests, and grants received relating to statewide court automation
+4 [of judicial record keeping], and moneys received by the [judicial system] judiciary for the
+5 dissemination of information [and], sales of publications, or other provision of electronic
+6 services developed relating to statewide court automation [of judicial record keeping], as
+7 authorized by the court automation committee, shall be credited to the fund. Moneys
+8 credited to this fund may only be used for the purposes set forth in this section and as
+9 appropriated by the general assembly. Any unexpended balance remaining in the statewide
+10 court automation fund at the end of each biennium shall not be subject to the provisions of
+11 section 33.080 requiring the transfer of such unexpended balance to general revenue.
+12 2. The statewide court automation fund shall be administered by a court automation
+13 committee consisting of the following[: the chief justice of the supreme court,] members:
+14 (1) A judge from the court of appeals, four circuit judges, four associate circuit
+15 judges, four employees of [the circuit court,] circuit courts, and two employees who work
+16 full time in a municipal division of a circuit court, [the commissioner of administration,] each
+17 of whom shall be appointed by the chief justice of the Missouri supreme court;
+18 (2) Two members of the Missouri Bar, appointed by the governors of the
+19 Missouri Bar;
+20 (3) Two members of the house of representatives appointed by the speaker of the
+21 house, with one member being from the majority party and one member being from the
+22 minority party;
+23 (4) Two members of the senate appointed by the president pro [tem] tempore of the
+24 senate, with one member being from the majority party and one member being from the
+25 minority party; and
+26 (5) Four additional ex officio members as follows:
+27 (a) The chief justice of the Missouri supreme court, or the chief justice's
+28 designee;
+29 (b) The commissioner of administration, or the commissioner's designee;
+30 (c) The executive director of the Missouri [Office of Prosecution Services,] office of
+31 prosecution services, or the executive director's designee; and
+32 (d) The director of the state public defender system, [and two members of the
+33 Missouri Bar. The judge members and employee members shall be appointed by the chief
+34 justice. The commissioner of administration shall serve ex officio. The members of the
+35 Missouri Bar shall be appointed by the board of governors of the Missouri Bar. Any member
+
+HB 3289 3
+36 of the committee may designate another person to serve on the committee in place of the
+37 committee member] or the director's designee.
+38
+39 The appointed members of the committee shall serve for terms of two years and until
+40 their successors are appointed and qualified. The members of the committee shall be
+41 reimbursed from the statewide court automation fund for their actual expenses in
+42 performing their official duties on the committee.
+43 3. The committee shall develop and [implement a plan for] maintain a statewide
+44 court automation system. The committee shall have the authority to hire consultants, review
+45 systems in other jurisdictions,and purchase goods and services to administer the provisions of
+46 this section. The committee may implement [one or more] pilot projects in the state [for the
+47 purposes of determining the feasibility of developing and implementing such plan. The
+48 members of the committee shall be reimbursed from the court automation fund for their actual
+49 expenses in performing their official duties on the committee] at any time.
+50 4. Any purchase of computer software or computer hardware that exceeds five
+51 thousand dollars shall be made pursuant to the requirements of the office of administration for
+52 lowest and best bid. Such bids shall be subject to acceptance by the office of administration.
+53 The court automation committee shall determine the specifications for such bids.
+54 5. The court automation committee shall not require any circuit court to change any
+55 operating system in such court, unless the committee provides all [necessary] personnel,
+56 funds, and equipment necessary to effectuate the required changes. No judicial circuit or
+57 county may be reimbursed for any costs incurred pursuant to this subsection unless such
+58 judicial circuit or county has the approval of the court automation committee prior to
+59 incurring the specific cost.
+60 6. [Any] The court automation system, including any pilot project, shall be
+61 [implemented,] operated and maintained in accordance with strict standards for the security
+62 and privacy of confidential judicial records, as provided by supreme court rule. Any
+63 person who knowingly releases information from a confidential judicial record is guilty of a
+64 class B misdemeanor. Any person who, knowing that a judicial record is confidential, uses
+65 information from such confidential record for financial gain is guilty of a class E felony.
+66 7. [On the first day of February, May, August and November] No later than the
+67 fifteenth of January of each year, the court automation committee shall electronically file a
+68 report on the progress of the statewide court automation system with the chairs of the
+69 following committees:
+70 (1) The [chair of the] house budget committee, or its successor committee;
+71 (2) The [chair of the] senate appropriations committee, or its successor committee;
+72 (3) The [chair of the] house judiciary committee, or its successor committee; and
+
+HB 3289 4
+73 (4) The [chair of the] senate judiciary committee, or its successor committee.
+74 [8. The court automation committee established pursuant to this section may continue
+75 to function until completion of its duties prescribed by this section.]
+476.056. [1.] Any city, county, village, or other municipality may provide for the
+2 automation of its municipal court [pursuant to] as part of the statewide court automation
+3 system established under subsection 3 of section 476.055, in the manner provided in this
+4 section. In order to make such provisions, such municipality must:
+5 (1) Adopt an ordinance imposing the surcharge in the amount allowed, and payable in
+6 the manner provided, by section [476.053] 488.027, and sections 488.010 to 488.020;
+7 (2) Enter into an agreement with the state courts administrator for automation of the
+8 municipality's court. Such agreement may provide for continuation of the surcharge for a
+9 minimum period of time, payable to the fund established by section 476.055[, or a special
+10 fund established in the state treasury for such purpose upon expiration of section 476.055,];
+11 for payment of a guaranteed minimum annual amount in the event that payment of such
+12 surcharges shall not offset the cost of the automation of the municipality's court; and such
+13 other terms as may be agreed on between the municipality and the state courts administrator.
+14 [2. Notwithstanding the provisions of section 476.053, the payment of any surcharge
+15 provided by this section may continue for a period in excess of that allowed by section
+16 476.053 for payment of surcharges in the circuit courts. The provisions of section 33.080
+17 shall not apply to any special fund established pursuant to this section.]
+476.1025. A parent, spouse, child, or personal representative of a person who was
+2 convicted of a misdemeanor offense may file a motion with the court in which the person was
+3 convicted to have the record of such offense made confidential in [any automated case
+4 management] the statewide court automation system if such person has been deceased for
+5 six months or more. Upon such motion accompanied by a copy of the death certificate of the
+6 deceased person, the court shall make the case confidential. Prior to making the case
+7 confidential, the court shall determine whether any person would be unfairly prejudiced by
+8 making such record confidential in any automated case management system.
+478.250. 1. Until otherwise provided by court rule authorized by the constitution or
+2 by court order authorized by law, cases shall continue to be filed in the same places and the
+3 same filing, docketing and assignment of case procedures shall apply as were in effect on
+4 January 1, 1979, with respect to the same categories of cases.
+5 2. In those counties with centralized filing, if a case is within those categories of cases
+6 enumerated in subdivisions (1) and (2) of subsection 1 of section 517.011, the plaintiff when
+7 filing the case may designate at the time of filing that the case shall be heard and determined
+8 under the civil practice and procedure applicable before circuit judges, and in such event the
+9 case shall be heard and determined by a circuit judge unless an associate circuit judge shall be
+
+HB 3289 5
+10 assigned or transferred to hear and determine the case [pursuant to] under section 478.240 or
+11 478.245 or Section 6 of Article V of the Constitution. If no such designation is made, the case
+12 shall be heard and determined under chapter 517.
+13 3. In the assignment of cases to associate circuit judges in circuit courts with more
+14 than one resident associate circuit judge, insofar as is reasonably possible and consistent with
+15 the proper administration of justice, assignments made either pursuant to local circuit court
+16 rule or by the presiding judge:
+17 (1) Shall not effect an assignment of the cause from the courthouse where the case is
+18 filed to another courthouse in the county for hearing without the consent of the parties shown
+19 except for good cause shown; and
+20 (2) Shall be made in such manner as will assure that when a litigant or counsel
+21 simultaneously file a number of cases of a similar character to be heard before an associate
+22 circuit judge, such cases will be assigned as a group to a single associate circuit judge or in
+23 such other manner as will reasonably assure that they will be processed and heard without
+24 setting or return date conflicts which would require counsel to appear on multiple occasions
+25 or at conflicting times.
+26 4. The provisions of subsection 3 of this section shall apply as to assignments made
+27 where a centralized docketing procedure has been adopted by local court order under the
+28 provisions of subsection 4 of section 478.245.
+483.005. As used in this chapter and section 476.055, the following terms mean:
+2 (1) "Case record", all records in a case file relating to a specific case or
+3 controversy, as defined in supreme court rule;
+4 (2) "Confidential information":
+5 (a) The full date of birth of any party or minor child;
+6 (b) The full Social Security number of any party or any minor child;
+7 (c) The driver's license number, state identification number, taxpayer
+8 identification number, and passport number of any party;
+9 (d) The full financial institution account number, credit or debit card number,
+10 personal identification number, or password used to secure any such accounts or cards,
+11 of any party;
+12 (e) The name and address of any individual who is known to be a minor child
+13 and, if applicable, any next friend of the minor child; or
+14 (f) Any other information sealed, expunged, or closed under statute, supreme
+15 court rule, or order of a court of record;
+16 (3) "Confidential record" or "confidential judicial record", as such term is
+17 defined in Missouri supreme court rules;
+18 (4) "Minor child", a person under eighteen years of age, except for:
+
+HB 3289 6
+19 (a) An emancipated minor as defined in section 302.178;
+20 (b) A juvenile who has been certified to stand trial as an adult for offenses under
+21 section 211.071; or
+22 (c) A juvenile fifteen and one-half years of age or older who is alleged to have
+23 violated a state or municipal traffic ordinance or regulation.
+483.082. 1. Notwithstanding [the provision of] any other [statute] provision of law
+2 to the contrary, it shall be the duty of the clerks of all courts to keep such records of the courts
+3 and in such a manner as may be directed by rule of the supreme court so that they shall
+4 accurately record all essential matters relating to the causes and matters within the jurisdiction
+5 of the court which are and have been pending before the court, including pleadings, motions
+6 and related documents, transactions, orders and judgments or decrees related thereto showing
+7 the course and disposition of causes and matters, the taxing and collection of court costs, and
+8 the setting of trial calendars or dockets of pending cases.
+9 2. Recognizing that improved methods and systems of keeping records and data have
+10 been and will continue to be developed from time to time and that all court clerks should be
+11 empowered to utilize improved methods, systems, and techniques of keeping records of
+12 essential matters, and notwithstanding [the provisions of any other statute] any other
+13 provision of law to the contrary, the methods, form,and systems of keeping all such files and
+14 records shall be as directed and approved by rule of the supreme court.
+15 3. Subject to the provisions of the supreme court rules and the supervisory
+16 jurisdiction of the supreme court, confidential information and confidential records in a
+17 case record shall be maintained so as to be inaccessible to the general public under
+18 supreme court rules governing access to records of the judicial branch of Missouri.
+[483.140. It shall be the special duty of every judge of a court of
+2 record to examine into and superintend the manner in which the rolls and
+3 records of the court are made up and kept; to prescribe orders that will procure
+4 uniformity, regularity and accuracy in the transaction of the business of the
+5 court; to require that the records and files be properly maintained and entries
+6 be made at the proper times as required by law or supreme court rule, and that
+7 the duties of the clerks be performed according to law and supreme court rule;
+8 and if any clerk fail to comply with the law, the court shall proceed against him
+9 as for a misdemeanor. The provisions of this section shall not be construed to
+10 permit the adoption of any local court rule that grants a judge the discretion to
+11 remove or direct the removal of any pleading, file, or communication from a
+12 court file or record without the agreement of all parties.]
+483.140. It shall be the special duty of every judge of a court of record to examine
+2 into and superintend the manner in which the rolls and records of the court are made up and
+3 kept; to prescribe orders that will procure uniformity, regularity and accuracy in the
+4 transaction of the business of the court; to require that the records and files be properly
+
+HB 3289 7
+5 maintained and entries be made at the proper times as required by law or supreme court rule,
+6 and that the duties of the clerks be performed according to law and supreme court rule; and if
+7 any clerk fail to comply with the law, the court shall proceed against [him] the clerk as for a
+8 misdemeanor. The provisions of this section shall not be construed to permit the adoption of
+9 any local court rule that grants a judge the discretion to remove or direct the removal of any
+10 pleading, file, or communication from a court file or record without notification to the parties
+11 and [providing the parties] an opportunity for the parties to respond.
+483.390. 1. In all civil actions any party interested therein may, upon payment of the
+2 fees, have any or all of the following [papers recorded] documents filed in the office of the
+3 clerk of the circuit court in the county in which such action is brought: Petitions, summons,
+4 affidavit for publication of notice to nonresident or unknown defendants, sheriff's, or other
+5 officer's, return of service to summons, proof of publication of notices to nonresident or
+6 unknown defendants, answers, motions, notices of sale of property involved and proof of its
+7 publication, return of sale by any sheriff, commissioner, or other officer, in case of sale of real
+8 estate, affidavit of commissioner, notice to parties by commissioner in partition, and any other
+9 [paper] document or pleading tending to show the service on the defendants for their
+10 appearance in such case.
+11 2. The clerk of the circuit court shall charge the sum of ten cents per one hundred
+12 words for the [recording of papers] filing of documents as provided in this section, which
+13 sum shall be paid into the county treasury.
+509.520. 1. Notwithstanding any other provision of law to the contrary, beginning
+2 August 28, [2023] 2026, pleadings, attachments, or exhibits filed with the court in any case,
+3 as well as any judgments [or orders] issued by the court, [or other records of the court] shall
+4 not include [the following confidential and personal identifying information]:
+5 (1) The full Social Security number of any party or any child who is the subject of
+6 an order of custody or support; or
+7 (2) The full credit card number[, financial institution account number, personal
+8 identification number, or password used to secure an account] or other financial account
+9 number of any party[;
+10 (3) The full motor vehicle operator license number;
+11 (4) Victim information, including the name, address, and other contact information of
+12 the victim;
+13 (5) Witness information, including the name, address, and other contact information
+14 of the witness;
+15 (6) Any other full state identification number;
+16 (7) The name, address, and date of birth of a minor and, if applicable, any next friend;
+17 or
+
+HB 3289 8
+18 (8) The full date of birth of any party; however, the year of birth shall be made
+19 available, except for a minor.
+20 2. The information provided under subsection 1 of this section shall be provided in a
+21 confidential information filing sheet contemporaneously filed with the court or entered by the
+22 court, which shall not be subject to public inspection or availability.
+23 3. Nothing in this section shall preclude an entity including, but not limited to, a
+24 financial institution, insurer, insurance support organization, or consumer reporting agency
+25 that is otherwise permitted by law to access state court records from using a person's unique
+26 identifying information to match such information contained in a court record to validate that
+27 person's record.
+28 4. The Missouri supreme court shall promulgate rules to administer this section].
+29 [5.] 2. Contemporaneously with the filing of every petition for dissolution of
+30 marriage, legal separation, motion for modification, action to establish paternity, and petition
+31 or motion for support or custody of a minor child, the filing party shall file a confidential case
+32 filing sheet with the court which shall not be subject to public inspection and which provides:
+33 (1) The name and address of the current employer and the Social Security number of
+34 the petitioner or movant, if a person;
+35 (2) If known to the petitioner or movant, the name and address of the current
+36 employer and the Social Security number of the respondent; and
+37 (3) The names, dates of birth, and Social Security numbers of any children subject to
+38 the action.
+39 [6.] 3. Contemporaneously with the filing of every responsive pleading petition for
+40 dissolution of marriage, legal separation, motion for modification, action to establish
+41 paternity, and petition or motion for support or custody of a minor child, the responding party
+42 shall file a confidential case filing sheet with the court which shall not be subject to public
+43 inspection and which provides:
+44 (1) The name and address of the current employer and the Social Security number of
+45 the responding party, if a person;
+46 (2) If known to the responding party, the name and address of the current employer
+47 and the Social Security number of the petitioner or movant; and
+48 (3) The names, dates of birth, and Social Security numbers of any children subject to
+49 the action.
+50 [7.] 4. The full Social Security number of any party or child subject to an order of
+51 custody or support shall be retained by the court on the confidential case filing sheet or other
+52 confidential record maintained in conjunction with the administration of the case. The full
+53 credit card number or other financial account number of any party may be retained by the
+
+HB 3289 9
+54 court on a confidential record if it is necessary to maintain the number in conjunction with the
+55 administration of the case.
+56 [8.] 5. Any document described in subsection 1 of this section shall, in lieu of the full
+57 number, include only the last four digits of any such number.
+58 [9.] 6. Except as provided in section 452.430, the clerk shall not be required to redact
+59 any document described in subsection 1 of this section issued or filed before August 28, 2009,
+60 prior to releasing the document to the public.
+61 [10.] 7. For good cause shown, the court may release information contained on the
+62 confidential case filing sheet; except that, any state agency acting under authority of chapter
+63 454 shall have access to information contained herein without court order in carrying out their
+64 official duty.
+510.030. 1. Upon motion of any party showing good cause therefor and upon notice
+2 to all other parties, the court in which an action is pending may:
+3 (1) Order any party to produce and permit the inspection and copying or
+4 photographing, by or on behalf of the moving party, of any designated documents, papers,
+5 books, accounts, letters, photographs, objects, or tangible things, not privileged, which
+6 constitute or contain evidence material to any matter involved in the action and which are in
+7 [his] the party's possession, custody, or control; or
+8 (2) Order any party to permit entry upon designated land or other property in [his] the
+9 party's possession or control for the purpose of inspecting, measuring, surveying, sampling,
+10 or photographing the property or any designated relevant object or operation thereon. The
+11 order shall specify the time, place, and manner of making the inspection and taking the copies
+12 and photographs and may prescribe such terms and conditions as are just.
+13 2. A party may obtain without the required showing a statement concerning the action
+14 or its subject matter previously made by that party. For purposes of this subsection, a
+15 statement previously made is a written statement signed or otherwise adopted or approved by
+16 the person making it, or a stenographic, mechanical, electrical, audio, video, motion picture or
+17 other recording, or a transcription thereof, of the party or of a statement made by the party and
+18 contemporaneously recorded.
+[476.001. An efficient, well operating and productive judiciary is
+2 essential to the preservation of the people's liberty and prosperity. In order to
+3 achieve this goal, the general assembly and the supreme court must constantly
+4 be aware of the operations, needs, strengths and weaknesses of the judicial
+5 system. It is the purpose of sections 476.001, 476.055, 476.330 to 476.380,
+6 476.412, 476.681, and 477.405 to provide the general assembly and the
+7 supreme court with the mechanisms to obtain on a continuing basis a
+8 comprehensive analysis of judicial resources and an efficient and organized
+9 method of identifying the problems and needs as they occur. It is the further
+
+HB 3289 10
+10 purpose of sections 476.001, 476.055, 476.330 to 476.380, 476.412, 476.681,
+11 477.405, 478.073, and 478.320 to provide a system for the efficient allocation
+12 of available personnel, facilities and resources to achieve a uniform and
+13 effective operation of the judicial system.]
+[476.015. House Bill 1634 of the 2nd regular session of the 79th
+2 general assembly shall be known and may be cited as the "Court Reform and
+3 Revision Act of 1978".]
+[476.1000. All courts that require mandatory electronic filing shall
+2 accept, file, and docket a notice of entry of appearance filed by an attorney in a
+3 criminal case if such filing does not exceed one page in length and was sent by
+4 fax or regular mail. The provisions of this section shall expire on December
+5 31, 2016.]
+[561.031. 1. In the following proceedings, the provisions of section
+2 544.250, 544.270, 544.275, 546.030, or of any other statute, or the provisions
+3 of supreme court rules 21.10, 22.07, 24.01, 24.02, 27.01, 29.07, 31.02, 31.03,
+4 36.01, 37.16, 37.47, 37.48, 37.50, 37.57, 37.58, 37.59, and 37.64 to the
+5 contrary notwithstanding, when the physical appearance in person in court is
+6 required of any person, such personal appearance may be made by means of
+7 two-way audio-visual communication, including but not limited to closed
+8 circuit television or computerized video conferencing; provided that such
+9 audio-visual communication facilities provide two-way audio-visual
+10 communication between the court and the person:
+11 (1) First appearance before an associate circuit judge on a criminal
+12 complaint;
+13 (2) Waiver of preliminary hearing and preliminary hearing with
+14 consent of the defendant;
+15 (3) Arraignment on an information or indictment where a plea of not
+16 guilty is entered;
+17 (4) Arraignment on an information or indictment where a plea of
+18 guilty is entered upon waiver of any right such person might have to be
+19 physically present;
+20 (5) Any pretrial or posttrial criminal proceeding not allowing the
+21 cross-examination of witnesses;
+22 (6) Sentencing after conviction at trial upon waiver of any right such
+23 person might have to be physically present;
+24 (7) Sentencing after entry of a plea of guilty;
+25 (8) Any civil proceeding other than trial by jury;
+26 (9) Any civil or criminal proceeding which is not required to be a
+27 matter of record; and
+28 (10) Any civil or criminal proceeding by the consent of the parties.
+29 2. This section shall not prohibit other appearances via closed circuit
+30 television upon waiver of any right such person held in custody or
+31 confinement might have to be physically present.
+32 3. Nothing contained in this section shall be construed as establishing
+33 a right for any person held in custody to appear on television or as requiring
+
+HB 3289 11
+34 that any governmental entity or place of custody or confinement provide a
+35 two-way audio-visual communication system.]
+✔
