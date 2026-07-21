@@ -1,0 +1,42 @@
+Title: 
+Official Title: 
+Source: versions - 7472S.01I - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SECOND REGULAR SESSION
+SENATE BILL NO. 1804
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR BECK.
+7472S.01I KRISTINA MARTIN, Secretary
+AN ACT
+To amend chapter 324, RSMo, by adding thereto one new section relating to administrative rules
+for prescription authority of certain health care professionals.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Chapter 324, RSMo, is amended by adding thereto
+2 one new section, to be known as section 324.049, to read as
+3 follows:
+1 324.049. 1. The board of registration for the healing
+2 arts, the Missouri dental board, the board of nursing, and
+3 the board of pharmacy shall not grant any regulatory
+4 mitigation or waive or modify any rules related to
+5 dispensing, prescribing, including prescription renewals,
+6 administering, or otherwise distributing medications or
+7 controlled substances to a person or business developing,
+8 creating, or generating artificial intelligence for the use
+9 of dispensing, prescribing, including prescription renewals,
+10 administering, or otherwise distributing medications or
+11 controlled substances.
+12 2. As used in this section, the term "artificial
+13 intelligence" means an artificial intelligence technology
+14 system that:
+15 (1) Is trained on data;
+16 (2) Is designed to simulate human conversation with a
+17 consumer through text, audio, or visual communication; and
+
+SB 1804 2
+18 (3) Generates nonscripted outputs similar to outputs
+19 created by a human, with limited or no human oversight.
+✓
