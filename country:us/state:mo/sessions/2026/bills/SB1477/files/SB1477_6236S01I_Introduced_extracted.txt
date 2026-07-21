@@ -1,0 +1,86 @@
+Title: 
+Official Title: 
+Source: versions - 6236S.01I - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SECOND REGULAR SESSION
+SENATE BILL NO. 1477
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR NICOLA.
+6236S.01I KRISTINA MARTIN, Secretary
+AN ACT
+To repeal section 307.128, RSMo, and to enact in lieu thereof one new section relating to
+motorcycle auxiliary lighting.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Section 307.128, RSMo, is repealed and one new
+2 section enacted in lieu thereof, to be known as section 307.128,
+3 to read as follows:
+1 307.128. 1. A headlamp on a motorcycle may be wired
+2 to modulate either the upper beam or the lower beam from its
+3 maximum intensity to a lesser intensity provided that:
+4 (1) The rate of modulation shall be two hundred forty
+5 plus or minus forty cycles per minute;
+6 (2) The headlamp shall be operated at a maximum power
+7 for fifty to seventy percent of each cycle;
+8 (3) The lowest intensity at any test point shall not
+9 be less than seventeen percent of the maximum intensity
+10 measured at the same point;
+11 (4) The modulator switch shall be wired in the power
+12 lead of the beam filament being modulated and not in the
+13 ground side of the circuit;
+14 (5) Means shall be provided so that both the lower
+15 beam and the upper beam remain operable in the event of a
+16 modulation failure;
+EXPLANATION-Matter enclosed in bold-faced brackets [thus] in this bill is not enacted
+and is intended to be omitted in the law.
+
+SB 1477 2
+17 (6) The system shall include a sensor mounted with the
+18 axis of its sensing element perpendicular to a horizontal
+19 plane. Headlamp modulation shall cease whenever the level
+20 of light emitted by a tungsten filament operating at three
+21 thousand degrees kelvin is either less than two hundred
+22 seventy lux of direct light for upward pointing sensors or
+23 less than sixty lux of reflected light for downward pointing
+24 sensors. The light is measured by a silicon cell type light
+25 meter that is located at the sensor and pointing in the same
+26 direction as the sensor. A photo gray card is placed at
+27 ground level to simulate the road surface in testing
+28 downward pointing sensors;
+29 (7) Means shall be provided so that both the lower and
+30 upper beam function at design voltage when the headlamp
+31 control switch is in either the lower or upper beam position
+32 when the modulator is off.
+33 2. Each motorcycle headlamp modulator not intended as
+34 original equipment, or its container, shall be labeled with
+35 the maximum wattage, and the minimum wattage appropriate for
+36 its use. Additionally, each such modulator shall comply
+37 with the provisions of subdivisions (1) to (7) of subsection
+38 1 of this section when connected to a headlamp of the
+39 maximum-rated power and headlamp of the minimum-rated power,
+40 and shall provide means so that the modulated beam functions
+41 at design voltage when the modulator is off. Instructions,
+42 with a diagram, shall be provided for mounting the light
+43 sensor including location on the motorcycle, distance above
+44 the road surface, and orientation with respect to the light.
+45 3. Notwithstanding any other provision of law, subject
+46 to the requirements of subsection 4 of this section, a
+47 motorcycle may be equipped with, and an operator of a
+48 motorcycle may use, the following auxiliary lighting:
+
+SB 1477 3
+49 (1) [Amber and white] Any color illumination;
+50 (2) Standard bulb running lights; or
+51 (3) Light-emitting diode pods and strips.
+52 4. Lighting under subsection 3 of this section shall
+53 be:
+54 (1) Nonblinking;
+55 (2) Nonflashing;
+56 (3) Nonoscillating; and
+57 (4) Directed toward the engine and the drive train of
+58 the motorcycle to prevent interference with the driver's
+59 operation of the vehicle.
+✓

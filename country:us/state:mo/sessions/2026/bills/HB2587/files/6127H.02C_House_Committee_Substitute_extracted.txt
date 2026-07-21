@@ -1,0 +1,125 @@
+Title: 
+Official Title: 
+Source: versions - House Committee Substitute
+Media Type: application/pdf
+
+================================================================================
+
+SECOND REGULAR SESSION
+HOUSE COMMITTEE SUBSTITUTE FOR
+HOUSE BILL NO. 2587
+103RD GENERAL ASSEMBLY
+6127H.02C JOSEPH ENGLER, Chief Clerk
+AN ACT
+To repeal section 577.800, RSMo, and to enact in lieu thereof three new sections relating to
+unmanned aircraft, with penalty provisions and an emergency clause.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Section 577.800, RSMo, is repealed and three new sections enacted in lieu
+2 thereof, to be known as sections 577.800, 589.900, and 589.902, to read as follows:
+577.800. 1. A person commits the offense of unlawful use of unmanned aircraft over
+2 an open-air facility or critical infrastructure facility if he or she purposely:
+3 (1) Operates an unmanned aircraft within a vertical distance of four hundred feet from
+4 the ground and within the property line of an open-air facility; [or]
+5 (2) Uses an unmanned aircraft with the purpose of delivering to a person within an
+6 open-air facility any object described in subdivision (1) or (2) of subsection 4 of this section;
+7 (3) Uses an unmanned aircraft within the boundary of any critical infrastructure
+8 facility; or
+9 (4) Operates an unmanned aircraft within a vertical distance of four hundred
+10 feet from the ground and within the property line of a critical infrastructure facility in
+11 furtherance of any violation of criminal law.
+12 2. For purposes of this section, "open-air facility" shall mean any sports, theater,
+13 music, performing arts, or other entertainment facility with a capacity of five [thousand]
+14 hundred people or more and not completely enclosed by a roof or other structure. For
+15 purposes of this section, "critical infrastructure facility" shall have the same meaning as
+16 section 569.086.
+17 3. The provisions of this section shall not prohibit the operation of an unmanned
+18 aircraft by:
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HCS HB 2587 2
+19 (1) An employee of an open-air facility or critical infrastructure facility at the
+20 direction of the president or chief executive officer of the open-air facility or critical
+21 infrastructure facility;
+22 (2) A person who has written consent from the president or chief executive officer of
+23 the open-air facility or critical infrastructure facility;
+24 (3) An employee of a law enforcement agency, fire department, or emergency
+25 medical service in the exercise of official duties;
+26 (4) A government official or employee in the exercise of official duties;
+27 (5) A public utility or a rural electric cooperative if:
+28 (a) The unmanned aircraft is used for the purpose of inspecting, repairing, or
+29 maintaining utility transmission or distribution lines or other utility equipment or
+30 infrastructure;
+31 (b) The utility or cooperative notifies the open-air facility or critical infrastructure
+32 facility before flying the unmanned aircraft, except during an emergency; and
+33 (c) The person operating the unmanned aircraft does not physically enter the
+34 prohibited space without an escort provided by the open-air facility or critical infrastructure
+35 facility; or
+36 (6) An employee of a railroad in the exercise of official duties on any land owned or
+37 operated by a railroad corporation regulated by the Federal Railroad Administration.
+38 4. The offense of unlawful use of unmanned aircraft over an open-air facility or
+39 critical infrastructure facility shall be punishable as an infraction unless the person uses an
+40 unmanned aircraft for:
+41 (1) Delivering a gun, knife, weapon, or other article, including any explosive device
+42 or material, that may be used in such manner to endanger the life of an employee or guest at
+43 an open-air facility or critical infrastructure facility, in which case the offense is a class B
+44 felony; or
+45 (2) Delivering a controlled substance, as that term is defined under section 195.010,
+46 in which case the offense is a class D felony.
+47 5. Each open-air facility or critical infrastructure facility shall post a sign warning
+48 of the provisions of this section. The sign shall be at least eleven inches by fourteen inches
+49 and posted in a conspicuous place.
+589.900. 1. For the purposes of sections 589.900 to 589.902, the following terms
+2 mean:
+3 (1) "Authorized individuals", peace officers, as defined in section 590.010, who
+4 are certified in accordance with federal requirements, including the Homeland Security
+5 Act of 2002, Public Law 107-296, as amended, when applicable, to conduct unmanned
+6 aircraft and unmanned aerial system mitigation;
+
+HCS HB 2587 3
+7 (2) "Mitigate", any of the following actions:
+8 (a) During the operation of an unmanned aircraft system, to detect, identify,
+9 monitor, or track the unmanned aircraft system or unmanned aircraft, without prior
+10 consent, including by means of intercept or other access of a wire communication, an
+11 oral communication, or an electronic communication used to control the unmanned
+12 aircraft system or unmanned aircraft;
+13 (b) To warn the operator of the unmanned aircraft system or unmanned aircraft,
+14 including by passive or active and direct or indirect physical, electronic, radio, or
+15 electromagnetic means, or through the use of remote identification broadcast or other
+16 means;
+17 (c) To disrupt control of the unmanned aircraft system or unmanned aircraft,
+18 without prior consent, including by disabling the unmanned aircraft system or
+19 unmanned aircraft by intercepting, interfering, or causing interference with wire, oral,
+20 electronic, or radio communications used to control the unmanned aircraft system or
+21 unmanned aircraft;
+22 (d) To seize or exercise control of the unmanned aircraft system or unmanned
+23 aircraft; or
+24 (e) To use reasonable force, if necessary, to disable, damage, or destroy the
+25 unmanned aircraft system or unmanned aircraft.
+26 2. The terms "unmanned aircraft" and "unmanned aircraft system" shall have
+27 the meanings given such terms in 49 U.S.C. Section 44801.
+589.902. 1. To the greatest extent permissible under applicable federal law,
+2 including the Homeland Security Act of 2002, Pub. L. 107-296, as amended, authorized
+3 individuals in this state shall be empowered to take necessary action to mitigate a
+4 credible threat that an unmanned aircraft or unmanned aircraft system poses to the
+5 safety or security of people, facilities, assets, a venue or set of venues used for large-scale
+6 public gatherings or events, critical infrastructure, or correctional facilities.
+7 2. Nothing in this section shall be construed to limit the power of a law
+8 enforcement officer in this state to seize an unmanned aircraft system or unmanned
+9 aircraft in the course of their duties. A law enforcement officer may use all lawful
+10 means to effect such a seizure, which may include the use of mitigation techniques where
+11 permissible.
+12 3. Any unmanned aircraft system or unmanned aircraft seized under this section
+13 or in connection with a criminal act shall be subject to forfeiture under section 513.607.
+Section B. Because immediate action is necessary to address the urgent need of
+2 Missouri law enforcement agencies to be able to ensure and provide for the safety and
+3 security of Missouri residents from the threat that weaponized unmanned aircraft systems
+
+HCS HB 2587 4
+4 present to Missouri, the enactment of sections 589.900 and 589.901 and the repeal and
+5 reenactment of section 577.800 of section A of this act are deemed necessary for the
+6 immediate preservation of the public health, welfare, peace, and safety, and is hereby declared
+7 to be an emergency act within the meaning of the constitution, and the enactment of sections
+8 589.900 and 589.901 and the repeal and reenactment of section 577.800 of this act shall be in
+9 full force and effect upon its passage and approval.
+✔
