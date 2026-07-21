@@ -1,0 +1,471 @@
+Title: 
+Official Title: 
+Source: versions - 6314S.01I - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SECOND REGULAR SESSION
+SENATE BILL NO. 1494
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR SCHROER.
+6314S.01I KRISTINA MARTIN, Secretary
+AN ACT
+To amend chapter 610, RSMo, by adding thereto three new sections relating to automatic
+expungement.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Chapter 610, RSMo, is amended by adding thereto
+2 three new sections, to be known as sections 610.141, 610.143,
+3 and 610.144, to read as follows:
+1 610.141. 1. As used in this section, section 610.140,
+2 and sections 610.143 and 610.144, unless the context
+3 otherwise indicates, the following terms mean:
+4 (1) "Automatic expungement", technology-assisted,
+5 state-initiated bulk closing of records in the manner
+6 established under section 610.120;
+7 (2) "Central repository", the Missouri state highway
+8 patrol central repository for compiling and disseminating
+9 complete and accurate criminal history records;
+10 (3) "Clean slate eligible offense", a misdemeanor or
+11 felony not listed under subsection 3 of section 610.140 for
+12 which an electronic record exists in the statewide court
+13 automation case management system;
+14 (4) "Close" or "closed", to make records inaccessible
+15 to the general public and to all individuals other than the
+16 defendant, except as provided under section 610.120 and
+17 chapter 43;
+
+SB 1494 2
+18 (5) "Expunge" or "expunged", to close a record in the
+19 manner established under section 610.120, except the
+20 provisions of subsection 2 of section 610.120 that require
+21 documents to be retyped and rewritten, or blacked out and
+22 recopied, if an agency determines that these provisions are
+23 not feasible in relation to automatic expungement;
+24 (6) "Final disposition", the date the person has
+25 completed his or her incarceration, probation, or parole;
+26 (7) "Petitioner", a person who has petitioned the
+27 court to have his or her conviction or convictions expunged
+28 or a person whose conviction or convictions have been
+29 automatically expunged under this section;
+30 (8) "Prosecuting agency", the prosecuting attorney,
+31 circuit attorney, or municipal prosecuting attorney.
+32 2. (1) Subject to the provisions in subdivision (2)
+33 of subsection 3 of this section, all electronic records and
+34 files maintained in the statewide court automation case
+35 management system pertaining to clean slate eligible
+36 offenses shall be closed in the manner established under
+37 section 610.120 without the filing of a petition under
+38 section 610.140 in the following cases, subject to the
+39 limitations contained in subdivisions (2), (3), and (4) of
+40 this subsection:
+41 (a) For cases in which the imposition of sentence has
+42 been suspended, if an individual has successfully completed
+43 probation, so long as one year has passed since final
+44 disposition and the individual has not committed any felony
+45 or misdemeanor criminal offense in Missouri during that time;
+46 (b) For misdemeanors, if one year has passed since
+47 final disposition and the individual has not committed any
+48 felony or misdemeanor criminal offense in Missouri during
+49 that time;
+
+SB 1494 3
+50 (c) For felony offenses, if three years have passed
+51 since final disposition and the individual has not committed
+52 any felony or misdemeanor criminal offense in Missouri
+53 during that time;
+54 (d) For all of an individual's offenses, if the
+55 individual has attained sixty-five years of age and has not
+56 been convicted of any misdemeanors or felonies in Missouri
+57 other than a technical violation of the terms of his or her
+58 probation or parole in the ten immediately preceding years;
+59 or
+60 (e) All offenses for which the governor of Missouri
+61 has granted a full pardon.
+62 (2) Records pertaining to juvenile adjudications or
+63 offenses involving the operation of a motor vehicle are not
+64 eligible for automatic expungement.
+65 (3) No offense shall be eligible for automatic
+66 expungement if a person has charges pending that have been
+67 filed in a Missouri state court for which an individual has
+68 not yet been sentenced during the period of review for clean
+69 slate eligibility as described in subsection 3 of this
+70 section.
+71 (4) (a) An individual may be granted more than one
+72 expungement under this section, except that during his or
+73 her lifetime the total number of offenses for which
+74 expungement can be granted to the individual under this
+75 section or section 610.140 shall not exceed the following
+76 limits:
+77 a. No more than two felony offenses; and
+78 b. No more than three misdemeanor offenses.
+79 (b) If an individual's electronic record contains more
+80 felonies or misdemeanors than can be expunged during the
+81 individual's lifetime under paragraph (a) of this
+
+SB 1494 4
+82 subdivision, the individual shall not be eligible for
+83 automatic expungement under this section.
+84 (c) For purposes of determining lifetime limits on
+85 expungement under this section and section 610.140:
+86 a. If the offenses were charged as counts in the same
+87 case, all such offenses and violations shall count as only
+88 the highest-level offense in that case for purposes of
+89 determining lifetime limits on expungement under this
+90 section and section 610.140. However, if one or more counts
+91 in the same indictment or information or conduct committed
+92 were a part of the same course of criminal conduct as an
+93 offense listed in subsection 3 of section 610.140, the
+94 entire record shall not be expunged under this section;
+95 b. If the offenses were committed by an individual who
+96 has attained sixty-five years of age and has not been
+97 convicted of any misdemeanors or felonies in the immediate
+98 ten preceding years in Missouri, all clean slate eligible
+99 offenses shall be expunged; and
+100 c. Only convictions contained within the statewide
+101 court automation case management system shall be considered
+102 when determining eligibility under this section.
+103 (d) The court shall maintain records to ensure that a
+104 person has not exceeded the limitations provided under this
+105 subsection. Nothing in this section shall be construed to
+106 limit or impair the subsequent use of any record maintained
+107 by the court for the purpose of any law enforcement or
+108 prosecutorial investigation or activity, including any
+109 arrest or findings of guilt expunged under this section by a
+110 law enforcement agency, criminal justice agency, prosecuting
+111 attorney, circuit attorney, or municipal prosecuting
+112 attorney, including its use as a prior offense in a
+113 subsequent criminal or civil investigation or prosecution.
+
+SB 1494 5
+114 3. (1) Beginning August 28, 2029, on a quarterly
+115 basis, the office of state courts administrator shall
+116 identify records that have become eligible in the last
+117 quarter and transmit, or otherwise make accessible by
+118 electronic means, to the central repository and every
+119 prosecuting agency in the state all clean slate eligible
+120 offense records within one hundred days of the record
+121 becoming eligible for automatic expungement.
+122 (2) All electronic records in the statewide court
+123 automation case management system that become eligible for
+124 automatic expungement on or after August 28, 2026, but
+125 before August 29, 2029, shall be identified and expunged
+126 before August 28, 2031, in a cadence to be determined by the
+127 office of state courts administrator.
+128 (3) Delinquent court costs, fines, fees, or other sums
+129 ordered by a court, except restitution owed to a victim of a
+130 crime, shall not be considered by the office of state courts
+131 administrator when determining eligibility of a record for
+132 automatic expungement under subsection 2 of this section.
+133 However, the office of state courts administrator shall seek
+134 a setoff of any income tax refund and lottery prize payouts
+135 under section 488.5028 for all delinquent court costs,
+136 fines, fees, or other sums ordered by a court relating to
+137 convictions expunged under subsection 2 of this section.
+138 (4) Each prosecuting agency in this state has no more
+139 than sixty days from the day on which the notice described
+140 in subdivision (1) of this subsection is transmitted, or
+141 otherwise made accessible by electronic means, to object to
+142 an automatic expungement and transmit such objection to the
+143 office of state courts administrator and the central
+144 repository. The prosecuting agency shall object to the
+145 automatic expungement for any of the following reasons:
+
+SB 1494 6
+146 (a) After reviewing the prosecuting agency's record,
+147 the record does not meet the definition of a clean slate
+148 eligible offense;
+149 (b) The person has not paid court-ordered restitution
+150 to the victim; or
+151 (c) The person has charges pending against the person
+152 in another case in Missouri.
+153 (5) If a prosecuting agency objects for a reason
+154 described in subdivision (4) of this subsection, within
+155 sixty days of the day on which the notice described in
+156 subdivision (1) of this subsection is transmitted, or
+157 otherwise made accessible by electronic means, the record
+158 shall not be expunged.
+159 (6) The central repository has no more than sixty days
+160 from the day on which the notice described in subdivision
+161 (1) of this subsection is transmitted, or otherwise made
+162 accessible by electronic means, to object to an automatic
+163 expungement and transmit such objection to the office of
+164 state courts administrator and the relevant prosecutors.
+165 The central repository shall object to the automatic
+166 expungement if the record does not meet the definition of a
+167 clean slate eligible offense based on their available data.
+168 (7) If the central repository objects for a reason
+169 described in subdivision (6) of this subsection, within
+170 sixty days of the day on which the notice described in
+171 subdivision (1) of this subsection is transmitted, or
+172 otherwise made accessible by electronic means, the record
+173 shall not be expunged.
+174 (8) If sixty days have passed without an objection
+175 from a prosecuting agency or the central repository for one
+176 of the reasons set forth under this subsection, the office
+177 of state courts administrator shall transmit, or otherwise
+
+SB 1494 7
+178 make accessible by electronic means, within fifteen days all
+179 the records to be expunged, sorted by circuit, to the
+180 presiding judges of every circuit court in Missouri.
+181 (9) Within thirty days of receiving a notice to
+182 expunge, the circuit court shall issue orders for
+183 expungement of all records maintained in the circuit.
+184 (10) On a quarterly basis, each circuit court shall
+185 transmit, or otherwise make accessible by electronic means,
+186 copies of all orders for expungement that the court issues
+187 under this section to the office of state courts
+188 administrator.
+189 (11) Once the transmitted records are expunged, the
+190 office of state courts administrator shall provide notice to
+191 all state agencies maintaining official copies of the
+192 records including, but not limited to, circuit court clerks,
+193 prosecuting or circuit attorneys, law enforcement agencies,
+194 the department of corrections, and the central repository
+195 within thirty days. The records and files maintained by any
+196 such persons or entities pertaining to expunged records
+197 shall be held confidential from the date of expungement and
+198 only made available to the people and for the purposes
+199 outlined in subdivision (12) of this subsection. With
+200 respect to any person including, but not limited to, a
+201 consumer reporting agency or researcher, who purchases
+202 records for information pertaining to criminal matters of
+203 public record from the office of state courts administrator,
+204 such office shall make available to the person information
+205 concerning the criminal matters of public record that have
+206 been expunged under this section. Such information shall
+207 include docket numbers or other information sufficient to
+208 permit the person to accurately identify and delete records
+209 that have been expunged under this section.
+
+SB 1494 8
+210 (12) (a) The Missouri state highway patrol shall
+211 retain a nonpublic record of the order expunging a
+212 conviction or other notification regarding a conviction that
+213 was automatically expunged under this section and of the
+214 record of the arrest, fingerprints, conviction, and sentence
+215 of the person in the case to which the order or other
+216 notification applies. The nonpublic record shall be made
+217 available only to a court of competent jurisdiction, the
+218 department of corrections, a law enforcement agency, a
+219 prosecuting attorney, the attorney general, or the governor
+220 upon request and only for the following purposes:
+221 a. To show that a person who has filed a petition to
+222 expunge a conviction has previously had a conviction
+223 expunged under this section;
+224 b. The court's consideration in determining the
+225 sentence to be imposed upon conviction for a subsequent
+226 offense that is punishable as a felony or by imprisonment
+227 for more than one year;
+228 c. Consideration by the governor if a person whose
+229 conviction has been expunged applies for a pardon for
+230 another offense;
+231 d. Consideration by the department of corrections or a
+232 law enforcement agency if a person whose conviction has been
+233 expunged applies for employment with the department of
+234 corrections or a law enforcement agency;
+235 e. Consideration by a court, law enforcement agency,
+236 prosecuting attorney, or the attorney general in determining
+237 whether a person required to register under sections 589.400
+238 to 589.425 has committed an offense that requires
+239 registration under sections 589.400 to 589.425, or in
+240 prosecuting a person for committing an offense requiring
+241 registration under sections 589.400 to 589.425;
+
+SB 1494 9
+242 f. Consideration by a court, law enforcement agency,
+243 prosecuting attorney, or the attorney general for use in
+244 making determinations regarding charges, plea offers, and
+245 sentencing, as applicable; or
+246 g. Consideration by any entity responsible for issuing
+247 commercial driver's licenses for the purpose of meeting
+248 state and federal requirements to obtain commercial driver's
+249 licenses.
+250 (b) A copy of the nonpublic record created under
+251 paragraph (a) of this subdivision may be provided upon
+252 request to the person whose conviction is expunged under
+253 this section upon payment of a fee determined and charged by
+254 the Missouri state highway patrol.
+255 (c) The nonpublic record maintained under paragraph
+256 (a) of this subdivision is exempt from disclosure under this
+257 chapter.
+258 (d) An entity shall not be liable for damages or
+259 subject to criminal penalties for reporting a public record
+260 of conviction that has been expunged by court order or
+261 operation of law prior to August 28, 2029, if that record
+262 was available as a public record on the date of the report.
+263 4. Any court sentencing an individual for a clean
+264 slate eligible offense shall provide the individual a
+265 document outlining the state's clean slate expungement
+266 program at the time of sentencing.
+267 5. Any probation or parole office releasing an
+268 individual from supervision for a clean slate eligible
+269 offense shall provide the individual a document outlining
+270 the state's clean slate expungement program at the time of
+271 release.
+272 6. The provisions of this section shall apply
+273 retroactively to any arrest, charge, trial, or conviction
+
+SB 1494 10
+274 for which there is an electronic record regardless of the
+275 date that the arrest was made, the charge or charges were
+276 brought, the trial occurred, or the conviction was entered.
+277 7. Nothing in this section precludes an individual
+278 from filing a petition for expungement of records under
+279 section 610.140 if an individual is eligible for automatic
+280 expungement under this section but such automatic
+281 expungement has not yet occurred or cannot occur.
+282 8. If it is determined that a conviction was
+283 improperly or erroneously expunged under this section
+284 because the conviction was not eligible to be expunged under
+285 this section, the court shall, on its own motion, reinstate
+286 the conviction.
+287 9. (1) Upon the entry of an order under section
+288 610.140, or upon the automatic expungement of a conviction
+289 under this section, the petitioner is considered not to have
+290 been previously convicted, except as provided under this
+291 subsection and subsection 10 of section 610.140.
+292 (2) The petitioner shall not be entitled to the
+293 remission of any fine, costs, or other moneys paid as a
+294 consequence of a conviction that is expunged.
+295 (3) This section shall not affect the right of the
+296 petitioner to rely upon the conviction to bar subsequent
+297 proceedings for the same offense.
+298 (4) This section shall not affect the right of a
+299 victim of an offense to bring or defend a civil action for
+300 damages.
+301 (5) This section shall not create a right to commence
+302 an action for damages for incarceration under the sentence
+303 that the petitioner served before the conviction is expunged
+304 under this section.
+
+SB 1494 11
+305 (6) This section shall not relieve any obligation to
+306 pay restitution owed to the victim of an offense nor shall
+307 such section affect the jurisdiction of the court or the
+308 authority of any court order with regard to enforcing an
+309 order for restitution.
+310 (7) A conviction, including any records relating to
+311 the conviction and any records concerning a collateral
+312 action, that has been expunged under this section shall not
+313 be used as evidence in an action for negligent hiring,
+314 admission, or licensure against any person.
+315 (8) A conviction that is expunged under this section
+316 or section 610.140 may be considered a prior conviction by a
+317 court, law enforcement agency, prosecuting attorney, or the
+318 attorney general, as applicable, for purposes of charging a
+319 crime as a second or subsequent offense or for sentencing
+320 under section 558.016.
+321 10. The office of state courts administrator shall
+322 collaborate with the Missouri state highway patrol to
+323 establish and implement data-sharing procedures regarding
+324 the information required under this section.
+325 11. Any person eligible for expungement under this
+326 section who has filed a petition for expungement under
+327 section 610.140 shall be granted an expungement, subject to
+328 subsection 3 of this section.
+329 12. The provisions of this section shall become
+330 effective upon the office of state courts administrator's
+331 implementation of automatic expungement technology as
+332 described in section 610.144.
+1 610.143. 1. A credit bureau shall report records of
+2 arrests, indictments pending trial, and convictions of
+3 crimes for no longer than seven years from final
+4 disposition. Records of arrests, indictments pending trial,
+
+SB 1494 12
+5 and convictions of crimes shall no longer be reported if at
+6 any time after a conviction it is learned that a full pardon
+7 or expungement has been granted for that conviction, or at
+8 any time after an arrest or indictment it is learned that a
+9 conviction did not result.
+10 2. Any credit bureau or user of information that
+11 willfully fails to comply with any requirement of this
+12 section with respect to any consumer is liable to that
+13 consumer in an amount equal to:
+14 (1) Any actual damages sustained by the consumer as a
+15 result of the failure;
+16 (2) Punitive damages as the court may allow; and
+17 (3) In the case of any successful action under this
+18 section, costs of the action and reasonable attorney's fees
+19 as determined by the court.
+20 3. Any credit bureau or user of information that is
+21 negligent in failing to comply with any requirement of this
+22 section with respect to any consumer is liable to that
+23 consumer in an amount equal to:
+24 (1) Any actual damages sustained by the consumer as a
+25 result of the failure; and
+26 (2) In the case of any successful action under this
+27 section, costs of the action and reasonable attorney's fees
+28 as determined by the court.
+29 4. Injunctive relief shall be available to any
+30 consumer aggrieved by a violation or a threatened violation
+31 of this section regardless of whether the consumer seeks any
+32 other remedy under this section.
+33 5. An employer, volunteer organization, or landlord
+34 who employs, qualifies, or otherwise engages an individual
+35 whose criminal history record has been expunged shall be
+36 immune from liability for any claim arising out of the
+
+SB 1494 13
+37 misconduct of the individual if the misconduct relates to
+38 the portion of the criminal history record that has been
+39 expunged.
+40 6. A person granted an expungement shall disclose any
+41 expunged offense if the disclosure of such information is
+42 necessary to complete any application for employment with
+43 any:
+44 (1) Federally insured bank or savings institution or
+45 credit union or an affiliate of such institution or credit
+46 union for the purpose of compliance with 12 U.S.C. Section
+47 1829 and 12 U.S.C. Section 1785; or
+48 (2) Entity engaged in the business of insurance or any
+49 insurer for the purpose of complying with 18 U.S.C. Section
+50 1033, 18 U.S.C. Section 1034, or other similar law that
+51 requires an employer engaged in the business of insurance to
+52 exclude applicants with certain criminal convictions from
+53 employment.
+54 7. The provisions of this section shall become
+55 effective upon the office of state courts administrator's
+56 implementation of automatic expungement technology as
+57 described in section 610.144.
+1 610.144. 1. (1) There is hereby created in the state
+2 treasury the "Missouri Expungement Fund", which shall
+3 consist of moneys deposited into the fund from any source
+4 including, but not limited to, gifts, donations, grants, and
+5 bequests. The state treasurer shall be custodian of the
+6 fund. In accordance with sections 30.170 and 30.180, the
+7 state treasurer may approve disbursements. The fund shall
+8 be a dedicated fund and, upon appropriation, moneys in this
+9 fund shall be used solely as provided in subsection 2 of
+10 this section.
+
+SB 1494 14
+11 (2) The state treasurer shall invest moneys in the
+12 fund in the same manner as other funds are invested. Any
+13 interest and moneys earned on such investments shall be
+14 credited to the fund.
+15 2. The office of state courts administrator, the
+16 department of public safety, and the information technology
+17 services division within the office of administration shall
+18 expend moneys from the fund, upon appropriation, on the
+19 statewide court automation case management system and the
+20 Missouri criminal history record information system
+21 established under sections 43.500 to 43.530 for one or more
+22 of the following purposes:
+23 (1) Expenses that may be incurred to develop,
+24 establish, maintain, or operate any information technology
+25 equipment, software, systems, or services associated with
+26 the expungement or closing of records under Missouri law,
+27 including the development and implementation of any
+28 technology-assisted, state-initiated bulk expungement or
+29 sealing of records under Missouri law; or
+30 (2) The cost of necessary personnel or contractors.
+31 The office of state courts administrator, the department of
+32 public safety, and the information technology services
+33 division within the office of administration shall each
+34 receive one-third of any total amount appropriated from the
+35 fund for a fiscal year.
+✓
