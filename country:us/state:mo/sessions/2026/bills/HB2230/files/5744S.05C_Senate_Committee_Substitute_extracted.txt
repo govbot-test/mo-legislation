@@ -1,0 +1,345 @@
+Title: 
+Official Title: 
+Source: versions - Senate Committee Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SECOND REGULAR SESSION
+SENATE COMMITTEE SUBSTITUTE FOR
+HOUSE COMMITTEE SUBSTITUTE FOR
+HOUSE BILLS NOS. 2230 & 2978
+103RD GENERA L ASSEMBLY
+5744S.05C KRISTINA MARTIN, Secretary
+AN ACT
+To amend chapters 160, 162, and 186, RSMo, by adding thereto four new sections relating to
+elementary and secondary education.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Chapters 160, 162, and 186, RSMo, are amended
+2 by adding thereto four new sections, to be known as sections
+3 160.068, 162.192, 186.085, and 186.095, to read as follows:
+1 160.068. 1. This section shall be known and may be
+2 cited as the "Student Screen-Time Standards Act".
+3 2. As used in this section, the following terms mean:
+4 (1) "Instructional technology", a laptop, tablet,
+5 computer, Chromebook, smart device, software platform, or
+6 other similar device or platform used for student learning;
+7 (2) "Manipulatives", hands-on physical learning items
+8 including, but not limited to, blocks, counters, cubes,
+9 rulers, cards, science materials, and similar educational
+10 tools;
+11 (3) "Traditional materials", printed books, paper-
+12 based workbooks, notebooks, handwriting materials, and
+13 physical educational resources.
+14 3. For elementary school students in kindergarten
+15 through grade five, each school district and charter school
+16 shall adopt a written screen time and instructional
+
+SCS HCS HBs 2230 & 2978 2
+17 technology policy consistent with this section to promote
+18 the educational interests of students, prevent the harmful
+19 effects of screen time on child development, ensure that
+20 technology supports rather than supplants foundational
+21 learning, and restore evidence-based practices. The screen
+22 time and instructional technology policy shall establish the
+23 following:
+24 (1) Limits and restrictions on student screen time and
+25 student use of instructional technology during the school
+26 day;
+27 (2) Limits and restrictions on school district- or
+28 charter school-issued devices or school district or charter
+29 school educational technology being used outside the school
+30 day;
+31 (3) Limits and restrictions on student access to
+32 internet-connected instructional technology;
+33 (4) The digital platforms used;
+34 (5) Standards and requirements for student use of
+35 manipulatives and traditional materials;
+36 (6) The process for a parent or guardian to obtain
+37 information regarding his or her child's screen time and
+38 instructional technology use and the process for a parent or
+39 guardian to limit or eliminate his or her child's screen
+40 time and instructional technology use; and
+41 (7) The research, evidence, and information upon which
+42 the policy is based.
+43 4. In creating the policy, the district or charter
+44 school shall consider and document research on best
+45 practices in literacy instruction, instructional technology,
+46 and assessment and the optimal role for the use of
+47 handwriting and cursive writing in promoting literacy for
+48 all students.
+
+SCS HCS HBs 2230 & 2978 3
+49 5. Each elementary school shall notify parents and
+50 guardians annually of the policy adopted under subsection 3
+51 of this section. Parents and guardians of students in
+52 grades kindergarten through five may, upon request, receive
+53 information about their child's login time and use of
+54 district-provided instructional technology and online
+55 learning platforms. The district or charter school shall
+56 provide such available information within a reasonable time
+57 and at no cost to the parent or guardian.
+58 6. Each elementary school shall publish such policy on
+59 such school's website.
+60 7. Each policy adopted under subsection 3 of this
+61 section shall be periodically updated, including
+62 incorporating the best practices recommendations from the
+63 recommended model school board policy on screen time and use
+64 of technology in instruction from the framework on classroom
+65 use of screens (FOCUS) council created under section
+66 186.095, when such recommendations become available.
+67 8. This section shall be implemented before the end of
+68 the 2027-28 school year and shall apply for all subsequent
+69 school years.
+70 9. This section shall not apply to virtual instruction
+71 programs operating under the provisions of section 161.670.
+1 162.192. 1. For purposes of this section, "financial
+2 ledger" means a searchable, machine-readable, publicly
+3 accessible database maintained by a school district or
+4 charter school that:
+5 (1) Sets forth all financial transactions conducted
+6 with school district or charter school funds, including, but
+7 not limited to, the school funds established pursuant to
+8 section 165.011;
+
+SCS HCS HBs 2230 & 2978 4
+9 (2) Is available without login credentials,
+10 registration, or fees;
+11 (3) Is downloadable and exportable in formats
+12 including, but not limited to, comma-separated values (CSV)
+13 format and Microsoft Excel format;
+14 (4) Records all transactions using Missouri financial
+15 accounting manual classification categories, as applicable;
+16 and
+17 (5) Includes the following minimum required data
+18 fields for each financial transaction, and is searchable and
+19 filterable by such fields, at minimum:
+20 (a) Transaction date;
+21 (b) Transaction amount;
+22 (c) Revenue or expenditure designation;
+23 (d) Fund code;
+24 (e) Function code;
+25 (f) Object code;
+26 (g) Vendor or payee name; and
+27 (h) Description or memo field.
+28 2. Notwithstanding any provision of law to the
+29 contrary, each school district and charter school shall
+30 maintain a financial ledger on its publicly accessible
+31 website. The homepage of each public or charter school's
+32 website shall include a direct link to the financial ledger
+33 of the school district or charter school that has oversight
+34 responsibility for that public or charter school. The link
+35 shall make the financial ledger accessible within one click,
+36 shall be clearly labeled as a link to the school district's
+37 or charter school's financial ledger, and shall be
+38 functional and mobile-responsive. The department may
+39 provide standardized language or icons that public and
+
+SCS HCS HBs 2230 & 2978 5
+40 charter schools may use for the purpose of ensuring
+41 compliance with this subsection.
+42 3. A school district's or charter school's financial
+43 ledger shall be updated at least monthly. Details of each
+44 calendar month's financial transactions shall be posted no
+45 later than forty-five days after the close of that calendar
+46 month.
+47 4. For historical record keeping purposes, a school
+48 district or charter school shall maintain complete financial
+49 ledger data on its publicly accessible website for no fewer
+50 than five prior fiscal years.
+51 5. A school district or charter school may redact
+52 protected personal information on the financial ledger only
+53 to the extent required by applicable law. Vendor names,
+54 amounts, and accounting codes shall not be redacted.
+55 Payroll data may be presented in aggregated form where
+56 disclosure of individual information is restricted.
+57 6. Debt obligations shall be posted in a separate
+58 section of the financial ledger, with disclosure of the
+59 following information:
+60 (1) Outstanding debt balances;
+61 (2) Issuance dates;
+62 (3) Repayment schedules;
+63 (4) Annual debt service amounts; and
+64 (5) Debt service as a percentage of total expenditures.
+65 7. The department may provide or approve standardized
+66 templates or platforms a school district or charter school
+67 may use to comply with the provisions of this section. A
+68 school district or charter school may use a third-party
+69 template or platform that is approved by the department.
+
+SCS HCS HBs 2230 & 2978 6
+70 8. The department may provide guidance to assist
+71 school districts and charter schools in complying with the
+72 provisions of this section. Such guidance may include:
+73 (1) High-level expenditure summaries by classification
+74 category under the Missouri financial accounting manual;
+75 (2) Standardized definitions of terms to be used in
+76 the financial ledger; and
+77 (3) Clear explanations of methodology and limitations
+78 applicable to the compilation and presentation of financial
+79 ledger data.
+80 9. School districts and charter schools shall annually
+81 certify compliance with this section to the department. The
+82 department shall promulgate rules establishing procedures
+83 and timelines for school districts and charter schools to
+84 certify compliance.
+85 10. If the department finds that any school district
+86 or charter school has violated a provision of this section,
+87 the department may withhold up to one percent of the state
+88 aid to which the school district or charter school is
+89 entitled under chapter 160 or 163 for the current school
+90 year until the school district or charter school proves to
+91 the satisfaction of the department that the school district
+92 or charter school is no longer in violation of this section.
+93 11. The department shall establish a process for
+94 members of the public to file complaints with the department
+95 if they believe a school district or charter school has
+96 violated any provision of this section. The department may
+97 establish a public compliance dashboard on the department's
+98 website to enable members of the public to check whether a
+99 particular school district or charter school is certified as
+100 in compliance with the provisions of this section.
+
+SCS HCS HBs 2230 & 2978 7
+101 12. The department shall promulgate rules to implement
+102 the provisions of this section. Any rule or portion of a
+103 rule, as that term is defined in section 536.010, that is
+104 created under the authority delegated in this section shall
+105 become effective only if it complies with and is subject to
+106 all of the provisions of chapter 536 and, if applicable,
+107 section 536.028. This section and chapter 536 are
+108 nonseverable and if any of the powers vested with the
+109 general assembly pursuant to chapter 536 to review, to delay
+110 the effective date, or to disapprove and annul a rule are
+111 subsequently held unconstitutional, then the grant of
+112 rulemaking authority and any rule proposed or adopted after
+113 August 28, 2026, shall be invalid and void.
+1 186.085. The literacy advisory council established
+2 under section 186.080 shall provide advice on the inclusion
+3 of instruction and assessment of cursive writing and
+4 reading, including the optimal role for the use of cursive
+5 writing and reading in promoting literacy for all students.
+6 Such advice shall include recommendations for a related
+7 model policy on cursive.
+1 186.095. 1. The commissioner of education shall
+2 establish a "Framework on Classroom Use of Screens Council"
+3 or "FOCUS Council". The council shall consist of the
+4 commissioner, or the commissioner's designee, who shall
+5 serve as chair of the council. The other members of the
+6 council shall be appointed as specified in this subsection
+7 and shall include the following:
+8 (1) One parent of a child currently enrolled in grades
+9 kindergarten through grade five shall be selected by the
+10 president pro tempore of the senate;
+
+SCS HCS HBs 2230 & 2978 8
+11 (2) One parent of a child currently enrolled in grades
+12 kindergarten through grade five shall be selected by the
+13 speaker of the house of representatives;
+14 (3) One education professional selected by the state
+15 board of education from names submitted to it by the
+16 professional teachers' organizations of the state;
+17 (4) One education professional selected by a statewide
+18 association of Missouri school boards;
+19 (5) One education professional selected by the state
+20 board of education from names submitted to it by a statewide
+21 coalition of school administrators;
+22 (6) Two education professionals selected by the
+23 president pro tempore of the senate in addition to the
+24 member selected under subdivision (1) of this subsection;
+25 (7) Two education professionals selected by the
+26 speaker of the house of representatives in addition to the
+27 member selected under subdivision (2) of this subsection;
+28 (8) One education professional selected by the
+29 governor;
+30 (9) One education professional selected by the
+31 lieutenant governor;
+32 (10) One education professional selected by the
+33 commissioner of higher education;
+34 (11) One education professional selected by the state
+35 board of education from names submitted to it by nationally
+36 recognized career and technical education student
+37 organizations operating in Missouri;
+38 (12) One education professional selected by the state
+39 board of education from names submitted to it by the heads
+40 of state-approved baccalaureate-level teacher preparation
+41 programs located in Missouri;
+
+SCS HCS HBs 2230 & 2978 9
+42 (13) A pediatric mental health professional or board-
+43 certified behavioral analyst licensed in the state,
+44 preferably with experience in technology and behavioral
+45 responses, selected by the speaker of the house of
+46 representatives; and
+47 (14) A medical professional with expertise in child
+48 health and development selected by the governor.
+49 2. The department of elementary and secondary
+50 education shall provide necessary staff and resources for
+51 the work of the advisory council.
+52 3. (1) The council shall meet at least four times per
+53 year in its initial year and at least twice per year
+54 thereafter to conduct a comprehensive survey and analysis of
+55 screen time and instructional technology use in public
+56 schools and to review best practices regarding screen use
+57 and the use of technology in instruction and related policy
+58 provisions. Items and information related to such best
+59 practices and policies shall include, but not be limited to:
+60 (a) Impacts on educational outcomes;
+61 (b) Impacts on behavioral and discipline outcomes;
+62 (c) Impacts on special education;
+63 (d) Impacts on early childhood brain development,
+64 including reading and writing skills;
+65 (e) The deterioration of student competency in
+66 reading, writing, arithmetic, and science;
+67 (f) The need to strengthen human connection in
+68 classrooms and support healthy, respectful relationships;
+69 (g) The isolation of students in a digital and virtual
+70 world; and
+71 (h) Other such items and information to be determined
+72 by the council.
+
+SCS HCS HBs 2230 & 2978 10
+73 (2) The council shall meet for the first time for
+74 purposes of this subsection before December 1, 2026, and the
+75 whole council or a subcommittee thereof shall hold at least
+76 three additional meetings for purposes of this subsection
+77 before July 1, 2027.
+78 (3) On or before July 1, 2027, the council shall
+79 submit a report containing the council's actions, findings,
+80 recommendations, and policy proposals to the state board of
+81 education, the governor, and the joint committee on
+82 education.
+83 (4) The recommendations shall include a recommended
+84 model school board policy on screen time and instructional
+85 technology use. The model policy shall recommend best
+86 practices regarding:
+87 (a) Student screen time;
+88 (b) Student use of instructional technology;
+89 (c) Restrictions on student screen time;
+90 (d) Restrictions on student use of instructional
+91 technology;
+92 (e) Restrictions on student access to internet-
+93 connected instructional technology;
+94 (f) Student use of manipulatives and traditional
+95 materials, as such terms are defined in section 160.068;
+96 (g) The process for a parent or guardian to obtain
+97 information regarding his or her child's screen time and
+98 instructional technology use;
+99 (h) Minimizing or eliminating school district- or
+100 charter school-issued devices or school district or charter
+101 school educational technology being used outside the school
+102 day; and
+
+SCS HCS HBs 2230 & 2978 11
+103 (i) The process for a parent or guardian to limit or
+104 eliminate his or her child's screen time and instructional
+105 technology use.
+106 (5) The recommendations may include suggested changes
+107 to state law.
+108 (6) The report shall be presented to the state board
+109 of education and to the joint committee on education in
+110 public hearings. The report shall be updated at least every
+111 two years to provide additional information regarding the
+112 council's actions, recommendations, and policy proposals.
+✓

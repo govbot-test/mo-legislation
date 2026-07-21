@@ -1,0 +1,467 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+SECOND REGULAR SESSION
+HOUSE BILL NO. 2159
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE HURLBERT.
+5193H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapter 324, RSMo, by adding thereto fifteen new sections relating to naturopathic
+medicine.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Chapter 324, RSMo, is amended by adding thereto fifteen new sections, to
+2 be known as sections 324.1900, 324.1905, 324.1910, 324.1915, 324.1920, 324.1925,
+3 324.1930, 324.1935, 324.1940, 324.1945, 324.1950, 324.1955, 324.1960, 324.1965, and
+4 324.1970, to read as follows:
+324.1900. Sections 324.1900 to 324.1970 shall be known and may be cited as the
+2 "Naturopathic Practice Act".
+324.1905. As used in sections 324.1900 to 324.1970, the following terms mean:
+2 (1) "Approved naturopathic medical education program", an education
+3 program that the board has approved as meeting the requirements of section
+4 324.1930 and that prepares naturopathic doctors for the practice of naturopathic
+5 medicine;
+6 (2) "Board", the board of naturopathic medicine;
+7 (3) "Common diagnostic procedure", any diagnostic procedure commonly
+8 performed by health care professionals including, but not limited to, the following
+9 diagnostic procedures:
+10 (a) Taking and recording a patient's health history;
+11 (b) Performing a physical examination;
+12 (c) Performing venipuncture;
+13 (d) Ordering, but not interpreting, radiography examinations;
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 2159 2
+14 (e) Performing laboratory medicine; and
+15 (f) Obtaining samples of human tissues, except surgical excision beyond surgical
+16 excision that is authorized as a minor office procedure;
+17 (4) "Controlled substance", a drug, substance, or immediate precursor
+18 enumerated in Schedules I through V of section 195.017;
+19 (5) "Division", the division of professional registration of the department of
+20 commerce and insurance;
+21 (6) "Drug", the same meaning given to the term in section 195.010;
+22 (7) "Laboratory medicine", the collection and analysis of body fluids to provide
+23 information to help aid the diagnosis and treatment of patients;
+24 (8) "Legend drug", the same meaning given to the term in section 338.330;
+25 (9) "License", a license issued by the board to an individual in accordance with
+26 sections 324.1900 to 324.1970 and rules of the board authorizing that individual to
+27 practice naturopathic medicine in this state;
+28 (10) "Licensee", an individual who holds a license to practice naturopathic
+29 medicine;
+30 (11) "Minor office procedure", any minor office procedure including, but not
+31 limited to, the following:
+32 (a) Care and procedures incident thereto of superficial lacerations, lesions, or
+33 abrasions and the removal of foreign bodies located in superficial structures, not to
+34 include the eye;
+35 (b) The use of antiseptics and topical or local anesthetics in connection with the
+36 procedures described in paragraph (a) of this subdivision;
+37 (c) Intramuscular, intravenous, subcutaneous, and intradermal injections of
+38 substances consistent with the practice of naturopathic medicine;
+39 (d) Trigger point therapy;
+40 (e) The use of noninvasive and minimally invasive aesthetic lasers that cannot be
+41 used for major surgeries or cutting;
+42 (f) Dermal stimulation; and
+43 (g) Allergy testing.
+44
+45 The definition of "minor office procedures" does not include general anesthetics or
+46 surgery;
+47 (12) "Naturopathic doctor", an individual licensed in this state to practice
+48 naturopathic medicine as a naturopathic doctor in accordance with sections 324.1900 to
+49 324.1970;
+
+HB 2159 3
+50 (13) "Naturopathic medicine", a system of health care for the prevention,
+51 diagnosis, and treatment of human health conditions, injury, and disease; the promotion
+52 or restoration of health; and the support and stimulation of a patient's inherent self-
+53 healing processes through patient education and the use of naturopathic therapies;
+54 (14) "Naturopathic physical medicine", the use of one or more of the following
+55 physical agents or treatments in a manner consistent with naturopathic medical practice
+56 on a part or the whole of the body, by hand or by mechanical means, in the resolution of
+57 a human ailment or condition: air, water, heat, cold, sound, light, electromagnetism,
+58 nondiagnostic ultrasound, cold laser, colon hydrotherapy, soft tissue therapy, joint
+59 mobilization, therapeutic exercise, and treatments taught in any approved naturopathic
+60 medical education program that are not otherwise prohibited by sections 324.1900 to
+61 324.1970;
+62 (15) "Naturopathic therapies", any of the following exemplified in a standard
+63 naturopathic medical text, journal, or pharmacopeia: food; extracts of food; vitamins;
+64 minerals; nutraceuticals; oxygen; botanicals; enzymes; amino acids; homeopathics;
+65 hormones; hormonal or pharmaceutical contraceptives; all dietary supplements and
+66 nonprescription drugs as defined by the Federal Food, Drug, and Cosmetic Act, 21
+67 U.S.C. Section 301 et seq.; human cellular and tissue-based products that are not
+68 regulated as drugs; such legend drugs and controlled substances that are consistent with
+69 naturopathic medical practice; and any other physiologic substances;
+70 (16) "Nutritional counseling", the prevention and treatment of disease or other
+71 human conditions through the use of food, water, herbs, roots, bark, or natural food
+72 elements;
+73 (17) "Prescription", the same meaning given to the term in section 338.095;
+74 (18) "Professional examination", a competency-based national licensing
+75 examination administered by the North American Board of Naturopathic Examiners
+76 or its successor agency, which board has been nationally recognized to administer a
+77 naturopathic examination that represents federal standards of education and training;
+78 (19) "Radiography", radiographic diagnostic and other imaging studies
+79 including, but not limited to, x-ray, diagnostic ultrasound, mammogram, bone
+80 densitometry, computed tomography, positron emission tomography, and magnetic
+81 resonance imaging;
+82 (20) "Therapeutic device", an instrument or an apparatus intended for use in
+83 diagnosis or treatment and in the prevention of disease or maintenance or restoration of
+84 health.
+324.1910. 1. There is hereby created within the division a board to be known as
+2 the "Board of Naturopathic Medicine".
+
+HB 2159 4
+3 2. The board of naturopathic medicine shall consist of five members appointed
+4 by the governor, all of whom shall be residents of this state. Three members shall be
+5 naturopathic doctors as described in subsection 5 of this section, one member shall be a
+6 physician licensed under chapter 334, and one member shall be a public member as
+7 described in subsection 6 of this section.
+8 3. The initial members of the board shall be appointed for staggered terms, the
+9 longest of which shall not exceed four years. Following the initial appointments, all
+10 terms shall be for three years, and no member of the board shall serve more than three
+11 terms.
+12 4. The initial physician member licensed under chapter 334 shall have at least
+13 four years of experience in the practice of medicine or osteopathic medicine.
+14 5. (1) The initial three naturopathic doctor members shall each have at least
+15 four years of experience in the practice of naturopathic medicine and shall each be
+16 eligible to become licensed under sections 324.1900 to 324.1970.
+17 (2) Any naturopathic doctor member appointed following the initial
+18 appointments to the board shall be licensed under sections 324.1900 to 324.1970 and
+19 shall actively practice naturopathic medicine in this state for the duration of his or her
+20 appointment.
+21 6. The public member shall be, at the time of the member's appointment, a
+22 citizen of the United States, a resident of this state for a period of at least one year, and a
+23 registered voter. The public member shall not have been a member of any profession
+24 licensed or regulated under sections 324.1900 to 324.1970 or an immediate family
+25 member of such a person. The public member shall not have had a material financial
+26 interest in the provision of naturopathic medicine or in an activity or organization
+27 directly related to any profession licensed or regulated under sections 324.1900 to
+28 324.1970. The duties of the public member shall not include any determination of the
+29 technical requirements to be met for licensure or whether any candidate for licensure
+30 meets such technical requirements or any determination of the technical competence or
+31 technical judgment of a licensee or candidate for licensure.
+32 7. In the event of death, resignation, or removal of any member of the board
+33 before the expiration of the term to which he or she was appointed, the vacancy shall be
+34 filled for the unexpired portion of the term in the same manner as the original
+35 appointment.
+36 8. The board shall, within thirty days after the appointment of all members, and
+37 at least annually thereafter, hold a meeting and elect from its membership a chair, a vice
+38 chair, and a secretary. The board may hold additional meetings as may be required in
+39 the performance of its duties at the call of the chair or upon the written request of any
+
+HB 2159 5
+40 two members of the board. Notice of every meeting shall be given to each member at
+41 least three days before the date of the meeting.
+42 9. The board may appoint such committees as it considers necessary to carry out
+43 its duties.
+44 10. A quorum of the board shall consist of a majority of its voting members. The
+45 affirmative vote of a majority of a quorum of the board shall be required to carry a
+46 motion or resolution, to adopt a rule, or to pass a measure.
+47 11. The governor may remove a board member for misconduct, incompetence,
+48 or neglect of official duties after giving the board member written notice of the charges
+49 and an opportunity to be heard.
+50 12. Notwithstanding any other provision of law, any appointed member of the
+51 board shall receive as compensation an amount established by the director of the
+52 division, not to exceed seventy-five dollars per member per day for commission business
+53 plus actual and necessary expenses including, but not limited to, travel expenses. The
+54 director of the division shall establish by rule guidelines for payment. All staff for the
+55 board shall be provided by the division.
+324.1915. 1. The board shall adopt rules that are necessary or proper for the
+2 administration of sections 324.1900 to 324.1970 including, but not limited to, rules on:
+3 (1) Regulating the licensure of naturopathic doctors and determining the hours
+4 of continuing education units required for maintaining licensure as a naturopathic
+5 doctor;
+6 (2) Establishing the manner in which records of examinations and treatments
+7 shall be kept and maintained;
+8 (3) Establishing standards for professional responsibility and conduct;
+9 (4) Identifying disciplinary actions and circumstances that require disciplinary
+10 action;
+11 (5) Developing a means to provide information to all licensees in the state;
+12 (6) Providing for the investigation of complaints against licensees or persons
+13 holding themselves out as naturopathic doctors in this state;
+14 (7) Providing for the publication of information for the public about licensees
+15 and the practice of naturopathic medicine in this state;
+16 (8) Providing for an orderly process for reinstatement of a license;
+17 (9) Establishing criteria for advertising or promotional materials;
+18 (10) Establishing continuing education requirements related to hours and
+19 acceptable content;
+20 (11) Establishing standards for the state jurisprudence examination;
+
+HB 2159 6
+21 (12) Establishing procedures and standards for reviewing licensing examination
+22 scores;
+23 (13) Establishing procedures for reviewing transcripts demonstrating
+24 completion of the approved naturopathic medical education program;
+25 (14) Establishing the requirements for issuance and renewal of licenses; and
+26 (15) Regulating any other matter necessary to implement sections 324.1900 to
+27 324.1970.
+28 2. The board shall establish and maintain a list of naturopathic medical
+29 education programs that meet the requirements of section 324.1930.
+30 3. The board shall administer and enforce all provisions of sections 324.1900 to
+31 324.1970 and all rules adopted by the board under the authority granted in sections
+32 324.1900 to 324.1970.
+33 4. The board shall set the amount of the fees that sections 324.1900 to 324.1970
+34 authorize and require by rules and regulations promulgated under section 536.021. The
+35 fees shall be set at a level to produce revenue that shall not substantially exceed the cost
+36 and expense of administering sections 324.1900 to 324.1970.
+37 5. All fees payable under sections 324.1900 to 324.1970 shall be collected by the
+38 division and transmitted to the department of revenue for deposit in the state treasury
+39 to the credit of the board of naturopathic medicine fund established under section
+40 324.1920.
+41 6. The board shall employ permanent or temporary personnel it deems
+42 necessary to carry out the purposes of sections 324.1900 to 324.1970 and designate their
+43 duties.
+44 7. Any rule or portion of a rule, as that term is defined in section 536.010, that is
+45 created under the authority delegated in this section shall become effective only if it
+46 complies with and is subject to all of the provisions of chapter 536 and, if applicable,
+47 section 536.028. This section and chapter 536 are nonseverable and if any of the powers
+48 vested with the general assembly pursuant to chapter 536 to review, to delay the
+49 effective date, or to disapprove and annul a rule are subsequently held unconstitutional,
+50 then the grant of rulemaking authority and any rule proposed or adopted after August
+51 28, 2026, shall be invalid and void.
+324.1920. 1. There is hereby created in the state treasury the "Board of
+2 Naturopathic Medicine Fund". All fees authorized to be charged by the board shall be
+3 collected by the director of the division and shall be transmitted to the department of
+4 revenue for deposit in the state treasury for credit to this fund. The state treasurer shall
+5 be custodian of the fund. In accordance with sections 30.170 and 30.180, the state
+6 treasurer may approve disbursements. The fund shall be a dedicated fund and, upon
+
+HB 2159 7
+7 appropriation, moneys in this fund shall be used solely in payment of expenses of
+8 maintaining the board and for the enforcement of the provisions of law concerning the
+9 practice of naturopathic medicine.
+10 2. Notwithstanding the provisions of section 33.080 to the contrary, moneys in
+11 this fund shall not be transferred and placed to the credit of general revenue until the
+12 amount in the fund at the end of the biennium exceeds three times the amount of the
+13 appropriation from the fund for the preceding fiscal year. The amount, if any, in the
+14 fund that shall lapse is that amount in the fund that exceeds the appropriate multiple of
+15 the appropriations from the fund for the preceding fiscal year.
+16 3. The state treasurer shall invest moneys in the fund in the same manner as
+17 other funds are invested. Any interest and moneys earned on such investments shall be
+18 credited to the fund.
+324.1925. The board shall issue a license to an applicant who:
+2 (1) Is of good moral character, in accordance with standards established by rules
+3 of the board;
+4 (2) Submits, in accordance with rules of the board, the following items to the
+5 board:
+6 (a) An application for licensure designed and approved by the board and
+7 submitted in accordance with rules of the board;
+8 (b) An application fee submitted in an amount and manner established by rules
+9 of the board;
+10 (c) Evidence that the applicant has graduated from an approved naturopathic
+11 medical education program;
+12 (d) Evidence that the applicant has successfully completed a professional
+13 examination or, for graduates of approved naturopathic medical education programs in
+14 the United States prior to the existence of the Council on Naturopathic Medical
+15 Education, a competency-based state naturopathic medicine licensing examination or
+16 equivalent Canadian provincial licensing examination for the practice of naturopathic
+17 medicine approved by the board;
+18 (e) Evidence that the applicant has passed a pharmacy examination authorized
+19 by rules of the board and administered by the North American Board of Naturopathic
+20 Examiners;
+21 (f) Evidence that the applicant has passed a state jurisprudence examination
+22 that meets standards established in rules of the board; and
+23 (g) Evidence of professional liability insurance;
+24 (3) Is determined by the board to be physically and mentally capable of safely
+25 practicing naturopathic medicine with or without reasonable accommodation; and
+
+HB 2159 8
+26 (4) Has not had a license to practice naturopathic medicine or other health care
+27 license, registration, or certificate refused, revoked, or suspended by any other
+28 jurisdiction for reasons that relate to the applicant's ability to skillfully and safely
+29 practice naturopathic medicine unless that license, registration, or certification has been
+30 restored to good standing by that jurisdiction.
+324.1930. 1. The board shall establish by rule guidelines for the licensure
+2 requirements described in section 324.1925 relating to graduation from an approved
+3 naturopathic medical education program. The guidelines shall meet the requirements of
+4 this section and the board's specifications for the education of naturopathic doctors.
+5 2. The requirement for graduation from an approved naturopathic medical
+6 education program shall be interpreted in the guidelines as requiring, at a minimum,
+7 graduation from:
+8 (1) A naturopathic medical education program in the United States providing
+9 the degree of doctor of naturopathic medicine, which shall:
+10 (a) Offer graduate-level, full-time didactic and supervised clinical training;
+11 (b) Be accredited or have achieved candidacy status for accreditation by the
+12 Council on Naturopathic Medical Education or an equivalent federally recognized
+13 accrediting body for naturopathic medical programs also recognized by the board; and
+14 (c) Be an institution of higher education or part of an institution of higher
+15 education that is either accredited or is a candidate for accreditation by a regional or
+16 national institutional accrediting agency recognized by the United States Secretary of
+17 Education;
+18 (2) A degree-granting institution of higher education that, prior to the existence
+19 of the Council on Naturopathic Medical Education, offered a full-time, structured
+20 curriculum in basic sciences and supervised patient care comprising a doctoral
+21 naturopathic medical education requiring not less than one hundred thirty-two weeks of
+22 coursework to be completed within a period of not less than thirty-five months, which
+23 was reputable and in good standing in the judgment of the board and which if still in
+24 existence has current programmatic accreditation by the Council on Naturopathic
+25 Medical Education or a federally recognized equivalent accrediting agency;
+26 (3) A diploma-granting, degree-equivalent institution of higher education
+27 located in Canada that, prior to the existence of the Council on Naturopathic Medical
+28 Education, had provincial approval for participation in government-funded student aid
+29 programs, offered a full-time, structured curriculum in basic sciences and supervised
+30 patient care comprising a doctoral naturopathic medical education requiring not less
+31 than one hundred thirty-two weeks of coursework to be completed within a period of
+32 not less than thirty months, was reputable and in good standing in the judgment of the
+
+HB 2159 9
+33 board, and if still in existence, has current programmatic accreditation by the Council
+34 on Naturopathic Medical Education or a federally recognized equivalent accrediting
+35 agency and currently has provincial approval for participation in government-funded
+36 student aid programs; or
+37 (4) A diploma-granting, degree-equivalent institution of higher education
+38 located in Canada that has provincial approval for participation in government-funded
+39 student aid programs, offers graduate-level, full-time didactic and supervised clinical
+40 training, and is accredited or has achieved candidacy status for accreditation by the
+41 Council on Naturopathic Medical Education or an equivalent federally recognized
+42 accrediting body for naturopathic medical programs also recognized by the board.
+324.1935. 1. A person who holds a license under sections 324.1900 to 324.1970
+2 shall display the licensee's license in the licensee's place of business in a location clearly
+3 visible to the licensee's patients and shall also display evidence of the licensee having
+4 completed an approved naturopathic medical education program.
+5 2. A person who practices, conducts affairs, or is employed at more than one
+6 location and who maintains a continuing activity as authorized by the license shall
+7 display a duplicate of such document issued by the board at each location.
+324.1940. A licensee may practice naturopathic medicine to provide primary
+2 care in alignment with naturopathic medical education by:
+3 (1) Performing common diagnostic procedures;
+4 (2) Administering, dispensing, and ordering naturopathic therapies;
+5 (3) Recommending, prescribing, administering, dispensing, and ordering:
+6 (a) All legend drugs and over-the-counter drugs;
+7 (b) Controlled substances within Schedules III, IV, and V of section 195.017,
+8 excluding all opioids and opioid derivatives; and
+9 (c) Durable medical equipment and devices;
+10 (4) Administering substances authorized for intradermal, subcutaneous,
+11 intramuscular, intravenous, ligamentous, tendinous, periarticular, intra-articular,
+12 intravaginal, and intrauterine administration consistent with the education and
+13 training of a naturopathic doctor;
+14 (5) Performing naturopathic physical medicine;
+15 (6) Recommending, ordering, and using therapeutic devices;
+16 (7) Recommending, ordering, and using barrier contraception and contraceptive
+17 devices, including intrauterine devices;
+18 (8) Performing minor office procedures;
+19 (9) Providing biofeedback and neurofeedback therapies; and
+
+HB 2159 10
+20 (10) Providing health care counseling, nutritional counseling, and dietary
+21 therapy.
+324.1945. A naturopathic doctor who prescribes in accordance with section
+2 324.1940 shall:
+3 (1) Record each prescription order in writing, which may include an
+4 electronically recorded and transmitted communication. The order shall include the
+5 name, address, and telephone number of the naturopathic doctor;
+6 (2) Prescribe only when the naturopathic doctor has adequate education,
+7 training, and experience to safely manage the medical regimen; and
+8 (3) Register with the United States Drug Enforcement Administration (DEA) in
+9 order to prescribe controlled substances authorized by sections 324.1900 to 324.1970.
+324.1950. A licensee shall refer to a physician licensed and authorized to engage
+2 in the practice of medicine as described in section 334.010 any patient whose medical
+3 condition should, at the time of evaluation or treatment, be determined to be beyond the
+4 scope of practice of the licensee.
+324.1955. A licensee shall not:
+2 (1) Perform major surgery;
+3 (2) Use general or spinal anesthetics;
+4 (3) Administer ionizing radioactive substances for therapeutic purposes;
+5 (4) Perform a surgical procedure using a laser device;
+6 (5) Perform a surgical procedure involving any of the following areas of the body
+7 that extends beyond superficial tissue: eyes, ears, tendons, nerves, veins, or arteries;
+8 (6) Perform a surgical or medical abortion;
+9 (7) Treat any lesion suspected of malignancy or requiring surgical removal;
+10 (8) Practice chiropractic medicine;
+11 (9) Practice acupuncture; or
+12 (10) Practice physical therapy.
+324.1960. Nothing in sections 324.1900 to 324.1970 shall be construed to prohibit
+2 or to restrict:
+3 (1) The practice of a health care profession by an individual who is licensed,
+4 certified, or registered under other laws of this state and who is performing services
+5 within the individual's authorized scope of practice;
+6 (2) The practice of naturopathic medicine by a student enrolled in an approved
+7 naturopathic medical education program, provided that the practice of naturopathic
+8 medicine by a student is performed as specified by a course of instruction or an
+9 assignment from an instructor and under the supervision of an instructor who is a
+10 licensee or a duly licensed professional in the instructed field;
+
+HB 2159 11
+11 (3) Any person who sells a vitamin or herb from providing information about
+12 the vitamin or herb;
+13 (4) The practice of naturopathic medicine by persons who are licensed to
+14 practice in any other state or district in the United States and who enter this state to
+15 consult with a naturopathic doctor of this state, provided that the consultation is limited
+16 to examination, recommendation, or testimony in litigation; or
+17 (5) Any person or practitioner who is not licensed as a naturopathic doctor from
+18 recommending ayurvedic medicine, herbal remedies, nutritional advice, homeopathy, or
+19 other therapy that is within the scope of practice of naturopathic medicine, provided
+20 that the person or practitioner shall not:
+21 (a) Use a title protected under section 324.1965;
+22 (b) Represent or assume the character or appearance of a licensee; or
+23 (c) Otherwise use a name, title, or other designation that indicates or implies that
+24 the person is a licensee.
+324.1965. 1. A licensee shall use the title "naturopathic physician" or
+2 "naturopathic doctor" and the recognized abbreviation "N.D.".
+3 2. A licensee has the exclusive right to use the following terms in reference to the
+4 licensee's self: "naturopathic physician", "naturopathic doctor", "doctor of
+5 naturopathic medicine", "N.D.", "ND", "NMD", and "N.M.D.".
+6 3. An individual represents the individual's self to be a naturopathic physician or
+7 a naturopathic doctor when the individual uses or adopts any of the following terms in
+8 reference to the individual's self: "naturopathic physician", "naturopathic doctor",
+9 "doctor of naturopathic medicine", "N.D.", "ND", "NMD", and "N.M.D.".
+10 4. An individual shall not represent the individual's self to the public as a
+11 naturopathic physician, a naturopathic doctor, or a doctor of naturopathic medicine, or
+12 as being otherwise authorized to practice naturopathic medicine in this state, unless the
+13 individual is a licensee.
+324.1970. 1. The board may refuse to issue, renew, or reinstate any license
+2 required by sections 324.1900 to 324.1970 for one or any combination of causes stated in
+3 subsection 2 of this section. The board shall notify the applicant in writing of the
+4 reasons for the refusal and shall advise the applicant of his or her right to file a
+5 complaint with the administrative hearing commission as provided in chapter 621.
+6 2. The board may cause a complaint to be filed with the administrative hearing
+7 commission as provided by chapter 621 against any holder of a license issued under
+8 sections 324.1900 to 324.1970 or any person who has failed to renew or has surrendered
+9 his or her license for any one or any combination of the following causes:
+
+HB 2159 12
+10 (1) The person has been finally adjudicated and found guilty, or entered a plea of
+11 guilty or nolo contendere, in a criminal prosecution under the laws of any state, of the
+12 United States, or of any country for any offense directly related to the duties and
+13 responsibilities of the occupation, as set forth in section 324.012, regardless of whether a
+14 sentence is imposed;
+15 (2) Use of fraud, deception, misrepresentation, or bribery in securing any license
+16 issued under sections 324.1900 to 324.1970 or in obtaining permission to take any
+17 examination given or required under sections 324.1900 to 324.1970;
+18 (3) Obtaining or attempting to obtain any fee, charge, tuition, or other
+19 compensation by fraud, deception, or misrepresentation;
+20 (4) Incompetency, misconduct, gross negligence, fraud, misrepresentation, or
+21 dishonesty in the performance of the functions or duties of the profession regulated by
+22 sections 324.1900 to 324.1970;
+23 (5) Violation of, or assisting or enabling any person to violate, any provision of
+24 sections 324.1900 to 324.1970 or of any lawful rule or regulation adopted under sections
+25 324.1900 to 324.1970;
+26 (6) Impersonation of any person holding a license or allowing any other person
+27 to use his or her diploma from any school;
+28 (7) Disciplinary action against the holder of a license or other right to practice
+29 the profession regulated by sections 324.1900 to 324.1970 granted by another state,
+30 territory, federal agency, or country upon grounds for which revocation or suspension is
+31 authorized in this state;
+32 (8) A person is finally adjudged insane or incompetent by a court of competent
+33 jurisdiction;
+34 (9) Issuance of a license based upon a material mistake of fact; or
+35 (10) Use of any advertisement or solicitation that is false, misleading, or
+36 deceptive to the general public or persons to whom the advertisement or solicitation is
+37 primarily directed.
+38 3. Any person, organization, association, or corporation that reports or provides
+39 information to the board or division in accordance with the provisions of sections
+40 324.1900 to 324.1970 and that does so in good faith and without negligence shall not be
+41 subject to an action for civil damages as a result thereof.
+42 4. After the filing of a complaint under subsection 2 of this section, the
+43 proceedings shall be conducted in accordance with the provisions of chapter 621. Upon
+44 a finding by the administrative hearing commission that one or more of the grounds for
+45 disciplinary action provided in subsection 2 of this section are met, the board may,
+46 singly or in combination, censure or place the person named in the complaint on
+
+HB 2159 13
+47 probation or suspension or revoke the license of the person on such terms and
+48 conditions as the board deems appropriate.
+✔

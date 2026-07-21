@@ -1,0 +1,127 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+SECOND REGULAR SESSION
+HOUSE BILL NO. 2514
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE BYRNES.
+6050H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To amend chapter 191, RSMo, by adding thereto six new sections relating to medical
+documentation, with penalty provisions.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Chapter 191, RSMo, is amended by adding thereto six new sections, to be
+2 known as sections 191.1870, 191.1873, 191.1876, 191.1879, 191.1882, and 191.1885, to read
+3 as follows:
+191.1870. 1. Sections 191.1870 to 191.1885 shall be known and may be cited as
+2 the "Missouri Medical Documentation and Patient Recording Accountability Act".
+3 2. As used in sections 191.1870 to 191.1885, the following terms mean:
+4 (1) "Advocate":
+5 (a) For a patient eighteen years of age or older, any individual designated by the
+6 patient to assist in communication or oversight of the patient's care; or
+7 (b) For a minor patient under eighteen years of age, any parent, guardian, or
+8 other person having control or custody of the minor patient;
+9 (2) "Auto-purge", the deletion of a record by an automated technological system
+10 without intervention by the user;
+11 (3) "Clinical communication", any oral, written, electronic, or other act of
+12 communication relating to the diagnosis, symptoms, assessment, treatment, discharge,
+13 psychiatric attribution, or plan of care for a patient;
+14 (4) "Health care facility", any facility, as the term "facility" is defined in section
+15 376.1350;
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 2514 2
+16 (5) "Health care professional", the same meaning given to the term in section
+17 376.1350;
+18 (6) "Health care provider", the same meaning given to the term in section
+19 376.1350;
+20 (7) "Medical record", the official record of a patient's health history and
+21 treatment rendered to the patient.
+191.1873. 1. All clinical communications influencing patient care shall be
+2 documented within the same calendar day or within twenty-four hours if occurring
+3 outside the regular business hours of the health care provider.
+4 2. No clinical decision, diagnosis, exclusion, refusal of testing, psychiatric
+5 attribution, or change in care plan for a patient shall be valid unless documented.
+6 3. A health care professional shall not attribute a patient's symptoms to
+7 psychiatric or psychosomatic causes or make any diagnosis of functional neurological
+8 disorder, conversion disorder, or somatic symptom disorder unless the health care
+9 professional:
+10 (1) Performs a differential diagnosis;
+11 (2) Orders testing to rule out other conditions;
+12 (3) Performs a physical examination and documents the findings; and
+13 (4) Documents the rationale for the attribution or diagnosis in the patient's
+14 medical record.
+15 4. Any electronic communication related to patient care shall be automatically
+16 retained and incorporated into the patient's medical record. No such communication
+17 shall be stored or retained outside the patient's medical record.
+18 5. A patient or the patient's family may request documentation or clarification of
+19 any clinical communication. A health care provider shall provide the documentation or
+20 clarification within seventy-two hours of the request.
+191.1876. 1. A health care provider shall not:
+2 (1) Make or rely on undocumented clinical decisions;
+3 (2) Delay care based on undocumented psychiatric assumptions;
+4 (3) Use internal messaging as a substitute for documentation in the patient's
+5 medical record;
+6 (4) Delete, auto-purge, or conceal internal communications; or
+7 (5) Create systems bypassing documentation requirements.
+8 2. Any undocumented communication shall be treated as though the
+9 communication did not occur.
+10 3. Except as otherwise provided in this section, any health care provider that
+11 violates this section shall be punished as follows:
+
+HB 2514 3
+12 (1) For the first violation, the health care provider shall be guilty of a class D
+13 misdemeanor;
+14 (2) For the second violation, the health care provider shall be guilty of a class A
+15 misdemeanor; and
+16 (3) For the third or subsequent violation or any violation that results in harm to
+17 a patient, the health care provider shall be guilty of a class E felony.
+18 4. A health care provider that intentionally deletes internal communications in
+19 violation of this section shall be guilty of a class D felony.
+20 5. A health care facility that enables undocumented communication in violation
+21 of this section shall be subject to a civil penalty of up to fifty thousand dollars for each
+22 violation.
+191.1879. 1. A patient or the patient's advocate may audio record, video record,
+2 or live stream any part of the patient's medical encounter.
+3 2. A health care provider shall not interfere with any recording or live streaming
+4 allowed under subsection 1 of this section except to protect the privacy of other patients,
+5 prevent obstruction of a procedure, or maintain sterile environments. Any such
+6 interference shall use the least restrictive means to achieve the permitted purpose.
+7 3. Unless the patient refused recording or live streaming in writing, the patient's
+8 advocate may record even if the patient is unconscious, sedated, mentally impaired, or
+9 under psychiatric evaluation.
+10 4. A health care facility shall not retaliate or take any of the following actions
+11 based on a patient's or advocate's exercise of the right to record or live stream the
+12 patient's medical encounter:
+13 (1) Confiscate a device;
+14 (2) Demand deletion of a recording;
+15 (3) Interrupt care to block recording or live streaming; or
+16 (4) Deny treatment.
+17 5. A health care provider that interferes with any recording or live streaming in
+18 violation of subsection 2 of this section shall be guilty of a class A misdemeanor unless
+19 the health care provider interfered for the purpose of concealing the medical encounter,
+20 in which case the health care provider shall be guilty of a class E felony.
+21 6. Notwithstanding any court rule or any other provision of law, any recording
+22 made in accordance with this section shall be admissible in civil, criminal,
+23 administrative, licensing, and wrongful death proceedings.
+24 7. Each health care facility shall post a printed sign with the following text:
+25 "Patients have the right to record communications and care involving their treatment.".
+
+HB 2514 4
+191.1882. Any health care provider that retaliates against an employee for
+2 reporting a violation of sections 191.1870 to 191.1885 shall be guilty of a class D felony.
+191.1885. The department of health and senior services shall promulgate rules to
+2 implement sections 191.1870 to 191.1885. Any rule or portion of a rule, as that term is
+3 defined in section 536.010, that is created under the authority delegated in this section
+4 shall become effective only if it complies with and is subject to all of the provisions of
+5 chapter 536 and, if applicable, section 536.028. This section and chapter 536 are
+6 nonseverable and if any of the powers vested with the general assembly pursuant to
+7 chapter 536 to review, to delay the effective date, or to disapprove and annul a rule are
+8 subsequently held unconstitutional, then the grant of rulemaking authority and any rule
+9 proposed or adopted after August 28, 2026, shall be invalid and void.
+✔

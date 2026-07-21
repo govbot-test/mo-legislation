@@ -1,0 +1,340 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+SECOND REGULAR SESSION
+HOUSE BILL NO. 1850
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE HEWKIN.
+5331H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To repeal sections 338.600, 376.387, and 376.388, RSMo, and to enact in lieu thereof four
+new sections relating to pharmacies.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Sections 338.600, 376.387, and 376.388, RSMo, are repealed and four
+2 new sections enacted in lieu thereof, to be known as sections 338.600, 338.840, 376.387, and
+3 376.388, to read as follows:
+338.600. 1. As used in this section, the following terms mean:
+2 (1) "Audit", any review, inspection, or analysis conducted by an entity of a
+3 pharmacy's records, practices, or compliance with contractual obligations;
+4 (2) "Entity":
+5 (a) Any managed care company, insurance company, or third-party payer or a
+6 representative of a managed care company, insurance company, or third-party payer;
+7 or
+8 (b) Any pharmacy benefits manager or subcontractor of a pharmacy benefits
+9 manager or a representative of a pharmacy benefits manager or subcontractor of a
+10 pharmacy benefits manager;
+11 (3) "Pharmacy benefits manager", the same meaning given to the term in section
+12 376.387.
+13 2. Notwithstanding any other provision of law to the contrary, when an audit of the
+14 records of a pharmacy licensed in this state is conducted by [a managed care company,
+15 insurance company, third-party payor, or] any entity [that represents such companies or
+16 groups], such audit shall be conducted in accordance with the following:
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 1850 2
+17 (1) The entity conducting the initial on-site audit shall provide the pharmacy with
+18 notice at least [one week] fourteen days prior to conducting the initial on-site audit for each
+19 audit cycle and identify specific prescriptions to be audited. If the entity identifies the
+20 prescriptions to be audited by providing prescription numbers, the entity may omit the
+21 final two digits of the prescription numbers;
+22 (2) Any audit which involves clinical judgment shall be conducted by or in
+23 consultation with a [licensed] pharmacist licensed by the board of pharmacy who shall be
+24 made available to the audited pharmacy to discuss clinical rationale;
+25 (3) Any clerical error, record-keeping error, typographical error, or scrivener's error
+26 regarding a required document or record shall not constitute fraud or grounds for recoupment,
+27 so long as the prescription was otherwise legally dispensed and the claim was otherwise
+28 materially correct; except that, such claims may be otherwise subject to recoupment of
+29 overpayments or payment of any discovered underpayment. No claim arising under this
+30 subdivision shall be subject to criminal penalties without proof of intent to commit fraud.
+31 The pharmacy shall have the right to submit amended claims within thirty days of the
+32 discovery of an error to correct clerical or record-keeping errors in lieu of recoupment if
+33 the prescription was dispensed according to requirements set forth in state or federal
+34 law;
+35 (4) A pharmacy may use the records of a hospital, physician, or other authorized
+36 practitioner of the healing arts involving drugs or medicinal supplies written or transmitted by
+37 any means of communication for purposes of validating the pharmacy record with respect to
+38 orders or refills of a legend or narcotic drug. Electronically stored images of prescriptions,
+39 electronically created annotations and other related supporting documentation shall be
+40 considered valid prescription records. Hard copy and electronic signature logs that indicate
+41 the delivery of pharmacy services shall be considered valid proof of receipt of such services
+42 by a program enrollee;
+43 (5) A finding of an overpayment or underpayment may be a projection based on the
+44 number of patients served and having a similar diagnosis or on the number of similar orders
+45 or refills for similar drugs; except that, recoupment of claims shall be based on the actual
+46 overpayment or underpayment unless the projection for overpayment or underpayment is part
+47 of a settlement as agreed to by the pharmacy;
+48 (6) Each pharmacy shall be audited under the same standards and parameters as other
+49 pharmacies audited by the entity;
+50 (7) A pharmacy shall be allowed at least thirty days following receipt of the
+51 preliminary audit report in which to produce documentation to address any discrepancy found
+52 during an audit;
+
+HB 1850 3
+53 (8) An audit shall be limited to twenty-five prescriptions that have been
+54 randomly selected from a pool of prescriptions of a similar type as the prescriptions that
+55 are collectively adjudicated. If an audit reveals the necessity for a review of additional
+56 claims, the audit shall be conducted on site;
+57 (9) An entity shall not initiate an audit of a pharmacy more than two times in a
+58 calendar year. Any prescription information request by an entity that could result in
+59 recoupment shall count as an audit under this subdivision;
+60 (10) A recoupment shall not be based on:
+61 (a) Documentation requirements in addition to or exceeding requirements for
+62 creating or maintaining documentation prescribed by the board of pharmacy; or
+63 (b) A requirement that a pharmacy or pharmacist perform a professional duty
+64 in addition to or exceeding professional duties prescribed by the board of pharmacy;
+65 (11) Recoupment shall occur only following the correction of a claim and shall be
+66 limited to amounts adjudicated by the pharmacy benefits manager;
+67 (12) Except for Medicare claims, approval of drug, prescriber, or patient
+68 eligibility upon adjudication of a claim shall not be reversed unless the pharmacy or
+69 pharmacist obtained the adjudication by fraud or misrepresentation of claim elements;
+70 (13) Any entity conducting an audit shall not be compensated, nor shall any of its
+71 employees be compensated, directly or indirectly, based on any amounts recouped;
+72 (14) An entity shall not charge a fee for conducting an on-site audit or a desk
+73 audit unless there is a finding of actual fraud;
+74 (15) The period covered by the audit shall not exceed a two-year period beginning
+75 [two years prior to the initial date of the on-site portion of the audit unless otherwise provided
+76 by contractual agreement or if] on the date a claim being audited was submitted for
+77 payment unless there has been a previous finding of fraud or as otherwise provided by state
+78 or federal law;
+79 [(9)] (16) An audit shall not be initiated or scheduled during the first [three] five
+80 business days of any month due to the high volume of prescriptions filled during such time
+81 unless otherwise consented to by the pharmacy;
+82 [(10)] (17) The preliminary audit report shall be delivered to the pharmacy within one
+83 hundred twenty days after conclusion of the audit, with reasonable extensions permitted. A
+84 final audit report shall be delivered to the pharmacy within six months of receipt by the
+85 pharmacy of the preliminary audit report or final appeal, as provided for in subsection [3] 4of
+86 this section, whichever is later. If an audit report is not delivered to the pharmacy within
+87 the time frame required under this subdivision, the audit shall be deemed free of
+88 discrepancies, and no recoupment shall be permitted;
+
+HB 1850 4
+89 [(11)] (18) The days' supply for unit-of-use items, such as topicals, drops, vials,
+90 and inhalants, shall not be limited beyond manufacturer recommendations;
+91 (19) If the only commercially available package size exceeds an entity's
+92 maximum days' supply, the dispensing of such package size shall be accepted by the
+93 entity and shall not be the basis for recoupment;
+94 (20) If the only commercially available package size exceeds an entity's
+95 maximum days' supply and the entity accepts the refill of such prescription, the entity
+96 shall not recoup such claim as an early refill;
+97 (21) The failure of a pharmacy to collect a co-payment shall not be the basis for
+98 recoupment if the pharmacy provides documentation of billing of the claim and a
+99 reasonable attempt to collect the co-payment;
+100 (22) An entity conducting a wholesale invoice audit shall comply with the
+101 following provisions:
+102 (a) The entity shall not audit the claims of another entity;
+103 (b) The following shall not form the basis for recoupment:
+104 a. The National Drug Code for the dispensed drug is in a quantity that is a
+105 subunit or multiple of the purchased drug as reflected on a supporting wholesale
+106 invoice;
+107 b. The correct quantity dispensed is reflected on the audited pharmacy claim; or
+108 c. The drug dispensed by the pharmacy on an audited pharmacy claim is
+109 identical to the strength and dosage form of the drug purchased;
+110 (c) The entity shall accept as evidence:
+111 a. Supplier invoices issued prior to the date of dispensing the drug underlying
+112 the audited claim;
+113 b. Invoices from any supplier authorized by law to transfer ownership of the
+114 drug acquired by the audited pharmacy;
+115 c. Copies of supplier invoices in the possession of the audited pharmacy; and
+116 d. Reports required by any state board or agency; and
+117 (d) Within five business days of any request by the audited pharmacy, the entity
+118 shall provide supporting documentation provided to the entity by the audited
+119 pharmacy's suppliers; and
+120 (23) Notwithstanding any other provision in this subsection, the entity conducting the
+121 audit shall not use the accounting practice of extrapolation in calculating recoupments or
+122 penalties for audits, except as otherwise authorized under subdivision (5) of this subsection.
+123 [2.] 3. Recoupments of any disputed moneys shall only occur after final internal
+124 disposition of the audit, including the appeals process set forth in subsection [3] 4 of this
+125 section. Should the identified discrepancy for an individual audit exceed twenty-five
+
+HB 1850 5
+126 thousand dollars, future payments to the pharmacy in excess of twenty-five thousand dollars
+127 may be withheld pending finalization of the audit.
+128 [3.] 4. Each entity conducting an audit shall establish an appeals process, lasting no
+129 longer than six months, under which a licensed pharmacy may appeal an unfavorable
+130 preliminary audit report to the entity. If, following such appeal, the entity finds that an
+131 unfavorable audit report or any portion thereof is unsubstantiated, the entity shall dismiss the
+132 audit report or such portion without the necessity of any further proceedings.
+133 [4.] 5. Each entity conducting an audit shall provide a copy of the final audit report,
+134 after completion of any appeal process, to the plan sponsor. If any recoupment occurred,
+135 the report shall include the total amount of recoupment returned to the plan sponsor.
+136 [5.] 6. This section shall not apply to any investigative audit that involves probable
+137 fraud, willful misrepresentation, or abuse.
+138 [6.] 7. This section shall not apply to any audit conducted as part of any inspection or
+139 investigation conducted by any governmental entity or law enforcement agency.
+338.840. The department of health and senior services shall establish a critical
+2 access care pharmacy program to ensure the sustainability of critical access care
+3 pharmacies throughout this state. The program shall assist pharmacies identified as
+4 critical access care pharmacies based on their location in an area where pharmacy
+5 services are needed.
+376.387. 1. For purposes of this section, the following terms shall mean:
+2 (1) "Covered person", [the same meaning as such term is defined in section 376.1257]
+3 a policyholder, subscriber, enrollee, or other individual whose prescription drug
+4 coverage is administered through a pharmacy benefits manager or a health benefit plan;
+5 (2) "Health benefit plan", the same meaning as such term is defined in section
+6 376.1350;
+7 (3) "Health carrier" or "carrier", the same meaning as such term is defined in section
+8 376.1350;
+9 (4) "Pharmacy", the same meaning as such term is defined in chapter 338;
+10 (5) "Pharmacy benefits manager", the same meaning as such term is defined in
+11 section 376.388.
+12 2. No pharmacy benefits manager shall include a provision in a contract entered into
+13 or modified on or after August 28, 2018, with a pharmacy or pharmacist that requires a
+14 covered person to make a payment for a prescription drug at the point of sale in an amount
+15 that exceeds the lesser of:
+16 (1) The copayment amount as required under the health benefit plan; or
+17 (2) The amount an individual would pay for a prescription if that individual paid with
+18 cash.
+
+HB 1850 6
+19 3. A pharmacy or pharmacist shall have the right to provide to a covered person
+20 information regarding the amount of the covered person's cost share for a prescription drug,
+21 the covered person's cost of an alternative drug, and the covered person's cost of the drug
+22 without adjudicating the claim through the pharmacy benefits manager. Neither a pharmacy
+23 nor a pharmacist shall be proscribed by a pharmacy benefits manager from discussing any
+24 such information or from selling a more affordable alternative to the covered person.
+25 4. No pharmacy benefits manager shall, directly or indirectly, charge or hold a
+26 pharmacist or pharmacy responsible for any fee amount related to a claim that is not known at
+27 the time of the claim's adjudication, unless the amount is a result of improperly paid claims or
+28 charges for administering a health benefit plan.
+29 5. This section shall not apply with respect to claims under Medicare Part D, or any
+30 other plan administered or regulated solely under federal law, and to the extent this section
+31 may be preempted under the Employee Retirement Income Security Act of 1974 for self-
+32 funded employer-sponsored health benefit plans.
+33 6. A pharmacy benefits manager shall notify in writing any health carrier with which
+34 it contracts if the pharmacy benefits manager has a conflict of interest, any commonality of
+35 ownership, or any other relationship, financial or otherwise, between the pharmacy benefits
+36 manager and any other health carrier with which the pharmacy benefits manager contracts.
+37 7. The department of commerce and insurance shall enforce this section and may
+38 audit any information provided by a pharmacy benefits manager under this section.
+376.388. 1. As used in this section, unless the context requires otherwise, the
+2 following terms shall mean:
+3 (1) "Contracted pharmacy" [or "pharmacy"], a pharmacy located in Missouri
+4 participating in the network of a pharmacy benefits manager through a direct or indirect
+5 contract;
+6 (2) ["Health carrier", an entity subject to the insurance laws and regulations of this
+7 state that contracts or offers to contract to provide, deliver, arrange for, pay for, or reimburse
+8 any of the costs of health care services, including a sickness and accident insurance company,
+9 a health maintenance organization, a nonprofit hospital and health service corporation, or any
+10 other entity providing a plan of health insurance, health benefits, or health services, except
+11 that such plan shall not include any coverage pursuant to a liability insurance policy, workers'
+12 compensation insurance policy, or medical payments insurance issued as a supplement to a
+13 liability policy] "Health benefit plan", the same meaning given to the term in section
+14 376.1350;
+15 (3) "Maximum allowable cost", the per-unit amount that a pharmacy benefits
+16 manager reimburses a pharmacist for a prescription drug, excluding a dispensing or
+17 professional fee;
+
+HB 1850 7
+18 (4) "Maximum allowable cost list" or "MAC list", a listing of drug products that meet
+19 the standard described in this section;
+20 (5) "Pharmacy", as such term is defined in chapter 338;
+21 (6) "Pharmacy benefits manager", an entity that contracts with pharmacies on behalf
+22 of health carriers [or any health plan sponsored by the state or a political subdivision of the
+23 state] or health benefit plans to provide prescription drug and pharmacist services;
+24 (7) "Pharmacy benefits manager affiliate" or "affiliate", a pharmacy or
+25 pharmacist that directly or indirectly, through one or more intermediaries, owns or
+26 controls, is owned or controlled by, or is under common ownership or control with a
+27 pharmacy benefits manager;
+28 (8) "Pharmacy benefits manager rebate aggregator", any entity that negotiates
+29 with a pharmaceutical manufacturer on behalf of a pharmacy benefits manager for a
+30 rebate;
+31 (9) "Pharmacy claims data", information regarding a prescription transaction
+32 that is adjudicated by a pharmacy benefits manager for a covered person, as defined in
+33 section 376.387, between the pharmacy and the pharmacy benefits manager and
+34 between the pharmacy benefits manager and the plan sponsor, which shall include, at a
+35 minimum:
+36 (a) The prescription drug's National Drug Code;
+37 (b) The contracted compensation rate to the plan sponsor for each drug;
+38 (c) The amount paid to the pharmacy for each unit;
+39 (d) The channel of dispensing, whether by retail, mail-order, or specialty
+40 pharmacy;
+41 (e) For brand-name drugs, the wholesale acquisition cost per unit;
+42 (f) For generic drugs, the average wholesale price per unit;
+43 (g) The number of claims, participants, dosage units dispensed, and days'
+44 supply;
+45 (h) The net price of the drug after accounting for all rebates, including from
+46 pharmacy benefits manager rebate aggregators, discounts, and fees;
+47 (i) The total out-of-pocket cost paid by the participant per claim; and
+48 (j) All amounts received by the plan sponsor, the pharmacy benefits manager, or
+49 any affiliate including, but not limited to, co-payment assistance, co-payment cards, or
+50 remuneration provided by pharmaceutical manufacturers;
+51 (10) "Plan sponsor", any sponsor of a health benefit plan;
+52 (11) "Rebate", any discount, negotiated concession, or other payment provided
+53 by a pharmaceutical manufacturer, pharmacy, or health benefit plan to an entity to sell,
+
+HB 1850 8
+54 provide, pay, or reimburse a pharmacy or other entity for the dispensation or
+55 administration of a prescription drug on behalf of itself or another entity.
+56 2. Upon each contract execution or renewal between a pharmacy benefits manager
+57 and a pharmacy or between a pharmacy benefits manager and a pharmacy's contracting
+58 representative or agent, such as a pharmacy services administrative organization, a pharmacy
+59 benefits manager shall, with respect to such contract or renewal:
+60 (1) Include in such contract or renewal the sources utilized to determine maximum
+61 allowable cost and update such pricing information at least every seven days; and
+62 (2) Maintain a procedure to eliminate products from the maximum allowable cost list
+63 of drugs subject to such pricing or modify maximum allowable cost pricing at least every
+64 seven days, if such drugs do not meet the standards and requirements of this section, in order
+65 to remain consistent with pricing changes in the marketplace.
+66 3. A pharmacy benefits manager shall reimburse pharmacies for drugs subject to
+67 maximum allowable cost pricing that has been updated to reflect market pricing at least every
+68 seven days as set forth under subdivision (1) of subsection 2 of this section.
+69 4. A pharmacy benefits manager shall not place a drug on a maximum allowable cost
+70 list unless there are at least two therapeutically equivalent multisource generic drugs, or at
+71 least one generic drug available from at least one manufacturer, generally available for
+72 purchase by network pharmacies from national or regional wholesalers.
+73 5. All contracts between a pharmacy benefits manager and a contracted pharmacy or
+74 between a pharmacy benefits manager and a pharmacy's contracting representative or agent,
+75 such as a pharmacy services administrative organization, shall include a process to internally
+76 appeal, investigate, and resolve disputes regarding maximum allowable cost pricing. The
+77 process shall include the following:
+78 (1) The right to appeal shall be limited to fourteen calendar days following the
+79 reimbursement of the initial claim; and
+80 (2) A requirement that the pharmacy benefits manager shall respond to an appeal
+81 described in this subsection no later than fourteen calendar days after the date the appeal was
+82 received by such pharmacy benefits manager.
+83 6. For appeals that are denied, the pharmacy benefits manager shall provide the
+84 reason for the denial and identify the national drug code of a drug product that may be
+85 purchased by contracted pharmacies at a price at or below the maximum allowable cost and,
+86 when applicable, may be substituted lawfully.
+87 7. If the appeal is successful, the pharmacy benefits manager shall:
+88 (1) Adjust the maximum allowable cost price that is the subject of the appeal effective
+89 on the day after the date the appeal is decided;
+
+HB 1850 9
+90 (2) Apply the adjusted maximum allowable cost price to all similarly situated
+91 pharmacies as determined by the pharmacy benefits manager; and
+92 (3) Allow the pharmacy that succeeded in the appeal to reverse and rebill the
+93 pharmacy benefits claim giving rise to the appeal.
+94 8. Appeals shall be upheld if:
+95 (1) The pharmacy being reimbursed for the drug subject to the maximum allowable
+96 cost pricing in question was not reimbursed as required under subsection 3 of this section; or
+97 (2) The drug subject to the maximum allowable cost pricing in question does not meet
+98 the requirements set forth under subsection 4 of this section.
+99 9. A pharmacy benefits manager shall provide each plan sponsor with the plan
+100 sponsor's pharmacy claims data as reasonably requested by the plan sponsor.
+101 10. An entity shall define and apply the term "rebate" as having the same
+102 meaning given to the term in this section if the entity enters into a contract to sell,
+103 provide, pay, negotiate rebates for, or reimburse a pharmacy, pharmacy benefits
+104 manager, pharmacy benefits manager affiliate, or pharmacy benefits manager rebate
+105 aggregator for prescription drugs on behalf of itself or another entity.
+106 11. A pharmacy benefits manager shall provide each plan sponsor and the
+107 department of commerce and insurance with documentation of any benefit design that
+108 encourages or requires enrollees to fill prescriptions at its affiliates.
+109 12. A pharmacy benefits manager shall owe a fiduciary duty to each plan
+110 sponsor.
+111 13. All disclosures required under this section shall be provided to the plan
+112 sponsor or its authorized agent in a universally accessible format.
+113 14. If a pharmacy benefits manager has an affiliate, the pharmacy benefits
+114 manager shall disclose to the plan sponsor and the department of commerce and
+115 insurance:
+116 (1) The amount charged per dosage unit to the affiliate; and
+117 (2) The median amount charged per dosage unit at in-network pharmacies that
+118 are not affiliates.
+119 15. The department of commerce and insurance may audit a pharmacy benefits
+120 manager to ensure compliance with this section.
+✔
