@@ -1,0 +1,67 @@
+Title: 
+Official Title: 
+Source: versions - 5255S.03I - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SECOND REGULAR SESSION
+SENATE BILL NO. 1444
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR LEWIS.
+5255S.03I KRISTINA MARTIN, Secretary
+AN ACT
+To amend chapter 407, RSMo, by adding thereto one new section relating to artificial intelligence
+in mental health, with penalty provisions.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Chapter 407, RSMo, is amended by adding thereto
+2 one new section, to be known as section 407.3007, to read as
+3 follows:
+1 407.3007. 1. As used in this section, the following
+2 terms mean:
+3 (1) "Artificial intelligence" or "AI" means:
+4 (a) Any artificial system that performs tasks under
+5 varying and unpredictable circumstances without significant
+6 human oversight or that can learn from experience and
+7 improve performance when exposed to data sets;
+8 (b) An artificial system developed in computer
+9 software, physical hardware, or other computer systems that
+10 solves tasks requiring human-like perception, cognition,
+11 planning, learning, communication, or physical action;
+12 (c) An artificial system designed to think or act like
+13 a human, including cognitive architectures and neural
+14 networks;
+15 (d) A set of techniques, including machine learning,
+16 that is designed to approximate a cognitive task; or
+
+SB 1444 2
+17 (e) An artificial system designed to act rationally,
+18 including an intelligent software agent or embodied robot
+19 that achieves goals using perception, planning, reasoning,
+20 learning, communicating, decision making, and acting;
+21 (2) "Mental health professional", the same as defined
+22 in section 632.005.
+23 2. Any person or entity who develops or deploys
+24 artificial intelligence in the state shall not advertise or
+25 represent to the public that the AI is or is able to act as
+26 a mental health professional or is capable of providing
+27 therapy services.
+28 3. Any violation of this section shall be considered
+29 an unlawful practice under the Missouri merchandising
+30 practices act under this chapter.
+31 4. The attorney general shall enforce the provisions
+32 of this section. Any individual may report violations of
+33 this section to the attorney general. If the attorney
+34 general finds that a violation occurred, the attorney
+35 general shall commence a civil action in a court of
+36 competent jurisdiction. If the court finds that a violation
+37 occurred, the court may grant damages, civil penalties,
+38 injunctive relief, attorney fees, and any such other relief
+39 the court finds appropriate. Notwithstanding the provisions
+40 of section 407.100 to the contrary, civil penalties shall be
+41 as follows:
+42 (1) Ten thousand dollars for the first violation; or
+43 (2) Twenty thousand dollars for any subsequent
+44 violation.
+✓

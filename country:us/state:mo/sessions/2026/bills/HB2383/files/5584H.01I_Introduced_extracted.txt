@@ -1,0 +1,147 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+SECOND REGULAR SESSION
+HOUSE BILL NO. 2383
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE SIMMONS.
+5584H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To repeal section 569.086, RSMo, and to enact in lieu thereof three new sections relating to
+criminal offenses involving certain infrastructures, with penalty provisions.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Section 569.086, RSMo, is repealed and three new sections enacted in lieu
+2 thereof, to be known as sections 569.086, 569.117, and 569.119, to read as follows:
+569.086. 1. As used in this section, "critical infrastructure facility" means any of the
+2 following facilities that are under construction or operational: a petroleum or alumina
+3 refinery; critical electric infrastructure, as defined in 18 CFR [Section 118.113(c)(3)] Section
+4 388.113(c)(3) including, but not limited to, an electrical power generating facility, substation,
+5 switching station, electrical control center, or electric power lines and associated equipment
+6 infrastructure; a chemical, polymer, or rubber manufacturing facility; a water intake structure,
+7 water storage facility, water treatment facility, wastewater treatment plant, wastewater
+8 pumping facility, or pump station; a natural gas compressor station; a liquid natural gas
+9 terminal or storage facility; a telecommunications central switching office; wireline or
+10 wireless telecommunications networks, infrastructure, or facilities, including cell towers,
+11 telephone poles and lines, including fiber optic lines; a port, railroad switching yard, railroad
+12 tracks, trucking terminal, or other freight transportation facility; a gas processing plant,
+13 including a plant used in the processing, treatment, or fractionation of natural gas or natural
+14 gas liquids; a transmission facility used by a federally licensed radio or television station; a
+15 steelmaking facility that uses an electric arc furnace to make steel; a facility identified and
+16 regulated by the United States Department of Homeland Security Chemical Facility Anti-
+17 Terrorism Standards (CFATS) program; a dam that is regulated by the state or federal
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 2383 2
+18 government; a natural gas distribution utility facility including, but not limited to, natural gas
+19 distribution and transmission mains and services, pipeline interconnections, a city gate or
+20 town border station, metering station, aboveground piping, a regulator station, and a natural
+21 gas storage facility; a crude oil or refined products storage and distribution facility including,
+22 but not limited to, valve sites, pipeline interconnection, pump station, metering station, below
+23 or aboveground pipeline or piping and truck loading or offloading facility, a grain mill or
+24 processing facility; [a] networks and facilities used in the generation, transmission, or
+25 distribution [system] of broadband internet access; or any aboveground portion of an oil, gas,
+26 hazardous liquid or chemical pipeline, tank, railroad facility, or other storage facility that is
+27 enclosed by a fence, other physical barrier, or is clearly marked with signs prohibiting
+28 trespassing, that are obviously designed to exclude intruders.
+29 2. A person commits the offense of trespass on a critical infrastructure facility if he or
+30 she purposely trespasses or enters property containing a critical infrastructure facility without
+31 the permission of the owner of the property or lawful occupant thereof. The offense of
+32 trespass on a critical infrastructure facility is a class B misdemeanor. If it is determined that
+33 the intent of the trespasser is to damage, destroy, or tamper with equipment, or impede or
+34 inhibit operations of the facility, the person shall be guilty of a class A misdemeanor.
+35 3. [A person commits the offense of damage of a critical infrastructure if he or she
+36 purposely damages, destroys, or tampers with equipment in a critical infrastructure facility.
+37 The offense of damage of a critical infrastructure facility is a class D felony.
+38 4.] This section shall not apply to conduct protected under the Constitution of the
+39 United States, the Constitution of [the state of] Missouri, or a state or federal law or rule.
+569.117. 1. A person commits the offense of damage of a critical infrastructure
+2 facility, as defined in section 569.086, if he or she:
+3 (1) Purposely damages, destroys, or tampers with equipment in a critical
+4 infrastructure facility; or
+5 (2) Willfully or maliciously damages, destroys or tampers with a critical
+6 infrastructure facility, or removes any component of the critical infrastructure facility,
+7 excluding equipment.
+8 2. Except as provided under subsection 3 of this section, the offense of damage of
+9 a critical infrastructure facility under:
+10 (1) Subdivision (1) of subsection 1 of this section is a class D felony; or
+11 (2) Subdivision (2) of subsection 1 of this section is a:
+12 (a) Class A misdemeanor if the damage is under seven hundred fifty dollars;
+13 (b) Class E felony if the damage is seven hundred fifty dollars or more but less
+14 than twenty-five thousand dollars; or
+15 (c) Class D felony if the damage is twenty-five thousand dollars or more.
+
+HB 2383 3
+16 3. If the damage to a critical infrastructure facility causes interruption,
+17 impairment, or degradation of service, the offense of damage of a critical infrastructure
+18 facility shall be a class C felony regardless of value.
+19 4. The value of damages under this section shall be determined under the
+20 provisions of section 570.020.
+21 5. (1) Any person who commits a violation under this section shall be required
+22 to make restitution and perform community service as provided in this subsection.
+23 (2) Restitution shall be made under the provisions of section 559.105.
+24 (3) Community service shall be imposed as follows:
+25 (a) One hundred hours for the first offense;
+26 (b) Two hundred hours for the second offense; or
+27 (c) Up to three hundred hours for the third or any subsequent offense.
+569.119. 1. As used in this section, the following terms mean:
+2 (1) "Copper, brass, aluminum, fiber, or telecommunications material", any
+3 insulated or noninsulated copper, brass, aluminum, fiber-optic, or telecommunications
+4 wire, cable, pipe, tubing, power inverter, bus bar, broadband cable, fiber-optic line, or
+5 any material containing copper, brass, aluminum, fiber, glass, or metal components that
+6 is commonly used in construction, electrical systems, telecommunications networks,
+7 broadband infrastructure, utilities, or related commercial or industrial applications;
+8 (2) "Critical infrastructure facility", the same meaning as defined under section
+9 569.086;
+10 (3) "Firearm", the same meaning as defined under section 571.010.
+11 2. A person commits the offense of unauthorized possession of certain copper,
+12 brass, aluminum, fiber, or telecommunications material if the person:
+13 (1) Knowingly possesses copper, brass, aluminum, fiber, or telecommunications
+14 material; and
+15 (2) Is not a person authorized to possess such material as provided under
+16 subsection 3 of this section.
+17 3. Subject to subsection 4 of this section, the following persons are authorized to
+18 possess copper, brass, aluminum, fiber, or telecommunications material:
+19 (1) The owner of the material;
+20 (2) A public utility, rural electric cooperative, municipal utility, or common
+21 carrier;
+22 (3) A telecommunications provider, internet service provider, cable service
+23 provider, or video service provider;
+24 (4) A manufacturing, industrial, commercial, retail, or similar business that sells
+25 or uses such material in the ordinary course of business;
+
+HB 2383 4
+26 (5) A carrier-for-hire acting in the course and scope of the carrier's business and
+27 possessing appropriate documentation, including a bill of lading or contract verifying
+28 transport information;
+29 (6) A scrap metal or metal-recycling entity registered or licensed under chapter
+30 407 and acting within the ordinary course of the entity's business;
+31 (7) A person acting in the ordinary course of lawful construction, remodeling,
+32 demolition, or salvage work who lawfully acquires the material through such activities;
+33 or
+34 (8) Any agent, employee, subcontractor, or representative of a person described
+35 in subdivisions (1) to (7) of this subsection who is acting within the course and scope of
+36 such authority.
+37 4. The authorization provided under subsection 3 of this section does not apply
+38 to a person who knows that the copper, brass, aluminum, fiber, or telecommunications
+39 material was unlawfully obtained.
+40 5. (1) Except as provided in subdivision (2) of this subsection, the offense of
+41 unauthorized possession of certain copper, brass, aluminum, fiber, or
+42 telecommunications material is a class E felony.
+43 (2) The offense of unauthorized possession of certain copper, brass, aluminum,
+44 fiber, or telecommunications material is a class D felony if it is shown at trial that:
+45 (a) The material was unlawfully obtained from a critical infrastructure facility;
+46 (b) The person has a prior conviction for any offense involving theft, property
+47 damage, tampering, receiving stolen property, or unauthorized possession of copper,
+48 brass, aluminum, fiber, or telecommunications material;
+49 (c) The person conspired with or acted in concert with another to commit theft,
+50 property damage, tampering, or receiving stolen property involving such material; or
+51 (d) The person possessed a firearm during the commission of the offense.
+52 6. If conduct constituting an offense under this section also constitutes an offense
+53 under any other provision of law, the person may be prosecuted under either or both
+54 provisions.
+✔
