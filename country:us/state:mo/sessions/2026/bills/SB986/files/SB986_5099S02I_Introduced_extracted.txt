@@ -1,0 +1,676 @@
+Title: 
+Official Title: 
+Source: versions - 5099S.02I - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SECOND REGULAR SESSION
+SENATE BILL NO. 986
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR BROWN (26).
+5099S.02I KRISTINA MARTIN, Secretary
+AN ACT
+To repeal sections 115.013, 115.135, 115.151, 115.155, 115.159, 115.160, 115.195, 115.221, and
+115.642, RSMo, and to enact in lieu thereof nine new sections relating to elections,
+with penalty provisions.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Sections 115.013, 115.135, 115.151, 115.155,
+2 115.159, 115.160, 115.195, 115.221, and 115.642, RSMo, are
+3 repealed and nine new sections enacted in lieu thereof, to be
+4 known as sections 115.013, 115.135, 115.151, 115.155, 115.159,
+5 115.160, 115.195, 115.221, and 115.642, to read as follows:
+1 115.013. As used in this chapter, unless the context
+2 clearly implies otherwise, the following terms mean:
+3 (1) "Air-gap" or "air-gapped", a security measure in
+4 which equipment is physically and technically isolated from
+5 any network and is not directly connected to the internet
+6 nor is it connected to any other system that is connected to
+7 the internet. Data can only be passed to an air-gapped
+8 device physically via a USB or other removable media;
+9 (2) "Automatic tabulating equipment", the apparatus
+10 necessary to examine and automatically count votes, and the
+11 data processing machines which are used for counting votes
+12 and tabulating results and which are air-gapped and not
+13 physically able to be connected to a network;
+EXPLANATION-Matter enclosed in bold-faced brackets [thus] in this bill is not enacted
+and is intended to be omitted in the law.
+
+SB 986 2
+14 (3) "Ballot", the paper ballot, or ballot designed
+15 for use with an electronic voting system on which each voter
+16 may cast all votes to which he or she is entitled at an
+17 election;
+18 (4) "Ballot label", the card, paper, booklet, page, or
+19 other material containing the names of all offices and
+20 candidates and statements of all questions to be voted on;
+21 (5) "Counting location", a location selected by the
+22 election authority for the automatic processing or counting,
+23 or both, of ballots;
+24 (6) "County", any county in this state or any city not
+25 within a county;
+26 (7) "Documentary proof of United States citizenship",
+27 any of the following:
+28 (a) A form of identification issued consistent with
+29 the requirements of the federal REAL ID Act of 2005 that
+30 indicates the applicant is a citizen of the United States;
+31 (b) A valid United States passport;
+32 (c) The applicant's official United States military
+33 identification card, together with a United States military
+34 record of service showing that the applicant's place of
+35 birth was in the United States;
+36 (d) A valid government-issued photo identification
+37 card issued by the federal government or the state of
+38 Missouri showing that the applicant's place of birth was in
+39 the United States;
+40 (e) A valid government-issued photo identification
+41 card issued by the federal government or the state of
+42 Missouri other than that described in paragraphs (a) to (d)
+43 of this subdivision, but only if presented together with one
+44 or more of the following:
+
+SB 986 3
+45 a. A certified birth certificate issued by a state, a
+46 unit of local government in a state, or a tribal government
+47 which:
+48 (i) Was issued by the state, unit of local government,
+49 or tribal government in which the applicant was born;
+50 (ii) Was filed with the office responsible for keeping
+51 vital records in the state;
+52 (iii) Includes the full name, date of birth, and place
+53 of birth of the applicant;
+54 (iv) Lists the full name of one or both of the parents
+55 of the applicant;
+56 (v) Has the signature of an individual who is
+57 authorized to sign birth certificates on behalf of the
+58 state, unit of local government, or tribal government in
+59 which the applicant was born;
+60 (vi) Includes the date that the certificate was filed
+61 with the office responsible for keeping vital records; and
+62 (vii) Has the seal of the state, unit of local
+63 government, or tribal government that issued the birth
+64 certificate;
+65 b. An extract from a United States hospital record of
+66 birth created at the time of the applicant's birth which
+67 indicates that the applicant's place of birth was in the
+68 United States;
+69 c. A final adoption decree showing the applicant's
+70 name and that the applicant's place of birth was in the
+71 United States;
+72 d. A consular report of birth abroad of a citizen of
+73 the United States or a certification of the applicant's
+74 report of birth of a United States citizen issued by the
+75 United States secretary of state;
+
+SB 986 4
+76 e. A naturalization certificate or certificate of
+77 citizenship issued by the United States Secretary of
+78 Homeland Security or any other document or method of proof
+79 of United States citizenship issued by the federal
+80 government pursuant to the federal Immigration and
+81 Nationality Act;
+82 f. An American Indian card issued by the federal
+83 Department of Homeland Security with the classification
+84 "KIC";
+85 (8) "Disqualified", a determination made by a court of
+86 competent jurisdiction, the Missouri ethics commission, an
+87 election authority or any other body authorized by law to
+88 make such a determination that a candidate is ineligible to
+89 hold office or not entitled to be voted on for office;
+90 [(8)] (9) "District", an area within the state or
+91 within a political subdivision of the state from which a
+92 person is elected to represent the area on a policy-making
+93 body with representatives of other areas in the state or
+94 political subdivision;
+95 [(9)] (10) "Electronic voting machine", any part of an
+96 air-gapped electronic voting system on which a voter is able
+97 to cast a ballot under this chapter;
+98 [(10)] (11) "Electronic voting system", a system of
+99 casting votes by use of marking devices, and counting votes
+100 by use of automatic air-gapped tabulating or air-gapped data
+101 processing equipment, including computerized voting systems
+102 that mark or tabulate ballots;
+103 [(11)] (12) "Established political party" for the
+104 state, a political party which, at either of the last two
+105 general elections, polled for its candidate for any
+106 statewide office more than two percent of the entire vote
+107 cast for the office. "Established political party" for any
+
+SB 986 5
+108 district or political subdivision shall mean a political
+109 party which polled more than two percent of the entire vote
+110 cast at either of the last two elections in which the
+111 district or political subdivision voted as a unit for the
+112 election of officers or representatives to serve its area;
+113 [(12)] (13) "Federal office", the office of
+114 presidential elector, United States senator, or
+115 representative in Congress;
+116 [(13)] (14) "Independent", a candidate who is not a
+117 candidate of any political party and who is running for an
+118 office for which political party candidates may run;
+119 [(14)] (15) "Major political party", the political
+120 party whose candidates received the highest or second
+121 highest number of votes at the last general election;
+122 [(15)] (16) "Marking device", any device approved by
+123 the secretary of state under section 115.225 which will
+124 enable the votes to be counted by automatic tabulating
+125 equipment;
+126 [(16)] (17) "Municipal" or "municipality", a city,
+127 village, or incorporated town of this state;
+128 [(17)] (18) "New party", any political group which has
+129 filed a valid petition and is entitled to place its list of
+130 candidates on the ballot at the next general or special
+131 election;
+132 [(18)] (19) "Nonpartisan", a candidate who is not a
+133 candidate of any political party and who is running for an
+134 office for which party candidates may not run;
+135 [(19)] (20) "Political party", any established
+136 political party and any new party;
+137 [(20)] (21) "Political subdivision", a county, city,
+138 town, village, or township of a township organization county;
+
+SB 986 6
+139 [(21)] (22) "Polling place", the voting place
+140 designated for all voters residing in one or more precincts
+141 for any election;
+142 [(22)] (23) "Precincts", the geographical areas into
+143 which the election authority divides its jurisdiction for
+144 the purpose of conducting elections;
+145 [(23)] (24) "Public office", any office established by
+146 constitution, statute or charter and any employment under
+147 the United States, the state of Missouri, or any political
+148 subdivision or special district thereof, but does not
+149 include any office in the Missouri state defense force or
+150 the National Guard or the office of notary public or city
+151 attorney in cities of the third classification or cities of
+152 the fourth classification;
+153 [(24)] (25) "Question", any measure on the ballot
+154 which can be voted "YES" or "NO";
+155 [(25)] (26) "Relative within the second degree by
+156 consanguinity or affinity", a spouse, parent, child,
+157 grandparent, brother, sister, grandchild, mother-in-law,
+158 father-in-law, daughter-in-law, or son-in-law;
+159 [(26)] (27) "Special district", any school district,
+160 water district, fire protection district, hospital district,
+161 health center, nursing district, or other districts with
+162 taxing authority, or other district formed pursuant to the
+163 laws of Missouri to provide limited, specific services;
+164 [(27)] (28) "Special election", elections called by
+165 any school district, water district, fire protection
+166 district, or other district formed pursuant to the laws of
+167 Missouri to provide limited, specific services; [and
+168 (28)] (29) "Voting district", the one or more
+169 precincts within which all voters vote at a single polling
+170 place for any election.
+
+SB 986 7
+1 115.135. 1. Any person who is qualified to vote, or
+2 who shall become qualified to vote on or before the day of
+3 election, shall be entitled to register in the jurisdiction
+4 within which he or she resides. In order to vote in any
+5 election for which registration is required, a person must
+6 be registered to vote in the state of Missouri no later than
+7 5:00 p.m., or the normal closing time of any public building
+8 where the registration is being held if such time is later
+9 than 5:00 p.m., on the fourth Wednesday prior to the
+10 election, unless the voter is an interstate former resident,
+11 a new resident, or a covered voter, as defined in section
+12 115.275. Any person registering after such date shall be
+13 eligible to vote in subsequent elections.
+14 2. A person applying to register with an election
+15 authority or a deputy registration official shall identify
+16 himself or herself by presenting [a copy of a birth
+17 certificate, a Native American tribal document, other proof
+18 of United States citizenship, a valid Missouri drivers
+19 license or other form of personal identification]
+20 documentary proof of United States citizenship at the time
+21 of registration. Nothing in this chapter shall require a
+22 person who appears on the list of registered voters or who
+23 seeks to transfer voter registration within this state from
+24 being required to provide an election authority documentary
+25 proof of United States citizenship, unless the person is
+26 stricken from the list of registered voters and the person
+27 thereafter seeks to register to vote.
+28 3. Except as provided in federal law or federal
+29 elections and in section 115.277, no person shall be
+30 entitled to vote if the person has not registered to vote in
+31 the jurisdiction of his or her residence.
+
+SB 986 8
+32 4. A covered voter as defined in section 115.275 who
+33 has been discharged from military service, has returned from
+34 a military deployment or activation, or has separated from
+35 employment outside the territorial limits of the United
+36 States after the deadline to register to vote, and who is
+37 otherwise qualified to register to vote, may register to
+38 vote in an election in person before the election authority
+39 until 5:00 p.m. on the Friday before such election. Such
+40 persons shall produce sufficient documentation showing
+41 evidence of qualifying for late registration pursuant to
+42 this section.
+1 115.151. 1. Each qualified applicant who appears
+2 before the election authority shall be deemed registered as
+3 of the time the applicant's completed, signed and sworn
+4 registration application is witnessed by the election
+5 authority or deputy registration official.
+6 2. Each applicant who registers by mail shall be
+7 deemed to be registered as of the date the application is
+8 postmarked, if such application is accepted and not rejected
+9 by the election authority [and], the verification notice
+10 required pursuant to section 115.155 is not returned as
+11 undeliverable by the postal service, and documentary proof
+12 of United States citizenship is submitted to the election
+13 authority with the application.
+14 3. Each applicant who registers at a voter
+15 registration agency or the division of motor vehicle and
+16 drivers licensing of the department of revenue shall be
+17 deemed to be registered as of the date the application is
+18 signed by the applicant, if such application is accepted and
+19 not rejected by the election authority and the verification
+20 notice required pursuant to section 115.155 is not returned
+21 as undeliverable by the postal service. Voter registration
+
+SB 986 9
+22 agencies shall transmit voter registration application forms
+23 to the appropriate election authority not later than five
+24 business days after the form is completed by the applicant.
+25 The division of motor vehicle and drivers licensing of the
+26 department of revenue shall transmit voter registration
+27 application forms to the appropriate election authority not
+28 later than three business days after the form is completed
+29 by the applicant.
+1 115.155. 1. The election authority shall provide for
+2 the registration of each voter. Each application shall be
+3 in substantially the following form:
+4 APPLICATION FOR REGISTRATION
+5 Are you a citizen of the United States?
+6 □ YES □ NO
+7 Will you be 18 years of age on or before election day?
+8 □ YES □ NO
+9 IF YOU CHECKED “NO” IN RESPONSE TO EITHER OF THESE
+10 QUESTIONS, DO NOT COMPLETE THIS FORM.
+11 IF YOU ARE SUBMITTING THIS FORM BY MAIL AND ARE
+12 REGISTERING FOR THE FIRST TIME, PLEASE SUBMIT [A COPY
+13 OF A CURRENT, VALID PHOTO IDENTIFICATION. IF YOU DO
+14 NOT SUBMIT SUCH INFORMATION, YOU WILL BE REQUIRED TO
+15 PRESENT ADDITIONAL IDENTIFICATION UPON VOTING FOR THE
+16 FIRST TIME SUCH AS A BIRTH CERTIFICATE, A NATIVE
+17 AMERICAN TRIBAL DOCUMENT, OTHER PROOF OF UNITED STATES
+18 CITIZENSHIP, A VALID MISSOURI DRIVER'S LICENSE OR
+19 OTHER FORM OF PERSONAL IDENTIFICATION] DOCUMENTARY
+20 PROOF OF UNITED STATES CITIZENSHIP.
+21 __________________
+
+SB 986 10
+22 Township (or Ward)
+23 __________________ __________________
+24 Name Precinct
+25 __________________ __________________
+26 Home Address Required Personal
+27 Identification
+28 Information
+29 __________________
+30 City ZIP
+31 __________________ __________________
+32 Date of Birth Place of Birth
+33 (Optional)
+34 __________________ __________________
+35 Telephone Number Mother's Maiden
+36 (Optional) Name (Optional)
+37 __________________ __________________
+38 Occupation Last Place Previously
+39 (Optional)
+40 Registered
+41 __________________ __________________
+42 Last four digits of Under What Name
+43 Social Security
+44 Number
+45 (Required for
+46 registration unless
+47 no Social Security
+
+SB 986 11
+48 Number exists for
+49 Applicant)
+50 Remarks: __________________
+51 When
+52 Political Party
+53 Affiliation
+54 (OPTIONAL: You shall be
+55 unaffiliated unless you
+56 designate an affiliation.)
+57 I am a citizen of the United States and a resident of
+58 the state of Missouri. I have not been adjudged
+59 incapacitated by any court of law. If I have been
+60 convicted of a felony or of a misdemeanor connected
+61 with the right of suffrage, I have had the voting
+62 disabilities resulting from such conviction removed
+63 pursuant to law. I do solemnly swear that all
+64 statements made on this card are true to the best of
+65 my knowledge and belief.
+66 I UNDERSTAND THAT IF I REGISTER TO VOTE KNOWING THAT I
+67 AM NOT LEGALLY ENTITLED TO REGISTER, I AM COMMITTING A
+68 CLASS ONE ELECTION OFFENSE AND MAY BE PUNISHED BY
+69 IMPRISONMENT OF NOT MORE THAN FIVE YEARS OR BY A FINE
+70 OF BETWEEN TWO THOUSAND FIVE HUNDRED DOLLARS AND TEN
+71 THOUSAND DOLLARS OR BY BOTH SUCH IMPRISONMENT AND
+72 FINE.
+73 __________________ __________________
+74 Signature of Voter Date
+75 __________________
+76 Signature of Election Official
+
+SB 986 12
+77 2. All information required by the voter registration
+78 form in subsection 1 of this section shall be personally
+79 provided by the person seeking to register to vote.
+80 3. The options for political party affiliation
+81 required by the application described in subsection 1 of
+82 this section shall include all established political parties
+83 and an option to be unaffiliated. If an applicant does not
+84 designate an affiliation, the election authority shall mark
+85 the applicant's form as unaffiliated.
+86 [3.] 4. (1) After supplying all information necessary
+87 for the registration records, each applicant who appears in
+88 person before the election authority shall swear or affirm
+89 the statements on the registration application by signing
+90 his or her full name, witnessed by the signature of the
+91 election authority or such authority's deputy registration
+92 official. Each applicant who applies to register by mail
+93 pursuant to section 115.159, or pursuant to section 115.160
+94 or 115.162, shall attest to the statements on the
+95 application by his or her signature.
+96 (2) Any application for registration shall be
+97 accompanied by documentary proof of United States
+98 citizenship. The election authority shall reject any
+99 application for registration that is not accompanied by
+100 documentary proof of United States citizenship. The
+101 election authority shall notify the applicant within ten
+102 business days of receipt of the registration form if the
+103 application was not accompanied by documentary proof of
+104 United States citizenship. The notice shall state that the
+105 registration cannot be completed until documentary proof of
+106 United States citizenship is supplied. If the documentary
+107 proof of United States citizenship is supplied before 7:00
+
+SB 986 13
+108 p.m. on election day, that person is deemed to have been
+109 registered on the date the registration was first received.
+110 [4.] 5. Upon receipt by mail of a completed and signed
+111 voter registration application, a voter registration
+112 application forwarded by the division of motor vehicle and
+113 drivers licensing of the department of revenue pursuant to
+114 section 115.160, or a voter registration agency pursuant to
+115 section 115.162, the election authority shall, if satisfied
+116 that the applicant is entitled to register, transfer all
+117 data necessary for the registration records from the
+118 application to its registration system. Within seven
+119 business days after receiving the application, the election
+120 authority shall send the applicant a verification notice.
+121 If such notice is returned as undeliverable by the postal
+122 service within the time established by the election
+123 authority, the election authority shall not place the
+124 applicant's name on the voter registration file.
+125 [5.] 6. If, upon receipt by mail of a voter
+126 registration application or a voter registration application
+127 forwarded pursuant to section 115.160 or 115.162, the
+128 election authority determines that the applicant is not
+129 entitled to register, such authority shall, within seven
+130 business days after receiving the application, so notify the
+131 applicant by mail and state the reason such authority has
+132 determined the applicant is not qualified. The applicant
+133 may file a complaint with the elections division of the
+134 secretary of state's office under and pursuant to section
+135 115.219. If an applicant for voter registration fails to
+136 answer the question on the application concerning United
+137 States citizenship, the election authority shall notify the
+138 applicant of the failure and provide the applicant with an
+139 opportunity to complete the form in a timely manner to allow
+
+SB 986 14
+140 for the completion of the registration form before the next
+141 election.
+142 [6.] 7. The secretary of state shall prescribe
+143 specifications for voter registration documents so that they
+144 are uniform throughout the state of Missouri and comply with
+145 the National Voter Registration Act of 1993, including the
+146 reporting requirements, and so that registrations, name
+147 changes and transfers of registrations within the state may
+148 take place as allowed by law.
+149 [7.] 8. All voter registration applications shall be
+150 preserved in the office of the election authority.
+1 115.159. [1.] Any person who is qualified to register
+2 in Missouri shall, upon application and submission to the
+3 election authority of documentary proof of United States
+4 citizenship, be entitled to register by mail. Upon request,
+5 application forms shall be furnished by the election
+6 authority or the secretary of state.
+7 [2. Notwithstanding any provision of law to the
+8 contrary, the election authority shall not deliver any
+9 absentee ballot to any person who registers to vote by mail
+10 until after such person has:
+11 (1) Voted, in person, after presentation of a proper
+12 form of identification set out in section 115.427, for the
+13 first time following registration; or
+14 (2) Provided a copy of identification set out in
+15 section 115.427 to the election authority.
+16 This subsection shall not apply to those persons identified
+17 in section 115.283 who are exempted from obtaining a notary
+18 seal or signature on their absentee ballots. An individual
+19 who has registered to vote by mail but who does not meet the
+20 requirements of this subsection may cast a provisional
+
+SB 986 15
+21 ballot by mail. Such ballot shall not be counted pursuant
+22 to this chapter, and the individual shall be notified of the
+23 reason for not counting the ballot.
+24 3. Subsection 2 of this section shall not apply in the
+25 case of a person:
+26 (1) Who registers to vote by mail pursuant to Section
+27 6 of the National Voter Registration Act of 1993 and submits
+28 a copy of a current and valid photo identification as part
+29 of such registration;
+30 (2) Who registers to vote by mail pursuant to Section
+31 6 of the National Voter Registration Act of 1993 and:
+32 (a) Submits with such registration either a driver's
+33 license number, or at least the last four digits of the
+34 individual's Social Security number; and
+35 (b) With respect to whom the secretary of state
+36 matches the information submitted pursuant to paragraph (a)
+37 of this subdivision with an existing state identification
+38 record bearing the same number, name, and date of birth as
+39 provided in such registration;
+40 (3) Who is:
+41 (a) A covered voter defined in section 115.902;
+42 (b) Provided the right to vote otherwise than in
+43 person pursuant to Section 3(b)(2)(B)(ii) of the Voting
+44 Accessibility for the Elderly and Handicapped Act; or
+45 (c) Entitled to vote otherwise than in person pursuant
+46 to any other federal law.]
+1 115.160. 1. All Missouri driver's license applicants
+2 shall receive a voter registration application form as a
+3 simultaneous part of the application for a driver's license,
+4 renewal of driver's license, change of address, duplicate
+5 request and a nondriver's license.
+
+SB 986 16
+6 2. If a single application form is used, the voter
+7 registration application portion of any application
+8 described in subsection 1 of this section may not require
+9 any information that duplicates information required in the
+10 driver's license portion of the form, except a second
+11 signature or other information required by law.
+12 3. After conferring with the secretary of state as the
+13 chief state election official responsible for overseeing of
+14 the voter registration process, the director of revenue
+15 shall adopt rules and regulations pertaining to the format
+16 of the voter registration application used by the
+17 department. The director of revenue shall utilize
+18 electronic voter registration application forms and provide
+19 for secure electronic transfer of voter registration
+20 information to election authorities. The secretary of state
+21 and the director of revenue shall ensure the confidentiality
+22 and integrity of the voter registration data collected,
+23 maintained, received, or transmitted under this section.
+24 4. No information relating to the failure of an
+25 applicant for a driver's license or nondriver's license to
+26 sign a voter registration application may be used for any
+27 purpose other than voter registration.
+28 5. Any voter registration application received
+29 pursuant to the provisions of this section shall be
+30 forwarded, in a secure and electronic manner, to the
+31 election authority located within that county or any city
+32 not within a county, or if there is more than one election
+33 authority within the county, then to the election authority
+34 located nearest to the location where the driver's license
+35 application was received. Voter registration information,
+36 including an electronic image of the signature of the
+37 applicant, shall be transmitted in a format compatible with
+
+SB 986 17
+38 the Missouri voter registration system established in
+39 section 115.158 which allows for review by the election
+40 authority and does not require the election authority to
+41 manually reenter the information, provided that the election
+42 authority shall print out a paper copy of the information
+43 and retain such information in the manner required by
+44 section 115.145. The election authority receiving the
+45 application forms shall review the applications and forward,
+46 in a secure and electronic manner, any applications
+47 pertaining to a different election authority to that
+48 election authority.
+49 6. A completed voter registration application accepted
+50 in the driver's licensing process shall be transmitted to
+51 the election authority described in subsection 5 of this
+52 section not later than three business days after the form is
+53 completed by the applicant.
+54 7. Any person registering to vote when applying for or
+55 renewing a Missouri driver's license shall submit with the
+56 application form [a copy of a birth certificate, a Native
+57 American tribal document, or other proof of United States
+58 citizenship, a valid Missouri driver's license, or other
+59 form of personal identification] documentary proof of United
+60 States citizenship. Any person who, at the time of a
+61 transaction with the division of motor vehicle and driver
+62 licensing of the department of revenue, provides a document
+63 that establishes noncitizenship shall not be offered the
+64 opportunity to register to vote as part of the transaction.
+1 115.195. 1. At least once each month, the state or
+2 local registrar of vital statistics shall provide to the
+3 election authority a list of the name and address, if known,
+4 of each person over eighteen years of age in its
+5 jurisdiction whose death has been reported to him or her and
+
+SB 986 18
+6 provide a copy of the list of any death reported in the
+7 state to the secretary of state. The secretary of state
+8 shall notify the election authority of the jurisdiction in
+9 which the deceased resided of the information received
+10 pursuant to this subsection.
+11 2. At least once each month, the clerk of the circuit
+12 court of each county and city not within a county shall
+13 provide to the election authority a list of the name and
+14 address, if known, of each person over eighteen years of age
+15 in the court's jurisdiction who has been convicted of any
+16 felony, or of a misdemeanor connected with the right of
+17 suffrage. A copy of the list shall also be submitted to the
+18 secretary of state. The secretary of state shall notify the
+19 election authority of the jurisdiction in which an offender
+20 resides of the information received pursuant to this
+21 subsection.
+22 3. At least once each month, the clerk of the probate
+23 division of the circuit court of each county and city not
+24 within a county shall provide to the election authority a
+25 list of the name and address, if known, of each person over
+26 eighteen years of age in the court's jurisdiction who has
+27 been adjudged incapacitated and has not been restored to
+28 capacity. A copy of the list shall also be submitted to the
+29 secretary of state. The secretary of state shall notify the
+30 election authority of the jurisdiction in which such person
+31 resides of the information received pursuant to this
+32 subsection.
+33 4. The clerk of each circuit court shall, on or before
+34 the tenth day of each month, prepare and transmit to the
+35 secretary of state, in a format prescribed by the secretary
+36 of state, a complete list of all persons, including
+37 addresses, ages, and other identifying information as
+
+SB 986 19
+38 specified by the secretary of state, who identify themselves
+39 as not being citizens of the United States during their
+40 qualification to serve as a juror during the preceding
+41 calendar month in that county.
+42 5. All state and local registrars and all clerks of
+43 probate divisions of the circuit courts and circuit courts
+44 shall provide the information specified in this section,
+45 without charge, to the election authority or the secretary
+46 of state.
+1 115.221. Notwithstanding any other provisions of law
+2 to the contrary, each election authority may have the voting
+3 records inspected and may investigate the qualifications of
+4 any person who has not voted or transferred his registration
+5 within the four preceding calendar years. If the election
+6 authority determines that a person who is not eligible to
+7 vote registered to vote or voted in an election, the
+8 election authority shall execute and deliver to the attorney
+9 general, the secretary of state, and the prosecuting or
+10 circuit attorney having jurisdiction in the territory
+11 covered by the election an affidavit stating the relevant
+12 facts.
+1 115.642. 1. Any person may file a complaint with the
+2 secretary of state stating the name of any person who has
+3 violated any of the provisions of sections 115.629 to
+4 115.646 and stating the facts of the alleged offense, sworn
+5 to, under penalty of perjury.
+6 2. Within thirty days of receiving a complaint, the
+7 secretary of state shall notify the person filing the
+8 complaint whether or not the secretary has dismissed the
+9 complaint or will commence an investigation. The secretary
+10 of state shall dismiss frivolous complaints. For purposes
+11 of this subsection, "frivolous complaint" shall mean an
+
+SB 986 20
+12 allegation clearly lacking any basis in fact or law. Any
+13 person who makes a frivolous complaint pursuant to this
+14 section shall be liable for actual and compensatory damages
+15 to the alleged violator for holding the alleged violator
+16 before the public in a false light. If reasonable grounds
+17 appear that the alleged offense was committed, the secretary
+18 of state may issue a probable cause statement. If the
+19 secretary of state issues a probable cause statement, he or
+20 she may refer the offense to the appropriate prosecuting
+21 attorney or attorney general.
+22 3. Notwithstanding the provisions of section 27.060,
+23 56.060, or 56.430 to the contrary, when requested by the
+24 prosecuting attorney or circuit attorney or attorney
+25 general, the secretary of state or his or her authorized
+26 representatives may aid any prosecuting attorney or circuit
+27 attorney or attorney general in the commencement and
+28 prosecution of election offenses as provided in sections
+29 115.629 to 115.646.
+30 4. (1) The secretary of state may investigate any
+31 suspected violation of any of the provisions of sections
+32 115.629 to 115.646.
+33 (2) (a) The secretary of state or an authorized
+34 representative of the secretary of state shall have the
+35 power to require the production of books, papers,
+36 correspondence, memoranda, contracts, agreements, and other
+37 records by subpoena or otherwise when necessary to conduct
+38 an investigation under this section. Such powers shall be
+39 exercised only at the specific written direction of the
+40 secretary of state or his or her chief deputy.
+41 (b) If any person refuses to comply with a subpoena
+42 issued under this subsection, the secretary of state may
+43 seek to enforce the subpoena before a court of competent
+
+SB 986 21
+44 jurisdiction to require the production of books, papers,
+45 correspondence, memoranda, contracts, agreements, and other
+46 records. The court may issue an order requiring the person
+47 to produce records relating to the matter under
+48 investigation or in question. Any person who fails to
+49 comply with the order may be held in contempt of court.
+50 (c) The provisions of this subdivision shall expire on
+51 August 28, 2025.
+✓

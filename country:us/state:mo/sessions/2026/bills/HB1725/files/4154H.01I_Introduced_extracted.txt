@@ -1,0 +1,108 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+SECOND REGULAR SESSION
+HOUSE BILL NO. 1725
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE COSTLOW.
+4154H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To repeal sections 387.420 and 387.436, RSMo, and to enact in lieu thereof three new
+sections relating to transportation network companies, with penalty provisions.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Sections 387.420 and 387.436, RSMo, are repealed and three new sections
+2 enacted in lieu thereof, to be known as sections 387.420, 387.436, and 575.121, to read as
+3 follows:
+387.420. 1. Before allowing an individual to accept trip requests through a TNC's
+2 digital network, the TNC shall:
+3 (1) Require the individual to register with the TNC by submitting information
+4 regarding his or her address, age, driver's license, motor vehicle registration, automobile
+5 liability insurance, and other information required by the TNC;
+6 (2) Conduct, or have a third party conduct, a local and national criminal background
+7 check for each applicant that shall include:
+8 (a) Multistate/multijurisdiction criminal records locator or other similar commercial
+9 nationwide database with validation, also known as a primary source search; and
+10 (b) United States Department of Justice National Sex Offender public website; and
+11 [(c)] (3) Obtain and review, or have a third party obtain and review, a driving history
+12 research report for such individual.
+13 2. The TNC shall not permit an individual to act as a TNC driver on its digital
+14 network who:
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 1725 2
+15 (1) Has had more than three moving violations in the prior three-year period, or one
+16 violation in the prior three-year period resulting in assessment of six or more points pursuant
+17 to section 302.302, including but not limited to driving on a suspended or revoked license;
+18 (2) Has been convicted, within the past five years, of a first violation of section
+19 577.010 or 577.012, a violation of section 304.012, or resisting or interfering with arrest
+20 where the conviction results in a class A misdemeanor;
+21 (3) Has been convicted, within the past seven years, of a second or subsequent
+22 violation of section 577.010 or 577.012, fraud, a sexual offense, resisting or interfering with
+23 arrest where the conviction results in a [class E] felony of any classification, use of a motor
+24 vehicle to commit a felony, an offense involving property damage, theft, an act of violence, or
+25 an act of terror;
+26 (4) Is a match in the United States Department of Justice National Sex Offender
+27 public website;
+28 (5) Does not possess a valid driver's license;
+29 (6) Does not possess proof of registration for the motor vehicle or vehicles used to
+30 provide prearranged rides;
+31 (7) Does not possess proof of automobile liability insurance for the motor vehicle or
+32 vehicles used to provide prearranged rides; [or]
+33 (8) Is not at least nineteen years of age; or
+34 (9) Is not a United States citizen or authorized to work under a current
+35 employment authorization document.
+36 3. A TNC driver who is qualified to accept trip requests through a TNC's digital
+37 network pursuant to this section shall not be required to obtain any other state or local license
+38 or permit to provide prearranged rides.
+387.436. 1. Upon receipt of information that a TNC driver has been convicted of a
+2 violation of section 304.012, 577.010, or 577.012, fraud, a sexual offense, resisting or
+3 interfering with arrest where the conviction results in a class A misdemeanor or a felony
+4 of any classification, use of a motor vehicle to commit a felony, an offense involving
+5 property damage, theft, an act of violence, or an act of terror, or no longer maintains the
+6 minimum motor vehicle financial responsibility required to be carried under chapter 303, a
+7 TNC shall immediately revoke such driver's ability to accept trip requests through the TNC's
+8 digital platform, and as soon as practicable, notify the department of the TNC driver's name,
+9 license number, and license plate number.
+10 2. Upon the expiration of an employment authorization document of a TNC
+11 driver, a TNC shall immediately revoke such driver's ability to accept trip requests
+12 through the TNC's digital platform, and as soon as practicable, notify the department of
+13 the TNC driver's name, license number, and license plate number.
+
+HB 1725 3
+14 3. Upon receipt of information that a TNC driver has been involved in a traffic
+15 accident or incident that results in serious bodily injury or a fatality, a TNC shall notify the
+16 department of the driver's name, license number, and license plate number.
+17 [3.] 4. The department shall develop and implement a process to provide any
+18 information received under subsections 1 and 2 of this section to all other TNCs licensed in
+19 this state.
+20 [4.] 5. Notwithstanding any other provision of law, any information provided to the
+21 department under this section shall be exempt from disclosure under chapter 610.
+575.121. 1. A person commits the offense of impersonating a transportation
+2 network company driver if the person:
+3 (1) Makes a false statement, uses a false display of distinctive signage or
+4 emblems known as a trade dress, trademark, branding, or logo of the transportation
+5 network company, or any other act that falsely represents that the person has a current
+6 connection with a transportation network company; or
+7 (2) Falsely represents that the person is responding to a passenger ride request
+8 for a transportation network company.
+9 2. Except as provided in subsections 3 and 4 of this section, the offense of
+10 impersonating a transportation network company driver is a class A misdemeanor.
+11 3. The offense of impersonating a transportation network company driver is a
+12 class C felony if the person impersonates a transportation company network driver
+13 during the commission of:
+14 (1) Any felony offense and causes great bodily injury to another person other
+15 than to an accomplice; or
+16 (2) The offense of kidnapping in the first degree, kidnapping in the second
+17 degree, kidnapping in the third degree, or child kidnapping under chapter 565, or any
+18 sexual offense under chapter 566.
+19 4. The offense of impersonating a transportation network company driver is a
+20 class A felony if the person impersonates a transportation company network driver
+21 during the commission of any felony offense and causes the death of another person
+22 other than to an accomplice.
+23 5. Nothing in this section shall preclude prosecution under any other law.
+✔
