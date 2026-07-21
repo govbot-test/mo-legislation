@@ -1,0 +1,319 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+SECOND REGULAR SESSION
+HOUSE BILL NO. 3010
+103RD GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE STINNETT.
+6673H.01I JOSEPH ENGLER, Chief Clerk
+AN ACT
+To repeal sections 376.1363 and 376.1364, RSMo, and to enact in lieu thereof eight new
+sections relating to prior authorization of health care services.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Sections 376.1363 and 376.1364, RSMo, are repealed and eight new
+2 sections enacted in lieu thereof, to be known as sections 376.1363, 376.1364, 376.1366,
+3 376.2100, 376.2102, 376.2104, 376.2106, and 376.2108, to read as follows:
+376.1363. 1. A health carrier shall maintain written procedures for making utilization
+2 review decisions and for notifying enrollees and providers acting on behalf of enrollees of its
+3 decisions. For purposes of this section, "enrollee" includes the representative of an enrollee.
+4 2. For determinations, a health carrier shall make the determination within thirty-six
+5 hours, which shall include one working day, of obtaining all necessary information regarding
+6 a proposed admission, procedure or service requiring a review determination. For purposes
+7 of this section, "necessary information" includes the results of any face-to-face clinical
+8 evaluation or second opinion that may be required:
+9 (1) In the case of a determination to certify an admission, procedure or service, the
+10 carrier shall notify the provider rendering the service by telephone or electronically within
+11 twenty-four hours of making the certification, and provide written or electronic confirmation
+12 of a telephone or electronic notification to the enrollee and the provider within two working
+13 days of making the certification;
+14 (2) In the case of an adverse determination, the carrier shall notify the provider
+15 rendering the service by telephone or electronically within twenty-four hours of making the
+16 adverse determination; and shall provide written or electronic confirmation of a telephone or
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+HB 3010 2
+17 electronic notification to the enrollee and the provider within one working day of making the
+18 adverse determination.
+19 3. For concurrent review determinations, a health carrier shall make the determination
+20 within one working day of obtaining all necessary information:
+21 (1) In the case of a determination to certify an extended stay or additional services,
+22 the carrier shall notify by telephone or electronically the provider rendering the service within
+23 one working day of making the certification, and provide written or electronic confirmation to
+24 the enrollee and the provider within one working day after telephone or electronic
+25 notification. The written notification shall include the number of extended days or next
+26 review date, the new total number of days or services approved, and the date of admission or
+27 initiation of services;
+28 (2) In the case of an adverse determination, the carrier shall notify by telephone or
+29 electronically the provider rendering the service within twenty-four hours of making the
+30 adverse determination, and provide written or electronic notification to the enrollee and the
+31 provider within one working day of a telephone or electronic notification. The service shall
+32 be continued without liability to the enrollee until the enrollee has been notified of the
+33 determination.
+34 4. For retrospective review determinations, a health carrier shall make the
+35 determination within thirty working days of receiving all necessary information. A carrier
+36 shall provide notice in writing of the carrier's determination to an enrollee within ten working
+37 days of making the determination.
+38 5. A written notification of an adverse determination shall include the principal reason
+39 or reasons for the determination, including the clinical rationale, and the instructions for
+40 initiating an appeal or reconsideration of the determination. A health carrier shall provide the
+41 clinical rationale in writing for an adverse determination, including the clinical review criteria
+42 used to make that determination, to the health care provider and to any party who received
+43 notice of the adverse determination.
+44 6. A health carrier shall have written procedures to address the failure or inability of a
+45 provider or an enrollee to provide all necessary information for review. These procedures
+46 shall be made available to health care providers on the health carrier's website or provider
+47 portal. In cases where the provider or an enrollee will not release necessary information, the
+48 health carrier may deny certification of an admission, procedure or service.
+49 7. (1) Provided the patient is an enrollee of the health benefit plan, no utilization
+50 review entity shall revoke, limit, condition, or otherwise restrict a prior authorization within
+51 [forty-five working days of the date the health care provider receives the prior authorization]
+52 the lesser of six months after the date the health care provider receives the prior
+
+HB 3010 3
+53 authorization approval or the length of treatment as determined by the patient's health
+54 care provider.
+55 (2) If a health carrier requires a prior authorization for a recurring health care
+56 service or maintenance medication for the treatment of a chronic or long-term condition
+57 as defined by the United States Centers for Disease Control and Prevention, including,
+58 but not limited to, chemotherapy for the treatment of cancer, the approval shall remain
+59 valid for the lesser of twelve months from the date the health care professional or health
+60 care provider receives the prior authorization approval or the length of the treatment as
+61 determined by the patient's health care provider. A health carrier and an enrollee or his
+62 or her health care provider may extend a prior authorization approval for a longer
+63 period by mutual agreement.
+64 8. Provided the patient is an enrollee of the health benefit plan at the time the service
+65 is provided, no health carrier, utilization review entity, or health care provider shall bill an
+66 enrollee for any health care service for which a prior authorization was in effect at the time
+67 the health care service was provided, except as consistent with cost-sharing requirements
+68 applicable to a covered benefit under the enrollee's health benefit plan. Such cost-sharing
+69 shall be subject to and applied toward any in-network deductible or out-of-pocket maximum
+70 applicable to the enrollee's health benefit plan.
+71 9. The failure of a health carrier to comply with the deadlines and requirements
+72 of this section shall result in any health care services subject to prior authorization to be
+73 automatically deemed authorized by the health carrier for a duration of time of at least
+74 the time frames set forth in subsection 7 of this section.
+376.1364. 1. Any utilization review entity performing prior authorization review
+2 shall provide a unique confirmation number and timestamp to a provider upon receipt from
+3 that provider of a request for prior authorization. Except as otherwise requested by the
+4 provider in writing, unique confirmation numbers shall be transmitted or otherwise
+5 communicated through the same medium through which the requests for prior
+6 authorization were made.
+7 2. No later than January 1, 2021, utilization review entities shall accept and respond
+8 to requests for prior authorization of drug benefits through a secure electronic transmission
+9 using the National Council for Prescription Drugs SCRIPT Standard Version 2017071 or a
+10 backwards-compatible successor adopted by the United States Department of Health and
+11 Human Services. For purposes of this subsection, facsimile, proprietary payer portals, and
+12 electronic forms shall not be considered electronic transmission.
+13 3. No later than January 1, 2021, utilization review entities shall accept and respond
+14 to requests for prior authorization of health care services and mental health services
+
+HB 3010 4
+15 electronically. For purposes of this subsection, facsimile, proprietary payer portals, and
+16 electronic forms shall not be considered electronic transmission.
+17 4. [No later than January 1, 2021, each health carrier utilizing prior authorization
+18 review shall develop a single secure electronic prior authorization cover page for all of its
+19 health benefit plans utilizing prior authorization review, which the carrier or its utilization
+20 review entity shall use to accept and respond to, and which providers shall use to submit,
+21 requests for prior authorization. Such cover page shall include, but not be limited to, fields
+22 for patient or enrollee information, referring or requesting provider information, rendering or
+23 attending provider information, and required clinical information, and shall be supplemented
+24 by additional clinical information as required by the health carrier or utilization review
+25 entity.] For plan years beginning on or after January 1, 2027, a health carrier or its
+26 utilization review entity shall implement and maintain a prior authorization application
+27 programming interface (API) that conforms with 45 CFR 156.221(c)(2) through (4), (d),
+28 and (e) and the standards in 45 CFR 170.215(a)(1), (b)(1)(i), and (c)(1) to respond to
+29 requests for prior authorization for health care services, excluding prescription drugs.
+30 If a health carrier cannot implement the prior authorization API by January 1, 2027,
+31 the health carrier shall provide written notice to the department requesting an
+32 extension, accompanied by a documented plan to come into compliance.
+33 5. An enrollee's health care provider shall use the prior authorization API, as
+34 described in subsection 4 of this section, to submit requests for prior authorization for
+35 health care services, excluding prescription drugs.
+36 6. For contracts between health carriers and participating health care providers
+37 entered into or renewed on or after January 1, 2027, a health carrier shall include a
+38 provision that requires health care providers to submit prior authorization requests
+39 using the application programming interface described in subsection 4 of this section. If
+40 a participating health care provider fails to utilize the prior authorization API to submit
+41 requests, the enrollee shall not be subject to cost sharing in excess of the in-network
+42 cost-sharing amount.
+43 7. For plan years beginning on or after January 1, 2027, a health carrier using
+44 prior authorization shall make statistics available regarding prior authorization
+45 approvals and denials for health care services, excluding drugs, on its website in a
+46 readily accessible format. Health carriers shall submit the uniform resource locator
+47 (URL) for the website location where such statistics are posted to the department, and
+48 the department shall publish the website locations in a central location on the
+49 department's website. The statistics shall be updated each year thereafter, no later than
+50 March thirty-first, and shall include all the following information:
+
+HB 3010 5
+51 (1) The percentage of standard prior authorization requests that were approved,
+52 aggregated for all health care services;
+53 (2) The percentage of standard prior authorization requests that were denied,
+54 aggregated for all health care services;
+55 (3) The percentage of prior authorization requests that were approved after
+56 appeal, aggregated for all health care services;
+57 (4) The percentage of prior authorization requests for which the time frame for
+58 review was extended, and the request was approved, aggregated for all health care
+59 services;
+60 (5) The percentage of expedited prior authorization requests that were
+61 approved, aggregated for all health care services;
+62 (6) The percentage of expedited prior authorization requests that were denied,
+63 aggregated for all health care services;
+64 (7) The average and median time that elapsed between the submission of a
+65 request and a determination by the health carrier for standard prior authorization,
+66 aggregated for all health care services;
+67 (8) The average and median time that elapsed between the submission of a
+68 request and a decision by the health carrier for expedited prior authorizations,
+69 aggregated for all health care services; and
+70 (9) Any other information as the department determines appropriate.
+71 8. Every health carrier in this state offering a health benefit plan with a
+72 managed care component shall report annually to the department, in a manner specified
+73 by the department, a complete list of the health care services, excluding drugs, for which
+74 prior authorization is required, including for services where prior authorization is
+75 performed by the health carrier's utilization review entity.
+76 9. Health carriers shall reduce the scope of claims subject to prior
+77 authorizations. To promote consistency among carriers, the department shall review
+78 the reports submitted under subsection 8 of this section and compile an annual report to
+79 be published on the department's website no later than October first of each year.
+80 10. No later than May 31, 2028, and annually thereafter, every health carrier in
+81 this state offering a health benefit plan with a managed care component shall report to
+82 the department, in a manner specified by the department, aggregated data related to the
+83 following practices and experience of the health carrier for the prior plan year for
+84 health care services submitted for payment, excluding drugs:
+85 (1) The number of prior authorization requests;
+86 (2) The number of prior authorization requests approved;
+87 (3) The number of prior authorization requests denied;
+
+HB 3010 6
+88 (4) The number of prior authorization requests for mental health services,
+89 behavioral health benefits, and substance use disorders;
+90 (5) The number of prior authorization requests for mental health services,
+91 behavioral health benefits, and substance use disorders denied;
+92 (6) The number of prior authorization requests for mental health services,
+93 behavioral health benefits, and substance use disorders approved;
+94 (7) The number of prior authorization appeals received;
+95 (8) The number of adverse determinations reversed on appeal;
+96 (9) The ten health care services or mental health services that were most
+97 frequently denied through prior authorization;
+98 (10) The ten reasons prior authorization requests were most frequently denied;
+99 (11) The number of claims for health care services or mental health services that
+100 were examined through a post-service utilization review process;
+101 (12) The number and percentage of claims for health care services or mental
+102 health services denied through post-service utilization review; and
+103 (13) The ten health care services or mental health services that were most
+104 frequently denied as a result of post-service utilization reviews.
+376.1366. 1. Contracts between health carriers and health care providers shall
+2 include a provision for the continuation of prior authorization approvals for enrollees
+3 from a previous health carrier for at least one hundred eighty days from the effective
+4 date of the enrollee's coverage under the new health benefit plan, subject to the terms of
+5 the certificate of coverage.
+6 2. At any time during the one-hundred-eighty-day period described in
+7 subsection 1 of this section, the new health carrier may perform its own review to
+8 grant a prior authorization approval subject to the terms of the certificate of coverage.
+9 3. If there is a change in coverage of, or approval criteria for, a previously
+10 authorized health care service, the change in coverage or approval criteria shall not
+11 affect an enrollee who received prior authorization approval before the effective date of
+12 the change through the remainder of the enrollee's plan year.
+13 4. Except to the extent required by medical exceptions processes for prescription
+14 drugs, nothing in this section shall require a health benefit plan to cover any care,
+15 treatment, or services for any health condition that the certificate of coverage otherwise
+16 completely excludes from the health benefit plan's covered benefits without regard for
+17 whether the care, treatment, or services are medically necessary.
+376.2100. 1. Except as otherwise provided in subsection 1 of section 376.2108, as
+2 used in sections 376.2100 to 376.2108, terms shall have the same meanings as are
+3 ascribed to them under section 376.1350.
+
+HB 3010 7
+4 2. As used in sections 376.2100 to 376.2108, the term "evaluation period" means
+5 any consecutive twelve months.
+376.2102. 1. Except as otherwise provided in this section, beginning January 1,
+2 2027, a health carrier or utilization review entity shall not require a health care provider
+3 to obtain prior authorization for a health care service unless the health carrier or
+4 utilization review entity makes a determination that in the most recent evaluation period
+5 the health carrier or utilization review entity has approved or would have approved less
+6 than ninety percent of the prior authorization requests submitted by that provider for
+7 that health care service.
+8 2. Beginning January 1, 2027, a health carrier or utilization review entity shall
+9 not require a health care provider to obtain prior authorization for any health care
+10 services unless the health carrier or utilization review entity makes a determination that
+11 in the most recent evaluation period the health carrier or utilization review entity has
+12 approved or would have approved less than ninety percent of all prior authorization
+13 requests submitted by that provider for health care services.
+14 3. In making a determination under this section, the health carrier or utilization
+15 review entity shall not count:
+16 (1) Any prior authorization requests denied by a health carrier or utilization
+17 review entity and being appealed by the health care provider; or
+18 (2) Any request made by a health care provider for a service that is not included
+19 in the health carrier's benefit plan
+20
+21 but shall count as approved any prior authorization request that was denied by a health
+22 carrier or utilization review entity but that was subsequently authorized.
+23 4. In making a determination under this section, the health carrier or utilization
+24 review entity shall use either the provider's National Provider Identifier or a taxpayer
+25 identification number. Such designation shall remain unless requested to be changed by
+26 the provider.
+27 5. The exemption from prior authorization requirements described in
+28 subsections 1 and 2 of this section may be subject to internal auditing of the most
+29 recent consecutive six months, up to a maximum of two times per year, by the health
+30 carrier or utilization review entity and may be rescinded if:
+31 (1) Such carrier or utilization review entity determines that the carrier or
+32 utilization review entity would have approved less than ninety percent of prior
+33 authorization requests for a health care service for which the provider was exempt from
+34 the prior authorization requirement under subsection 1 of this section;
+
+HB 3010 8
+35 (2) Such carrier or utilization review entity determines that the carrier or
+36 utilization review entity would have approved less than ninety percent of all prior
+37 authorization requests if the provider was exempt from the prior authorization
+38 requirement under subsection 2 of this section; or
+39 (3) There has been an increase in the provision of exempt procedures by a health
+40 care provider of more than fifty percent or more than twenty procedures, whichever
+41 amount is greater.
+42 6. The exemption described in subsections 1 and 2 of this section shall be null
+43 and void upon a determination that the health care provider has been found by a court
+44 of law to have civilly or criminally engaged in any fraud or abuse after the exemption is
+45 granted by a health carrier or utilization review entity.
+46 7. A health carrier or utilization review entity may require health care providers
+47 in the health carrier's or utilization review entity's network to use an online portal to
+48 submit requests for prior authorization.
+49 8. No adverse determination shall be finalized under subsection 1, 2, or 5 of this
+50 section unless reviewed by a clinical peer.
+376.2104. 1. The health carrier or utilization review entity shall notify the health
+2 care provider no later than twenty-five days after any determination made under
+3 section 376.2102. The notification shall include the statistics, data, and any supporting
+4 documentation for making the determination for the relevant evaluation period.
+5 2. The health carrier or utilization review entity shall establish a process for
+6 health care providers to appeal any determinations made under section 376.2102.
+7 3. The health carrier or utilization review entity shall maintain an online portal
+8 to allow health care providers to access all prior authorization decisions, including
+9 determinations made under section 376.2102. For health care providers subject to prior
+10 authorizations, the portal shall include the status of each prior authorization request, all
+11 notifications to the health care provider, the dates the health care provider received such
+12 notifications, and any other information relevant to the determination.
+376.2106. No health carrier or utilization review entity shall deny or reduce
+2 payment to a health care provider for a health care service for which the provider has a
+3 prior authorization unless the provider:
+4 (1) Knowingly and materially misrepresented the health care service in a request
+5 for payment submitted to the health carrier or utilization review entity with the specific
+6 intent to deceive and obtain an unlawful payment from the carrier or entity; or
+7 (2) Failed to substantially perform the health care service.
+376.2108. 1. The provisions of sections 376.2100 to 376.2108 shall not apply to
+2 MO HealthNet, except that a Medicaid managed care organization as defined in section
+
+HB 3010 9
+3 208.431 shall be considered a health carrier for purposes of sections 376.2100 to
+4 376.2108.
+5 2. The provisions of sections 376.2100 to 376.2108 shall not apply to health care
+6 providers who have not participated in a health benefit plan offered by the health
+7 carrier for at least one full evaluation period.
+8 3. Nothing in sections 376.2100 to 376.2108 shall be construed to:
+9 (1) Authorize a health care provider to provide a health care service outside the
+10 scope of his or her applicable license; or
+11 (2) Require a health carrier or utilization review entity to pay for a health care
+12 service described in subdivision (1) of this subsection.
+✔
