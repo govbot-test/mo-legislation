@@ -1,0 +1,138 @@
+Title: 
+Official Title: 
+Source: versions - 3364S.01I - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SECOND REGULAR SESSION
+SENATE BILL NO. 1359
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR TRENT.
+3364S.01I KRISTINA MARTIN, Secretary
+AN ACT
+To amend chapter 537, RSMo, by adding thereto one new section relating to liability for disclosure
+of biometric information.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Chapter 537, RSMo, is amended by adding thereto
+2 one new section, to be known as section 537.323, to read as
+3 follows:
+1 537.323. 1. As used in this section, the following
+2 terms mean:
+3 (1) "Biometric identifier", a retina or iris scan,
+4 fingerprint, voiceprint, or scan of hand or face geometry.
+5 The term "biometric identifier" shall not include the
+6 following:
+7 (a) Any writing sample, written signature, photograph,
+8 human biological sample used for valid scientific testing or
+9 screening, demographic data, tattoo descriptions, or
+10 physical descriptions such as height, weight, hair color, or
+11 eye color;
+12 (b) Any anatomical gift, tissue, or part, as such
+13 terms are defined in section 194.210, or any blood or serum
+14 stored on behalf of recipients or potential recipients of
+15 living or cadaveric transplants and obtained or stored by a
+16 federally designated organ procurement organization;
+17 (c) Biometric data used in genetic testing, including
+18 any direct-to-consumer genetic testing, as such term is
+19 defined in 45 CFR 160.103;
+
+SB 1359 2
+20 (d) Information captured from a patient in a health
+21 care setting or information collected, used, or stored for
+22 health care treatment, payment, or operations under the
+23 federal Health Insurance Portability and Accountability Act
+24 of 1996 (HIPAA), P.L. 104-191, as amended; or
+25 (e) Any X-ray, roentgen process, computed tomography,
+26 MRI, PET scan, mammography, or other image or film of the
+27 human anatomy used to diagnose, prognose, or treat an
+28 illness or other medical condition or to further validate
+29 scientific testing or screening;
+30 (2) "Biometric information", any information,
+31 regardless of how it is captured, converted, stored, or
+32 shared, based on an individual's biometric identifier used
+33 to identify an individual. The term "biometric information"
+34 shall not include information derived from items or
+35 procedures provided in paragraphs (a) to (e) of subdivision
+36 (1) of this subsection;
+37 (3) "Confidential and sensitive information", personal
+38 information that can be used to uniquely identify an
+39 individual or an individual's account or property. The term
+40 "confidential and sensitive information" includes, but is
+41 not limited to, a genetic marker, genetic testing
+42 information, a unique identifier number to locate an account
+43 or property, an account number, a PIN number, a passcode, a
+44 driver's license number, or a Social Security number;
+45 (4) "Private entity", any individual, partnership,
+46 corporation, limited liability company, or association. The
+47 term "private entity" shall not include a state or local
+48 government agency, or any employee or agent thereof, or a
+49 court of this state, or any clerk, judge, or justice thereof.
+50 2. Except as provided in subsection 4 of this section,
+51 a private entity in possession of biometric identifiers or
+
+SB 1359 3
+52 biometric information shall not be liable for damages for
+53 the unauthorized or negligent disclosure of biometric
+54 identifiers or biometric information if the private entity:
+55 (1) Posts and maintains signs or notices which contain
+56 the warning as specified in subsection 3 of this section;
+57 (2) Informs the public and the individual whose
+58 biometric identifier or biometric information is being
+59 collected, captured, or otherwise obtained of the specific
+60 purpose for which the biometric identifier or biometric
+61 information is being used;
+62 (3) Develops a written policy, made available to the
+63 public, establishing a retention schedule and guidelines for
+64 permanently destroying biometric identifiers and biometric
+65 information when the initial purpose for collecting or
+66 obtaining such biometric identifiers or biometric
+67 information has been satisfied or within three years of the
+68 individual's last interaction with the private entity,
+69 whichever occurs first;
+70 (4) Complies with the written policy described in
+71 subdivision (3) of this subsection absent a valid warrant or
+72 subpoena issued by a court of competent jurisdiction; and
+73 (5) Stores, transmits, and protects from disclosure
+74 all biometric identifiers and biometric information in a
+75 manner that is the same as or more protective than the
+76 manner in which the private entity stores, transmits, and
+77 protects other confidential and sensitive information.
+78 3. Every private entity collecting biometric
+79 identifiers shall place a notice in a clearly visible
+80 location or if in a written agreement or contract, in
+81 clearly readable print, stating the following warning:
+
+SB 1359 4
+82 WARNING
+83 This entity obtains biometric identifiers or
+84 biometric information and complies with the
+85 collection and retention requirements under
+86 Missouri law. This entity shall not be liable
+87 for damages for the unauthorized or negligent
+88 disclosure of such identifiers or information.
+89 Information about this entity's collection and
+90 retention schedule is made available to the
+91 public.
+92 4. The provisions of this section shall not be
+93 construed to:
+94 (1) Impact the admission or discovery of biometric
+95 identifiers and biometric information in any action in any
+96 court, or before any tribunal, board, or agency;
+97 (2) Conflict with the provisions of section 334.097,
+98 the federal Health Insurance Portability and Accountability
+99 Act of 1996 (HIPAA), P.L. 104-191, as amended, and any rules
+100 promulgated thereunder;
+101 (3) Conflict with the provisions of sections 324.1100
+102 to 324.1148 and any rules promulgated thereunder;
+103 (4) Apply in any manner to a financial institution or
+104 an affiliate of a financial institution that is subject to
+105 Title V of the federal Gramm-Leach-Bliley Act of 1999, P.L.
+106 106-102, and any rules promulgated thereunder; or
+107 (5) Create or increase the liability of a private
+108 entity and does not affect the availability of any other
+109 immunities from or defenses to liability established by law
+110 or available under common law to which a private entity may
+111 be entitled.
+✓

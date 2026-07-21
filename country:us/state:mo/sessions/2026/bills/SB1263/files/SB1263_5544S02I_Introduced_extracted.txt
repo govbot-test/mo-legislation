@@ -1,0 +1,653 @@
+Title: 
+Official Title: 
+Source: versions - 5544S.02I - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SECOND REGULAR SESSION
+SENATE BILL NO. 1263
+103RD GENERA L ASSEMBLY
+INTRODUCED BY SENATOR BRATTIN.
+5544S.02I KRISTINA MARTIN, Secretary
+AN ACT
+To repeal section 208.152, RSMo, and to enact in lieu thereof two new sections relating to health
+care.
+Be it enacted by the General Assembly of the State of Missouri, as follows:
+1 Section A. Section 208.152, RSMo, is repealed and two new
+2 sections enacted in lieu thereof, to be known as sections
+3 208.152 and 376.1293, to read as follows:
+1 208.152. 1. MO HealthNet payments shall be made on
+2 behalf of those eligible needy persons as described in
+3 section 208.151 who are unable to provide for it in whole or
+4 in part, with any payments to be made on the basis of the
+5 reasonable cost of the care or reasonable charge for the
+6 services as defined and determined by the MO HealthNet
+7 division, unless otherwise hereinafter provided, for the
+8 following:
+9 (1) Inpatient hospital services, except to persons in
+10 an institution for mental diseases who are under the age of
+11 sixty-five years and over the age of twenty-one years;
+12 provided that the MO HealthNet division shall provide
+13 through rule and regulation an exception process for
+14 coverage of inpatient costs in those cases requiring
+15 treatment beyond the seventy-fifth percentile professional
+16 activities study (PAS) or the MO HealthNet children's
+17 diagnosis length-of-stay schedule; and provided further that
+
+SB 1263 2
+18 the MO HealthNet division shall take into account through
+19 its payment system for hospital services the situation of
+20 hospitals which serve a disproportionate number of low-
+21 income patients;
+22 (2) All outpatient hospital services, payments
+23 therefor to be in amounts which represent no more than
+24 eighty percent of the lesser of reasonable costs or
+25 customary charges for such services, determined in
+26 accordance with the principles set forth in Title XVIII A
+27 and B, Public Law 89-97, 1965 amendments to the federal
+28 Social Security Act (42 U.S.C. Section 301, et seq.), but
+29 the MO HealthNet division may evaluate outpatient hospital
+30 services rendered under this section and deny payment for
+31 services which are determined by the MO HealthNet division
+32 not to be medically necessary, in accordance with federal
+33 law and regulations;
+34 (3) Laboratory and X-ray services;
+35 (4) Nursing home services for participants, except to
+36 persons with more than five hundred thousand dollars equity
+37 in their home or except for persons in an institution for
+38 mental diseases who are under the age of sixty-five years,
+39 when residing in a hospital licensed by the department of
+40 health and senior services or a nursing home licensed by the
+41 department of health and senior services or appropriate
+42 licensing authority of other states or government-owned and -
+43 operated institutions which are determined to conform to
+44 standards equivalent to licensing requirements in Title XIX
+45 of the federal Social Security Act (42 U.S.C. Section 1396,
+46 et seq.), as amended, for nursing facilities. The MO
+47 HealthNet division may recognize through its payment
+48 methodology for nursing facilities those nursing facilities
+49 which serve a high volume of MO HealthNet patients. The MO
+
+SB 1263 3
+50 HealthNet division when determining the amount of the
+51 benefit payments to be made on behalf of persons under the
+52 age of twenty-one in a nursing facility may consider nursing
+53 facilities furnishing care to persons under the age of
+54 twenty-one as a classification separate from other nursing
+55 facilities;
+56 (5) Nursing home costs for participants receiving
+57 benefit payments under subdivision (4) of this subsection
+58 for those days, which shall not exceed twelve per any period
+59 of six consecutive months, during which the participant is
+60 on a temporary leave of absence from the hospital or nursing
+61 home, provided that no such participant shall be allowed a
+62 temporary leave of absence unless it is specifically
+63 provided for in his plan of care. As used in this
+64 subdivision, the term "temporary leave of absence" shall
+65 include all periods of time during which a participant is
+66 away from the hospital or nursing home overnight because he
+67 is visiting a friend or relative;
+68 (6) Physicians' services, whether furnished in the
+69 office, home, hospital, nursing home, or elsewhere,
+70 provided, that no funds shall be expended to any abortion
+71 facility, as defined in section 188.015, or to any
+72 affiliate, as defined in section 188.015, of such abortion
+73 facility;
+74 (7) Subject to appropriation, up to twenty visits per
+75 year for services limited to examinations, diagnoses,
+76 adjustments, and manipulations and treatments of
+77 malpositioned articulations and structures of the body
+78 provided by licensed chiropractic physicians practicing
+79 within their scope of practice. Nothing in this subdivision
+80 shall be interpreted to otherwise expand MO HealthNet
+81 services;
+
+SB 1263 4
+82 (8) Drugs and medicines when prescribed by a licensed
+83 physician, dentist, podiatrist, or an advanced practice
+84 registered nurse; except that no payment for drugs and
+85 medicines prescribed on and after January 1, 2006, by a
+86 licensed physician, dentist, podiatrist, or an advanced
+87 practice registered nurse may be made on behalf of any
+88 person who qualifies for prescription drug coverage under
+89 the provisions of P.L. 108-173;
+90 (9) Emergency ambulance services and, effective
+91 January 1, 1990, medically necessary transportation to
+92 scheduled, physician-prescribed nonelective treatments;
+93 (10) Early and periodic screening and diagnosis of
+94 individuals who are under the age of twenty-one to ascertain
+95 their physical or mental defects, and health care,
+96 treatment, and other measures to correct or ameliorate
+97 defects and chronic conditions discovered thereby. Such
+98 services shall be provided in accordance with the provisions
+99 of Section 6403 of P.L. 101-239 and federal regulations
+100 promulgated thereunder;
+101 (11) Home health care services;
+102 (12) Family planning as defined by federal rules and
+103 regulations; provided, that no funds shall be expended to
+104 any abortion facility, as defined in section 188.015, or to
+105 any affiliate, as defined in section 188.015, of such
+106 abortion facility; and further provided, however, that such
+107 family planning services shall not include abortions or any
+108 abortifacient drug or device that is used for the purpose of
+109 inducing an abortion unless such abortions are certified in
+110 writing by a physician to the MO HealthNet agency that, in
+111 the physician's professional judgment, the life of the
+112 mother would be endangered if the fetus were carried to term;
+
+SB 1263 5
+113 (13) Inpatient psychiatric hospital services for
+114 individuals under age twenty-one as defined in Title XIX of
+115 the federal Social Security Act (42 U.S.C. Section 1396d, et
+116 seq.);
+117 (14) Outpatient surgical procedures, including
+118 presurgical diagnostic services performed in ambulatory
+119 surgical facilities which are licensed by the department of
+120 health and senior services of the state of Missouri; except,
+121 that such outpatient surgical services shall not include
+122 persons who are eligible for coverage under Part B of Title
+123 XVIII, Public Law 89-97, 1965 amendments to the federal
+124 Social Security Act, as amended, if exclusion of such
+125 persons is permitted under Title XIX, Public Law 89-97, 1965
+126 amendments to the federal Social Security Act, as amended;
+127 (15) Personal care services which are medically
+128 oriented tasks having to do with a person's physical
+129 requirements, as opposed to housekeeping requirements, which
+130 enable a person to be treated by his or her physician on an
+131 outpatient rather than on an inpatient or residential basis
+132 in a hospital, intermediate care facility, or skilled
+133 nursing facility. Personal care services shall be rendered
+134 by an individual not a member of the participant's family
+135 who is qualified to provide such services where the services
+136 are prescribed by a physician in accordance with a plan of
+137 treatment and are supervised by a licensed nurse. Persons
+138 eligible to receive personal care services shall be those
+139 persons who would otherwise require placement in a hospital,
+140 intermediate care facility, or skilled nursing facility.
+141 Benefits payable for personal care services shall not exceed
+142 for any one participant one hundred percent of the average
+143 statewide charge for care and treatment in an intermediate
+144 care facility for a comparable period of time. Such
+
+SB 1263 6
+145 services, when delivered in a residential care facility or
+146 assisted living facility licensed under chapter 198 shall be
+147 authorized on a tier level based on the services the
+148 resident requires and the frequency of the services. A
+149 resident of such facility who qualifies for assistance under
+150 section 208.030 shall, at a minimum, if prescribed by a
+151 physician, qualify for the tier level with the fewest
+152 services. The rate paid to providers for each tier of
+153 service shall be set subject to appropriations. Subject to
+154 appropriations, each resident of such facility who qualifies
+155 for assistance under section 208.030 and meets the level of
+156 care required in this section shall, at a minimum, if
+157 prescribed by a physician, be authorized up to one hour of
+158 personal care services per day. Authorized units of
+159 personal care services shall not be reduced or tier level
+160 lowered unless an order approving such reduction or lowering
+161 is obtained from the resident's personal physician. Such
+162 authorized units of personal care services or tier level
+163 shall be transferred with such resident if he or she
+164 transfers to another such facility. Such provision shall
+165 terminate upon receipt of relevant waivers from the federal
+166 Department of Health and Human Services. If the Centers for
+167 Medicare and Medicaid Services determines that such
+168 provision does not comply with the state plan, this
+169 provision shall be null and void. The MO HealthNet division
+170 shall notify the revisor of statutes as to whether the
+171 relevant waivers are approved or a determination of
+172 noncompliance is made;
+173 (16) Mental health services. The state plan for
+174 providing medical assistance under Title XIX of the Social
+175 Security Act, 42 U.S.C. Section 1396, et seq., as amended,
+176 shall include the following mental health services when such
+
+SB 1263 7
+177 services are provided by community mental health facilities
+178 operated by the department of mental health or designated by
+179 the department of mental health as a community mental health
+180 facility or as an alcohol and drug abuse facility or as a
+181 child-serving agency within the comprehensive children's
+182 mental health service system established in section
+183 630.097. The department of mental health shall establish by
+184 administrative rule the definition and criteria for
+185 designation as a community mental health facility and for
+186 designation as an alcohol and drug abuse facility. Such
+187 mental health services shall include:
+188 (a) Outpatient mental health services including
+189 preventive, diagnostic, therapeutic, rehabilitative, and
+190 palliative interventions rendered to individuals in an
+191 individual or group setting by a mental health professional
+192 in accordance with a plan of treatment appropriately
+193 established, implemented, monitored, and revised under the
+194 auspices of a therapeutic team as a part of client services
+195 management;
+196 (b) Clinic mental health services including
+197 preventive, diagnostic, therapeutic, rehabilitative, and
+198 palliative interventions rendered to individuals in an
+199 individual or group setting by a mental health professional
+200 in accordance with a plan of treatment appropriately
+201 established, implemented, monitored, and revised under the
+202 auspices of a therapeutic team as a part of client services
+203 management;
+204 (c) Rehabilitative mental health and alcohol and drug
+205 abuse services including home and community-based
+206 preventive, diagnostic, therapeutic, rehabilitative, and
+207 palliative interventions rendered to individuals in an
+208 individual or group setting by a mental health or alcohol
+
+SB 1263 8
+209 and drug abuse professional in accordance with a plan of
+210 treatment appropriately established, implemented, monitored,
+211 and revised under the auspices of a therapeutic team as a
+212 part of client services management. As used in this
+213 section, mental health professional and alcohol and drug
+214 abuse professional shall be defined by the department of
+215 mental health pursuant to duly promulgated rules. With
+216 respect to services established by this subdivision, the
+217 department of social services, MO HealthNet division, shall
+218 enter into an agreement with the department of mental
+219 health. Matching funds for outpatient mental health
+220 services, clinic mental health services, and rehabilitation
+221 services for mental health and alcohol and drug abuse shall
+222 be certified by the department of mental health to the MO
+223 HealthNet division. The agreement shall establish a
+224 mechanism for the joint implementation of the provisions of
+225 this subdivision. In addition, the agreement shall
+226 establish a mechanism by which rates for services may be
+227 jointly developed;
+228 (17) Such additional services as defined by the MO
+229 HealthNet division to be furnished under waivers of federal
+230 statutory requirements as provided for and authorized by the
+231 federal Social Security Act (42 U.S.C. Section 301, et seq.)
+232 subject to appropriation by the general assembly;
+233 (18) The services of an advanced practice registered
+234 nurse with a collaborative practice agreement to the extent
+235 that such services are provided in accordance with chapters
+236 334 and 335, and regulations promulgated thereunder;
+237 (19) Nursing home costs for participants receiving
+238 benefit payments under subdivision (4) of this subsection to
+239 reserve a bed for the participant in the nursing home during
+240 the time that the participant is absent due to admission to
+
+SB 1263 9
+241 a hospital for services which cannot be performed on an
+242 outpatient basis, subject to the provisions of this
+243 subdivision:
+244 (a) The provisions of this subdivision shall apply
+245 only if:
+246 a. The occupancy rate of the nursing home is at or
+247 above ninety-seven percent of MO HealthNet certified
+248 licensed beds, according to the most recent quarterly census
+249 provided to the department of health and senior services
+250 which was taken prior to when the participant is admitted to
+251 the hospital; and
+252 b. The patient is admitted to a hospital for a medical
+253 condition with an anticipated stay of three days or less;
+254 (b) The payment to be made under this subdivision
+255 shall be provided for a maximum of three days per hospital
+256 stay;
+257 (c) For each day that nursing home costs are paid on
+258 behalf of a participant under this subdivision during any
+259 period of six consecutive months such participant shall,
+260 during the same period of six consecutive months, be
+261 ineligible for payment of nursing home costs of two
+262 otherwise available temporary leave of absence days provided
+263 under subdivision (5) of this subsection; and
+264 (d) The provisions of this subdivision shall not apply
+265 unless the nursing home receives notice from the participant
+266 or the participant's responsible party that the participant
+267 intends to return to the nursing home following the hospital
+268 stay. If the nursing home receives such notification and
+269 all other provisions of this subsection have been satisfied,
+270 the nursing home shall provide notice to the participant or
+271 the participant's responsible party prior to release of the
+272 reserved bed;
+
+SB 1263 10
+273 (20) Prescribed medically necessary durable medical
+274 equipment. An electronic web-based prior authorization
+275 system using best medical evidence and care and treatment
+276 guidelines consistent with national standards shall be used
+277 to verify medical need;
+278 (21) Hospice care. As used in this subdivision, the
+279 term "hospice care" means a coordinated program of active
+280 professional medical attention within a home, outpatient and
+281 inpatient care which treats the terminally ill patient and
+282 family as a unit, employing a medically directed
+283 interdisciplinary team. The program provides relief of
+284 severe pain or other physical symptoms and supportive care
+285 to meet the special needs arising out of physical,
+286 psychological, spiritual, social, and economic stresses
+287 which are experienced during the final stages of illness,
+288 and during dying and bereavement and meets the Medicare
+289 requirements for participation as a hospice as are provided
+290 in 42 CFR Part 418. The rate of reimbursement paid by the
+291 MO HealthNet division to the hospice provider for room and
+292 board furnished by a nursing home to an eligible hospice
+293 patient shall not be less than ninety-five percent of the
+294 rate of reimbursement which would have been paid for
+295 facility services in that nursing home facility for that
+296 patient, in accordance with subsection (c) of Section 6408
+297 of P.L. 101-239 (Omnibus Budget Reconciliation Act of 1989);
+298 (22) Prescribed medically necessary dental services.
+299 Such services shall be subject to appropriations. An
+300 electronic web-based prior authorization system using best
+301 medical evidence and care and treatment guidelines
+302 consistent with national standards shall be used to verify
+303 medical need;
+
+SB 1263 11
+304 (23) Prescribed medically necessary optometric
+305 services. Such services shall be subject to
+306 appropriations. An electronic web-based prior authorization
+307 system using best medical evidence and care and treatment
+308 guidelines consistent with national standards shall be used
+309 to verify medical need;
+310 (24) Blood clotting products-related services. For
+311 persons diagnosed with a bleeding disorder, as defined in
+312 section 338.400, reliant on blood clotting products, as
+313 defined in section 338.400, such services include:
+314 (a) Home delivery of blood clotting products and
+315 ancillary infusion equipment and supplies, including the
+316 emergency deliveries of the product when medically necessary;
+317 (b) Medically necessary ancillary infusion equipment
+318 and supplies required to administer the blood clotting
+319 products; and
+320 (c) Assessments conducted in the participant's home by
+321 a pharmacist, nurse, or local home health care agency
+322 trained in bleeding disorders when deemed necessary by the
+323 participant's treating physician;
+324 (25) Medically necessary cochlear implants and hearing
+325 instruments, as defined in section 345.015, that are:
+326 (a) Prescribed by an audiologist, as defined in
+327 section 345.015; or
+328 (b) Dispensed by a hearing instrument specialist, as
+329 defined in section 346.010;
+330 (26) The MO HealthNet division shall, by January 1,
+331 2008, and annually thereafter, report the status of MO
+332 HealthNet provider reimbursement rates as compared to one
+333 hundred percent of the Medicare reimbursement rates and
+334 compared to the average dental reimbursement rates paid by
+335 third-party payors licensed by the state. The MO HealthNet
+
+SB 1263 12
+336 division shall, by July 1, 2008, provide to the general
+337 assembly a four-year plan to achieve parity with Medicare
+338 reimbursement rates and for third-party payor average dental
+339 reimbursement rates. Such plan shall be subject to
+340 appropriation and the division shall include in its annual
+341 budget request to the governor the necessary funding needed
+342 to complete the four-year plan developed under this
+343 subdivision;
+344 (27) Coverage for medically necessary physician-
+345 prescribed treatment for pediatric autoimmune
+346 neuropsychiatric disorders associated with streptococcal
+347 infections (PANDAS) and pediatric acute-onset
+348 neuropsychiatric syndrome (PANS) as described in section
+349 376.1293.
+350 2. Additional benefit payments for medical assistance
+351 shall be made on behalf of those eligible needy children,
+352 pregnant women and blind persons with any payments to be
+353 made on the basis of the reasonable cost of the care or
+354 reasonable charge for the services as defined and determined
+355 by the MO HealthNet division, unless otherwise hereinafter
+356 provided, for the following:
+357 (1) Dental services;
+358 (2) Services of podiatrists as defined in section
+359 330.010;
+360 (3) Optometric services as described in section
+361 336.010;
+362 (4) Orthopedic devices or other prosthetics, including
+363 eye glasses, dentures, and wheelchairs;
+364 (5) Hospice care. As used in this subdivision, the
+365 term "hospice care" means a coordinated program of active
+366 professional medical attention within a home, outpatient and
+367 inpatient care which treats the terminally ill patient and
+
+SB 1263 13
+368 family as a unit, employing a medically directed
+369 interdisciplinary team. The program provides relief of
+370 severe pain or other physical symptoms and supportive care
+371 to meet the special needs arising out of physical,
+372 psychological, spiritual, social, and economic stresses
+373 which are experienced during the final stages of illness,
+374 and during dying and bereavement and meets the Medicare
+375 requirements for participation as a hospice as are provided
+376 in 42 CFR Part 418. The rate of reimbursement paid by the
+377 MO HealthNet division to the hospice provider for room and
+378 board furnished by a nursing home to an eligible hospice
+379 patient shall not be less than ninety-five percent of the
+380 rate of reimbursement which would have been paid for
+381 facility services in that nursing home facility for that
+382 patient, in accordance with subsection (c) of Section 6408
+383 of P.L. 101-239 (Omnibus Budget Reconciliation Act of 1989);
+384 (6) Comprehensive day rehabilitation services
+385 beginning early posttrauma as part of a coordinated system
+386 of care for individuals with disabling impairments.
+387 Rehabilitation services must be based on an individualized,
+388 goal-oriented, comprehensive and coordinated treatment plan
+389 developed, implemented, and monitored through an
+390 interdisciplinary assessment designed to restore an
+391 individual to optimal level of physical, cognitive, and
+392 behavioral function. The MO HealthNet division shall
+393 establish by administrative rule the definition and criteria
+394 for designation of a comprehensive day rehabilitation
+395 service facility, benefit limitations and payment
+396 mechanism. Any rule or portion of a rule, as that term is
+397 defined in section 536.010, that is created under the
+398 authority delegated in this subdivision shall become
+399 effective only if it complies with and is subject to all of
+
+SB 1263 14
+400 the provisions of chapter 536 and, if applicable, section
+401 536.028. This section and chapter 536 are nonseverable and
+402 if any of the powers vested with the general assembly
+403 pursuant to chapter 536 to review, to delay the effective
+404 date, or to disapprove and annul a rule are subsequently
+405 held unconstitutional, then the grant of rulemaking
+406 authority and any rule proposed or adopted after August 28,
+407 2005, shall be invalid and void.
+408 3. The MO HealthNet division may require any
+409 participant receiving MO HealthNet benefits to pay part of
+410 the charge or cost until July 1, 2008, and an additional
+411 payment after July 1, 2008, as defined by rule duly
+412 promulgated by the MO HealthNet division, for all covered
+413 services except for those services covered under
+414 subdivisions (15) and (16) of subsection 1 of this section
+415 and sections 208.631 to 208.657 to the extent and in the
+416 manner authorized by Title XIX of the federal Social
+417 Security Act (42 U.S.C. Section 1396, et seq.) and
+418 regulations thereunder. When substitution of a generic drug
+419 is permitted by the prescriber according to section 338.056,
+420 and a generic drug is substituted for a name-brand drug, the
+421 MO HealthNet division may not lower or delete the
+422 requirement to make a co-payment pursuant to regulations of
+423 Title XIX of the federal Social Security Act. A provider of
+424 goods or services described under this section must collect
+425 from all participants the additional payment that may be
+426 required by the MO HealthNet division under authority
+427 granted herein, if the division exercises that authority, to
+428 remain eligible as a provider. Any payments made by
+429 participants under this section shall be in addition to and
+430 not in lieu of payments made by the state for goods or
+431 services described herein except the participant portion of
+
+SB 1263 15
+432 the pharmacy professional dispensing fee shall be in
+433 addition to and not in lieu of payments to pharmacists. A
+434 provider may collect the co-payment at the time a service is
+435 provided or at a later date. A provider shall not refuse to
+436 provide a service if a participant is unable to pay a
+437 required payment. If it is the routine business practice of
+438 a provider to terminate future services to an individual
+439 with an unclaimed debt, the provider may include uncollected
+440 co-payments under this practice. Providers who elect not to
+441 undertake the provision of services based on a history of
+442 bad debt shall give participants advance notice and a
+443 reasonable opportunity for payment. A provider,
+444 representative, employee, independent contractor, or agent
+445 of a pharmaceutical manufacturer shall not make co-payment
+446 for a participant. This subsection shall not apply to other
+447 qualified children, pregnant women, or blind persons. If
+448 the Centers for Medicare and Medicaid Services does not
+449 approve the MO HealthNet state plan amendment submitted by
+450 the department of social services that would allow a
+451 provider to deny future services to an individual with
+452 uncollected co-payments, the denial of services shall not be
+453 allowed. The department of social services shall inform
+454 providers regarding the acceptability of denying services as
+455 the result of unpaid co-payments.
+456 4. The MO HealthNet division shall have the right to
+457 collect medication samples from participants in order to
+458 maintain program integrity.
+459 5. Reimbursement for obstetrical and pediatric
+460 services under subdivision (6) of subsection 1 of this
+461 section shall be timely and sufficient to enlist enough
+462 health care providers so that care and services are
+463 available under the state plan for MO HealthNet benefits at
+
+SB 1263 16
+464 least to the extent that such care and services are
+465 available to the general population in the geographic area,
+466 as required under subparagraph (a)(30)(A) of 42 U.S.C.
+467 Section 1396a and federal regulations promulgated thereunder.
+468 6. Beginning July 1, 1990, reimbursement for services
+469 rendered in federally funded health centers shall be in
+470 accordance with the provisions of subsection 6402(c) and
+471 Section 6404 of P.L. 101-239 (Omnibus Budget Reconciliation
+472 Act of 1989) and federal regulations promulgated thereunder.
+473 7. Beginning July 1, 1990, the department of social
+474 services shall provide notification and referral of children
+475 below age five, and pregnant, breast-feeding, or postpartum
+476 women who are determined to be eligible for MO HealthNet
+477 benefits under section 208.151 to the special supplemental
+478 food programs for women, infants and children administered
+479 by the department of health and senior services. Such
+480 notification and referral shall conform to the requirements
+481 of Section 6406 of P.L. 101-239 and regulations promulgated
+482 thereunder.
+483 8. Providers of long-term care services shall be
+484 reimbursed for their costs in accordance with the provisions
+485 of Section 1902 (a)(13)(A) of the Social Security Act, 42
+486 U.S.C. Section 1396a, as amended, and regulations
+487 promulgated thereunder.
+488 9. Reimbursement rates to long-term care providers
+489 with respect to a total change in ownership, at arm's
+490 length, for any facility previously licensed and certified
+491 for participation in the MO HealthNet program shall not
+492 increase payments in excess of the increase that would
+493 result from the application of Section 1902 (a)(13)(C) of
+494 the Social Security Act, 42 U.S.C. Section 1396a (a)(13)(C).
+
+SB 1263 17
+495 10. The MO HealthNet division may enroll qualified
+496 residential care facilities and assisted living facilities,
+497 as defined in chapter 198, as MO HealthNet personal care
+498 providers.
+499 11. Any income earned by individuals eligible for
+500 certified extended employment at a sheltered workshop under
+501 chapter 178 shall not be considered as income for purposes
+502 of determining eligibility under this section.
+503 12. If the Missouri Medicaid audit and compliance unit
+504 changes any interpretation or application of the
+505 requirements for reimbursement for MO HealthNet services
+506 from the interpretation or application that has been applied
+507 previously by the state in any audit of a MO HealthNet
+508 provider, the Missouri Medicaid audit and compliance unit
+509 shall notify all affected MO HealthNet providers five
+510 business days before such change shall take effect. Failure
+511 of the Missouri Medicaid audit and compliance unit to notify
+512 a provider of such change shall entitle the provider to
+513 continue to receive and retain reimbursement until such
+514 notification is provided and shall waive any liability of
+515 such provider for recoupment or other loss of any payments
+516 previously made prior to the five business days after such
+517 notice has been sent. Each provider shall provide the
+518 Missouri Medicaid audit and compliance unit a valid email
+519 address and shall agree to receive communications
+520 electronically. The notification required under this
+521 section shall be delivered in writing by the United States
+522 Postal Service or electronic mail to each provider.
+523 13. Nothing in this section shall be construed to
+524 abrogate or limit the department's statutory requirement to
+525 promulgate rules under chapter 536.
+
+SB 1263 18
+526 14. Beginning July 1, 2016, and subject to
+527 appropriations, providers of behavioral, social, and
+528 psychophysiological services for the prevention, treatment,
+529 or management of physical health problems shall be
+530 reimbursed utilizing the behavior assessment and
+531 intervention reimbursement codes 96150 to 96154 or their
+532 successor codes under the Current Procedural Terminology
+533 (CPT) coding system. Providers eligible for such
+534 reimbursement shall include psychologists.
+535 15. There shall be no payments made under this section
+536 for gender transition surgeries, cross-sex hormones, or
+537 puberty-blocking drugs, as such terms are defined in section
+538 191.1720, for the purpose of a gender transition.
+1 376.1293. 1. This act shall be known and may be cited
+2 as "Colton's Law".
+3 2. Each health carrier of health benefit plans that
+4 offers or issues health benefit plans which are delivered,
+5 issued for delivery, continued, or renewed in this state on
+6 or after January 1, 2027, shall provide coverage for
+7 medically necessary physician-prescribed treatment for
+8 pediatric autoimmune neuropsychiatric disorders associated
+9 with streptococcal infections (PANDAS) and pediatric acute-
+10 onset neuropsychiatric syndrome (PANS). Coverage for such
+11 treatment shall include, but not be limited to:
+12 (1) Antibiotics;
+13 (2) Medication;
+14 (3) Behavioral therapies to manage neuropsychiatric
+15 symptoms;
+16 (4) Immunomodulating medicines;
+17 (5) Plasma exchange; and
+18 (6) Intravenous immunoglobulin therapy.
+
+SB 1263 19
+19 3. Benefits provided under this section shall not be
+20 subject to any greater copayment, coinsurance, or deductible
+21 than similar benefits provided by the health benefit plan.
+22 Authorization for such benefits shall be provided in a
+23 timely manner consistent with those provided for urgent
+24 treatments.
+25 4. A health carrier or health benefit plan shall not
+26 deny or delay coverage for medically necessary treatment
+27 under this section solely because the recipient previously
+28 received treatment, including the same or similar treatment,
+29 for PANDAS or PANS, or because the recipient has been
+30 diagnosed with or received treatment for their condition
+31 under a different diagnostic name, such as autoimmune
+32 encephalopathy.
+33 5. For the purposes of this section, coverage of
+34 PANDAS and PANS shall adhere to the treatment
+35 recommendations developed by a health care professional
+36 consortium convened for the purpose of researching,
+37 identifying, and publishing best practice standards for
+38 diagnosis and treatment of such disorders that are
+39 accessible for health care professionals and are based on
+40 evidence of positive patient outcomes.
+41 6. Coverage for a form of medically necessary
+42 treatment under this section shall not be limited over the
+43 lifetime of the recipient or by the duration of a policy
+44 period.
+45 7. The provisions of this section shall not be
+46 construed to prohibit a health carrier or health benefit
+47 plan from requesting treatment notes and information on the
+48 anticipated duration of treatment and outcome.
+49 8. The provisions of this section shall not apply to a
+50 supplemental insurance policy, including a life care
+
+SB 1263 20
+51 contract, accident-only policy, specified disease policy,
+52 hospital policy providing a fixed daily benefit only,
+53 Medicare supplement policy, long-term care policy, short-
+54 term major medical policies of six months or less duration,
+55 or any other supplemental policy as determined by the
+56 director of the department of commerce and insurance.
+✓
