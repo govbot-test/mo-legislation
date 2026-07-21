@@ -679,6 +679,28 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:05:21Z"
       }
+    },
+    {
+      "description": "Approved by Governor (G)",
+      "date": "2026-07-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T03:37:57Z"
+      }
+    },
+    {
+      "description": "Delivered to Secretary of State (G)",
+      "date": "2026-07-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T03:37:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -888,6 +910,17 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Note 6321S.11T.ORG",
+      "links": [
+        {
+          "url": "https://documents.house.mo.gov/billtracking/bills261/fiscal/fispdf/6321S.11T.ORG.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Summary (Witnesses)",
       "links": [
         {
@@ -918,7 +951,7 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:21Z",
+    "logs_latest_update": "2026-07-21T03:37:57Z",
     "text_extraction_latest_update": "2026-07-13T07:01:22.436334Z"
   }
 }

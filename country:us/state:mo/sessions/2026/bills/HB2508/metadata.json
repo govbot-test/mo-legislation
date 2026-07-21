@@ -439,6 +439,28 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:05:23Z"
       }
+    },
+    {
+      "description": "Approved by Governor (G)",
+      "date": "2026-07-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T03:37:57Z"
+      }
+    },
+    {
+      "description": "Delivered to Secretary of State (G)",
+      "date": "2026-07-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T03:37:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -662,7 +684,7 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:23Z",
+    "logs_latest_update": "2026-07-21T03:37:57Z",
     "text_extraction_latest_update": "2026-07-13T06:49:32.843742Z"
   }
 }
